@@ -1,0 +1,64 @@
+name: cleanup
+
+on:
+  schedule:
+    # Her pazartesi 04:17 UTC (haftalık temizlik)
+    - cron: "17 4 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+timeout-minutes: 15
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Depoyu indir
+        uses: actions/checkout@v4
+
+      - name: Eski görselleri temizle (30 gün)
+        run: |
+          python3 - <<'PY'
+          import os, shutil
+          from datetime import datetime, timedelta, timezone
+
+          cutoff = datetime.now(timezone.utc) - timedelta(days=30)
+          output = "output"
+          removed = 0
+          if not os.path.isdir(output):
+              print("output/ yok, temizlik gerekmiyor.")
+              raise SystemExit(0)
+          for date_dir in sorted(os.listdir(output)):
+              date_path = os.path.join(output, date_dir)
+              if not os.path.isdir(date_path):
+                  continue
+              try:
+                  dir_date = datetime.strptime(date_dir, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+              except ValueError:
+                  continue
+              if dir_date >= cutoff:
+                  continue
+              # Yalnızca images/ klasörlerini sil; slaytlar ve kanıtlar kalır
+              for post_dir in os.listdir(date_path):
+                  images = os.path.join(date_path, post_dir, "images")
+                  if os.path.isdir(images):
+                      shutil.rmtree(images)
+                      removed += 1
+                      print(f"Silindi: {images}")
+          print(f"Toplam {removed} images/ klasörü temizlendi.")
+          PY
+
+      - name: Değişiklikleri commit et
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A output
+          if git diff --cached --quiet; then
+            echo "Temizlenecek dosya yok."
+          else
+            git commit -m "🧹 cleanup: 30 günden eski images/ klasörleri temizlendi"
+            git pull --rebase || true
+            git push
+          fi

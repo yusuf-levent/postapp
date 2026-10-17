@@ -1,0 +1,65 @@
+name: tools
+
+on:
+  workflow_dispatch:
+    inputs:
+      tool:
+        type: choice
+        description: "Çalıştırılacak yardımcı araç"
+        options:
+          - list_buffer_profiles
+          - refresh_threads_token
+        default: list_buffer_profiles
+      force:
+        type: boolean
+        default: false
+        description: "refresh_threads_token için: tarih kontrolü olmadan yenile"
+
+permissions:
+  contents: write
+
+timeout-minutes: 10
+
+jobs:
+  tools:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Depoyu indir
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Bağımlılıkları kur
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Buffer profil listesi
+        if: github.event.inputs.tool == 'list_buffer_profiles'
+        env:
+          BUFFER_ACCESS_TOKEN_A: ${{ secrets.BUFFER_ACCESS_TOKEN_A }}
+          BUFFER_ACCESS_TOKEN_B: ${{ secrets.BUFFER_ACCESS_TOKEN_B }}
+        run: python -m app.tools.list_buffer_profiles
+
+      - name: Threads token yenile
+        if: github.event.inputs.tool == 'refresh_threads_token'
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          python -m app.tools.refresh_threads_token \
+            ${{ github.event.inputs.force == 'true' && '--force' || '' }}
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/token_state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "🤖 token: Threads token durumu güncellendi"
+            git pull --rebase || true
+            git push
+          fi
