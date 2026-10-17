@@ -143,6 +143,17 @@ def publish_all(
         if not wait_for_public_urls(image_urls):
             log.warning("Görsel URL'leri zamanında herkese açılmadı, devam ediliyor")
 
+    existing_map: dict[str, PlatformStatus] = {}
+    status_file = post_dir / "status.json"
+    if status_file.exists():
+        try:
+            raw_st = json.loads(status_file.read_text(encoding="utf-8")).get("platforms", {})
+            for k, v in raw_st.items():
+                if isinstance(v, dict):
+                    existing_map[k] = PlatformStatus.model_validate(v)
+        except Exception:
+            pass
+
     for name, rules in platforms.items():
         if name not in captions:
             continue
@@ -158,6 +169,7 @@ def publish_all(
             image_urls=plat_urls,
             channel_id=channel_id,
             account=account,
+            status=existing_map.get(name),
             thread_replies=thread_replies,
         )
         statuses[name] = status

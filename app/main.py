@@ -36,7 +36,7 @@ from app.select.dedup import is_duplicate, normalize_url
 from app.select.scoring import build_source_index, score_candidates
 from app.store import history as history_store
 from app.store.git_ops import commit_and_push
-from app.store.issues import close_resolved_issues, open_issue
+from app.store.issues import close_resolved_issues, notify_post_published, open_issue
 from app.verify.crosscheck import (
     corroborating_from_rss,
     crosscheck_query,
@@ -304,6 +304,18 @@ def run(
         if st.state == "published":
             close_resolved_issues(st.platform)
 
+    if not dry_run:
+        notify_post_published(
+            date_label=date_label,
+            slot=slot,
+            ptype=ptype,
+            title_tr=title_tr,
+            statuses=statuses,
+            image_urls=image_urls,
+            caption_preview=status_caption_map.get("instagram", ""),
+            source_urls=[selected.url] if selected else [],
+        )
+
     # 19) Gün özeti
     _update_daily_summary(date_label)
     summary_path = OUTPUT_DIR / date_label / "daily_summary.md"
@@ -441,6 +453,17 @@ def _publish_existing_dry_run(
     for st in statuses.values():
         if st.state == "published":
             close_resolved_issues(st.platform)
+
+    notify_post_published(
+        date_label=date_label,
+        slot=slot,
+        ptype=ptype,
+        title_tr=title_tr,
+        statuses=statuses,
+        image_urls=image_urls,
+        caption_preview=status_caption_map.get("instagram", ""),
+        source_urls=[canonical_url] if canonical_url else [],
+    )
 
     _update_daily_summary(date_label)
     summary_path = OUTPUT_DIR / date_label / "daily_summary.md"
@@ -790,35 +813,30 @@ def _channel_map() -> dict[str, tuple[str, str]]:
                     break
             out[platform] = (account, channel_id)
 
-    # Eksik kanal ID'lerini Buffer API'den otomatik keşfet
-    missing = [p for p, (_, cid) in out.items() if not cid]
-    if missing:
-        try:
-            profiles = list_profiles()
-            service_to_platform = {
-                "instagram": "instagram",
-                "tiktok": "tiktok",
-                "twitter": "x",
-                "x": "x",
-                "facebook": "facebook",
-                "linkedin": "linkedin",
-            }
-            for prof in profiles:
-                svc = (prof.get("service") or "").lower()
-                plat = service_to_platform.get(svc, "")
-                cid = prof.get("channel_id", "")
-                acc = prof.get("account", "A")
-                if plat in missing and cid:
-                    # Bağlı (disconnected=False) kanalı tercih et
-                    _, existing_cid = out.get(plat, (acc, ""))
-                    if not existing_cid or prof.get("disconnected") == "False":
-                        out[plat] = (acc, cid)
-                        log.info(
-                            "Buffer kanalı otomatik keşfedildi: %s → hesap %s (%s)",
-                            plat, acc, cid,
-                        )
-        except Exception as exc:
-            log.warning("Buffer kanal otomatik keşfi başarısız: %s", exc)
+    # Buffer API'den canlı kanal/hesap (A/B) eşleşmelerini doğrula ve eksikleri tamamla
+    try:
+        profiles = list_profiles()
+        service_to_platform = {
+            "instagram": "instagram",
+            "tiktok": "tiktok",
+            "twitter": "x",
+            "x": "x",
+            "facebook": "facebook",
+            "linkedin": "linkedin",
+        }
+        for prof in profiles:
+            svc = (prof.get("service") or "").lower()
+            plat = service_to_platform.get(svc, "")
+            cid = prof.get("channel_id", "")
+            acc = prof.get("account", "A")
+            if plat and cid and prof.get("disconnected") == "False":
+                out[plat] = (acc, cid)
+                log.info(
+                    "Buffer kanalı doğrulandı: %s → hesap %s (%s)",
+                    plat, acc, cid,
+                )
+    except Exception as exc:
+        log.warning("Buffer kanal otomatik keşfi başarısız: %s", exc)
 
     return out
 

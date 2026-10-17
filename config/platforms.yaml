@@ -5,11 +5,11 @@
 accounts:
   A:                      # BUFFER_ACCESS_TOKEN_A
     - instagram
-    - tiktok
-    - linkedin
-  B:                      # BUFFER_ACCESS_TOKEN_B
     - x
     - facebook
+  B:                      # BUFFER_ACCESS_TOKEN_B
+    - tiktok
+    - linkedin
 
 # Buffer GraphQL API (developers.buffer.com, doğrulanmış: 2026-10)
 buffer:
