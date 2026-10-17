@@ -18,11 +18,10 @@ on:
 permissions:
   contents: write
 
-timeout-minutes: 10
-
 jobs:
   tools:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Depoyu indir
         uses: actions/checkout@v4
