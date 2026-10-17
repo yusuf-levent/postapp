@@ -76,16 +76,28 @@ def run(
     log.info("Slot: %s (%s), tarih: %s, tip: %s, dry_run: %s",
              slot, now_istanbul().strftime("%H:%M"), date_label, ptype, dry_run)
 
-    # 2) Idempotent kontrol: aynı slot için zaten post var mı?
+    llm = GeminiClient()
+
+    # 2) Kurtarma turu: son 24 saatte failed/pending olanlar
+    _recovery_pass(llm, dry_run=dry_run)
+
+    # 3) Idempotent kontrol: aynı slot için zaten yayınlanmış post var mı?
     if history_store.slot_already_done(date_label, slot):
         log.info("Bu slot için zaten post üretilmiş (%s %s), tekrar üretilmiyor.",
                  date_label, slot)
         return 0
 
-    llm = GeminiClient()
-
-    # 3) Kurtarma turu: son 24 saatte failed/pending olanlar
-    _recovery_pass(llm, dry_run=dry_run)
+    # 3b) Eğer bu slot için daha önce dry_run ile üretilmiş hazır bir post klasörü varsa,
+    # yeniden üretmek yerine doğrudan onu yayınla!
+    if not dry_run:
+        existing_rc = _publish_existing_dry_run(
+            date_label=date_label,
+            slot=slot,
+            force_type=force_type,
+            started=started,
+        )
+        if existing_rc is not None:
+            return existing_rc
 
     # 4) Toplama
     all_candidates = collect_all(max_days=sched["max_lookback_days"], include_official=True)
@@ -248,9 +260,10 @@ def run(
         date_label, post_dir, rendered.get("slides_9x16", []), subdir="slides_9x16"
     )
     status_caption_map = {
-        k: getattr(captions, k).text for k in ("instagram", "tiktok", "x", "threads", "linkedin", "facebook")
+        k: _format_caption_text(k, getattr(captions, k).text, getattr(captions, k).hashtags)
+        for k in ("instagram", "tiktok", "x", "threads", "linkedin", "facebook")
     }
-    thread_replies = _thread_replies(captions.x.text, image_urls)
+    thread_replies = _thread_replies(status_caption_map["x"], image_urls)
 
     statuses = publish_all(
         post_dir,
@@ -315,6 +328,139 @@ def run(
 
 
 # ============================================================ yardımcı fonksiyonlar
+def _format_caption_text(platform: str, text: str, hashtags: list[str] | None = None) -> str:
+    """Açıklama metnine platform karakter/byte limitini aşmayacak şekilde hashtag ekler."""
+    base = (text or "").strip()
+    if not hashtags:
+        return base
+    rules = platforms_config().platforms.get(platform)
+    limit = rules.limit if rules else 2000
+    tags_str = " ".join(f"#{h.lstrip('#').strip()}" for h in hashtags if h.lstrip("#").strip())
+    if not tags_str or tags_str in base:
+        return base
+    combined = f"{base}\n\n{tags_str}"
+    length = len(combined.encode("utf-8")) if platform == "threads" else len(combined)
+    if length <= limit:
+        return combined
+    return base
+
+
+def _publish_existing_dry_run(
+    *,
+    date_label: str,
+    slot: str,
+    force_type: str,
+    started: float,
+) -> int | None:
+    """Aynı gün ve slot için dry_run ile üretilmiş hazır bir klasör varsa onu yayınlar."""
+    date_dir = OUTPUT_DIR / date_label
+    if not date_dir.exists():
+        return None
+    slot_compact = slot.replace(":", "")
+    candidates = sorted(
+        [d for d in date_dir.iterdir() if d.is_dir() and slot_compact in d.name],
+        reverse=True,
+    )
+    target_dir: Path | None = None
+    for d in candidates:
+        status_file = d / "status.json"
+        captions_file = d / "captions.json"
+        meta_file = d / "meta.json"
+        if not (status_file.exists() and captions_file.exists()):
+            continue
+        try:
+            st_data = json.loads(status_file.read_text(encoding="utf-8"))
+            meta_data = json.loads(meta_file.read_text(encoding="utf-8")) if meta_file.exists() else {}
+        except Exception:
+            continue
+        if not st_data.get("dry_run"):
+            continue
+        if force_type in ("news", "edu") and meta_data.get("type") and meta_data.get("type") != force_type:
+            continue
+        target_dir = d
+        break
+
+    if target_dir is None:
+        return None
+
+    log.info("Mevcut dry-run post klasörü bulundu, doğrudan yayınlanıyor: %s", target_dir.name)
+    cap_doc = json.loads((target_dir / "captions.json").read_text(encoding="utf-8"))
+    meta_doc = (
+        json.loads((target_dir / "meta.json").read_text(encoding="utf-8"))
+        if (target_dir / "meta.json").exists()
+        else {}
+    )
+    raw_caps = cap_doc.get("captions", {})
+    status_caption_map: dict[str, str] = {}
+    for k, v in raw_caps.items():
+        if isinstance(v, dict):
+            status_caption_map[k] = _format_caption_text(k, v.get("text", ""), v.get("hashtags", []))
+        else:
+            status_caption_map[k] = str(v)
+
+    slide_paths = sorted((target_dir / "slides").glob("slide-*.png"))
+    slide_916_paths = sorted((target_dir / "slides_9x16").glob("slide-*.png"))
+    image_urls = _public_urls(date_label, target_dir, slide_paths)
+    image_urls_9x16 = _public_urls(date_label, target_dir, slide_916_paths, subdir="slides_9x16")
+    thread_replies = _thread_replies(status_caption_map.get("x", ""), image_urls)
+
+    statuses = publish_all(
+        target_dir,
+        captions=status_caption_map,
+        image_urls=image_urls,
+        image_urls_9x16=image_urls_9x16,
+        channel_map=_channel_map(),
+        thread_replies=thread_replies,
+        dry_run=False,
+    )
+
+    canonical_url = cap_doc.get("canonical_url") or meta_doc.get("canonical_url") or ""
+    title_tr = cap_doc.get("title_tr") or target_dir.name
+    ptype = meta_doc.get("type") or ("news" if force_type == "news" else "edu")
+    entry = HistoryEntry(
+        id=f"{date_label}-{slot.replace(':', '')}",
+        date=date_label,
+        slot=slot,
+        type=ptype,
+        title_tr=title_tr,
+        original_title=title_tr,
+        source_urls=[canonical_url] if canonical_url else [],
+        canonical_url=normalize_url(canonical_url) if canonical_url else "",
+        entities=[],
+        event_type="",
+        embedding=[],
+        status_per_platform=list(statuses.values()),
+        created_at=now_istanbul().isoformat(timespec="seconds"),
+        verified_claims_count=1,
+    )
+    history_store.append_entry(entry)
+
+    failed = [s for s in statuses.values() if s.state == "failed"]
+    for st in failed:
+        open_issue(st.platform, date_label, st.last_error)
+    for st in statuses.values():
+        if st.state == "published":
+            close_resolved_issues(st.platform)
+
+    _update_daily_summary(date_label)
+    summary_path = OUTPUT_DIR / date_label / "daily_summary.md"
+    commit_and_push(
+        f"🤖 status: {date_label} {slot}",
+        [
+            "data/history.json",
+            "data/token_state.json",
+            target_dir.relative_to(_repo_root()),
+            summary_path.relative_to(_repo_root()),
+        ],
+    )
+    elapsed = time.time() - started
+    log.info("Mevcut post yayınlandı: %s (%.1fs)", target_dir.name, elapsed)
+    if failed:
+        log.error("%d platformda paylaşım hatası var.", len(failed))
+        return 1
+    return 0
+
+
 def _verify_candidate(
     llm: GeminiClient,
     candidate: Candidate,
@@ -413,7 +559,11 @@ def _recovery_pass(llm: GeminiClient, *, dry_run: bool) -> None:
                 (post_dir / "captions.json").read_text(encoding="utf-8")
             )["captions"]
             captions = {
-                k: (v["text"] if isinstance(v, dict) else str(v))
+                k: (
+                    _format_caption_text(k, v.get("text", ""), v.get("hashtags", []))
+                    if isinstance(v, dict)
+                    else str(v)
+                )
                 for k, v in raw_caps.items()
             }
             image_urls = _public_urls(
@@ -450,7 +600,7 @@ def _find_post_dir(entry: HistoryEntry) -> Path | None:
     if not date_dir.exists():
         return None
     slot_compact = entry.slot.replace(":", "")
-    for d in sorted(date_dir.iterdir()):
+    for d in sorted(date_dir.iterdir(), reverse=True):
         if d.is_dir() and slot_compact in d.name:
             return d
     return None

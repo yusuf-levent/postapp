@@ -200,27 +200,58 @@ class BufferClient:
                 asset["image"]["metadata"] = {"altText": alt}
             assets.append({"image": asset["image"]})
 
-        meta: dict[str, Any] = {}
         service = PLATFORM_SERVICE_KEY.get(platform, "")
+        meta_candidates: list[dict[str, Any]] = [{}]
         if service == "instagram":
-            meta["instagram"] = {"shouldShareToFeed": True, "type": "post"}
+            ig_type = "carousel" if len(image_urls) > 1 else "post"
+            meta_candidates = [
+                {"instagram": {"shouldShareToFeed": True, "type": ig_type}},
+                {"instagram": {"shouldShareToFeed": True, "type": "post"}},
+                {},
+            ]
+        elif service == "facebook":
+            meta_candidates = [
+                {"facebook": {"type": "post"}},
+                {},
+            ]
         elif service == "tiktok":
-            meta["tiktok"] = {}
+            first_line = (text.split("\n")[0] if text else "").strip()[:80]
+            meta_candidates = [
+                {"tiktok": {"title": first_line}} if first_line else {"tiktok": {}},
+                {},
+            ]
 
-        input_obj: dict[str, Any] = {
-            "channelId": channel_id,
-            "text": text,
-            "assets": assets,
-            "mode": "shareNow" if share_now else "addToQueue",
-            "schedulingType": "automatic",
-            "source": "tekno-pusula",
-        }
-        if meta:
-            input_obj["metadata"] = meta
-
-        data = self._post(MUTATION_CREATE_POST, {"input": input_obj})
-        payload = data.get("createPost") or {}
-        typename = payload.get("__typename", "")
+        payload: dict[str, Any] = {}
+        typename = ""
+        last_err: Exception | None = None
+        for meta in meta_candidates:
+            input_obj: dict[str, Any] = {
+                "channelId": channel_id,
+                "text": text,
+                "assets": assets,
+                "mode": "shareNow" if share_now else "addToQueue",
+                "schedulingType": "automatic",
+                "source": "tekno-pusula",
+            }
+            if meta:
+                input_obj["metadata"] = meta
+            try:
+                data = self._post(MUTATION_CREATE_POST, {"input": input_obj})
+                payload = data.get("createPost") or {}
+                typename = payload.get("__typename", "")
+                if typename == "InvalidInputError" and len(meta_candidates) > 1:
+                    log.warning("Buffer metadata denemesi (%s) InvalidInputError döndü: %s", meta, payload.get("message"))
+                    continue
+                last_err = None
+                break
+            except PermanentError as exc:
+                last_err = exc
+                if "GraphQL hatası" in str(exc) and len(meta_candidates) > 1:
+                    log.warning("Buffer metadata denemesi (%s) şema hatası döndü: %s", meta, exc)
+                    continue
+                raise
+        if last_err is not None:
+            raise last_err
 
         if typename == "PostActionSuccess":
             post = payload.get("post", {})
@@ -281,7 +312,7 @@ class BufferClient:
     ) -> dict[str, Any]:
         """X thread: kök tweet (ilk 4 görsel) + yanıt tweetleri (5-6. görseller)."""
         root_assets = [
-            {"image": {"url": u, "metadata": {"altText": ""}}}
+            {"image": {"url": u}}
             for u in (root_images or [])[:4]
         ]
         thread_items: list[dict[str, Any]] = [
@@ -289,7 +320,7 @@ class BufferClient:
         ]
         for reply in replies:
             assets = [
-                {"image": {"url": u, "metadata": {"altText": ""}}}
+                {"image": {"url": u}}
                 for u in reply.get("images", [])
             ]
             thread_items.append({"text": reply["text"], "assets": assets})
@@ -303,17 +334,27 @@ class BufferClient:
             "source": "tekno-pusula",
             "metadata": {"twitter": {"thread": thread_items}},
         }
-        data = self._post(MUTATION_CREATE_POST, {"input": input_obj})
-        payload = data.get("createPost") or {}
-        if payload.get("__typename") == "PostActionSuccess":
-            post = payload.get("post", {})
-            return {
-                "id": post.get("id", ""),
-                "status": post.get("status", ""),
-                "externalLink": post.get("externalLink", ""),
-            }
-        message = payload.get("message", "")
-        raise TransientError(f"Buffer thread hatası: {message}")
+        try:
+            data = self._post(MUTATION_CREATE_POST, {"input": input_obj})
+            payload = data.get("createPost") or {}
+            if payload.get("__typename") == "PostActionSuccess":
+                post = payload.get("post", {})
+                return {
+                    "id": post.get("id", ""),
+                    "status": post.get("status", ""),
+                    "externalLink": post.get("externalLink", ""),
+                }
+            message = payload.get("message", "")
+            log.warning("Buffer X thread reddedildi (%s), 4 görselli tek post olarak paylaşılıyor.", message)
+        except Exception as exc:
+            log.warning("Buffer X thread hatası (%s), 4 görselli tek post olarak paylaşılıyor.", exc)
+        return self.create_post(
+            channel_id=channel_id,
+            text=root_text,
+            image_urls=(root_images or [])[:4],
+            share_now=True,
+            platform="x",
+        )
 
 
 def client_for_account(account: str) -> BufferClient:
