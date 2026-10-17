@@ -1,0 +1,10 @@
+{
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 80.8,
+  "candidates_tried": 1,
+  "gemini_calls": 15,
+  "canonical_url": "https://www.engadget.com/2289629/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027/",
+  "generated_at": "2026-10-17T22:06:15+03:00"
+}
