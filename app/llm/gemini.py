@@ -22,7 +22,7 @@ log = logging.getLogger("tekno-pusula.gemini")
 # Ücretsiz katman için istekler arası minimum bekleme (saniye)
 MIN_INTERVAL_SECONDS = 2.0
 
-RETRYABLE_STATUS = {429, 500, 502, 503, 504}
+RETRYABLE_STATUS = {404, 429, 500, 502, 503, 504}
 
 
 class LLMError(RuntimeError):

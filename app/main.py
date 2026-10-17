@@ -161,8 +161,8 @@ def run(
     # 8) Doğrulama raporu
     write_verification_report(
         post_dir,
-        title=selected.title,
-        canonical_url=selected.url,
+        title=selected.title if selected else "Eğitim İçeriği",
+        canonical_url=selected.url if selected else "",
         source_names=source_names,
         verifications=verifications,
         source_texts=source_texts,
@@ -173,8 +173,8 @@ def run(
 
     # 9) İçerik üretimi
     if ptype == "edu":
-        claims_text = "\n".join(f"- {v.claim}" for v in verified_claims)
-        deck_model = generate_edu_deck(llm, claims_text, source_names)
+        claims_text = "\n".join(f"- {v.claim}" for v in verified_claims) or "Yapay zeka, büyük dil modelleri (LLM), çip mimarileri ve modern yazılım mühendisliği kavramları."
+        deck_model = generate_edu_deck(llm, claims_text, source_names or ["Tekno Pusula"])
         deck = _edu_deck_to_dict(deck_model)
     else:
         deck_model = generate_slides(llm, verified_claims, source_names)
@@ -186,8 +186,8 @@ def run(
     )
 
     # 10) Görseller + logo
-    entities = selected.entities or []
-    images = collect_images(llm, selected, entities, post_dir)
+    entities = (selected.entities or []) if selected else []
+    images = collect_images(llm, selected, entities, post_dir) if selected else []
     bg_image_paths: list[str] = []
     if images:
         bg_image_paths = [img.local_path for img in images if img.local_path]
