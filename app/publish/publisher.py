@@ -97,8 +97,8 @@ def publish_platform(
     result = with_retry(_do, max_attempts=3, label=f"publish:{platform}")
     if result.ok:
         value = result.value or {}
-        st.external_id = value.get("id", "")
-        st.permalink = value.get("permalink") or value.get("externalLink", "")
+        st.external_id = str(value.get("id") or "")
+        st.permalink = str(value.get("permalink") or value.get("externalLink") or "")
         st.state = "published"
         st.last_error = ""
     else:

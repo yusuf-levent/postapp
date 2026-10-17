@@ -203,9 +203,7 @@ class BufferClient:
         service = PLATFORM_SERVICE_KEY.get(platform, "")
         meta_candidates: list[dict[str, Any]] = [{}]
         if service == "instagram":
-            ig_type = "carousel" if len(image_urls) > 1 else "post"
             meta_candidates = [
-                {"instagram": {"shouldShareToFeed": True, "type": ig_type}},
                 {"instagram": {"shouldShareToFeed": True, "type": "post"}},
                 {},
             ]

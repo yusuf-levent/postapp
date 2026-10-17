@@ -1,52 +1,52 @@
 {
-  "dry_run": true,
+  "dry_run": false,
   "platforms": {
     "instagram": {
       "platform": "instagram",
-      "state": "pending",
-      "external_id": "",
+      "state": "published",
+      "external_id": "6ad3cac0769b45793490203c",
       "permalink": "",
-      "attempts": 0,
+      "attempts": 1,
       "last_error": ""
     },
     "tiktok": {
       "platform": "tiktok",
-      "state": "pending",
-      "external_id": "",
+      "state": "published",
+      "external_id": "6ad3cad70a208cb32335269b",
       "permalink": "",
-      "attempts": 0,
+      "attempts": 1,
       "last_error": ""
     },
     "x": {
       "platform": "x",
-      "state": "pending",
-      "external_id": "",
+      "state": "published",
+      "external_id": "buffer-thread",
       "permalink": "",
-      "attempts": 0,
+      "attempts": 1,
       "last_error": ""
     },
     "threads": {
       "platform": "threads",
-      "state": "pending",
-      "external_id": "",
-      "permalink": "",
-      "attempts": 0,
+      "state": "published",
+      "external_id": "18114123173149411",
+      "permalink": "https://www.threads.com/@tekno_pusula/post/Dem2X3pD5E4",
+      "attempts": 1,
       "last_error": ""
     },
     "linkedin": {
       "platform": "linkedin",
-      "state": "pending",
-      "external_id": "",
+      "state": "published",
+      "external_id": "6ad3cb140b0d72757aefec29",
       "permalink": "",
-      "attempts": 0,
+      "attempts": 1,
       "last_error": ""
     },
     "facebook": {
       "platform": "facebook",
-      "state": "pending",
-      "external_id": "",
+      "state": "published",
+      "external_id": "6ad3cb2b0b0d72757aefee3a",
       "permalink": "",
-      "attempts": 0,
+      "attempts": 1,
       "last_error": ""
     }
   }

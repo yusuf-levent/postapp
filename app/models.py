@@ -4,7 +4,7 @@ from __future__ import annotations
 from datetime import datetime
 from typing import Any, Literal
 
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, field_validator
 
 
 # ------------------------------------------------------------------ doğrulama
@@ -172,6 +172,11 @@ class PlatformStatus(BaseModel):
     permalink: str = ""
     attempts: int = 0
     last_error: str = ""
+
+    @field_validator("external_id", "permalink", "last_error", mode="before")
+    @classmethod
+    def _coerce_none_str(cls, v: Any) -> str:
+        return "" if v is None else str(v)
 
 
 class HistoryEntry(BaseModel):

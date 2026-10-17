@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "id": "2026-10-17-2100",
+    "date": "2026-10-17",
+    "slot": "21:00",
+    "type": "news",
+    "title_tr": "APPLE KATLANABİLİR İPHONE İLE PAZARA GİRDİ",
+    "original_title": "iPhone Duo shipping estimates have already been pushed back to 2027",
+    "source_urls": [
+      "https://www.engadget.com/2289629/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027/"
+    ],
+    "canonical_url": "https://www.engadget.com/2289629/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027",
+    "entities": [
+      "Apple",
+      "iPhone Duo"
+    ],
+    "event_type": "ürün lansmanı ve ön sipariş",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ad3cac0769b45793490203c",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ad3cad70a208cb32335269b",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "buffer-thread",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18114123173149411",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/Dem2X3pD5E4",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ad3cb140b0d72757aefec29",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ad3cb2b0b0d72757aefee3a",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-17T22:23:35+03:00",
+    "verified_claims_count": 7
+  }
+]
