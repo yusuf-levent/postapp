@@ -72,6 +72,15 @@ class GeminiClient:
             raise
 
     # ------------------------------------------------------- structured output
+    @staticmethod
+    def _thinking(model_name: str) -> Any:
+        if "3." in model_name and hasattr(genai_types, "ThinkingConfig"):
+            try:
+                return genai_types.ThinkingConfig(thinking_level="low")
+            except Exception:
+                return None
+        return None
+
     def generate_structured(
         self,
         prompt: str,
@@ -88,6 +97,7 @@ class GeminiClient:
                 response_schema=schema,
                 system_instruction=system,
                 temperature=0.2,
+                thinking_config=self._thinking(model_name),
             )
             return self._client.models.generate_content(
                 model=model_name, contents=prompt, config=config
@@ -132,7 +142,9 @@ class GeminiClient:
     ) -> str:
         def run(model_name: str) -> Any:
             config = genai_types.GenerateContentConfig(
-                system_instruction=system, temperature=temperature
+                system_instruction=system,
+                temperature=temperature,
+                thinking_config=self._thinking(model_name),
             )
             return self._client.models.generate_content(
                 model=model_name, contents=prompt, config=config
@@ -163,7 +175,9 @@ class GeminiClient:
 
         def run(model_name: str) -> Any:
             config = genai_types.GenerateContentConfig(
-                system_instruction=system, temperature=0.1
+                system_instruction=system,
+                temperature=0.1,
+                thinking_config=self._thinking(model_name),
             )
             return self._client.models.generate_content(
                 model=model_name, contents=parts, config=config
@@ -181,11 +195,13 @@ class GeminiClient:
         Dönüş: [{"url": ..., "title": ...}, ...] — yalnızca allowed_domains
         içindeki domainler kabul edilir (whitelist dışı sonuçlar atılır).
         """
+        import requests
 
         def run(model_name: str) -> Any:
             config = genai_types.GenerateContentConfig(
                 tools=[genai_types.Tool(google_search=genai_types.GoogleSearch())],
                 temperature=0.1,
+                thinking_config=self._thinking(model_name),
             )
             return self._client.models.generate_content(
                 model=model_name, contents=prompt, config=config
@@ -196,9 +212,24 @@ class GeminiClient:
         seen: set[str] = set()
         for cand in _extract_grounding_chunks(resp):
             url = cand.get("url", "")
-            if not url or url in seen:
+            title = cand.get("title", "")
+            if not url:
                 continue
-            if not any(d in url.lower() for d in allowed_domains):
+            combined = f"{url} {title}".lower()
+            if "vertexaisearch.cloud.google.com" in url.lower() and any(
+                d in combined for d in allowed_domains
+            ):
+                try:
+                    r = requests.head(url, allow_redirects=True, timeout=8)
+                    if r.url:
+                        url = r.url
+                        cand["url"] = url
+                        combined = f"{url} {title}".lower()
+                except Exception:
+                    pass
+            if url in seen:
+                continue
+            if not any(d in combined for d in allowed_domains):
                 continue
             seen.add(url)
             results.append(cand)

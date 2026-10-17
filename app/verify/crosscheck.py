@@ -94,22 +94,31 @@ def corroborating_from_rss(
     """Toplanmış RSS adayları içinden aynı olayı doğrulayan diğer kaynakları bulur.
 
     Bağımsız kaynak sayımı için: biri diğerini kaynak gösterip aynen aktarmıyorsa
-    (farklı domain + benzer başlık) bağımsız sayılır.
+    (farklı domain + benzer başlık veya ortak varlık) bağımsız sayılır.
     """
     from app.select.dedup import title_similarity
 
     out: list[dict[str, str]] = []
     seen_domains: set[str] = set()
+    sel_domain = selected.url.split("/")[2] if "//" in selected.url else ""
+    if sel_domain:
+        seen_domains.add(sel_domain)
+
+    target_entities = [e.strip().lower() for e in info.entities if len(e.strip()) >= 3]
+
     for cand in all_candidates:
         if cand.url == selected.url:
             continue
         domain = cand.url.split("/")[2] if "//" in cand.url else ""
         if domain in seen_domains:
             continue
-        # Başlık benzerliği VEYA entity kesişimi
         sim = title_similarity(cand.title, selected.title)
         entity_hit = bool(set(cand.entities) & set(info.entities))
-        if sim >= 60 or entity_hit:
+        if not entity_hit and target_entities:
+            haystack = f"{cand.title} {cand.summary}".lower()
+            hits = sum(1 for ent in target_entities if ent in haystack)
+            entity_hit = hits >= 2 or (hits >= 1 and sim >= 35)
+        if sim >= 50 or entity_hit:
             seen_domains.add(domain)
             out.append(
                 {"url": cand.url, "title": cand.title, "source": cand.source_name}

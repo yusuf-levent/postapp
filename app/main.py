@@ -50,7 +50,7 @@ from app.write.slides import generate_edu_deck, generate_slides
 
 log = logging.getLogger("tekno-pusula")
 
-MAX_CANDIDATES = 8
+MAX_CANDIDATES = 4
 MAX_SOURCES_FOR_VERIFICATION = 3
 
 
@@ -332,9 +332,12 @@ def _verify_candidate(
     candidate.entities = info.entities
     candidate.event_type = info.event_type
 
-    cross = find_corroborating_sources(llm, candidate, info)
     rss_cross = corroborating_from_rss(all_candidates, candidate, info)
-    all_cross = cross + rss_cross
+    if rss_cross:
+        all_cross = rss_cross
+    else:
+        cross = find_corroborating_sources(llm, candidate, info)
+        all_cross = cross + rss_cross
 
     # Kaynak metinlerini topla (kendi makalesi + en fazla 3 çapraz kaynak)
     source_texts: dict[str, str] = {candidate.url: article_text}
