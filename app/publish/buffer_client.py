@@ -67,26 +67,31 @@ QUERY_ACCOUNT = """
 query Account {
   account {
     id
-    email
     organizations {
       id
       name
-      channels {
-        id
-        service
-        displayName
-        externalLink
-        isDisconnected
-        isLocked
-      }
     }
   }
 }
 """
 
+QUERY_CHANNELS = """
+query Channels($input: ChannelsInput!) {
+  channels(input: $input) {
+    id
+    name
+    service
+    displayName
+    externalLink
+    isDisconnected
+    isLocked
+  }
+}
+"""
+
 QUERY_POST = """
-query Post($id: PostId!) {
-  post(id: $id) {
+query Post($input: PostInput!) {
+  post(input: $input) {
     id
     status
     externalLink
@@ -161,7 +166,17 @@ class BufferClient:
     def account_info(self) -> dict[str, Any]:
         """Hesap + organizasyon + kanal listesi (tools workflow'u için)."""
         data = self._post(QUERY_ACCOUNT)
-        return data.get("account", {})
+        acc = dict(data.get("account") or {})
+        orgs: list[dict[str, Any]] = []
+        for org in acc.get("organizations") or []:
+            org_copy = dict(org)
+            org_id = org_copy.get("id", "")
+            if org_id and "channels" not in org_copy:
+                ch_data = self._post(QUERY_CHANNELS, {"input": {"organizationId": org_id}})
+                org_copy["channels"] = ch_data.get("channels") or []
+            orgs.append(org_copy)
+        acc["organizations"] = orgs
+        return acc
 
     def create_post(
         self,
@@ -253,7 +268,7 @@ class BufferClient:
 
     def get_post_status(self, post_id: str) -> dict[str, Any]:
         """Gönderi durumunu sorgular (sent/error doğrulaması için)."""
-        data = self._post(QUERY_POST, {"id": post_id})
+        data = self._post(QUERY_POST, {"input": {"id": post_id}})
         return data.get("post", {})
 
     def create_thread(
@@ -317,8 +332,12 @@ def list_profiles() -> list[dict[str, str]]:
         token = cfg.buffer_access_token_a if account == "A" else cfg.buffer_access_token_b
         if not token:
             continue
-        client = BufferClient(token)
-        info = client.account_info()
+        try:
+            client = BufferClient(token)
+            info = client.account_info()
+        except Exception as exc:
+            log.warning("Buffer hesap %s sorgulanamadı: %s", account, exc)
+            continue
         for org in info.get("organizations", []):
             for ch in org.get("channels", []):
                 out.append(
@@ -328,7 +347,7 @@ def list_profiles() -> list[dict[str, str]]:
                         "organization_id": org.get("id", ""),
                         "channel_id": ch.get("id", ""),
                         "service": ch.get("service", ""),
-                        "name": ch.get("displayName", ""),
+                        "name": ch.get("displayName") or ch.get("name", ""),
                         "url": ch.get("externalLink", ""),
                         "disconnected": str(ch.get("isDisconnected", False)),
                     }
