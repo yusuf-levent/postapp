@@ -72,7 +72,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-3.8-flash' }}
-          GEMINI_FALLBACK_MODEL: ${{ vars.GEMINI_FALLBACK_MODEL || 'gemini-3.8-flash-lite' }}
+          GEMINI_FALLBACK_MODEL: ${{ vars.GEMINI_FALLBACK_MODEL || 'gemini-3.8-flash' }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           BUFFER_ACCESS_TOKEN_A: ${{ secrets.BUFFER_ACCESS_TOKEN_A }}
           BUFFER_ACCESS_TOKEN_B: ${{ secrets.BUFFER_ACCESS_TOKEN_B }}

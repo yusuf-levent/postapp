@@ -35,7 +35,7 @@ VERIFICATION_PROMPT = """Aşağıdaki kaynak metinlerine göre her iddiayı doğ
 Her iddia için şu alanları içeren bir sonuç üret:
 - claim: iddianın metni (birebir)
 - verdict: "supported" | "contradicted" | "not_found"
-- evidence: [{url, quote}] — quote alanı kaynak metinden BİREBİR alıntı olmalı.
+- evidence: [{{url, quote}}] — quote alanı kaynak metinden BİREBİR alıntı olmalı.
   Desteklenen iddia için en az 1 kanıt; kanıt yoksa evidence boş liste."""
 
 VERIFICATION_ROUND2_SYSTEM = """Bağımsız ikinci tur kontrol yapıyorsun.
@@ -51,7 +51,7 @@ açık destek olup olmadığını BAĞIMSIZ olarak değerlendir.
 {claims_block}
 
 Çıktı: her iddia için claim, verdict (supported|contradicted|not_found) ve
-evidence listesi ({url, quote})."""
+evidence listesi ({{url, quote}})."""
 
 CROSSCHECK_QUERY_PROMPT = """Aşağıdaki haber için bu olayı doğrulayabilecek İngilizce arama
 sorgusu ve anahtar şirket/ürün/kisi listesi üret.

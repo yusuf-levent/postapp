@@ -53,23 +53,38 @@ class GeminiClient:
     def _call_with_fallback(
         self, fn: Callable[[str], Any], *, label: str
     ) -> Any:
-        """fn(model_name) çağrısını 429/kota hatasında yedek modelle tekrarlar."""
-        self._throttle()
-        self.call_count += 1
-        try:
-            return fn(self._model)
-        except genai_errors.APIError as exc:
-            status = getattr(exc, "code", None) or getattr(exc, "status_code", None)
-            if status in RETRYABLE_STATUS and self._fallback_model != self._model:
-                log.warning(
-                    "%s: model %s hata (%s), yedek %s deneniyor",
-                    label, self._model, status, self._fallback_model,
-                )
-                time.sleep(5)
-                self._throttle()
-                self.call_count += 1
-                return fn(self._fallback_model)
-            raise
+        """fn(model_name) çağrısını 429/5xx hatasında backoff ile tekrarlar."""
+        last_exc: Exception | None = None
+        for attempt in range(3):
+            self._throttle()
+            self.call_count += 1
+            try:
+                return fn(self._model)
+            except genai_errors.APIError as exc:
+                last_exc = exc
+                status = getattr(exc, "code", None) or getattr(exc, "status_code", None)
+                if status not in RETRYABLE_STATUS:
+                    raise
+                if status in (429, 500, 502, 503, 504) and attempt < 2:
+                    wait = 12 * (attempt + 1)
+                    log.warning(
+                        "%s: model %s geçici hata (%s), %ds beklenip tekrar denenecek (%d/3)",
+                        label, self._model, status, wait, attempt + 1,
+                    )
+                    time.sleep(wait)
+                    continue
+                if self._fallback_model and self._fallback_model != self._model:
+                    log.warning(
+                        "%s: model %s hata (%s), yedek %s deneniyor",
+                        label, self._model, status, self._fallback_model,
+                    )
+                    time.sleep(5)
+                    self._throttle()
+                    self.call_count += 1
+                    return fn(self._fallback_model)
+                raise
+        if last_exc:
+            raise last_exc
 
     # ------------------------------------------------------- structured output
     @staticmethod
