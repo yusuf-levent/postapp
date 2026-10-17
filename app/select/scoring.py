@@ -64,6 +64,19 @@ def _source_count(candidate: Candidate, source_index: dict[str, list[str]]) -> f
     return 1.0 + 0.4 * min(unique, 4)
 
 
+_STOPWORDS = {
+    "about", "after", "again", "against", "apple", "before", "being", "between",
+    "could", "Every", "every", "first", "found", "their", "there", "these",
+    "those", "through", "under", "until", "where", "which", "while", "world",
+    "would", "years",
+}
+
+
+def _keywords(title: str) -> set[str]:
+    words = re.findall(r"[a-zA-Z0-9]{4,}", title.lower())
+    return {w for w in words if w not in _STOPWORDS}
+
+
 def score_candidates(
     candidates: list[Candidate],
     *,
@@ -74,12 +87,29 @@ def score_candidates(
     source_index: başlık öneki → [kaynak URL'leri] (çapraz kaynak sayısı için).
     """
     idx = source_index or {}
+    kw_map = {id(c): _keywords(c.title) for c in candidates}
+    dom_map = {
+        id(c): (c.url.split("/")[2] if "//" in c.url else c.source_name)
+        for c in candidates
+    }
     for cand in candidates:
+        my_kw = kw_map[id(cand)]
+        my_dom = dom_map[id(cand)]
+        corroborating_domains: set[str] = set()
+        if my_kw:
+            for other in candidates:
+                other_dom = dom_map[id(other)]
+                if other_dom == my_dom:
+                    continue
+                if len(my_kw & kw_map[id(other)]) >= 2:
+                    corroborating_domains.add(other_dom)
+        cross_bonus = 2.5 if corroborating_domains else 1.0
         cand.score = (
             _importance(cand)
             * _freshness(cand)
             * _visual_potential(cand)
             * _source_count(cand, idx)
+            * cross_bonus
         )
     candidates.sort(key=lambda c: (c.published or datetime.min, c.score), reverse=True)
     # Aynı gün içinde yüksek puanlı önce: tarih sonra puan

@@ -24,13 +24,24 @@ MIN_INTERVAL_SECONDS = 2.0
 
 RETRYABLE_STATUS = {404, 429, 500, 502, 503, 504}
 
+# Ücretsiz katmanda kota model başına (PerModel: 20 istek/gün) olduğu için
+# bir model kotaya takıldığında sıradaki güncel modele otomatik geçilir.
+MODEL_POOL = (
+    "gemini-3.5-flash-lite",
+    "gemini-3.1-flash-lite",
+    "gemini-3.8-flash",
+    "gemini-4-argon",
+    "gemma-4-31b-it",
+    "gemma-4-26b-a4b-it",
+)
+
 
 class LLMError(RuntimeError):
     """Gemini çağrısı kurtarılamayacak şekilde başarısız oldu."""
 
 
 class GeminiClient:
-    """Tüm Gemini çağrıları bu sınıftan geçer (rate limit + retry + fallback)."""
+    """Tüm Gemini çağrıları bu sınıftan geçer (rate limit + retry + multi-model fallback)."""
 
     def __init__(self, api_key: str | None = None):
         cfg = settings()
@@ -40,8 +51,20 @@ class GeminiClient:
         self._client = genai.Client(api_key=key)
         self._model = cfg.gemini_model
         self._fallback_model = cfg.gemini_fallback_model
+        self._exhausted_models: set[str] = set()
         self._last_call = 0.0
         self.call_count = 0
+
+    def _candidate_models(self) -> list[str]:
+        ordered: list[str] = []
+        for m in (self._model, self._fallback_model, *MODEL_POOL):
+            if m and m not in ordered and m not in self._exhausted_models:
+                ordered.append(m)
+        if not ordered:
+            # Tüm modeller denendiyse havuzu sıfırla
+            self._exhausted_models.clear()
+            ordered = [self._model]
+        return ordered
 
     # ---------------------------------------------------------------- internals
     def _throttle(self) -> None:
@@ -53,36 +76,30 @@ class GeminiClient:
     def _call_with_fallback(
         self, fn: Callable[[str], Any], *, label: str
     ) -> Any:
-        """fn(model_name) çağrısını 429/5xx hatasında backoff ile tekrarlar."""
+        """fn(model_name) çağrısını 429/404/5xx hatasında model havuzundaki sıradaki modelle tekrarlar."""
         last_exc: Exception | None = None
-        for attempt in range(3):
+        candidates = self._candidate_models()
+        for model_name in candidates:
             self._throttle()
             self.call_count += 1
             try:
-                return fn(self._model)
+                res = fn(model_name)
+                self._model = model_name
+                return res
             except genai_errors.APIError as exc:
                 last_exc = exc
                 status = getattr(exc, "code", None) or getattr(exc, "status_code", None)
                 if status not in RETRYABLE_STATUS:
                     raise
-                if status in (429, 500, 502, 503, 504) and attempt < 2:
-                    wait = 12 * (attempt + 1)
-                    log.warning(
-                        "%s: model %s geçici hata (%s), %ds beklenip tekrar denenecek (%d/3)",
-                        label, self._model, status, wait, attempt + 1,
-                    )
-                    time.sleep(wait)
-                    continue
-                if self._fallback_model and self._fallback_model != self._model:
-                    log.warning(
-                        "%s: model %s hata (%s), yedek %s deneniyor",
-                        label, self._model, status, self._fallback_model,
-                    )
-                    time.sleep(5)
-                    self._throttle()
-                    self.call_count += 1
-                    return fn(self._fallback_model)
-                raise
+                msg = str(exc)
+                if status == 404 or "PerDay" in msg or "exceeded your current quota" in msg:
+                    self._exhausted_models.add(model_name)
+                log.warning(
+                    "%s: model %s hata (%s), sıradaki modele geçiliyor",
+                    label, model_name, status,
+                )
+                time.sleep(1.5)
+                continue
         if last_exc:
             raise last_exc
 

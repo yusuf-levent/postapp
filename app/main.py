@@ -88,7 +88,7 @@ def run(
     _recovery_pass(llm, dry_run=dry_run)
 
     # 4) Toplama
-    all_candidates = collect_all(max_days=sched["max_lookback_days"])
+    all_candidates = collect_all(max_days=sched["max_lookback_days"], include_official=True)
     if not all_candidates:
         log.warning("Hiç aday toplanamadı.")
         if ptype == "news" and sched.get("fallback_to_edu"):
@@ -323,12 +323,7 @@ def _verify_candidate(
     """Aday için tüm doğrulama hattını çalıştırır. Geçemezse None."""
     article_text = candidate.raw.get("full_text", "") or candidate.summary
 
-    # Aşama 1: iddia çıkarımı
-    claims = extract_claims(llm, article_text)
-    if not claims:
-        return None
-
-    # Aşama 2: çapraz kaynak
+    # Aşama 1: çapraz kaynak araması (önce RSS eşleşmesi, yoksa grounding)
     info = crosscheck_query(llm, candidate)
     candidate.entities = info.entities
     candidate.event_type = info.event_type
@@ -362,7 +357,6 @@ def _verify_candidate(
     has_official = any(
         any(d in candidate.url.lower() for d in official_domains) for _ in [0]
     ) or any(any(d in u.lower() for d in official_domains) for u in cross_urls)
-    news_count = len([u for u in cross_urls if not any(d in u.lower() for d in official_domains)])
     independent_sources = 1 + len(cross_urls)
 
     if has_official:
@@ -373,6 +367,11 @@ def _verify_candidate(
         if independent_sources < 2:
             log.info("2 bağımsız kaynak yok (%d), reddedildi.", independent_sources)
             return None
+
+    # Aşama 2: iddia çıkarımı (yalnızca ≥2 kaynak şartını geçen aday için)
+    claims = extract_claims(llm, article_text)
+    if not claims:
+        return None
 
     # Aşama 3-4: iki tur doğrulama + alıntı kontrolü
     round1 = verify_claims_round(llm, claims, source_texts, round_number=1)
