@@ -32,6 +32,10 @@ def generate_captions(
         prompt, Captions, system=prompts.CAPTIONS_SYSTEM, label="captions"
     )
 
+    for key in PLATFORM_KEYS:
+        cap = getattr(captions, key)
+        cap.hashtags = [h.lstrip("#").strip() for h in cap.hashtags if h.lstrip("#").strip()]
+
     for attempt in range(max_retries + 1):
         over = _find_limit_violations(captions)
         if not over:
@@ -42,6 +46,9 @@ def generate_captions(
             captions = _force_trim(captions, over)
             return captions
         captions = _request_shortening(llm, captions, over)
+        for key in PLATFORM_KEYS:
+            cap = getattr(captions, key)
+            cap.hashtags = [h.lstrip("#").strip() for h in cap.hashtags if h.lstrip("#").strip()]
     return captions
 
 

@@ -280,7 +280,8 @@ def run(
         created_at=now_istanbul().isoformat(timespec="seconds"),
         verified_claims_count=len(verified_claims),
     )
-    history_store.append_entry(entry)
+    if not dry_run:
+        history_store.append_entry(entry)
 
     # 18) Başarısız platformlar için issue; başarılılar için açık issue kapat
     failed = [s for s in statuses.values() if s.state == "failed"]
@@ -585,7 +586,7 @@ def _write_captions(
         lines.append(cap["text"])
         if cap["hashtags"]:
             lines.append("")
-            lines.append(" ".join(f"#{h}" for h in cap["hashtags"]))
+            lines.append(" ".join(f"#{h.lstrip('#')}" for h in cap["hashtags"]))
         lines.append("")
     (post_dir / "captions.md").write_text("\n".join(lines), encoding="utf-8")
 
