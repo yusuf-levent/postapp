@@ -1,0 +1,10 @@
+{
+  "slot": "21:00",
+  "type": "edu",
+  "model": "gemini-3.8-flash",
+  "duration_seconds": 263.1,
+  "candidates_tried": 4,
+  "gemini_calls": 16,
+  "canonical_url": "",
+  "generated_at": "2026-10-17T21:46:58+03:00"
+}

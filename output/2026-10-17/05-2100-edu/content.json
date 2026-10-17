@@ -1,0 +1,126 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE MİMARİ",
+    "title": "Büyük Dil Modelleri ve Modern Çip Mimarileri Rehberi",
+    "highlight_words": [
+      "Büyük Dil Modelleri",
+      "Modern Çip"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Yazılım mühendisliği bakış açısıyla LLM sistemleri ve donanım dinamikleri.",
+    "source_tags": [
+      "Tekno Pusula"
+    ]
+  },
+  "problem": {
+    "heading": "Model İhtiyaçları ve Donanım Sınırları",
+    "cards": [
+      {
+        "card_title": "Hesaplama Yoğunluğu",
+        "card_body": "Büyük dil modelleri (LLM) trilyonlarca parametre ve matris çarpımı gerektirir; klasik CPU mimarileri bu ölçekte yetersiz kalır."
+      },
+      {
+        "card_title": "Modern Yazılım Zorlukları",
+        "card_body": "Büyük modelleri entegre eden modern yazılım mühendisliği, bellek bant genişliği ve gecikme darboğazlarını yönetmek zorundadır."
+      }
+    ],
+    "code_block": "# Bellek ve gecikme darboğazı analizi\nlatency = compute_time + memory_transfer_time"
+  },
+  "steps": [
+    {
+      "heading": "1. LLM Mantığı ve Donanım Katmanı",
+      "cards": [
+        {
+          "card_title": "Paralel Hesaplama",
+          "card_body": "LLM yapıları, binlerce tensör işlemini aynı anda yürütebilen özelleşmiş donanım hızlandırıcılarına güvenir."
+        },
+        {
+          "card_title": "Modern Çip Tasarımları",
+          "card_body": "Yapay zeka için optimize edilen çip mimarileri, yüksek bant genişlikli bellek (HBM) ile veri transfer hızını artırır."
+        }
+      ],
+      "code_block": "import torch\ndevice = 'cuda' if torch.cuda.is_available() else 'cpu'"
+    },
+    {
+      "heading": "2. Modern Yazılım Mühendisliğinde Optimizasyon",
+      "cards": [
+        {
+          "card_title": "Kuantizasyon ve Budama",
+          "card_body": "Model ağırlıklarının bit hassasiyetini düşürerek hem bellek kullanımı azaltılır hem de çıkarım hızı yükseltilir."
+        },
+        {
+          "card_title": "Verimli Yürütme Pipeline'ları",
+          "card_body": "Yazılım katmanında toplu işleme (batching) ve önbellekleme (caching) mimarileriyle kaynak tüketimi optimize edilir."
+        }
+      ],
+      "code_block": "# Kuantizasyon yaklaşımı\nmodel = load_quantized_model(model_name, bits=4)"
+    },
+    {
+      "heading": "3. Entegrasyon ve Dağıtım Süreci",
+      "cards": [
+        {
+          "card_title": "API ve Çıkarım Sunucuları",
+          "card_body": "Yüksek eşzamanlılığı kaldırabilen hafif ve optimize çıkarım motorlarıyla servis katmanı kurgulanır."
+        },
+        {
+          "card_title": "Sürekli Donanım Takibi",
+          "card_body": "Geliştirilen yazılımın çip kaynaklarını (VRAM, compute utilization) anlık izleyen telemetri sistemleri kullanılır."
+        }
+      ],
+      "code_block": "curl -X POST http://localhost:8000/v1/generate -d '{\"prompt\": \"Sistem optimizasyonu:\"}'"
+    }
+  ],
+  "cta": {
+    "question": "Projelerinizde LLM optimizasyonunda en çok hangi aşamada zorlanıyorsunuz?",
+    "reminder_line": "Teknoloji ve yapay zeka rehberleri için Tekno Pusula'yı takip etmeyi unutmayın."
+  },
+  "context": {
+    "heading": "Model İhtiyaçları ve Donanım Sınırları",
+    "cards": [
+      {
+        "card_title": "Hesaplama Yoğunluğu",
+        "card_body": "Büyük dil modelleri (LLM) trilyonlarca parametre ve matris çarpımı gerektirir; klasik CPU mimarileri bu ölçekte yetersiz kalır."
+      },
+      {
+        "card_title": "Modern Yazılım Zorlukları",
+        "card_body": "Büyük modelleri entegre eden modern yazılım mühendisliği, bellek bant genişliği ve gecikme darboğazlarını yönetmek zorundadır."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "1. LLM Mantığı ve Donanım Katmanı",
+    "stat_quote": "import torch\ndevice = 'cuda' if torch.cuda.is_available() else 'cpu'"
+  },
+  "details": {
+    "heading": "2. Modern Yazılım Mühendisliğinde Optimizasyon",
+    "cards": [
+      {
+        "card_title": "Kuantizasyon ve Budama",
+        "card_body": "Model ağırlıklarının bit hassasiyetini düşürerek hem bellek kullanımı azaltılır hem de çıkarım hızı yükseltilir."
+      },
+      {
+        "card_title": "Verimli Yürütme Pipeline'ları",
+        "card_body": "Yazılım katmanında toplu işleme (batching) ve önbellekleme (caching) mimarileriyle kaynak tüketimi optimize edilir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "3. Entegrasyon ve Dağıtım Süreci",
+    "cards": [
+      {
+        "card_title": "API ve Çıkarım Sunucuları",
+        "card_body": "Yüksek eşzamanlılığı kaldırabilen hafif ve optimize çıkarım motorlarıyla servis katmanı kurgulanır."
+      },
+      {
+        "card_title": "Sürekli Donanım Takibi",
+        "card_body": "Geliştirilen yazılımın çip kaynaklarını (VRAM, compute utilization) anlık izleyen telemetri sistemleri kullanılır."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}
