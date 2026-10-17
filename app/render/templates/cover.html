@@ -1,0 +1,41 @@
+{# Kapak slaytı (slayt 1) #}
+<div class="slide">
+  <div class="slide-bg cover-mask" style="background-image: url('{{ bg_image }}')"></div>
+
+  <div class="handle-pill pill">{{ handle }}</div>
+
+  <div class="source-tags">
+    {% for tag in source_tags[:2] %}
+    <div class="source-tag">{{ tag }}</div>
+    {% endfor %}
+  </div>
+
+  <div class="cover-center">
+    <div class="cover-divider">
+      <div class="cover-logo">
+        {% if logo_svg %}
+          {{ logo_svg | safe }}
+        {% else %}
+          <div class="logo-empty"></div>
+        {% endif %}
+      </div>
+    </div>
+
+    <div class="category-label">{{ category_label }}</div>
+
+    <div class="cover-title">{{ title_html | safe }}</div>
+
+    <div class="cover-subtitle">{{ subtitle }}</div>
+  </div>
+
+  <div class="cover-bottom-bar"></div>
+
+  <div class="cover-bottom-left">
+    <div class="kaydir-btn">KAYDIR <span class="arrow">➔</span></div>
+  </div>
+
+  <div class="progress">
+    <div class="dot active"></div>
+    {% for _ in range(progress_dots - 1) %}<div class="dot"></div>{% endfor %}
+  </div>
+</div>

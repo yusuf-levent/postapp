@@ -1,0 +1,39 @@
+# Zamanlama ve içerik dağılımı ayarları (Europe/Istanbul, UTC+3)
+timezone: Europe/Istanbul
+
+# Her gün 5 slot. type: news | edu | auto
+slots:
+  - time: "09:00"
+    type: news
+  - time: "12:00"
+    type: news
+  - time: "15:00"
+    type: news
+  - time: "18:00"
+    type: edu
+  - time: "21:00"
+    type: news
+
+# Haber bulunamazsa slot eğitim postuna düşer (auto), o da olmazsa slot atlanır
+fallback_to_edu: true
+
+# Tarih önceliği: bugün -> dün -> ... en fazla N gün geriye
+max_lookback_days: 7
+
+# Bir çalışmada en fazla kaç aday denenir
+max_candidates_per_run: 8
+
+# Aynı gün aynı şirket hakkında en fazla kaç post
+max_posts_per_entity_per_day: 2
+
+# Dedup eşikleri
+dedup:
+  title_similarity_threshold: 85      # rapidfuzz token_set_ratio
+  embedding_similarity_threshold: 0.85  # kosinüs
+  news_event_window_days: 14
+  edu_topic_window_days: 60
+
+# Doğrulama
+verification:
+  min_independent_sources: 2
+  quote_match_threshold: 90   # normalize fuzzy eşleşme (alıntı gerçekten kaynakta mı)

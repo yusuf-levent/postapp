@@ -1,0 +1,1 @@
+"""Seçim: puanlama ve tekrar önleme."""

@@ -1,0 +1,30 @@
+{# Etkileşim slaytı (slayt 6) #}
+<div class="slide">
+  <div class="slide-bg inner-mask" style="background-image: url('{{ bg_image }}')"></div>
+
+  <div class="slide-tag {{ accent }}">{{ tag_label }}</div>
+  <div class="page-counter">{{ page_index }} / {{ page_total }}</div>
+
+  <div class="cta-wrap">
+    <div class="cta-card cyan">
+      <div class="cta-kicker">SENİN GÖRÜŞÜN NE?</div>
+      <div class="cta-question">{{ question }}</div>
+      <div class="cta-note">{{ reminder_line }}</div>
+    </div>
+
+    <div class="cta-card yellow">
+      <div class="cta-kicker">Yazılım ve Yapay Zeka İçerikleri İçin</div>
+      <div class="cta-big">Düşüncelerinizi Yorumlarda Paylaşın! 👇<br>Takipte Kalın ⚡</div>
+      <div class="cta-actions">📌 Kaydet • 📩 Paylaş • 💬 Yorum Yap</div>
+    </div>
+  </div>
+
+  <div class="inner-footer">
+    <div class="handle">{{ handle }}</div>
+    <div class="progress">
+      {% for i in range(1, progress_dots + 1) %}
+      <div class="dot {{ 'active' if i == page_index else '' }}"></div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

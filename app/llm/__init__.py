@@ -1,0 +1,1 @@
+"""LLM erişim katmanı: prompt şablonları burada tutulur."""

@@ -1,0 +1,1 @@
+"""İçerik üretimi: 6 slayt yapısı ve platform açıklamaları."""

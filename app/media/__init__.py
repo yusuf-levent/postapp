@@ -1,0 +1,1 @@
+"""Görsel toplama: Wikimedia Commons, Pexels, og:image, soyut gradient."""

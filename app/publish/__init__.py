@@ -1,0 +1,1 @@
+"""Paylaşım katmanı: Buffer (GraphQL) ve Threads (Graph API)."""

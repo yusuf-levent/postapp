@@ -1,0 +1,26 @@
+{# Rakam slaytı (slayt 3) #}
+<div class="slide">
+  <div class="slide-bg inner-mask" style="background-image: url('{{ bg_image }}')"></div>
+
+  <div class="slide-tag {{ accent }}">{{ tag_label }}</div>
+  <div class="page-counter">{{ page_index }} / {{ page_total }}</div>
+
+  <div class="stat-wrap">
+    <div class="stat-card">
+      <div class="big-stat">{{ big_stat }}</div>
+      <div class="stat-caption">{{ stat_caption }}</div>
+      {% if stat_quote %}
+      <div class="stat-quote">{{ stat_quote }}</div>
+      {% endif %}
+    </div>
+  </div>
+
+  <div class="inner-footer">
+    <div class="handle">{{ handle }}</div>
+    <div class="progress">
+      {% for i in range(1, progress_dots + 1) %}
+      <div class="dot {{ 'active' if i == page_index else '' }}"></div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

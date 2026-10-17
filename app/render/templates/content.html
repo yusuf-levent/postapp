@@ -1,0 +1,28 @@
+{# İç slayt: başlık + madde kartları (slayt 2, 4, 5) #}
+<div class="slide">
+  <div class="slide-bg inner-mask" style="background-image: url('{{ bg_image }}')"></div>
+
+  <div class="slide-tag {{ accent }}">{{ tag_label }}</div>
+  <div class="page-counter">{{ page_index }} / {{ page_total }}</div>
+
+  <div class="inner-content">
+    <div class="inner-heading">{{ heading_html | default(heading) | safe }}</div>
+
+    {% for card in cards %}
+    <div class="card {{ 'yellow' if loop.index0 % 2 == 0 else 'cyan' }}">
+      {% if card.badge %}<div class="card-badge">{{ card.badge }}</div>{% endif %}
+      <div class="card-title">{{ card.title }}</div>
+      <div class="card-body">{{ card.body }}</div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <div class="inner-footer">
+    <div class="handle">{{ handle }}</div>
+    <div class="progress">
+      {% for i in range(1, progress_dots + 1) %}
+      <div class="dot {{ 'active' if i == page_index else '' }}"></div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

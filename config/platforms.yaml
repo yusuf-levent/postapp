@@ -1,0 +1,59 @@
+# Platform hesap eşleşmeleri ve açıklama kuralları.
+# Profil ID'leri GitHub Secrets'tan okunur; burada yalnızca hangi hesabın hangi
+# platforma gittiği ve karakter limitleri tanımlanır.
+
+accounts:
+  A:                      # BUFFER_ACCESS_TOKEN_A
+    - instagram
+    - tiktok
+    - x
+  B:                      # BUFFER_ACCESS_TOKEN_B
+    - facebook
+    - linkedin
+
+# Buffer GraphQL API (developers.buffer.com, doğrulanmış: 2026-10)
+buffer:
+  api_url: "https://api.buffer.com"
+  share_mode: "shareNow"
+  scheduling_type: "automatic"
+
+threads:
+  graph_base: "https://graph.threads.net/v1.0"
+  max_carousel_items: 20
+  token_refresh_after_days: 40   # long-lived token 60 gün geçerli
+  token_lifetime_days: 60
+
+platforms:
+  instagram:
+    limit: 2200
+    hashtags: [8, 15]
+    max_images: 10
+    tiktok_ratio_only: false
+  tiktok:
+    limit: 2200
+    hashtags: [3, 6]
+    max_images: 35
+    use_9x16: true
+  x:
+    limit: 280            # URL 23 karakter sayılır
+    url_length: 23
+    hashtags: [0, 2]
+    max_images: 4         # X tek tweette en fazla 4 görsel
+    thread_extra_images: true   # 5-6. görseller yanıt tweetine
+  threads:
+    limit: 500            # emojiler UTF-8 byte sayılır
+    hashtags: [0, 1]
+    max_images: 20
+  linkedin:
+    limit: 3000
+    hashtags: [3, 5]
+    max_images: 9
+  facebook:
+    limit: 2200
+    hashtags: [3, 5]
+    max_images: 10
+
+# Görsel gereksinimleri
+media:
+  min_image_width: 1000
+  pexels_min_width: 1000

@@ -1,0 +1,1 @@
+"""Veri saklama: history, git işlemleri, GitHub issue, secret yönetimi."""

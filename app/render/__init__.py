@@ -1,0 +1,1 @@
+"""Render katmanı: Jinja2 HTML → Playwright PNG."""

@@ -1,0 +1,28 @@
+# Marka ve tasarım ayarları (bölüm 8'e birebir uygun)
+handle: "@tekno_pusula"
+canvas:
+  width: 1080
+  height: 1350          # 4:5
+  width_9x16: 1080
+  height_9x16: 1920     # TikTok varyantı
+colors:
+  background: "#07090d"
+  accent_yellow: "#FFE000"
+  accent_cyan: "#00D8FF"
+  text_white: "#FFFFFF"
+  text_secondary: "#A9B4C2"
+  pill_bg: "rgba(16,20,28,0.85)"
+  card_bg: "rgba(30,32,38,0.75)"
+fonts:
+  cover_title: "Bebas Neue"
+  headings: "Montserrat"
+  body: "Inter"
+limits:
+  cover_title_max_chars: 60
+  body_max_chars: 280
+  cover_title_min_px: 72
+  cover_title_max_px: 130
+  heading_max_px: 56
+  body_min_px: 20
+slide_count: 6
+progress_dots: 6

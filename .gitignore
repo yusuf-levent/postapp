@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Sırlar — ASLA commit edilmemeli
+.env
+*.pem
+*.key
+
+# Yerel test çıktıları
+output/preview.html
+output/_sample/
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db

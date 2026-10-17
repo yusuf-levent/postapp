@@ -1,0 +1,1 @@
+"""Haber toplama: RSS, makale metni, tarih/slot hesaplama."""

@@ -1,0 +1,1 @@
+"""Doğrulama hattı: iddia çıkarımı, çapraz kaynak, iddia bazlı doğrulama."""

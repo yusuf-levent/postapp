@@ -1,0 +1,85 @@
+# Haber kaynakları (whitelist) – her feed 2026-10-15 tarihinde canlı doğrulanmıştır.
+# kind: news (birincil haber) | official (resmi şirket kaynağı)
+# not: Reuters ve Anthropic'in halka açık RSS'i YOKTUR (401/404 döndü).
+#      Bu iki kaynak yalnızca elle/grounding ile doğrulama kaynağı olarak kullanılır.
+
+news:
+  - name: "The Verge"
+    url: "https://www.theverge.com/rss/index.xml"
+    domain: "theverge.com"
+  - name: "TechCrunch"
+    url: "https://techcrunch.com/feed/"
+    domain: "techcrunch.com"
+  - name: "Ars Technica"
+    url: "https://feeds.arstechnica.com/arstechnica/index"
+    domain: "arstechnica.com"
+  - name: "Wired"
+    url: "https://www.wired.com/feed/rss"
+    domain: "wired.com"
+  - name: "MIT Technology Review"
+    url: "https://www.technologyreview.com/feed/"
+    domain: "technologyreview.com"
+  - name: "BBC News – Technology"
+    url: "https://feeds.bbci.co.uk/news/technology/rss.xml"
+    domain: "bbc.co.uk"
+  - name: "VentureBeat – AI"
+    url: "https://venturebeat.com/category/ai/feed/"
+    domain: "venturebeat.com"
+  - name: "Engadget"
+    url: "https://www.engadget.com/rss.xml"
+    domain: "engadget.com"
+  - name: "IEEE Spectrum"
+    url: "https://spectrum.ieee.org/feeds/feed.rss"
+    domain: "spectrum.ieee.org"
+
+official:
+  - name: "OpenAI News"
+    url: "https://openai.com/news/rss.xml"
+    domain: "openai.com"
+  - name: "Google Blog"
+    url: "https://blog.google/rss/"
+    domain: "blog.google"
+  - name: "Google DeepMind"
+    url: "https://deepmind.google/blog/rss.xml"
+    domain: "deepmind.google"
+  - name: "Microsoft Blog"
+    url: "https://blogs.microsoft.com/feed/"
+    domain: "blogs.microsoft.com"
+  - name: "Meta AI Blog"
+    url: "https://ai.meta.com/blog/rss/"
+    domain: "ai.meta.com"
+  - name: "Meta Newsroom (resmi alternatif)"
+    url: "https://about.fb.com/news/feed/"
+    domain: "about.fb.com"
+  - name: "NVIDIA Newsroom"
+    url: "https://nvidianews.nvidia.com/releases.xml"
+    domain: "nvidianews.nvidia.com"
+  - name: "Apple Newsroom"
+    url: "https://www.apple.com/newsroom/rss-feed.rss"
+    domain: "apple.com"
+  - name: "AWS News Blog"
+    url: "https://aws.amazon.com/blogs/aws/feed/"
+    domain: "aws.amazon.com"
+  - name: "GitHub Blog"
+    url: "https://github.blog/feed/"
+    domain: "github.blog"
+  - name: "Hugging Face Blog"
+    url: "https://huggingface.co/blog/feed.xml"
+    domain: "huggingface.co"
+
+# RSS'i olmayan, yalnızca doğrulama/grounding için kabul edilen resmi domainler
+verification_only_domains:
+  - "reuters.com"
+  - "anthropic.com"
+
+# Bu domainlerden gelen grounding sonuçları KABUL EDİLMEZ (whitelist dışı)
+# (kod yalnızca yukarıdaki domainleri kabul eder)
+
+# Hariç konular (idddia seçiminde filtrelenir)
+excluded_topics:
+  - "siyaset"
+  - "magazin"
+  - "kripto fiyat"
+  - "iddia"
+  - "sızıntı"
+  - "söylenti"
