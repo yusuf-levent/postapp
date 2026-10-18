@@ -183,9 +183,8 @@ def _video_queries(llm: GeminiClient, candidate: Candidate | None, entities: lis
             log.debug("Video sorgu üretimi atlandı: %s", exc)
     for ent in (entities or [])[:2]:
         if ent and ent.lower() not in [x.lower() for x in out]:
-            out.append(f"{ent} technology")
-    out.extend(["artificial intelligence technology", "modern smartphone technology", "software coding screen"])
-    return out[:6]
+            out.append(ent)
+    return out[:4]
 
 
 def _download_video(url: str, dest: Path) -> bool:
