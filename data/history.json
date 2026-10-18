@@ -212,5 +212,82 @@
     ],
     "created_at": "2026-10-18T13:07:36+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-10-18-1800",
+    "date": "2026-10-18",
+    "slot": "18:00",
+    "type": "edu",
+    "title_tr": "NVIDIA RTX Spark Dizüstü Bilgisayarlarla Tanışın",
+    "original_title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+    "source_urls": [
+      "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/"
+    ],
+    "canonical_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
+    "entities": [
+      "NVIDIA",
+      "RTX Spark",
+      "Jensen Huang",
+      "ASUS",
+      "Dell",
+      "HP",
+      "Lenovo",
+      "Microsoft",
+      "MSI"
+    ],
+    "event_type": "product_launch",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "failed",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": "BufferClient.create_video_post() got an unexpected keyword argument 'share_now'"
+      },
+      {
+        "platform": "tiktok",
+        "state": "failed",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": "BufferClient.create_video_post() got an unexpected keyword argument 'share_now'"
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ad4eb0ca48c8f8371a43e72",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2111847695446913390",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18108598553337353",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DepDEANIByO",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ad4eb380b0d72757a2be4cf",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ad4eb4fae173d6e000ae0b1",
+        "permalink": "https://facebook.com/1351036918092059_122116463499484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-18T18:53:00+03:00",
+    "verified_claims_count": 8
   }
 ]

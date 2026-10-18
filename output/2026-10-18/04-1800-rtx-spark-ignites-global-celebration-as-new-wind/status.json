@@ -1,0 +1,53 @@
+{
+  "dry_run": false,
+  "platforms": {
+    "instagram": {
+      "platform": "instagram",
+      "state": "failed",
+      "external_id": "",
+      "permalink": "",
+      "attempts": 1,
+      "last_error": "BufferClient.create_video_post() got an unexpected keyword argument 'share_now'"
+    },
+    "tiktok": {
+      "platform": "tiktok",
+      "state": "failed",
+      "external_id": "",
+      "permalink": "",
+      "attempts": 1,
+      "last_error": "BufferClient.create_video_post() got an unexpected keyword argument 'share_now'"
+    },
+    "x": {
+      "platform": "x",
+      "state": "published",
+      "external_id": "6ad4eb0ca48c8f8371a43e72",
+      "permalink": "https://twitter.com/tekno_pusulatr/status/2111847695446913390",
+      "attempts": 1,
+      "last_error": ""
+    },
+    "threads": {
+      "platform": "threads",
+      "state": "published",
+      "external_id": "18108598553337353",
+      "permalink": "https://www.threads.com/@tekno_pusula/post/DepDEANIByO",
+      "attempts": 1,
+      "last_error": ""
+    },
+    "linkedin": {
+      "platform": "linkedin",
+      "state": "published",
+      "external_id": "6ad4eb380b0d72757a2be4cf",
+      "permalink": "",
+      "attempts": 1,
+      "last_error": ""
+    },
+    "facebook": {
+      "platform": "facebook",
+      "state": "published",
+      "external_id": "6ad4eb4fae173d6e000ae0b1",
+      "permalink": "https://facebook.com/1351036918092059_122116463499484840",
+      "attempts": 1,
+      "last_error": ""
+    }
+  }
+}
