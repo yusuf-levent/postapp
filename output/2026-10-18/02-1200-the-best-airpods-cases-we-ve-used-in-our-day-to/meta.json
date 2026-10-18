@@ -1,0 +1,10 @@
+{
+  "slot": "12:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 68.9,
+  "candidates_tried": 1,
+  "gemini_calls": 10,
+  "canonical_url": "https://www.wired.com/story/best-airpods-case/",
+  "generated_at": "2026-10-18T13:05:53+03:00"
+}
