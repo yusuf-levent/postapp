@@ -3,8 +3,9 @@ name: post
 on:
   schedule:
     # UTC: 09:00, 12:00, 15:00, 18:00, 21:00 Europe/Istanbul (UTC+3)
-    # GitHub cron yoğunluğu nedeniyle dakika 7'ye kaydırıldı
-    - cron: "7 6,9,12,15,18 * * *"
+    # Ana tetikleme (:03) + GitHub cron gecikme/düşmelerine karşı idempotent yedek tetikleme (:28)
+    - cron: "3 6,9,12,15,18 * * *"
+    - cron: "28 6,9,12,15,18 * * *"
   workflow_dispatch:
     inputs:
       dry_run:
