@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 83.3,
+  "candidates_tried": 1,
+  "gemini_calls": 14,
+  "canonical_url": "https://www.engadget.com/2289646/tesla-roadster-not-first-car-use-fans-for-downforce/",
+  "generated_at": "2026-10-18T09:58:44+03:00"
+}

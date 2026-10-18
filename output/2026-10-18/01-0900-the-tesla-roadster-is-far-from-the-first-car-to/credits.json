@@ -1,0 +1,38 @@
+{
+  "images": [
+    {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Chaparral_2J.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-18/01-0900-the-tesla-roadster-is-far-from-the-first-car-to/images/img-1.png",
+      "license": "",
+      "author": "",
+      "credit_url": "https://en.wikipedia.org/wiki/Chaparral%202J",
+      "width": 3888,
+      "height": 2592,
+      "alt_text": "Chaparral 2J"
+    },
+    {
+      "source": "ogimage",
+      "url": "https://www.engadget.com/img/gallery/the-tesla-roadster-is-far-from-the-first-car-to-use-fans-for-downforce/l-intro-1792267762.jpg",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-18/01-0900-the-tesla-roadster-is-far-from-the-first-car-to/images/img-2.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.engadget.com/2289646/tesla-roadster-not-first-car-use-fans-for-downforce/",
+      "width": 1600,
+      "height": 898,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/9300914/pexels-photo-9300914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-18/01-0900-the-tesla-roadster-is-far-from-the-first-car-to/images/img-3.png",
+      "license": "Pexels License — David Gari",
+      "author": "David Gari",
+      "credit_url": "https://www.pexels.com/photo/a-white-car-on-road-9300914/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "Top view of a sleek white Tesla electric car driving on a city street in Germany."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}
