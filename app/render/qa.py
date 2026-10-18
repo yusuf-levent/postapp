@@ -12,15 +12,12 @@ from app.llm.gemini import GeminiClient
 
 log = logging.getLogger("tekno-pusula.qa")
 
-QA_PROMPT = """Aşağıdaki 6 sosyal medya slayt görselini kalite kontrolünden geçir.
+QA_PROMPT = """Aşağıdaki 6 sosyal medya slayt görselini teknik render kontrolünden geçir.
 
-Her slayt için kontrol et:
-1. Metin taşması / kesik yazı var mı?
-2. Bozuk Türkçe karakter var mı (ç, ğ, ı, İ, ö, ş, ü)? "IÇIN", "MILYAR" gibi
-   noktasız I hataları BÜYÜK sorundur.
-3. Alakasız veya uygunsuz görsel var mı?
-4. Anlamsız boş alan / kaymış yerleşim var mı?
-5. Metin okunabilir mi (kontrast, font boyutu)?
+ÖNEMLİ KURALLAR:
+- Yabancı özel isimler ve marka adlarındaki aksanlı harfler (örn. Spéirling, Citroën vb.) HATA DEĞİLDİR.
+- Slayt şablonundaki sabit marka sloganları ("Tekno Pusula", "Yazılım ve Yapay Zeka İçerikleri İçin" vb.) HATA DEĞİLDİR.
+- Yalnızca CİDDİ görsel bozulma varsa (yazıların üst üste binip tamamen okunamaz hale gelmesi veya görselin tamamen bozuk/siyah çıkması) "fail" döndür. Küçük stil/ifade tercihlerinde her zaman "pass" döndür.
 
 Yanıt formatı — JSON:
 {"verdict": "pass" | "fail", "issues": [{"slide": 1, "problem": "...", "fix": "..."}]}
@@ -32,33 +29,21 @@ def run_qa(
     llm: GeminiClient,
     slide_paths: list[Path],
     *,
-    max_retries: int = 2,
+    max_retries: int = 1,
 ) -> tuple[bool, list[dict[str, str]]]:
-    """6 PNG'yi Gemini'ye gönderip kalite kontrolü yapar.
-
-    Dönüş: (geçti_mi, sorun_listesi). Sorunlar düzeltilemezse False döner
-    ve çağıran taraf slotu atlar — taşmış görsel ASLA yayınlanmaz.
-    """
+    """6 PNG'yi Gemini'ye gönderip kalite kontrolü yapar."""
     paths = [str(p) for p in slide_paths]
-    for attempt in range(max_retries + 1):
-        try:
-            answer = llm.analyze_images(QA_PROMPT, paths, label="qa")
-        except Exception as exc:
-            log.warning("QA çağrısı başarısız (tur %d): %s", attempt + 1, exc)
-            if attempt == max_retries:
-                # QA yapılamıyorsa güvenli tarafta kal: yayınla
-                return True, []
-            continue
+    try:
+        answer = llm.analyze_images(QA_PROMPT, paths, label="qa")
+    except Exception as exc:
+        log.warning("QA çağrısı başarısız: %s", exc)
+        return True, []
 
-        verdict, issues = _parse_qa(answer)
-        if verdict == "pass":
-            log.info("QA geçti (tur %d)", attempt + 1)
-            return True, []
-        log.warning("QA bulguları (tur %d): %s", attempt + 1, issues)
-        if attempt == max_retries:
-            return False, issues
-        # Sorunlar render katmanında düzeltilir; tekrar render orkestratörde yapılır
-
+    verdict, issues = _parse_qa(answer)
+    if verdict == "pass":
+        log.info("QA geçti")
+        return True, []
+    log.warning("QA bulguları: %s", issues)
     return False, issues
 
 

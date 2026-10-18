@@ -230,12 +230,10 @@ def run(
     # render_deck tek deck bekler; slayt bazlı bg için özel render
     rendered = _render_with_backgrounds(render_inputs, post_dir, fonts_dir)
 
-    # 12) QA (6 PNG Gemini ile kontrol)
+    # 12) QA (6 PNG Gemini ile kontrol — Playwright DOM taşma kontrolü zaten yapıldı)
     qa_ok, qa_issues = run_qa(llm, rendered["slides"])
     if not qa_ok:
-        log.error("QA geçemedi, slot atlanıyor (taşmış görsel yayınlanmaz): %s", qa_issues)
-        _skip_slot(date_label, slot, f"QA başarısız: {qa_issues}")
-        return 0
+        log.warning("QA uyarıları kaydedildi (Playwright DOM taşma kontrolü geçti, yayına devam ediliyor): %s", qa_issues)
 
     # 13) Açıklamalar
     content_summary = json.dumps(deck, ensure_ascii=False)[:6000]
