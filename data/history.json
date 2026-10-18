@@ -214,76 +214,6 @@
     "verified_claims_count": 8
   },
   {
-    "id": "2026-10-18-2100",
-    "date": "2026-10-18",
-    "slot": "21:00",
-    "type": "news",
-    "title_tr": "Alexa ile Hayatımıza Giren Yenilikler",
-    "original_title": "The reason your Amazon Alexa devices are always listening",
-    "source_urls": [
-      "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/"
-    ],
-    "canonical_url": "https://engadget.com/2285849/reason-amazon-alexa-devices-always-listening",
-    "entities": [
-      "Amazon",
-      "Alexa"
-    ],
-    "event_type": "privacy_analysis",
-    "embedding": [],
-    "status_per_platform": [
-      {
-        "platform": "instagram",
-        "state": "failed",
-        "external_id": "",
-        "permalink": "",
-        "attempts": 1,
-        "last_error": "BufferClient.create_video_post() got an unexpected keyword argument 'share_now'"
-      },
-      {
-        "platform": "tiktok",
-        "state": "failed",
-        "external_id": "",
-        "permalink": "",
-        "attempts": 1,
-        "last_error": "BufferClient.create_video_post() got an unexpected keyword argument 'share_now'"
-      },
-      {
-        "platform": "x",
-        "state": "published",
-        "external_id": "6ad52e6c938409f1d0e743f7",
-        "permalink": "https://twitter.com/tekno_pusulatr/status/2111920041314623900",
-        "attempts": 1,
-        "last_error": ""
-      },
-      {
-        "platform": "threads",
-        "state": "failed",
-        "external_id": "",
-        "permalink": "",
-        "attempts": 1,
-        "last_error": "HTTP 400: {\"error\":{\"message\":\"The requested resource does not exist\",\"type\":\"OAuthException\",\"code\":24,\"error_subcode\":4279009,\"is_transient\":false,\"error_user_title\":\"Media Not Found\",\"error_user_msg\":\"The media with id 18126575437782657 cannot be found.\",\"fbtrace_id\":\"ABqMKitG-EBJ1_0JbIYUFV0\"}}"
-      },
-      {
-        "platform": "linkedin",
-        "state": "published",
-        "external_id": "6ad52e8cae173d6e00191ecd",
-        "permalink": "",
-        "attempts": 1,
-        "last_error": ""
-      },
-      {
-        "platform": "facebook",
-        "state": "published",
-        "external_id": "6ad52ea30b0d72757a3a5b24",
-        "permalink": "https://facebook.com/1351036918092059_122116519911484840",
-        "attempts": 1,
-        "last_error": ""
-      }
-    ],
-    "created_at": "2026-10-18T23:40:13+03:00",
-    "verified_claims_count": 7
-  },
-  {
     "id": "2026-10-18-1800",
     "date": "2026-10-18",
     "slot": "18:00",
@@ -359,5 +289,75 @@
     ],
     "created_at": "2026-10-18T18:53:00+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-10-18-2100",
+    "date": "2026-10-18",
+    "slot": "21:00",
+    "type": "news",
+    "title_tr": "Alexa ile Hayatımıza Giren Yenilikler",
+    "original_title": "The reason your Amazon Alexa devices are always listening",
+    "source_urls": [
+      "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/"
+    ],
+    "canonical_url": "https://engadget.com/2285849/reason-amazon-alexa-devices-always-listening",
+    "entities": [
+      "Amazon",
+      "Alexa"
+    ],
+    "event_type": "privacy_analysis",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "failed",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 2,
+        "last_error": "BufferClient.create_video_post() got an unexpected keyword argument 'share_now'"
+      },
+      {
+        "platform": "tiktok",
+        "state": "failed",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 2,
+        "last_error": "BufferClient.create_video_post() got an unexpected keyword argument 'share_now'"
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ad52e6c938409f1d0e743f7",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2111920041314623900",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18395574208165533",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DepnDZKFM2V",
+        "attempts": 2,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ad52e8cae173d6e00191ecd",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ad52ea30b0d72757a3a5b24",
+        "permalink": "https://facebook.com/1351036918092059_122116519911484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-18T23:40:13+03:00",
+    "verified_claims_count": 7
   }
 ]
