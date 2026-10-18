@@ -24,10 +24,10 @@ class PublisherError(RuntimeError):
 
 
 def wait_for_public_urls(urls: list[str], *, timeout: int = 120) -> bool:
-    """Görsel URL'leri herkese açık olana kadar bekle (exponential backoff).
+    """Görsel/video URL'leri herkese açık olana kadar bekle (exponential backoff).
 
     Commit + push sonrası raw.githubusercontent.com propagasyonu için.
-    200 + image/png dönene kadar bekle.
+    200 + image/png veya video/mp4 dönene kadar bekle.
     """
     import time
 
@@ -38,9 +38,17 @@ def wait_for_public_urls(urls: list[str], *, timeout: int = 120) -> bool:
     while time.time() < deadline:
         all_ok = True
         for url in urls:
+            if not url:
+                continue
             resp = http_get(url, retries=1, timeout=15)
-            ctype = resp.headers.get("Content-Type", "") if resp is not None else ""
-            if resp is None or resp.status_code != 200 or "image" not in ctype:
+            ctype = (resp.headers.get("Content-Type", "") if resp is not None else "").lower()
+            valid_type = (
+                "image" in ctype
+                or "video" in ctype
+                or "octet-stream" in ctype
+                or url.lower().endswith(".mp4")
+            )
+            if resp is None or resp.status_code != 200 or not valid_type:
                 all_ok = False
                 break
         if all_ok:
@@ -55,6 +63,7 @@ def publish_platform(
     *,
     caption: str,
     image_urls: list[str],
+    video_url: str = "",
     channel_id: str = "",
     account: str = "A",
     status: PlatformStatus | None = None,
@@ -75,6 +84,19 @@ def publish_platform(
             return client.publish_carousel(image_urls[:10], caption)
 
         client = client_for_account(account)
+        max_images = platforms_config().platforms[platform].max_images
+
+        # Instagram Reels & TikTok: gerçek video (reel.mp4) varsa videolu paylaş
+        if platform in ("instagram", "tiktok") and video_url:
+            return client.create_video_post(
+                channel_id=channel_id,
+                text=caption,
+                video_url=video_url,
+                share_now=True,
+                platform=platform,
+                fallback_image_urls=image_urls[:max_images],
+            )
+
         # X: 4 görsel üst sınırı; 5-6. görseller yanıt tweetine (thread)
         if platform == "x" and len(image_urls) > 4 and thread_replies:
             return client.create_thread(
@@ -83,7 +105,6 @@ def publish_platform(
                 replies=thread_replies,
                 root_images=image_urls[:4],
             )
-        max_images = platforms_config().platforms[platform].max_images
         return client.create_post(
             channel_id=channel_id,
             text=caption,
@@ -114,6 +135,7 @@ def publish_all(
     captions: dict[str, str],
     image_urls: list[str],
     image_urls_9x16: list[str] | None = None,
+    video_url: str = "",
     channel_map: dict[str, tuple[str, str]],  # platform → (account, channel_id)
     thread_replies: list[dict] | None = None,
     dry_run: bool = False,
@@ -138,10 +160,13 @@ def publish_all(
     except (PermanentError, TransientError) as exc:
         log.warning("Threads token yenileme atlandı: %s", exc)
 
-    # Görsellerin herkese açık URL'lerinin yayılmasını bekle
-    if image_urls:
-        if not wait_for_public_urls(image_urls):
-            log.warning("Görsel URL'leri zamanında herkese açılmadı, devam ediliyor")
+    # Görsellerin ve videonun herkese açık URL'lerinin yayılmasını bekle
+    check_urls = list(image_urls or [])
+    if video_url:
+        check_urls.append(video_url)
+    if check_urls:
+        if not wait_for_public_urls(check_urls):
+            log.warning("Görsel/video URL'leri zamanında herkese açılmadı, devam ediliyor")
 
     existing_map: dict[str, PlatformStatus] = {}
     status_file = post_dir / "status.json"
@@ -167,6 +192,7 @@ def publish_all(
             name,
             caption=captions[name],
             image_urls=plat_urls,
+            video_url=video_url if name in ("instagram", "tiktok") else "",
             channel_id=channel_id,
             account=account,
             status=existing_map.get(name),
@@ -184,6 +210,7 @@ def recover_failed(
     captions: dict[str, str],
     image_urls: list[str],
     image_urls_9x16: list[str] | None = None,
+    video_url: str = "",
     channel_map: dict[str, tuple[str, str]],
     history_statuses: list[PlatformStatus],
     thread_replies: list[dict] | None = None,
@@ -225,6 +252,7 @@ def recover_failed(
             st.platform,
             caption=captions[st.platform],
             image_urls=plat_urls,
+            video_url=video_url if st.platform in ("instagram", "tiktok") else "",
             channel_id=channel_id,
             account=account,
             status=st,

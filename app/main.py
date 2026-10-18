@@ -21,6 +21,7 @@ from app.config import OUTPUT_DIR, platforms_config, schedule_config, settings
 from app.llm.gemini import GeminiClient
 from app.media.collector import collect_images, make_abstract_background
 from app.media.logos import save_logo
+from app.media.video_collector import collect_video
 from app.models import (
     Candidate,
     CaptionsDoc,
@@ -32,6 +33,7 @@ from app.render.fonts import ensure_fonts
 from app.render.qa import run_qa
 from app.render.renderer import render_deck
 from app.render.templates.styles import CSS
+from app.render.video_renderer import render_reel_video
 from app.select.dedup import is_duplicate, normalize_url
 from app.select.scoring import build_source_index, score_candidates
 from app.store import history as history_store
@@ -230,6 +232,17 @@ def run(
     # render_deck tek deck bekler; slayt bazlı bg için özel render
     rendered = _render_with_backgrounds(render_inputs, post_dir, fonts_dir)
 
+    # 11b) Reels & TikTok için gerçek video topla + 9:16 video (reel.mp4) üret
+    reel_path: Path | None = None
+    try:
+        source_video = collect_video(llm, selected, entities, post_dir)
+        if source_video and source_video.exists():
+            reel_path = render_reel_video(
+                deck, source_video, post_dir, fonts_dir=fonts_dir
+            )
+    except Exception as exc:
+        log.warning("Reels/TikTok video üretim adımı atlandı: %s", exc)
+
     # 12) QA (6 PNG Gemini ile kontrol — Playwright DOM taşma kontrolü zaten yapıldı)
     qa_ok, qa_issues = run_qa(llm, rendered["slides"])
     if not qa_ok:
@@ -243,7 +256,7 @@ def run(
     # 14) Meta
     _write_meta(post_dir, slot, ptype, llm, started, tried, selected)
 
-    # 15) Commit + push (görseller herkese açık URL için)
+    # 15) Commit + push (görseller ve reel.mp4 herkese açık URL için)
     commit_msg = (
         f"🤖 post: {date_label} {slot} – "
         f"{(selected.title if selected else ptype)[:60]}"
@@ -257,6 +270,7 @@ def run(
     image_urls_9x16 = _public_urls(
         date_label, post_dir, rendered.get("slides_9x16", []), subdir="slides_9x16"
     )
+    video_url = _public_video_url(post_dir, reel_path)
     status_caption_map = {
         k: _format_caption_text(k, getattr(captions, k).text, getattr(captions, k).hashtags)
         for k in ("instagram", "tiktok", "x", "threads", "linkedin", "facebook")
@@ -268,6 +282,7 @@ def run(
         captions=status_caption_map,
         image_urls=image_urls,
         image_urls_9x16=image_urls_9x16,
+        video_url=video_url,
         channel_map=channel_map,
         thread_replies=thread_replies,
         dry_run=dry_run,
@@ -412,6 +427,8 @@ def _publish_existing_dry_run(
     slide_916_paths = sorted((target_dir / "slides_9x16").glob("slide-*.png"))
     image_urls = _public_urls(date_label, target_dir, slide_paths)
     image_urls_9x16 = _public_urls(date_label, target_dir, slide_916_paths, subdir="slides_9x16")
+    reel_path = target_dir / "video" / "reel.mp4"
+    video_url = _public_video_url(target_dir, reel_path if reel_path.exists() else None)
     thread_replies = _thread_replies(status_caption_map.get("x", ""), image_urls)
 
     statuses = publish_all(
@@ -419,6 +436,7 @@ def _publish_existing_dry_run(
         captions=status_caption_map,
         image_urls=image_urls,
         image_urls_9x16=image_urls_9x16,
+        video_url=video_url,
         channel_map=_channel_map(),
         thread_replies=thread_replies,
         dry_run=False,
@@ -598,11 +616,14 @@ def _recovery_pass(llm: GeminiClient, *, dry_run: bool) -> None:
                 sorted((post_dir / "slides_9x16").glob("slide-*.png")),
                 subdir="slides_9x16",
             )
+            reel_path = post_dir / "video" / "reel.mp4"
+            video_url = _public_video_url(post_dir, reel_path if reel_path.exists() else None)
             recovered = recover_failed(
                 post_dir,
                 captions=captions,
                 image_urls=image_urls,
                 image_urls_9x16=image_urls_9x16,
+                video_url=video_url,
                 channel_map=_channel_map(),
                 history_statuses=entry.status_per_platform,
                 thread_replies=_thread_replies(captions.get("x", ""), image_urls),
@@ -636,7 +657,7 @@ def _make_post_dir(
     slug = slugify(selected.title if selected else ptype)
     name = f"{idx:02d}-{slot.replace(':', '')}-{slug}"
     post_dir = OUTPUT_DIR / date_label / name
-    for sub in ("slides", "slides_9x16", "images", "sources"):
+    for sub in ("slides", "slides_9x16", "images", "sources", "video"):
         (post_dir / sub).mkdir(parents=True, exist_ok=True)
     return post_dir
 
@@ -850,6 +871,16 @@ def _public_urls(
         f"https://raw.githubusercontent.com/{repo}/main/{rel}/{subdir}/{p.name}"
         for p in slide_paths
     ]
+
+
+def _public_video_url(post_dir: Path, reel_path: Path | None) -> str:
+    """raw.githubusercontent.com üzerinden herkese açık MP4 video URL'si."""
+    if not reel_path or not reel_path.exists():
+        return ""
+    cfg = settings()
+    repo = cfg.github_repository or "OWNER/REPO"
+    rel = post_dir.relative_to(_repo_root()).as_posix()
+    return f"https://raw.githubusercontent.com/{repo}/main/{rel}/video/{reel_path.name}"
 
 
 def _thread_replies(x_caption: str, image_urls: list[str]) -> list[dict]:

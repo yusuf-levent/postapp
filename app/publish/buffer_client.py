@@ -278,6 +278,78 @@ class BufferClient:
             raise PermanentError(f"Buffer {typename}: {message}")
         raise TransientError(f"Buffer {typename}: {message}")
 
+    def create_video_post(
+        self,
+        *,
+        channel_id: str,
+        text: str,
+        video_url: str,
+        platform: str = "",
+        fallback_images: list[str] | None = None,
+    ) -> dict[str, Any]:
+        """Instagram Reels veya TikTok için 9:16 video gönderisi oluşturur ve paylaşır."""
+        service = PLATFORM_SERVICE_KEY.get(platform, "")
+        meta_candidates: list[dict[str, Any]] = [{}]
+        if service == "instagram":
+            meta_candidates = [
+                {"instagram": {"shouldShareToFeed": True, "type": "reel"}},
+                {"instagram": {"shouldShareToFeed": True, "type": "post"}},
+                {},
+            ]
+        elif service == "tiktok":
+            meta_candidates = [
+                {"tiktok": {"isAiGenerated": False}},
+                {},
+            ]
+
+        assets = [{"video": {"url": video_url}}]
+        for meta in meta_candidates:
+            input_obj: dict[str, Any] = {
+                "channelId": channel_id,
+                "text": text,
+                "assets": assets,
+                "mode": "shareNow",
+                "schedulingType": "automatic",
+                "source": "tekno-pusula",
+            }
+            if meta:
+                input_obj["metadata"] = meta
+            try:
+                data = self._post(MUTATION_CREATE_POST, {"input": input_obj})
+                payload = data.get("createPost") or {}
+                typename = payload.get("__typename", "")
+                if typename == "PostActionSuccess":
+                    post = payload.get("post", {})
+                    post_id = post.get("id", "")
+                    status = post.get("status", "")
+                    ext_link = post.get("externalLink", "")
+                    log.info("Buffer video post oluşturuldu (%s): %s (%s)", platform, post_id, status)
+                    if post_id and status != "sent":
+                        polled = self._poll_post_status(post_id)
+                        if polled:
+                            status = polled.get("status") or status
+                            ext_link = polled.get("externalLink") or ext_link
+                    if status != "error":
+                        return {
+                            "id": post_id,
+                            "status": status,
+                            "externalLink": ext_link,
+                        }
+                log.warning("Buffer video denemesi (%s, %s) başarısız: %s", platform, meta, payload.get("message"))
+            except Exception as exc:
+                log.warning("Buffer video denemesi (%s, %s) hata verdi: %s", platform, meta, exc)
+
+        if fallback_images:
+            log.info("%s için video paylaşımı yerine 6'lı slayt yedek paylaşımına geçiliyor.", platform)
+            return self.create_post(
+                channel_id=channel_id,
+                text=text,
+                image_urls=fallback_images,
+                share_now=True,
+                platform=platform,
+            )
+        raise TransientError(f"Buffer video post oluşturulamadı ({platform})")
+
     def _poll_post_status(self, post_id: str, *, max_polls: int = 4, delay: float = 3.0) -> dict[str, Any]:
         """Gönderim sonrası post durumunu poll eder (sent/error kontrolü)."""
         import time
