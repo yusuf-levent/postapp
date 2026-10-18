@@ -1,0 +1,248 @@
+{
+  "title": "The reason your Amazon Alexa devices are always listening",
+  "canonical_url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+  "source_names": [
+    "Engadget",
+    "Google Blog",
+    "AWS News Blog"
+  ],
+  "checked_at": "2026-10-18T23:33:08+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Dünya genelinde ilk çıkışından bu yana 600 milyondan fazla Alexa destekli cihaz satın alındı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+          "quote": "over 600 million Alexa-enabled devices have been purchased worldwide since its initial release."
+        }
+      ]
+    },
+    {
+      "claim": "Amazon, Alexa'nın yeni bir tablet serisi de dahil olmak üzere yeni ürünler duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+          "quote": "with Amazon just announcing several new products, many of which — like the company's new line of tablets — actively involve Alexa."
+        }
+      ]
+    },
+    {
+      "claim": "Alexa, uyanma kelimesiyle eşleşen akustik kalıpları dinler ve uyanma kelimesi algılanana kadar ses kaydetmez veya buluta göndermez.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Amazon Echo serisi cihazlarda mikrofonu sessize almak için cihazın üstünde mikrofon üzerinde çizgi olan bir düğme bulunur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+          "quote": "For most Alexa devices made by Amazon (the Echo lineup), the button to do so is located on the top of the device and looks like a microphone with a slash through it."
+        }
+      ]
+    },
+    {
+      "claim": "Mikrofon sessize alındığında Echo cihazında kırmızı bir ışık görüntülenir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+          "quote": "Once you press it, you'll know the microphone is muted by the red light displayed on the Echo device."
+        }
+      ]
+    },
+    {
+      "claim": "Alexa gizlilik ayarlarından ses kayıtları ve transkriptler için üç ay, 18 ay saklama, silinene kadar saklama veya hiç saklamama seçenekleri bulunur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+          "quote": "Select Voice Recordings and Transcripts. From here, you'll have four options: saving them for three or 18 months, saving until you delete them or not retaining them at all."
+        }
+      ]
+    },
+    {
+      "claim": "Sesli silme özelliği Alexa+ veya Amazon Kids çalıştıran cihazlarda çalışmaz.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+          "quote": "However, this doesn't work with devices running Alexa+ or Amazon Kids."
+        }
+      ]
+    },
+    {
+      "claim": "Üçüncü taraf cihazlarla kullanılan Alexa geçmişine, silme işleminden sonra bile o şirketler erişmeye devam edebilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+          "quote": "If you use Alexa with third-party devices like robotic vacuums or smart TVs, those companies may still have access to your history after deletion."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Dünya genelinde ilk çıkışından bu yana 600 milyondan fazla Alexa destekli cihaz satın alındı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+          "quote": "over 600 million Alexa-enabled devices have been purchased worldwide since its initial release."
+        }
+      ]
+    },
+    {
+      "claim": "Amazon, Alexa'nın yeni bir tablet serisi de dahil olmak üzere yeni ürünler duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+          "quote": "with Amazon just announcing several new products, many of which — like the company's new line of tablets — actively involve Alexa."
+        }
+      ]
+    },
+    {
+      "claim": "Alexa, uyanma kelimesiyle eşleşen akustik kalıpları dinler ve uyanma kelimesi algılanana kadar ses kaydetmez veya buluta göndermez.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Amazon Echo serisi cihazlarda mikrofonu sessize almak için cihazın üstünde mikrofon üzerinde çizgi olan bir düğme bulunur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+          "quote": "For most Alexa devices made by Amazon (the Echo lineup), the button to do so is located on the top of the device and looks like a microphone with a slash through it."
+        }
+      ]
+    },
+    {
+      "claim": "Mikrofon sessize alındığında Echo cihazında kırmızı bir ışık görüntülenir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+          "quote": "Once you press it, you'll know the microphone is muted by the red light displayed on the Echo device."
+        }
+      ]
+    },
+    {
+      "claim": "Alexa gizlilik ayarlarından ses kayıtları ve transkriptler için üç ay, 18 ay saklama, silinene kadar saklama veya hiç saklamama seçenekleri bulunur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+          "quote": "Select Voice Recordings and Transcripts. From here, you'll have four options: saving them for three or 18 months, saving until you delete them or not retaining them at all."
+        }
+      ]
+    },
+    {
+      "claim": "Sesli silme özelliği Alexa+ veya Amazon Kids çalıştıran cihazlarda çalışmaz.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+          "quote": "However, this doesn't work with devices running Alexa+ or Amazon Kids."
+        }
+      ]
+    },
+    {
+      "claim": "Üçüncü taraf cihazlarla kullanılan Alexa geçmişine, silme işleminden sonra bile o şirketler erişmeye devam edebilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+          "quote": "If you use Alexa with third-party devices like robotic vacuums or smart TVs, those companies may still have access to your history after deletion."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Dünya genelinde ilk çıkışından bu yana 600 milyondan fazla Alexa destekli cihaz satın alındı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+          "quote": "over 600 million Alexa-enabled devices have been purchased worldwide since its initial release."
+        }
+      ]
+    },
+    {
+      "claim": "Amazon, Alexa'nın yeni bir tablet serisi de dahil olmak üzere yeni ürünler duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+          "quote": "with Amazon just announcing several new products, many of which — like the company's new line of tablets — actively involve Alexa."
+        }
+      ]
+    },
+    {
+      "claim": "Alexa, uyanma kelimesiyle eşleşen akustik kalıpları dinler ve uyanma kelimesi algılanana kadar ses kaydetmez veya buluta göndermez.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Amazon Echo serisi cihazlarda mikrofonu sessize almak için cihazın üstünde mikrofon üzerinde çizgi olan bir düğme bulunur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+          "quote": "For most Alexa devices made by Amazon (the Echo lineup), the button to do so is located on the top of the device and looks like a microphone with a slash through it."
+        }
+      ]
+    },
+    {
+      "claim": "Mikrofon sessize alındığında Echo cihazında kırmızı bir ışık görüntülenir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+          "quote": "Once you press it, you'll know the microphone is muted by the red light displayed on the Echo device."
+        }
+      ]
+    },
+    {
+      "claim": "Alexa gizlilik ayarlarından ses kayıtları ve transkriptler için üç ay, 18 ay saklama, silinene kadar saklama veya hiç saklamama seçenekleri bulunur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+          "quote": "Select Voice Recordings and Transcripts. From here, you'll have four options: saving them for three or 18 months, saving until you delete them or not retaining them at all."
+        }
+      ]
+    },
+    {
+      "claim": "Sesli silme özelliği Alexa+ veya Amazon Kids çalıştıran cihazlarda çalışmaz.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+          "quote": "However, this doesn't work with devices running Alexa+ or Amazon Kids."
+        }
+      ]
+    },
+    {
+      "claim": "Üçüncü taraf cihazlarla kullanılan Alexa geçmişine, silme işleminden sonra bile o şirketler erişmeye devam edebilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+          "quote": "If you use Alexa with third-party devices like robotic vacuums or smart TVs, those companies may still have access to your history after deletion."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/": 4118,
+    "https://blog.google/products-and-platforms/devices/pixel/international-repair-day-2026/": 3568,
+    "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/": 8125
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE TEKNOLOJI",
+    "title": "Alexa ile Hayatımıza Giren Yenilikler",
+    "highlight_words": [
+      "Alexa"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Alexa destekli cihazlar ve gizlilik detayları hakkında bilmeniz gerekenler.",
+    "source_tags": [
+      "ENGADGET",
+      "AWS NEWS BLOG"
+    ]
+  },
+  "context": {
+    "heading": "Alexa Dünyası",
+    "cards": [
+      {
+        "card_title": "Satış Rakamları",
+        "card_body": "Dünya genelinde ilk çıkışından bu yana 600 milyondan fazla Alexa destekli cihaz satın alındı."
+      },
+      {
+        "card_title": "Yeni Ürünler",
+        "card_body": "Amazon, yeni bir tablet serisi de dahil olmak üzere yeni ürünler duyurdu."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "600 MİLYON",
+    "stat_caption": "Dünya genelinde satılan Alexa destekli cihaz sayısı.",
+    "stat_quote": "Dünya genelinde ilk çıkışından bu yana 600 milyondan fazla Alexa destekli cihaz satın alındı."
+  },
+  "details": {
+    "heading": "Gizlilik ve Kontrol",
+    "cards": [
+      {
+        "card_title": "Mikrofon Kontrolü",
+        "card_body": "Echo serisi cihazlarda mikrofonu sessize almak için üstünde çizgi olan bir düğme bulunur ve kırmızı ışık yanar."
+      },
+      {
+        "card_title": "Gizlilik Ayarları",
+        "card_body": "Ses kayıtları ve transkriptler için üç ay, 18 ay, silinene kadar saklama veya hiç saklamama seçenekleri vardır."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcı ve Sistem Etkisi",
+    "cards": [
+      {
+        "card_title": "Sesli Silme Sınırı",
+        "card_body": "Sesli silme özelliği Alexa+ veya Amazon Kids çalıştıran cihazlarda çalışmamaktadır."
+      },
+      {
+        "card_title": "Üçüncü Taraf Erişimi",
+        "card_body": "Üçüncü taraf cihazlarla kullanılan Alexa geçmişine, silme işleminden sonra bile o şirketler erişmeye devam edebilir."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Alexa cihazınızın gizlilik ayarlarını nasıl yapılandırıyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

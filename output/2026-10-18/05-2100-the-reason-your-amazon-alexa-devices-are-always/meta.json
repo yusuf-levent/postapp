@@ -1,0 +1,10 @@
+{
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 391.1,
+  "candidates_tried": 1,
+  "gemini_calls": 10,
+  "canonical_url": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+  "generated_at": "2026-10-18T23:34:03+03:00"
+}
