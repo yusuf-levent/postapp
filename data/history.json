@@ -65,5 +65,79 @@
     ],
     "created_at": "2026-10-17T22:57:29+03:00",
     "verified_claims_count": 1
+  },
+  {
+    "id": "2026-10-18-0900",
+    "date": "2026-10-18",
+    "slot": "09:00",
+    "type": "news",
+    "title_tr": "Yeni Nesil Tesla Roadster Yolda",
+    "original_title": "The Tesla Roadster is far from the first car to use fans for downforce",
+    "source_urls": [
+      "https://www.engadget.com/2289646/tesla-roadster-not-first-car-use-fans-for-downforce/"
+    ],
+    "canonical_url": "https://engadget.com/2289646/tesla-roadster-not-first-car-use-fans-for-downforce",
+    "entities": [
+      "Tesla Roadster",
+      "Chaparral 2J",
+      "Tesla",
+      "McMurtry Automotive",
+      "Spéirling",
+      "Brabham BT46"
+    ],
+    "event_type": "product_feature_announcement",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ad46e296d56c60a73fc9dc8",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ad46e41938409f1d0bc88b8",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ad46e58ae173d6e00ed5846",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2111713795991027721",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "17935366842402824",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DeoGKK5FI0O",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ad46e75938409f1d0bc9228",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ad46e8d0b0d72757a0f41c1",
+        "permalink": "https://facebook.com/1351036918092059_122116329951484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-18T10:00:39+03:00",
+    "verified_claims_count": 8
   }
 ]
