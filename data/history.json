@@ -243,7 +243,7 @@
         "state": "failed",
         "external_id": "",
         "permalink": "",
-        "attempts": 2,
+        "attempts": 3,
         "last_error": "BufferClient.create_video_post() got an unexpected keyword argument 'share_now'"
       },
       {
@@ -251,7 +251,7 @@
         "state": "failed",
         "external_id": "",
         "permalink": "",
-        "attempts": 2,
+        "attempts": 3,
         "last_error": "BufferClient.create_video_post() got an unexpected keyword argument 'share_now'"
       },
       {
