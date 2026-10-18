@@ -1,0 +1,313 @@
+{
+  "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+  "canonical_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+  "source_names": [
+    "NVIDIA Newsroom",
+    "Wired",
+    "NVIDIA Newsroom",
+    "Ars Technica"
+  ],
+  "checked_at": "2026-10-18T18:45:10+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "NVIDIA RTX Spark laptops start at $2,399.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with additional systems on the way."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device"
+        }
+      ]
+    },
+    {
+      "claim": "ASUS, Dell, HP, Lenovo, Microsoft and MSI are among the manufacturers offering RTX Spark laptops.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with additional systems on the way."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device"
+        }
+      ]
+    },
+    {
+      "claim": "RTX Spark combines an NVIDIA Blackwell RTX GPU and NVIDIA Grace CPU with up to 1 petaflop of AI compute and up to 128GB of unified memory.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "RTX Spark brings decades of NVIDIA accelerated computing innovation into a single superchip, combining an NVIDIA Blackwell RTX GPU and NVIDIA Grace CPU with up to 1 petaflop of AI compute and up to 128GB of unified memory."
+        }
+      ]
+    },
+    {
+      "claim": "Berlin held one of six RTX Spark retail launch celebrations worldwide.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "Berlin held one of six RTX Spark retail launch celebrations worldwide."
+        }
+      ]
+    },
+    {
+      "claim": "NVIDIA founder and CEO Jensen Huang made a surprise appearance at the Berlin launch event.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "NVIDIA celebrated the launch with events around the world, including one in Berlin, where NVIDIA founder and CEO Jensen Huang made a surprise appearance."
+        }
+      ]
+    },
+    {
+      "claim": "Berlin's launch celebration took place at XPERION, the gaming venue inside Saturn at Alexanderplatz.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "Fans gathered hours ahead in anticipation for the launch celebration at XPERION, the gaming venue inside Saturn at Alexanderplatz, where attendees got hands-on with RTX Spark laptops from leading PC makers, exploring the latest gaming experiences, content-creation workflows and local AI capabilities."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "Fans gathered hours ahead in anticipation for the launch celebration at XPERION, the gaming venue inside Saturn at Alexanderplatz"
+        }
+      ]
+    },
+    {
+      "claim": "Berlin's Festival of Lights featured RTX Spark-themed lighting on the Berlin TV Tower.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "This year, the festival featured RTX Spark-themed lighting on the Berlin TV Tower."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "The arrival of RTX Spark brought fans, creators and PC enthusiasts together in Berlin during the Festival of Lights, an annual autumn art festival that transforms the German capital’s most famous landmarks, streets and squares into glowing canvases. This year, the festival featured RTX Spark-themed lighting on the Berlin TV Tower."
+        }
+      ]
+    },
+    {
+      "claim": "Tech influencer iJustine made a special appearance at the San Francisco RTX Spark launch event at Best Buy.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "Tech enthusiasts in San Francisco visited the local Best Buy store for an unforgettable morning of hands-on RTX Spark demos, fireside chats with local founders and a special appearance by tech influencer iJustine."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "NVIDIA RTX Spark laptops start at $2,399.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with additional systems on the way."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device"
+        }
+      ]
+    },
+    {
+      "claim": "ASUS, Dell, HP, Lenovo, Microsoft and MSI are among the manufacturers offering RTX Spark laptops.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with additional systems on the way."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device"
+        }
+      ]
+    },
+    {
+      "claim": "RTX Spark combines an NVIDIA Blackwell RTX GPU and NVIDIA Grace CPU with up to 1 petaflop of AI compute and up to 128GB of unified memory.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "RTX Spark brings decades of NVIDIA accelerated computing innovation into a single superchip, combining an NVIDIA Blackwell RTX GPU and NVIDIA Grace CPU with up to 1 petaflop of AI compute and up to 128GB of unified memory."
+        }
+      ]
+    },
+    {
+      "claim": "Berlin held one of six RTX Spark retail launch celebrations worldwide.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "Berlin held one of six RTX Spark retail launch celebrations worldwide."
+        }
+      ]
+    },
+    {
+      "claim": "NVIDIA founder and CEO Jensen Huang made a surprise appearance at the Berlin launch event.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "NVIDIA celebrated the launch with events around the world, including one in Berlin, where NVIDIA founder and CEO Jensen Huang made a surprise appearance."
+        }
+      ]
+    },
+    {
+      "claim": "Berlin's launch celebration took place at XPERION, the gaming venue inside Saturn at Alexanderplatz.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "Fans gathered hours ahead in anticipation for the launch celebration at XPERION, the gaming venue inside Saturn at Alexanderplatz, where attendees got hands-on with RTX Spark laptops from leading PC makers, exploring the latest gaming experiences, content-creation workflows and local AI capabilities."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "Fans gathered hours ahead in anticipation for the launch celebration at XPERION, the gaming venue inside Saturn at Alexanderplatz"
+        }
+      ]
+    },
+    {
+      "claim": "Berlin's Festival of Lights featured RTX Spark-themed lighting on the Berlin TV Tower.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "This year, the festival featured RTX Spark-themed lighting on the Berlin TV Tower."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "The arrival of RTX Spark brought fans, creators and PC enthusiasts together in Berlin during the Festival of Lights, an annual autumn art festival that transforms the German capital’s most famous landmarks, streets and squares into glowing canvases. This year, the festival featured RTX Spark-themed lighting on the Berlin TV Tower."
+        }
+      ]
+    },
+    {
+      "claim": "Tech influencer iJustine made a special appearance at the San Francisco RTX Spark launch event at Best Buy.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "Tech enthusiasts in San Francisco visited the local Best Buy store for an unforgettable morning of hands-on RTX Spark demos, fireside chats with local founders and a special appearance by tech influencer iJustine."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "NVIDIA RTX Spark laptops start at $2,399.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with additional systems on the way."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device"
+        }
+      ]
+    },
+    {
+      "claim": "ASUS, Dell, HP, Lenovo, Microsoft and MSI are among the manufacturers offering RTX Spark laptops.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with additional systems on the way."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device"
+        }
+      ]
+    },
+    {
+      "claim": "RTX Spark combines an NVIDIA Blackwell RTX GPU and NVIDIA Grace CPU with up to 1 petaflop of AI compute and up to 128GB of unified memory.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "RTX Spark brings decades of NVIDIA accelerated computing innovation into a single superchip, combining an NVIDIA Blackwell RTX GPU and NVIDIA Grace CPU with up to 1 petaflop of AI compute and up to 128GB of unified memory."
+        }
+      ]
+    },
+    {
+      "claim": "Berlin held one of six RTX Spark retail launch celebrations worldwide.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "Berlin held one of six RTX Spark retail launch celebrations worldwide."
+        }
+      ]
+    },
+    {
+      "claim": "NVIDIA founder and CEO Jensen Huang made a surprise appearance at the Berlin launch event.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "NVIDIA celebrated the launch with events around the world, including one in Berlin, where NVIDIA founder and CEO Jensen Huang made a surprise appearance."
+        }
+      ]
+    },
+    {
+      "claim": "Berlin's launch celebration took place at XPERION, the gaming venue inside Saturn at Alexanderplatz.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "Fans gathered hours ahead in anticipation for the launch celebration at XPERION, the gaming venue inside Saturn at Alexanderplatz, where attendees got hands-on with RTX Spark laptops from leading PC makers, exploring the latest gaming experiences, content-creation workflows and local AI capabilities."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "Fans gathered hours ahead in anticipation for the launch celebration at XPERION, the gaming venue inside Saturn at Alexanderplatz"
+        }
+      ]
+    },
+    {
+      "claim": "Berlin's Festival of Lights featured RTX Spark-themed lighting on the Berlin TV Tower.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "This year, the festival featured RTX Spark-themed lighting on the Berlin TV Tower."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "The arrival of RTX Spark brought fans, creators and PC enthusiasts together in Berlin during the Festival of Lights, an annual autumn art festival that transforms the German capital’s most famous landmarks, streets and squares into glowing canvases. This year, the festival featured RTX Spark-themed lighting on the Berlin TV Tower."
+        }
+      ]
+    },
+    {
+      "claim": "Tech influencer iJustine made a special appearance at the San Francisco RTX Spark launch event at Best Buy.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "quote": "Tech enthusiasts in San Francisco visited the local Best Buy store for an unforgettable morning of hands-on RTX Spark demos, fireside chats with local founders and a special appearance by tech influencer iJustine."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/": 3093,
+    "https://www.wired.com/review/microsoft-surface-laptop-ultra/": 17389,
+    "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation": 6448,
+    "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/": 25339
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "slot": "18:00",
+  "type": "edu",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 114.3,
+  "candidates_tried": 1,
+  "gemini_calls": 10,
+  "canonical_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+  "generated_at": "2026-10-18T18:46:35+03:00"
+}

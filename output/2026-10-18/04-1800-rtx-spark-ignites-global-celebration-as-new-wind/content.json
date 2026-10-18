@@ -1,0 +1,128 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE DONANIM",
+    "title": "NVIDIA RTX Spark Dizüstü Bilgisayarlarla Tanışın",
+    "highlight_words": [
+      "RTX Spark",
+      "1 Petaflop"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Blackwell RTX GPU ve Grace CPU gücü artık dizüstü bilgisayarlarda.",
+    "source_tags": [
+      "NVIDIA Newsroom",
+      "Wired",
+      "Ars Technica"
+    ]
+  },
+  "problem": {
+    "heading": "RTX Spark Nedir ve Neler Sunar?",
+    "cards": [
+      {
+        "card_title": "Güçlü Mimari",
+        "card_body": "RTX Spark, NVIDIA Blackwell RTX GPU ve NVIDIA Grace CPU'yu bir araya getiriyor."
+      },
+      {
+        "card_title": "Yapay Zeka Performansı",
+        "card_body": "Bu yeni sistem, 1 petaflop yapay zeka hesaplama gücü ve 128 GB'a kadar birleştirilmiş bellek sunuyor."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Fiyatlandırma ve Üreticiler",
+      "cards": [
+        {
+          "card_title": "Başlangıç Fiyatı",
+          "card_body": "NVIDIA RTX Spark dizüstü bilgisayarlar 2.399 dolardan başlayan fiyatlarla satışa sunuluyor."
+        },
+        {
+          "card_title": "Destekleyen Markalar",
+          "card_body": "ASUS, Dell, HP, Lenovo, Microsoft ve MSI bu yeni dizüstü bilgisayarları sunan üreticiler arasında yer alıyor."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Küresel Lansman ve Berlin Etkinliği",
+      "cards": [
+        {
+          "card_title": "Dünya Çapında Kutlamalar",
+          "card_body": "Berlin, dünya genelindeki altı RTX Spark perakende lansman kutlamasından birine ev sahipliği yaptı."
+        },
+        {
+          "card_title": "Sürpriz Konuk",
+          "card_body": "NVIDIA kurucusu ve CEO'su Jensen Huang, Berlin lansman etkinliğinde sürpriz bir konuşma yaptı."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Berlin ve San Francisco'dan Notlar",
+      "cards": [
+        {
+          "card_title": "XPERION ve Işık Festivali",
+          "card_body": "Berlin'deki lansman kutlaması, Alexanderplatz'daki Saturn içinde yer alan XPERION oyun mekanında gerçekleşti ve Berlin TV Kulesi'nde RTX Spark temalı ışıklandırmalar yapıldı."
+        },
+        {
+          "card_title": "San Francisco Lansmanı",
+          "card_body": "Teknoloji fenomeni iJustine, Best Buy'da gerçekleşen San Francisco RTX Spark lansman etkinliğinde özel olarak yer aldı."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "NVIDIA'nın yeni Blackwell mimarili RTX Spark dizüstü bilgisayarları hakkında ne düşünüyorsunuz?",
+    "reminder_line": "En güncel teknoloji ve yapay zeka gelişmeleri için Tekno Pusula'yı takipte kalın!"
+  },
+  "context": {
+    "heading": "RTX Spark Nedir ve Neler Sunar?",
+    "cards": [
+      {
+        "card_title": "Güçlü Mimari",
+        "card_body": "RTX Spark, NVIDIA Blackwell RTX GPU ve NVIDIA Grace CPU'yu bir araya getiriyor."
+      },
+      {
+        "card_title": "Yapay Zeka Performansı",
+        "card_body": "Bu yeni sistem, 1 petaflop yapay zeka hesaplama gücü ve 128 GB'a kadar birleştirilmiş bellek sunuyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Fiyatlandırma ve Üreticiler",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Küresel Lansman ve Berlin Etkinliği",
+    "cards": [
+      {
+        "card_title": "Dünya Çapında Kutlamalar",
+        "card_body": "Berlin, dünya genelindeki altı RTX Spark perakende lansman kutlamasından birine ev sahipliği yaptı."
+      },
+      {
+        "card_title": "Sürpriz Konuk",
+        "card_body": "NVIDIA kurucusu ve CEO'su Jensen Huang, Berlin lansman etkinliğinde sürpriz bir konuşma yaptı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Berlin ve San Francisco'dan Notlar",
+    "cards": [
+      {
+        "card_title": "XPERION ve Işık Festivali",
+        "card_body": "Berlin'deki lansman kutlaması, Alexanderplatz'daki Saturn içinde yer alan XPERION oyun mekanında gerçekleşti ve Berlin TV Kulesi'nde RTX Spark temalı ışıklandırmalar yapıldı."
+      },
+      {
+        "card_title": "San Francisco Lansmanı",
+        "card_body": "Teknoloji fenomeni iJustine, Best Buy'da gerçekleşen San Francisco RTX Spark lansman etkinliğinde özel olarak yer aldı."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}
