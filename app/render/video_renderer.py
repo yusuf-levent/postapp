@@ -146,8 +146,8 @@ async def _render_single_overlay(
     brand = brand_config()
     w916 = brand["canvas"]["width_9x16"]
     h916 = brand["canvas"]["height_9x16"]
-    accent = brand["colors"]["accent"]
-    handle = _html.escape(brand["handle"])
+    accent = brand.get("colors", {}).get("accent_yellow", "#FFE000")
+    handle = _html.escape(brand.get("handle", "@tekno_pusula"))
 
     # Font tanımları için mevcut slayt 1 CSS bloğunu al
     d = dict(deck)
