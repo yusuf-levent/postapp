@@ -74,7 +74,8 @@ def main() -> int:
         timeout=15,
     )
     if r_hist.status_code == 200:
-        posts = r_hist.json().get("posts", [])
+        raw = r_hist.json()
+        posts = raw if isinstance(raw, list) else raw.get("posts", [])
         for p in posts:
             if p.get("date") == today and p.get("slot") == active_slot:
                 statuses = p.get("status_per_platform", [])

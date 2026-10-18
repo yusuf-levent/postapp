@@ -632,6 +632,19 @@ def _recovery_pass(llm: GeminiClient, *, dry_run: bool) -> None:
             if recovered:
                 entry.status_per_platform = list(recovered.values())
                 history_store.append_entry(entry)
+                for st in recovered.values():
+                    if st.state == "published":
+                        close_resolved_issues(st.platform)
+                _update_daily_summary(entry.date)
+                summary_path = OUTPUT_DIR / entry.date / "daily_summary.md"
+                commit_and_push(
+                    f"🤖 recover: {entry.date} {entry.slot}",
+                    [
+                        "data/history.json",
+                        post_dir.relative_to(_repo_root()),
+                        summary_path.relative_to(_repo_root()),
+                    ],
+                )
             log.info("Kurtarma turu yapıldı: %s %s", entry.date, entry.slot)
         except Exception as exc:
             log.warning("Kurtarma turu başarısız: %s", exc)

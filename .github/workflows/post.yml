@@ -62,7 +62,8 @@ jobs:
           needs_recovery = False
           try:
               data = json.load(open("data/history.json", encoding="utf-8"))
-              for p in data.get("posts", []):
+              posts = data if isinstance(data, list) else data.get("posts", [])
+              for p in posts:
                   if p.get("date") == today:
                       statuses = p.get("status_per_platform", [])
                       if any(st.get("state") in ("failed", "pending") for st in statuses):
