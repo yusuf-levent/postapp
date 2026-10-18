@@ -5,6 +5,10 @@ on:
     # UTC: 09:00, 12:00, 15:00, 18:00, 21:00 Europe/Istanbul (UTC+3)
     - cron: "3 6,9,12,15,18 * * *"
     - cron: "28 6,9,12,15,18 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "data/slot_trigger.txt"
   workflow_dispatch:
     inputs:
       dry_run:
@@ -17,7 +21,7 @@ on:
         default: auto
 
 concurrency:
-  group: tekno-pusula-v2
+  group: tekno-pusula-publish
   cancel-in-progress: false
 
 permissions:
