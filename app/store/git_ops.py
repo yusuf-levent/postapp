@@ -12,8 +12,8 @@ from app.config import REPO_ROOT
 
 log = logging.getLogger("tekno-pusula.git")
 
-BOT_NAME = "github-actions[bot]"
-BOT_EMAIL = "41898282+github-actions[bot]@users.noreply.github.com"
+BOT_NAME = "yusuf-levent"
+BOT_EMAIL = "186452945+yusuf-levent@users.noreply.github.com"
 
 
 def _run(args: list[str], *, check: bool = True) -> subprocess.CompletedProcess:

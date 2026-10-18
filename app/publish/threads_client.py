@@ -78,6 +78,10 @@ class ThreadsClient:
             raise PermanentError("Threads token geçersiz/süresi dolmuş (401).")
         if resp.status_code == 429:
             raise TransientError("Threads rate limit (429).")
+        if resp.status_code == 400 and (
+            "4279004" in resp.text or "Invalid Carousel Children" in resp.text
+        ):
+            raise TransientError(f"Threads çocuk container henüz hazır değil (400): {resp.text[:250]}")
         raise_for_status(resp.status_code, resp.text)
         try:
             return resp.json()
@@ -119,6 +123,7 @@ class ThreadsClient:
             children.append(child_id)
             log.info("Carousel çocuk container: %s", child_id)
 
+        time.sleep(1.5)
         main_id = self._create_container(
             {
                 "media_type": "CAROUSEL",
