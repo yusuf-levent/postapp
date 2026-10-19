@@ -658,5 +658,77 @@
     ],
     "created_at": "2026-10-19T18:49:38+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-10-19-2100",
+    "date": "2026-10-19",
+    "slot": "21:00",
+    "type": "news",
+    "title_tr": "JUPITER ile dev kuantum simülasyonu",
+    "original_title": "NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at Jülich Supercomputing Centre",
+    "source_urls": [
+      "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre"
+    ],
+    "canonical_url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+    "entities": [
+      "NVIDIA",
+      "Jülich Supercomputing Centre",
+      "JUPITER",
+      "NVIDIA GH200"
+    ],
+    "event_type": "research_result",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ad65d9811ae6f7c8300336c",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ad65db0b2d0f93dc98aa2a2",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ad65dc7bb5d496eb94c2980",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2112245764286026018",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18091326992227234",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/Der4FR1mGW1",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ad65df14771e1910a9745c3",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ad65e08bb5d496eb94c3a35",
+        "permalink": "https://facebook.com/1351036918092059_122116764627484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-19T21:14:42+03:00",
+    "verified_claims_count": 8
   }
 ]
