@@ -1,0 +1,27 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://blogs.nvidia.com/wp-content/uploads/2026/10/media-and-entertainment-1920x1080-1.jpg",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-19/04-1800-nvidia-advances-agentic-security-for-media-from/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+      "width": 1920,
+      "height": 1080,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/14879064/pexels-photo-14879064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-19/04-1800-nvidia-advances-agentic-security-for-media-from/images/img-2.png",
+      "license": "Pexels License — I'm Zion",
+      "author": "I'm Zion",
+      "credit_url": "https://www.pexels.com/photo/close-up-shot-of-a-monitor-screen-14879064/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "A close-up view of video editing software displayed on a computer monitor."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}

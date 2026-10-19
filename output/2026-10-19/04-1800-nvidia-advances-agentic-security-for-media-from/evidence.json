@@ -1,0 +1,301 @@
+{
+  "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
+  "canonical_url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+  "source_names": [
+    "NVIDIA Newsroom",
+    "TechCrunch",
+    "NVIDIA Newsroom",
+    "The Verge"
+  ],
+  "checked_at": "2026-10-19T18:45:56+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Berlin'de Adobe, Bertelsmann, NVIDIA ve UFA iş birliğiyle yaratıcı endüstri etkinlikleri düzenlendi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA — the latest advancements in intelligent media were on display."
+        }
+      ]
+    },
+    {
+      "claim": "European Broadcasting Union (EBU), veri egemenliğini genişletmek için NVIDIA ile iş birliği yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "the European Broadcasting Union (EBU) is collaborating with NVIDIA to expand its sovereign framework with cloud, open models and integration partners"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "Key to the news: the European Broadcasting Union (EBU) is collaborating with NVIDIA to expand its sovereign framework with cloud, open models and integration partners"
+        }
+      ]
+    },
+    {
+      "claim": "EBU, 55'ten fazla ülkede 115'ten fazla üye kuruluşa ve 1 milyardan fazla insana ulaşmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "The EBU is the world’s leading alliance of public service media, with over 115 member organizations in more than 55 countries reaching over 1 billion people."
+        }
+      ]
+    },
+    {
+      "claim": "Microsoft, hassas editoryal materyallerin yerel olarak işlenmesi için Microsoft Sovereign Cloud uzmanlığını sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "Microsoft will bring expertise from Microsoft Sovereign Cloud, including Azure Local and Foundry Local, so broadcasters can process sensitive editorial material locally and keep critical services running when external connectivity is down."
+        }
+      ]
+    },
+    {
+      "claim": "Adobe Frame.io, video arama yeteneklerini hızlandırmak için NVIDIA hızlandırılmış bilgi işlem teknolojisini kullanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "Adobe Frame.io is accelerating video agent search capabilities with NVIDIA GPUs"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "Adobe Frame.io is accelerating video agent search capabilities with NVIDIA GPUs, helping German TV and film producer UFA find the right moments faster."
+        }
+      ]
+    },
+    {
+      "claim": "Adobe Frame.io entegrasyonu yaklaşık 5 kat daha hızlı gömme oluşturma, 4 kata kadar daha yüksek iş hacmi ve 5 kata kadar daha düşük gecikme süresi sağlamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "The results: about 5x faster embedding generation, up to 4x higher throughput and up to 5x lower latency for search processing."
+        }
+      ]
+    },
+    {
+      "claim": "UFA, \"Gute Zeiten, schlechte Zeiten\" günlük draması dahil olmak üzere yılda 3.500 saatten fazla program üretmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "It delivers more than 3,500 hours of programming a year, including the daily drama “Gute Zeiten, schlechte Zeiten.”"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "That speed matters for UFA, one of Germany’s leading film and TV producers. It delivers more than 3,500 hours of programming a year, including the daily drama “Gute Zeiten, schlechte Zeiten.”"
+        }
+      ]
+    },
+    {
+      "claim": "UFA, arşivlerindeki 15 yıl öncesine ait sahneleri ve detayları bulabilmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "When editors build a recap or flashback, they may need a specific reaction or unresolved exchange from as far back as 15 years — something file names and folders can’t surface."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Berlin'de Adobe, Bertelsmann, NVIDIA ve UFA iş birliğiyle yaratıcı endüstri etkinlikleri düzenlendi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA — the latest advancements in intelligent media were on display."
+        }
+      ]
+    },
+    {
+      "claim": "European Broadcasting Union (EBU), veri egemenliğini genişletmek için NVIDIA ile iş birliği yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "the European Broadcasting Union (EBU) is collaborating with NVIDIA to expand its sovereign framework with cloud, open models and integration partners"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "Key to the news: the European Broadcasting Union (EBU) is collaborating with NVIDIA to expand its sovereign framework with cloud, open models and integration partners"
+        }
+      ]
+    },
+    {
+      "claim": "EBU, 55'ten fazla ülkede 115'ten fazla üye kuruluşa ve 1 milyardan fazla insana ulaşmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "The EBU is the world’s leading alliance of public service media, with over 115 member organizations in more than 55 countries reaching over 1 billion people."
+        }
+      ]
+    },
+    {
+      "claim": "Microsoft, hassas editoryal materyallerin yerel olarak işlenmesi için Microsoft Sovereign Cloud uzmanlığını sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "Microsoft will bring expertise from Microsoft Sovereign Cloud, including Azure Local and Foundry Local, so broadcasters can process sensitive editorial material locally and keep critical services running when external connectivity is down."
+        }
+      ]
+    },
+    {
+      "claim": "Adobe Frame.io, video arama yeteneklerini hızlandırmak için NVIDIA hızlandırılmış bilgi işlem teknolojisini kullanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "Adobe Frame.io is accelerating video agent search capabilities with NVIDIA GPUs"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "Adobe Frame.io is accelerating video agent search capabilities with NVIDIA GPUs, helping German TV and film producer UFA find the right moments faster."
+        }
+      ]
+    },
+    {
+      "claim": "Adobe Frame.io entegrasyonu yaklaşık 5 kat daha hızlı gömme oluşturma, 4 kata kadar daha yüksek iş hacmi ve 5 kata kadar daha düşük gecikme süresi sağlamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "The results: about 5x faster embedding generation, up to 4x higher throughput and up to 5x lower latency for search processing."
+        }
+      ]
+    },
+    {
+      "claim": "UFA, \"Gute Zeiten, schlechte Zeiten\" günlük draması dahil olmak üzere yılda 3.500 saatten fazla program üretmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "It delivers more than 3,500 hours of programming a year, including the daily drama “Gute Zeiten, schlechte Zeiten.”"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "That speed matters for UFA, one of Germany’s leading film and TV producers. It delivers more than 3,500 hours of programming a year, including the daily drama “Gute Zeiten, schlechte Zeiten.”"
+        }
+      ]
+    },
+    {
+      "claim": "UFA, arşivlerindeki 15 yıl öncesine ait sahneleri ve detayları bulabilmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "When editors build a recap or flashback, they may need a specific reaction or unresolved exchange from as far back as 15 years — something file names and folders can’t surface."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Berlin'de Adobe, Bertelsmann, NVIDIA ve UFA iş birliğiyle yaratıcı endüstri etkinlikleri düzenlendi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA — the latest advancements in intelligent media were on display."
+        }
+      ]
+    },
+    {
+      "claim": "European Broadcasting Union (EBU), veri egemenliğini genişletmek için NVIDIA ile iş birliği yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "the European Broadcasting Union (EBU) is collaborating with NVIDIA to expand its sovereign framework with cloud, open models and integration partners"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "Key to the news: the European Broadcasting Union (EBU) is collaborating with NVIDIA to expand its sovereign framework with cloud, open models and integration partners"
+        }
+      ]
+    },
+    {
+      "claim": "EBU, 55'ten fazla ülkede 115'ten fazla üye kuruluşa ve 1 milyardan fazla insana ulaşmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "The EBU is the world’s leading alliance of public service media, with over 115 member organizations in more than 55 countries reaching over 1 billion people."
+        }
+      ]
+    },
+    {
+      "claim": "Microsoft, hassas editoryal materyallerin yerel olarak işlenmesi için Microsoft Sovereign Cloud uzmanlığını sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "Microsoft will bring expertise from Microsoft Sovereign Cloud, including Azure Local and Foundry Local, so broadcasters can process sensitive editorial material locally and keep critical services running when external connectivity is down."
+        }
+      ]
+    },
+    {
+      "claim": "Adobe Frame.io, video arama yeteneklerini hızlandırmak için NVIDIA hızlandırılmış bilgi işlem teknolojisini kullanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "Adobe Frame.io is accelerating video agent search capabilities with NVIDIA GPUs"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "Adobe Frame.io is accelerating video agent search capabilities with NVIDIA GPUs, helping German TV and film producer UFA find the right moments faster."
+        }
+      ]
+    },
+    {
+      "claim": "Adobe Frame.io entegrasyonu yaklaşık 5 kat daha hızlı gömme oluşturma, 4 kata kadar daha yüksek iş hacmi ve 5 kata kadar daha düşük gecikme süresi sağlamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "The results: about 5x faster embedding generation, up to 4x higher throughput and up to 5x lower latency for search processing."
+        }
+      ]
+    },
+    {
+      "claim": "UFA, \"Gute Zeiten, schlechte Zeiten\" günlük draması dahil olmak üzere yılda 3.500 saatten fazla program üretmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "It delivers more than 3,500 hours of programming a year, including the daily drama “Gute Zeiten, schlechte Zeiten.”"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "That speed matters for UFA, one of Germany’s leading film and TV producers. It delivers more than 3,500 hours of programming a year, including the daily drama “Gute Zeiten, schlechte Zeiten.”"
+        }
+      ]
+    },
+    {
+      "claim": "UFA, arşivlerindeki 15 yıl öncesine ait sahneleri ve detayları bulabilmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "quote": "When editors build a recap or flashback, they may need a specific reaction or unresolved exchange from as far back as 15 years — something file names and folders can’t surface."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/": 4826,
+    "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/": 3520,
+    "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation": 6448,
+    "https://www.theverge.com/tech/1013081/wyze-smart-scale-ultra-bodyscan-plus-handle-display": 2174
+  }
+}

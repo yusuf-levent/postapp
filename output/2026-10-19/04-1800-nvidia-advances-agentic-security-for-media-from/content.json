@@ -1,0 +1,129 @@
+{
+  "cover": {
+    "category_label": "Yaratıcı Endüstri ve Yapay Zeka",
+    "title": "Medya ve Yapay Zeka Dünyasında Yeni İş Birlikleri",
+    "highlight_words": [
+      "Yapay Zeka",
+      "İş Birlikleri"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Berlin etkinlikleri ve dev ortaklıkların detayları.",
+    "source_tags": [
+      "NVIDIA",
+      "Adobe",
+      "EBU",
+      "UFA"
+    ]
+  },
+  "problem": {
+    "heading": "Yaratıcı Endüstride Yeni Dönem",
+    "cards": [
+      {
+        "card_title": "Berlin Buluşmaları",
+        "card_body": "Berlin'de Adobe, Bertelsmann, NVIDIA ve UFA iş birliğiyle yaratıcı endüstri etkinlikleri düzenlendi."
+      },
+      {
+        "card_title": "Geniş Erişim",
+        "card_body": "European Broadcasting Union (EBU), 55'ten fazla ülkede 115'ten fazla üye kuruluşa ve 1 milyardan fazla insana ulaşmaktadır."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Veri Egemenliği ve Yerel İşleme",
+      "cards": [
+        {
+          "card_title": "EBU ve NVIDIA",
+          "card_body": "EBU, veri egemenliğini genişletmek için NVIDIA ile iş birliği yapmaktadır."
+        },
+        {
+          "card_title": "Microsoft Sovereign Cloud",
+          "card_body": "Microsoft, hassas editoryal materyallerin yerel olarak işlenmesi için Microsoft Sovereign Cloud uzmanlığını sunmaktadır."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Video Arama ve Hızlandırma",
+      "cards": [
+        {
+          "card_title": "Adobe Frame.io",
+          "card_body": "Adobe Frame.io, video arama yeteneklerini hızlandırmak için NVIDIA hızlandırılmış bilgi işlem teknolojisini kullanmaktadır."
+        },
+        {
+          "card_title": "Performans Artışı",
+          "card_body": "Bu entegrasyon yaklaşık 5 kat daha hızlı gömme oluşturma, 4 kata kadar daha yüksek iş hacmi ve 5 kata kadar daha düşük gecikme süresi sağlamaktadır."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Arşiv Yönetimi ve Prodüksiyon",
+      "cards": [
+        {
+          "card_title": "UFA Prodüksiyonları",
+          "card_body": "UFA, Gute Zeiten, schlechte Zeiten günlük draması dahil olmak üzere yılda 3.500 saatten fazla program üretmektedir."
+        },
+        {
+          "card_title": "Geçmişe Erişim",
+          "card_body": "UFA, arşivlerindeki 15 yıl öncesine ait sahneleri ve detayları bulabilmektedir."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Medya sektöründeki bu teknolojik gelişmeler hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Tekno Pusula ile güncel teknolojileri takipte kalın."
+  },
+  "context": {
+    "heading": "Yaratıcı Endüstride Yeni Dönem",
+    "cards": [
+      {
+        "card_title": "Berlin Buluşmaları",
+        "card_body": "Berlin'de Adobe, Bertelsmann, NVIDIA ve UFA iş birliğiyle yaratıcı endüstri etkinlikleri düzenlendi."
+      },
+      {
+        "card_title": "Geniş Erişim",
+        "card_body": "European Broadcasting Union (EBU), 55'ten fazla ülkede 115'ten fazla üye kuruluşa ve 1 milyardan fazla insana ulaşmaktadır."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Veri Egemenliği ve Yerel İşleme",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Video Arama ve Hızlandırma",
+    "cards": [
+      {
+        "card_title": "Adobe Frame.io",
+        "card_body": "Adobe Frame.io, video arama yeteneklerini hızlandırmak için NVIDIA hızlandırılmış bilgi işlem teknolojisini kullanmaktadır."
+      },
+      {
+        "card_title": "Performans Artışı",
+        "card_body": "Bu entegrasyon yaklaşık 5 kat daha hızlı gömme oluşturma, 4 kata kadar daha yüksek iş hacmi ve 5 kata kadar daha düşük gecikme süresi sağlamaktadır."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Arşiv Yönetimi ve Prodüksiyon",
+    "cards": [
+      {
+        "card_title": "UFA Prodüksiyonları",
+        "card_body": "UFA, Gute Zeiten, schlechte Zeiten günlük draması dahil olmak üzere yılda 3.500 saatten fazla program üretmektedir."
+      },
+      {
+        "card_title": "Geçmişe Erişim",
+        "card_body": "UFA, arşivlerindeki 15 yıl öncesine ait sahneleri ve detayları bulabilmektedir."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}

@@ -1,0 +1,10 @@
+{
+  "slot": "18:00",
+  "type": "edu",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 114.3,
+  "candidates_tried": 1,
+  "gemini_calls": 11,
+  "canonical_url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+  "generated_at": "2026-10-19T18:47:21+03:00"
+}
