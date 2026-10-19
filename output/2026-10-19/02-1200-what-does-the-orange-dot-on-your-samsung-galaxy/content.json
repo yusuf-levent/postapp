@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ REHBERİ",
+    "title": "Galaxy Watch Ekran Simge Rehberi",
+    "highlight_words": [
+      "Ekran",
+      "Simge"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Samsung akıllı saatinizin ekranındaki simgelerin ve noktaların anlamlarını keşfedin.",
+    "source_tags": [
+      "ENGADGET",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Bildirim Noktaları ve Anlamları",
+    "cards": [
+      {
+        "card_title": "Turuncu Nokta",
+        "card_body": "Samsung Galaxy Watch ekranının sol tarafında bulunan turuncu nokta, okunmamış bildirimler için bir bildirim göstergesidir."
+      },
+      {
+        "card_title": "Kırmızı Nokta",
+        "card_body": "Ekrandaki nokta turuncu yerine kırmızı olduğunda, kontrol edilmesi gereken acil bir mesaj olduğu anlamına gelir."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "4",
+    "stat_caption": "Farklı Durum Simgesi",
+    "stat_quote": "Saatinizin ekranındaki simgeleri takip ederek bağlantı ve bildirim durumunuzu anında öğrenebilirsiniz."
+  },
+  "details": {
+    "heading": "Bağlantı ve Kilit Simgeleri",
+    "cards": [
+      {
+        "card_title": "Bluetooth Bağlantı Kopması",
+        "card_body": "Saat ile telefon arasındaki Bluetooth bağlantısının kopması durumunda ekranın üst kısmında üzerinde çizgi olan bir telefon simgesi belirmektedir."
+      },
+      {
+        "card_title": "Alternatif Bağlantılar",
+        "card_body": "Saatin telefona Bluetooth yerine mobil veri veya Wi-Fi ile bağlı olduğunu gösteren bulut simgeli bir dikdörtgen ekranın üst kısmında yer alabilir."
+      },
+      {
+        "card_title": "Kilit Durumu",
+        "card_body": "Saatin kilitli olduğunu ve parola veya PIN gerektirdiğini belirten bir kilit simgesi üst kısımda görülebilir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanım Kolaylığı ve Özelleştirme",
+    "cards": [
+      {
+        "card_title": "Müzik Takibi",
+        "card_body": "Bir uygulama müzik çaldığında veya duraklatıldığında alt kısımda mavi bir müzik notası belirmektedir."
+      },
+      {
+        "card_title": "Bildirim Ayarları",
+        "card_body": "Bildirim göstergesi Ayarlar > Bildirimler > Gelişmiş Ayarlar adımları takip edilerek kapatılabilir."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Galaxy Watch üzerindeki bu simgeler günlük kullanımınızı nasıl etkiliyor?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

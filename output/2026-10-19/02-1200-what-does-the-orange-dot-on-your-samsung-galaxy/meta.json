@@ -1,0 +1,10 @@
+{
+  "slot": "12:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 126.0,
+  "candidates_tried": 1,
+  "gemini_calls": 12,
+  "canonical_url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+  "generated_at": "2026-10-19T12:34:37+03:00"
+}

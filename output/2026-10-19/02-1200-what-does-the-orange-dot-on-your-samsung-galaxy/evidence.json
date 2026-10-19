@@ -1,0 +1,301 @@
+{
+  "title": "What does the orange dot on your Samsung Galaxy Watch mean?",
+  "canonical_url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+  "source_names": [
+    "Engadget",
+    "BBC News – Technology",
+    "Meta Newsroom (resmi alternatif)",
+    "TechCrunch"
+  ],
+  "checked_at": "2026-10-19T12:33:00+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Samsung Galaxy Watch ekranının sol tarafında turuncu bir nokta bulunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "One such feature is the little orange dot that appears to the far left of your watch screen."
+        }
+      ]
+    },
+    {
+      "claim": "Turuncu nokta, okunmamış bildirimler için bir bildirim göstergesidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "The orange dot on Galaxy Watches is a notification indicator — specifically for unread notifications."
+        }
+      ]
+    },
+    {
+      "claim": "Ekruttaki nokta turuncu yerine kırmızı olduğunda, kontrol edilmesi gereken acil bir mesaj olduğu anlamına gelir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "If the dot on your screen is red instead of orange, that means you have an urgent message that you ought to check as soon as possible."
+        }
+      ]
+    },
+    {
+      "claim": "Bildirim göstergesi Ayarlar > Bildirimler > Gelişmiş Ayarlar adımları takip edilerek kapatılabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "Simply head to Settings > Notifications > Advanced Settings and toggle off New notification indicator on watch face."
+        }
+      ]
+    },
+    {
+      "claim": "Saat ile telefon arasındaki Bluetooth bağlantısının kopması durumunda ekranın üst kısmında üzerinde çizgi olan bir telefon simgesi belirmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "At the top, you might see a phone icon with a slash through it (meaning your watch has lost its Bluetooth connection with your phone)"
+        }
+      ]
+    },
+    {
+      "claim": "Saatin telefona Bluetooth yerine mobil veri veya Wi-Fi ile bağlı olduğunu gösteren bulut simgeli bir dikdörtgen ekranın üst kısmında yer alabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "a rectangle with a cloud in the middle (indicating that your watch is connected to your phone with mobile data or Wi-Fi instead of Bluetooth)"
+        },
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "At the top, you might see a phone icon with a slash through it (meaning your watch has lost its Bluetooth connection with your phone), a rectangle with a cloud in the middle (indicating that your watch is connected to your phone with mobile data or Wi-Fi instead of Bluetooth)"
+        }
+      ]
+    },
+    {
+      "claim": "Saatin kilitli olduğunu ve parola veya PIN gerektirdiğini belirten bir kilit simgesi üst kısımda görülebilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "or a padlock (which means the watch is locked and you'll need your password or PIN to open it)."
+        },
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "At the top, you might see a phone icon with a slash through it (meaning your watch has lost its Bluetooth connection with your phone), a rectangle with a cloud in the middle (indicating that your watch is connected to your phone with mobile data or Wi-Fi instead of Bluetooth), or a padlock (which means the watch is locked and you'll need your password or PIN to open it)."
+        }
+      ]
+    },
+    {
+      "claim": "Bir uygulama müzik çaldığında veya duraklatıldığında alt kısımda mavi bir müzik notası belirmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "At the bottom, a blue music note may appear, which tells you whether any app is playing music, as well as if that music is paused"
+        },
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "At the bottom, a blue music note may appear, which tells you whether any app is playing music, as well as if that music is paused — and you can tap the icon to control that audio."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Samsung Galaxy Watch ekranının sol tarafında turuncu bir nokta bulunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "One such feature is the little orange dot that appears to the far left of your watch screen."
+        }
+      ]
+    },
+    {
+      "claim": "Turuncu nokta, okunmamış bildirimler için bir bildirim göstergesidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "The orange dot on Galaxy Watches is a notification indicator — specifically for unread notifications."
+        }
+      ]
+    },
+    {
+      "claim": "Ekruttaki nokta turuncu yerine kırmızı olduğunda, kontrol edilmesi gereken acil bir mesaj olduğu anlamına gelir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "If the dot on your screen is red instead of orange, that means you have an urgent message that you ought to check as soon as possible."
+        }
+      ]
+    },
+    {
+      "claim": "Bildirim göstergesi Ayarlar > Bildirimler > Gelişmiş Ayarlar adımları takip edilerek kapatılabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "Simply head to Settings > Notifications > Advanced Settings and toggle off New notification indicator on watch face."
+        }
+      ]
+    },
+    {
+      "claim": "Saat ile telefon arasındaki Bluetooth bağlantısının kopması durumunda ekranın üst kısmında üzerinde çizgi olan bir telefon simgesi belirmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "At the top, you might see a phone icon with a slash through it (meaning your watch has lost its Bluetooth connection with your phone)"
+        }
+      ]
+    },
+    {
+      "claim": "Saatin telefona Bluetooth yerine mobil veri veya Wi-Fi ile bağlı olduğunu gösteren bulut simgeli bir dikdörtgen ekranın üst kısmında yer alabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "a rectangle with a cloud in the middle (indicating that your watch is connected to your phone with mobile data or Wi-Fi instead of Bluetooth)"
+        },
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "At the top, you might see a phone icon with a slash through it (meaning your watch has lost its Bluetooth connection with your phone), a rectangle with a cloud in the middle (indicating that your watch is connected to your phone with mobile data or Wi-Fi instead of Bluetooth)"
+        }
+      ]
+    },
+    {
+      "claim": "Saatin kilitli olduğunu ve parola veya PIN gerektirdiğini belirten bir kilit simgesi üst kısımda görülebilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "or a padlock (which means the watch is locked and you'll need your password or PIN to open it)."
+        },
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "At the top, you might see a phone icon with a slash through it (meaning your watch has lost its Bluetooth connection with your phone), a rectangle with a cloud in the middle (indicating that your watch is connected to your phone with mobile data or Wi-Fi instead of Bluetooth), or a padlock (which means the watch is locked and you'll need your password or PIN to open it)."
+        }
+      ]
+    },
+    {
+      "claim": "Bir uygulama müzik çaldığında veya duraklatıldığında alt kısımda mavi bir müzik notası belirmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "At the bottom, a blue music note may appear, which tells you whether any app is playing music, as well as if that music is paused"
+        },
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "At the bottom, a blue music note may appear, which tells you whether any app is playing music, as well as if that music is paused — and you can tap the icon to control that audio."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Samsung Galaxy Watch ekranının sol tarafında turuncu bir nokta bulunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "One such feature is the little orange dot that appears to the far left of your watch screen."
+        }
+      ]
+    },
+    {
+      "claim": "Turuncu nokta, okunmamış bildirimler için bir bildirim göstergesidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "The orange dot on Galaxy Watches is a notification indicator — specifically for unread notifications."
+        }
+      ]
+    },
+    {
+      "claim": "Ekruttaki nokta turuncu yerine kırmızı olduğunda, kontrol edilmesi gereken acil bir mesaj olduğu anlamına gelir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "If the dot on your screen is red instead of orange, that means you have an urgent message that you ought to check as soon as possible."
+        }
+      ]
+    },
+    {
+      "claim": "Bildirim göstergesi Ayarlar > Bildirimler > Gelişmiş Ayarlar adımları takip edilerek kapatılabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "Simply head to Settings > Notifications > Advanced Settings and toggle off New notification indicator on watch face."
+        }
+      ]
+    },
+    {
+      "claim": "Saat ile telefon arasındaki Bluetooth bağlantısının kopması durumunda ekranın üst kısmında üzerinde çizgi olan bir telefon simgesi belirmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "At the top, you might see a phone icon with a slash through it (meaning your watch has lost its Bluetooth connection with your phone)"
+        }
+      ]
+    },
+    {
+      "claim": "Saatin telefona Bluetooth yerine mobil veri veya Wi-Fi ile bağlı olduğunu gösteren bulut simgeli bir dikdörtgen ekranın üst kısmında yer alabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "a rectangle with a cloud in the middle (indicating that your watch is connected to your phone with mobile data or Wi-Fi instead of Bluetooth)"
+        },
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "At the top, you might see a phone icon with a slash through it (meaning your watch has lost its Bluetooth connection with your phone), a rectangle with a cloud in the middle (indicating that your watch is connected to your phone with mobile data or Wi-Fi instead of Bluetooth)"
+        }
+      ]
+    },
+    {
+      "claim": "Saatin kilitli olduğunu ve parola veya PIN gerektirdiğini belirten bir kilit simgesi üst kısımda görülebilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "or a padlock (which means the watch is locked and you'll need your password or PIN to open it)."
+        },
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "At the top, you might see a phone icon with a slash through it (meaning your watch has lost its Bluetooth connection with your phone), a rectangle with a cloud in the middle (indicating that your watch is connected to your phone with mobile data or Wi-Fi instead of Bluetooth), or a padlock (which means the watch is locked and you'll need your password or PIN to open it)."
+        }
+      ]
+    },
+    {
+      "claim": "Bir uygulama müzik çaldığında veya duraklatıldığında alt kısımda mavi bir müzik notası belirmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "At the bottom, a blue music note may appear, which tells you whether any app is playing music, as well as if that music is paused"
+        },
+        {
+          "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "quote": "At the bottom, a blue music note may appear, which tells you whether any app is playing music, as well as if that music is paused — and you can tap the icon to control that audio."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/": 2788,
+    "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss": 2977,
+    "https://about.fb.com/news/2026/10/introducing-whatsapp-guest-calling/": 1817,
+    "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/": 2318
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "images": [
+    {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Samsung_Galaxy_Watch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-19/02-1200-what-does-the-orange-dot-on-your-samsung-galaxy/images/img-1.png",
+      "license": "",
+      "author": "",
+      "credit_url": "https://en.wikipedia.org/wiki/Galaxy%20Watch",
+      "width": 1920,
+      "height": 1080,
+      "alt_text": "Galaxy Watch"
+    },
+    {
+      "source": "ogimage",
+      "url": "https://www.engadget.com/img/gallery/what-does-the-orange-dot-on-your-samsung-galaxy-watch-mean/l-intro-1792007262.jpg",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-19/02-1200-what-does-the-orange-dot-on-your-samsung-galaxy/images/img-2.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+      "width": 1600,
+      "height": 898,
+      "alt_text": ""
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}
