@@ -1,0 +1,202 @@
+{
+  "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+  "canonical_url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+  "source_names": [
+    "Wired",
+    "TechCrunch",
+    "OpenAI News",
+    "BBC News – Technology"
+  ],
+  "checked_at": "2026-10-19T12:29:07+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Character.AI declared bankruptcy this week.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+          "quote": "This week, Character.AI declared bankruptcy."
+        }
+      ]
+    },
+    {
+      "claim": "Disney hired most of Character.AI’s staff, including former CEO Karandeep Anand.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+          "quote": "a deal that has let Disney hire most of Character.AI’s staff—including its now former CEO Karandeep Anand"
+        },
+        {
+          "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+          "quote": "court filings indicate that the decision was actually a key part of a deal that has let Disney hire most of Character.AI’s staff—including its now former CEO Karandeep Anand"
+        }
+      ]
+    },
+    {
+      "claim": "In September, Disney paid Character.AI $5.5 million along with a refundable good faith deposit of $2 million.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+          "quote": "As part of the first transaction, which occurred in September, Disney paid the startup $5.5 million, along with a refundable “good faith deposit” of $2 million."
+        }
+      ]
+    },
+    {
+      "claim": "Character.AI filed a petition for chapter 11 bankruptcy on October 12.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+          "quote": "Character.AI filed a petition for chapter 11 bankruptcy on October 12."
+        }
+      ]
+    },
+    {
+      "claim": "In August 2024, Google reportedly paid Character.AI $2.7 billion to license its technology.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+          "quote": "In August 2024, Google reportedly paid the startup $2.7 billion to license its technology."
+        }
+      ]
+    },
+    {
+      "claim": "When the company filed for bankruptcy, the number of states and territories involved in the multistate investigation had climbed to 46.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Character.AI declared bankruptcy this week.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+          "quote": "This week, Character.AI declared bankruptcy."
+        }
+      ]
+    },
+    {
+      "claim": "Disney hired most of Character.AI’s staff, including former CEO Karandeep Anand.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+          "quote": "a deal that has let Disney hire most of Character.AI’s staff—including its now former CEO Karandeep Anand"
+        },
+        {
+          "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+          "quote": "court filings indicate that the decision was actually a key part of a deal that has let Disney hire most of Character.AI’s staff—including its now former CEO Karandeep Anand"
+        }
+      ]
+    },
+    {
+      "claim": "In September, Disney paid Character.AI $5.5 million along with a refundable good faith deposit of $2 million.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+          "quote": "As part of the first transaction, which occurred in September, Disney paid the startup $5.5 million, along with a refundable “good faith deposit” of $2 million."
+        }
+      ]
+    },
+    {
+      "claim": "Character.AI filed a petition for chapter 11 bankruptcy on October 12.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+          "quote": "Character.AI filed a petition for chapter 11 bankruptcy on October 12."
+        }
+      ]
+    },
+    {
+      "claim": "In August 2024, Google reportedly paid Character.AI $2.7 billion to license its technology.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+          "quote": "In August 2024, Google reportedly paid the startup $2.7 billion to license its technology."
+        }
+      ]
+    },
+    {
+      "claim": "When the company filed for bankruptcy, the number of states and territories involved in the multistate investigation had climbed to 46.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Character.AI declared bankruptcy this week.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+          "quote": "This week, Character.AI declared bankruptcy."
+        }
+      ]
+    },
+    {
+      "claim": "Disney hired most of Character.AI’s staff, including former CEO Karandeep Anand.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+          "quote": "a deal that has let Disney hire most of Character.AI’s staff—including its now former CEO Karandeep Anand"
+        },
+        {
+          "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+          "quote": "court filings indicate that the decision was actually a key part of a deal that has let Disney hire most of Character.AI’s staff—including its now former CEO Karandeep Anand"
+        }
+      ]
+    },
+    {
+      "claim": "In September, Disney paid Character.AI $5.5 million along with a refundable good faith deposit of $2 million.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+          "quote": "As part of the first transaction, which occurred in September, Disney paid the startup $5.5 million, along with a refundable “good faith deposit” of $2 million."
+        }
+      ]
+    },
+    {
+      "claim": "Character.AI filed a petition for chapter 11 bankruptcy on October 12.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+          "quote": "Character.AI filed a petition for chapter 11 bankruptcy on October 12."
+        }
+      ]
+    },
+    {
+      "claim": "In August 2024, Google reportedly paid Character.AI $2.7 billion to license its technology.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+          "quote": "In August 2024, Google reportedly paid the startup $2.7 billion to license its technology."
+        }
+      ]
+    },
+    {
+      "claim": "When the company filed for bankruptcy, the number of states and territories involved in the multistate investigation had climbed to 46.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "source_texts": {
+    "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/": 9357,
+    "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/": 1255,
+    "https://openai.com/index/itau-generative-ai": 8691,
+    "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss": 3598
+  }
+}

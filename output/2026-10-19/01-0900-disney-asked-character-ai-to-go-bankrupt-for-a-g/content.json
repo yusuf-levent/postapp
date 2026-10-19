@@ -1,0 +1,68 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA GÜNDEMİ",
+    "title": "Character.AI İflas Etti",
+    "highlight_words": [
+      "İflas Etti"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Popüler platform Chapter 11 iflas başvurusunda bulundu.",
+    "source_tags": [
+      "WIRED",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Süreç Nasıl Gelişti?",
+    "cards": [
+      {
+        "card_title": "Eylül Ayındaki Ödeme",
+        "card_body": "Eylül ayında Disney, Character.AI şirketine 5.5 milyon dolar ödeme yaptı ve 2 milyon dolarlık iade edilebilir depozito yatırdı."
+      },
+      {
+        "card_title": "İflas Başvurusu",
+        "card_body": "Character.AI, 12 Ekim tarihinde chapter 11 iflas koruması için resmi dilekçe verdi."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "2.7 MİLYAR $",
+    "stat_caption": "Google'ın Ağustos 2024'te teknoloji lisanslaması için ödediği miktar.",
+    "stat_quote": "Google, ağustos 2024'te lisanslama için büyük bir bütçe ayırmıştı."
+  },
+  "details": {
+    "heading": "Disney ve Personel Transferi",
+    "cards": [
+      {
+        "card_title": "Personel Transferi",
+        "card_body": "Disney, eski CEO Karandeep Anand dahil olmak üzere Character.AI çalışanlarının çoğunu bünyesine kattı."
+      },
+      {
+        "card_title": "Lisans Anlaşmaları",
+        "card_body": "Geçmiş dönemde Google da Ağustos 2024'te 2.7 milyar dolar ödeyerek teknolojisini lisanslamıştı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etkiler",
+    "cards": [
+      {
+        "card_title": "Yapay Zeka Pazarı",
+        "card_body": "Sektörün önemli oyuncularından birinin iflas etmesi ve personelinin Disney tarafından işe alınması dikkat çekti."
+      },
+      {
+        "card_title": "Teknoloji Transferi",
+        "card_body": "Şirketin sahip olduğu teknoloji birikimi ve insan kaynağı dev isimler arasında paylaştırıldı."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Character.AI ekibinin Disney'e katılması yapay zeka sektörünü nasıl etkiler?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için bizi takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

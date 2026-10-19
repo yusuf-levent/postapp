@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 99.2,
+  "candidates_tried": 1,
+  "gemini_calls": 10,
+  "canonical_url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+  "generated_at": "2026-10-19T12:30:18+03:00"
+}
