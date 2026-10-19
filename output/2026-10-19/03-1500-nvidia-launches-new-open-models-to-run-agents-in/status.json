@@ -1,0 +1,53 @@
+{
+  "dry_run": false,
+  "platforms": {
+    "instagram": {
+      "platform": "instagram",
+      "state": "published",
+      "external_id": "6ad63a9b9d422c1d321f10e0",
+      "permalink": "",
+      "attempts": 1,
+      "last_error": ""
+    },
+    "tiktok": {
+      "platform": "tiktok",
+      "state": "published",
+      "external_id": "6ad63ab27f0d26254b21f82b",
+      "permalink": "",
+      "attempts": 1,
+      "last_error": ""
+    },
+    "x": {
+      "platform": "x",
+      "state": "published",
+      "external_id": "6ad63aca052a3a25666aefa8",
+      "permalink": "https://twitter.com/tekno_pusulatr/status/2112208195913425329",
+      "attempts": 1,
+      "last_error": ""
+    },
+    "threads": {
+      "platform": "threads",
+      "state": "published",
+      "external_id": "17949011589367943",
+      "permalink": "https://www.threads.com/@tekno_pusula/post/Derm_QXlVYR",
+      "attempts": 1,
+      "last_error": ""
+    },
+    "linkedin": {
+      "platform": "linkedin",
+      "state": "published",
+      "external_id": "6ad63aee03fb0cde45f7bc31",
+      "permalink": "",
+      "attempts": 1,
+      "last_error": ""
+    },
+    "facebook": {
+      "platform": "facebook",
+      "state": "published",
+      "external_id": "6ad63b061f7c1be02f49129d",
+      "permalink": "https://facebook.com/1351036918092059_122116734477484840",
+      "attempts": 1,
+      "last_error": ""
+    }
+  }
+}

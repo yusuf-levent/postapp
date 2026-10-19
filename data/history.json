@@ -504,5 +504,84 @@
     ],
     "created_at": "2026-10-19T12:36:39+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-10-19-1500",
+    "date": "2026-10-19",
+    "slot": "15:00",
+    "type": "news",
+    "title_tr": "Nvidia'dan Yeni Açık Ağırlıklı Modeller",
+    "original_title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
+    ],
+    "canonical_url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
+    "entities": [
+      "Nvidia",
+      "Nemotron 3.5 Super VL",
+      "Nemotron 3 Ultra",
+      "Bolt",
+      "Nvidia RTX Spark",
+      "DGX Spark",
+      "Microsoft",
+      "Dell",
+      "Kari Briski",
+      "Anthropic",
+      "OpenAI"
+    ],
+    "event_type": "product_launch",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ad63a9b9d422c1d321f10e0",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ad63ab27f0d26254b21f82b",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ad63aca052a3a25666aefa8",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2112208195913425329",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "17949011589367943",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/Derm_QXlVYR",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ad63aee03fb0cde45f7bc31",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ad63b061f7c1be02f49129d",
+        "permalink": "https://facebook.com/1351036918092059_122116734477484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-19T18:45:20+03:00",
+    "verified_claims_count": 8
   }
 ]
