@@ -1,0 +1,301 @@
+{
+  "title": "NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at Jülich Supercomputing Centre",
+  "canonical_url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+  "source_names": [
+    "NVIDIA Newsroom",
+    "TechCrunch",
+    "NVIDIA Newsroom",
+    "Google Blog"
+  ],
+  "checked_at": "2026-10-19T21:11:29+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "NVIDIA arastirmacilari, Avrupa'nin en buyuk superbilgisayari olan JUPITER'i rekor kiran bir hata toleransli karsit (fault-tolerant) karsit (quantum) hesaplama simulasyonu icin kullanmaktadir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "NVIDIA researchers are using JUPITER — the largest supercomputer in Europe, built at Jülich Supercomputing Centre — for a record-breaking fault-tolerant quantum computing simulation."
+        }
+      ]
+    },
+    {
+      "claim": "104 qubit'lik simulasyon, bugune kadarki en buyuk ve en ayrintili hata toleransli karsit hesaplama sistemi simulasyonudur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "The 104-qubit simulation is the largest comprehensive simulation of a fault-tolerant quantum computing system to date, with no prior simulations modeling quantum processors in such full detail."
+        }
+      ]
+    },
+    {
+      "claim": "Simulasyon, onceki yontemlere gore yuzde 90 daha az fiziksel qubit kullanan bir karsit hesaplama yaklasimini dogrulamaktadir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "The simulation validates a quantum computing approach that uses 90% fewer physical qubits than previous methods, accelerating progress toward useful applications in drug discovery, financial modeling and materials science."
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "The simulation validates a quantum computing approach that uses 90% fewer physical qubits than previous methods"
+        }
+      ]
+    },
+    {
+      "claim": "JUPITER simulasyonlari, Julich Supercomputing Centre'daki NVIDIA GH200 GPU sistemleri uzerinde calistirilmistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "Running on a system of NVIDIA GH200 GPUs at Jülich Supercomputing Centre, the 104-qubit simulation is the largest comprehensive simulation of a fault-tolerant quantum processor to date, modeling how a realistic quantum processor performs fault-tolerant computation at record scale."
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "Running on a system of NVIDIA GH200 GPUs at Jülich Supercomputing Centre, the 104-qubit simulation is the largest comprehensive simulation of a fault-tolerant quantum processor to date"
+        }
+      ]
+    },
+    {
+      "claim": "Jensen Huang, NVIDIA'nin kurucusu ve CEO'sudur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "“Useful quantum computing will require fantastically complex, fault-tolerant systems — and understanding how they behave at scale is essential to building them,” said Jensen Huang, founder and CEO of NVIDIA."
+        }
+      ]
+    },
+    {
+      "claim": "Kristel Michielsen, Forschungszentrum Julich tesisindeki Julich Supercomputing Centre'in yoneticisidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "“Europe’s investment in JUPITER gives researchers the ability to investigate questions that were previously beyond reach,” said Kristel Michielsen, director of the Jülich Supercomputing Centre at the Forschungszentrum Jülich facility."
+        }
+      ]
+    },
+    {
+      "claim": "Julich'teki daha onceki arastirmalar ideal ve gurultusuz kosullar altinda 50 qubit'i simule etmistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "Earlier, groundbreaking research from Jülich simulated 50 qubits under ideal, noiseless conditions."
+        }
+      ]
+    },
+    {
+      "claim": "NVIDIA GB200 NVL72 sistemi, NVIDIA Accelerated Quantum Research Center'da Jupıter projesi icin gelistirme platformu olarak gorev yapmistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "An NVIDIA GB200 NVL72 system at the NVIDIA Accelerated Quantum Research Center (NVAQC) served as the development platform for the JUPITER project, enabling researchers to scale tests from four GPUs to hundreds before moving to 8,192 GPUs on JUPITER."
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "An NVIDIA GB200 NVL72 system at the NVIDIA Accelerated Quantum Research Center (NVAQC) served as the development platform for the JUPITER project"
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "NVIDIA arastirmacilari, Avrupa'nin en buyuk superbilgisayari olan JUPITER'i rekor kiran bir hata toleransli karsit (fault-tolerant) karsit (quantum) hesaplama simulasyonu icin kullanmaktadir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "NVIDIA researchers are using JUPITER — the largest supercomputer in Europe, built at Jülich Supercomputing Centre — for a record-breaking fault-tolerant quantum computing simulation."
+        }
+      ]
+    },
+    {
+      "claim": "104 qubit'lik simulasyon, bugune kadarki en buyuk ve en ayrintili hata toleransli karsit hesaplama sistemi simulasyonudur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "The 104-qubit simulation is the largest comprehensive simulation of a fault-tolerant quantum computing system to date, with no prior simulations modeling quantum processors in such full detail."
+        }
+      ]
+    },
+    {
+      "claim": "Simulasyon, onceki yontemlere gore yuzde 90 daha az fiziksel qubit kullanan bir karsit hesaplama yaklasimini dogrulamaktadir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "The simulation validates a quantum computing approach that uses 90% fewer physical qubits than previous methods, accelerating progress toward useful applications in drug discovery, financial modeling and materials science."
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "The simulation validates a quantum computing approach that uses 90% fewer physical qubits than previous methods"
+        }
+      ]
+    },
+    {
+      "claim": "JUPITER simulasyonlari, Julich Supercomputing Centre'daki NVIDIA GH200 GPU sistemleri uzerinde calistirilmistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "Running on a system of NVIDIA GH200 GPUs at Jülich Supercomputing Centre, the 104-qubit simulation is the largest comprehensive simulation of a fault-tolerant quantum processor to date, modeling how a realistic quantum processor performs fault-tolerant computation at record scale."
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "Running on a system of NVIDIA GH200 GPUs at Jülich Supercomputing Centre, the 104-qubit simulation is the largest comprehensive simulation of a fault-tolerant quantum processor to date"
+        }
+      ]
+    },
+    {
+      "claim": "Jensen Huang, NVIDIA'nin kurucusu ve CEO'sudur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "“Useful quantum computing will require fantastically complex, fault-tolerant systems — and understanding how they behave at scale is essential to building them,” said Jensen Huang, founder and CEO of NVIDIA."
+        }
+      ]
+    },
+    {
+      "claim": "Kristel Michielsen, Forschungszentrum Julich tesisindeki Julich Supercomputing Centre'in yoneticisidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "“Europe’s investment in JUPITER gives researchers the ability to investigate questions that were previously beyond reach,” said Kristel Michielsen, director of the Jülich Supercomputing Centre at the Forschungszentrum Jülich facility."
+        }
+      ]
+    },
+    {
+      "claim": "Julich'teki daha onceki arastirmalar ideal ve gurultusuz kosullar altinda 50 qubit'i simule etmistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "Earlier, groundbreaking research from Jülich simulated 50 qubits under ideal, noiseless conditions."
+        }
+      ]
+    },
+    {
+      "claim": "NVIDIA GB200 NVL72 sistemi, NVIDIA Accelerated Quantum Research Center'da Jupıter projesi icin gelistirme platformu olarak gorev yapmistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "An NVIDIA GB200 NVL72 system at the NVIDIA Accelerated Quantum Research Center (NVAQC) served as the development platform for the JUPITER project, enabling researchers to scale tests from four GPUs to hundreds before moving to 8,192 GPUs on JUPITER."
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "An NVIDIA GB200 NVL72 system at the NVIDIA Accelerated Quantum Research Center (NVAQC) served as the development platform for the JUPITER project"
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "NVIDIA arastirmacilari, Avrupa'nin en buyuk superbilgisayari olan JUPITER'i rekor kiran bir hata toleransli karsit (fault-tolerant) karsit (quantum) hesaplama simulasyonu icin kullanmaktadir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "NVIDIA researchers are using JUPITER — the largest supercomputer in Europe, built at Jülich Supercomputing Centre — for a record-breaking fault-tolerant quantum computing simulation."
+        }
+      ]
+    },
+    {
+      "claim": "104 qubit'lik simulasyon, bugune kadarki en buyuk ve en ayrintili hata toleransli karsit hesaplama sistemi simulasyonudur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "The 104-qubit simulation is the largest comprehensive simulation of a fault-tolerant quantum computing system to date, with no prior simulations modeling quantum processors in such full detail."
+        }
+      ]
+    },
+    {
+      "claim": "Simulasyon, onceki yontemlere gore yuzde 90 daha az fiziksel qubit kullanan bir karsit hesaplama yaklasimini dogrulamaktadir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "The simulation validates a quantum computing approach that uses 90% fewer physical qubits than previous methods, accelerating progress toward useful applications in drug discovery, financial modeling and materials science."
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "The simulation validates a quantum computing approach that uses 90% fewer physical qubits than previous methods"
+        }
+      ]
+    },
+    {
+      "claim": "JUPITER simulasyonlari, Julich Supercomputing Centre'daki NVIDIA GH200 GPU sistemleri uzerinde calistirilmistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "Running on a system of NVIDIA GH200 GPUs at Jülich Supercomputing Centre, the 104-qubit simulation is the largest comprehensive simulation of a fault-tolerant quantum processor to date, modeling how a realistic quantum processor performs fault-tolerant computation at record scale."
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "Running on a system of NVIDIA GH200 GPUs at Jülich Supercomputing Centre, the 104-qubit simulation is the largest comprehensive simulation of a fault-tolerant quantum processor to date"
+        }
+      ]
+    },
+    {
+      "claim": "Jensen Huang, NVIDIA'nin kurucusu ve CEO'sudur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "“Useful quantum computing will require fantastically complex, fault-tolerant systems — and understanding how they behave at scale is essential to building them,” said Jensen Huang, founder and CEO of NVIDIA."
+        }
+      ]
+    },
+    {
+      "claim": "Kristel Michielsen, Forschungszentrum Julich tesisindeki Julich Supercomputing Centre'in yoneticisidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "“Europe’s investment in JUPITER gives researchers the ability to investigate questions that were previously beyond reach,” said Kristel Michielsen, director of the Jülich Supercomputing Centre at the Forschungszentrum Jülich facility."
+        }
+      ]
+    },
+    {
+      "claim": "Julich'teki daha onceki arastirmalar ideal ve gurultusuz kosullar altinda 50 qubit'i simule etmistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "Earlier, groundbreaking research from Jülich simulated 50 qubits under ideal, noiseless conditions."
+        }
+      ]
+    },
+    {
+      "claim": "NVIDIA GB200 NVL72 sistemi, NVIDIA Accelerated Quantum Research Center'da Jupıter projesi icin gelistirme platformu olarak gorev yapmistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "An NVIDIA GB200 NVL72 system at the NVIDIA Accelerated Quantum Research Center (NVAQC) served as the development platform for the JUPITER project, enabling researchers to scale tests from four GPUs to hundreds before moving to 8,192 GPUs on JUPITER."
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+          "quote": "An NVIDIA GB200 NVL72 system at the NVIDIA Accelerated Quantum Research Center (NVAQC) served as the development platform for the JUPITER project"
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre": 5301,
+    "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/": 3530,
+    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/": 3093,
+    "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/": 4839
+  }
+}

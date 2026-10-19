@@ -1,0 +1,10 @@
+{
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 97.0,
+  "candidates_tried": 1,
+  "gemini_calls": 23,
+  "canonical_url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+  "generated_at": "2026-10-19T21:12:36+03:00"
+}

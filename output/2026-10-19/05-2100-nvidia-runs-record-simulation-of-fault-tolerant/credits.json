@@ -1,0 +1,27 @@
+{
+  "images": [
+    {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/ForschzJ%C3%BClich.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-19/05-2100-nvidia-runs-record-simulation-of-fault-tolerant/images/img-1.png",
+      "license": "",
+      "author": "",
+      "credit_url": "https://en.wikipedia.org/wiki/J%C3%BClich%20Supercomputing%20Centre",
+      "width": 1408,
+      "height": 1056,
+      "alt_text": "Jülich Supercomputing Centre"
+    },
+    {
+      "source": "ogimage",
+      "url": "https://iprsoftwaremedia.com/219/files/202610/50251123164c2b783748b003bc473940/6ad65ba13d6332f05e072a37_quantum-computing-jupiter-supercomputer/quantum-computing-jupiter-supercomputer_41b14eed-74aa-4882-94b8-7c5195b3c9bb-prv.jpg?v=41b14eed-74aa-4882-94b8-7c5195b3c9bb",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-19/05-2100-nvidia-runs-record-simulation-of-fault-tolerant/images/img-2.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+      "width": 1600,
+      "height": 900,
+      "alt_text": ""
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}
