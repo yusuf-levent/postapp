@@ -284,10 +284,13 @@ class BufferClient:
         channel_id: str,
         text: str,
         video_url: str,
+        share_now: bool = True,
         platform: str = "",
+        fallback_image_urls: list[str] | None = None,
         fallback_images: list[str] | None = None,
     ) -> dict[str, Any]:
         """Instagram Reels veya TikTok için 9:16 video gönderisi oluşturur ve paylaşır."""
+        fallback_list = fallback_image_urls or fallback_images or []
         service = PLATFORM_SERVICE_KEY.get(platform, "")
         meta_candidates: list[dict[str, Any]] = [{}]
         if service == "instagram":
@@ -308,7 +311,7 @@ class BufferClient:
                 "channelId": channel_id,
                 "text": text,
                 "assets": assets,
-                "mode": "shareNow",
+                "mode": "shareNow" if share_now else "addToQueue",
                 "schedulingType": "automatic",
                 "source": "tekno-pusula",
             }
@@ -324,7 +327,7 @@ class BufferClient:
                     status = post.get("status", "")
                     ext_link = post.get("externalLink", "")
                     log.info("Buffer video post oluşturuldu (%s): %s (%s)", platform, post_id, status)
-                    if post_id and status != "sent":
+                    if post_id and share_now and status != "sent":
                         polled = self._poll_post_status(post_id)
                         if polled:
                             status = polled.get("status") or status
@@ -339,13 +342,13 @@ class BufferClient:
             except Exception as exc:
                 log.warning("Buffer video denemesi (%s, %s) hata verdi: %s", platform, meta, exc)
 
-        if fallback_images:
+        if fallback_list:
             log.info("%s için video paylaşımı yerine 6'lı slayt yedek paylaşımına geçiliyor.", platform)
             return self.create_post(
                 channel_id=channel_id,
                 text=text,
-                image_urls=fallback_images,
-                share_now=True,
+                image_urls=fallback_list,
+                share_now=share_now,
                 platform=platform,
             )
         raise TransientError(f"Buffer video post oluşturulamadı ({platform})")

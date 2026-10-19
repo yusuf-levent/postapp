@@ -70,18 +70,42 @@ def run(
     started = time.time()
     sched = schedule_config()
 
-    # 1) Slot ve tip
-    if slot == "auto":
-        slot = nearest_slot()
-    ptype = slot_type(slot, force_type=force_type)
     date_label = today_label()
-    log.info("Slot: %s (%s), tarih: %s, tip: %s, dry_run: %s",
-             slot, now_istanbul().strftime("%H:%M"), date_label, ptype, dry_run)
-
     llm = GeminiClient()
 
-    # 2) Kurtarma turu: son 24 saatte failed/pending olanlar
+    # 1) Kurtarma turu: son 48 saatte failed/pending olanlar
     _recovery_pass(llm, dry_run=dry_run)
+
+    # 2) Slot ve tip
+    if slot == "auto":
+        if not dry_run:
+            from datetime import timedelta as _td
+            now_ist = now_istanbul()
+            cutoff_hm = (now_ist + _td(minutes=20)).strftime("%H:%M")
+            due_slots = [
+                s["time"]
+                for s in sched.get("slots", [])
+                if s["time"] <= cutoff_hm
+                and not history_store.slot_already_done(date_label, s["time"])
+            ]
+            if not due_slots:
+                log.info("Bugün (%s) için saati gelmiş tüm slotlar zaten yayınlanmış, çıkılıyor.", date_label)
+                return 0
+            if len(due_slots) > 1:
+                log.info("Bugün için bekleyen %d slot sırayla çalıştırılacak: %s", len(due_slots), due_slots)
+                rc = 0
+                for s in due_slots:
+                    sub_rc = run(slot=s, force_type=force_type, dry_run=dry_run)
+                    if sub_rc != 0:
+                        rc = sub_rc
+                return rc
+            slot = due_slots[0]
+        else:
+            slot = nearest_slot()
+
+    ptype = slot_type(slot, force_type=force_type)
+    log.info("Slot: %s (%s), tarih: %s, tip: %s, dry_run: %s",
+             slot, now_istanbul().strftime("%H:%M"), date_label, ptype, dry_run)
 
     # 3) Idempotent kontrol: aynı slot için zaten yayınlanmış post var mı?
     if history_store.slot_already_done(date_label, slot):
@@ -578,10 +602,10 @@ def _verify_candidate(
 
 
 def _recovery_pass(llm: GeminiClient, *, dry_run: bool) -> None:
-    """Son 24 saatte failed/pending platformları yeniden dener."""
+    """Son 48 saatte failed/pending platformları yeniden dener."""
     if dry_run:
         return
-    recent = history_store.recent_entries(days=1)
+    recent = history_store.recent_entries(days=2)
     if not recent:
         return
     for entry in recent:
