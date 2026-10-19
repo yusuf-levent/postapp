@@ -3,19 +3,19 @@
   "platforms": {
     "instagram": {
       "platform": "instagram",
-      "state": "failed",
-      "external_id": "",
+      "state": "published",
+      "external_id": "6ad5e25fe82a93f21a46a646",
       "permalink": "",
-      "attempts": 1,
-      "last_error": "BufferClient.create_video_post() got an unexpected keyword argument 'share_now'"
+      "attempts": 2,
+      "last_error": ""
     },
     "tiktok": {
       "platform": "tiktok",
-      "state": "failed",
-      "external_id": "",
+      "state": "published",
+      "external_id": "6ad5e276e82a93f21a46a9a8",
       "permalink": "",
-      "attempts": 1,
-      "last_error": "BufferClient.create_video_post() got an unexpected keyword argument 'share_now'"
+      "attempts": 2,
+      "last_error": ""
     },
     "x": {
       "platform": "x",
