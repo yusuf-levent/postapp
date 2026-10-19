@@ -1,0 +1,72 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE TEKNOLOJİ",
+    "title": "Nvidia'dan Yeni Açık Ağırlıklı Modeller",
+    "highlight_words": [
+      "Açık Ağırlıklı Modeller"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Perşembe günü duyurulan yeni modeller yapay zeka dünyasında yerini alıyor.",
+    "source_tags": [
+      "TECHCRUNCH",
+      "NVIDIA NEWSROOM"
+    ]
+  },
+  "context": {
+    "heading": "YENİ MODELLER DUYURULDU",
+    "cards": [
+      {
+        "card_title": "Açık Ağırlıklı Sistemler",
+        "card_body": "Nvidia, perşembe günü her an çalışabilen ajanlar ve uç bilişim için yeni açık ağırlıklı modeller piyasaya sürdü."
+      },
+      {
+        "card_title": "Resmi Açıklama",
+        "card_body": "Nvidia’nın Açık Modeller ve Yazılımdan Sorumlu Başkan Yardımcısı Kari Briski, duyuruyu bir blog yazısıyla yaptı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "120B",
+    "stat_caption": "Kurumsal ajanlar için tasarlanan büyük modelin parametre büyüklüğü.",
+    "stat_quote": "Nemotron 3.5 Super VL, kurumsal ajanlar için tasarlanmış 120 milyar parametreli büyük bir modeldir."
+  },
+  "details": {
+    "heading": "MODELLERİN ÖZELLİKLERİ",
+    "cards": [
+      {
+        "card_title": "Yerel AI PC'ler",
+        "card_body": "Nvidia, yeni AI PC'ler ve iş istasyonlarında yerel olarak çalışmak üzere iki hafif Bolt modeli piyasaya sürdü."
+      },
+      {
+        "card_title": "Bolt 74B",
+        "card_body": "Nemotron 3.5 Bolt 74B-A9B 24GB, yerel ajan görevleri için tasarlanmış 74 milyar parametrelik bir modeldir."
+      },
+      {
+        "card_title": "Çıkış Tarihleri",
+        "card_body": "Super VL ve Bolt 74B-A9B modelleri şu anda kullanılabilmektedir. Bolt E4B modelinin ise bu ayın ilerleyen günlerinde çıkması beklenmektedir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "SEKTÖREL KULLANIM",
+    "cards": [
+      {
+        "card_title": "Kullanan Şirketler",
+        "card_body": "Skydance, EY, Ramp, Crowdstrike, Perplexity ve Salesforce, Super VL modelini kullandığı belirtilen şirketler arasındadır."
+      },
+      {
+        "card_title": "Uç Bilişim ve Ajanlar",
+        "card_body": "Yeni modeller her an çalışabilen ajanlar ve uç bilişim alanında kurumsal süreçlere katkı sağlamak üzere tasarlandı."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce yerel AI PC'lerde bu yeni modeller iş akışlarını nasıl değiştirecek?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

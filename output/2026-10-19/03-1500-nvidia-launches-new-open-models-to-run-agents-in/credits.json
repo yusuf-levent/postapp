@@ -1,0 +1,27 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-19/03-1500-nvidia-launches-new-open-models-to-run-agents-in/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "width": 1200,
+      "height": 800,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/37911407/pexels-photo-37911407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-19/03-1500-nvidia-launches-new-open-models-to-run-agents-in/images/img-2.png",
+      "license": "Pexels License — Shubham Dhage",
+      "author": "Shubham Dhage",
+      "credit_url": "https://www.pexels.com/photo/futuristic-cyberpunk-ai-portrait-with-glowing-eyes-37911407/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "A cyberpunk-inspired AI robot portrait with glowing eyes, showcasing a sci-fi aesthetic and futuristic concepts."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}
