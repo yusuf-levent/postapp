@@ -430,5 +430,79 @@
     ],
     "created_at": "2026-10-19T12:32:25+03:00",
     "verified_claims_count": 5
+  },
+  {
+    "id": "2026-10-19-1200",
+    "date": "2026-10-19",
+    "slot": "12:00",
+    "type": "news",
+    "title_tr": "Galaxy Watch Ekran Simge Rehberi",
+    "original_title": "What does the orange dot on your Samsung Galaxy Watch mean?",
+    "source_urls": [
+      "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/"
+    ],
+    "canonical_url": "https://engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning",
+    "entities": [
+      "Samsung",
+      "Galaxy Watch",
+      "Galaxy Watch Ultra 2",
+      "Galaxy Watch 8",
+      "Galaxy Watch 9",
+      "Apple Watch Ultra 4"
+    ],
+    "event_type": "product_feature_explanation",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ad5e433809c386ae44cc7af",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ad5e44af797c243c5feb048",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ad5e4612c8101e643d557d1",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2112115415979528460",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "17988588404877399",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/Deq8zRYG-m4",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ad5e48716ad7c3dd51424d4",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ad5e49e2c8101e643d561e4",
+        "permalink": "https://facebook.com/1351036918092059_122116655529484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-19T12:36:39+03:00",
+    "verified_claims_count": 8
   }
 ]
