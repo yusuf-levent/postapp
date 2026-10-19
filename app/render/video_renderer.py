@@ -1,9 +1,9 @@
 """9:16 Reels & TikTok video üretici (1080×1920 MP4).
 
-Üst pencerede internetten indirilen gerçek video kendi doğal akışıyla oynar,
-alt kısımda ise TEK bir sabit haber başlığı ve kısa özet yazı bandı yer alır
-(değişen 6 slayt kartı YOKTUR). Video bulunamazsa veya üretilemezse None döner ve
-sistem otomatik olarak Instagram/TikTok'a 6'lı görsel slayt paylaşır.
+Üst pencerede internetten indirilen gerçek ve doğrulanmış video kendi doğal akışıyla oynar,
+alt kısımda ise haberin başlığı + somut bilgi maddeleri (rakamlar, gerçek detaylar) yer alır.
+Video bulunamazsa veya doğrulanamazsa None döner ve sistem otomatik olarak
+Instagram/TikTok'a 6'lı görsel slayt paylaşır.
 """
 from __future__ import annotations
 
@@ -36,7 +36,7 @@ def render_reel_video(
     *,
     fonts_dir: Path | None = None,
 ) -> Path | None:
-    """Gerçek video + alt kısımda tek sabit başlık/yazı bandı + ambient müzik ile 1080×1920 MP4 üretir."""
+    """Gerçek video + alt kısımda somut haber özeti/maddeleri + ambient müzik ile 1080×1920 MP4 üretir."""
     if not source_video or not source_video.exists():
         log.warning("Kaynak video bulunamadı, Reels/TikTok videosu üretilmiyor (6'lı slayt paylaşılacak).")
         return None
@@ -58,7 +58,6 @@ def render_reel_video(
         source_video.unlink(missing_ok=True)
         return None
 
-    # Videonun kendi doğal süresini al (Reels/TikTok sınırları: 8 sn - 45 sn)
     natural_dur = _get_video_duration(source_video)
     target_duration = max(MIN_REEL_DURATION, min(MAX_REEL_DURATION, natural_dur))
 
@@ -68,12 +67,10 @@ def render_reel_video(
     has_audio = _video_has_audio(source_video)
 
     filter_complex = (
-        # 1) Arka plan: 1080x1920 bulanık/koyu atmosfer, üstte (1080x1140) gerçek video net oynar
         "[0:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,"
         "boxblur=24:2,eq=brightness=-0.45[bg];"
-        "[0:v]scale=1080:1140:force_original_aspect_ratio=increase,crop=1080:1140[topvid];"
+        "[0:v]scale=1080:940:force_original_aspect_ratio=increase,crop=1080:940[topvid];"
         "[bg][topvid]overlay=0:0[base];"
-        # 2) Alt kısımda tek sabit haber başlığı/özet katmanını (1080x1920 RGBA) bindir
         "[base][1:v]overlay=0:0:format=auto,format=yuv420p[vout]"
     )
 
@@ -115,7 +112,6 @@ def render_reel_video(
     ]
 
     proc = subprocess.run(cmd, capture_output=True, text=True, timeout=180)
-    # Geçici dosyaları temizle (repoya sadece reel.mp4 girsin)
     overlay_png.unlink(missing_ok=True)
     ambient_wav.unlink(missing_ok=True)
     source_video.unlink(missing_ok=True)
@@ -134,13 +130,37 @@ def render_reel_video(
     return out_mp4
 
 
+def _extract_fact_bullets(deck: dict[str, Any]) -> list[str]:
+    """Slayt destesindeki doğrulanmış kartlardan en somut 3 bilgi maddesini çıkarır."""
+    bullets: list[str] = []
+
+    stat = deck.get("stat") or {}
+    big_stat = str(stat.get("big_stat") or "").strip()
+    stat_cap = str(stat.get("stat_caption") or "").strip()
+    if big_stat and big_stat != "💡" and stat_cap:
+        bullets.append(f"<strong>{_html.escape(big_stat)}:</strong> {_html.escape(stat_cap)}")
+
+    for section_key in ("context", "details", "impact"):
+        sec = deck.get(section_key) or {}
+        for card in sec.get("cards") or []:
+            ctitle = str(card.get("title") or "").strip()
+            cbody = str(card.get("body") or "").strip()
+            if ctitle and cbody:
+                bullets.append(f"<strong>{_html.escape(ctitle)}:</strong> {_html.escape(cbody)}")
+            elif cbody:
+                bullets.append(_html.escape(cbody))
+            if len(bullets) >= 3:
+                return bullets[:3]
+    return bullets[:3]
+
+
 async def _render_single_overlay(
     deck: dict[str, Any],
     dest_png: Path,
     *,
     fonts_dir: Path | None = None,
 ) -> Path:
-    """Üst kısmı şeffaf (gerçek videonun görüneceği), alt kısmında TEK bir haber yazısı olan 1080×1920 PNG üretir."""
+    """Üst kısmı şeffaf (gerçek videonun görüneceği), alt kısmında başlık + 3 somut haber maddesi olan 1080×1920 PNG üretir."""
     from playwright.async_api import async_playwright
 
     brand = brand_config()
@@ -149,7 +169,6 @@ async def _render_single_overlay(
     accent = brand.get("colors", {}).get("accent_yellow", "#FFE000")
     handle = _html.escape(brand.get("handle", "@tekno_pusula"))
 
-    # Font tanımları için mevcut slayt 1 CSS bloğunu al
     d = dict(deck)
     d["bg_image"] = ""
     raw_html = render_slide_html(d, 1)
@@ -158,12 +177,10 @@ async def _render_single_overlay(
     cover = deck.get("cover", {}) or {}
     category = _html.escape(str(cover.get("category_tag") or "TEKNOLOJİ GÜNDEMİ").upper())
     title_raw = str(cover.get("title") or "")
-    subtitle_raw = str(cover.get("subtitle") or "")
     highlight_words = cover.get("highlight_words") or []
     sources = deck.get("source_names") or []
     source_label = _html.escape(" · ".join(sources[:2])) if sources else "Tekno Pusula"
 
-    # Vurgulu başlık HTML'i
     title_html = _html.escape(title_raw)
     for hw in highlight_words:
         hw_esc = _html.escape(str(hw).strip())
@@ -172,7 +189,12 @@ async def _render_single_overlay(
             title_html = pattern.sub(
                 lambda m: f'<span class="hl">{m.group(0)}</span>', title_html, count=1
             )
-    subtitle_html = _html.escape(subtitle_raw)
+
+    bullets = _extract_fact_bullets(deck)
+    bullets_html = "\n".join(
+        f'<div class="fact-item"><span class="fact-dot">▸</span><span class="fact-text">{b}</span></div>'
+        for b in bullets
+    )
 
     overlay_html = f"""<!DOCTYPE html>
 <html lang="tr"><head><meta charset="utf-8"><style>
@@ -192,83 +214,107 @@ html, body {{
   background: linear-gradient(
     to bottom,
     rgba(7,9,13,0.45) 0px,
-    rgba(7,9,13,0.0) 150px,
-    rgba(7,9,13,0.0) 980px,
-    rgba(7,9,13,0.92) 1130px,
-    #07090d 1200px,
+    rgba(7,9,13,0.0) 140px,
+    rgba(7,9,13,0.0) 780px,
+    rgba(7,9,13,0.94) 930px,
+    #07090d 990px,
     #07090d 1920px
   );
   box-sizing: border-box;
 }}
 .top-pill {{
   position: absolute;
-  top: 56px;
-  left: 64px;
-  padding: 12px 24px;
+  top: 52px;
+  left: 56px;
+  padding: 10px 22px;
   border-radius: 999px;
-  background: rgba(12, 16, 23, 0.78);
+  background: rgba(12, 16, 23, 0.80);
   border: 1px solid rgba(255, 255, 255, 0.16);
   color: #f5f7fa;
   font-family: 'Inter', sans-serif;
-  font-size: 23px;
+  font-size: 22px;
   font-weight: 600;
-  letter-spacing: 0.3px;
 }}
 .caption-panel {{
   position: absolute;
-  left: 64px;
-  right: 64px;
-  top: 1150px;
-  bottom: 88px;
+  left: 56px;
+  right: 56px;
+  top: 940px;
+  bottom: 64px;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
 }}
 .cat-badge {{
   display: inline-flex;
   align-self: flex-start;
   align-items: center;
   gap: 10px;
-  padding: 10px 22px;
+  padding: 8px 20px;
   border-radius: 999px;
-  background: rgba(255, 107, 0, 0.16);
+  background: rgba(255, 224, 0, 0.14);
   border: 1.5px solid {accent};
   color: {accent};
   font-family: 'JetBrains Mono', monospace;
-  font-size: 21px;
+  font-size: 19px;
   font-weight: 700;
-  letter-spacing: 1.4px;
-  margin-bottom: 26px;
+  letter-spacing: 1.2px;
+  margin-bottom: 18px;
 }}
 .reel-title {{
   font-family: 'Montserrat', sans-serif;
   font-weight: 800;
-  font-size: 56px;
-  line-height: 1.16;
+  font-size: 46px;
+  line-height: 1.15;
   color: #ffffff;
-  margin: 0 0 24px 0;
-  letter-spacing: -0.6px;
+  margin: 0 0 22px 0;
+  letter-spacing: -0.5px;
 }}
 .reel-title .hl {{
   color: {accent};
 }}
-.reel-subtitle {{
+.facts-box {{
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-bottom: 22px;
+}}
+.fact-item {{
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  background: rgba(255, 255, 255, 0.05);
+  border-left: 4px solid {accent};
+  border-radius: 10px;
+  padding: 14px 18px;
+}}
+.fact-dot {{
+  color: {accent};
+  font-size: 24px;
+  line-height: 1.3;
+  font-weight: 700;
+}}
+.fact-text {{
   font-family: 'Inter', sans-serif;
-  font-weight: 500;
-  font-size: 31px;
-  line-height: 1.42;
-  color: #c8d1dc;
-  margin: 0 0 32px 0;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.36;
+  color: #e2e8f0;
+}}
+.fact-text strong {{
+  color: #ffffff;
+  font-weight: 700;
 }}
 .reel-footer {{
+  margin-top: auto;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-top: 22px;
+  padding-top: 16px;
   border-top: 1px solid rgba(255, 255, 255, 0.12);
   color: #8b95a5;
   font-family: 'Inter', sans-serif;
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 500;
 }}
 </style></head><body>
@@ -277,10 +323,12 @@ html, body {{
     <div class="caption-panel">
       <div class="cat-badge">● {category}</div>
       <h1 class="reel-title">{title_html}</h1>
-      <p class="reel-subtitle">{subtitle_html}</p>
+      <div class="facts-box">
+        {bullets_html}
+      </div>
       <div class="reel-footer">
         <span>Kaynak: {source_label}</span>
-        <span>Detaylar açıklamada ↓</span>
+        <span>{handle}</span>
       </div>
     </div>
   </div>
