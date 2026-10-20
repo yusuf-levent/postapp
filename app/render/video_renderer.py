@@ -10,12 +10,9 @@ from __future__ import annotations
 import asyncio
 import html as _html
 import logging
-import math
 import re
 import shutil
-import struct
 import subprocess
-import wave
 from pathlib import Path
 from typing import Any
 
@@ -543,12 +540,4 @@ def _video_has_audio(video_path: Path) -> bool:
         return False
 
 
-def _generate_silence_audio(dest: Path, *, duration: float = 15.0, sample_rate: int = 44100) -> None:
-    """Video süresince sessiz bir WAV üretir (ffmpeg için boş ses akışı)."""
-    total_samples = int(duration * sample_rate)
-    buf = bytearray(total_samples * 2)  # 16-bit mono, tamamen sessiz
-    with wave.open(str(dest), "wb") as wf:
-        wf.setnchannels(1)
-        wf.setsampwidth(2)
-        wf.setframerate(sample_rate)
-        wf.writeframes(bytes(buf))
+

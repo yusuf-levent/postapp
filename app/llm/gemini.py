@@ -202,8 +202,17 @@ class GeminiClient:
 
         parts: list[Any] = [prompt]
         for p in image_paths:
-            data = pathlib.Path(p).read_bytes()
-            parts.append(genai_types.Part.from_bytes(data=data, mime_type="image/png"))
+            path_obj = pathlib.Path(p)
+            data = path_obj.read_bytes()
+            # MIME tipini uzantıdan belirle (JPG/PNG/WEBP desteklenir)
+            suffix = path_obj.suffix.lower()
+            if suffix in (".jpg", ".jpeg"):
+                mime = "image/jpeg"
+            elif suffix == ".webp":
+                mime = "image/webp"
+            else:
+                mime = "image/png"
+            parts.append(genai_types.Part.from_bytes(data=data, mime_type=mime))
 
         def run(model_name: str) -> Any:
             config = genai_types.GenerateContentConfig(

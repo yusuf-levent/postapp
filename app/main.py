@@ -282,10 +282,11 @@ def run(
     except Exception as exc:
         log.warning("Reels/TikTok video üretim adımı atlandı: %s", exc)
 
-    # 11c) Video bulunamadıysa: 6 slayttan hareketli slideshow reel üret (her post video olur)
+    # 11c) Video bulunamadıysa: slaytlardan hareketli slideshow reel üret (her post video olur)
     if reel_path is None:
         try:
-            slides_for_reel = rendered.get("slides") or []
+            # 9:16 slaytlar tercih edilir (4:5 kırpılıp bozulmasın diye); yoksa normal slaytlar
+            slides_for_reel = rendered.get("slides_9x16") or rendered.get("slides") or []
             if slides_for_reel:
                 if music_info is None:
                     from app.media.music import find_music as _find_music

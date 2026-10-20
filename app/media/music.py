@@ -20,7 +20,6 @@ from pathlib import Path
 from urllib.parse import quote
 
 from app.common import http_get
-from app.config import settings
 
 log = logging.getLogger("tekno-pusula.music")
 

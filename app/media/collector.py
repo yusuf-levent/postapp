@@ -8,6 +8,7 @@ from __future__ import annotations
 import json
 import logging
 from pathlib import Path
+from typing import Any
 
 from app.common import turkish_lower
 from app.config import brand_config
@@ -148,25 +149,30 @@ def _person_entities(entities: list[str]) -> list[str]:
 
 
 def _write_credits(post_dir: Path, images: list[ImageCandidate]) -> None:
-    """credits.json: görsel lisans ve kaynak bilgileri."""
-    credits = {
-        "images": [
-            {
-                "source": img.source,
-                "url": img.url,
-                "local_path": img.local_path,
-                "license": img.license,
-                "author": img.author,
-                "credit_url": img.credit_url,
-                "width": img.width,
-                "height": img.height,
-                "alt_text": img.alt_text,
-            }
-            for img in images
-        ],
-        "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir.",
-    }
-    (post_dir / "credits.json").write_text(
+    """credits.json: görsel lisans ve kaynak bilgileri (mevcut müzik/video kredilerini korur)."""
+    credits_path = post_dir / "credits.json"
+    credits: dict[str, Any] = {}
+    if credits_path.exists():
+        try:
+            credits = json.loads(credits_path.read_text(encoding="utf-8"))
+        except Exception:
+            credits = {}
+    credits["images"] = [
+        {
+            "source": img.source,
+            "url": img.url,
+            "local_path": img.local_path,
+            "license": img.license,
+            "author": img.author,
+            "credit_url": img.credit_url,
+            "width": img.width,
+            "height": img.height,
+            "alt_text": img.alt_text,
+        }
+        for img in images
+    ]
+    credits["note"] = "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+    credits_path.write_text(
         json.dumps(credits, ensure_ascii=False, indent=2), encoding="utf-8"
     )
 
