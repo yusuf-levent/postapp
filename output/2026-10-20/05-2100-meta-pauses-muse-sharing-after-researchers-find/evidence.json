@@ -1,0 +1,217 @@
+{
+  "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+  "canonical_url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+  "source_names": [
+    "The Verge",
+    "TechCrunch",
+    "Ars Technica",
+    "Wired"
+  ],
+  "checked_at": "2026-10-20T21:41:23+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Meta, arastirmacilarin AI asistan sohbet URL lerinin web de halka acik oldugunu kesfetmesinin ardindan Muse ozelligini durdurdugunu acikladi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+          "quote": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+          "quote": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web"
+        }
+      ]
+    },
+    {
+      "claim": "Guvenlik firmasi Claroc, bu hafta yayinlanan bir raporda, halka acik DNS kayitlari araciligiyla 6.800 den fazla Muse bagi buldugunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+          "quote": "In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records."
+        }
+      ]
+    },
+    {
+      "claim": "Muse sozcusu Tracy Clayton, The Verge e gonderdigi e-posta aciklamasinda, paylasim islevinin rapor incelenirken durduruldugunu ifade etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+          "quote": "“People have the ability to share specific Muse artifacts, which creates a page that can be accessed by those with the link,” Muse spokesperson Tracy Clayton says in an emailed statement to The Verge. “However, we’ve paused this functionality while we review this report and consider changes to how these links can be discovered.”"
+        }
+      ]
+    },
+    {
+      "claim": "Claroc, Muse paylasim baglantilarinin basligin, kisa bir ifadesinin ve rastgele bir kimligin birlestirilmesiyle olusturuldugunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+          "quote": "“Muse builds each share’s web address from the share’s title, a short phrase describing the conversation, then a random ID,” Claroc says."
+        }
+      ]
+    },
+    {
+      "claim": "Claroc, halka acik DNS kayitlarini arayarak bir pazarlama sirketinin gelir incelemesi, KOBİ kredisi basvurusu ve calisan takvimi gibi yuzlerce Muse konusmasini goruntuleyebildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+          "quote": "By searching public DNS records, which serve as a directory for web traffic, Claroc was able to view hundreds of Muse conversations, including some containing a marketing company’s revenue review, a small business owner’s loan application, a workplace’s full-year staff calendar, and notes for a job candidate’s call with an AI lab."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, Anthropic Claude ve xAI Grok gibi diger AI sohbetleri de daha once Google Arama da yer almistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+          "quote": "This isn’t the first time AI sharing features made chats more public than intended, as conversations with OpenAI’s ChatGPT, Anthropic’s Claude, and xAI’s Grok have wound up on Google Search."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Meta, arastirmacilarin AI asistan sohbet URL lerinin web de halka acik oldugunu kesfetmesinin ardindan Muse ozelligini durdurdugunu acikladi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+          "quote": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+          "quote": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web"
+        }
+      ]
+    },
+    {
+      "claim": "Guvenlik firmasi Claroc, bu hafta yayinlanan bir raporda, halka acik DNS kayitlari araciligiyla 6.800 den fazla Muse bagi buldugunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+          "quote": "In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records."
+        }
+      ]
+    },
+    {
+      "claim": "Muse sozcusu Tracy Clayton, The Verge e gonderdigi e-posta aciklamasinda, paylasim islevinin rapor incelenirken durduruldugunu ifade etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+          "quote": "“People have the ability to share specific Muse artifacts, which creates a page that can be accessed by those with the link,” Muse spokesperson Tracy Clayton says in an emailed statement to The Verge. “However, we’ve paused this functionality while we review this report and consider changes to how these links can be discovered.”"
+        }
+      ]
+    },
+    {
+      "claim": "Claroc, Muse paylasim baglantilarinin basligin, kisa bir ifadesinin ve rastgele bir kimligin birlestirilmesiyle olusturuldugunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+          "quote": "“Muse builds each share’s web address from the share’s title, a short phrase describing the conversation, then a random ID,” Claroc says."
+        }
+      ]
+    },
+    {
+      "claim": "Claroc, halka acik DNS kayitlarini arayarak bir pazarlama sirketinin gelir incelemesi, KOBİ kredisi basvurusu ve calisan takvimi gibi yuzlerce Muse konusmasini goruntuleyebildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+          "quote": "By searching public DNS records, which serve as a directory for web traffic, Claroc was able to view hundreds of Muse conversations, including some containing a marketing company’s revenue review, a small business owner’s loan application, a workplace’s full-year staff calendar, and notes for a job candidate’s call with an AI lab."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, Anthropic Claude ve xAI Grok gibi diger AI sohbetleri de daha once Google Arama da yer almistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+          "quote": "This isn’t the first time AI sharing features made chats more public than intended, as conversations with OpenAI’s ChatGPT, Anthropic’s Claude, and xAI’s Grok have wound up on Google Search."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Meta, arastirmacilarin AI asistan sohbet URL lerinin web de halka acik oldugunu kesfetmesinin ardindan Muse ozelligini durdurdugunu acikladi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+          "quote": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+          "quote": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web"
+        }
+      ]
+    },
+    {
+      "claim": "Guvenlik firmasi Claroc, bu hafta yayinlanan bir raporda, halka acik DNS kayitlari araciligiyla 6.800 den fazla Muse bagi buldugunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+          "quote": "In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records."
+        }
+      ]
+    },
+    {
+      "claim": "Muse sozcusu Tracy Clayton, The Verge e gonderdigi e-posta aciklamasinda, paylasim islevinin rapor incelenirken durduruldugunu ifade etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+          "quote": "“People have the ability to share specific Muse artifacts, which creates a page that can be accessed by those with the link,” Muse spokesperson Tracy Clayton says in an emailed statement to The Verge. “However, we’ve paused this functionality while we review this report and consider changes to how these links can be discovered.”"
+        }
+      ]
+    },
+    {
+      "claim": "Claroc, Muse paylasim baglantilarinin basligin, kisa bir ifadesinin ve rastgele bir kimligin birlestirilmesiyle olusturuldugunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+          "quote": "“Muse builds each share’s web address from the share’s title, a short phrase describing the conversation, then a random ID,” Claroc says."
+        }
+      ]
+    },
+    {
+      "claim": "Claroc, halka acik DNS kayitlarini arayarak bir pazarlama sirketinin gelir incelemesi, KOBİ kredisi basvurusu ve calisan takvimi gibi yuzlerce Muse konusmasini goruntuleyebildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+          "quote": "By searching public DNS records, which serve as a directory for web traffic, Claroc was able to view hundreds of Muse conversations, including some containing a marketing company’s revenue review, a small business owner’s loan application, a workplace’s full-year staff calendar, and notes for a job candidate’s call with an AI lab."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, Anthropic Claude ve xAI Grok gibi diger AI sohbetleri de daha once Google Arama da yer almistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+          "quote": "This isn’t the first time AI sharing features made chats more public than intended, as conversations with OpenAI’s ChatGPT, Anthropic’s Claude, and xAI’s Grok have wound up on Google Search."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats": 1879,
+    "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/": 3319,
+    "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/": 3394,
+    "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/": 6655
+  }
+}

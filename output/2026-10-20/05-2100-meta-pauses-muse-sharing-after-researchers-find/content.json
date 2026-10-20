@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA GÜVENLİĞİ",
+    "title": "Meta, Muse Özelliğini Durdurdu",
+    "highlight_words": [
+      "Meta",
+      "Muse"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "AI asistan sohbet URL'lerinin web'de halka açık olduğu keşfedildi.",
+    "source_tags": [
+      "THE VERGE",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Olay Nasıl Ortaya Çıktı?",
+    "cards": [
+      {
+        "card_title": "Güvenlik Raporu",
+        "card_body": "Güvenlik firması Claroc, bu hafta yayınlanan raporda halka açık DNS kayıtları aracılığıyla 6.800'den fazla Muse bağı bulduğunu belirtti."
+      },
+      {
+        "card_title": "Meta'nın Adımı",
+        "card_body": "Araştırmacıların AI asistan sohbet URL'lerinin web'de halka açık olduğunu keşfetmesinin ardından Meta, Muse özelliğini durdurduğunu açıkladı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "6.800+",
+    "stat_caption": "Claroc tarafından halka açık DNS kayıtları aracılığıyla bulunan Muse bağı sayısı.",
+    "stat_quote": "Paylaşım işlevi rapor incelenirken durduruldu."
+  },
+  "details": {
+    "heading": "Bağlantılar Nasıl Bulundu?",
+    "cards": [
+      {
+        "card_title": "Bağlantı Yapısı",
+        "card_body": "Claroc, Muse paylaşım bağlantılarının başlığın, kısa bir ifadesinin ve rastgele bir kimliğin birleştirilmesiyle oluşturulduğunu belirtti."
+      },
+      {
+        "card_title": "Erişilen Veriler",
+        "card_body": "Halka açık DNS kayıtlarını arayan Claroc, bir pazarlama şirketinin gelir incelemesi, KOBİ kredisi başvurusu ve çalışan takvimi gibi yüzlerce Muse konuşmasını görüntüleyebildi."
+      },
+      {
+        "card_title": "Resmi Açıklama",
+        "card_body": "Muse sözcüsü Tracy Clayton, The Verge'e gönderdiği e-posta açıklamasında paylaşım işlevinin durdurulduğunu ifade etti."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etki ve Benzer Durumlar",
+    "cards": [
+      {
+        "card_title": "Gizlilik Endişeleri",
+        "card_body": "KOBİ kredisi başvuruları ve çalışan takvimleri gibi hassas verilerin halka açık DNS kayıtları üzerinden görülebilmesi güvenlik açıklarını gözler önüne serdi."
+      },
+      {
+        "card_title": "Diğer Yapay Zekalar",
+        "card_body": "OpenAI, Anthropic Claude ve xAI Grok gibi diğer AI sohbetleri de daha önce Google Arama'da yer almıştır."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Yapay zeka asistanlarında sohbet geçmişlerinin ve bağlantılarının paylaşılabilir olması sence güvenlik riski oluşturuyor mu?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmelerden haberdar olmak için Tekno Pusula'yı takip etmeyi unutma!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

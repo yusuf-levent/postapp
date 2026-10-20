@@ -1,0 +1,10 @@
+{
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 230.9,
+  "candidates_tried": 1,
+  "gemini_calls": 11,
+  "canonical_url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+  "generated_at": "2026-10-20T21:43:39+03:00"
+}
