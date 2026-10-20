@@ -967,5 +967,78 @@
     ],
     "created_at": "2026-10-20T17:13:47+03:00",
     "verified_claims_count": 7
+  },
+  {
+    "id": "2026-10-20-1800",
+    "date": "2026-10-20",
+    "slot": "18:00",
+    "type": "edu",
+    "title_tr": "Lightroom Mobil'e Yapay Zeka ile Kapalı Gözleri Açma Özelliği Geldi",
+    "original_title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+    "source_urls": [
+      "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair"
+    ],
+    "canonical_url": "https://theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+    "entities": [
+      "Adobe",
+      "Lightroom",
+      "Photoshop",
+      "Photoshop Elements",
+      "DPReview"
+    ],
+    "event_type": "product_launch",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ad7866ba45f95b2f982bc16",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ad786834e5218a908988e51",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ad7869a9aafa3c29935ee1e",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2112564478696968481",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18110907236180271",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DeuJA8LkdCm",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ad786c39aafa3c29935fbca",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ad786dbc0ca8da7dc135396",
+        "permalink": "https://facebook.com/1351036918092059_122117000349484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-20T18:21:13+03:00",
+    "verified_claims_count": 6
   }
 ]
