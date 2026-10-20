@@ -1,0 +1,128 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA GÜNCELLEMESİ",
+    "title": "Lightroom Mobil'e Yapay Zeka ile Kapalı Gözleri Açma Özelliği Geldi",
+    "highlight_words": [
+      "Kapalı Gözleri",
+      "Açma"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Tek dokunuşla fotoğraflardaki kapalı gözleri düzeltin.",
+    "source_tags": [
+      "The Verge",
+      "Engadget",
+      "Ars Technica"
+    ]
+  },
+  "problem": {
+    "heading": "Mobil Fotoğrafçılıkta Yeni Dönem",
+    "cards": [
+      {
+        "card_title": "Sorun Ne?",
+        "card_body": "Grup fotoğraflarında veya anlık çekimlerde gözlerin kapalı çıkması anı bozabilir."
+      },
+      {
+        "card_title": "Çözüm Nedir?",
+        "card_body": "Lightroom mobil artık yapay zeka kullanarak bu sorunu tek dokunuşla çözüyor."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Hangi Platformlarda Var?",
+      "cards": [
+        {
+          "card_title": "Mobil Destek",
+          "card_body": "Lightroom mobil uygulaması iOS, iPadOS ve Android cihazlarda kullanılabilir durumda."
+        },
+        {
+          "card_title": "Ücretsiz Deneme",
+          "card_body": "Uygulamanın ücretsiz sürümünü kullananlar, bu özelliği abone olmadan önce iki kez deneyebilir."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Özellik Nasıl Çalışıyor?",
+      "cards": [
+        {
+          "card_title": "Işık ve Poz Uyumu",
+          "card_body": "Üretken yapay zeka, değiştirilen gözlerin fotoğraftaki ışık ve pose tam olarak uymasını sağlar."
+        },
+        {
+          "card_title": "Kütüphane Referansı",
+          "card_body": "Uygulama, Lightroom kütüphanenizdeki aynı kişinin diğer fotoğraflarını renk, boyut ve şekil için referans alır."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Geçmişten Bugüne",
+      "cards": [
+        {
+          "card_title": "Geçmiş Deneyim",
+          "card_body": "Kapalı gözleri düzeltme özelliği, Adobe'nin Photoshop Elements yazılımında yaklaşık on yıldır yer alıyordu."
+        },
+        {
+          "card_title": "Mobil Güç",
+          "card_body": "Bu uzun soluklu teknoloji artık mobil cihazlara taşınmış durumda."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Bu özelliği fotoğraflarınızda denemek ister misiniz?",
+    "reminder_line": "Tekno Pusula ile güncel teknolojileri kaçırmayın."
+  },
+  "context": {
+    "heading": "Mobil Fotoğrafçılıkta Yeni Dönem",
+    "cards": [
+      {
+        "card_title": "Sorun Ne?",
+        "card_body": "Grup fotoğraflarında veya anlık çekimlerde gözlerin kapalı çıkması anı bozabilir."
+      },
+      {
+        "card_title": "Çözüm Nedir?",
+        "card_body": "Lightroom mobil artık yapay zeka kullanarak bu sorunu tek dokunuşla çözüyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Hangi Platformlarda Var?",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Özellik Nasıl Çalışıyor?",
+    "cards": [
+      {
+        "card_title": "Işık ve Poz Uyumu",
+        "card_body": "Üretken yapay zeka, değiştirilen gözlerin fotoğraftaki ışık ve pose tam olarak uymasını sağlar."
+      },
+      {
+        "card_title": "Kütüphane Referansı",
+        "card_body": "Uygulama, Lightroom kütüphanenizdeki aynı kişinin diğer fotoğraflarını renk, boyut ve şekil için referans alır."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Geçmişten Bugüne",
+    "cards": [
+      {
+        "card_title": "Geçmiş Deneyim",
+        "card_body": "Kapalı gözleri düzeltme özelliği, Adobe'nin Photoshop Elements yazılımında yaklaşık on yıldır yer alıyordu."
+      },
+      {
+        "card_title": "Mobil Güç",
+        "card_body": "Bu uzun soluklu teknoloji artık mobil cihazlara taşınmış durumda."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}
