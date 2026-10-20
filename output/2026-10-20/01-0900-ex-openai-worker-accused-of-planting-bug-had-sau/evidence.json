@@ -1,0 +1,337 @@
+{
+  "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
+  "canonical_url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+  "source_names": [
+    "BBC News – Technology",
+    "TechCrunch",
+    "Ars Technica",
+    "Wired"
+  ],
+  "checked_at": "2026-10-20T13:14:24+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Abdulrahman Alfozan, a Saudi national and former OpenAI worker, was charged with secretly planting a recording device in an OpenAI meeting room.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "A Saudi national charged with secretly planting a recording device in one of OpenAI's meeting rooms has been accused of having \"considerable support\" from the Saudi government, according to a court filing, external in California."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "US prosecutors claimed Abdulrahman Alfozan, who worked for the ChatGPT-maker, was in \"frequent communication... with a member of the Saudi royal family\""
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "A Saudi national charged with secretly planting a recording device in one of OpenAI's meeting rooms has been accused of having \"considerable support\" from the Saudi government"
+        }
+      ]
+    },
+    {
+      "claim": "Prosecutors claimed Alfozan had considerable support from the Saudi government and was in frequent communication with a member of the Saudi royal family.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "A Saudi national charged with secretly planting a recording device in one of OpenAI's meeting rooms has been accused of having \"considerable support\" from the Saudi government, according to a court filing, external in California."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "US prosecutors claimed Abdulrahman Alfozan, who worked for the ChatGPT-maker, was in \"frequent communication... with a member of the Saudi royal family\""
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "A Saudi national charged with secretly planting a recording device in one of OpenAI's meeting rooms has been accused of having \"considerable support\" from the Saudi government, according to a court filing, external in California. US prosecutors claimed Abdulrahman Alfozan, who worked for the ChatGPT-maker, was in \"frequent communication... with a member of the Saudi royal family\""
+        }
+      ]
+    },
+    {
+      "claim": "The 35-year-old engineer was denied bail on Monday by US district judge Alex Tse, pending a trial.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "The 35-year-old engineer was deemed a flight risk and denied bail on Monday, pending a trial."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "US district judge Alex Tse on Monday denied Alfozan's attorneys request for his release on bail, saying \"there is a risk of non-appearance that is significant\"."
+        },
+        {
+          "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+          "quote": "US district judge Alex Tse on Monday denied Alfozan's attorneys request for his release on bail"
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI discovered the audio recording device, plugged into the back of a TV in a conference meeting room and covered with toilet paper, on 30 September.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "The AI company discovered the device, which was plugged into the back of a TV in a conference meeting room and covered up with toilet paper, on 30 September."
+        }
+      ]
+    },
+    {
+      "claim": "Alfozan was filmed by a camera placed in the room entering and appearing to look behind the television on 5 October.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "A camera was placed in the room and on 5 October, Alfozan was filmed entering and appearing to look behind the television where the audio recorder had been inserted."
+        }
+      ]
+    },
+    {
+      "claim": "Alfozan was arrested by the FBI on 9 October and his contract with OpenAI was terminated.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "He was arrested by the FBI on 9 October and his contract with OpenAI was terminated."
+        }
+      ]
+    },
+    {
+      "claim": "On 10 October, Alfozan's wife and son flew from San Francisco to Doha, Qatar, on a one-way business class ticket paid for by a Saudi military official.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "On 10 October, the day after Alfozan was arrested, his wife and son flew from San Francisco to Doha, Qatar. They travelled on a one-way business class ticket booked and paid for by a Saudi military official."
+        }
+      ]
+    },
+    {
+      "claim": "If convicted, Alfozan faces a maximum penalty of five years in prison and a $250,000 fine.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "If convicted, he faces a maximum penalty of five years in prison and a $250,000 (Â£188,000) fine."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Abdulrahman Alfozan, a Saudi national and former OpenAI worker, was charged with secretly planting a recording device in an OpenAI meeting room.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "A Saudi national charged with secretly planting a recording device in one of OpenAI's meeting rooms has been accused of having \"considerable support\" from the Saudi government, according to a court filing, external in California."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "US prosecutors claimed Abdulrahman Alfozan, who worked for the ChatGPT-maker, was in \"frequent communication... with a member of the Saudi royal family\""
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "A Saudi national charged with secretly planting a recording device in one of OpenAI's meeting rooms has been accused of having \"considerable support\" from the Saudi government"
+        }
+      ]
+    },
+    {
+      "claim": "Prosecutors claimed Alfozan had considerable support from the Saudi government and was in frequent communication with a member of the Saudi royal family.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "A Saudi national charged with secretly planting a recording device in one of OpenAI's meeting rooms has been accused of having \"considerable support\" from the Saudi government, according to a court filing, external in California."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "US prosecutors claimed Abdulrahman Alfozan, who worked for the ChatGPT-maker, was in \"frequent communication... with a member of the Saudi royal family\""
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "A Saudi national charged with secretly planting a recording device in one of OpenAI's meeting rooms has been accused of having \"considerable support\" from the Saudi government, according to a court filing, external in California. US prosecutors claimed Abdulrahman Alfozan, who worked for the ChatGPT-maker, was in \"frequent communication... with a member of the Saudi royal family\""
+        }
+      ]
+    },
+    {
+      "claim": "The 35-year-old engineer was denied bail on Monday by US district judge Alex Tse, pending a trial.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "The 35-year-old engineer was deemed a flight risk and denied bail on Monday, pending a trial."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "US district judge Alex Tse on Monday denied Alfozan's attorneys request for his release on bail, saying \"there is a risk of non-appearance that is significant\"."
+        },
+        {
+          "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+          "quote": "US district judge Alex Tse on Monday denied Alfozan's attorneys request for his release on bail"
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI discovered the audio recording device, plugged into the back of a TV in a conference meeting room and covered with toilet paper, on 30 September.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "The AI company discovered the device, which was plugged into the back of a TV in a conference meeting room and covered up with toilet paper, on 30 September."
+        }
+      ]
+    },
+    {
+      "claim": "Alfozan was filmed by a camera placed in the room entering and appearing to look behind the television on 5 October.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "A camera was placed in the room and on 5 October, Alfozan was filmed entering and appearing to look behind the television where the audio recorder had been inserted."
+        }
+      ]
+    },
+    {
+      "claim": "Alfozan was arrested by the FBI on 9 October and his contract with OpenAI was terminated.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "He was arrested by the FBI on 9 October and his contract with OpenAI was terminated."
+        }
+      ]
+    },
+    {
+      "claim": "On 10 October, Alfozan's wife and son flew from San Francisco to Doha, Qatar, on a one-way business class ticket paid for by a Saudi military official.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "On 10 October, the day after Alfozan was arrested, his wife and son flew from San Francisco to Doha, Qatar. They travelled on a one-way business class ticket booked and paid for by a Saudi military official."
+        }
+      ]
+    },
+    {
+      "claim": "If convicted, Alfozan faces a maximum penalty of five years in prison and a $250,000 fine.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "If convicted, he faces a maximum penalty of five years in prison and a $250,000 (Â£188,000) fine."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Abdulrahman Alfozan, a Saudi national and former OpenAI worker, was charged with secretly planting a recording device in an OpenAI meeting room.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "A Saudi national charged with secretly planting a recording device in one of OpenAI's meeting rooms has been accused of having \"considerable support\" from the Saudi government, according to a court filing, external in California."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "US prosecutors claimed Abdulrahman Alfozan, who worked for the ChatGPT-maker, was in \"frequent communication... with a member of the Saudi royal family\""
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "A Saudi national charged with secretly planting a recording device in one of OpenAI's meeting rooms has been accused of having \"considerable support\" from the Saudi government"
+        }
+      ]
+    },
+    {
+      "claim": "Prosecutors claimed Alfozan had considerable support from the Saudi government and was in frequent communication with a member of the Saudi royal family.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "A Saudi national charged with secretly planting a recording device in one of OpenAI's meeting rooms has been accused of having \"considerable support\" from the Saudi government, according to a court filing, external in California."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "US prosecutors claimed Abdulrahman Alfozan, who worked for the ChatGPT-maker, was in \"frequent communication... with a member of the Saudi royal family\""
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "A Saudi national charged with secretly planting a recording device in one of OpenAI's meeting rooms has been accused of having \"considerable support\" from the Saudi government, according to a court filing, external in California. US prosecutors claimed Abdulrahman Alfozan, who worked for the ChatGPT-maker, was in \"frequent communication... with a member of the Saudi royal family\""
+        }
+      ]
+    },
+    {
+      "claim": "The 35-year-old engineer was denied bail on Monday by US district judge Alex Tse, pending a trial.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "The 35-year-old engineer was deemed a flight risk and denied bail on Monday, pending a trial."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "US district judge Alex Tse on Monday denied Alfozan's attorneys request for his release on bail, saying \"there is a risk of non-appearance that is significant\"."
+        },
+        {
+          "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+          "quote": "US district judge Alex Tse on Monday denied Alfozan's attorneys request for his release on bail"
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI discovered the audio recording device, plugged into the back of a TV in a conference meeting room and covered with toilet paper, on 30 September.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "The AI company discovered the device, which was plugged into the back of a TV in a conference meeting room and covered up with toilet paper, on 30 September."
+        }
+      ]
+    },
+    {
+      "claim": "Alfozan was filmed by a camera placed in the room entering and appearing to look behind the television on 5 October.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "A camera was placed in the room and on 5 October, Alfozan was filmed entering and appearing to look behind the television where the audio recorder had been inserted."
+        }
+      ]
+    },
+    {
+      "claim": "Alfozan was arrested by the FBI on 9 October and his contract with OpenAI was terminated.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "He was arrested by the FBI on 9 October and his contract with OpenAI was terminated."
+        }
+      ]
+    },
+    {
+      "claim": "On 10 October, Alfozan's wife and son flew from San Francisco to Doha, Qatar, on a one-way business class ticket paid for by a Saudi military official.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "On 10 October, the day after Alfozan was arrested, his wife and son flew from San Francisco to Doha, Qatar. They travelled on a one-way business class ticket booked and paid for by a Saudi military official."
+        }
+      ]
+    },
+    {
+      "claim": "If convicted, Alfozan faces a maximum penalty of five years in prison and a $250,000 fine.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "quote": "If convicted, he faces a maximum penalty of five years in prison and a $250,000 (Â£188,000) fine."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss": 2776,
+    "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/": 4336,
+    "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/": 2260,
+    "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/": 5664
+  }
+}

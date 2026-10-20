@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA GÜVENLİĞİ",
+    "title": "OpenAI Toplantı Odasında Gizli Cihaz Şoku",
+    "highlight_words": [
+      "Gizli",
+      "Cihaz"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Eski bir OpenAI çalışanı hakkında açılan gizli kayıt cihazı davasının detayları.",
+    "source_tags": [
+      "BBC NEWS",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Olayın Arka Planı",
+    "cards": [
+      {
+        "card_title": "Cihazın Bulunması",
+        "card_body": "OpenAI, 30 Eylül'de bir konferans toplantı odasındaki televizyonun arkasına gizlenmiş bir ses kayıt cihazı keşfetti."
+      },
+      {
+        "card_title": "Kamera Kayıtları",
+        "card_body": "35 yaşındaki eski çalışan Abdulrahman Alfozan, odadaki bir kamera tarafından televizyonun arkasına bakar halde görüntülendi."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "5 YIL",
+    "stat_caption": "Suçlu bulunması halinde karşı karşıya olduğu maksimum hapis cezası.",
+    "stat_quote": "Mahkeme, sanığın kefalet talebini reddederek duruşma gününü beklemek üzere tutuklu yargılanmasına karar verdi."
+  },
+  "details": {
+    "heading": "Soruşturma Detayları",
+    "cards": [
+      {
+        "card_title": "FBI Operasyonu",
+        "card_body": "Alfozan, 9 Ekim tarihinde FBI tarafından gözaltına alındı ve OpenAI ile olan sözleşmesi feshedildi."
+      },
+      {
+        "card_title": "Uluslararası Bağlantılar",
+        "card_body": "Savcılar, sanığın Suudi Arabistan hükümetinden önemli ölçüde destek gördüğünü ve kraliyet ailesiyle iletişimde olduğunu belirtti."
+      },
+      {
+        "card_title": "Eşinin ve Oğlunun Ayrılışı",
+        "card_body": "Alfozan'ın eşi ve oğlu, 10 Ekim'de Suudi askeri yetkili tarafından ödenen biletle Katar'a uçtu."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etkiler",
+    "cards": [
+      {
+        "card_title": "Kurumsal Güvenlik",
+        "card_body": "Yapay zeka şirketlerinin fiziksel ve dijital güvenlik önlemlerini artırması bekleniyor."
+      },
+      {
+        "card_title": "Çalışan Denetimleri",
+        "card_body": "Kritik veri ve toplantı odalarına erişim süreçleri yeniden gözden geçiriliyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Yapay zeka laboratuvarlarında fiziksel güvenlik açıkları nasıl önlenebilir?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
