@@ -35,8 +35,15 @@ def render_reel_video(
     post_dir: Path,
     *,
     fonts_dir: Path | None = None,
+    music_info: dict[str, Any] | None = None,
 ) -> Path | None:
-    """Gerçek video + alt kısımda somut haber özeti/maddeleri + ambient müzik ile 1080×1920 MP4 üretir."""
+    """Gerçek video + alt kısımda somut haber özeti/maddeleri + müzik ile 1080×1920 MP4 üretir.
+
+    Ses mantığı (hibrit):
+    - Orijinal videoda ses akışı VARSA → %100 orijinal ses kullanılır (müzik eklenmez)
+    - Orijinal videoda ses YOKSA → music_info ile gelen telifsiz müzik kullanılır
+    - Müzik de yoksa → sessiz video (sessiz Reels normaldir, kullanıcı kendi müziğini ekler)
+    """
     if not source_video or not source_video.exists():
         log.warning("Kaynak video bulunamadı, Reels/TikTok videosu üretilmiyor (6'lı slayt paylaşılacak).")
         return None
@@ -61,10 +68,29 @@ def render_reel_video(
     natural_dur = _get_video_duration(source_video)
     target_duration = max(MIN_REEL_DURATION, min(MAX_REEL_DURATION, natural_dur))
 
-    ambient_wav = video_dir / "ambient.wav"
-    _generate_ambient_tech_beat(ambient_wav, duration=target_duration)
-
     has_audio = _video_has_audio(source_video)
+
+    # Ses mantığı: orijinal ses varsa %100 kullan, yoksa telifsiz müzik, o da yoksa sessiz
+    music_wav = None
+    if not has_audio and music_info and music_info.get("path"):
+        music_path = Path(music_info["path"])
+        if music_path.exists():
+            music_wav = video_dir / "music.wav"
+            # Müziği video süresine göre loop + kırp
+            mcmd = [
+                "ffmpeg", "-y",
+                "-stream_loop", "-1",
+                "-t", f"{target_duration:.2f}",
+                "-i", str(music_path.resolve()),
+                "-ac", "2", "-ar", "44100",
+                "-b:a", "128k",
+                str(music_wav.resolve()),
+            ]
+            mp = subprocess.run(mcmd, capture_output=True, text=True, timeout=60)
+            if mp.returncode != 0:
+                log.warning("Müzik dönüştürme başarısız: %s", mp.stderr[-300:])
+                music_wav.unlink(missing_ok=True)
+                music_wav = None
 
     filter_complex = (
         "[0:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,"
@@ -75,14 +101,17 @@ def render_reel_video(
     )
 
     if has_audio:
-        audio_filter = (
-            ";[0:a]aresample=44100,volume=0.35[va];"
-            "[2:a]aresample=44100,volume=0.75[ma];"
-            "[va][ma]amix=inputs=2:duration=shortest:dropout_transition=2[aout]"
-        )
+        # Orijinal ses %100 kullanılır (müzik eklenmez)
+        audio_filter = ";[0:a]aresample=44100[aout]"
+        full_filter = filter_complex + audio_filter
+        audio_map = "[aout]"
+    elif music_wav:
+        # Müzik %100 (orijinal ses yoksa)
+        audio_filter = ";[2:a]aresample=44100,volume=0.85[aout]"
         full_filter = filter_complex + audio_filter
         audio_map = "[aout]"
     else:
+        # Sessiz video (kullanıcı kendi müziğini ekler)
         full_filter = filter_complex
         audio_map = "2:a"
 
@@ -95,25 +124,47 @@ def render_reel_video(
         "-loop", "1",
         "-t", f"{target_duration:.2f}",
         "-i", str(overlay_png.resolve()),
-        "-i", str(ambient_wav.resolve()),
+    ]
+    if music_wav:
+        cmd += ["-i", str(music_wav.resolve())]
+
+    if music_wav and not has_audio:
+        # Sessiz video + müzik ekle
+        cmd += ["-shortest"]
+        audio_map = "[aout]"
+        output_codec = ["-c:a", "aac", "-b:a", "128k"]
+    elif has_audio:
+        # Orijinal ses kullan
+        output_codec = ["-c:a", "aac", "-b:a", "128k"]
+    else:
+        # Tamamen sessiz (audio stream yok)
+        audio_map = ""
+        output_codec = []
+
+    cmd += [
         "-filter_complex", full_filter,
         "-map", "[vout]",
-        "-map", audio_map,
+    ]
+    if audio_map:
+        cmd += ["-map", audio_map]
+    cmd += [
         "-t", f"{target_duration:.2f}",
         "-r", "30",
         "-c:v", "libx264",
         "-preset", "fast",
         "-crf", "23",
         "-pix_fmt", "yuv420p",
-        "-c:a", "aac",
-        "-b:a", "128k",
+    ]
+    cmd += output_codec
+    cmd += [
         "-movflags", "+faststart",
         str(out_mp4.resolve()),
     ]
 
     proc = subprocess.run(cmd, capture_output=True, text=True, timeout=180)
     overlay_png.unlink(missing_ok=True)
-    ambient_wav.unlink(missing_ok=True)
+    if music_wav:
+        music_wav.unlink(missing_ok=True)
     source_video.unlink(missing_ok=True)
 
     if proc.returncode != 0 or not out_mp4.exists() or out_mp4.stat().st_size < 50_000:
@@ -127,6 +178,106 @@ def render_reel_video(
         target_duration,
         out_mp4.stat().st_size / (1024 * 1024),
     )
+    return out_mp4
+
+
+def render_slideshow_reel(
+    slide_images: list[Path],
+    deck: dict[str, Any],
+    post_dir: Path,
+    *,
+    fonts_dir: Path | None = None,
+    music_info: dict[str, Any] | None = None,
+    per_slide_seconds: float = 3.0,
+) -> Path | None:
+    """Gerçek video bulunamazsa 6 slayt görselini hareketli (zoom + fade) 1080×1920 Reel'e çevirir.
+
+    Her slayt hafifçe zoom yapar (Ken Burns) ve bir sonrakine fade ile geçer.
+    Müzik verilmişse video süresine göre loop edilir; yoksa sessiz bırakılır.
+    """
+    if not slide_images:
+        return None
+    if not shutil.which("ffmpeg"):
+        log.warning("Sistemde ffmpeg kurulu değil, slideshow reel üretilemiyor.")
+        return None
+
+    video_dir = post_dir / "video"
+    video_dir.mkdir(parents=True, exist_ok=True)
+    out_mp4 = video_dir / "reel.mp4"
+
+    n = len(slide_images)
+    target_duration = max(8.0, min(45.0, per_slide_seconds * n))
+    per_slide = target_duration / n
+
+    # Zoom + fade filtre zinciri
+    inputs = []
+    filter_parts = []
+    for i, img in enumerate(slide_images):
+        inputs += ["-loop", "1", "-t", f"{per_slide:.2f}", "-i", str(img.resolve())]
+        # Her slayt: ölçekle + hafif zoom + kenar yumuşatma + fade in/out
+        filter_parts.append(
+            f"[{i}:v]scale=1080:1920:force_original_aspect_ratio=increase,"
+            f"crop=1080:1920,"
+            f"zoompan=z='1.0+0.08*on/{int(30*per_slide)}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)'"
+            f":d={int(30*per_slide)}:s=1080x1920:fps=30,"
+            f"fade=t=in:st=0:d=0.3,fade=t=out:st={max(0,per_slide-0.3):.2f}:d=0.3[v{i}]"
+        )
+
+    # Birleştir
+    concat_inputs = "".join(f"[v{i}]" for i in range(n))
+    filter_parts.append(f"{concat_inputs}concat=n={n}:v=1:a=0[vout]")
+    full_filter = ";".join(filter_parts)
+
+    music_wav = None
+    if music_info and music_info.get("path"):
+        music_path = Path(music_info["path"])
+        if music_path.exists():
+            music_wav = video_dir / "music.wav"
+            mcmd = [
+                "ffmpeg", "-y",
+                "-stream_loop", "-1",
+                "-t", f"{target_duration:.2f}",
+                "-i", str(music_path.resolve()),
+                "-ac", "2", "-ar", "44100",
+                "-b:a", "128k",
+                str(music_wav.resolve()),
+            ]
+            mp = subprocess.run(mcmd, capture_output=True, text=True, timeout=60)
+            if mp.returncode != 0:
+                music_wav.unlink(missing_ok=True)
+                music_wav = None
+
+    cmd = ["ffmpeg", "-y"] + inputs
+    if music_wav:
+        cmd += ["-i", str(music_wav.resolve())]
+        filter_parts.append("[{}]aresample=44100[aout]".format(n))
+        full_filter = ";".join(filter_parts)
+        cmd += ["-filter_complex", full_filter, "-map", "[vout]", "-map", "[aout]"]
+    else:
+        cmd += ["-filter_complex", full_filter, "-map", "[vout]"]
+
+    cmd += [
+        "-t", f"{target_duration:.2f}",
+        "-r", "30",
+        "-c:v", "libx264",
+        "-preset", "fast",
+        "-crf", "23",
+        "-pix_fmt", "yuv420p",
+    ]
+    if music_wav:
+        cmd += ["-c:a", "aac", "-b:a", "128k"]
+    cmd += ["-movflags", "+faststart", str(out_mp4.resolve())]
+
+    proc = subprocess.run(cmd, capture_output=True, text=True, timeout=180)
+    if music_wav:
+        music_wav.unlink(missing_ok=True)
+
+    if proc.returncode != 0 or not out_mp4.exists() or out_mp4.stat().st_size < 30_000:
+        log.warning("Slideshow reel üretimi başarısız (rc=%s): %s", proc.returncode, proc.stderr[-400:])
+        out_mp4.unlink(missing_ok=True)
+        return None
+
+    log.info("Slideshow Reels/TikTok videosu üretildi: %s (%.1f sn)", out_mp4.name, target_duration)
     return out_mp4
 
 
@@ -392,35 +543,10 @@ def _video_has_audio(video_path: Path) -> bool:
         return False
 
 
-def _generate_ambient_tech_beat(dest: Path, *, duration: float = 15.0, sample_rate: int = 44100) -> None:
-    """Telifsiz, yumuşak bir haber/teknoloji ambient fon müziği (WAV) üretir."""
+def _generate_silence_audio(dest: Path, *, duration: float = 15.0, sample_rate: int = 44100) -> None:
+    """Video süresince sessiz bir WAV üretir (ffmpeg için boş ses akışı)."""
     total_samples = int(duration * sample_rate)
-    chord_freqs = (110.0, 164.81, 196.00, 246.94, 261.63)
-    bpm = 112.0
-    beat_period = 60.0 / bpm
-
-    buf = bytearray(total_samples * 2)  # 16-bit mono
-    for i in range(total_samples):
-        t = i / sample_rate
-        env = 1.0
-        if t < 0.8:
-            env = t / 0.8
-        elif t > duration - 1.5:
-            env = max(0.0, (duration - t) / 1.5)
-
-        pad = 0.0
-        for idx, f in enumerate(chord_freqs):
-            lfo = 0.7 + 0.3 * math.sin(2.0 * math.pi * (0.18 + idx * 0.05) * t)
-            pad += math.sin(2.0 * math.pi * f * t) * lfo / len(chord_freqs)
-
-        beat_pos = (t % beat_period) / beat_period
-        pulse_env = math.exp(-6.5 * beat_pos)
-        pulse = math.sin(2.0 * math.pi * 55.0 * t) * pulse_env * 0.45
-
-        sample = (pad * 0.42 + pulse) * env
-        clamped = max(-0.95, min(0.95, sample))
-        struct.pack_into("<h", buf, i * 2, int(clamped * 14000))
-
+    buf = bytearray(total_samples * 2)  # 16-bit mono, tamamen sessiz
     with wave.open(str(dest), "wb") as wf:
         wf.setnchannels(1)
         wf.setsampwidth(2)

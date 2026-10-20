@@ -81,6 +81,8 @@ jobs:
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-3.5-flash-lite' }}
           GEMINI_FALLBACK_MODEL: ${{ vars.GEMINI_FALLBACK_MODEL || 'gemini-3.1-flash-lite' }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
           BUFFER_ACCESS_TOKEN_A: ${{ secrets.BUFFER_ACCESS_TOKEN_A }}
           BUFFER_ACCESS_TOKEN_B: ${{ secrets.BUFFER_ACCESS_TOKEN_B }}
           BUFFER_PROFILE_INSTAGRAM: ${{ secrets.BUFFER_PROFILE_INSTAGRAM }}

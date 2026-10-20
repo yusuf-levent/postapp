@@ -32,8 +32,10 @@ class Settings(BaseSettings):
         default="gemini-3.1-flash-lite", alias="GEMINI_FALLBACK_MODEL"
     )
 
-    # Görseller
+    # Görseller / videolar
     pexels_api_key: str = Field(default="", alias="PEXELS_API_KEY")
+    pixabay_api_key: str = Field(default="", alias="PIXABAY_API_KEY")
+    nasa_api_key: str = Field(default="", alias="NASA_API_KEY")
 
     # Buffer (GraphQL API, api.buffer.com)
     buffer_access_token_a: str = Field(default="", alias="BUFFER_ACCESS_TOKEN_A")

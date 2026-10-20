@@ -33,7 +33,7 @@ from app.render.fonts import ensure_fonts
 from app.render.qa import run_qa
 from app.render.renderer import render_deck
 from app.render.templates.styles import CSS
-from app.render.video_renderer import render_reel_video
+from app.render.video_renderer import render_reel_video, render_slideshow_reel
 from app.select.dedup import is_duplicate, normalize_url
 from app.select.scoring import build_source_index, score_candidates
 from app.store import history as history_store
@@ -258,14 +258,59 @@ def run(
 
     # 11b) Reels & TikTok için gerçek video topla + 9:16 video (reel.mp4) üret
     reel_path: Path | None = None
+    music_info: dict[str, Any] | None = None
     try:
         source_video = collect_video(llm, selected, entities, post_dir)
         if source_video and source_video.exists():
+            # Orijinal ses yoksa telifsiz müzik ara (konuya göre)
+            if not _video_has_audio_track(source_video):
+                from app.media.music import find_music as _find_music
+
+                dest_music = post_dir / "video" / "music.mp3"
+                music_info = _find_music(
+                    llm,
+                    selected.title if selected else "",
+                    entities,
+                    duration=15.0,
+                    dest=dest_music,
+                )
+                if music_info:
+                    _write_music_credit(post_dir, music_info)
             reel_path = render_reel_video(
-                deck, source_video, post_dir, fonts_dir=fonts_dir
+                deck, source_video, post_dir, fonts_dir=fonts_dir, music_info=music_info
             )
     except Exception as exc:
         log.warning("Reels/TikTok video üretim adımı atlandı: %s", exc)
+
+    # 11c) Video bulunamadıysa: 6 slayttan hareketli slideshow reel üret (her post video olur)
+    if reel_path is None:
+        try:
+            slides_for_reel = rendered.get("slides") or []
+            if slides_for_reel:
+                if music_info is None:
+                    from app.media.music import find_music as _find_music
+
+                    dest_music = post_dir / "video" / "music.mp3"
+                    music_info = _find_music(
+                        llm,
+                        selected.title if selected else "",
+                        entities,
+                        duration=15.0,
+                        dest=dest_music,
+                    )
+                    if music_info:
+                        _write_music_credit(post_dir, music_info)
+                reel_path = render_slideshow_reel(
+                    slides_for_reel,
+                    deck,
+                    post_dir,
+                    fonts_dir=fonts_dir,
+                    music_info=music_info,
+                )
+                if reel_path:
+                    log.info("Gerçek video yok; slaytlardan hareketli slideshow reel üretildi.")
+        except Exception as exc:
+            log.warning("Slideshow reel üretim adımı atlandı: %s", exc)
 
     # 12) QA (6 PNG Gemini ile kontrol — Playwright DOM taşma kontrolü zaten yapıldı)
     qa_ok, qa_issues = run_qa(llm, rendered["slides"])
@@ -918,6 +963,50 @@ def _public_video_url(post_dir: Path, reel_path: Path | None) -> str:
     repo = cfg.github_repository or "OWNER/REPO"
     rel = post_dir.relative_to(_repo_root()).as_posix()
     return f"https://raw.githubusercontent.com/{repo}/main/{rel}/video/{reel_path.name}"
+
+
+def _video_has_audio_track(video_path: Path) -> bool:
+    """ffprobe ile video dosyasında ses izi olup olmadığını kontrol eder."""
+    import shutil as _shutil
+    import subprocess as _subprocess
+
+    if not _shutil.which("ffprobe"):
+        return False
+    try:
+        proc = _subprocess.run(
+            ["ffprobe", "-v", "error", "-select_streams", "a",
+             "-show_entries", "stream=codec_type", "-of", "csv=p=0",
+             str(video_path.resolve())],
+            capture_output=True, text=True, timeout=10,
+        )
+        return "audio" in (proc.stdout or "").lower()
+    except Exception:
+        return False
+
+
+def _write_music_credit(post_dir: Path, music_info: dict[str, Any]) -> None:
+    """Kullanılan müziğin telif/atıf bilgisini credits.json'a ekler."""
+    import json as _json
+
+    credits_path = post_dir / "credits.json"
+    credits: dict[str, Any] = {}
+    if credits_path.exists():
+        try:
+            credits = _json.loads(credits_path.read_text(encoding="utf-8"))
+        except Exception:
+            credits = {}
+    credits.setdefault("music", [])
+    if isinstance(credits.get("music"), list):
+        credits["music"].append({
+            "title": music_info.get("title", ""),
+            "artist": music_info.get("artist", ""),
+            "license": music_info.get("license", ""),
+            "license_url": music_info.get("license_url", ""),
+            "source_url": music_info.get("url", ""),
+        })
+    credits_path.write_text(
+        _json.dumps(credits, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
 
 
 def _thread_replies(x_caption: str, image_urls: list[str]) -> list[dict]:
