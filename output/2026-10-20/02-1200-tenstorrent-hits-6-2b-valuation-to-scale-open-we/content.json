@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE YATIRIM",
+    "title": "Tenstorrent 1.5 Milyar Dolar Yatırım Aldı",
+    "highlight_words": [
+      "1.5 Milyar",
+      "Yatırım"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Şirketin değerlemesi yeni yatırımla birlikte hızla yükseldi.",
+    "source_tags": [
+      "TECHCRUNCH",
+      "BBC NEWS"
+    ]
+  },
+  "context": {
+    "heading": "Yatırım Turunun Detayları",
+    "cards": [
+      {
+        "card_title": "Değerleme Artışı",
+        "card_body": "Tenstorrent, 1.5 milyar dolar yatırım alarak değerlemesini 6.2 milyar dolara çıkardı."
+      },
+      {
+        "card_title": "Yatırım Liderleri",
+        "card_body": "Bu önemli yatırım turu Trace Capital ve Innovation X tarafından yönetildi."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "6.2 MİLYAR",
+    "stat_caption": "Şirketin ulaştığı yeni toplam değerleme rakamı.",
+    "stat_quote": "Tenstorrent CEO'su Jim Keller, şirketin bağımsız kalmaya karar verdiğini belirtti."
+  },
+  "details": {
+    "heading": "Destekçiler ve Geçmiş",
+    "cards": [
+      {
+        "card_title": "Güçlü Destekçiler",
+        "card_body": "Yatırım turuna Cadence Ventures, Eclipse, Fidelity, SanDisk ve T. Rowe Price katıldı."
+      },
+      {
+        "card_title": "Şirket Geçmişi",
+        "card_body": "Tenstorrent 10 yıllık köklü bir şirket olarak faaliyetlerine devam ediyor."
+      },
+      {
+        "card_title": "Değerleme İstatistiği",
+        "card_body": "Şirketin değerlemesi 2024 sonundaki 2.6 milyar dolardan iki katından fazla arttı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etki",
+    "cards": [
+      {
+        "card_title": "Galaxy Sunucuları",
+        "card_body": "Şirket, Galaxy sunucularının DeepSeek modellerini çalıştırabildiğini gösterdi."
+      },
+      {
+        "card_title": "Bağımsızlık",
+        "card_body": "Başarılı gösterimin ardından şirket bağımsız kalmaya ve sermaye artırmaya karar verdi."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Tenstorrent'in bu büyük yatırımla donanım pazarında rekabeti nasıl değiştireceğini düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

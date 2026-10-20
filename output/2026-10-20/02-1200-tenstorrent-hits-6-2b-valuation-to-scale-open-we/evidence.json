@@ -1,0 +1,229 @@
+{
+  "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+  "canonical_url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+  "source_names": [
+    "TechCrunch",
+    "NVIDIA Newsroom",
+    "NVIDIA Newsroom",
+    "BBC News – Technology"
+  ],
+  "checked_at": "2026-10-20T13:17:49+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Tenstorrent, 1.5 milyar dolar yatırım alarak değerlemesini 6.2 milyar dolara çıkardı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "quote": "Tenstorrent, a chip startup focused on inference, has raised $1.5 billion at a $6.2 billion valuation."
+        }
+      ]
+    },
+    {
+      "claim": "Tenstorrent 10 yıllık bir şirkettir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "quote": "The round comes five months after the 10-year-old Nvidia challenger reportedly received acquisition interest from Intel and Qualcomm at valuations of as much as $5 billion."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "quote": "The round comes five months after the 10-year-old Nvidia challenger"
+        }
+      ]
+    },
+    {
+      "claim": "Şirketin değerlemesi 2024 sonundaki 2.6 milyar dolardan iki katından fazla artmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "quote": "The fresh round, which more than doubled Tenstorrent’s valuation from the $2.6 billion it fetched in late 2024, was led by Trace Capital"
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "quote": "The fresh round, which more than doubled Tenstorrent’s valuation from the $2.6 billion it fetched in late 2024"
+        }
+      ]
+    },
+    {
+      "claim": "Yatırım turu Trace Capital ve Innovation X tarafından yönetilmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "quote": "The fresh round, which more than doubled Tenstorrent’s valuation from the $2.6 billion it fetched in late 2024, was led by Trace Capital, a new firm launched by Quiet Capital co-founder Ben Mahdavi, and Innovation X."
+        }
+      ]
+    },
+    {
+      "claim": "Yatırım turuna katılan diğer destekçiler arasında Cadence Ventures, Eclipse, Fidelity, SanDisk ve T. Rowe Price yer almaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "quote": "Other backers included Cadence Ventures, Eclipse, Fidelity, SanDisk, and T. Rowe Price."
+        }
+      ]
+    },
+    {
+      "claim": "Tenstorrent CEO'su Jim Keller, şirketin Galaxy sunucularının DeepSeek modellerini çalıştırabildiğini göstermesinin ardından bağımsız kalmaya ve sermaye artırmaya karar verdiğini belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "quote": "Jim Keller, a prominent microprocessor engineer and Tenstorrent CEO, told Bloomberg that the company decided to remain independent and raise more capital after it showed that its Galaxy servers could run DeepSeek models."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Tenstorrent, 1.5 milyar dolar yatırım alarak değerlemesini 6.2 milyar dolara çıkardı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "quote": "Tenstorrent, a chip startup focused on inference, has raised $1.5 billion at a $6.2 billion valuation."
+        }
+      ]
+    },
+    {
+      "claim": "Tenstorrent 10 yıllık bir şirkettir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "quote": "The round comes five months after the 10-year-old Nvidia challenger reportedly received acquisition interest from Intel and Qualcomm at valuations of as much as $5 billion."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "quote": "The round comes five months after the 10-year-old Nvidia challenger"
+        }
+      ]
+    },
+    {
+      "claim": "Şirketin değerlemesi 2024 sonundaki 2.6 milyar dolardan iki katından fazla artmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "quote": "The fresh round, which more than doubled Tenstorrent’s valuation from the $2.6 billion it fetched in late 2024, was led by Trace Capital"
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "quote": "The fresh round, which more than doubled Tenstorrent’s valuation from the $2.6 billion it fetched in late 2024"
+        }
+      ]
+    },
+    {
+      "claim": "Yatırım turu Trace Capital ve Innovation X tarafından yönetilmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "quote": "The fresh round, which more than doubled Tenstorrent’s valuation from the $2.6 billion it fetched in late 2024, was led by Trace Capital, a new firm launched by Quiet Capital co-founder Ben Mahdavi, and Innovation X."
+        }
+      ]
+    },
+    {
+      "claim": "Yatırım turuna katılan diğer destekçiler arasında Cadence Ventures, Eclipse, Fidelity, SanDisk ve T. Rowe Price yer almaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "quote": "Other backers included Cadence Ventures, Eclipse, Fidelity, SanDisk, and T. Rowe Price."
+        }
+      ]
+    },
+    {
+      "claim": "Tenstorrent CEO'su Jim Keller, şirketin Galaxy sunucularının DeepSeek modellerini çalıştırabildiğini göstermesinin ardından bağımsız kalmaya ve sermaye artırmaya karar verdiğini belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "quote": "Jim Keller, a prominent microprocessor engineer and Tenstorrent CEO, told Bloomberg that the company decided to remain independent and raise more capital after it showed that its Galaxy servers could run DeepSeek models."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Tenstorrent, 1.5 milyar dolar yatırım alarak değerlemesini 6.2 milyar dolara çıkardı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "quote": "Tenstorrent, a chip startup focused on inference, has raised $1.5 billion at a $6.2 billion valuation."
+        }
+      ]
+    },
+    {
+      "claim": "Tenstorrent 10 yıllık bir şirkettir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "quote": "The round comes five months after the 10-year-old Nvidia challenger reportedly received acquisition interest from Intel and Qualcomm at valuations of as much as $5 billion."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "quote": "The round comes five months after the 10-year-old Nvidia challenger"
+        }
+      ]
+    },
+    {
+      "claim": "Şirketin değerlemesi 2024 sonundaki 2.6 milyar dolardan iki katından fazla artmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "quote": "The fresh round, which more than doubled Tenstorrent’s valuation from the $2.6 billion it fetched in late 2024, was led by Trace Capital"
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "quote": "The fresh round, which more than doubled Tenstorrent’s valuation from the $2.6 billion it fetched in late 2024"
+        }
+      ]
+    },
+    {
+      "claim": "Yatırım turu Trace Capital ve Innovation X tarafından yönetilmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "quote": "The fresh round, which more than doubled Tenstorrent’s valuation from the $2.6 billion it fetched in late 2024, was led by Trace Capital, a new firm launched by Quiet Capital co-founder Ben Mahdavi, and Innovation X."
+        }
+      ]
+    },
+    {
+      "claim": "Yatırım turuna katılan diğer destekçiler arasında Cadence Ventures, Eclipse, Fidelity, SanDisk ve T. Rowe Price yer almaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "quote": "Other backers included Cadence Ventures, Eclipse, Fidelity, SanDisk, and T. Rowe Price."
+        }
+      ]
+    },
+    {
+      "claim": "Tenstorrent CEO'su Jim Keller, şirketin Galaxy sunucularının DeepSeek modellerini çalıştırabildiğini göstermesinin ardından bağımsız kalmaya ve sermaye artırmaya karar verdiğini belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "quote": "Jim Keller, a prominent microprocessor engineer and Tenstorrent CEO, told Bloomberg that the company decided to remain independent and raise more capital after it showed that its Galaxy servers could run DeepSeek models."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/": 1161,
+    "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre": 5307,
+    "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/": 4808,
+    "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss": 3053
+  }
+}
