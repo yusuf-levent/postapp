@@ -2,9 +2,10 @@ name: post
 
 on:
   schedule:
-    # Her saat :03 ve :28'de kontrol eder; bekleyen veya geciken slot varsa tamamlar,
+    # Her 5 dakikada bir kontrol eder; bekleyen veya geciken slot varsa tamamlar,
     # tüm slotlar zaten yayınlanmışsa birkaç saniyede çıkar (idempotent).
-    - cron: "3,28 * * * *"
+    # GitHub cron gecikmeleri/ertelenmeleri için sık kontrol şarttır.
+    - cron: "*/5 * * * *"
   push:
     branches: [main]
     paths:

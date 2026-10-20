@@ -89,7 +89,7 @@ def run(
                 and not history_store.slot_already_done(date_label, s["time"])
             ]
             if not due_slots:
-                log.info("Bugün (%s) için saati gelmiş tüm slotlar zaten yayınlanmış, çıkılıyor.", date_label)
+                log.info("Bugün (%s) için saati gelmiş bekleyen slot yok (hepsi yayınlanmış veya henüz saati gelmedi), çıkılıyor.", date_label)
                 return 0
             if len(due_slots) > 1:
                 log.info("Bugün için bekleyen %d slot sırayla çalıştırılacak: %s", len(due_slots), due_slots)

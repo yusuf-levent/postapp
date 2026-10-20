@@ -175,6 +175,30 @@ Otomatik zamanlama zaten tanımlıdır:
 | Slaytlarda taşmış yazı | Nadirdir; sistem otomatik küçültür. Tekrarlarsa `content.json`'daki metinleri kısaltıp tekrar çalıştırın |
 | Paylaşım `failed` | Depoda otomatik açılan issue'ya bakın. Çözüldüğünde sonraki başarılı paylaşım issue'yu otomatik kapatır |
 | Cron hiç çalışmıyor | GitHub, 60 gün hareketsiz depolarda cron'u kapatır. Bu sistem her gün commit attığı için kapanmaz; yine de Actions sekmesinden manuel çalıştırabilirsiniz |
+
+### ⏱️ Zamanlama gecikmelerini tamamen önleme (external cron — önerilen)
+
+GitHub Actions `schedule` yoğunlukta **saatlerce gecikebilir** (cron UTC'de
+planlanır ama GitHub koşuları erteleyip atlayabilir). Sistem bunu bir sonraki
+çalışmada telafi eder (catch-up), yani postlar kaybolmaz; sadece geç paylaşılır.
+Tam dakikasında paylaşım için harici bir tetikleyici kullanın:
+
+1. GitHub'da **Settings → Developer settings → Personal access tokens →
+   Fine-grained token** oluşturun.
+   - Repository access: yalnızca bu depo
+   - Permissions: `Actions` → **Read and write**, `Contents` → **Read and write**
+2. Ücretsiz bir cron servisine kaydolun: [cron-job.org](https://cron-job.org),
+   [EasyCron](https://www.easycron.com) veya benzeri.
+3. Şu ayarlarla bir görev oluşturun:
+   - **URL:** `https://api.github.com/repos/KULLANICI_ADINIZ/tekno-pusula/actions/workflows/publish.yml/dispatches`
+   - **Method:** `POST`
+   - **Headers:** `Authorization: Bearer <TOKEN>` ve `Accept: application/vnd.github+json`
+   - **Body:** `{"ref":"main","inputs":{"dry_run":"false","force_type":"auto"}}`
+   - **Sıklık:** her 5 dakikada bir
+4. Görevin çalıştığını [cron-job.org](https://cron-job.org) loglarından doğrulayın.
+
+Bu kurulum GitHub'ın kendi cron'unu tamamen devre dışı bırakır; kontrol sizde olur.
+`post` workflow'u idempotent olduğu için sık tetiklemek zararsızdır.
 | Threads "token süresi dolmuş" | **Actions → tools → refresh_threads_token** ile yenileyin (`force` işaretleyin) |
 
 ## 8. Bilinen kısıtlar
