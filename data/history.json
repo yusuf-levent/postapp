@@ -888,5 +888,84 @@
     ],
     "created_at": "2026-10-20T13:20:26+03:00",
     "verified_claims_count": 6
+  },
+  {
+    "id": "2026-10-20-1500",
+    "date": "2026-10-20",
+    "slot": "15:00",
+    "type": "news",
+    "title_tr": "Eka Robotics 150 Milyon Dolar Yatırım Aldı",
+    "original_title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
+    ],
+    "canonical_url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving",
+    "entities": [
+      "Eka Robotics",
+      "Pulkit Agrawal",
+      "Tuomas Haarnoja",
+      "a16z",
+      "F-Prime",
+      "Raghu Raguram",
+      "Kris Hauser",
+      "Google DeepMind",
+      "MIT",
+      "University of Illinois Urbana-Champaign",
+      "TechCrunch"
+    ],
+    "event_type": "funding",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ad776a38e28a63abaee780f",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ad776b98e28a63abaee7c27",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ad776d0dcfa786848ca5d36",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2112547528356860326",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18102695144640728",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DeuBTIslpxe",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ad776f78e28a63abaee88a6",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ad7770d1192ad93fbd32cdc",
+        "permalink": "https://facebook.com/1351036918092059_122116987293484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-20T17:13:47+03:00",
+    "verified_claims_count": 7
   }
 ]
