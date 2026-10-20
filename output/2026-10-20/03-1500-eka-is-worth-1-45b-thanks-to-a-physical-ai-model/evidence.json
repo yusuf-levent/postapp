@@ -1,0 +1,274 @@
+{
+  "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+  "canonical_url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+  "source_names": [
+    "TechCrunch",
+    "Engadget",
+    "NVIDIA Newsroom",
+    "Hugging Face Blog"
+  ],
+  "checked_at": "2026-10-20T17:08:33+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Eka Robotics, MIT profesörü Pulkit Agrawal ve eski Google DeepMind araştırmacısı Tuomas Haarnoja tarafından kurulmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "Founded by MIT professor Pulkit Agrawal and former Google DeepMind researcher Tuomas Haarnoja, the startup just closed an $150 million Series A round that values it at $1.45 billion post-money, led by venture funds a16z and F-Prime."
+        }
+      ]
+    },
+    {
+      "claim": "Eka Robotics, a16z ve F-Prime liderliğindeki Series A yatırım turunda 150 milyon dolar yatırım almıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "the startup just closed an $150 million Series A round that values it at $1.45 billion post-money, led by venture funds a16z and F-Prime."
+        }
+      ]
+    },
+    {
+      "claim": "Şirketin son yatırım turu sonrasındaki değerlemesi 1,45 milyar dolardır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "values it at $1.45 billion post-money"
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "the startup just closed an $150 million Series A round that values it at $1.45 billion post-money, led by venture funds a16z and F-Prime."
+        }
+      ]
+    },
+    {
+      "claim": "Eka Robotics'in robotu, bir insan dakikada yaklaşık 600 nesne alabilirken, bir saatte 1 kg ağırlığa kadar yaklaşık 1.500 nesneyi alabilmektedir.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Eka Robotics, robotunun nesneleri %95'ten fazla bir oranla güvenilir bir şekilde aldığını belirtmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "Eka says it reliably picks up objects more than 95% of the time."
+        }
+      ]
+    },
+    {
+      "claim": "Pulkit Agrawal ve Tuomas Haarnoja, California Üniversitesi, Berkeley'de lisansüstü eğitimde ilk kez tanışmışlardır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "Agrawal and Haarnoja, who first met in graduate school at the University of California, Berkeley, are leading researchers in the field of reinforcement learning for robotics control."
+        }
+      ]
+    },
+    {
+      "claim": "Eka'nın 1.000 dolardan daha düşük maliyetli tutucu donanımı şu anda 5 milyon çalışma çevrimi için derecelendirilmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "right now, he says Eka’s gripper hardware — which costs less than $1,000 — is rated for 5 million duty cycles"
+        }
+      ]
+    },
+    {
+      "claim": "Şirketin nihai hedefi standart endüstriyel kolların belirlediği 20 milyon çevrim barajına ulaşmaktır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "the ultimate goal is to hit the 20 million cycle bar set by standard industrial arms."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "right now, he says Eka’s gripper hardware — which costs less than $1,000 — is rated for 5 million duty cycles, but the ultimate goal is to hit the 20 million cycle bar set by standard industrial arms."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Eka Robotics, MIT profesörü Pulkit Agrawal ve eski Google DeepMind araştırmacısı Tuomas Haarnoja tarafından kurulmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "Founded by MIT professor Pulkit Agrawal and former Google DeepMind researcher Tuomas Haarnoja, the startup just closed an $150 million Series A round that values it at $1.45 billion post-money, led by venture funds a16z and F-Prime."
+        }
+      ]
+    },
+    {
+      "claim": "Eka Robotics, a16z ve F-Prime liderliğindeki Series A yatırım turunda 150 milyon dolar yatırım almıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "the startup just closed an $150 million Series A round that values it at $1.45 billion post-money, led by venture funds a16z and F-Prime."
+        }
+      ]
+    },
+    {
+      "claim": "Şirketin son yatırım turu sonrasındaki değerlemesi 1,45 milyar dolardır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "values it at $1.45 billion post-money"
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "the startup just closed an $150 million Series A round that values it at $1.45 billion post-money, led by venture funds a16z and F-Prime."
+        }
+      ]
+    },
+    {
+      "claim": "Eka Robotics'in robotu, bir insan dakikada yaklaşık 600 nesne alabilirken, bir saatte 1 kg ağırlığa kadar yaklaşık 1.500 nesneyi alabilmektedir.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Eka Robotics, robotunun nesneleri %95'ten fazla bir oranla güvenilir bir şekilde aldığını belirtmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "Eka says it reliably picks up objects more than 95% of the time."
+        }
+      ]
+    },
+    {
+      "claim": "Pulkit Agrawal ve Tuomas Haarnoja, California Üniversitesi, Berkeley'de lisansüstü eğitimde ilk kez tanışmışlardır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "Agrawal and Haarnoja, who first met in graduate school at the University of California, Berkeley, are leading researchers in the field of reinforcement learning for robotics control."
+        }
+      ]
+    },
+    {
+      "claim": "Eka'nın 1.000 dolardan daha düşük maliyetli tutucu donanımı şu anda 5 milyon çalışma çevrimi için derecelendirilmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "right now, he says Eka’s gripper hardware — which costs less than $1,000 — is rated for 5 million duty cycles"
+        }
+      ]
+    },
+    {
+      "claim": "Şirketin nihai hedefi standart endüstriyel kolların belirlediği 20 milyon çevrim barajına ulaşmaktır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "the ultimate goal is to hit the 20 million cycle bar set by standard industrial arms."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "right now, he says Eka’s gripper hardware — which costs less than $1,000 — is rated for 5 million duty cycles, but the ultimate goal is to hit the 20 million cycle bar set by standard industrial arms."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Eka Robotics, MIT profesörü Pulkit Agrawal ve eski Google DeepMind araştırmacısı Tuomas Haarnoja tarafından kurulmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "Founded by MIT professor Pulkit Agrawal and former Google DeepMind researcher Tuomas Haarnoja, the startup just closed an $150 million Series A round that values it at $1.45 billion post-money, led by venture funds a16z and F-Prime."
+        }
+      ]
+    },
+    {
+      "claim": "Eka Robotics, a16z ve F-Prime liderliğindeki Series A yatırım turunda 150 milyon dolar yatırım almıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "the startup just closed an $150 million Series A round that values it at $1.45 billion post-money, led by venture funds a16z and F-Prime."
+        }
+      ]
+    },
+    {
+      "claim": "Şirketin son yatırım turu sonrasındaki değerlemesi 1,45 milyar dolardır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "values it at $1.45 billion post-money"
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "the startup just closed an $150 million Series A round that values it at $1.45 billion post-money, led by venture funds a16z and F-Prime."
+        }
+      ]
+    },
+    {
+      "claim": "Eka Robotics'in robotu, bir insan dakikada yaklaşık 600 nesne alabilirken, bir saatte 1 kg ağırlığa kadar yaklaşık 1.500 nesneyi alabilmektedir.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Eka Robotics, robotunun nesneleri %95'ten fazla bir oranla güvenilir bir şekilde aldığını belirtmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "Eka says it reliably picks up objects more than 95% of the time."
+        }
+      ]
+    },
+    {
+      "claim": "Pulkit Agrawal ve Tuomas Haarnoja, California Üniversitesi, Berkeley'de lisansüstü eğitimde ilk kez tanışmışlardır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "Agrawal and Haarnoja, who first met in graduate school at the University of California, Berkeley, are leading researchers in the field of reinforcement learning for robotics control."
+        }
+      ]
+    },
+    {
+      "claim": "Eka'nın 1.000 dolardan daha düşük maliyetli tutucu donanımı şu anda 5 milyon çalışma çevrimi için derecelendirilmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "right now, he says Eka’s gripper hardware — which costs less than $1,000 — is rated for 5 million duty cycles"
+        }
+      ]
+    },
+    {
+      "claim": "Şirketin nihai hedefi standart endüstriyel kolların belirlediği 20 milyon çevrim barajına ulaşmaktır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "the ultimate goal is to hit the 20 million cycle bar set by standard industrial arms."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "quote": "right now, he says Eka’s gripper hardware — which costs less than $1,000 — is rated for 5 million duty cycles, but the ultimate goal is to hit the 20 million cycle bar set by standard industrial arms."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/": 7291,
+    "https://www.engadget.com/2288598/google-one-useful-features/": 5629,
+    "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/": 6192,
+    "https://huggingface.co/blog/hf-torchneuron": 11521
+  }
+}

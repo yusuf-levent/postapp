@@ -1,0 +1,68 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE ROBOTİK",
+    "title": "Eka Robotics 150 Milyon Dolar Yatırım Aldı",
+    "highlight_words": [
+      "150 Milyon Dolar"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "MIT ve DeepMind kökenli girişim dev bir yatırım turunu tamamladı.",
+    "source_tags": [
+      "TECHCRUNCH",
+      "ENGADGET"
+    ]
+  },
+  "context": {
+    "heading": "Girişin Arkasındaki İsimler",
+    "cards": [
+      {
+        "card_title": "Kurucular Kimler?",
+        "card_body": "Eka Robotics, MIT profesörü Pulkit Agrawal ve eski Google DeepMind araştırmacısı Tuomas Haarnoja tarafından kuruldu."
+      },
+      {
+        "card_title": "Geçmişe Dayanan Dostluk",
+        "card_body": "Pulkit Agrawal ve Tuomas Haarnoja, California Üniversitesi Berkeley'de lisansüstü eğitimde ilk kez tanışmışlardı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "%95",
+    "stat_caption": "Robotun nesneleri güvenilir bir şekilde alabilme oranı.",
+    "stat_quote": "Eka Robotics, robotunun nesneleri yüzde 95'ten fazla bir oranla güvenilir bir şekilde aldığını belirtiyor."
+  },
+  "details": {
+    "heading": "Teknik Detaylar ve Donanım",
+    "cards": [
+      {
+        "card_title": "Düşük Maliyetli Tutucu",
+        "card_body": "Eka'nın 1.000 dolardan daha düşük maliyetli tutucu donanımı şu anda 5 milyon çalışma çevrimi için derecelendirilmiştir."
+      },
+      {
+        "card_title": "Ulaşılan Hedef",
+        "card_body": "Şirketin nihai hedefi standart endüstriyel kolların belirlediği 20 milyon çevrim barajına ulaşmaktır."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Yatırım ve Sektör Etkisi",
+    "cards": [
+      {
+        "card_title": "Devasa Yatırım",
+        "card_body": "Şirket, a16z ve F-Prime liderliğindeki Series A yatırım turunda 150 milyon dolar yatırım almıştır."
+      },
+      {
+        "card_title": "Yüksek Değerleme",
+        "card_body": "Eka Robotics'in son yatırım turu sonrasındaki değerlemesi 1,45 milyar dolara ulaştı."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Robotik alanındaki bu dev yatırımlar endüstriyi nasıl dönüştürecek?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için bizi takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
