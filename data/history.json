@@ -1040,5 +1040,79 @@
     ],
     "created_at": "2026-10-20T18:21:13+03:00",
     "verified_claims_count": 6
+  },
+  {
+    "id": "2026-10-20-2100",
+    "date": "2026-10-20",
+    "slot": "21:00",
+    "type": "news",
+    "title_tr": "Meta, Muse Özelliğini Durdurdu",
+    "original_title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+    "source_urls": [
+      "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats"
+    ],
+    "canonical_url": "https://theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+    "entities": [
+      "Meta",
+      "Muse",
+      "Claroc",
+      "Ars Technica",
+      "The Verge",
+      "Tracy Clayton"
+    ],
+    "event_type": "security_vulnerability",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ad7b66025c4beedd139c598",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ad7b678e519c58f0e12a0c5",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ad7b68f59e93798fafbb49f",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2112615970556543080",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "17952855324302385",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DeugcC6AQ4m",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ad7b6beadf3e386a761bc61",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ad7b6d525c4beedd139e8f3",
+        "permalink": "https://facebook.com/1351036918092059_122117045703484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-20T21:45:55+03:00",
+    "verified_claims_count": 6
   }
 ]
