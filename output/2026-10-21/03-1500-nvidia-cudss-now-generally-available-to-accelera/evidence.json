@@ -7,12 +7,12 @@
     "TechCrunch",
     "IEEE Spectrum"
   ],
-  "checked_at": "2026-10-21T14:41:50+03:00",
+  "checked_at": "2026-10-21T14:46:58+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "NVIDIA cuDSS, bugün genel kullanıma sunulmuş bir NVIDIA CUDA-X kütüphanesidir.",
+      "claim": "NVIDIA cuDSS, today launched in general availability, is an NVIDIA CUDA-X library that accelerates engineering and scientific simulations using GPUs.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,9 +22,13 @@
       ]
     },
     {
-      "claim": "Applied Materials, Ginestra platformunda cuDSS kullanarak seyrek çözümleri CPU tabanlı yaklaşımlara kıyasla 10 kata kadar hızlandırmıştır.",
+      "claim": "Applied Materials accelerated sparse solves in its Ginestra simulation platform by up to 10x using cuDSS compared to CPU-only approaches.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "Applied Materials: With cuDSS, Applied Materials accelerated sparse solves in Ginestra, its physics-based, defect-centric simulation platform, by up to 10x versus CPU-only approaches"
+        },
         {
           "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
           "quote": "Applied Materials: With cuDSS, Applied Materials accelerated sparse solves in Ginestra, its physics-based, defect-centric simulation platform, by up to 10x versus CPU-only approaches, speeding exploration of semiconductor materials and device reliability."
@@ -32,21 +36,45 @@
       ]
     },
     {
-      "claim": "ZEISS SMT, NVIDIA cuDSS kullanarak bir EUV litografi plazma simülasyonu benchmark testinde 4 kat hız artışı elde etmiş ve simülasyonu 6 gün 14 saatte tamamlamıştır.",
+      "claim": "ZEISS SMT achieved a measured 4x speedup in an EUV lithography plasma simulation benchmark using COMSOL Multiphysics with NVIDIA cuDSS.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
-          "quote": "Using COMSOL Multiphysics with NVIDIA cuDSS on NVIDIA accelerated computing, ZEISS SMT achieved a measured 4x speedup in an EUV lithography plasma simulation benchmark, completing the full simulation in six days and 14 hours."
+          "quote": "COMSOL: Using COMSOL Multiphysics with NVIDIA cuDSS on NVIDIA accelerated computing, ZEISS SMT achieved a measured 4x speedup in an EUV lithography plasma simulation benchmark"
         },
         {
           "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
-          "quote": "- COMSOL: Using COMSOL Multiphysics with NVIDIA cuDSS on NVIDIA accelerated computing, ZEISS SMT achieved a measured 4x speedup in an EUV lithography plasma simulation benchmark, completing the full simulation in six days and 14 hours."
+          "quote": "COMSOL: Using COMSOL Multiphysics with NVIDIA cuDSS on NVIDIA accelerated computing, ZEISS SMT achieved a measured 4x speedup in an EUV lithography plasma simulation benchmark, completing the full simulation in six days and 14 hours."
         }
       ]
     },
     {
-      "claim": "Dassault Systèmes, Abaqus structural ve computer simulation technology elektromanyetik çözücülerinde cuDSS kullanarak 8 ile 10 kat arasında bir hızlanma bildirmektedir.",
+      "claim": "ZEISS SMT completed the full EUV lithography plasma simulation benchmark in six days and 14 hours using NVIDIA accelerated computing.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "completing the full simulation in six days and 14 hours."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "COMSOL: Using COMSOL Multiphysics with NVIDIA cuDSS on NVIDIA accelerated computing, ZEISS SMT achieved a measured 4x speedup in an EUV lithography plasma simulation benchmark, completing the full simulation in six days and 14 hours."
+        }
+      ]
+    },
+    {
+      "claim": "Cadence uses cuDSS in its Celsius software to accelerate simulations of heat, structural stress and warpage in advanced chips and 3D chip designs for customers including Nokia.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "Cadence: Uses cuDSS in its Celsius software to accelerate simulations of heat, structural stress and warpage in advanced chips and 3D chip designs, helping customers including Nokia analyze complex designs faster."
+        }
+      ]
+    },
+    {
+      "claim": "Dassault Systèmes reports an 8-10x speedup using cuDSS within its Abaqus structural and computer simulation technology electromagnetic solvers.",
       "verdict": "supported",
       "evidence": [
         {
@@ -56,19 +84,29 @@
       ]
     },
     {
-      "claim": "Geliştiriciler cuDSS'yi C, C++, Python ve Fortran arayüzleri aracılığıyla kullanabilirler.",
+      "claim": "Siemens uses cuDSS in Simcenter STAR-CCM+ to accelerate simulations of structures in fluid-structure interaction workflows.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
-          "quote": "They can use cuDSS through C, C++, Python and Fortran interfaces."
+          "quote": "Siemens: Siemens uses cuDSS in Simcenter STAR-CCM+ to accelerate simulations of structures in fluid-structure interaction workflows."
+        }
+      ]
+    },
+    {
+      "claim": "Synopsys uses cuDSS in its Sentaurus Device simulator tool to help Infineon model complex devices faster.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "Synopsys: Synopsys uses cuDSS in its Sentaurus Device simulator tool to accelerate simulations of advanced logic, memory and power chips, helping Infineon model increasingly complex devices faster."
         }
       ]
     }
   ],
   "round1": [
     {
-      "claim": "NVIDIA cuDSS, bugün genel kullanıma sunulmuş bir NVIDIA CUDA-X kütüphanesidir.",
+      "claim": "NVIDIA cuDSS, today launched in general availability, is an NVIDIA CUDA-X library that accelerates engineering and scientific simulations using GPUs.",
       "verdict": "supported",
       "evidence": [
         {
@@ -78,9 +116,13 @@
       ]
     },
     {
-      "claim": "Applied Materials, Ginestra platformunda cuDSS kullanarak seyrek çözümleri CPU tabanlı yaklaşımlara kıyasla 10 kata kadar hızlandırmıştır.",
+      "claim": "Applied Materials accelerated sparse solves in its Ginestra simulation platform by up to 10x using cuDSS compared to CPU-only approaches.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "Applied Materials: With cuDSS, Applied Materials accelerated sparse solves in Ginestra, its physics-based, defect-centric simulation platform, by up to 10x versus CPU-only approaches"
+        },
         {
           "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
           "quote": "Applied Materials: With cuDSS, Applied Materials accelerated sparse solves in Ginestra, its physics-based, defect-centric simulation platform, by up to 10x versus CPU-only approaches, speeding exploration of semiconductor materials and device reliability."
@@ -88,21 +130,45 @@
       ]
     },
     {
-      "claim": "ZEISS SMT, NVIDIA cuDSS kullanarak bir EUV litografi plazma simülasyonu benchmark testinde 4 kat hız artışı elde etmiş ve simülasyonu 6 gün 14 saatte tamamlamıştır.",
+      "claim": "ZEISS SMT achieved a measured 4x speedup in an EUV lithography plasma simulation benchmark using COMSOL Multiphysics with NVIDIA cuDSS.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
-          "quote": "Using COMSOL Multiphysics with NVIDIA cuDSS on NVIDIA accelerated computing, ZEISS SMT achieved a measured 4x speedup in an EUV lithography plasma simulation benchmark, completing the full simulation in six days and 14 hours."
+          "quote": "COMSOL: Using COMSOL Multiphysics with NVIDIA cuDSS on NVIDIA accelerated computing, ZEISS SMT achieved a measured 4x speedup in an EUV lithography plasma simulation benchmark"
         },
         {
           "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
-          "quote": "- COMSOL: Using COMSOL Multiphysics with NVIDIA cuDSS on NVIDIA accelerated computing, ZEISS SMT achieved a measured 4x speedup in an EUV lithography plasma simulation benchmark, completing the full simulation in six days and 14 hours."
+          "quote": "COMSOL: Using COMSOL Multiphysics with NVIDIA cuDSS on NVIDIA accelerated computing, ZEISS SMT achieved a measured 4x speedup in an EUV lithography plasma simulation benchmark, completing the full simulation in six days and 14 hours."
         }
       ]
     },
     {
-      "claim": "Dassault Systèmes, Abaqus structural ve computer simulation technology elektromanyetik çözücülerinde cuDSS kullanarak 8 ile 10 kat arasında bir hızlanma bildirmektedir.",
+      "claim": "ZEISS SMT completed the full EUV lithography plasma simulation benchmark in six days and 14 hours using NVIDIA accelerated computing.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "completing the full simulation in six days and 14 hours."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "COMSOL: Using COMSOL Multiphysics with NVIDIA cuDSS on NVIDIA accelerated computing, ZEISS SMT achieved a measured 4x speedup in an EUV lithography plasma simulation benchmark, completing the full simulation in six days and 14 hours."
+        }
+      ]
+    },
+    {
+      "claim": "Cadence uses cuDSS in its Celsius software to accelerate simulations of heat, structural stress and warpage in advanced chips and 3D chip designs for customers including Nokia.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "Cadence: Uses cuDSS in its Celsius software to accelerate simulations of heat, structural stress and warpage in advanced chips and 3D chip designs, helping customers including Nokia analyze complex designs faster."
+        }
+      ]
+    },
+    {
+      "claim": "Dassault Systèmes reports an 8-10x speedup using cuDSS within its Abaqus structural and computer simulation technology electromagnetic solvers.",
       "verdict": "supported",
       "evidence": [
         {
@@ -112,19 +178,29 @@
       ]
     },
     {
-      "claim": "Geliştiriciler cuDSS'yi C, C++, Python ve Fortran arayüzleri aracılığıyla kullanabilirler.",
+      "claim": "Siemens uses cuDSS in Simcenter STAR-CCM+ to accelerate simulations of structures in fluid-structure interaction workflows.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
-          "quote": "They can use cuDSS through C, C++, Python and Fortran interfaces."
+          "quote": "Siemens: Siemens uses cuDSS in Simcenter STAR-CCM+ to accelerate simulations of structures in fluid-structure interaction workflows."
+        }
+      ]
+    },
+    {
+      "claim": "Synopsys uses cuDSS in its Sentaurus Device simulator tool to help Infineon model complex devices faster.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "Synopsys: Synopsys uses cuDSS in its Sentaurus Device simulator tool to accelerate simulations of advanced logic, memory and power chips, helping Infineon model increasingly complex devices faster."
         }
       ]
     }
   ],
   "round2": [
     {
-      "claim": "NVIDIA cuDSS, bugün genel kullanıma sunulmuş bir NVIDIA CUDA-X kütüphanesidir.",
+      "claim": "NVIDIA cuDSS, today launched in general availability, is an NVIDIA CUDA-X library that accelerates engineering and scientific simulations using GPUs.",
       "verdict": "supported",
       "evidence": [
         {
@@ -134,9 +210,13 @@
       ]
     },
     {
-      "claim": "Applied Materials, Ginestra platformunda cuDSS kullanarak seyrek çözümleri CPU tabanlı yaklaşımlara kıyasla 10 kata kadar hızlandırmıştır.",
+      "claim": "Applied Materials accelerated sparse solves in its Ginestra simulation platform by up to 10x using cuDSS compared to CPU-only approaches.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "Applied Materials: With cuDSS, Applied Materials accelerated sparse solves in Ginestra, its physics-based, defect-centric simulation platform, by up to 10x versus CPU-only approaches"
+        },
         {
           "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
           "quote": "Applied Materials: With cuDSS, Applied Materials accelerated sparse solves in Ginestra, its physics-based, defect-centric simulation platform, by up to 10x versus CPU-only approaches, speeding exploration of semiconductor materials and device reliability."
@@ -144,21 +224,45 @@
       ]
     },
     {
-      "claim": "ZEISS SMT, NVIDIA cuDSS kullanarak bir EUV litografi plazma simülasyonu benchmark testinde 4 kat hız artışı elde etmiş ve simülasyonu 6 gün 14 saatte tamamlamıştır.",
+      "claim": "ZEISS SMT achieved a measured 4x speedup in an EUV lithography plasma simulation benchmark using COMSOL Multiphysics with NVIDIA cuDSS.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
-          "quote": "Using COMSOL Multiphysics with NVIDIA cuDSS on NVIDIA accelerated computing, ZEISS SMT achieved a measured 4x speedup in an EUV lithography plasma simulation benchmark, completing the full simulation in six days and 14 hours."
+          "quote": "COMSOL: Using COMSOL Multiphysics with NVIDIA cuDSS on NVIDIA accelerated computing, ZEISS SMT achieved a measured 4x speedup in an EUV lithography plasma simulation benchmark"
         },
         {
           "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
-          "quote": "- COMSOL: Using COMSOL Multiphysics with NVIDIA cuDSS on NVIDIA accelerated computing, ZEISS SMT achieved a measured 4x speedup in an EUV lithography plasma simulation benchmark, completing the full simulation in six days and 14 hours."
+          "quote": "COMSOL: Using COMSOL Multiphysics with NVIDIA cuDSS on NVIDIA accelerated computing, ZEISS SMT achieved a measured 4x speedup in an EUV lithography plasma simulation benchmark, completing the full simulation in six days and 14 hours."
         }
       ]
     },
     {
-      "claim": "Dassault Systèmes, Abaqus structural ve computer simulation technology elektromanyetik çözücülerinde cuDSS kullanarak 8 ile 10 kat arasında bir hızlanma bildirmektedir.",
+      "claim": "ZEISS SMT completed the full EUV lithography plasma simulation benchmark in six days and 14 hours using NVIDIA accelerated computing.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "completing the full simulation in six days and 14 hours."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "COMSOL: Using COMSOL Multiphysics with NVIDIA cuDSS on NVIDIA accelerated computing, ZEISS SMT achieved a measured 4x speedup in an EUV lithography plasma simulation benchmark, completing the full simulation in six days and 14 hours."
+        }
+      ]
+    },
+    {
+      "claim": "Cadence uses cuDSS in its Celsius software to accelerate simulations of heat, structural stress and warpage in advanced chips and 3D chip designs for customers including Nokia.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "Cadence: Uses cuDSS in its Celsius software to accelerate simulations of heat, structural stress and warpage in advanced chips and 3D chip designs, helping customers including Nokia analyze complex designs faster."
+        }
+      ]
+    },
+    {
+      "claim": "Dassault Systèmes reports an 8-10x speedup using cuDSS within its Abaqus structural and computer simulation technology electromagnetic solvers.",
       "verdict": "supported",
       "evidence": [
         {
@@ -168,12 +272,22 @@
       ]
     },
     {
-      "claim": "Geliştiriciler cuDSS'yi C, C++, Python ve Fortran arayüzleri aracılığıyla kullanabilirler.",
+      "claim": "Siemens uses cuDSS in Simcenter STAR-CCM+ to accelerate simulations of structures in fluid-structure interaction workflows.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
-          "quote": "They can use cuDSS through C, C++, Python and Fortran interfaces."
+          "quote": "Siemens: Siemens uses cuDSS in Simcenter STAR-CCM+ to accelerate simulations of structures in fluid-structure interaction workflows."
+        }
+      ]
+    },
+    {
+      "claim": "Synopsys uses cuDSS in its Sentaurus Device simulator tool to help Infineon model complex devices faster.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "Synopsys: Synopsys uses cuDSS in its Sentaurus Device simulator tool to accelerate simulations of advanced logic, memory and power chips, helping Infineon model increasingly complex devices faster."
         }
       ]
     }

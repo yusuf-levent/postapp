@@ -1,13 +1,14 @@
 {
   "cover": {
     "category_label": "YAPAY ZEKA VE HESAPLAMA",
-    "title": "NVIDIA cuDSS Genel Kullanıma Sunuldu",
+    "title": "NVIDIA cuDSS Genel Erişime Açıldı",
     "highlight_words": [
       "cuDSS",
-      "Sunuldu"
+      "Genel",
+      "Erişime"
     ],
     "highlight_color": "yellow",
-    "subtitle": "CUDA-X kütüphanesi cuDSS ile simülasyonlarda kat kat hızlanma dönemi başladı.",
+    "subtitle": "Mühendislik ve bilimsel simülasyonları GPU'larla hızlandıran CUDA-X kütüphanesi çıktı.",
     "source_tags": [
       "NVIDIA NEWSROOM",
       "TECHCRUNCH"
@@ -18,47 +19,51 @@
     "cards": [
       {
         "card_title": "CUDA-X Kütüphanesi",
-        "card_body": "NVIDIA cuDSS, bugün genel kullanıma sunulmuş olan güçlü bir NVIDIA CUDA-X kütüphanesidir."
+        "card_body": "NVIDIA cuDSS, mühendislik ve bilimsel simülasyonları grafik işlemciler (GPU) kullanarak hızlandıran bir CUDA-X kütüphanesidir."
       },
       {
-        "card_title": "Geniş Dil Desteği",
-        "card_body": "Geliştiriciler cuDSS kütüphanesini C, C++, Python ve Fortran arayüzleri aracılığıyla kolayca kullanabilirler."
+        "card_title": "Genel Erişime Açıldı",
+        "card_body": "Yenilikçi kütüphane bugünden itibaren genel erişime sunulmuş durumda."
       }
     ]
   },
   "stat": {
-    "big_stat": "10 KATA KADAR",
-    "stat_caption": "Seyrek çözümlerde CPU tabanlı yaklaşımlara kıyasla elde edilen maksimum hızlanma.",
-    "stat_quote": "Applied Materials, Ginestra platformunda cuDSS kullanarak seyrek çözümleri 10 kata kadar hızlandırmıştır."
+    "big_stat": "10X",
+    "stat_caption": "Applied Materials ve Dassault Systèmes simülasyon hızlarında büyük artış elde etti.",
+    "stat_quote": "Applied Materials, Ginestra platformunda cuDSS ile 10 kata varan hızlanma sağladı."
   },
   "details": {
-    "heading": "Sektörel Başarılar",
+    "heading": "Endüstriyel Kullanımlar",
     "cards": [
       {
-        "card_title": "ZEISS SMT Benchmark Testi",
-        "card_body": "EUV litografi plazma simülasyonunda 4 kat hız artışı elde edilmiş ve simülasyon 6 gün 14 saatte tamamlanmıştır."
+        "card_title": "ZEISS SMT Başarısı",
+        "card_body": "COMSOL Multiphysics ve cuDSS kullanarak EUV litografi plazma simülasyonunda 4 kat hızlanma elde edildi ve süreç altı gün 14 saatte tamamlandı."
       },
       {
-        "card_title": "Dassault Systèmes",
-        "card_body": "Abaqus structural ve computer simulation technology elektromanyetik çözücülerinde 8 ile 10 kat arasında hızlanma bildirilmiştir."
+        "card_title": "Cadence ve Nokia",
+        "card_body": "Cadence, gelişmiş çip tasarımlarındaki ısı ve yapısal gerilme simülasyonlarını Nokia gibi müşteriler için hızlandırıyor."
+      },
+      {
+        "card_title": "Siemens ve Synopsys",
+        "card_body": "Siemens Simcenter STAR-CCM+ ile akışkan-yapı etkileşimini hızlandırırken, Synopsys Infineon'un modelleri hızlıca oluşturmasını sağlıyor."
       }
     ]
   },
   "impact": {
-    "heading": "Kullanıcı ve Sektör Etkisi",
+    "heading": "Sektörel Etki",
     "cards": [
       {
-        "card_title": "Endüstriyel Simülasyonlar",
-        "card_body": "Mühendislik ve simülasyon süreçleri devasa zaman tasarruflarıyla çok daha hızlı tamamlanabiliyor."
+        "card_title": "Mühendislik Simülasyonları",
+        "card_body": "GPU tabanlı hızlandırma, karmaşık bilimsel ve mühendislik simülasyonlarının çok daha kısa sürede tamamlanmasını sağlıyor."
       },
       {
-        "card_title": "Esnek Entegrasyon",
-        "card_body": "Farklı programlama dillerine destek sunulması sayesinde geliştiriciler mevcut sistemlerine cuDSS'yi adapte edebilir."
+        "card_title": "Gelişmiş Çip Tasarımları",
+        "card_body": "3D çip tasarımları ve gelişmiş cihaz modellemeleri endüstriyel devler tarafından hızla test ediliyor."
       }
     ]
   },
   "cta": {
-    "question": "Siz projelerinizde hızlandırma için hangi programlama dillerini ve kütüphaneleri tercih ediyorsunuz?",
+    "question": "GPU tabanlı simülasyonların mühendislik süreçlerinizi nasıl etkilemesini bekliyorsunuz?",
     "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",

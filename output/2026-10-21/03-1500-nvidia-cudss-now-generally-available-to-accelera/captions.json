@@ -1,61 +1,60 @@
 {
   "captions": {
     "instagram": {
-      "text": "NVIDIA cuDSS sonunda genel kullanıma sunuldu! Simülasyonlarda kat kat hızlanma dönemi resmen başladı. CUDA-X kütüphanesinin bu güçlü üyesi, seyrek çözümlerde CPU tabanlı yaklaşımlara kıyasla 10 kata kadar hızlanma sunuyor.\n\nGeliştiriciler C, C++, Python ve Fortran arayüzleri ile cuDSS'yi sistemlerine kolayca entegre edebiliyor. ZEISS ve Dassault Systèmes gibi devler şimdiden devasa zaman tasarrufları elde etti.\n\nSiz projelerinizde hızlandırma için hangi programlama dillerini ve kütüphaneleri tercih ediyorsunuz?\n\nKaynak: NVIDIA Newsroom, TechCrunch",
+      "text": "NVIDIA cuDSS artık genel erişimde! Mühendislik ve bilimsel simülasyonları GPU'larla hızlandıran bu CUDA-X kütüphanesi, simülasyon süreçlerinde 10 kata varan hızlanma sağlıyor. Sektörel devler şimdiden büyük başarılar elde etmeye başladı. GPU tabanlı simülasyonların mühendislik süreçlerinizi nasıl etkilemesini bekliyorsunuz? Kaynak: NVIDIA Newsroom, TechCrunch",
       "hashtags": [
         "NVIDIA",
         "cuDSS",
         "YapayZeka",
-        "Simulasyon",
-        "Python",
-        "Cplusplus",
         "Teknoloji",
-        "YazilimGelistirme",
-        "AI",
-        "TechNews"
+        "Simulasyon",
+        "Muhendislik",
+        "GPU",
+        "CudaX",
+        "TechNews",
+        "ArtificialIntelligence"
       ]
     },
     "tiktok": {
-      "text": "NVIDIA cuDSS çıktı ve simülasyonlar 10 kata kadar hızlanıyor! C, C++, Python ve Fortran desteğiyle geliştiricilerin işi çok kolaylaşacak. Siz hangi dili kullanıyorsunuz? Kaynak: NVIDIA Newsroom",
+      "text": "NVIDIA cuDSS nihayet genel erişime açıldı! GPU'lar sayesinde mühendislik simülasyonlarında 10 kata varan hızlanma devri başladı. Kaynak: NVIDIA Newsroom",
       "hashtags": [
         "NVIDIA",
         "cuDSS",
-        "Yazilim",
-        "Programlama",
-        "Teknoloji"
+        "Teknoloji",
+        "Bilim",
+        "YapayZeka"
       ]
     },
     "x": {
-      "text": "NVIDIA cuDSS genel kullanıma sunuldu! CUDA-X kütüphanesi sayesinde simülasyonlarda 10 kata kadar hızlanma dönemi başladı. C, C++, Python ve Fortran desteği mevcut. Projelerinizde hangi dili tercih ediyorsunuz? Kaynak: NVIDIA Newsroom #NVIDIA #cuDSS",
+      "text": "NVIDIA cuDSS genel erişime açıldı! GPU tabanlı CUDA-X kütüphanesi, mühendislik ve bilimsel simülasyonlarda 10 kata varan hızlanma sunuyor. Kaynak: NVIDIA Newsroom, TechCrunch",
       "hashtags": [
         "NVIDIA",
         "cuDSS"
       ]
     },
     "threads": {
-      "text": "NVIDIA cuDSS Genel Kullanıma Sunuldu!\n\nCUDA-X kütüphanesinin yeni üyesi cuDSS, simülasyonlarda CPU tabanlı yaklaşımlara göre 10 kata kadar hızlanma sağlıyor. C, C++, Python ve Fortran desteğiyle geliştiricilere esnek entegrasyon sunuyor. 💭\n\nSiz projelerinizde hangi dilleri kullanıyorsunuz?\n\nKaynak: NVIDIA Newsroom\n\n#NVIDIA",
+      "text": "NVIDIA cuDSS Genel Erişime Açıldı\n\nMühendislik ve bilimsel simülasyonları GPU'larla hızlandıran CUDA-X kütüphanesi çıktı. Sistem, simülasyonlarda 10 kata varan hızlanma sağlıyor.\n\nGPU tabanlı simülasyonların süreçlerinizi nasıl etkilemesini bekliyorsunuz?\n\n💭 Kaynak: NVIDIA Newsroom, TechCrunch",
       "hashtags": [
         "NVIDIA"
       ]
     },
     "linkedin": {
-      "text": "NVIDIA cuDSS kütüphanesinin genel kullanıma sunulmasıyla birlikte mühendislik ve endüstriyel simülasyonlarda önemli bir döneme girildi. Seyrek çözümlerde 10 kata kadar hızlanma sunan bu CUDA-X kütüphanesi; C, C++, Python ve Fortran arayüzleri sayesinde mevcut sistemlere esnek bir şekilde entegre edilebiliyor.\n\nZEISS ve Dassault Systèmes gibi endüstri liderlerinin süreçlerinde kaydettiği devasa zaman tasarrufları, teknolojinin iş yapış biçimlerini nasıl dönüştürdüğünü açıkça gösteriyor.\n\nSiz projelerinizde performans optimizasyonu için hangi araçları kullanıyorsunuz?\n\nKaynak: NVIDIA Newsroom, TechCrunch",
+      "text": "NVIDIA'nın mühendislik ve bilimsel simülasyonları grafik işlemcilerle hızlandıran CUDA-X kütüphanesi cuDSS, bugün itibarıyla genel erişime sunuldu. Yapılan ilk uygulamalarda 10 kata varan hızlanma oranlarına ulaşıldı. Endüstriyel çip tasarımı ve simülasyon süreçlerinde yeni bir dönem başlıyor.\n\nKaynak: NVIDIA Newsroom, TechCrunch",
       "hashtags": [
         "NVIDIA",
-        "YapayZeka",
+        "cuDSS",
         "Muhendislik",
-        "YazilimGelistirme",
+        "YapayZeka",
         "Teknoloji"
       ]
     },
     "facebook": {
-      "text": "NVIDIA cuDSS genel kullanıma sunuldu ve simülasyon dünyasında hızlanma dönemi başladı! CUDA-X kütüphanesi, seyrek çözümlerde CPU tabanlı yaklaşımlara kıyasla 10 kata kadar daha yüksek performans sunuyor.\n\nC, C++, Python ve Fortran arayüzleri ile geliştiricilerin kolayca adapte edebileceği cuDSS, endüstriyel simülasyon süreçlerinde devasa zaman tasarrufları sağlıyor.\n\nSiz projelerinizde hızlandırma için hangi programlama dillerini tercih ediyorsunuz?\n\nKaynak: NVIDIA Newsroom",
+      "text": "NVIDIA cuDSS genel erişime açıldı! Mühendislik ve bilimsel simülasyonları GPU'larla hızlandıran CUDA-X kütüphanesi, endüstriyel süreçlerde 10 kata varan hızlanma sağlıyor.\n\nGPU tabanlı simülasyonların süreçlerinizi nasıl etkilemesini bekliyorsunuz?\n\nKaynak: NVIDIA Newsroom, TechCrunch",
       "hashtags": [
         "NVIDIA",
         "cuDSS",
-        "Simulasyon",
-        "Yazilim",
-        "Teknoloji"
+        "Teknoloji",
+        "Muhendislik"
       ]
     }
   },

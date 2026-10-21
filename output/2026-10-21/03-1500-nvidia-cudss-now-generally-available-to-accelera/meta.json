@@ -2,9 +2,9 @@
   "slot": "15:00",
   "type": "news",
   "model": "gemini-3.5-flash-lite",
-  "duration_seconds": 117.8,
+  "duration_seconds": 85.6,
   "candidates_tried": 1,
-  "gemini_calls": 12,
+  "gemini_calls": 16,
   "canonical_url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
-  "generated_at": "2026-10-21T14:43:19+03:00"
+  "generated_at": "2026-10-21T14:47:52+03:00"
 }

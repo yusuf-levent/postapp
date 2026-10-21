@@ -1,5 +1,5 @@
 URL: https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/
-Erişim zamanı: 2026-10-21T14:41:50+03:00
+Erişim zamanı: 2026-10-21T14:46:58+03:00
 
 On Tuesday, Google announced that TorchTPU, its long-awaited version of PyTorch, is now available as an open source project. With this, Google joins Amazon in trying to break Nvidia’s stranglehold on the AI industry, where most AI apps are written by default to run on Nvidia’s chips, or GPUs.
 PyTorch is the popular open source toolkit that AI app developers and startups use to build, train, and run AI models. It is, by some accounts, used by 85% of the AI apps. PyTorch was originally developed by Meta (then Facebook) in 2016, long before the world had an inkling that LLMs would change the world. At the time, Nvidia’s GPUs were already the standard hardware for AI research, so many of PyTorch’s features were built to work specifically with them. In 2022, Meta turned PyTorch over to the Linux Foundation, a nonprofit that manages many important open source projects.

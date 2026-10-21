@@ -1,5 +1,5 @@
 URL: https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/
-Erişim zamanı: 2026-10-21T14:41:50+03:00
+Erişim zamanı: 2026-10-21T14:46:58+03:00
 
 NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs.
 Complex engineering feats — from advanced chips to aircraft to industrial systems —– depend on simulation to predict how designs will perform before they’re built. As designs become more complex, simulations take longer to run, increasing computing demands and limiting the number of ideas teams can test.
