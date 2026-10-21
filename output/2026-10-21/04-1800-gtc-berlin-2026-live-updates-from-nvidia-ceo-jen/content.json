@@ -1,0 +1,120 @@
+{
+  "cover": {
+    "category_label": "Teknoloji Pusulası",
+    "title": "NVIDIA ve Yapay Zeka Ekosistemindeki Son Gelişmeler",
+    "highlight_words": [
+      "NVIDIA",
+      "Yapay Zeka"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Doğrulanmış verilerle en güncel teknoloji adımları.",
+    "source_tags": [
+      "NVIDIA Newsroom",
+      "TechCrunch",
+      "Wired"
+    ]
+  },
+  "problem": {
+    "heading": "Altyapı ve Donanım Çözümleri",
+    "cards": [
+      {
+        "card_title": "DSX POD Tasarımı",
+        "card_body": "Yerinde kurulum süresini altı aydan 14 güne indirebiliyor."
+      },
+      {
+        "card_title": "DSX AI Factory",
+        "card_body": "Su tüketimini %100'e kadar azaltır ve aynı AI çıktısını %30 daha az güçle üretir."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Ekosistem ve Geliştiriciler",
+      "cards": [
+        {
+          "card_title": "Avrupa Yatırımları",
+          "card_body": "Avrupa'daki teknoloji ekosistemine yaklaşık 10 milyar dolar taahhütte bulunuldu ve 12.000'den fazla ortakla çalışılıyor."
+        },
+        {
+          "card_title": "Geliştirici Sayısı",
+          "card_body": "NVIDIA'nın hızlandırılmış hesaplama platformunda geliştirme yapan 11 milyondan fazla geliştirici bulunuyor."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "İletişim ve Mobil Ağlar",
+      "cards": [
+        {
+          "card_title": "T-Mobile ve Nokia",
+          "card_body": "Yaklaşık sekiz yıllık çalışmanın ardından T-Mobile'ın ağında Nokia ile ilk ticari telefon görüşmesi gerçekleştirildi."
+        },
+        {
+          "card_title": "Geçmişten Bugüne Tempodrom",
+          "card_body": "Tempodrom, 1980 yılında Berlin Duvarı yakınındaki bir çadırda kuruldu ve 2001'de kalıcı yerine taşındı."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "İnsansı Robotlar",
+      "cards": [
+        {
+          "card_title": "Agile ONE SN",
+          "card_body": "Isaac GR00T üzerine inşa edilmiş 31 serbestlik derecesine sahip bir referans insansı olarak gelecek yıl piyasaya sürülmesi bekleniyor."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Bu gelişmelerden en çok hangi alanı ilgi çekici buluyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için takipte kalın."
+  },
+  "context": {
+    "heading": "Altyapı ve Donanım Çözümleri",
+    "cards": [
+      {
+        "card_title": "DSX POD Tasarımı",
+        "card_body": "Yerinde kurulum süresini altı aydan 14 güne indirebiliyor."
+      },
+      {
+        "card_title": "DSX AI Factory",
+        "card_body": "Su tüketimini %100'e kadar azaltır ve aynı AI çıktısını %30 daha az güçle üretir."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Ekosistem ve Geliştiriciler",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "İletişim ve Mobil Ağlar",
+    "cards": [
+      {
+        "card_title": "T-Mobile ve Nokia",
+        "card_body": "Yaklaşık sekiz yıllık çalışmanın ardından T-Mobile'ın ağında Nokia ile ilk ticari telefon görüşmesi gerçekleştirildi."
+      },
+      {
+        "card_title": "Geçmişten Bugüne Tempodrom",
+        "card_body": "Tempodrom, 1980 yılında Berlin Duvarı yakınındaki bir çadırda kuruldu ve 2001'de kalıcı yerine taşındı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "İnsansı Robotlar",
+    "cards": [
+      {
+        "card_title": "Agile ONE SN",
+        "card_body": "Isaac GR00T üzerine inşa edilmiş 31 serbestlik derecesine sahip bir referans insansı olarak gelecek yıl piyasaya sürülmesi bekleniyor."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}

@@ -1,0 +1,27 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://blogs.nvidia.com/wp-content/uploads/2026/10/jhh-keynote-kv-1920x1080-1.jpg",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-21/04-1800-gtc-berlin-2026-live-updates-from-nvidia-ceo-jen/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
+      "width": 1920,
+      "height": 1080,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/11329861/pexels-photo-11329861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-21/04-1800-gtc-berlin-2026-live-updates-from-nvidia-ceo-jen/images/img-2.png",
+      "license": "Pexels License — Caleb Oquendo",
+      "author": "Caleb Oquendo",
+      "credit_url": "https://www.pexels.com/photo/woman-on-seat-in-auditorium-11329861/",
+      "width": 1067,
+      "height": 1300,
+      "alt_text": "A diverse audience attentively listens to a speaker in a large auditorium setting."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}

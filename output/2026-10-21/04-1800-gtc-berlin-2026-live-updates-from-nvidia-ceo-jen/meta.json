@@ -1,0 +1,10 @@
+{
+  "slot": "18:00",
+  "type": "edu",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 254.1,
+  "candidates_tried": 1,
+  "gemini_calls": 13,
+  "canonical_url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
+  "generated_at": "2026-10-21T19:26:16+03:00"
+}
