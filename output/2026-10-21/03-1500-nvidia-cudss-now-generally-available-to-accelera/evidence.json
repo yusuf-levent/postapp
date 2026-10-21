@@ -1,0 +1,187 @@
+{
+  "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
+  "canonical_url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+  "source_names": [
+    "NVIDIA Newsroom",
+    "NVIDIA Newsroom",
+    "TechCrunch",
+    "IEEE Spectrum"
+  ],
+  "checked_at": "2026-10-21T14:41:50+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "NVIDIA cuDSS, bugün genel kullanıma sunulmuş bir NVIDIA CUDA-X kütüphanesidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs."
+        }
+      ]
+    },
+    {
+      "claim": "Applied Materials, Ginestra platformunda cuDSS kullanarak seyrek çözümleri CPU tabanlı yaklaşımlara kıyasla 10 kata kadar hızlandırmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "Applied Materials: With cuDSS, Applied Materials accelerated sparse solves in Ginestra, its physics-based, defect-centric simulation platform, by up to 10x versus CPU-only approaches, speeding exploration of semiconductor materials and device reliability."
+        }
+      ]
+    },
+    {
+      "claim": "ZEISS SMT, NVIDIA cuDSS kullanarak bir EUV litografi plazma simülasyonu benchmark testinde 4 kat hız artışı elde etmiş ve simülasyonu 6 gün 14 saatte tamamlamıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "Using COMSOL Multiphysics with NVIDIA cuDSS on NVIDIA accelerated computing, ZEISS SMT achieved a measured 4x speedup in an EUV lithography plasma simulation benchmark, completing the full simulation in six days and 14 hours."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "- COMSOL: Using COMSOL Multiphysics with NVIDIA cuDSS on NVIDIA accelerated computing, ZEISS SMT achieved a measured 4x speedup in an EUV lithography plasma simulation benchmark, completing the full simulation in six days and 14 hours."
+        }
+      ]
+    },
+    {
+      "claim": "Dassault Systèmes, Abaqus structural ve computer simulation technology elektromanyetik çözücülerinde cuDSS kullanarak 8 ile 10 kat arasında bir hızlanma bildirmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "Dassault Systèmes: Dassault Systèmes reports an 8-10x speedup using cuDSS within its Abaqus structural and computer simulation technology electromagnetic solvers for performance-critical simulations across industries."
+        }
+      ]
+    },
+    {
+      "claim": "Geliştiriciler cuDSS'yi C, C++, Python ve Fortran arayüzleri aracılığıyla kullanabilirler.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "They can use cuDSS through C, C++, Python and Fortran interfaces."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "NVIDIA cuDSS, bugün genel kullanıma sunulmuş bir NVIDIA CUDA-X kütüphanesidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs."
+        }
+      ]
+    },
+    {
+      "claim": "Applied Materials, Ginestra platformunda cuDSS kullanarak seyrek çözümleri CPU tabanlı yaklaşımlara kıyasla 10 kata kadar hızlandırmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "Applied Materials: With cuDSS, Applied Materials accelerated sparse solves in Ginestra, its physics-based, defect-centric simulation platform, by up to 10x versus CPU-only approaches, speeding exploration of semiconductor materials and device reliability."
+        }
+      ]
+    },
+    {
+      "claim": "ZEISS SMT, NVIDIA cuDSS kullanarak bir EUV litografi plazma simülasyonu benchmark testinde 4 kat hız artışı elde etmiş ve simülasyonu 6 gün 14 saatte tamamlamıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "Using COMSOL Multiphysics with NVIDIA cuDSS on NVIDIA accelerated computing, ZEISS SMT achieved a measured 4x speedup in an EUV lithography plasma simulation benchmark, completing the full simulation in six days and 14 hours."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "- COMSOL: Using COMSOL Multiphysics with NVIDIA cuDSS on NVIDIA accelerated computing, ZEISS SMT achieved a measured 4x speedup in an EUV lithography plasma simulation benchmark, completing the full simulation in six days and 14 hours."
+        }
+      ]
+    },
+    {
+      "claim": "Dassault Systèmes, Abaqus structural ve computer simulation technology elektromanyetik çözücülerinde cuDSS kullanarak 8 ile 10 kat arasında bir hızlanma bildirmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "Dassault Systèmes: Dassault Systèmes reports an 8-10x speedup using cuDSS within its Abaqus structural and computer simulation technology electromagnetic solvers for performance-critical simulations across industries."
+        }
+      ]
+    },
+    {
+      "claim": "Geliştiriciler cuDSS'yi C, C++, Python ve Fortran arayüzleri aracılığıyla kullanabilirler.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "They can use cuDSS through C, C++, Python and Fortran interfaces."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "NVIDIA cuDSS, bugün genel kullanıma sunulmuş bir NVIDIA CUDA-X kütüphanesidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs."
+        }
+      ]
+    },
+    {
+      "claim": "Applied Materials, Ginestra platformunda cuDSS kullanarak seyrek çözümleri CPU tabanlı yaklaşımlara kıyasla 10 kata kadar hızlandırmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "Applied Materials: With cuDSS, Applied Materials accelerated sparse solves in Ginestra, its physics-based, defect-centric simulation platform, by up to 10x versus CPU-only approaches, speeding exploration of semiconductor materials and device reliability."
+        }
+      ]
+    },
+    {
+      "claim": "ZEISS SMT, NVIDIA cuDSS kullanarak bir EUV litografi plazma simülasyonu benchmark testinde 4 kat hız artışı elde etmiş ve simülasyonu 6 gün 14 saatte tamamlamıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "Using COMSOL Multiphysics with NVIDIA cuDSS on NVIDIA accelerated computing, ZEISS SMT achieved a measured 4x speedup in an EUV lithography plasma simulation benchmark, completing the full simulation in six days and 14 hours."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "- COMSOL: Using COMSOL Multiphysics with NVIDIA cuDSS on NVIDIA accelerated computing, ZEISS SMT achieved a measured 4x speedup in an EUV lithography plasma simulation benchmark, completing the full simulation in six days and 14 hours."
+        }
+      ]
+    },
+    {
+      "claim": "Dassault Systèmes, Abaqus structural ve computer simulation technology elektromanyetik çözücülerinde cuDSS kullanarak 8 ile 10 kat arasında bir hızlanma bildirmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "Dassault Systèmes: Dassault Systèmes reports an 8-10x speedup using cuDSS within its Abaqus structural and computer simulation technology electromagnetic solvers for performance-critical simulations across industries."
+        }
+      ]
+    },
+    {
+      "claim": "Geliştiriciler cuDSS'yi C, C++, Python ve Fortran arayüzleri aracılığıyla kullanabilirler.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "quote": "They can use cuDSS through C, C++, Python and Fortran interfaces."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/": 2805,
+    "https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data": 8733,
+    "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/": 2468,
+    "https://spectrum.ieee.org/electric-truck-battery-design-simulation": 6890
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE HESAPLAMA",
+    "title": "NVIDIA cuDSS Genel Kullanıma Sunuldu",
+    "highlight_words": [
+      "cuDSS",
+      "Sunuldu"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "CUDA-X kütüphanesi cuDSS ile simülasyonlarda kat kat hızlanma dönemi başladı.",
+    "source_tags": [
+      "NVIDIA NEWSROOM",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "cuDSS Nedir?",
+    "cards": [
+      {
+        "card_title": "CUDA-X Kütüphanesi",
+        "card_body": "NVIDIA cuDSS, bugün genel kullanıma sunulmuş olan güçlü bir NVIDIA CUDA-X kütüphanesidir."
+      },
+      {
+        "card_title": "Geniş Dil Desteği",
+        "card_body": "Geliştiriciler cuDSS kütüphanesini C, C++, Python ve Fortran arayüzleri aracılığıyla kolayca kullanabilirler."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "10 KATA KADAR",
+    "stat_caption": "Seyrek çözümlerde CPU tabanlı yaklaşımlara kıyasla elde edilen maksimum hızlanma.",
+    "stat_quote": "Applied Materials, Ginestra platformunda cuDSS kullanarak seyrek çözümleri 10 kata kadar hızlandırmıştır."
+  },
+  "details": {
+    "heading": "Sektörel Başarılar",
+    "cards": [
+      {
+        "card_title": "ZEISS SMT Benchmark Testi",
+        "card_body": "EUV litografi plazma simülasyonunda 4 kat hız artışı elde edilmiş ve simülasyon 6 gün 14 saatte tamamlanmıştır."
+      },
+      {
+        "card_title": "Dassault Systèmes",
+        "card_body": "Abaqus structural ve computer simulation technology elektromanyetik çözücülerinde 8 ile 10 kat arasında hızlanma bildirilmiştir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcı ve Sektör Etkisi",
+    "cards": [
+      {
+        "card_title": "Endüstriyel Simülasyonlar",
+        "card_body": "Mühendislik ve simülasyon süreçleri devasa zaman tasarruflarıyla çok daha hızlı tamamlanabiliyor."
+      },
+      {
+        "card_title": "Esnek Entegrasyon",
+        "card_body": "Farklı programlama dillerine destek sunulması sayesinde geliştiriciler mevcut sistemlerine cuDSS'yi adapte edebilir."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Siz projelerinizde hızlandırma için hangi programlama dillerini ve kütüphaneleri tercih ediyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
