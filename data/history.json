@@ -1431,5 +1431,80 @@
     ],
     "created_at": "2026-10-21T19:40:04+03:00",
     "verified_claims_count": 7
+  },
+  {
+    "id": "2026-10-21-2100",
+    "date": "2026-10-21",
+    "slot": "21:00",
+    "type": "news",
+    "title_tr": "iPhone Duo Karşınızda",
+    "original_title": "Apple iPhone Duo Review: Is It Worth It?",
+    "source_urls": [
+      "https://www.wired.com/review/apple-iphone-duo/"
+    ],
+    "canonical_url": "https://wired.com/review/apple-iphone-duo",
+    "entities": [
+      "Apple",
+      "iPhone Duo",
+      "Instagram",
+      "Threads",
+      "Slack",
+      "Google",
+      "iOS 27.1"
+    ],
+    "event_type": "product_review",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ad8f9a04c68046f77a94ce5",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ad8f9b8bf1b50dbf9c72473",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ad8f9cf5f06a5022813aa66",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2112963056753910087",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18643681876049394",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/Dew-QjCFNZi",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ad8f9f2bf1b50dbf9c72f00",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ad8fa094c68046f77a95e1d",
+        "permalink": "https://facebook.com/1351036918092059_122117307495484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-21T20:44:51+03:00",
+    "verified_claims_count": 6
   }
 ]
