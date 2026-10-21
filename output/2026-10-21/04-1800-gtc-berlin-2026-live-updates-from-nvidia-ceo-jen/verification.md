@@ -2,63 +2,57 @@
 
 **Haber:** GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote
 **Canonical URL:** https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/
-**Kaynaklar:** NVIDIA Newsroom, NVIDIA Newsroom, TechCrunch, Wired
-**Kontrol zamanı:** 2026-10-21T19:22:35+03:00
+**Kaynaklar:** NVIDIA Newsroom, NVIDIA Newsroom, Wired, Hugging Face Blog
+**Kontrol zamanı:** 2026-10-21T19:33:14+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
 
 ## İddia Bazlı Sonuçlar
 
-### 1. Tempodrom, 1980 yılında Berlin Duvarı yakınındaki bir çadırda kuruldu ve 2001 yılında Anhalter Bahnhof yakınındaki kalıcı yerine taşındı.
+### 1. Tempodrom, 1980 yılında Berlin Duvarı yakınında bir çadırda kuruldu ve 2001 yılında Anhalter Bahnhof yakınındaki kalıcı yerine taşındı.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/](https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/)
     > Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001.
 
-### 2. NVIDIA, Avrupa'daki teknoloji ekosistemine yaklaşık 10 milyar dolar taahhütte bulundu ve 12.000'den fazla ortakla çalışıyor.
+### 2. GTC Berlin üç gün sürerken, STATION-Berlin'de agentic AI, robotik ve açık modeller üzerine 100'den fazla oturum gerçekleştiriliyor.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/](https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/)
-    > with the company committing nearly $10 billion to the technology ecosystem across Europe and working with 12,000+ partners.
+    > GTC Berlin runs three days, with more than 100 sessions on agentic AI, robotics, physical AI, open models and accelerated computing underway at STATION-Berlin down the road.
 
-### 3. NVIDIA DSX POD referans tasarımı, yerinde kurulum süresini altı aydan 14 güne indirebiliyor.
+### 3. NVIDIA, Paris, Londra, Stockholm ve Dublin'i kapsayan Avrupa turunda teknoloji ekosistemine yaklaşık 10 milyar dolar taahhüt etti ve 12.000'den fazla ortakla çalışıyor.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/](https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/)
-    > With DSX POD, onsite deployment can shrink from six months to just 14 days once site utilities are ready.
+    > The keynote comes on the heels of NVIDIA’s weeklong road across Europe — Paris, London, Stockholm, Dublin — with the company committing nearly $10 billion to the technology ecosystem across Europe and working with 12,000+ partners.
+
+### 4. NVIDIA DSX POD, ortaklar tarafından modüler konteynerler içinde inşa edilen ve saha altyapısı hazır olduğunda yerinde kurulum süresini 14 güne indirebilen bir referans tasarımıdır.
+- **Karar:** ✅ `supported`
+- **Kanıtlar:**
   - [https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/](https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/)
     > Next, Huang announced NVIDIA DSX POD, a reference design for complete NVIDIA Vera Rubin AI factories built by partners inside modular containers, integrated and validated before delivery. With DSX POD, onsite deployment can shrink from six months to just 14 days once site utilities are ready.
 
-### 4. NVIDIA DSX AI Factory Platformu, şirketlerin soğutma için su tüketimini %100'e kadar azaltmasını ve aynı AI çıktısını %30'a kadar daha az güçle üretmesini sağlıyor.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/](https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/)
-    > The NVIDIA DSX AI Factory Platform enables companies to reduce water consumption for cooling by up to 100% and generate the same AI output with up to 30% less power.
-
-### 5. NVIDIA'nın hızlandırılmış hesaplama platformunda geliştirme yapan 11 milyondan fazla geliştirici bulunmaktadır.
+### 5. NVIDIA'nın hızlandırılmış bilişim platformu üzerinde projeler geliştiren 11 milyondan fazla geliştirici bulunmaktadır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/](https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/)
     > NVIDIA’s accelerated computing platform has more than 11 million developers building on it.
 
-### 6. NVIDIA, yaklaşık sekiz yıllık çalışmanın ardından T-Mobile'ın ağında Nokia ile ilk ticari telefon görüşmesini gerçekleştirdi.
+### 6. NVIDIA, Nokia ile yaklaşık sekiz yıllık çalışmanın ardından T-Mobile'ın ağında ilk ticari telefon görüşmesini gerçekleştirdi.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/](https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/)
+    > He cited 100,000 sites and about 100 gigawatts of distributed data centers, and said NVIDIA has made its first commercial phone call on T-Mobile’s network with Nokia after nearly eight years of work.
+  - [https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/](https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/)
     > and said NVIDIA has made its first commercial phone call on T-Mobile’s network with Nokia after nearly eight years of work.
 
-### 7. Agile ONE SN, Isaac GR00T üzerine inşa edilmiş 31 serbestlik derecesine sahip bir referans insansı olarak gelecek yıl piyasaya sürülmesi bekleniyor.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data](https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data)
-    > Agile Robots announces Agile ONE SN, a humanoid reference platform built on NVIDIA Isaac GR00T and NVIDIA Jetson Thor with planned integration of the NVIDIA Halos safety stack, giving developers and researchers a complete platform for frontier humanoid development and validation.
-  - [https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data](https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data)
-    > - Agile ONE S humanoid body, standing 1.40 meters (4.59 feet tall) and weighing 40 kilograms (88 pounds), with 31 degrees of freedom and a 3-kilogram payload per arm.
-  - [https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data](https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data)
-    > Scheduled to be available in early 2027, Agile ONE SN is designed to advance frontier humanoid research and development
+### 7. Agile ONE SN, gelecek yıl piyasaya sürülmesi beklenen ve araştırmacıların kurulum süresini haftalardan günlere indirmek için tasarlanmış 31 serbestlik dereceli bir insansı referans robotudur.
+- **Karar:** ⚠️ `not_found`
+- **Kanıt:** yok
 
-### 8. NVIDIA, 2016 yılında OpenAI'a 1 petaflop performans ve 128GB belleğe sahip DGX-1 sistemini teslim etti.
+### 8. NVIDIA, 2016 yılında OpenAI'a 1 petaflop performans ve 128GB belleğe sahip bir DGX-1 teslim etmişti.
 - **Karar:** ⚠️ `not_found`
 - **Kanıt:** yok
 
@@ -68,18 +62,18 @@
 
 | İddia | 1. Tur | 2. Tur | Nihai |
 |-------|--------|--------|-------|
-| Tempodrom, 1980 yılında Berlin Duvarı yakınındaki bir çadırd | supported | supported | supported |
-| NVIDIA, Avrupa'daki teknoloji ekosistemine yaklaşık 10 milya | supported | supported | supported |
-| NVIDIA DSX POD referans tasarımı, yerinde kurulum süresini a | supported | supported | supported |
-| NVIDIA DSX AI Factory Platformu, şirketlerin soğutma için su | supported | supported | supported |
-| NVIDIA'nın hızlandırılmış hesaplama platformunda geliştirme  | supported | supported | supported |
-| NVIDIA, yaklaşık sekiz yıllık çalışmanın ardından T-Mobile'ı | supported | supported | supported |
-| Agile ONE SN, Isaac GR00T üzerine inşa edilmiş 31 serbestlik | supported | supported | supported |
+| Tempodrom, 1980 yılında Berlin Duvarı yakınında bir çadırda  | supported | supported | supported |
+| GTC Berlin üç gün sürerken, STATION-Berlin'de agentic AI, ro | supported | supported | supported |
+| NVIDIA, Paris, Londra, Stockholm ve Dublin'i kapsayan Avrupa | supported | supported | supported |
+| NVIDIA DSX POD, ortaklar tarafından modüler konteynerler içi | supported | supported | supported |
+| NVIDIA'nın hızlandırılmış bilişim platformu üzerinde projele | supported | supported | supported |
+| NVIDIA, Nokia ile yaklaşık sekiz yıllık çalışmanın ardından  | supported | supported | supported |
+| Agile ONE SN, gelecek yıl piyasaya sürülmesi beklenen ve ara | not_found | not_found | not_found |
 | NVIDIA, 2016 yılında OpenAI'a 1 petaflop performans ve 128GB | not_found | not_found | not_found |
 
 ## Kaynak Metinleri
 
 - `sources/source-1.txt` — https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/
 - `sources/source-2.txt` — https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data
-- `sources/source-3.txt` — https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/
-- `sources/source-4.txt` — https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/
+- `sources/source-3.txt` — https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/
+- `sources/source-4.txt` — https://huggingface.co/blog/nvidia/kumo-forecast

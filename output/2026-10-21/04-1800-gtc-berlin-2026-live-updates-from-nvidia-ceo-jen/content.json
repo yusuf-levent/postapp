@@ -1,114 +1,130 @@
 {
   "cover": {
-    "category_label": "Teknoloji Pusulası",
-    "title": "NVIDIA ve Yapay Zeka Ekosistemindeki Son Gelişmeler",
+    "category_label": "TEKNOLOJİ PUSULASI",
+    "title": "Avrupa ve Yapay Zekada Son Gelişmeler",
     "highlight_words": [
-      "NVIDIA",
+      "Avrupa",
       "Yapay Zeka"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Doğrulanmış verilerle en güncel teknoloji adımları.",
+    "subtitle": "NVIDIA yatırımları, GTC Berlin ve Tempodrom hakkında doğrulanmış bilgiler.",
     "source_tags": [
       "NVIDIA Newsroom",
-      "TechCrunch",
-      "Wired"
+      "Wired",
+      "Hugging Face Blog"
     ]
   },
   "problem": {
-    "heading": "Altyapı ve Donanım Çözümleri",
+    "heading": "Berlin ve Kültürel Miras",
     "cards": [
       {
-        "card_title": "DSX POD Tasarımı",
-        "card_body": "Yerinde kurulum süresini altı aydan 14 güne indirebiliyor."
+        "card_title": "Tempodrom'un Tarihi",
+        "card_body": "1980 yılında Berlin Duvarı yakınında bir çadırda kuruldu."
       },
       {
-        "card_title": "DSX AI Factory",
-        "card_body": "Su tüketimini %100'e kadar azaltır ve aynı AI çıktısını %30 daha az güçle üretir."
+        "card_title": "Kalıcı Yerine Taşınma",
+        "card_body": "2001 yılında Anhalter Bahnhof yakınındaki kalıcı yerine taşındı."
       }
     ],
     "code_block": ""
   },
   "steps": [
     {
-      "heading": "Ekosistem ve Geliştiriciler",
+      "heading": "GTC Berlin ve Oturumlar",
       "cards": [
         {
-          "card_title": "Avrupa Yatırımları",
-          "card_body": "Avrupa'daki teknoloji ekosistemine yaklaşık 10 milyar dolar taahhütte bulunuldu ve 12.000'den fazla ortakla çalışılıyor."
+          "card_title": "Etkinlik Süresi",
+          "card_body": "GTC Berlin üç gün sürmektedir."
+        },
+        {
+          "card_title": "Oturum İçerikleri",
+          "card_body": "STATION-Berlin'de agentic AI, robotik ve açık modeller üzerine 100'den fazla oturum gerçekleştiriliyor."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "NVIDIA Avrupa Yatırımları",
+      "cards": [
+        {
+          "card_title": "Avrupa Turu ve Taahhüt",
+          "card_body": "Paris, Londra, Stockholm ve Dublin'i kapsayan Avrupa turunda teknoloji ekosistemine yaklaşık 10 milyar dolar taahhüt edildi."
+        },
+        {
+          "card_title": "Ortak Ağı",
+          "card_body": "NVIDIA, 12.000'den fazla ortakla çalışmaktadır."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Altyapı ve Geliştiriciler",
+      "cards": [
+        {
+          "card_title": "NVIDIA DSX POD",
+          "card_body": "Ortaklar tarafından modüler konteynerler içinde inşa edilen ve saha altyapısı hazır olduğunda yerinde kurulum süresini 14 güne indirebilen bir referans tasarımıdır."
         },
         {
           "card_title": "Geliştirici Sayısı",
-          "card_body": "NVIDIA'nın hızlandırılmış hesaplama platformunda geliştirme yapan 11 milyondan fazla geliştirici bulunuyor."
-        }
-      ],
-      "code_block": ""
-    },
-    {
-      "heading": "İletişim ve Mobil Ağlar",
-      "cards": [
-        {
-          "card_title": "T-Mobile ve Nokia",
-          "card_body": "Yaklaşık sekiz yıllık çalışmanın ardından T-Mobile'ın ağında Nokia ile ilk ticari telefon görüşmesi gerçekleştirildi."
+          "card_body": "NVIDIA'nın hızlandırılmış bilişim platformu üzerinde projeler geliştiren 11 milyondan fazla geliştirici bulunmaktadır."
         },
         {
-          "card_title": "Geçmişten Bugüne Tempodrom",
-          "card_body": "Tempodrom, 1980 yılında Berlin Duvarı yakınındaki bir çadırda kuruldu ve 2001'de kalıcı yerine taşındı."
-        }
-      ],
-      "code_block": ""
-    },
-    {
-      "heading": "İnsansı Robotlar",
-      "cards": [
-        {
-          "card_title": "Agile ONE SN",
-          "card_body": "Isaac GR00T üzerine inşa edilmiş 31 serbestlik derecesine sahip bir referans insansı olarak gelecek yıl piyasaya sürülmesi bekleniyor."
+          "card_title": "Nokia ve T-Mobile",
+          "card_body": "NVIDIA, Nokia ile yaklaşık sekiz yıllık çalışmanın ardından T-Mobile'ın ağında ilk ticari telefon görüşmesini gerçekleştirdi."
         }
       ],
       "code_block": ""
     }
   ],
   "cta": {
-    "question": "Bu gelişmelerden en çok hangi alanı ilgi çekici buluyorsunuz?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeler için takipte kalın."
+    "question": "Bu teknolojik gelişmelerden hangisi senin dikkatini daha çok çekti?",
+    "reminder_line": "Teknoloji dünyasındaki güvenilir gelişmeler için takipte kal!"
   },
   "context": {
-    "heading": "Altyapı ve Donanım Çözümleri",
+    "heading": "Berlin ve Kültürel Miras",
     "cards": [
       {
-        "card_title": "DSX POD Tasarımı",
-        "card_body": "Yerinde kurulum süresini altı aydan 14 güne indirebiliyor."
+        "card_title": "Tempodrom'un Tarihi",
+        "card_body": "1980 yılında Berlin Duvarı yakınında bir çadırda kuruldu."
       },
       {
-        "card_title": "DSX AI Factory",
-        "card_body": "Su tüketimini %100'e kadar azaltır ve aynı AI çıktısını %30 daha az güçle üretir."
+        "card_title": "Kalıcı Yerine Taşınma",
+        "card_body": "2001 yılında Anhalter Bahnhof yakınındaki kalıcı yerine taşındı."
       }
     ]
   },
   "stat": {
     "big_stat": "💡",
-    "stat_caption": "Ekosistem ve Geliştiriciler",
+    "stat_caption": "GTC Berlin ve Oturumlar",
     "stat_quote": ""
   },
   "details": {
-    "heading": "İletişim ve Mobil Ağlar",
+    "heading": "NVIDIA Avrupa Yatırımları",
     "cards": [
       {
-        "card_title": "T-Mobile ve Nokia",
-        "card_body": "Yaklaşık sekiz yıllık çalışmanın ardından T-Mobile'ın ağında Nokia ile ilk ticari telefon görüşmesi gerçekleştirildi."
+        "card_title": "Avrupa Turu ve Taahhüt",
+        "card_body": "Paris, Londra, Stockholm ve Dublin'i kapsayan Avrupa turunda teknoloji ekosistemine yaklaşık 10 milyar dolar taahhüt edildi."
       },
       {
-        "card_title": "Geçmişten Bugüne Tempodrom",
-        "card_body": "Tempodrom, 1980 yılında Berlin Duvarı yakınındaki bir çadırda kuruldu ve 2001'de kalıcı yerine taşındı."
+        "card_title": "Ortak Ağı",
+        "card_body": "NVIDIA, 12.000'den fazla ortakla çalışmaktadır."
       }
     ]
   },
   "impact": {
-    "heading": "İnsansı Robotlar",
+    "heading": "Altyapı ve Geliştiriciler",
     "cards": [
       {
-        "card_title": "Agile ONE SN",
-        "card_body": "Isaac GR00T üzerine inşa edilmiş 31 serbestlik derecesine sahip bir referans insansı olarak gelecek yıl piyasaya sürülmesi bekleniyor."
+        "card_title": "NVIDIA DSX POD",
+        "card_body": "Ortaklar tarafından modüler konteynerler içinde inşa edilen ve saha altyapısı hazır olduğunda yerinde kurulum süresini 14 güne indirebilen bir referans tasarımıdır."
+      },
+      {
+        "card_title": "Geliştirici Sayısı",
+        "card_body": "NVIDIA'nın hızlandırılmış bilişim platformu üzerinde projeler geliştiren 11 milyondan fazla geliştirici bulunmaktadır."
+      },
+      {
+        "card_title": "Nokia ve T-Mobile",
+        "card_body": "NVIDIA, Nokia ile yaklaşık sekiz yıllık çalışmanın ardından T-Mobile'ın ağında ilk ticari telefon görüşmesini gerçekleştirdi."
       }
     ]
   },

@@ -2,64 +2,44 @@
 
 ## INSTAGRAM
 
-NVIDIA ve yapay zeka ekosistemindeki en güncel gelişmeleri inceledik! Altyapı çözümlerinden insansı robotlara kadar teknoloji dünyası hızla ilerliyor.
+Avrupa'da yapay zeka rüzgarı esiyor! NVIDIA'nın 10 milyar dolarlık dev yatırımı ve GTC Berlin'deki son gelişmeler teknoloji dünyasını sarsıyor. Berlin'in tarihi mekanlarından Tempodrom'da başlayan bu büyük dönüşüm hakkında sen ne düşünüyorsun?
 
-DSX POD tasarımı kurulum süresini 14 güne indirirken, DSX AI Factory enerji verimliliği sağlıyor. Ayrıca Avrupa yatırımları ve 11 milyondan fazla geliştiriciyle ekosistem büyüyor.
+Kaynak: NVIDIA Newsroom
 
-İnsansı robotlar ve yeni nesil ağ teknolojileri de kapıda.
-
-Bu gelişmelerden en çok hangi alanı ilgi çekici buluyorsunuz?
-
-Kaynak: NVIDIA Newsroom, TechCrunch, Wired
-
-#NVIDIA #YapayZeka #Teknoloji #AI #TechNews #Robotik #Inovasyon #Gelecek #Yazilim #Donanim
+#YapayZeka #NVIDIA #Teknoloji #GTCBerlin #Berlin #AI #TechNews #Avrupa
 
 ## TIKTOK
 
-NVIDIA yapay zeka dünyasında neler oluyor? Altyapı çözümleri, insansı robotlar ve çok daha fazlası! Kaynak: NVIDIA Newsroom
+NVIDIA Avrupa'ya 10 milyar dolar yatırdı ve GTC Berlin'de neler oluyor? Detaylar videoda! Kaynak: NVIDIA Newsroom
 
-#NVIDIA #YapayZeka #Teknoloji #TechTok
+#YapayZeka #NVIDIA #Teknoloji #GTC2024
 
 ## X
 
-NVIDIA ve yapay zeka ekosisteminde son gelişmeler: DSX POD ile hızlı kurulum, AI Factory ile enerji tasarrufu ve yeni nesil insansı robotlar. Bu gelişmelerden en çok hangi alanı ilgi çekici buluyorsunuz? Kaynak: NVIDIA Newsroom
+Avrupa yapay zeka yatırımlarında hız kesmiyor! NVIDIA'nın 10 milyar dolarlık taahhüdü ve GTC Berlin'deki son gelişmeler teknoloji dünyasının odağında. Kaynak: NVIDIA Newsroom
 
-#NVIDIA #YapayZeka
+#YapayZeka #NVIDIA
 
 ## THREADS
 
-NVIDIA ve yapay zeka ekosistemindeki son gelişmeler neler? Altyapı çözümlerinden insansı robotlara kadar teknoloji dünyası hızla dönüşüyor.
-
-DSX AI Factory enerji verimliliği sağlarken, 11 milyondan fazla geliştirici bu ekosistemi büyütüyor.
-
-Bu gelişmelerden en çok hangi alanı ilgi çekici buluyorsunuz? 💭
+Avrupa yapay zeka ekosisteminde büyük hareketlilik var! NVIDIA'nın 10 milyar dolarlık dev yatırımı ve GTC Berlin'deki oturumlar geleceği şekillendiriyor. Bu gelişmelerden hangisi en çok ilgini çekti? 💭
 
 Kaynak: NVIDIA Newsroom
 
 #YapayZeka
 
-#YapayZeka
-
 ## LINKEDIN
 
-NVIDIA ve yapay zeka ekosistemi, altyapı çözümleri ve geliştirici yatırımlarıyla büyümeye devam ediyor. DSX POD ve DSX AI Factory gibi yenilikler, kurulum sürelerini kısaltırken enerji verimliliğinde çığır açıyor.
+Yapay zeka ekosisteminde küresel gelişmeler hız kazandı. NVIDIA'nın Avrupa turu kapsamında teknoloji altyapısına taahhüt ettiği yaklaşık 10 milyar dolarlık yatırım ve GTC Berlin'deki 100'den fazla oturum, sektörün geleceği açısından kritik önem taşıyor. 11 milyondan fazla geliştirici ve binlerce ortaklı bu devasa ağ hakkında sizin sektörel öngörüleriniz nelerdir?
 
-Ayrıca Avrupa'daki 10 milyar dolarlık taahhüt ve 11 milyonu aşkın geliştirici tabanı, sektörün geleceğini şekillendiriyor. İnsansı robotlar ve telekomünikasyon alanındaki yeni ticari adımlar da dijital dönüşümü hızlandırıyor.
+Kaynak: NVIDIA Newsroom
 
-Bu gelişmelerden en çok hangi alanı ilgi çekici buluyorsunuz?
-
-Kaynak: NVIDIA Newsroom, TechCrunch, Wired
-
-#NVIDIA #ArtificialIntelligence #Teknoloji #Inovasyon #DijitalDonusum
+#YapayZeka #Teknoloji #Inovasyon #NVIDIA #Gelisim
 
 ## FACEBOOK
 
-NVIDIA ve yapay zeka ekosistemindeki en güncel gelişmeleri inceledik! Altyapı çözümlerinden insansı robotlara kadar teknoloji dünyası hızla ilerliyor.
+Avrupa ve yapay zeka dünyasından son gelişmeler radarımızda! NVIDIA'nın 10 milyar dolarlık dev yatırımı ve GTC Berlin'deki yenilikçi oturumlar teknolojiye yön veriyor. Bu teknolojik gelişmelerden hangisi senin dikkatini daha çok çekti?
 
-DSX POD tasarımı kurulum süresini 14 güne indirirken, DSX AI Factory enerji verimliliği sağlıyor. Avrupa yatırımları ve 11 milyondan fazla geliştiriciyle ekosistem her geçen gün büyüyor.
+Kaynak: NVIDIA Newsroom
 
-Bu gelişmelerden en çok hangi alanı ilgi çekici buluyorsunuz?
-
-Kaynak: NVIDIA Newsroom, TechCrunch, Wired
-
-#NVIDIA #YapayZeka #Teknoloji #AI
+#YapayZeka #NVIDIA #Teknoloji #GTCBerlin
