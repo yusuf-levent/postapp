@@ -4,15 +4,15 @@
   "source_names": [
     "NVIDIA Newsroom",
     "NVIDIA Newsroom",
-    "Wired",
-    "Hugging Face Blog"
+    "TechCrunch",
+    "Wired"
   ],
-  "checked_at": "2026-10-21T19:33:14+03:00",
+  "checked_at": "2026-10-21T19:37:11+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Tempodrom, 1980 yılında Berlin Duvarı yakınında bir çadırda kuruldu ve 2001 yılında Anhalter Bahnhof yakınındaki kalıcı yerine taşındı.",
+      "claim": "Tempodrom, 1980 yılında Berlin Duvarı yakınındaki bir çadırda kuruldu ve 2001 yılında Anhalter Bahnhof yakınındaki kalıcı yerine taşındı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "claim": "GTC Berlin üç gün sürerken, STATION-Berlin'de agentic AI, robotik ve açık modeller üzerine 100'den fazla oturum gerçekleştiriliyor.",
+      "claim": "GTC Berlin üç gün sürer ve agentic yapay zeka, robotik ve açık modeller üzerine 100'den fazla oturum barındırır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -32,9 +32,13 @@
       ]
     },
     {
-      "claim": "NVIDIA, Paris, Londra, Stockholm ve Dublin'i kapsayan Avrupa turunda teknoloji ekosistemine yaklaşık 10 milyar dolar taahhüt etti ve 12.000'den fazla ortakla çalışıyor.",
+      "claim": "NVIDIA, Avrupa genelindeki teknoloji ekosistemine yaklaşık 10 milyar dolar taahhütte bulundu ve 12.000'den fazla ortakla çalışıyor.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
+          "quote": "with the company committing nearly $10 billion to the technology ecosystem across Europe and working with 12,000+ partners."
+        },
         {
           "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
           "quote": "The keynote comes on the heels of NVIDIA’s weeklong road across Europe — Paris, London, Stockholm, Dublin — with the company committing nearly $10 billion to the technology ecosystem across Europe and working with 12,000+ partners."
@@ -42,7 +46,7 @@
       ]
     },
     {
-      "claim": "NVIDIA DSX POD, ortaklar tarafından modüler konteynerler içinde inşa edilen ve saha altyapısı hazır olduğunda yerinde kurulum süresini 14 güne indirebilen bir referans tasarımıdır.",
+      "claim": "NVIDIA DSX POD, ortaklar tarafından modüler konteynerler içinde inşa edilen ve yerinde kurulum süresini 14 güne indirebilen bir referans tasarımdır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -52,7 +56,7 @@
       ]
     },
     {
-      "claim": "NVIDIA'nın hızlandırılmış bilişim platformu üzerinde projeler geliştiren 11 milyondan fazla geliştirici bulunmaktadır.",
+      "claim": "NVIDIA'nın hızlandırılmış bilişim platformunda inşaat yapan 11 milyondan fazla geliştirici bulunmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -62,33 +66,38 @@
       ]
     },
     {
-      "claim": "NVIDIA, Nokia ile yaklaşık sekiz yıllık çalışmanın ardından T-Mobile'ın ağında ilk ticari telefon görüşmesini gerçekleştirdi.",
+      "claim": "NVIDIA, yaklaşık sekiz yıllık çalışmanın ardından T-Mobile'ın ağında Nokia ile ilk ticari telefon görüşmesini gerçekleştirdi.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
-          "quote": "He cited 100,000 sites and about 100 gigawatts of distributed data centers, and said NVIDIA has made its first commercial phone call on T-Mobile’s network with Nokia after nearly eight years of work."
+          "quote": "and said NVIDIA has made its first commercial phone call on T-Mobile’s network with Nokia after nearly eight years of work."
         },
         {
           "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
-          "quote": "and said NVIDIA has made its first commercial phone call on T-Mobile’s network with Nokia after nearly eight years of work."
+          "quote": "He cited 100,000 sites and about 100 gigawatts of distributed data centers, and said NVIDIA has made its first commercial phone call on T-Mobile’s network with Nokia after nearly eight years of work."
         }
       ]
     },
     {
-      "claim": "Agile ONE SN, gelecek yıl piyasaya sürülmesi beklenen ve araştırmacıların kurulum süresini haftalardan günlere indirmek için tasarlanmış 31 serbestlik dereceli bir insansı referans robotudur.",
-      "verdict": "not_found",
-      "evidence": []
+      "claim": "Agile ONE SN, gelecek yıl piyasaya sürülmesi beklenen ve araştırmacıların kurulum süresini haftalardan günlere indirmek için tasarlanan 31 serbestlik dereceli bir insansı robot referansıdır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data",
+          "quote": "Agile Robots announced Agile ONE SN, a full-stack reference humanoid preconfigured with NVIDIA Isaac GR00T and powered by the NVIDIA Jetson Thor™ edge AI platform. Robotics researchers and developers often struggle to integrate the separate simulation, training and deployment tools needed to take robot skills from development to the physical world. Agile ONE SN unifies these tools and workflows on a single platform, cutting setup time from weeks to days. Agile ONE SN features: - Agile ONE S humanoid body, standing 1.40 meters (4.59 feet tall) and weighing 40 kilograms (88 pounds), with 31 degrees of freedom and a 3-kilogram payload per arm. Scheduled to be available in early 2027"
+        }
+      ]
     },
     {
-      "claim": "NVIDIA, 2016 yılında OpenAI'a 1 petaflop performans ve 128GB belleğe sahip bir DGX-1 teslim etmişti.",
+      "claim": "NVIDIA, 2016 yılında OpenAI'a 1 petaflop performans ve 128GB belleğe sahip DGX-1 sistemini teslim etti.",
       "verdict": "not_found",
       "evidence": []
     }
   ],
   "round1": [
     {
-      "claim": "Tempodrom, 1980 yılında Berlin Duvarı yakınında bir çadırda kuruldu ve 2001 yılında Anhalter Bahnhof yakınındaki kalıcı yerine taşındı.",
+      "claim": "Tempodrom, 1980 yılında Berlin Duvarı yakınındaki bir çadırda kuruldu ve 2001 yılında Anhalter Bahnhof yakınındaki kalıcı yerine taşındı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -98,7 +107,7 @@
       ]
     },
     {
-      "claim": "GTC Berlin üç gün sürerken, STATION-Berlin'de agentic AI, robotik ve açık modeller üzerine 100'den fazla oturum gerçekleştiriliyor.",
+      "claim": "GTC Berlin üç gün sürer ve agentic yapay zeka, robotik ve açık modeller üzerine 100'den fazla oturum barındırır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -108,9 +117,13 @@
       ]
     },
     {
-      "claim": "NVIDIA, Paris, Londra, Stockholm ve Dublin'i kapsayan Avrupa turunda teknoloji ekosistemine yaklaşık 10 milyar dolar taahhüt etti ve 12.000'den fazla ortakla çalışıyor.",
+      "claim": "NVIDIA, Avrupa genelindeki teknoloji ekosistemine yaklaşık 10 milyar dolar taahhütte bulundu ve 12.000'den fazla ortakla çalışıyor.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
+          "quote": "with the company committing nearly $10 billion to the technology ecosystem across Europe and working with 12,000+ partners."
+        },
         {
           "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
           "quote": "The keynote comes on the heels of NVIDIA’s weeklong road across Europe — Paris, London, Stockholm, Dublin — with the company committing nearly $10 billion to the technology ecosystem across Europe and working with 12,000+ partners."
@@ -118,7 +131,7 @@
       ]
     },
     {
-      "claim": "NVIDIA DSX POD, ortaklar tarafından modüler konteynerler içinde inşa edilen ve saha altyapısı hazır olduğunda yerinde kurulum süresini 14 güne indirebilen bir referans tasarımıdır.",
+      "claim": "NVIDIA DSX POD, ortaklar tarafından modüler konteynerler içinde inşa edilen ve yerinde kurulum süresini 14 güne indirebilen bir referans tasarımdır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -128,7 +141,7 @@
       ]
     },
     {
-      "claim": "NVIDIA'nın hızlandırılmış bilişim platformu üzerinde projeler geliştiren 11 milyondan fazla geliştirici bulunmaktadır.",
+      "claim": "NVIDIA'nın hızlandırılmış bilişim platformunda inşaat yapan 11 milyondan fazla geliştirici bulunmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -138,33 +151,38 @@
       ]
     },
     {
-      "claim": "NVIDIA, Nokia ile yaklaşık sekiz yıllık çalışmanın ardından T-Mobile'ın ağında ilk ticari telefon görüşmesini gerçekleştirdi.",
+      "claim": "NVIDIA, yaklaşık sekiz yıllık çalışmanın ardından T-Mobile'ın ağında Nokia ile ilk ticari telefon görüşmesini gerçekleştirdi.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
-          "quote": "He cited 100,000 sites and about 100 gigawatts of distributed data centers, and said NVIDIA has made its first commercial phone call on T-Mobile’s network with Nokia after nearly eight years of work."
+          "quote": "and said NVIDIA has made its first commercial phone call on T-Mobile’s network with Nokia after nearly eight years of work."
         },
         {
           "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
-          "quote": "and said NVIDIA has made its first commercial phone call on T-Mobile’s network with Nokia after nearly eight years of work."
+          "quote": "He cited 100,000 sites and about 100 gigawatts of distributed data centers, and said NVIDIA has made its first commercial phone call on T-Mobile’s network with Nokia after nearly eight years of work."
         }
       ]
     },
     {
-      "claim": "Agile ONE SN, gelecek yıl piyasaya sürülmesi beklenen ve araştırmacıların kurulum süresini haftalardan günlere indirmek için tasarlanmış 31 serbestlik dereceli bir insansı referans robotudur.",
-      "verdict": "not_found",
-      "evidence": []
+      "claim": "Agile ONE SN, gelecek yıl piyasaya sürülmesi beklenen ve araştırmacıların kurulum süresini haftalardan günlere indirmek için tasarlanan 31 serbestlik dereceli bir insansı robot referansıdır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data",
+          "quote": "Agile Robots announced Agile ONE SN, a full-stack reference humanoid preconfigured with NVIDIA Isaac GR00T and powered by the NVIDIA Jetson Thor™ edge AI platform. Robotics researchers and developers often struggle to integrate the separate simulation, training and deployment tools needed to take robot skills from development to the physical world. Agile ONE SN unifies these tools and workflows on a single platform, cutting setup time from weeks to days. Agile ONE SN features: - Agile ONE S humanoid body, standing 1.40 meters (4.59 feet tall) and weighing 40 kilograms (88 pounds), with 31 degrees of freedom and a 3-kilogram payload per arm. Scheduled to be available in early 2027"
+        }
+      ]
     },
     {
-      "claim": "NVIDIA, 2016 yılında OpenAI'a 1 petaflop performans ve 128GB belleğe sahip bir DGX-1 teslim etmişti.",
+      "claim": "NVIDIA, 2016 yılında OpenAI'a 1 petaflop performans ve 128GB belleğe sahip DGX-1 sistemini teslim etti.",
       "verdict": "not_found",
       "evidence": []
     }
   ],
   "round2": [
     {
-      "claim": "Tempodrom, 1980 yılında Berlin Duvarı yakınında bir çadırda kuruldu ve 2001 yılında Anhalter Bahnhof yakınındaki kalıcı yerine taşındı.",
+      "claim": "Tempodrom, 1980 yılında Berlin Duvarı yakınındaki bir çadırda kuruldu ve 2001 yılında Anhalter Bahnhof yakınındaki kalıcı yerine taşındı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -174,7 +192,7 @@
       ]
     },
     {
-      "claim": "GTC Berlin üç gün sürerken, STATION-Berlin'de agentic AI, robotik ve açık modeller üzerine 100'den fazla oturum gerçekleştiriliyor.",
+      "claim": "GTC Berlin üç gün sürer ve agentic yapay zeka, robotik ve açık modeller üzerine 100'den fazla oturum barındırır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -184,9 +202,13 @@
       ]
     },
     {
-      "claim": "NVIDIA, Paris, Londra, Stockholm ve Dublin'i kapsayan Avrupa turunda teknoloji ekosistemine yaklaşık 10 milyar dolar taahhüt etti ve 12.000'den fazla ortakla çalışıyor.",
+      "claim": "NVIDIA, Avrupa genelindeki teknoloji ekosistemine yaklaşık 10 milyar dolar taahhütte bulundu ve 12.000'den fazla ortakla çalışıyor.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
+          "quote": "with the company committing nearly $10 billion to the technology ecosystem across Europe and working with 12,000+ partners."
+        },
         {
           "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
           "quote": "The keynote comes on the heels of NVIDIA’s weeklong road across Europe — Paris, London, Stockholm, Dublin — with the company committing nearly $10 billion to the technology ecosystem across Europe and working with 12,000+ partners."
@@ -194,7 +216,7 @@
       ]
     },
     {
-      "claim": "NVIDIA DSX POD, ortaklar tarafından modüler konteynerler içinde inşa edilen ve saha altyapısı hazır olduğunda yerinde kurulum süresini 14 güne indirebilen bir referans tasarımıdır.",
+      "claim": "NVIDIA DSX POD, ortaklar tarafından modüler konteynerler içinde inşa edilen ve yerinde kurulum süresini 14 güne indirebilen bir referans tasarımdır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -204,7 +226,7 @@
       ]
     },
     {
-      "claim": "NVIDIA'nın hızlandırılmış bilişim platformu üzerinde projeler geliştiren 11 milyondan fazla geliştirici bulunmaktadır.",
+      "claim": "NVIDIA'nın hızlandırılmış bilişim platformunda inşaat yapan 11 milyondan fazla geliştirici bulunmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -214,26 +236,31 @@
       ]
     },
     {
-      "claim": "NVIDIA, Nokia ile yaklaşık sekiz yıllık çalışmanın ardından T-Mobile'ın ağında ilk ticari telefon görüşmesini gerçekleştirdi.",
+      "claim": "NVIDIA, yaklaşık sekiz yıllık çalışmanın ardından T-Mobile'ın ağında Nokia ile ilk ticari telefon görüşmesini gerçekleştirdi.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
-          "quote": "He cited 100,000 sites and about 100 gigawatts of distributed data centers, and said NVIDIA has made its first commercial phone call on T-Mobile’s network with Nokia after nearly eight years of work."
+          "quote": "and said NVIDIA has made its first commercial phone call on T-Mobile’s network with Nokia after nearly eight years of work."
         },
         {
           "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
-          "quote": "and said NVIDIA has made its first commercial phone call on T-Mobile’s network with Nokia after nearly eight years of work."
+          "quote": "He cited 100,000 sites and about 100 gigawatts of distributed data centers, and said NVIDIA has made its first commercial phone call on T-Mobile’s network with Nokia after nearly eight years of work."
         }
       ]
     },
     {
-      "claim": "Agile ONE SN, gelecek yıl piyasaya sürülmesi beklenen ve araştırmacıların kurulum süresini haftalardan günlere indirmek için tasarlanmış 31 serbestlik dereceli bir insansı referans robotudur.",
-      "verdict": "not_found",
-      "evidence": []
+      "claim": "Agile ONE SN, gelecek yıl piyasaya sürülmesi beklenen ve araştırmacıların kurulum süresini haftalardan günlere indirmek için tasarlanan 31 serbestlik dereceli bir insansı robot referansıdır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data",
+          "quote": "Agile Robots announced Agile ONE SN, a full-stack reference humanoid preconfigured with NVIDIA Isaac GR00T and powered by the NVIDIA Jetson Thor™ edge AI platform. Robotics researchers and developers often struggle to integrate the separate simulation, training and deployment tools needed to take robot skills from development to the physical world. Agile ONE SN unifies these tools and workflows on a single platform, cutting setup time from weeks to days. Agile ONE SN features: - Agile ONE S humanoid body, standing 1.40 meters (4.59 feet tall) and weighing 40 kilograms (88 pounds), with 31 degrees of freedom and a 3-kilogram payload per arm. Scheduled to be available in early 2027"
+        }
+      ]
     },
     {
-      "claim": "NVIDIA, 2016 yılında OpenAI'a 1 petaflop performans ve 128GB belleğe sahip bir DGX-1 teslim etmişti.",
+      "claim": "NVIDIA, 2016 yılında OpenAI'a 1 petaflop performans ve 128GB belleğe sahip DGX-1 sistemini teslim etti.",
       "verdict": "not_found",
       "evidence": []
     }
@@ -241,7 +268,7 @@
   "source_texts": {
     "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/": 12826,
     "https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data": 8733,
-    "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/": 3219,
-    "https://huggingface.co/blog/nvidia/kumo-forecast": 5285
+    "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/": 2468,
+    "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/": 3219
   }
 }

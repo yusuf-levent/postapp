@@ -1,130 +1,122 @@
 {
   "cover": {
-    "category_label": "TEKNOLOJİ PUSULASI",
-    "title": "Avrupa ve Yapay Zekada Son Gelişmeler",
+    "category_label": "TEKNOLOJİ VE YAPAY ZEKA",
+    "title": "Avrupa Teknoloji Ekosistemi ve Gelişmeler",
     "highlight_words": [
-      "Avrupa",
+      "Teknoloji",
       "Yapay Zeka"
     ],
     "highlight_color": "cyan",
-    "subtitle": "NVIDIA yatırımları, GTC Berlin ve Tempodrom hakkında doğrulanmış bilgiler.",
+    "subtitle": "NVIDIA yatırımları, yeni robotik sistemler ve dahası.",
     "source_tags": [
       "NVIDIA Newsroom",
-      "Wired",
-      "Hugging Face Blog"
+      "TechCrunch",
+      "Wired"
     ]
   },
   "problem": {
-    "heading": "Berlin ve Kültürel Miras",
+    "heading": "Tempodrom ve GTC Berlin Gelişmeleri",
     "cards": [
       {
-        "card_title": "Tempodrom'un Tarihi",
-        "card_body": "1980 yılında Berlin Duvarı yakınında bir çadırda kuruldu."
+        "card_title": "Tempodrom'un Tarihçesi",
+        "card_body": "Tempodrom, 1980 yılında Berlin Duvarı yakınındaki bir çadırda kuruldu ve 2001 yılında Anhalter Bahnhof yakınındaki kalıcı yerine taşındı."
       },
       {
-        "card_title": "Kalıcı Yerine Taşınma",
-        "card_body": "2001 yılında Anhalter Bahnhof yakınındaki kalıcı yerine taşındı."
+        "card_title": "GTC Berlin Oturumları",
+        "card_body": "GTC Berlin üç gün sürer ve agentic yapay zeka, robotik ve açık modeller üzerine 100'den fazla oturum barındırır."
       }
     ],
     "code_block": ""
   },
   "steps": [
     {
-      "heading": "GTC Berlin ve Oturumlar",
+      "heading": "Avrupa Yatırımları ve Ortaklıklar",
       "cards": [
         {
-          "card_title": "Etkinlik Süresi",
-          "card_body": "GTC Berlin üç gün sürmektedir."
+          "card_title": "Avrupa Taahhüdü",
+          "card_body": "NVIDIA, Avrupa genelindeki teknoloji ekosistemine yaklaşık 10 milyar dolar taahhütte bulundu ve 12.000'den fazla ortakla çalışıyor."
         },
         {
-          "card_title": "Oturum İçerikleri",
-          "card_body": "STATION-Berlin'de agentic AI, robotik ve açık modeller üzerine 100'den fazla oturum gerçekleştiriliyor."
+          "card_title": "Geliştirici Ağı",
+          "card_body": "NVIDIA'nın hızlandırılmış bilişim platformunda inşaat yapan 11 milyondan fazla geliştirici bulunmaktadır."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "NVIDIA Avrupa Yatırımları",
-      "cards": [
-        {
-          "card_title": "Avrupa Turu ve Taahhüt",
-          "card_body": "Paris, Londra, Stockholm ve Dublin'i kapsayan Avrupa turunda teknoloji ekosistemine yaklaşık 10 milyar dolar taahhüt edildi."
-        },
-        {
-          "card_title": "Ortak Ağı",
-          "card_body": "NVIDIA, 12.000'den fazla ortakla çalışmaktadır."
-        }
-      ],
-      "code_block": ""
-    },
-    {
-      "heading": "Altyapı ve Geliştiriciler",
+      "heading": "DSX POD ve Altyapı Çözümleri",
       "cards": [
         {
           "card_title": "NVIDIA DSX POD",
-          "card_body": "Ortaklar tarafından modüler konteynerler içinde inşa edilen ve saha altyapısı hazır olduğunda yerinde kurulum süresini 14 güne indirebilen bir referans tasarımıdır."
+          "card_body": "NVIDIA DSX POD, ortaklar tarafından modüler konteynerler içinde inşa edilen bir referans tasarımdır."
         },
         {
-          "card_title": "Geliştirici Sayısı",
-          "card_body": "NVIDIA'nın hızlandırılmış bilişim platformu üzerinde projeler geliştiren 11 milyondan fazla geliştirici bulunmaktadır."
+          "card_title": "Kurulum Süresi",
+          "card_body": "Yerinde kurulum süresini 14 güne indirebilen bir altyapı sunar."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "İletişim ve Robotik Teknolojileri",
+      "cards": [
+        {
+          "card_title": "Ticari Telefon Görüşmesi",
+          "card_body": "NVIDIA, yaklaşık sekiz yıllık çalışmanın ardından T-Mobile'ın ağında Nokia ile ilk ticari telefon görüşmesini gerçekleştirdi."
         },
         {
-          "card_title": "Nokia ve T-Mobile",
-          "card_body": "NVIDIA, Nokia ile yaklaşık sekiz yıllık çalışmanın ardından T-Mobile'ın ağında ilk ticari telefon görüşmesini gerçekleştirdi."
+          "card_title": "Agile ONE SN",
+          "card_body": "Agile ONE SN, gelecek yıl piyasaya sürülmesi beklenen ve araştırmacıların kurulum süresini haftalardan günlere indirmek için tasarlanan 31 serbestlik dereceli bir insansı robot referansıdır."
         }
       ],
       "code_block": ""
     }
   ],
   "cta": {
-    "question": "Bu teknolojik gelişmelerden hangisi senin dikkatini daha çok çekti?",
-    "reminder_line": "Teknoloji dünyasındaki güvenilir gelişmeler için takipte kal!"
+    "question": "Bu teknolojik gelişmelerden en çok hangisini ilgi çekici buluyorsunuz?",
+    "reminder_line": "Tekno Pusula ile güncel teknolojileri takipte kalın."
   },
   "context": {
-    "heading": "Berlin ve Kültürel Miras",
+    "heading": "Tempodrom ve GTC Berlin Gelişmeleri",
     "cards": [
       {
-        "card_title": "Tempodrom'un Tarihi",
-        "card_body": "1980 yılında Berlin Duvarı yakınında bir çadırda kuruldu."
+        "card_title": "Tempodrom'un Tarihçesi",
+        "card_body": "Tempodrom, 1980 yılında Berlin Duvarı yakınındaki bir çadırda kuruldu ve 2001 yılında Anhalter Bahnhof yakınındaki kalıcı yerine taşındı."
       },
       {
-        "card_title": "Kalıcı Yerine Taşınma",
-        "card_body": "2001 yılında Anhalter Bahnhof yakınındaki kalıcı yerine taşındı."
+        "card_title": "GTC Berlin Oturumları",
+        "card_body": "GTC Berlin üç gün sürer ve agentic yapay zeka, robotik ve açık modeller üzerine 100'den fazla oturum barındırır."
       }
     ]
   },
   "stat": {
     "big_stat": "💡",
-    "stat_caption": "GTC Berlin ve Oturumlar",
+    "stat_caption": "Avrupa Yatırımları ve Ortaklıklar",
     "stat_quote": ""
   },
   "details": {
-    "heading": "NVIDIA Avrupa Yatırımları",
+    "heading": "DSX POD ve Altyapı Çözümleri",
     "cards": [
       {
-        "card_title": "Avrupa Turu ve Taahhüt",
-        "card_body": "Paris, Londra, Stockholm ve Dublin'i kapsayan Avrupa turunda teknoloji ekosistemine yaklaşık 10 milyar dolar taahhüt edildi."
+        "card_title": "NVIDIA DSX POD",
+        "card_body": "NVIDIA DSX POD, ortaklar tarafından modüler konteynerler içinde inşa edilen bir referans tasarımdır."
       },
       {
-        "card_title": "Ortak Ağı",
-        "card_body": "NVIDIA, 12.000'den fazla ortakla çalışmaktadır."
+        "card_title": "Kurulum Süresi",
+        "card_body": "Yerinde kurulum süresini 14 güne indirebilen bir altyapı sunar."
       }
     ]
   },
   "impact": {
-    "heading": "Altyapı ve Geliştiriciler",
+    "heading": "İletişim ve Robotik Teknolojileri",
     "cards": [
       {
-        "card_title": "NVIDIA DSX POD",
-        "card_body": "Ortaklar tarafından modüler konteynerler içinde inşa edilen ve saha altyapısı hazır olduğunda yerinde kurulum süresini 14 güne indirebilen bir referans tasarımıdır."
+        "card_title": "Ticari Telefon Görüşmesi",
+        "card_body": "NVIDIA, yaklaşık sekiz yıllık çalışmanın ardından T-Mobile'ın ağında Nokia ile ilk ticari telefon görüşmesini gerçekleştirdi."
       },
       {
-        "card_title": "Geliştirici Sayısı",
-        "card_body": "NVIDIA'nın hızlandırılmış bilişim platformu üzerinde projeler geliştiren 11 milyondan fazla geliştirici bulunmaktadır."
-      },
-      {
-        "card_title": "Nokia ve T-Mobile",
-        "card_body": "NVIDIA, Nokia ile yaklaşık sekiz yıllık çalışmanın ardından T-Mobile'ın ağında ilk ticari telefon görüşmesini gerçekleştirdi."
+        "card_title": "Agile ONE SN",
+        "card_body": "Agile ONE SN, gelecek yıl piyasaya sürülmesi beklenen ve araştırmacıların kurulum süresini haftalardan günlere indirmek için tasarlanan 31 serbestlik dereceli bir insansı robot referansıdır."
       }
     ]
   },

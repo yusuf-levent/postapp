@@ -1,33 +1,13 @@
-URL: https://huggingface.co/blog/nvidia/kumo-forecast
-Erişim zamanı: 2026-10-21T19:33:14+03:00
+URL: https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/
+Erişim zamanı: 2026-10-21T19:37:11+03:00
 
-NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability
-Highlights (TL;DR)
-NVIDIA Kumo Forecast (formerly known as NV-Tesseract Forecasting) is a multi-variate time-series forecasting model that combines a pretrained Transformer backbone with Domain-Aware Representation and Retrieval (DARR), a context-enhanced forecasting mode that blends direct model predictions with patterns retrieved from historical data. This includes interpretability of the results. Built on the MOMENT-1-large backbone, Kumo Forecast uses an approximately 340-million-parameter base encoder plus a trainable forecasting head.
-The library provides a DataFrame-first API, configurable forecast horizons, optional historical context for retrieval, and an interpretability framework that produces horizon-specific explanations without modifying the underlying forecaster.
-Kumo-Forecast is available under Apache 2.0 license.
-Model code: NVIDIA/Kumo-TS
-Model weights: nvidia/Kumo-Forecast
-The Shift to Context-Enhanced Time-Series Forecasting
-A forecasting system can draw on two different sources of information: representations learned during pretraining and historical observations available for the current application. Kumo-Forecast brings these together through a pretrained forecasting model and an optional retrieval pathway over historical context.
-In its direct forecasting path, Kumo-Forecast uses a MOMENT-based Transformer and a trained forecasting head to predict future values. In Domain Aware Representation and Retrieval (DARR) mode, it also retrieves related patterns from historical data using a nearest-neighbor approach and combines that information with the direct forecast.
-This creates a distinction between the model’s input window and its retrieval context. The input window supplies recent observations for the forecast; a separate historical DataFrame can supply additional context for pattern retrieval. Developers can adjust how strongly the final prediction relies on each pathway through the library’s configuration options.
-Further information on DARR mode can be found in this published paper, Memory-Augmented Forecasting: Scalability and Generalization Across Temporal Domains
-How Kumo Forecast Works
-Kumo-Forecast combines four main components: a pretrained temporal encoder, a trainable forecasting head, historical-pattern retrieval mechanism and an interpretability framework.
-Pretrained Temporal Representations: The model uses the MOMENT-1-large Transformer encoder as its backbone. The architecture keeps encoder and embedder weights frozen while training the forecasting head, separating the pretrained representation model from the task-specific prediction layer.
-Direct Forecasting: The forecasting head maps the model’s representations to future values for the requested horizon. For horizons beyond the model’s native capability, there is support for autoregressive extension. This distinguishes a directly generated forecast from a longer forecast that extends predictions recursively.
-Domain-Aware Representation and Retrieval: DARR augments direct forecasting with k-nearest-neighbor retrieval from historical context data. This process combines direct forecasts with historical-pattern retrieval, while the SDK accepts the historical context through a separate context_df argument.
-Interpretability: Kumo-Forecasting also includes a model-agnostic interpretability framework. When enabled, it produces an explanation bundle containing lag and feature attributions per forecast horizon, semantic-flow diagnostics, trajectory-stability diagnostics, and optional embedding Integrated Gradients.These outputs accompany the forecast rather than requiring a different forecasting architecture.
-Further details on interpretability can be found in this paper, NVExplain: Explaining Time Series Forecasting with Latent Trajectory Analysis and Structure-Preserving Surrogates
-Limitations
-Data must be numeric, temporal data. Supported input sequence lengths include 256, 512, 1024, and 2048 observations. Inputs consist of a timestamp column and one or more numeric value columns, represented as a pandas DataFrame or a CSV/JSON input. When leveraging DARR mode, the dimensions of the context must be similar to the context of the input.
-Demo: Predictive Maintenance
-The Factory Operations (FOX) Blueprint includes Early Access to the Predictive Maintenance module which leverages Kumo Anomaly and Kumo Forecast. It analyzes real-time data to predict future anomalies.
-Demo: Platform Integration
-Please click on the image below to access the session from GTC San Jose 2026
-Start Building with Kumo Forecast
-For an application-specific evaluation, compare the direct and retrieval-enhanced configurations on the same held-out forecasting windows. Validate forecast quality across the intended horizons and operating conditions, consistent with NVIDIA’s requirement for use-case-specific testing
-Model code: NVIDIA/Kumo-TS
-Model weights: nvidia/Kumo-Forecast
-The Kumo-TS repository additionally provides an example for fine-tuning Kumo-Forecast on a user-supplied CSV. Developers therefore have both a pretrained inference workflow and a documented starting point for adapting the model to their own data.
+Jensen Huang outlined his vision of Europe’s future at Nvidia’s global conference in Berlin on Wednesday. It consists of robotics, AI agents, and modular data centers, with Nvidia unsurprisingly powering it all.
+“To be part of this AI economy, you don’t want to just be consuming the AI. You want to be producing the AI,” he told the 4,000-strong crowd at Nvidia’s GTC. “We can do all of that here in Europe.”
+The last GTC, held in San Jose, California, in March, was all about AI inference and more efficient compute. Seven months later, the focus has switched to power, agents, and physical AI. There were even some cute little Microduck robots—made by recent Nvidia acquisition Hugging Face—doing Huang’s bidding at the end of his 90-minute pitch.
+Huang’s first big announcement was a modular “AI factory” called the DSX Pod. It is a “plug-and-play” option for building AI data centers, with everything arriving already assembled in a large metal container and packed with Nvidia’s latest Vera Rubin compute racks. It can be brought online in 14 days, instead of taking months or years to construct. That may come in especially handy in Europe, where infrastructure projects are notoriously slow. Huang said the DSX Pod would also slash the amount of time compute sits idle in a data center as it will come online quicker. “This is a complete transformation,” he said.
+The speech, delivered at Berlin’s Tempodrom, a venue inspired by a circus tent with the lighting of a gamer’s den, veered between selling laptops and sweeping predictions, with Nvidia presented as the fundamental technology provider to every industry. At one point, two Greenpeace protesters stood up and unfurled a banner reading “Clean up your dirty business.” Huang told his security team to “Go easy” as they were marched out.
+Humanoid robotics will be the “next great industry,” Huang said, arguing that Europe was well-placed to lead on it due to its manufacturing heritage. But physical AI goes way beyond robotics, Huang pointed out, explaining that even telecom operators are adding Nvidia GPUs to their cell towers. He also announced partnerships with European carmakers VW and Mercedes on AVs.
+Nvidia is making a similar move in humanoid robotics, with Huang announcing the launch of a full-stack robotics platform to standardize configuration. It also plans to release a preconfigured reference robot, Agile One, available in the first quarter of next year, to help developers start building physical AI systems. “This is your great opportunity,” he said.
+On model usage, Huang predicted: “Every company in the future will use both closed models as well as open models that you customize.” He showcased Nvidia’s own open-source models as hitting frontier performance once customized on an organization’s proprietary data.
+He also predicted that agents would mean there will be more users of software tools than ever before, and said agents’ reasoning, iteration, and tool use are pushing token consumption and demand for computing—and Nvidia GPUs—higher.
+In case the 90-minute speech was too technical, it ended with an AI-generated Eurovision song summing up what Huang had just announced. The speech was easier to follow, to be fair.

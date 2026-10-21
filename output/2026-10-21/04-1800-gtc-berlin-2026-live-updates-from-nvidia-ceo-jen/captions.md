@@ -2,44 +2,66 @@
 
 ## INSTAGRAM
 
-Avrupa'da yapay zeka rüzgarı esiyor! NVIDIA'nın 10 milyar dolarlık dev yatırımı ve GTC Berlin'deki son gelişmeler teknoloji dünyasını sarsıyor. Berlin'in tarihi mekanlarından Tempodrom'da başlayan bu büyük dönüşüm hakkında sen ne düşünüyorsun?
+Avrupa teknoloji ekosisteminde neler oluyor? NVIDIA'dan 10 milyar dolarlık dev taahhüt ve GTC Berlin'deki son gelişmeler radarımızda. Yapay zeka ve robotik dünyasında sınırlar zorlanıyor.
 
-Kaynak: NVIDIA Newsroom
+Tempodrom'un tarihinden GTC Berlin'deki 100'den fazla oturuma, DSX POD altyapı çözümlerinden yeni nesil insansı robot Agile ONE SN'e kadar pek çok yenilik kapıda.
 
-#YapayZeka #NVIDIA #Teknoloji #GTCBerlin #Berlin #AI #TechNews #Avrupa
+Araştırmacıların kurulum süresini haftalardan günlere indirmesini sağlayan bu teknolojiler hakkında ne düşünüyorsunuz?
+
+Bu teknolojik gelişmelerden en çok hangisini ilgi çekici buluyorsunuz? Tekno Pusula ile güncel teknolojileri takipte kalın.
+
+Kaynak: NVIDIA Newsroom, TechCrunch, Wired
+
+#Teknoloji #YapayZeka #NVIDIA #Robotik #Avrupa #GTCBerlin #Inovasyon #Gelecek #TechNews #AI
 
 ## TIKTOK
 
-NVIDIA Avrupa'ya 10 milyar dolar yatırdı ve GTC Berlin'de neler oluyor? Detaylar videoda! Kaynak: NVIDIA Newsroom
+NVIDIA'dan Avrupa'ya 10 milyar dolarlık dev yatırım ve yeni nesil robotlar! Kurulum süresini haftalardan günlere indiren Agile ONE SN ve dahası kapıda. Bu teknolojik gelişmelerden en çok hangisini ilgi çekici buluyorsunuz? Tekno Pusula ile güncel teknolojileri takipte kalın. Kaynak: NVIDIA Newsroom, TechCrunch, Wired
 
-#YapayZeka #NVIDIA #Teknoloji #GTC2024
+#Teknoloji #YapayZeka #NVIDIA #Robot #Gelecek #Tech
 
 ## X
 
-Avrupa yapay zeka yatırımlarında hız kesmiyor! NVIDIA'nın 10 milyar dolarlık taahhüdü ve GTC Berlin'deki son gelişmeler teknoloji dünyasının odağında. Kaynak: NVIDIA Newsroom
+NVIDIA'dan Avrupa teknoloji ekosistemine 10 milyar dolarlık taahhüt! GTC Berlin oturumları, DSX POD altyapısı ve yeni insansı robot Agile ONE SN hakkında her şey. Bu gelişmelerden en çok hangisini ilgi çekici buluyorsunuz? Kaynak: NVIDIA Newsroom, Wired
 
-#YapayZeka #NVIDIA
+#Teknoloji #YapayZeka
 
 ## THREADS
 
-Avrupa yapay zeka ekosisteminde büyük hareketlilik var! NVIDIA'nın 10 milyar dolarlık dev yatırımı ve GTC Berlin'deki oturumlar geleceği şekillendiriyor. Bu gelişmelerden hangisi en çok ilgini çekti? 💭
+Avrupa Teknoloji Ekosistemi ve Gelişmeler
 
-Kaynak: NVIDIA Newsroom
+NVIDIA'nın Avrupa'daki 10 milyar dolarlık yatırımı ve GTC Berlin'deki yapay zeka oturumları teknoloji dünyasının nabzını tutuyor. Yeni insansı robot Agile ONE SN ve altyapı çözümleri dikkat çekiyor.
 
-#YapayZeka
+Bu teknolojik gelişmelerden en çok hangisini ilgi çekici buluyorsunuz? Tekno Pusula ile güncel teknolojileri takipte kalın. 💭
+
+Kaynak: NVIDIA Newsroom, TechCrunch
+
+#Teknoloji
+
+#Teknoloji
 
 ## LINKEDIN
 
-Yapay zeka ekosisteminde küresel gelişmeler hız kazandı. NVIDIA'nın Avrupa turu kapsamında teknoloji altyapısına taahhüt ettiği yaklaşık 10 milyar dolarlık yatırım ve GTC Berlin'deki 100'den fazla oturum, sektörün geleceği açısından kritik önem taşıyor. 11 milyondan fazla geliştirici ve binlerce ortaklı bu devasa ağ hakkında sizin sektörel öngörüleriniz nelerdir?
+Avrupa teknoloji ekosistemi, yapılan stratejik yatırımlar ve yapay zeka alanındaki gelişmelerle hızla büyümeye devam ediyor.
 
-Kaynak: NVIDIA Newsroom
+NVIDIA'nın Avrupa genelindeki ekosisteme 10 milyar dolarlık taahhüdü, 12.000'den fazla ortağı ve 11 milyondan fazla geliştirici ağı sektörün ölçeğini gözler önüne seriyor. GTC Berlin'de agentic yapay zeka ve robotik üzerine düzenlenen 100'ü aşkın oturum, geleceğin altyapı çözümlerini şekillendiriyor.
 
-#YapayZeka #Teknoloji #Inovasyon #NVIDIA #Gelisim
+DSX POD modüler konteyner sistemleri kurulum sürelerini 14 güne indirirken, 31 serbestlik dereceli Agile ONE SN insansı robot referansı araştırma sürelerini haftalardan günlere düşürmeyi hedefliyor.
+
+Bu teknolojik gelişmelerden en çok hangisini kurumunuz veya çalışmalarınız için ilgi çekici buluyorsunuz? Tekno Pusula ile güncel teknolojileri takipte kalın.
+
+Kaynak: NVIDIA Newsroom, TechCrunch, Wired
+
+#Teknoloji #YapayZeka #NVIDIA #Inovasyon #IsDunyasi
 
 ## FACEBOOK
 
-Avrupa ve yapay zeka dünyasından son gelişmeler radarımızda! NVIDIA'nın 10 milyar dolarlık dev yatırımı ve GTC Berlin'deki yenilikçi oturumlar teknolojiye yön veriyor. Bu teknolojik gelişmelerden hangisi senin dikkatini daha çok çekti?
+Avrupa teknoloji ekosisteminde çığır açan gelişmeler yaşanıyor! NVIDIA'nın 10 milyar dolarlık yatırımı, GTC Berlin'deki yapay zeka oturumları ve yeni nesil robotik sistemler gündemde.
 
-Kaynak: NVIDIA Newsroom
+Tempodrom'un tarihi dokusundan günümüzün en ileri yapay zeka altyapılarına kadar teknoloji dünyasında neler olup bittiğini inceliyoruz. DSX POD çözümleri ve Agile ONE SN insansı robot referansı ile süreçler artık çok daha hızlı.
 
-#YapayZeka #NVIDIA #Teknoloji #GTCBerlin
+Bu teknolojik gelişmelerden en çok hangisini ilgi çekici buluyorsunuz? Tekno Pusula ile güncel teknolojileri takipte kalın.
+
+Kaynak: NVIDIA Newsroom, TechCrunch, Wired
+
+#Teknoloji #YapayZeka #NVIDIA #Gelecek #Robotik
