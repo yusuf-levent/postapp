@@ -1,0 +1,265 @@
+{
+  "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+  "canonical_url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+  "source_names": [
+    "TechCrunch",
+    "The Verge",
+    "NVIDIA Newsroom",
+    "Ars Technica"
+  ],
+  "checked_at": "2026-10-21T11:42:06+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Google announced that TorchTPU, its version of PyTorch, is now available as an open source project.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "quote": "On Tuesday, Google announced that TorchTPU, its long-awaited version of PyTorch, is now available as an open source project."
+        }
+      ]
+    },
+    {
+      "claim": "PyTorch is used by 85 percent of the AI apps.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "quote": "It is, by some accounts, used by 85% of the AI apps."
+        }
+      ]
+    },
+    {
+      "claim": "PyTorch was originally developed by Meta in 2016.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "quote": "PyTorch was originally developed by Meta (then Facebook) in 2016, long before the world had an inkling that LLMs would change the world."
+        }
+      ]
+    },
+    {
+      "claim": "In 2022, Meta turned PyTorch over to the Linux Foundation.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "quote": "In 2022, Meta turned PyTorch over to the Linux Foundation, a nonprofit that manages many important open source projects."
+        }
+      ]
+    },
+    {
+      "claim": "Amazon released its own version of PyTorch called TorchNeuron on Monday.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "quote": "Amazon made a similar announcement Monday, when it released its own version of PyTorch, called TorchNeuron."
+        }
+      ]
+    },
+    {
+      "claim": "TorchNeuron allows AI apps to be ported to Amazon's chip Trainium and to AWS with no rewriting.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "quote": "TorchNeuron allows AI apps to be ported to Amazon’s homegrown AI chip, Trainium, and to AWS with no rewriting."
+        }
+      ]
+    },
+    {
+      "claim": "Google worked directly with Meta, Hugging Face, Inferact, RadixArk, and others to ensure TorchTPU works well with these tools.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "quote": "It says it worked directly with Meta, Hugging Face, Inferact (maker of vLLM), RadixArk (maker of SGLang), and others to ensure that TorchTPU’s features and code libraries work well with these popular AI development tools, just as the original PyTorch does."
+        }
+      ]
+    },
+    {
+      "claim": "Google launched a dedicated tool called the TPU agent suite to help developers move their apps to Google chips and cloud.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "quote": "Plus the search giant has launched a dedicated tool, the TPU agent suite, to help developers move their apps to Google’s chips and cloud and fix errors along the way."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Google announced that TorchTPU, its version of PyTorch, is now available as an open source project.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "quote": "On Tuesday, Google announced that TorchTPU, its long-awaited version of PyTorch, is now available as an open source project."
+        }
+      ]
+    },
+    {
+      "claim": "PyTorch is used by 85 percent of the AI apps.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "quote": "It is, by some accounts, used by 85% of the AI apps."
+        }
+      ]
+    },
+    {
+      "claim": "PyTorch was originally developed by Meta in 2016.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "quote": "PyTorch was originally developed by Meta (then Facebook) in 2016, long before the world had an inkling that LLMs would change the world."
+        }
+      ]
+    },
+    {
+      "claim": "In 2022, Meta turned PyTorch over to the Linux Foundation.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "quote": "In 2022, Meta turned PyTorch over to the Linux Foundation, a nonprofit that manages many important open source projects."
+        }
+      ]
+    },
+    {
+      "claim": "Amazon released its own version of PyTorch called TorchNeuron on Monday.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "quote": "Amazon made a similar announcement Monday, when it released its own version of PyTorch, called TorchNeuron."
+        }
+      ]
+    },
+    {
+      "claim": "TorchNeuron allows AI apps to be ported to Amazon's chip Trainium and to AWS with no rewriting.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "quote": "TorchNeuron allows AI apps to be ported to Amazon’s homegrown AI chip, Trainium, and to AWS with no rewriting."
+        }
+      ]
+    },
+    {
+      "claim": "Google worked directly with Meta, Hugging Face, Inferact, RadixArk, and others to ensure TorchTPU works well with these tools.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "quote": "It says it worked directly with Meta, Hugging Face, Inferact (maker of vLLM), RadixArk (maker of SGLang), and others to ensure that TorchTPU’s features and code libraries work well with these popular AI development tools, just as the original PyTorch does."
+        }
+      ]
+    },
+    {
+      "claim": "Google launched a dedicated tool called the TPU agent suite to help developers move their apps to Google chips and cloud.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "quote": "Plus the search giant has launched a dedicated tool, the TPU agent suite, to help developers move their apps to Google’s chips and cloud and fix errors along the way."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Google announced that TorchTPU, its version of PyTorch, is now available as an open source project.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "quote": "On Tuesday, Google announced that TorchTPU, its long-awaited version of PyTorch, is now available as an open source project."
+        }
+      ]
+    },
+    {
+      "claim": "PyTorch is used by 85 percent of the AI apps.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "quote": "It is, by some accounts, used by 85% of the AI apps."
+        }
+      ]
+    },
+    {
+      "claim": "PyTorch was originally developed by Meta in 2016.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "quote": "PyTorch was originally developed by Meta (then Facebook) in 2016, long before the world had an inkling that LLMs would change the world."
+        }
+      ]
+    },
+    {
+      "claim": "In 2022, Meta turned PyTorch over to the Linux Foundation.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "quote": "In 2022, Meta turned PyTorch over to the Linux Foundation, a nonprofit that manages many important open source projects."
+        }
+      ]
+    },
+    {
+      "claim": "Amazon released its own version of PyTorch called TorchNeuron on Monday.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "quote": "Amazon made a similar announcement Monday, when it released its own version of PyTorch, called TorchNeuron."
+        }
+      ]
+    },
+    {
+      "claim": "TorchNeuron allows AI apps to be ported to Amazon's chip Trainium and to AWS with no rewriting.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "quote": "TorchNeuron allows AI apps to be ported to Amazon’s homegrown AI chip, Trainium, and to AWS with no rewriting."
+        }
+      ]
+    },
+    {
+      "claim": "Google worked directly with Meta, Hugging Face, Inferact, RadixArk, and others to ensure TorchTPU works well with these tools.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "quote": "It says it worked directly with Meta, Hugging Face, Inferact (maker of vLLM), RadixArk (maker of SGLang), and others to ensure that TorchTPU’s features and code libraries work well with these popular AI development tools, just as the original PyTorch does."
+        }
+      ]
+    },
+    {
+      "claim": "Google launched a dedicated tool called the TPU agent suite to help developers move their apps to Google chips and cloud.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "quote": "Plus the search giant has launched a dedicated tool, the TPU agent suite, to help developers move their apps to Google’s chips and cloud and fix errors along the way."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/": 2468,
+    "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto": 1649,
+    "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre": 5307,
+    "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/": 1671
+  }
+}

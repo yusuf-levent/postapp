@@ -1,0 +1,72 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA",
+    "title": "Google'dan Açık Kaynak TorchTPU Hamlesi",
+    "highlight_words": [
+      "TorchTPU"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Google, PyTorch sürümü olan TorchTPU'yu açık kaynak proje olarak duyurdu.",
+    "source_tags": [
+      "TECHCRUNCH",
+      "THE VERGE"
+    ]
+  },
+  "context": {
+    "heading": "PyTorch Dünyası",
+    "cards": [
+      {
+        "card_title": "Meta'nın Mirası",
+        "card_body": "PyTorch, ilk olarak 2016 yılında Meta tarafından geliştirildi ve 2022'de Linux Foundation'a devredildi."
+      },
+      {
+        "card_title": "Yaygın Kullanım",
+        "card_body": "Bugün yapay zeka uygulamalarının yüzde 85 oranında PyTorch kullandığı biliniyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "%85",
+    "stat_caption": "Yapay zeka uygulamalarının PyTorch kullanımı",
+    "stat_quote": "PyTorch is used by 85 percent of the AI apps."
+  },
+  "details": {
+    "heading": "Google ve Amazon'dan Yeni Sürümler",
+    "cards": [
+      {
+        "card_title": "Google TorchTPU",
+        "card_body": "Google, TorchTPU'yu açık kaynak proje olarak kullanıma sundu ve uyumluluk için Meta, Hugging Face ve diğerleriyle çalıştı."
+      },
+      {
+        "card_title": "Amazon TorchNeuron",
+        "card_body": "Amazon, uygulamaların Trainium çipine ve AWS'ye yeniden yazılmadan taşınmasını sağlayan TorchNeuron'u yayınladı."
+      },
+      {
+        "card_title": "TPU Agent Suite",
+        "card_body": "Google, geliştiricilerin uygulamalarını Google çiplerine ve buluta taşımasına yardımcı olmak için özel bir araç başlattı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etkiler",
+    "cards": [
+      {
+        "card_title": "Entegrasyon Kolaylığı",
+        "card_body": "TorchTPU, Hugging Face ve diğer araçlarla uyumlu çalışacak şekilde tasarlandı."
+      },
+      {
+        "card_title": "Bulut ve Çip Geçişi",
+        "card_body": "Geliştiriciler TPU agent suite ve TorchNeuron ile sistemler arası geçiş yapabiliyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce açık kaynaklı PyTorch sürümleri yapay zeka geliştirme süreçlerini nasıl etkileyecek?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
