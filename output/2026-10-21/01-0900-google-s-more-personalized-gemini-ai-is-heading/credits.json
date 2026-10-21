@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&amp;strip=all&amp;crop=1.0809792843691%2C0%2C97.838041431262%2C100&amp;w=1200",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-21/01-0900-google-s-more-personalized-gemini-ai-is-heading/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "width": 2124,
+      "height": 1088,
+      "alt_text": ""
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir.",
+  "music": [
+    {
+      "title": "Torley Wong - The Final Selection ::: 230 diverse MP3s",
+      "artist": "Torley Wong",
+      "license": "Creative Commons (ticari kullanıma uygun)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/us/",
+      "source_url": "https://archive.org/details/Torley_Wong_-_The_Final_Selection"
+    }
+  ]
+}

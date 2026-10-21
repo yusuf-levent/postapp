@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE OTOMOTİV",
+    "title": "Gemini Asistanına Kişisel Zeka Geliyor",
+    "highlight_words": [
+      "Kişisel",
+      "Zeka"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Android Auto ve Google dahili araçlardaki Gemini AI asistanı yenileniyor.",
+    "source_tags": [
+      "GOOGLE BLOG",
+      "THE VERGE"
+    ]
+  },
+  "context": {
+    "heading": "Yepyeni Bir Deneyim",
+    "cards": [
+      {
+        "card_title": "Android Auto ve Dahili Araçlar",
+        "card_body": "Google, Android Auto ve Google dahili araçlardaki Gemini AI asistanına Kişisel Zeka özelliğini getiriyor."
+      },
+      {
+        "card_title": "Geniş Uygulama Desteği",
+        "card_body": "Kişisel Zeka özelliği Gmail, Takvim, Haritalar, Fotoğraflar, YouTube ve Arama uygulamalarındaki bilgilere erişebiliyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "6 UYGULAMA",
+    "stat_caption": "Kişisel Zeka'nın erişebildiği Google uygulaması sayısı.",
+    "stat_quote": "Kullanıcılar havalimanına giderken uçuş durumunu sorabiliyor ve asistan Gmail onay mesajından detayları çekebiliyor."
+  },
+  "details": {
+    "heading": "Nasıl Çalışıyor?",
+    "cards": [
+      {
+        "card_title": "Kullanım Senaryosu",
+        "card_body": "Kullanıcılar havalimanına giderken Gemini'ye uçuş durumunu sorabiliyor ve asistan Gmail'deki onay mesajından uçuş detaylarını çekebiliyor."
+      },
+      {
+        "card_title": "Yayın Takvimi",
+        "card_body": "Özellik bugün Android Auto için kullanıma sunuluyor ve önümüzdeki aylarda Google dahili araçlara da gelecek."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Gizlilik ve Sektör",
+    "cards": [
+      {
+        "card_title": "Gizlilik Kontrolü",
+        "card_body": "Kişisel Zeka ayarı etkinleştirilmediği sürece Google, uygulamaları Gemini'ye bağlamıyor ve yanıtlar telefon araca bağlıysa paylaşılıyor."
+      },
+      {
+        "card_title": "Otomobil Üreticileri",
+        "card_body": "Ford, GM, Honda, Nissan, Volvo ve Polestar gibi üreticiler yerel Android uygulama desteği sunan Google dahili yeni araçlar piyasaya sürdü."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Araç içi yapay zeka asistanlarında kişisel verilerinizin kullanılmasına nasıl bakıyorsunuz?",
+    "reminder_line": "Düşüncelerinizi bizimle paylaşın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
