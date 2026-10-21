@@ -262,6 +262,13 @@ def run(
     try:
         source_video = collect_video(llm, selected, entities, post_dir)
         if source_video and source_video.exists():
+            # Video kredisi (Wikimedia CC BY atıfı için zorunlu)
+            try:
+                vmeta_path = post_dir / "video" / "video_meta.json"
+                if vmeta_path.exists():
+                    _write_video_credit(post_dir, json.loads(vmeta_path.read_text(encoding="utf-8")))
+            except Exception:
+                pass
             # Orijinal ses yoksa telifsiz müzik ara (konuya göre)
             if not _video_has_audio_track(source_video):
                 from app.media.music import find_music as _find_music
@@ -1004,6 +1011,33 @@ def _write_music_credit(post_dir: Path, music_info: dict[str, Any]) -> None:
             "license": music_info.get("license", ""),
             "license_url": music_info.get("license_url", ""),
             "source_url": music_info.get("url", ""),
+        })
+    credits_path.write_text(
+        _json.dumps(credits, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+
+
+def _write_video_credit(post_dir: Path, video_meta: dict[str, Any]) -> None:
+    """Kullanılan videonun telif/atıf bilgisini credits.json'a ekler (Wikimedia CC BY için zorunlu)."""
+    import json as _json
+
+    if not video_meta.get("license") and not video_meta.get("author"):
+        return  # stok kaynaklar (Pexels/Pixabay) atıf gerektirmez
+    credits_path = post_dir / "credits.json"
+    credits: dict[str, Any] = {}
+    if credits_path.exists():
+        try:
+            credits = _json.loads(credits_path.read_text(encoding="utf-8"))
+        except Exception:
+            credits = {}
+    credits.setdefault("video", [])
+    if isinstance(credits.get("video"), list):
+        credits["video"].append({
+            "source": video_meta.get("source", ""),
+            "url": video_meta.get("video_url", ""),
+            "license": video_meta.get("license", ""),
+            "author": video_meta.get("author", ""),
+            "credit_url": video_meta.get("credit_url", ""),
         })
     credits_path.write_text(
         _json.dumps(credits, ensure_ascii=False, indent=2), encoding="utf-8"

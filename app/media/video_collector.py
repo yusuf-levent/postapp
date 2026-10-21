@@ -30,6 +30,7 @@ PEXELS_VIDEOS_URL = "https://api.pexels.com/videos/search"
 PIXABAY_VIDEOS_URL = "https://pixabay.com/api/videos/"
 NASA_SEARCH_URL = "https://images-api.nasa.gov/search"
 NASA_MEDIA_URL = "https://images-assets.nasa.gov/video/{nasa_id}/collection.json"
+WIKIMEDIA_API = "https://commons.wikimedia.org/w/api.php"
 MAX_VIDEO_BYTES = 45 * 1024 * 1024  # 45 MB üst sınır
 
 # Yanlış anlamaya yol açan kelimeler (Amazon -> orman, Apple -> meyve, Disney -> lunapark vb.)
@@ -68,8 +69,42 @@ def collect_video(
                 log.info("Makale içinden gerçek video indirildi: %s", article_vid)
                 return dest
 
-    # 2) Stok video API'leri (Pexels → Pixabay → NASA) — Gemini Vision ile doğrulanırsa!
+    # 2) Gerçek ürün/haber videoları: Wikimedia Commons B-roll (CC lisanslı, atıf otomatik)
     queries = _strict_video_queries(llm, candidate, entities)
+    # B-roll sorguları: "NVIDIA RTX 5090 b-roll", "iPhone unboxing" vb.
+    broll_queries = []
+    for q in queries:
+        broll_queries.append(f"{q} b-roll")
+        broll_queries.append(q)
+    if entities:
+        broll_queries.insert(0, f"{entities[0]} b-roll")
+
+    for q in broll_queries[:4]:
+        for cand_vid in _search_wikimedia_video_candidates(q):
+            vurl = cand_vid["video_url"]
+            slug = cand_vid["slug"].lower()
+            thumb_url = cand_vid["thumb_url"]
+            if vurl in used_urls:
+                continue
+            if any(bw in slug for bw in BANNED_SLUG_WORDS):
+                log.info("Alakasız video elendi (yasaklı kelime): %s", slug)
+                continue
+            if not _verify_video_relevance(llm, candidate.title, entities, slug, thumb_url):
+                log.info("Video Gemini doğrulamasından geçemedi, elendi: %s", slug)
+                continue
+            if _download_video(vurl, dest):
+                meta = _save_video_meta(video_dir, vurl, f"wikimedia:{q}")
+                if meta is not None:
+                    meta["license"] = cand_vid.get("license", "")
+                    meta["author"] = cand_vid.get("author", "")
+                    meta["credit_url"] = cand_vid.get("page_url", "")
+                    (video_dir / "video_meta.json").write_text(
+                        json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8"
+                    )
+                log.info("Gerçek ürün videosu (Wikimedia B-roll) indirildi (%s): %s", slug, vurl)
+                return dest
+
+    # 3) Stok video API'leri (Pexels → Pixabay → NASA) — Gemini Vision ile doğrulanırsa!
     # Her sağlayıcıdan aday topla (öncelik: Pexels → Pixabay → NASA)
     providers = [
         ("pexels", _search_pexels_candidates),
@@ -137,11 +172,103 @@ def _load_used_video_urls() -> set[str]:
     return used
 
 
-def _save_video_meta(video_dir: Path, video_url: str, source: str) -> None:
+def _save_video_meta(video_dir: Path, video_url: str, source: str) -> dict:
     meta = {"video_url": video_url, "source": source}
     (video_dir / "video_meta.json").write_text(
         json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8"
     )
+    return meta
+
+
+def _search_wikimedia_video_candidates(query: str, *, limit: int = 8) -> list[dict[str, str]]:
+    """Wikimedia Commons'tan gerçek ürün/haber videoları (B-roll) arar.
+
+    Commons API'si key gerektirmez. Videolar WebM/VP9 transcode olarak sunulur;
+    mevcut en yüksek çözünürlüklü transcode seçilir. Lisans ve atıf bilgisi döndürülür.
+    """
+    used = _load_used_video_urls()
+    params = {
+        "action": "query",
+        "list": "search",
+        "srnamespace": "6",
+        "srsearch": f"filetype:video {query}",
+        "srlimit": limit,
+        "format": "json",
+    }
+    resp = http_get(
+        f"{WIKIMEDIA_API}?{urlencode(params)}",
+        headers={"User-Agent": "TeknoPusula/1.0 (github-actions)"},
+        retries=2,
+        timeout=20,
+    )
+    if resp is None or resp.status_code != 200:
+        return []
+    try:
+        hits = resp.json().get("query", {}).get("search", []) or []
+    except ValueError:
+        return []
+
+    out: list[dict[str, str]] = []
+    for hit in hits:
+        title = hit.get("title") or ""
+        if not title.startswith("File:"):
+            continue
+        # Dosya bilgisi + lisans + transcode listesi
+        iparams = {
+            "action": "query",
+            "titles": title,
+            "prop": "videoinfo",
+            "viprop": "derivatives|url|size|mime|extmetadata",
+            "format": "json",
+        }
+        r2 = http_get(
+            f"{WIKIMEDIA_API}?{urlencode(iparams)}",
+            headers={"User-Agent": "TeknoPusula/1.0 (github-actions)"},
+            retries=1,
+            timeout=15,
+        )
+        if r2 is None or r2.status_code != 200:
+            continue
+        try:
+            pages = r2.json().get("query", {}).get("pages", {})
+            page = next(iter(pages.values()), {})
+            vi = (page.get("videoinfo") or [{}])[0]
+        except (ValueError, StopIteration):
+            continue
+
+        # En iyi transcode (1080p > 480p > 360p) veya orijinal
+        best_url = ""
+        for key in ("1080p.vp9.webm", "1080p.mpeg4.mov", "480p.vp9.webm", "480p.mpeg4.mov", "360p.mpeg4.mov"):
+            for d in (vi.get("derivatives") or []):
+                if d.get("transcodekey") == key:
+                    best_url = d.get("src") or ""
+                    break
+            if best_url:
+                break
+        if not best_url:
+            best_url = vi.get("url") or ""
+
+        em = vi.get("extmetadata") or {}
+        license_name = (em.get("LicenseShortName") or {}).get("value", "")
+        artist_raw = (em.get("Artist") or {}).get("value", "")
+        artist = re.sub(r"<[^>]+>", "", artist_raw).strip()
+
+        thumb_url = ""
+        for d in (vi.get("derivatives") or []):
+            if "thumb" in (d.get("transcodekey") or "").lower():
+                thumb_url = d.get("src") or ""
+                break
+
+        if best_url and "video" in (vi.get("mime") or ""):
+            out.append({
+                "video_url": best_url,
+                "thumb_url": thumb_url or vi.get("url", ""),
+                "slug": title,
+                "license": license_name,
+                "author": artist,
+                "page_url": f"https://commons.wikimedia.org/wiki/{title.replace(' ', '_')}",
+            })
+    return out
 
 
 def _find_article_video(article_url: str) -> str | None:
