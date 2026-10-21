@@ -1351,5 +1351,85 @@
     ],
     "created_at": "2026-10-21T14:49:56+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-10-21-1800",
+    "date": "2026-10-21",
+    "slot": "18:00",
+    "type": "edu",
+    "title_tr": "Avrupa Teknoloji Ekosistemi ve Gelişmeler",
+    "original_title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
+    "source_urls": [
+      "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/"
+    ],
+    "canonical_url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote",
+    "entities": [
+      "NVIDIA",
+      "Jensen Huang",
+      "L’Oréal",
+      "Revolut",
+      "Spotify",
+      "Merck",
+      "Vodafone",
+      "Zara",
+      "Porsche",
+      "Nestlé",
+      "HSBC",
+      "GTC Berlin"
+    ],
+    "event_type": "keynote",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ad8ea730be082f2fc1c30bb",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ad8ea8a98b0339f0398dbcc",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ad8eaa124638e8a5cc0e985",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2112946757000728786",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "17871654750647917",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/Dew22J_FE0x",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ad8eac3207438cdf5f63964",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ad8eada24638e8a5cc0f352",
+        "permalink": "https://facebook.com/1351036918092059_122117293809484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-21T19:40:04+03:00",
+    "verified_claims_count": 7
   }
 ]
