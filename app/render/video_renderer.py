@@ -206,21 +206,24 @@ def render_slideshow_reel(
     target_duration = max(8.0, min(45.0, per_slide_seconds * n))
     per_slide = target_duration / n
 
-    # Zoom + fade filtre zinciri
+    # Zoom + fade filtre zinciri (fade out YOK — son slaytta kararma olmasın diye)
     inputs = []
     filter_parts = []
     for i, img in enumerate(slide_images):
         inputs += ["-loop", "1", "-t", f"{per_slide:.2f}", "-i", str(img.resolve())]
-        # Her slayt: ölçekle + hafif zoom + kenar yumuşatma + fade in/out
+        # Her slayt: ölçekle + hafif zoom (çok az — aşırı yakınlaştırmayı önlemek için)
+        # + fade-in (ilk slaytta) / sabit durum (son slayt dahil — fade out yok)
+        fade_in = f"fade=t=in:st=0:d=0.25," if i == 0 else ""
         filter_parts.append(
-            f"[{i}:v]scale=1080:1920:force_original_aspect_ratio=increase,"
-            f"crop=1080:1920,"
-            f"zoompan=z='1.0+0.08*on/{int(30*per_slide)}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)'"
+            f"[{i}:v]scale=1080:1920:force_original_aspect_ratio=decrease,"
+            f"pad=1080:1920:(ow-iw)/2:(oh-ih)/2:color=black,"
+            f"zoompan=z='min(zoom+0.0008,1.04)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)'"
             f":d={int(30*per_slide)}:s=1080x1920:fps=30,"
-            f"fade=t=in:st=0:d=0.3,fade=t=out:st={max(0,per_slide-0.3):.2f}:d=0.3[v{i}]"
+            f"{fade_in}"
+            f"format=yuv420p[v{i}]"
         )
 
-    # Birleştir
+    # Birleştir (crossfade yok — slaytlar doğrudan geçişli, fade out kararması yok)
     concat_inputs = "".join(f"[v{i}]" for i in range(n))
     filter_parts.append(f"{concat_inputs}concat=n={n}:v=1:a=0[vout]")
     full_filter = ";".join(filter_parts)

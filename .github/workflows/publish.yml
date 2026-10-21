@@ -23,7 +23,7 @@ on:
 
 concurrency:
   group: tekno-pusula-publish
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 permissions:
   contents: write

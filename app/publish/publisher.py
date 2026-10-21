@@ -182,6 +182,12 @@ def publish_all(
     for name, rules in platforms.items():
         if name not in captions:
             continue
+        # Idempotent: daha önce published ise tekrar gönderme (çift paylaşım engeli)
+        prev = existing_map.get(name)
+        if prev and prev.state == "published":
+            log.info("%s zaten yayınlanmış (idempotent), atlanıyor", name)
+            statuses[name] = prev
+            continue
         account, channel_id = channel_map.get(name, ("A", ""))
         plat_urls = (
             image_urls_9x16
