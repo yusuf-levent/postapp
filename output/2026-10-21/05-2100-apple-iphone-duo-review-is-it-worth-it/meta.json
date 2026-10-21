@@ -1,0 +1,10 @@
+{
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 103.0,
+  "candidates_tried": 1,
+  "gemini_calls": 18,
+  "canonical_url": "https://www.wired.com/review/apple-iphone-duo/",
+  "generated_at": "2026-10-21T20:42:51+03:00"
+}

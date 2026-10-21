@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://media.wired.com/photos/6ad7940031b157a7a885ace4/191:100/w_1280,c_limit/DSC_9923.jpg",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-21/05-2100-apple-iphone-duo-review-is-it-worth-it/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.wired.com/review/apple-iphone-duo/",
+      "width": 1280,
+      "height": 670,
+      "alt_text": ""
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir.",
+  "music": [
+    {
+      "title": "Torley Wong - The Final Selection ::: 230 diverse MP3s",
+      "artist": "Torley Wong",
+      "license": "Creative Commons (ticari kullanıma uygun)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/us/",
+      "source_url": "https://archive.org/details/Torley_Wong_-_The_Final_Selection"
+    }
+  ]
+}
