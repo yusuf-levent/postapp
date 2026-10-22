@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://www.engadget.com/img/gallery/apple-iphone-duo-review-a-first-class-foldable/l-intro-1792528421.jpg",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-22/03-1500-apple-iphone-duo-review-a-first-class-foldable/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.engadget.com/2292333/apple-iphone-duo-review/",
+      "width": 1600,
+      "height": 899,
+      "alt_text": ""
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir.",
+  "music": [
+    {
+      "title": "Torley Wong - The Final Selection ::: 230 diverse MP3s",
+      "artist": "Torley Wong",
+      "license": "Creative Commons (ticari kullanıma uygun)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/us/",
+      "source_url": "https://archive.org/details/Torley_Wong_-_The_Final_Selection"
+    }
+  ]
+}

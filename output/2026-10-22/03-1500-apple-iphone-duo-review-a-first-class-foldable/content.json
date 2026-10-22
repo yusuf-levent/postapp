@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ DÜNYASI",
+    "title": "Yeni iPhone Duo Karşınızda",
+    "highlight_words": [
+      "iPhone",
+      "Duo"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Apple ailesinin yeni üyesi teknik detaylarıyla dikkat çekiyor.",
+    "source_tags": [
+      "ENGADGET",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Temel Özellikler",
+    "cards": [
+      {
+        "card_title": "Güçlü İşlemci",
+        "card_body": "iPhone Duo, iPhone 18 Pro ile aynı olan A20 Pro çipinden güç almaktadır."
+      },
+      {
+        "card_title": "Ağırlık",
+        "card_body": "Yeni iPhone Duo modeli toplamda 254 gram ağırlığındadır."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "$1,999",
+    "stat_caption": "iPhone Duo modelinin belirlenen satış fiyatı.",
+    "stat_quote": "Apple Newsroom ve Ars Technica verilerine göre cihaz bu fiyat etiketiyle geliyor."
+  },
+  "details": {
+    "heading": "Ekran Detayları",
+    "cards": [
+      {
+        "card_title": "Dış Ekran",
+        "card_body": "Dış kısımda 1,878 x 2,670 çözünürlüğünde 5.4 inç OLED ekran bulunmaktadır."
+      },
+      {
+        "card_title": "İç Ekran",
+        "card_body": "İç kısımda ise 1,398 x 2,034 çözünürlüğünde 7.6 inç ekran yer almaktadır."
+      },
+      {
+        "card_title": "Ekran Katmanı",
+        "card_body": "Nanotexture ekran katmanının değiştirilmesi 49 dolar ücret gerektirmektedir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektör ve Kullanıcı Etkisi",
+    "cards": [
+      {
+        "card_title": "Performans",
+        "card_body": "A20 Pro çipi sayesinde yüksek işlem gücü sunuluyor."
+      },
+      {
+        "card_title": "Kullanım Deneyimi",
+        "card_body": "Çift ekran yapısı kullanıcılara farklı bir deneyim vadediyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "iPhone Duo modelinin fiyatını ve teknik özelliklerini nasıl buldunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
