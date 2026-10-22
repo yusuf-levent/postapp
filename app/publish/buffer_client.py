@@ -257,16 +257,23 @@ class BufferClient:
             status = post.get("status", "")
             ext_link = post.get("externalLink", "")
             log.info("Buffer post oluşturuldu: %s (%s)", post_id, status)
+            # ÖNEMLİ: PostActionSuccess = post Buffer'a KAYDEDİLDİ.
+            # Buradan sonra exception fırlatmak, retry mekanizmasının AYNI postu
+            # tekrar göndermesine neden olur (çift paylaşım). Bu yüzden status
+            # "error" olsa bile exception YOK — durum kaydedilir ve dönülür.
             if status == "error":
-                raise TransientError(f"Buffer gönderim hatası ({post_id}): {status}")
-            if post_id and share_now and status != "sent":
+                log.error(
+                    "Buffer post kaydedildi ama gönderim hatası (%s). "
+                    "Tekrar GÖNDERİLMEZ (çift paylaşım engeli).", post_id,
+                )
+            if post_id and share_now and status not in ("sent", "error"):
                 polled = self._poll_post_status(post_id)
                 if polled:
                     status = polled.get("status") or status
                     ext_link = polled.get("externalLink") or ext_link
                     err = (polled.get("error") or {}).get("message")
-                    if status == "error" or err:
-                        raise TransientError(f"Buffer gönderim hatası ({post_id}): {err or status}")
+                    if err:
+                        log.error("Buffer gönderim hatası (%s): %s", post_id, err)
             return {
                 "id": post_id,
                 "status": status,
@@ -322,28 +329,47 @@ class BufferClient:
                 payload = data.get("createPost") or {}
                 typename = payload.get("__typename", "")
                 if typename == "PostActionSuccess":
+                    # PostActionSuccess = video post Buffer'a KAYDEDİLDİ.
+                    # Buradan sonra BAŞKA meta denemesi veya fallback YAPILMAZ.
                     post = payload.get("post", {})
                     post_id = post.get("id", "")
                     status = post.get("status", "")
                     ext_link = post.get("externalLink", "")
                     log.info("Buffer video post oluşturuldu (%s): %s (%s)", platform, post_id, status)
-                    if post_id and share_now and status != "sent":
+                    if post_id and share_now and status not in ("sent", "error"):
                         polled = self._poll_post_status(post_id)
                         if polled:
                             status = polled.get("status") or status
                             ext_link = polled.get("externalLink") or ext_link
-                    if status != "error":
-                        return {
-                            "id": post_id,
-                            "status": status,
-                            "externalLink": ext_link,
-                        }
-                log.warning("Buffer video denemesi (%s, %s) başarısız: %s", platform, meta, payload.get("message"))
+                            err = (polled.get("error") or {}).get("message")
+                            if err:
+                                log.error("Buffer video gönderim hatası (%s): %s", post_id, err)
+                    return {
+                        "id": post_id,
+                        "status": status,
+                        "externalLink": ext_link,
+                    }
+                # Yalnızca post HİÇ kaydedilmediyse sonraki meta denenir.
+                if typename == "InvalidInputError":
+                    log.warning("Buffer video metadata denemesi (%s) InvalidInputError: %s", meta, payload.get("message"))
+                    continue
+                # Diğer hatalarda post kaydedilmiş olabilir → tekrar deneme YOK.
+                log.error("Buffer video denemesi (%s, %s) sonuç: %s — tekrar denenmiyor.", platform, meta, typename or payload.get("message"))
+                break
             except Exception as exc:
                 log.warning("Buffer video denemesi (%s, %s) hata verdi: %s", platform, meta, exc)
+                # Ağ hatası vb.: post kaydedilmiş olabilir → fallback'e GEÇME,
+                # tekrar deneme YOK (çift paylaşım engeli).
+                return {
+                    "id": "",
+                    "status": "unknown",
+                    "externalLink": "",
+                }
 
+        # Yalnızca hiçbir deneme post kaydetmediyse fallback'e geç.
+        # (PostActionSuccess alan herhangi bir deneme yukarıda döndü.)
         if fallback_list:
-            log.info("%s için video paylaşımı yerine 6'lı slayt yedek paylaşımına geçiliyor.", platform)
+            log.info("%s için video paylaşımı yerine 6'lı slayt yedek paylaşımına geçiliyor (video hiç kaydedilmedi).", platform)
             return self.create_post(
                 channel_id=channel_id,
                 text=text,
@@ -411,6 +437,7 @@ class BufferClient:
             data = self._post(MUTATION_CREATE_POST, {"input": input_obj})
             payload = data.get("createPost") or {}
             if payload.get("__typename") == "PostActionSuccess":
+                # Thread KAYDEDİLDİ → fallback YAPMA (çift paylaşım engeli).
                 post = payload.get("post", {})
                 return {
                     "id": post.get("id", ""),
@@ -418,16 +445,33 @@ class BufferClient:
                     "externalLink": post.get("externalLink", ""),
                 }
             message = payload.get("message", "")
-            log.warning("Buffer X thread reddedildi (%s), 4 görselli tek post olarak paylaşılıyor.", message)
+            # Thread HİÇ kaydedilmedi (InvalidInputError vb.) → fallback güvenli.
+            if payload.get("__typename") == "InvalidInputError":
+                log.warning("Buffer X thread reddedildi (%s), 4 görselli tek post olarak paylaşılıyor.", message)
+                return self.create_post(
+                    channel_id=channel_id,
+                    text=root_text,
+                    image_urls=(root_images or [])[:4],
+                    share_now=True,
+                    platform="x",
+                )
+            log.error("Buffer X thread sonucu belirsiz (%s) — fallback yapılmıyor, tekrar denenmiyor.", payload.get("__typename") or message)
+            return {"id": "", "status": "unknown", "externalLink": ""}
+        except PermanentError as exc:
+            # Kalıcı hata: thread kesin kaydedilmedi → fallback güvenli.
+            log.warning("Buffer X thread kalıcı hata (%s), 4 görselli tek post olarak paylaşılıyor.", exc)
+            return self.create_post(
+                channel_id=channel_id,
+                text=root_text,
+                image_urls=(root_images or [])[:4],
+                share_now=True,
+                platform="x",
+            )
         except Exception as exc:
-            log.warning("Buffer X thread hatası (%s), 4 görselli tek post olarak paylaşılıyor.", exc)
-        return self.create_post(
-            channel_id=channel_id,
-            text=root_text,
-            image_urls=(root_images or [])[:4],
-            share_now=True,
-            platform="x",
-        )
+            # Ağ timeout / geçici hata: thread KAYDEDİLMİŞ OLABİLİR.
+            # Fallback YAPMA, tekrar deneme YOK (çift paylaşım engeli).
+            log.error("Buffer X thread hatası (%s) — thread kaydedilmiş olabilir, fallback yapılmıyor.", exc)
+            return {"id": "", "status": "unknown", "externalLink": ""}
 
 
 def client_for_account(account: str) -> BufferClient:

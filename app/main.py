@@ -14,7 +14,7 @@ from datetime import datetime
 from pathlib import Path
 
 from app.collect.article import enrich_candidate
-from app.collect.dates import nearest_slot, slot_type, today_label
+from app.collect.dates import nearest_slot, slot_type, today_label, within_lookback
 from app.collect.rss import collect_all
 from app.common import now_istanbul, slugify, turkish_upper
 from app.config import OUTPUT_DIR, platforms_config, schedule_config, settings
@@ -33,7 +33,7 @@ from app.render.fonts import ensure_fonts
 from app.render.qa import run_qa
 from app.render.renderer import render_deck
 from app.render.templates.styles import CSS
-from app.render.video_renderer import render_reel_video, render_slideshow_reel
+from app.render.video_renderer import render_reel_video
 from app.select.dedup import is_duplicate, normalize_url
 from app.select.scoring import build_source_index, score_candidates
 from app.store import history as history_store
@@ -160,6 +160,16 @@ def run(
         # Makale metni + tarih doğrulama
         enriched = enrich_candidate(cand)
         if enriched is None:
+            continue
+
+        # Kritik: enrich_candidate makale sayfasından tarihi GÜNCELLEDİ.
+        # Yeni tarih lookback penceresi DIŞINDA ise aday DÜŞÜRÜLMELİ.
+        # (Aksi halde 1 aylık eski haber "bugünün haberi" gibi paylaşılır.)
+        if not within_lookback(enriched.published, sched["max_lookback_days"]):
+            log.info(
+                "Aday reddedildi (eski haber): %s — yayın tarihi %s lookback penceresi dışında",
+                enriched.title[:60], enriched.published,
+            )
             continue
 
         tried += 1
@@ -289,36 +299,14 @@ def run(
     except Exception as exc:
         log.warning("Reels/TikTok video üretim adımı atlandı: %s", exc)
 
-    # 11c) Video bulunamadıysa: slaytlardan hareketli slideshow reel üret (her post video olur)
+    # 11c) GERÇEK video bulunamadıysa SAHTE video (slayt zoom) ÜRETİLMEZ.
+    #      reel_path None kalır → Instagram/TikTok'a normal görsel carousel gönderilir.
+    #      (Kullanıcı isteği: slaytı yakınlaştırıp "video" olarak gönderme!)
     if reel_path is None:
-        try:
-            # 9:16 slaytlar tercih edilir (4:5 kırpılıp bozulmasın diye); yoksa normal slaytlar
-            slides_for_reel = rendered.get("slides_9x16") or rendered.get("slides") or []
-            if slides_for_reel:
-                if music_info is None:
-                    from app.media.music import find_music as _find_music
-
-                    dest_music = post_dir / "video" / "music.mp3"
-                    music_info = _find_music(
-                        llm,
-                        selected.title if selected else "",
-                        entities,
-                        duration=15.0,
-                        dest=dest_music,
-                    )
-                    if music_info:
-                        _write_music_credit(post_dir, music_info)
-                reel_path = render_slideshow_reel(
-                    slides_for_reel,
-                    deck,
-                    post_dir,
-                    fonts_dir=fonts_dir,
-                    music_info=music_info,
-                )
-                if reel_path:
-                    log.info("Gerçek video yok; slaytlardan hareketli slideshow reel üretildi.")
-        except Exception as exc:
-            log.warning("Slideshow reel üretim adımı atlandı: %s", exc)
+        log.info(
+            "Bu haber için doğrulanmış gerçek video bulunamadı; "
+            "sahte slideshow video ÜRETİLMEDİ. Instagram/TikTok'a görsel carousel gönderilecek."
+        )
 
     # 12) QA (6 PNG Gemini ile kontrol — Playwright DOM taşma kontrolü zaten yapıldı)
     qa_ok, qa_issues = run_qa(llm, rendered["slides"])
@@ -365,7 +353,12 @@ def run(
         dry_run=dry_run,
     )
 
-    # 17) History güncelle + tekrar commit
+    # 17) History güncelle + HEMEN commit (paylaşım biter bitmez, daha öncesi değil).
+    #
+    # KRİTİK: history.json commit'i, bildirim/issue adımından ÖNCE yapılmalıdır.
+    # Bu sıra garanti edilmezse bildirim exception'ı workflow'u çökertir ve
+    # history push EDİLEMEZ → sonraki cron turu aynı slotu TEKRAR YAYINLAR
+    # (tüm platformlarda aynı post birden fazla gider).
     title_tr = deck.get("cover", {}).get("title", "")
     entry = HistoryEntry(
         id=f"{date_label}-{slot.replace(':', '')}",
@@ -386,31 +379,12 @@ def run(
     if not dry_run:
         history_store.append_entry(entry)
 
-    # 18) Başarısız platformlar için issue; başarılılar için açık issue kapat
-    failed = [s for s in statuses.values() if s.state == "failed"]
-    for st in failed:
-        open_issue(st.platform, date_label, st.last_error)
-    for st in statuses.values():
-        if st.state == "published":
-            close_resolved_issues(st.platform)
-
-    if not dry_run:
-        notify_post_published(
-            date_label=date_label,
-            slot=slot,
-            ptype=ptype,
-            title_tr=title_tr,
-            statuses=statuses,
-            image_urls=image_urls,
-            caption_preview=status_caption_map.get("instagram", ""),
-            source_urls=[selected.url] if selected else [],
-        )
-
     # 19) Gün özeti
     _update_daily_summary(date_label)
     summary_path = OUTPUT_DIR / date_label / "daily_summary.md"
 
-    # history + status + daily_summary commit
+    # history + status + daily_summary commit — EN KRİTİK ADIM, ilk sırada.
+    # Bu commit başarılıysa slot tamamlanmış sayılır ve tekrar yayınlanmaz.
     commit_and_push(
         f"🤖 status: {date_label} {slot}",
         [
@@ -420,6 +394,39 @@ def run(
             summary_path.relative_to(_repo_root()),
         ],
     )
+
+    # 18) Başarısız platformlar için issue; başarılılar için açık issue kapat.
+    # Bu adımlar ASLA workflow'u çökertmemeli (history zaten yukarıda push edildi).
+    failed = [s for s in statuses.values() if s.state == "failed"]
+    try:
+        for st in failed:
+            try:
+                open_issue(st.platform, date_label, st.last_error)
+            except Exception as exc:
+                log.warning("Issue açılamadı (%s): %s", st.platform, exc)
+        for st in statuses.values():
+            if st.state == "published":
+                try:
+                    close_resolved_issues(st.platform)
+                except Exception as exc:
+                    log.warning("Issue kapatılamadı (%s): %s", st.platform, exc)
+
+        if not dry_run:
+            try:
+                notify_post_published(
+                    date_label=date_label,
+                    slot=slot,
+                    ptype=ptype,
+                    title_tr=title_tr,
+                    statuses=statuses,
+                    image_urls=image_urls,
+                    caption_preview=status_caption_map.get("instagram", ""),
+                    source_urls=[selected.url] if selected else [],
+                )
+            except Exception as exc:
+                log.warning("Bildirim gönderilemedi: %s", exc)
+    except Exception as exc:
+        log.warning("Yayın sonrası bakım adımları atlandı: %s", exc)
 
     elapsed = time.time() - started
     log.info("Tamamlandı: %s %s (%.1fs, %d denenen aday)", date_label, slot, elapsed, tried)

@@ -32,6 +32,14 @@ class TransientError(RuntimeError):
     """Tekrar denenebilir hata."""
 
 
+class AmbiguousError(RuntimeError):
+    """İstek GÖNDERİLDİ ama sonuç BELLİ DEĞİL (timeout/connection reset).
+
+    Post sunucuda kaydedilmiş olabilir. Bu hata tekrar DENENMEZ;
+    durum "submitted" olarak bırakılır ve manuel kontrol gerekir.
+    """
+
+
 @dataclass
 class RetryResult:
     ok: bool
@@ -39,6 +47,7 @@ class RetryResult:
     error: str = ""
     attempts: int = 0
     permanent: bool = False
+    ambiguous: bool = False  # istek gönderildi, sonuç belli değil (tekrar denenmez)
 
 
 def classify_status(status: int) -> str:
@@ -70,7 +79,18 @@ def with_retry(
             return RetryResult(
                 ok=False, error=str(exc), attempts=attempt, permanent=True
             )
-        except (TransientError, TimeoutError, ConnectionError) as exc:
+        except AmbiguousError as exc:
+            # İstek gönderildi ama sonuç belli değil → ASLA tekrar gönderme.
+            log.error("%s belirsiz sonuç (deneme %d): %s — tekrar denenmiyor (çift paylaşım engeli)",
+                      label, attempt, exc)
+            return RetryResult(ok=False, error=str(exc), attempts=attempt, ambiguous=True)
+        except (TimeoutError, ConnectionError) as exc:
+            # Timeout/connection reset: istek sunucuya GİTMİŞ olabilir.
+            # Yeni istek göndermek çift paylaşım yapar → tekrar DENENMEZ.
+            log.error("%s ağ hatası (deneme %d): %s — istek gönderilmiş olabilir, tekrar denenmiyor",
+                      label, attempt, exc)
+            return RetryResult(ok=False, error=str(exc), attempts=attempt, ambiguous=True)
+        except TransientError as exc:
             last_error = str(exc)
             if attempt < max_attempts:
                 wait = BACKOFF_SECONDS[min(attempt - 1, len(BACKOFF_SECONDS) - 1)]
@@ -79,15 +99,11 @@ def with_retry(
                     label, attempt, max_attempts, exc, wait,
                 )
                 sleep_fn(wait)
-        except Exception as exc:  # bilinmeyen hata: güvenli taraf transient
+        except Exception as exc:  # bilinmeyen hata: güvenli taraf ambiguous
             last_error = str(exc)
-            if attempt < max_attempts:
-                wait = BACKOFF_SECONDS[min(attempt - 1, len(BACKOFF_SECONDS) - 1)]
-                log.warning(
-                    "%s hata (deneme %d/%d): %s — %ds bekleniyor",
-                    label, attempt, max_attempts, exc, wait,
-                )
-                sleep_fn(wait)
+            log.error("%s bilinmeyen hata (deneme %d): %s — tekrar denenmiyor (çift paylaşım engeli)",
+                      label, attempt, exc)
+            return RetryResult(ok=False, error=str(exc), attempts=attempt, ambiguous=True)
     return RetryResult(ok=False, error=last_error, attempts=attempt)
 
 

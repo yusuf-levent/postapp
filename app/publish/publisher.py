@@ -13,7 +13,7 @@ from pathlib import Path
 from app.config import platforms_config, settings
 from app.models import PlatformStatus
 from app.publish.buffer_client import BufferClient, client_for_account
-from app.publish.retry import PermanentError, TransientError, with_retry
+from app.publish.retry import AmbiguousError, PermanentError, TransientError, with_retry
 from app.publish.threads_client import ThreadsClient, maybe_refresh_token
 
 log = logging.getLogger("tekno-pusula.publisher")
@@ -122,6 +122,16 @@ def publish_platform(
         st.permalink = str(value.get("permalink") or value.get("externalLink") or "")
         st.state = "published"
         st.last_error = ""
+    elif result.ambiguous:
+        # İstek gönderildi ama sonuç doğrulanamadı (timeout vb.).
+        # Post PAYLAŞILMIŞ OLABİLİR → `submitted` olarak bırakılır.
+        # Kurtarma turu bu durumu TEKRAR DENEMEZ (çift paylaşım engeli).
+        st.state = "submitted"
+        st.last_error = f"belirsiz sonuç (post gönderilmiş olabilir): {result.error}"
+        log.error(
+            "%s paylaşımının sonucu doğrulanamadı: %s — TEKRAR GÖNDERİLMEDİ (çift paylaşım engeli). "
+            "Manuel kontrol gerekli.", platform, result.error,
+        )
     else:
         st.state = "failed"
         st.last_error = result.error

@@ -111,9 +111,13 @@ def score_candidates(
             * _source_count(cand, idx)
             * cross_bonus
         )
-    candidates.sort(key=lambda c: (c.published or datetime.min, c.score), reverse=True)
-    # Aynı gün içinde yüksek puanlı önce: tarih sonra puan
-    candidates.sort(key=lambda c: (c.score, c.published or datetime.min), reverse=True)
+    candidates.sort(
+        key=lambda c: (
+            c.published or datetime.min,  # tarih önceliği: bugün → dün → ...
+            c.score,
+        ),
+        reverse=True,
+    )
     return candidates
 
 

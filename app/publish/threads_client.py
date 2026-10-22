@@ -17,7 +17,7 @@ from pathlib import Path
 import requests
 
 from app.config import settings
-from app.publish.retry import PermanentError, TransientError, raise_for_status
+from app.publish.retry import AmbiguousError, PermanentError, TransientError, raise_for_status
 
 log = logging.getLogger("tekno-pusula.threads")
 
@@ -195,7 +195,11 @@ class ThreadsClient:
         )
         media_id = data.get("id", "")
         if not media_id:
-            raise TransientError(f"Threads publish media ID yok: {data}")
+            # Publish isteği GÖNDERİLDİ ama media ID gelmedi.
+            # Yeniden denemek = aynı carousel'in tekrar paylaşılması (çift gönderim).
+            raise AmbiguousError(
+                f"Threads publish media ID yok (istek gönderildi, tekrar denenmiyor): {data}"
+            )
         permalink = self.get_permalink(media_id)
         log.info("Threads paylaşıldı: %s → %s", media_id, permalink)
         return {"id": media_id, "permalink": permalink}
