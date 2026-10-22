@@ -1656,5 +1656,77 @@
     ],
     "created_at": "2026-10-22T11:45:26+03:00",
     "verified_claims_count": 7
+  },
+  {
+    "id": "2026-10-22-1500",
+    "date": "2026-10-22",
+    "slot": "15:00",
+    "type": "news",
+    "title_tr": "Yeni iPhone Duo Karşınızda",
+    "original_title": "Apple iPhone Duo review: A first-class foldable",
+    "source_urls": [
+      "https://www.engadget.com/2292333/apple-iphone-duo-review/"
+    ],
+    "canonical_url": "https://engadget.com/2292333/apple-iphone-duo-review",
+    "entities": [
+      "Apple",
+      "iPhone Duo",
+      "John Ternus",
+      "iPhone X"
+    ],
+    "event_type": "product_launch",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ad9fa8abcda36d1d419aeee",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ad9faa0e0831046db0f36b8",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ad9fab7e0831046db0f3e13",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2113238909735805400",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "17864198520694273",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/Dey7t0QkW9Y",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ad9fae4e0831046db0f6cd0",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ad9fafcebec8224f3beb483",
+        "permalink": "https://facebook.com/1351036918092059_122117549709484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-22T15:01:20+03:00",
+    "verified_claims_count": 6
   }
 ]

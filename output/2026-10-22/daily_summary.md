@@ -2,3 +2,4 @@
 
 - ✅ `09:00` [news] Shopify ve Diğerlerinden Yapay Zeka Başarıları — 6/6 platform
 - ✅ `12:00` [news] Tesla Robotaksi Ağı İçin Tarih Verdi — 6/6 platform
+- ✅ `15:00` [news] Yeni iPhone Duo Karşınızda — 6/6 platform
