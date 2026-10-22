@@ -1,0 +1,235 @@
+{
+  "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+  "canonical_url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+  "source_names": [
+    "The Verge",
+    "Ars Technica",
+    "BBC News – Technology",
+    "Engadget"
+  ],
+  "checked_at": "2026-10-22T21:18:13+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Meta, geçen ay genel kullanıma sunduğu kişisel yapay zeka ajanı Muse uygulamasının ABD ve Kanada'da 10 milyondan fazla kullanıcı tarafından indirildiğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+          "quote": "To date, the app has been downloaded and set up by more than 10 million users in the US and Canada, making it one of Meta’s “most successful launches ever,” according to Zuckerberg."
+        }
+      ]
+    },
+    {
+      "claim": "Muse uygulamasını indiren kullanıcıların dörtte biri uygulamayı günlük olarak kullanıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+          "quote": "He did not share specific retention numbers, but said that a quarter of people who downloaded Muse initially are using it daily."
+        }
+      ]
+    },
+    {
+      "claim": "Muse kullanıcılarının dörtte biri platform üzerinden alışveriş yapıyor ve her alışverişte ortalama 200 dolardan fazla harcama yapıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+          "quote": "A quarter of Muse users are shopping through the platform, Zuckerberg said, and are spending on average more than $200 per purchase."
+        }
+      ]
+    },
+    {
+      "claim": "Meta, 2026 yılında 135 milyar dolar ile 145 milyar dolar arasında harcama yapmayı planlıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+          "quote": "It plans to spend between $135 billion and $145 billion in 2026, double what it spent last year."
+        }
+      ]
+    },
+    {
+      "claim": "Bir jürinin Meta'nın eyaletin tüketiciyi koruma yasalarını ihlal ettiğine karar vermesinin ardından şirket New Mexico'ya 25 milyar dolar borçludur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+          "quote": "As of yesterday, it owes New Mexico $25 billion after a jury found it had violated the state’s consumer protection laws."
+        }
+      ]
+    },
+    {
+      "claim": "Meta CFO'su Susan Li, üçüncü çeyrek kazanç toplantısında herkesin uyum sağlamak zorunda kalacağını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+          "quote": "“... everyone is just going to have to adapt,” Meta’s chief financial officer Susan Li said during the third-quarter earnings call."
+        }
+      ]
+    },
+    {
+      "claim": "Mark Zuckerberg, hesaplama verimliliği nedeniyle Muse uygulamasının henüz uluslararası alanda piyasaya sürülmediğini belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+          "quote": "Zuckerberg stated clearly on the call that the reason it hasn’t launched Muse internationally is because of compute efficiency."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Meta, geçen ay genel kullanıma sunduğu kişisel yapay zeka ajanı Muse uygulamasının ABD ve Kanada'da 10 milyondan fazla kullanıcı tarafından indirildiğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+          "quote": "To date, the app has been downloaded and set up by more than 10 million users in the US and Canada, making it one of Meta’s “most successful launches ever,” according to Zuckerberg."
+        }
+      ]
+    },
+    {
+      "claim": "Muse uygulamasını indiren kullanıcıların dörtte biri uygulamayı günlük olarak kullanıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+          "quote": "He did not share specific retention numbers, but said that a quarter of people who downloaded Muse initially are using it daily."
+        }
+      ]
+    },
+    {
+      "claim": "Muse kullanıcılarının dörtte biri platform üzerinden alışveriş yapıyor ve her alışverişte ortalama 200 dolardan fazla harcama yapıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+          "quote": "A quarter of Muse users are shopping through the platform, Zuckerberg said, and are spending on average more than $200 per purchase."
+        }
+      ]
+    },
+    {
+      "claim": "Meta, 2026 yılında 135 milyar dolar ile 145 milyar dolar arasında harcama yapmayı planlıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+          "quote": "It plans to spend between $135 billion and $145 billion in 2026, double what it spent last year."
+        }
+      ]
+    },
+    {
+      "claim": "Bir jürinin Meta'nın eyaletin tüketiciyi koruma yasalarını ihlal ettiğine karar vermesinin ardından şirket New Mexico'ya 25 milyar dolar borçludur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+          "quote": "As of yesterday, it owes New Mexico $25 billion after a jury found it had violated the state’s consumer protection laws."
+        }
+      ]
+    },
+    {
+      "claim": "Meta CFO'su Susan Li, üçüncü çeyrek kazanç toplantısında herkesin uyum sağlamak zorunda kalacağını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+          "quote": "“... everyone is just going to have to adapt,” Meta’s chief financial officer Susan Li said during the third-quarter earnings call."
+        }
+      ]
+    },
+    {
+      "claim": "Mark Zuckerberg, hesaplama verimliliği nedeniyle Muse uygulamasının henüz uluslararası alanda piyasaya sürülmediğini belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+          "quote": "Zuckerberg stated clearly on the call that the reason it hasn’t launched Muse internationally is because of compute efficiency."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Meta, geçen ay genel kullanıma sunduğu kişisel yapay zeka ajanı Muse uygulamasının ABD ve Kanada'da 10 milyondan fazla kullanıcı tarafından indirildiğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+          "quote": "To date, the app has been downloaded and set up by more than 10 million users in the US and Canada, making it one of Meta’s “most successful launches ever,” according to Zuckerberg."
+        }
+      ]
+    },
+    {
+      "claim": "Muse uygulamasını indiren kullanıcıların dörtte biri uygulamayı günlük olarak kullanıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+          "quote": "He did not share specific retention numbers, but said that a quarter of people who downloaded Muse initially are using it daily."
+        }
+      ]
+    },
+    {
+      "claim": "Muse kullanıcılarının dörtte biri platform üzerinden alışveriş yapıyor ve her alışverişte ortalama 200 dolardan fazla harcama yapıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+          "quote": "A quarter of Muse users are shopping through the platform, Zuckerberg said, and are spending on average more than $200 per purchase."
+        }
+      ]
+    },
+    {
+      "claim": "Meta, 2026 yılında 135 milyar dolar ile 145 milyar dolar arasında harcama yapmayı planlıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+          "quote": "It plans to spend between $135 billion and $145 billion in 2026, double what it spent last year."
+        }
+      ]
+    },
+    {
+      "claim": "Bir jürinin Meta'nın eyaletin tüketiciyi koruma yasalarını ihlal ettiğine karar vermesinin ardından şirket New Mexico'ya 25 milyar dolar borçludur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+          "quote": "As of yesterday, it owes New Mexico $25 billion after a jury found it had violated the state’s consumer protection laws."
+        }
+      ]
+    },
+    {
+      "claim": "Meta CFO'su Susan Li, üçüncü çeyrek kazanç toplantısında herkesin uyum sağlamak zorunda kalacağını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+          "quote": "“... everyone is just going to have to adapt,” Meta’s chief financial officer Susan Li said during the third-quarter earnings call."
+        }
+      ]
+    },
+    {
+      "claim": "Mark Zuckerberg, hesaplama verimliliği nedeniyle Muse uygulamasının henüz uluslararası alanda piyasaya sürülmediğini belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+          "quote": "Zuckerberg stated clearly on the call that the reason it hasn’t launched Muse internationally is because of compute efficiency."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network": 7276,
+    "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/": 7954,
+    "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss": 2201,
+    "https://www.engadget.com/2293844/1password-opens-up-ai-agents-muse-dots-grok/": 2798
+  }
+}

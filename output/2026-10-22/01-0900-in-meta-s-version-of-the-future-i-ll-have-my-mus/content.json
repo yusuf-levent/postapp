@@ -1,0 +1,68 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA",
+    "title": "Meta'nın Muse Uygulaması Ne Durumda?",
+    "highlight_words": [
+      "Muse"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Kişisel yapay zeka ajanı Muse hakkında merak edilenler.",
+    "source_tags": [
+      "THE VERGE",
+      "ARS TECHNICA"
+    ]
+  },
+  "context": {
+    "heading": "Muse Uygulaması Yayında",
+    "cards": [
+      {
+        "card_title": "10 Milyondan Fazla İndirme",
+        "card_body": "Meta, geçen ay genel kullanıma sunduğu kişisel yapay zeka ajanı Muse uygulamasının ABD ve Kanada'da 10 milyondan fazla kullanıcı tarafından indirildiğini açıkladı."
+      },
+      {
+        "card_title": "Uluslararası Pazar Planı",
+        "card_body": "Mark Zuckerberg, hesaplama verimliliği nedeniyle Muse uygulamasının henüz uluslararası alanda piyasaya sürülmediğini belirtti."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "200 $",
+    "stat_caption": "Ortalama Alışveriş Harcaması",
+    "stat_quote": "Muse kullanıcılarının dörtte biri platform üzerinden alışveriş yapıyor ve her alışverişte ortalama 200 dolardan fazla harcama yapıyor."
+  },
+  "details": {
+    "heading": "Kullanım Alışkanlıkları",
+    "cards": [
+      {
+        "card_title": "Günlük Kullanım Oranı",
+        "card_body": "Muse uygulamasını indiren kullanıcıların dörtte biri uygulamayı günlük olarak aktif şekilde kullanıyor."
+      },
+      {
+        "card_title": "Gelecek Yatırımları",
+        "card_body": "Meta, 2026 yılında 135 milyar dolar ile 145 milyar dolar arasında harcama yapmayı planlıyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Şirket ve Sektör Etkisi",
+    "cards": [
+      {
+        "card_title": "Yasal Gelişmeler",
+        "card_body": "Bir jürinin Meta'nın eyaletin tüketiciyi koruma yasalarını ihlal ettiğine karar vermesinin ardından şirket New Mexico'ya 25 milyar dolar borçludur."
+      },
+      {
+        "card_title": "Uyum Süreci",
+        "card_body": "Meta CFO'su Susan Li, üçüncü çeyrek kazanç toplantısında herkesin bu süreçlere uyum sağlamak zorunda kalacağını belirtti."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce Muse uygulaması uluslararası pazara çıktığında benzer bir başarı yakalayabilecek mi?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
