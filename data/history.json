@@ -1583,5 +1583,78 @@
     ],
     "created_at": "2026-10-22T08:44:53+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-10-22-1200",
+    "date": "2026-10-22",
+    "slot": "12:00",
+    "type": "news",
+    "title_tr": "Tesla Robotaksi Ağı İçin Tarih Verdi",
+    "original_title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+    "source_urls": [
+      "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings"
+    ],
+    "canonical_url": "https://theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+    "entities": [
+      "Tesla",
+      "Elon Musk",
+      "Ashok Elluswamy",
+      "Cybercab",
+      "Model Y"
+    ],
+    "event_type": "product_announcement",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ad9cca479fee8e44410be2d",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ad9ccbb31bddaf9c5cf17b8",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ad9ccd20313eb7e3b7d6bd6",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2113189629981593713",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18113952793864540",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DeylTR8Eagt",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ad9ccfbaefa17e341f92506",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ad9cd12e6aee73a2b143f46",
+        "permalink": "https://facebook.com/1351036918092059_122117510709484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-22T11:45:26+03:00",
+    "verified_claims_count": 7
   }
 ]
