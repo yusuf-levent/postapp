@@ -1,0 +1,289 @@
+{
+  "title": "Investors break down how founders can raise a Series A today",
+  "canonical_url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+  "source_names": [
+    "TechCrunch",
+    "Wired",
+    "Ars Technica",
+    "OpenAI News"
+  ],
+  "checked_at": "2026-10-22T18:19:02+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "TechCrunch Disrupt etkinliğinde üç yatırımcı, Seri A yatırım turları hakkında tavsiyelerde bulundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "At this year’s TechCrunch Disrupt, three investors offered founders advice on raising one, and one of them tacked on a warning."
+        }
+      ]
+    },
+    {
+      "claim": "Peak XV yöneticisi Shailendra Singh, piyasadaki şişirilmiş değerlemeler nedeniyle 2027 yılında bir düzeltme yaşanabileceğini öngördü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "With money pouring into AI and revenue numbers being inflated to justify sky-high valuations, a correction could come as soon as 2027. The warning came from Shailendra Singh, a managing director at Peak XV"
+        }
+      ]
+    },
+    {
+      "claim": "Shailendra Singh, Peak XV'de yönetici direktör olarak görev yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "The warning came from Shailendra Singh, a managing director at Peak XV"
+        }
+      ]
+    },
+    {
+      "claim": "Jahanvi Sardana, Index Ventures'ta ortaktır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "who spoke alongside Jahanvi Sardana, a partner at Index Ventures"
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "...alongside Jahanvi Sardana, a partner at Index Ventures..."
+        }
+      ]
+    },
+    {
+      "claim": "Jenelle Teng Wade, Bessemer'da ortaktır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "and Jenelle Teng Wade, a partner at Bessemer."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "...alongside Jahanvi Sardana, a partner at Index Ventures, and Jenelle Teng Wade, a partner at Bessemer."
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic'in yaklaşık 2 trilyon dolar değerleme ile halka arz (IPO) hazırlığında olduğu bildirilmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "Anthropic is now reportedly preparing an IPO at a valuation of around $2 trillion."
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic, bu ay yatırımcılarına düzeltilmiş bazda kârlı olduğunu bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "It told investors this month it was profitable on an adjusted basis, though that measure excludes some costs."
+        }
+      ]
+    },
+    {
+      "claim": "Shailendra Singh, kümülatif gelir veya kümülatif yıllık tekrarlayan gelir (ARR) gösteren grafiklerin bir uyarı işareti olduğunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "“I tell founders, If you ever show a chart which shows cumulative revenue or cumulative ARR, that is a massive red flag,” Singh said."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "TechCrunch Disrupt etkinliğinde üç yatırımcı, Seri A yatırım turları hakkında tavsiyelerde bulundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "At this year’s TechCrunch Disrupt, three investors offered founders advice on raising one, and one of them tacked on a warning."
+        }
+      ]
+    },
+    {
+      "claim": "Peak XV yöneticisi Shailendra Singh, piyasadaki şişirilmiş değerlemeler nedeniyle 2027 yılında bir düzeltme yaşanabileceğini öngördü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "With money pouring into AI and revenue numbers being inflated to justify sky-high valuations, a correction could come as soon as 2027. The warning came from Shailendra Singh, a managing director at Peak XV"
+        }
+      ]
+    },
+    {
+      "claim": "Shailendra Singh, Peak XV'de yönetici direktör olarak görev yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "The warning came from Shailendra Singh, a managing director at Peak XV"
+        }
+      ]
+    },
+    {
+      "claim": "Jahanvi Sardana, Index Ventures'ta ortaktır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "who spoke alongside Jahanvi Sardana, a partner at Index Ventures"
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "...alongside Jahanvi Sardana, a partner at Index Ventures..."
+        }
+      ]
+    },
+    {
+      "claim": "Jenelle Teng Wade, Bessemer'da ortaktır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "and Jenelle Teng Wade, a partner at Bessemer."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "...alongside Jahanvi Sardana, a partner at Index Ventures, and Jenelle Teng Wade, a partner at Bessemer."
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic'in yaklaşık 2 trilyon dolar değerleme ile halka arz (IPO) hazırlığında olduğu bildirilmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "Anthropic is now reportedly preparing an IPO at a valuation of around $2 trillion."
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic, bu ay yatırımcılarına düzeltilmiş bazda kârlı olduğunu bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "It told investors this month it was profitable on an adjusted basis, though that measure excludes some costs."
+        }
+      ]
+    },
+    {
+      "claim": "Shailendra Singh, kümülatif gelir veya kümülatif yıllık tekrarlayan gelir (ARR) gösteren grafiklerin bir uyarı işareti olduğunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "“I tell founders, If you ever show a chart which shows cumulative revenue or cumulative ARR, that is a massive red flag,” Singh said."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "TechCrunch Disrupt etkinliğinde üç yatırımcı, Seri A yatırım turları hakkında tavsiyelerde bulundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "At this year’s TechCrunch Disrupt, three investors offered founders advice on raising one, and one of them tacked on a warning."
+        }
+      ]
+    },
+    {
+      "claim": "Peak XV yöneticisi Shailendra Singh, piyasadaki şişirilmiş değerlemeler nedeniyle 2027 yılında bir düzeltme yaşanabileceğini öngördü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "With money pouring into AI and revenue numbers being inflated to justify sky-high valuations, a correction could come as soon as 2027. The warning came from Shailendra Singh, a managing director at Peak XV"
+        }
+      ]
+    },
+    {
+      "claim": "Shailendra Singh, Peak XV'de yönetici direktör olarak görev yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "The warning came from Shailendra Singh, a managing director at Peak XV"
+        }
+      ]
+    },
+    {
+      "claim": "Jahanvi Sardana, Index Ventures'ta ortaktır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "who spoke alongside Jahanvi Sardana, a partner at Index Ventures"
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "...alongside Jahanvi Sardana, a partner at Index Ventures..."
+        }
+      ]
+    },
+    {
+      "claim": "Jenelle Teng Wade, Bessemer'da ortaktır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "and Jenelle Teng Wade, a partner at Bessemer."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "...alongside Jahanvi Sardana, a partner at Index Ventures, and Jenelle Teng Wade, a partner at Bessemer."
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic'in yaklaşık 2 trilyon dolar değerleme ile halka arz (IPO) hazırlığında olduğu bildirilmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "Anthropic is now reportedly preparing an IPO at a valuation of around $2 trillion."
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic, bu ay yatırımcılarına düzeltilmiş bazda kârlı olduğunu bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "It told investors this month it was profitable on an adjusted basis, though that measure excludes some costs."
+        }
+      ]
+    },
+    {
+      "claim": "Shailendra Singh, kümülatif gelir veya kümülatif yıllık tekrarlayan gelir (ARR) gösteren grafiklerin bir uyarı işareti olduğunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "quote": "“I tell founders, If you ever show a chart which shows cumulative revenue or cumulative ARR, that is a massive red flag,” Singh said."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/": 4532,
+    "https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization/": 3257,
+    "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/": 1820,
+    "https://openai.com/index/itau-generative-ai": 8691
+  }
+}

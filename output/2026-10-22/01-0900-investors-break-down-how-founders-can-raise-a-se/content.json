@@ -1,0 +1,72 @@
+{
+  "cover": {
+    "category_label": "YATIRIM VE GİRİŞİMCİLİK",
+    "title": "Seri A Turları ve Piyasalar",
+    "highlight_words": [
+      "Seri A"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "TechCrunch Disrupt etkinliğinde yatırımcılar turlar hakkında konuştu.",
+    "source_tags": [
+      "TECHCRUNCH",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Etkinlik Notları",
+    "cards": [
+      {
+        "card_title": "Seri A Tavsiyeleri",
+        "card_body": "TechCrunch Disrupt etkinliğinde üç yatırımcı, Seri A yatırım turları hakkında önemli tavsiyelerde bulundu."
+      },
+      {
+        "card_title": "Uzman İsimler",
+        "card_body": "Peak XV yöneticisi Shailendra Singh, Index Ventures ortağı Jahanvi Sardana ve Bessemer ortağı Jenelle Teng Wade katıldı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "2027",
+    "stat_caption": "Piyasada düzeltme öngörüsü",
+    "stat_quote": "Peak XV yöneticisi Shailendra Singh, şişirilmiş değerlemeler nedeniyle 2027 yılında bir düzeltme yaşanabileceğini öngördü."
+  },
+  "details": {
+    "heading": "Yatırımcı Görüşleri",
+    "cards": [
+      {
+        "card_title": "Peak XV",
+        "card_body": "Shailendra Singh, Peak XV'de yönetici direktör olarak görev yapmaktadır."
+      },
+      {
+        "card_title": "Index Ventures ve Bessemer",
+        "card_body": "Jahanvi Sardana Index Ventures'ta, Jenelle Teng Wade ise Bessemer'da ortak olarak görev yapmaktadır."
+      },
+      {
+        "card_title": "Uyarı İşaretleri",
+        "card_body": "Shailendra Singh, kümülatif gelir veya ARR gösteren grafiklerin bir uyarı işareti olduğunu belirtti."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektör Gelişmeleri",
+    "cards": [
+      {
+        "card_title": "Anthropic Durumu",
+        "card_body": "Anthropic, bu ay yatırımcılarına düzeltilmiş bazda kârlı olduğunu bildirdi."
+      },
+      {
+        "card_title": "Halka Arz Planı",
+        "card_body": "Anthropic'in yaklaşık 2 trilyon dolar değerleme ile halka arz hazırlığında olduğu bildirilmektedir."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce 2027 yılındaki olası piyasa düzeltmesi girişim ekosistemini nasıl etkileyecek?",
+    "reminder_line": "Tekno Pusula ile güncel teknolojileri takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

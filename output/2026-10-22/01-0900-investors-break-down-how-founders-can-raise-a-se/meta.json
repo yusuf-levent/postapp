@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 256.4,
+  "candidates_tried": 1,
+  "gemini_calls": 20,
+  "canonical_url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+  "generated_at": "2026-10-22T18:21:15+03:00"
+}
