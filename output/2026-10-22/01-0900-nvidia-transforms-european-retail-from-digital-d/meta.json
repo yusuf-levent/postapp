@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 80.7,
+  "candidates_tried": 1,
+  "gemini_calls": 13,
+  "canonical_url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+  "generated_at": "2026-10-22T08:42:43+03:00"
+}

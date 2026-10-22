@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE TEKNOLOJI",
+    "title": "Shopify ve Diğerlerinden Yapay Zeka Başarıları",
+    "highlight_words": [
+      "Shopify",
+      "Başarıları"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Küresel markaların yapay zeka entegrasyonlarıyla elde ettiği çarpıcı sonuçlar.",
+    "source_tags": [
+      "NVIDIA NEWSROOM",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Yapay Zeka Entegrasyonları",
+    "cards": [
+      {
+        "card_title": "Shopify ve Sidekick",
+        "card_body": "Shopify, Sidekick içindeki GraphQL alt asistanı için NVIDIA Nemotron 3.5 Lightning modelini eğitti."
+      },
+      {
+        "card_title": "Zooplus ve AWS",
+        "card_body": "Zooplus, Amazon Web Services ortamında NVIDIA Nemotron Retriever ile arama doğruluğuna ulaştı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "%90",
+    "stat_caption": "Sunum maliyetlerinde elde edilen düşüş oranı.",
+    "stat_quote": "Shopify, NVIDIA Nemotron 3.5 Lightning ile sunum maliyetlerini yüzde 90 oranında azalttı ve yanıtları 7 kat daha hızlı hale getirdi."
+  },
+  "details": {
+    "heading": "Öne Çıkan Gelişmeler",
+    "cards": [
+      {
+        "card_title": "Photoroom ve Vestiaire Collective",
+        "card_body": "Photoroom, Image Editing API ile 70 ülkede günde yaklaşık 40.000 görseli standardize ediyor."
+      },
+      {
+        "card_title": "Omi ve TRELLIS",
+        "card_body": "Omi, TRELLIS 3D varlık üretimini NVIDIA RTX PRO 6000 Blackwell Server Edition GPU'larında çalıştırıyor."
+      },
+      {
+        "card_title": "Mirakl ve CATCHES",
+        "card_body": "Mirakl'ın Catalog Transformer ürünü 70 milyondan fazla ürünü sisteme dahil etti."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etkiler",
+    "cards": [
+      {
+        "card_title": "Likidite ve Satış Artışı",
+        "card_body": "Photoroom ile işlenen listelemeler yüzde 5 daha yüksek likidite oranıyla satıldı."
+      },
+      {
+        "card_title": "CATCHES ve AMIRI",
+        "card_body": "RealFit entegrasyonu dönüşümlerde yüzde 55, sepete eklemede yüzde 80 artış sağladı."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce bu yapay zeka modelleri e-ticaret süreçlerini nasıl dönüştürecek?",
+    "reminder_line": "Tekno Pusula ile en güncel teknoloji gelişmelerini takip edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

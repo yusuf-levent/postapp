@@ -1,0 +1,289 @@
+{
+  "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+  "canonical_url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+  "source_names": [
+    "NVIDIA Newsroom",
+    "NVIDIA Newsroom",
+    "Wired",
+    "Hugging Face Blog"
+  ],
+  "checked_at": "2026-10-22T08:41:51+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Shopify post-trained NVIDIA Nemotron 3.5 Lightning for the GraphQL subagent integrated into Sidekick, cutting serving costs by 90% and delivering responses 7x faster.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "Shopify has post-trained NVIDIA Nemotron 3.5 Lightning for the GraphQL subagent integrated into Sidekick, Shopify’s AI assistant for merchants."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "On Shopify’s internal benchmark, the post-trained model surpasses a leading frontier model in accuracy while cutting serving costs by 90% and delivering responses 7x faster."
+        }
+      ]
+    },
+    {
+      "claim": "Zooplus deployed a production ready prototype inside its Amazon Web Services environment that achieved 86% search accuracy using NVIDIA Nemotron Retriever.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "A production ready prototype deployed inside Zooplus’ Amazon Web Services (AWS) environment achieved 86% search accuracy using the NVIDIA Nemotron Retriever library for semantic search"
+        }
+      ]
+    },
+    {
+      "claim": "Photoroom standardizes about 40,000 images a day across 70 countries for Vestiaire Collective through its Image Editing API.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "Photoroom results from its deployment with Vestiaire Collective, where its Image Editing API now standardizes every primary image, about 40,000 a day across 70 countries, at the point of listing."
+        }
+      ]
+    },
+    {
+      "claim": "Listings processed by Photoroom sold at a 5% higher rate of liquidity, with 3% to 7% more unique views per product page.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "Listings processed by Photoroom sold at a 5% higher rate of liquidity, with 3% to 7% more unique views per product page."
+        }
+      ]
+    },
+    {
+      "claim": "Omi runs TRELLIS 3D asset generation on NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs, speeding up inference by 10x and reducing pipeline latency by 4x.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "Omi runs TRELLIS 3D asset generation on NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs, speeding up inference by 10x and reducing pipeline latency by 4x."
+        }
+      ]
+    },
+    {
+      "claim": "Mirakl’s Catalog Transformer has onboarded more than 70 million products.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "Mirakl’s Catalog Transformer pairs fine-tuned open models with proprietary services and has onboarded more than 70 million products, turning messy vendor data into accurate, well-organized catalogs."
+        }
+      ]
+    },
+    {
+      "claim": "CATCHES achieved production results from its RealFit deployment with AMIRI showing conversion up 55%, add-to-cart up 80% and gross sales up 56%.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "CATCHES achieved production results from its RealFit deployment with AMIRI of conversion up 55%, add-to-cart up 80% and gross sales up 56%, all after seasonal adjustment against like-for-like styles."
+        }
+      ]
+    },
+    {
+      "claim": "OrbMol-v2 is five times faster than comparable models and delivers 21% lower error than the next-best model of its kind.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "OrbMol-v2 is five times faster than comparable models and delivers 21% lower error than the next-best model of its kind."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "Integrated with the NVIDIA ALCHEMI Toolkit and powered by NVIDIA accelerated computing, OrbMol-v2 is five times faster than comparable models and delivers 21% lower error than the next-best model of its kind."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Shopify post-trained NVIDIA Nemotron 3.5 Lightning for the GraphQL subagent integrated into Sidekick, cutting serving costs by 90% and delivering responses 7x faster.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "Shopify has post-trained NVIDIA Nemotron 3.5 Lightning for the GraphQL subagent integrated into Sidekick, Shopify’s AI assistant for merchants."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "On Shopify’s internal benchmark, the post-trained model surpasses a leading frontier model in accuracy while cutting serving costs by 90% and delivering responses 7x faster."
+        }
+      ]
+    },
+    {
+      "claim": "Zooplus deployed a production ready prototype inside its Amazon Web Services environment that achieved 86% search accuracy using NVIDIA Nemotron Retriever.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "A production ready prototype deployed inside Zooplus’ Amazon Web Services (AWS) environment achieved 86% search accuracy using the NVIDIA Nemotron Retriever library for semantic search"
+        }
+      ]
+    },
+    {
+      "claim": "Photoroom standardizes about 40,000 images a day across 70 countries for Vestiaire Collective through its Image Editing API.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "Photoroom results from its deployment with Vestiaire Collective, where its Image Editing API now standardizes every primary image, about 40,000 a day across 70 countries, at the point of listing."
+        }
+      ]
+    },
+    {
+      "claim": "Listings processed by Photoroom sold at a 5% higher rate of liquidity, with 3% to 7% more unique views per product page.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "Listings processed by Photoroom sold at a 5% higher rate of liquidity, with 3% to 7% more unique views per product page."
+        }
+      ]
+    },
+    {
+      "claim": "Omi runs TRELLIS 3D asset generation on NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs, speeding up inference by 10x and reducing pipeline latency by 4x.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "Omi runs TRELLIS 3D asset generation on NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs, speeding up inference by 10x and reducing pipeline latency by 4x."
+        }
+      ]
+    },
+    {
+      "claim": "Mirakl’s Catalog Transformer has onboarded more than 70 million products.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "Mirakl’s Catalog Transformer pairs fine-tuned open models with proprietary services and has onboarded more than 70 million products, turning messy vendor data into accurate, well-organized catalogs."
+        }
+      ]
+    },
+    {
+      "claim": "CATCHES achieved production results from its RealFit deployment with AMIRI showing conversion up 55%, add-to-cart up 80% and gross sales up 56%.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "CATCHES achieved production results from its RealFit deployment with AMIRI of conversion up 55%, add-to-cart up 80% and gross sales up 56%, all after seasonal adjustment against like-for-like styles."
+        }
+      ]
+    },
+    {
+      "claim": "OrbMol-v2 is five times faster than comparable models and delivers 21% lower error than the next-best model of its kind.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "OrbMol-v2 is five times faster than comparable models and delivers 21% lower error than the next-best model of its kind."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "Integrated with the NVIDIA ALCHEMI Toolkit and powered by NVIDIA accelerated computing, OrbMol-v2 is five times faster than comparable models and delivers 21% lower error than the next-best model of its kind."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Shopify post-trained NVIDIA Nemotron 3.5 Lightning for the GraphQL subagent integrated into Sidekick, cutting serving costs by 90% and delivering responses 7x faster.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "Shopify has post-trained NVIDIA Nemotron 3.5 Lightning for the GraphQL subagent integrated into Sidekick, Shopify’s AI assistant for merchants."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "On Shopify’s internal benchmark, the post-trained model surpasses a leading frontier model in accuracy while cutting serving costs by 90% and delivering responses 7x faster."
+        }
+      ]
+    },
+    {
+      "claim": "Zooplus deployed a production ready prototype inside its Amazon Web Services environment that achieved 86% search accuracy using NVIDIA Nemotron Retriever.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "A production ready prototype deployed inside Zooplus’ Amazon Web Services (AWS) environment achieved 86% search accuracy using the NVIDIA Nemotron Retriever library for semantic search"
+        }
+      ]
+    },
+    {
+      "claim": "Photoroom standardizes about 40,000 images a day across 70 countries for Vestiaire Collective through its Image Editing API.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "Photoroom results from its deployment with Vestiaire Collective, where its Image Editing API now standardizes every primary image, about 40,000 a day across 70 countries, at the point of listing."
+        }
+      ]
+    },
+    {
+      "claim": "Listings processed by Photoroom sold at a 5% higher rate of liquidity, with 3% to 7% more unique views per product page.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "Listings processed by Photoroom sold at a 5% higher rate of liquidity, with 3% to 7% more unique views per product page."
+        }
+      ]
+    },
+    {
+      "claim": "Omi runs TRELLIS 3D asset generation on NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs, speeding up inference by 10x and reducing pipeline latency by 4x.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "Omi runs TRELLIS 3D asset generation on NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs, speeding up inference by 10x and reducing pipeline latency by 4x."
+        }
+      ]
+    },
+    {
+      "claim": "Mirakl’s Catalog Transformer has onboarded more than 70 million products.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "Mirakl’s Catalog Transformer pairs fine-tuned open models with proprietary services and has onboarded more than 70 million products, turning messy vendor data into accurate, well-organized catalogs."
+        }
+      ]
+    },
+    {
+      "claim": "CATCHES achieved production results from its RealFit deployment with AMIRI showing conversion up 55%, add-to-cart up 80% and gross sales up 56%.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "CATCHES achieved production results from its RealFit deployment with AMIRI of conversion up 55%, add-to-cart up 80% and gross sales up 56%, all after seasonal adjustment against like-for-like styles."
+        }
+      ]
+    },
+    {
+      "claim": "OrbMol-v2 is five times faster than comparable models and delivers 21% lower error than the next-best model of its kind.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "OrbMol-v2 is five times faster than comparable models and delivers 21% lower error than the next-best model of its kind."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+          "quote": "Integrated with the NVIDIA ALCHEMI Toolkit and powered by NVIDIA accelerated computing, OrbMol-v2 is five times faster than comparable models and delivers 21% lower error than the next-best model of its kind."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/": 6952,
+    "https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data": 8733,
+    "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/": 3219,
+    "https://huggingface.co/blog/nvidia/kumo-relational": 14242
+  }
+}
