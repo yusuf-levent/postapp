@@ -1,0 +1,69 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/oppo-find-x10-pro-max-11.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.741906587151%2C100%2C78.516186825698&amp;w=1200",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-22/01-0900-the-world-s-first-triple-200-megapixel-camera-ph/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.theverge.com/gadgets/1014332/oppo-find-x10-pro-max-camera-200-megapixels",
+      "width": 2200,
+      "height": 1467,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/12360229/pexels-photo-12360229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-22/01-0900-the-world-s-first-triple-200-megapixel-camera-ph/images/img-2.png",
+      "license": "Pexels License — Maurício Mascaro",
+      "author": "Maurício Mascaro",
+      "credit_url": "https://www.pexels.com/photo/purple-smartphone-on-black-background-12360229/",
+      "width": 1282,
+      "height": 1300,
+      "alt_text": "Close-up of a purple smartphone against a dark background, highlighting camera features."
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/19060160/pexels-photo-19060160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-22/01-0900-the-world-s-first-triple-200-megapixel-camera-ph/images/img-3.png",
+      "license": "Pexels License — Ana Quirosa",
+      "author": "Ana Quirosa",
+      "credit_url": "https://www.pexels.com/photo/close-up-of-a-person-holding-an-iphone-15-pro-19060160/",
+      "width": 1020,
+      "height": 1300,
+      "alt_text": "Close-up photo of a hand holding a modern smartphone with triple cameras."
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/20360348/pexels-photo-20360348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-22/01-0900-the-world-s-first-triple-200-megapixel-camera-ph/images/img-4.png",
+      "license": "Pexels License — Rohit Sharma",
+      "author": "Rohit Sharma",
+      "credit_url": "https://www.pexels.com/photo/product-shot-of-a-oppo-find-x7-smartphone-20360348/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "Close-up of a contemporary smartphone with a triple lens camera against a vibrant red backdrop."
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/7989740/pexels-photo-7989740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-22/01-0900-the-world-s-first-triple-200-megapixel-camera-ph/images/img-5.png",
+      "license": "Pexels License — Carlos Jairo",
+      "author": "Carlos Jairo",
+      "credit_url": "https://www.pexels.com/photo/black-gadgets-on-a-black-surface-7989740/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "A minimalist flat lay of electronic gadgets on a black surface, showcasing modern tech."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir.",
+  "music": [
+    {
+      "title": "Torley Wong - The Final Selection ::: 230 diverse MP3s",
+      "artist": "Torley Wong",
+      "license": "Creative Commons (ticari kullanıma uygun)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/us/",
+      "source_url": "https://archive.org/details/Torley_Wong_-_The_Final_Selection"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "MOBIL TEKNOLOJI",
+    "title": "Oppo Find X10 Pro Max Kamera Devrimi",
+    "highlight_words": [
+      "Oppo",
+      "Kamera"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Mobil dünyada yeni bir dönem başlatan özellikler yakından incelemede.",
+    "source_tags": [
+      "THE VERGE",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Yeni Nesil Akıllı Telefon",
+    "cards": [
+      {
+        "card_title": "Oppo Find X10 Pro Max",
+        "card_body": "MediaTek Dimensity 9600 Pro yonga setine ve 3.600 nit tepe parlaklığa sahip 144Hz 1.5K OLED ekrana sahip."
+      },
+      {
+        "card_title": "Pil Kapasitesi",
+        "card_body": "Avrupa'da 7.150mAh, Avrupa dışında ise 8.000mAh pil kapasitesiyle kullanıcılara sunuluyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "200 MP",
+    "stat_caption": "Üç adet 200 megapiksel kameraya sahip ilk telefon.",
+    "stat_quote": "Oppo Find X10 Pro Max, üç adet 200 megapiksel kameraya sahip ilk telefondur."
+  },
+  "details": {
+    "heading": "Kamera ve Ekran Detayları",
+    "cards": [
+      {
+        "card_title": "Kamera Özellikleri",
+        "card_body": "Ana kamera 1/1.3 inç tipinde sensör ve f/1.5 diyafram açıklığına sahip. Selfie kamerası ise 50 megapiksel."
+      },
+      {
+        "card_title": "Video ve Çözünürlük",
+        "card_body": "Arka lenslerin tamamı 4K 120fps veya 8K 30fps video kaydedebiliyor. Fotoğraflar varsayılan olarak 26 megapiksel çekiliyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektöre Etkiler",
+    "cards": [
+      {
+        "card_title": "Sektördeki Yeri",
+        "card_body": "Moto X30 Pro 2022'de 200 megapiksel kameralarla piyasaya çıkan ilk telefon olmuştu, yeni model çıtayı yükseltiyor."
+      },
+      {
+        "card_title": "Kullanıcı Deneyimi",
+        "card_body": "Yüksek çözünürlüklü kamera sensörleri ve güçlü ekran özellikleri mobil fotoğrafçılık standartlarını değiştiriyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Üç adet 200 megapiksel kameraya sahip bu akıllı telefon hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için bizi takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
