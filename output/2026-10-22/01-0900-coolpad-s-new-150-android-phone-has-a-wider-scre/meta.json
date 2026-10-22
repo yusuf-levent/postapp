@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 230.4,
+  "candidates_tried": 1,
+  "gemini_calls": 17,
+  "canonical_url": "https://www.theverge.com/tech/1016544/coolpad-cool-x-wide-widescreen-android-16-smartphone-china",
+  "generated_at": "2026-10-22T17:41:02+03:00"
+}
