@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE ULAŞIM",
+    "title": "Tesla Robotaksi Ağı İçin Tarih Verdi",
+    "highlight_words": [
+      "Robotaksi",
+      "Tarih"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Araç sahipleri otomobillerini robotaksi ağına dahil edebilecek.",
+    "source_tags": [
+      "THE VERGE",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Robotaksi Ağına Doğru",
+    "cards": [
+      {
+        "card_title": "Hedef Tarih Açıklandı",
+        "card_body": "Tesla, araç sahiplerinin otomobillerini robotaksi ağına dahil etmesi için 2027 yılı ikinci çeyreğini hedef olarak belirledi."
+      },
+      {
+        "card_title": "Yönetici Açıklaması",
+        "card_body": "Otonom Sürüş Başkan Yardımcısı Ashok Elluswamy, müşterilerin araçlarını 2027'nin ikinci çeyreğinde filoya ekleyebileceğini belirtti."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "3,3 MİLYON",
+    "stat_caption": "Tesla yeni Robotaxi güvenlik web sitesinde otonom olarak katledilen mil miktarını açıkladı.",
+    "stat_quote": "Tesla yeni Robotaxi güvenlik web sitesinde 3,3 milyon mili otonom olarak katettiğini açıkladı."
+  },
+  "details": {
+    "heading": "Mevcut Filo Durumu",
+    "cards": [
+      {
+        "card_title": "Teksas ve Florida",
+        "card_body": "Tesla'nın şu anda Teksas ve Florida'da bazılarında insan güvenlik monitörü bulunan birkaç yüz robotaksisi bulunuyor."
+      },
+      {
+        "card_title": "Austin'deki Cybercab",
+        "card_body": "Şirketin Austin'de birkaç düzine tamamen sürücüsüz Cybercab'i bulunuyor."
+      },
+      {
+        "card_title": "Temmuz Ayı Verisi",
+        "card_body": "Şirket Temmuz ayında denetimsiz olarak 380.000 mil sürüldüğünü bildirmişti."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcı İlgi Odağı",
+    "cards": [
+      {
+        "card_title": "FSD Tercihi",
+        "card_body": "Kuzey Amerika'da yeni Tesla alanların yüzde 75'inden fazlası bu çeyrekte Full Self-Driving Supervised özelliğini seçti."
+      },
+      {
+        "card_title": "Gelecek Vizyonu",
+        "card_body": "Araç sahiplerinin kendi otomobilleriyle bu ağa katılması otonom taşımacılıkta yeni bir dönemi başlatabilir."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce 2027 yılında kişisel aracınızı bir robotaksi ağına dahil etmeye hazır olur musunuz?",
+    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

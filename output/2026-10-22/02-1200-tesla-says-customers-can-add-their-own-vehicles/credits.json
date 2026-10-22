@@ -1,0 +1,60 @@
+{
+  "images": [
+    {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Elon_Musk_-_54820081119_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-22/02-1200-tesla-says-customers-can-add-their-own-vehicles/images/img-1.png",
+      "license": "",
+      "author": "",
+      "credit_url": "https://en.wikipedia.org/wiki/Elon%20Musk",
+      "width": 2924,
+      "height": 3843,
+      "alt_text": "Elon Musk"
+    },
+    {
+      "source": "ogimage",
+      "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-22/02-1200-tesla-says-customers-can-add-their-own-vehicles/images/img-2.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+      "width": 2040,
+      "height": 1360,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/9300916/pexels-photo-9300916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-22/02-1200-tesla-says-customers-can-add-their-own-vehicles/images/img-3.png",
+      "license": "Pexels License — David Gari",
+      "author": "David Gari",
+      "credit_url": "https://www.pexels.com/photo/white-tesla-model-3-car-on-road-9300916/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "Tesla Model 3 driving on a highway in Osnabrück, Germany, showcasing modern electric vehicle design."
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/9300914/pexels-photo-9300914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-22/02-1200-tesla-says-customers-can-add-their-own-vehicles/images/img-4.png",
+      "license": "Pexels License — David Gari",
+      "author": "David Gari",
+      "credit_url": "https://www.pexels.com/photo/a-white-car-on-road-9300914/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "Top view of a sleek white Tesla electric car driving on a city street in Germany."
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/16653735/pexels-photo-16653735.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-22/02-1200-tesla-says-customers-can-add-their-own-vehicles/images/img-5.png",
+      "license": "Pexels License — Daniel  Shapiro",
+      "author": "Daniel  Shapiro",
+      "credit_url": "https://www.pexels.com/photo/view-of-a-black-tesla-model-s-on-a-parking-lot-16653735/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "Sleek black electric car parked outdoors in Raleigh, NC, on a cloudy day."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}

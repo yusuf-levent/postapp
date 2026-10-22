@@ -1,0 +1,250 @@
+{
+  "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+  "canonical_url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+  "source_names": [
+    "The Verge",
+    "NVIDIA Newsroom",
+    "TechCrunch",
+    "BBC News – Technology"
+  ],
+  "checked_at": "2026-10-22T11:41:43+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Tesla, arac sahiplerinin otomobillerini robotaksi agina dahil etmesi icin 2027 yili ikinci ceyregini hedef olarak belirledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "quote": "Tesla has set a Q2 2027 target to let owners opt their cars into its robotaxi network—a major promise, but one that comes with a history of missed deadlines and steep regulatory hurdles."
+        }
+      ]
+    },
+    {
+      "claim": "Otonom Surus Baskan Yardimcisi Ashok Elluswamy, musterilerin araclarini 2027'nin ikinci ceyreginde sirketin robotaksi filosuna ekleyebilecegini belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "quote": "According to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able to add their own vehicles to the company’s robotaxi fleet in the second quarter of 2027."
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk 2019 yilindaki AI Day etkinlikte, musteri araclarinin robotaksi olarak kullanilacagini ve 2020 yilina kadar bir milyon Tesla robotaksinin yollarda olacagini soylemisti.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Tesla'nin su anda Teksas ve Florida'da bazilarinda insan guvenlik monitoru bulunan birkaç yuz robotaksi bulunuyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "quote": "Tesla has a few hundred Robotaxis in Texas and Florida, some of which still have human safety monitors."
+        }
+      ]
+    },
+    {
+      "claim": "Sirketin Austin'de birkaç duzine tamamen surucusuz Cybercab'i bulunuyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "quote": "It also has several dozen fully driverless Cybercabs in Austin."
+        }
+      ]
+    },
+    {
+      "claim": "Kuzey Amerika'da yeni Tesla alanlarin yuzde 75'inden fazlasi bu ceyrekte Full Self-Driving Supervised ozelligini secti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "quote": "Over 75 percent of new buyers picked the feature this quarter — a big jump of almost 20 percentage points compared to last quarter."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla yeni Robotaxi guvenlik web sitesinde 3,3 milyon mili otonom olarak katettigini acikladi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "quote": "Tesla also revealed a new Robotaxi safety website, in which the company says it has driven 3.3 million miles autonomously."
+        }
+      ]
+    },
+    {
+      "claim": "Sirket Temmuz ayinda denetimsiz olarak 380.000 mil suruldugunu bildirmisti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "quote": "That’s up from 380,000 unsupervised miles driven the company reported in July."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Tesla, arac sahiplerinin otomobillerini robotaksi agina dahil etmesi icin 2027 yili ikinci ceyregini hedef olarak belirledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "quote": "Tesla has set a Q2 2027 target to let owners opt their cars into its robotaxi network—a major promise, but one that comes with a history of missed deadlines and steep regulatory hurdles."
+        }
+      ]
+    },
+    {
+      "claim": "Otonom Surus Baskan Yardimcisi Ashok Elluswamy, musterilerin araclarini 2027'nin ikinci ceyreginde sirketin robotaksi filosuna ekleyebilecegini belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "quote": "According to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able to add their own vehicles to the company’s robotaxi fleet in the second quarter of 2027."
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk 2019 yilindaki AI Day etkinlikte, musteri araclarinin robotaksi olarak kullanilacagini ve 2020 yilina kadar bir milyon Tesla robotaksinin yollarda olacagini soylemisti.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Tesla'nin su anda Teksas ve Florida'da bazilarinda insan guvenlik monitoru bulunan birkaç yuz robotaksi bulunuyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "quote": "Tesla has a few hundred Robotaxis in Texas and Florida, some of which still have human safety monitors."
+        }
+      ]
+    },
+    {
+      "claim": "Sirketin Austin'de birkaç duzine tamamen surucusuz Cybercab'i bulunuyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "quote": "It also has several dozen fully driverless Cybercabs in Austin."
+        }
+      ]
+    },
+    {
+      "claim": "Kuzey Amerika'da yeni Tesla alanlarin yuzde 75'inden fazlasi bu ceyrekte Full Self-Driving Supervised ozelligini secti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "quote": "Over 75 percent of new buyers picked the feature this quarter — a big jump of almost 20 percentage points compared to last quarter."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla yeni Robotaxi guvenlik web sitesinde 3,3 milyon mili otonom olarak katettigini acikladi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "quote": "Tesla also revealed a new Robotaxi safety website, in which the company says it has driven 3.3 million miles autonomously."
+        }
+      ]
+    },
+    {
+      "claim": "Sirket Temmuz ayinda denetimsiz olarak 380.000 mil suruldugunu bildirmisti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "quote": "That’s up from 380,000 unsupervised miles driven the company reported in July."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Tesla, arac sahiplerinin otomobillerini robotaksi agina dahil etmesi icin 2027 yili ikinci ceyregini hedef olarak belirledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "quote": "Tesla has set a Q2 2027 target to let owners opt their cars into its robotaxi network—a major promise, but one that comes with a history of missed deadlines and steep regulatory hurdles."
+        }
+      ]
+    },
+    {
+      "claim": "Otonom Surus Baskan Yardimcisi Ashok Elluswamy, musterilerin araclarini 2027'nin ikinci ceyreginde sirketin robotaksi filosuna ekleyebilecegini belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "quote": "According to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able to add their own vehicles to the company’s robotaxi fleet in the second quarter of 2027."
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk 2019 yilindaki AI Day etkinlikte, musteri araclarinin robotaksi olarak kullanilacagini ve 2020 yilina kadar bir milyon Tesla robotaksinin yollarda olacagini soylemisti.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Tesla'nin su anda Teksas ve Florida'da bazilarinda insan guvenlik monitoru bulunan birkaç yuz robotaksi bulunuyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "quote": "Tesla has a few hundred Robotaxis in Texas and Florida, some of which still have human safety monitors."
+        }
+      ]
+    },
+    {
+      "claim": "Sirketin Austin'de birkaç duzine tamamen surucusuz Cybercab'i bulunuyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "quote": "It also has several dozen fully driverless Cybercabs in Austin."
+        }
+      ]
+    },
+    {
+      "claim": "Kuzey Amerika'da yeni Tesla alanlarin yuzde 75'inden fazlasi bu ceyrekte Full Self-Driving Supervised ozelligini secti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "quote": "Over 75 percent of new buyers picked the feature this quarter — a big jump of almost 20 percentage points compared to last quarter."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla yeni Robotaxi guvenlik web sitesinde 3,3 milyon mili otonom olarak katettigini acikladi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "quote": "Tesla also revealed a new Robotaxi safety website, in which the company says it has driven 3.3 million miles autonomously."
+        }
+      ]
+    },
+    {
+      "claim": "Sirket Temmuz ayinda denetimsiz olarak 380.000 mil suruldugunu bildirmisti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "quote": "That’s up from 380,000 unsupervised miles driven the company reported in July."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings": 3902,
+    "https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion": 8179,
+    "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/": 3829,
+    "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss": 5506
+  }
+}
