@@ -1,0 +1,346 @@
+{
+  "title": "The Download: testing six tech promises and biotech’s blind spots",
+  "canonical_url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+  "source_names": [
+    "MIT Technology Review",
+    "The Verge",
+    "TechCrunch",
+    "Wired"
+  ],
+  "checked_at": "2026-10-23T15:23:18+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Palmer Luckey'nin yeni startup'ı Warhound, askeri köpekleri genetik olarak geliştirmeyi planlıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "Palmer Luckey’s new startup plans to genetically enhance military dogs"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
+          "quote": "A new Texas-based defense startup has a plan to improve military and police dogs in the US: it’s going to genetically modify them and equip them with Anduril’s military technology."
+        }
+      ]
+    },
+    {
+      "claim": "Warhound, Sequoia dahil yatırımcılardan 200 milyon dolar topladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "It’s raised $200 million from investors, including Sequoia."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "+ It’s raised $200 million from investors, including Sequoia."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+          "quote": "On Thursday, that idea came out of stealth as Warhound, backed by $200 million in funding from investors including Sequoia, 8VC, Corner Ventures, and In-Q-Tel"
+        }
+      ]
+    },
+    {
+      "claim": "Moderna ve Merck, mRNA kanser aşısının ölüm riskini yüzde 42 oranında azalttığını açıkladı.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Google, veri merkezleri için enerji tasarrufu sağlamak amacıyla müşterilerine ödeme yapacak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "Google will pay customers to free up power for data centers"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "Google will pay customers to free up power for data centers\nIts virtual power plant will reward people for adjusting energy usage."
+        }
+      ]
+    },
+    {
+      "claim": "Google, Finlandiya'daki bir veri merkezi için yasa dışı olarak 250.000 ağaç kesti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "It’s also illegally felled 250,000 trees in Finland for a data center."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "+ It’s also illegally felled 250,000 trees in Finland for a data center."
+        }
+      ]
+    },
+    {
+      "claim": "Meta, çocuk güvenliği davasını uzlaşmayla sonuçlandırmak için 18 milyar dolara kadar ödeme yapacak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "Meta will pay up to $18 billion to settle a landmark child-safety case."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "Plus: Meta will pay up to $18 billion to settle a landmark child-safety case."
+        }
+      ]
+    },
+    {
+      "claim": "22 ülke, yapay zekayı denetlemek için yeni bir küresel organ kurulması çağrısında bulundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "22 nations have called for a new global body to oversee AI."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "Plus: 22 nations have called for a new global body to oversee AI."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, alanı sarsan 377 yeni matematik bulgusu yayınladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "OpenAI has released 377 new math findings, further rattling the field."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "Plus: OpenAI has released 377 new math findings, further rattling the field."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Palmer Luckey'nin yeni startup'ı Warhound, askeri köpekleri genetik olarak geliştirmeyi planlıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "Palmer Luckey’s new startup plans to genetically enhance military dogs"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
+          "quote": "A new Texas-based defense startup has a plan to improve military and police dogs in the US: it’s going to genetically modify them and equip them with Anduril’s military technology."
+        }
+      ]
+    },
+    {
+      "claim": "Warhound, Sequoia dahil yatırımcılardan 200 milyon dolar topladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "It’s raised $200 million from investors, including Sequoia."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "+ It’s raised $200 million from investors, including Sequoia."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+          "quote": "On Thursday, that idea came out of stealth as Warhound, backed by $200 million in funding from investors including Sequoia, 8VC, Corner Ventures, and In-Q-Tel"
+        }
+      ]
+    },
+    {
+      "claim": "Moderna ve Merck, mRNA kanser aşısının ölüm riskini yüzde 42 oranında azalttığını açıkladı.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Google, veri merkezleri için enerji tasarrufu sağlamak amacıyla müşterilerine ödeme yapacak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "Google will pay customers to free up power for data centers"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "Google will pay customers to free up power for data centers\nIts virtual power plant will reward people for adjusting energy usage."
+        }
+      ]
+    },
+    {
+      "claim": "Google, Finlandiya'daki bir veri merkezi için yasa dışı olarak 250.000 ağaç kesti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "It’s also illegally felled 250,000 trees in Finland for a data center."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "+ It’s also illegally felled 250,000 trees in Finland for a data center."
+        }
+      ]
+    },
+    {
+      "claim": "Meta, çocuk güvenliği davasını uzlaşmayla sonuçlandırmak için 18 milyar dolara kadar ödeme yapacak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "Meta will pay up to $18 billion to settle a landmark child-safety case."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "Plus: Meta will pay up to $18 billion to settle a landmark child-safety case."
+        }
+      ]
+    },
+    {
+      "claim": "22 ülke, yapay zekayı denetlemek için yeni bir küresel organ kurulması çağrısında bulundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "22 nations have called for a new global body to oversee AI."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "Plus: 22 nations have called for a new global body to oversee AI."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, alanı sarsan 377 yeni matematik bulgusu yayınladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "OpenAI has released 377 new math findings, further rattling the field."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "Plus: OpenAI has released 377 new math findings, further rattling the field."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Palmer Luckey'nin yeni startup'ı Warhound, askeri köpekleri genetik olarak geliştirmeyi planlıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "Palmer Luckey’s new startup plans to genetically enhance military dogs"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
+          "quote": "A new Texas-based defense startup has a plan to improve military and police dogs in the US: it’s going to genetically modify them and equip them with Anduril’s military technology."
+        }
+      ]
+    },
+    {
+      "claim": "Warhound, Sequoia dahil yatırımcılardan 200 milyon dolar topladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "It’s raised $200 million from investors, including Sequoia."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "+ It’s raised $200 million from investors, including Sequoia."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+          "quote": "On Thursday, that idea came out of stealth as Warhound, backed by $200 million in funding from investors including Sequoia, 8VC, Corner Ventures, and In-Q-Tel"
+        }
+      ]
+    },
+    {
+      "claim": "Moderna ve Merck, mRNA kanser aşısının ölüm riskini yüzde 42 oranında azalttığını açıkladı.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Google, veri merkezleri için enerji tasarrufu sağlamak amacıyla müşterilerine ödeme yapacak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "Google will pay customers to free up power for data centers"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "Google will pay customers to free up power for data centers\nIts virtual power plant will reward people for adjusting energy usage."
+        }
+      ]
+    },
+    {
+      "claim": "Google, Finlandiya'daki bir veri merkezi için yasa dışı olarak 250.000 ağaç kesti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "It’s also illegally felled 250,000 trees in Finland for a data center."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "+ It’s also illegally felled 250,000 trees in Finland for a data center."
+        }
+      ]
+    },
+    {
+      "claim": "Meta, çocuk güvenliği davasını uzlaşmayla sonuçlandırmak için 18 milyar dolara kadar ödeme yapacak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "Meta will pay up to $18 billion to settle a landmark child-safety case."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "Plus: Meta will pay up to $18 billion to settle a landmark child-safety case."
+        }
+      ]
+    },
+    {
+      "claim": "22 ülke, yapay zekayı denetlemek için yeni bir küresel organ kurulması çağrısında bulundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "22 nations have called for a new global body to oversee AI."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "Plus: 22 nations have called for a new global body to oversee AI."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, alanı sarsan 377 yeni matematik bulgusu yayınladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "OpenAI has released 377 new math findings, further rattling the field."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "quote": "Plus: OpenAI has released 377 new math findings, further rattling the field."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/": 6608,
+    "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs": 2549,
+    "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/": 4516,
+    "https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/": 2919
+  }
+}

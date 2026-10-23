@@ -1,0 +1,10 @@
+{
+  "slot": "15:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 103.5,
+  "candidates_tried": 1,
+  "gemini_calls": 12,
+  "canonical_url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+  "generated_at": "2026-10-23T15:24:28+03:00"
+}

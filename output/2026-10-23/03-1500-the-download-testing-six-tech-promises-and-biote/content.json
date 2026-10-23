@@ -1,0 +1,72 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJI VE YAPAY ZEKA",
+    "title": "Yapay Zeka ve Teknoloji Dünyasından Son Gelişmeler",
+    "highlight_words": [
+      "Yapay Zeka"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Teknoloji gündemindeki en son yatırımlar ve önemli kararlar.",
+    "source_tags": [
+      "WIRED",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Gündemdeki Önemli Adımlar",
+    "cards": [
+      {
+        "card_title": "Askeri Teknolojiler",
+        "card_body": "Palmer Luckey'nin yeni startup'ı Warhound, askeri köpekleri genetik olarak geliştirmeyi planlıyor."
+      },
+      {
+        "card_title": "Yatırım Desteği",
+        "card_body": "Warhound, Sequoia dahil yatırımcılardan 200 milyon dolar topladı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "200 MİLYON $",
+    "stat_caption": "Warhound'un yatırımcılardan topladığı toplam fon miktarı.",
+    "stat_quote": "Warhound, Sequoia dahil yatırımcılardan 200 milyon dolar topladı."
+  },
+  "details": {
+    "heading": "Şirketler ve Sektör",
+    "cards": [
+      {
+        "card_title": "Enerji Tasarrufu",
+        "card_body": "Google, veri merkezleri için enerji tasarrufu sağlamak amacıyla müşterilerine ödeme yapacak."
+      },
+      {
+        "card_title": "Çevre Olayı",
+        "card_body": "Google, Finlandiya'daki bir veri merkezi için yasa dışı olarak 250.000 ağaç kesti."
+      },
+      {
+        "card_title": "Uzlaşma Bedeli",
+        "card_body": "Meta, çocuk güvenliği davasını uzlaşmayla sonuçlandırmak için 18 milyar dolara kadar ödeme yapacak."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Küresel Etkiler ve Bilim",
+    "cards": [
+      {
+        "card_title": "Küresel Denetim",
+        "card_body": "22 ülke, yapay zekayı denetlemek için yeni bir küresel organ kurulması çağrısında bulundu."
+      },
+      {
+        "card_title": "Matematik ve Yapay Zeka",
+        "card_body": "OpenAI, alanı sarsan 377 yeni matematik bulgusu yayınladı."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Yapay zekanın denetlenmesi için küresel bir organ kurulması hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
