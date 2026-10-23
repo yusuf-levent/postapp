@@ -1,0 +1,235 @@
+{
+  "title": "Elon Musk’s dangerous grip on outer space",
+  "canonical_url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+  "source_names": [
+    "The Verge",
+    "Wired",
+    "Ars Technica",
+    "TechCrunch"
+  ],
+  "checked_at": "2026-10-23T20:47:05+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Geçtiğimiz hafta, Ukrayna ordusu tarafından kullanılan Starlink sürümü Starshield, belirli hızların üzerinde seyahat eden terminallerin hizmete erişimini engellemek için yavaşlatıldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+          "quote": "Last week, Starshield — the version of SpaceX’s Starlink used by the Ukrainian military — was throttled to block terminals traveling above certain speeds from accessing the service."
+        }
+      ]
+    },
+    {
+      "claim": "Ukrayna askeri yetkilileri Starshield hız kısıtlaması hakkında herhangi bir ön uyarı almadıklarını bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+          "quote": "The Ukrainian military reported receiving no advance warning about the Starshield speed restriction."
+        }
+      ]
+    },
+    {
+      "claim": "Starlink erişimi daha önce, 2022'de Kırım'daki bir karşı saldırı operasyonunu kapsayacak şekilde genişletilmemesi dahil olmak üzere kasıtlı olarak kısıtlanmıştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+          "quote": "Starlink access has been deliberately restricted there before, including in 2022, when coverage was not extended to cover a counterattack operation in Crimea."
+        }
+      ]
+    },
+    {
+      "claim": "SpaceX, alçak Dünya yörüngesinde şu anda 10.000'den fazla Starlink uydusundan oluşan ağını Falcon 9 roketleriyle inşa etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+          "quote": "The company has been able to build out its network of over 10,000 Starlink satellites currently in low Earth orbit by launching them cheaply and efficiently using its Falcon 9 rockets."
+        }
+      ]
+    },
+    {
+      "claim": "SpaceX'in Falcon 9'u tarihin en başarılı roketidir ve rideshare programı fırlatma fiyatlarını tarihin en düşük seviyelerine düşürmüştür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+          "quote": "SpaceX’s Falcon 9 is the most successful rocket in history, and its “rideshare” program, which lets small satellite operators share space on a rocket, has dropped the price of launches to historic lows."
+        }
+      ]
+    },
+    {
+      "claim": "Roket fırlatma endüstrisi, tüm uzay endüstrisinin yaklaşık yüzde 8'ini oluşturmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+          "quote": "“The rocket launch industry is around 8 percent of the entire [space] industry,” Karasu said"
+        }
+      ]
+    },
+    {
+      "claim": "2003 yılında yedi astronotun hayatına mal olan Uzay Mekiği Columbia felaketinin ardından tüm program iptal edilmiş ve 2011'den 2020'ye kadar ABD'den uzaya insan fırlatılmamıştır.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Bu yılın şubat ayında, Falcon 9'un güvenilirliğindeki sorunlar geçici olarak uçuştan alıkonulmasına neden oldu.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Geçtiğimiz hafta, Ukrayna ordusu tarafından kullanılan Starlink sürümü Starshield, belirli hızların üzerinde seyahat eden terminallerin hizmete erişimini engellemek için yavaşlatıldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+          "quote": "Last week, Starshield — the version of SpaceX’s Starlink used by the Ukrainian military — was throttled to block terminals traveling above certain speeds from accessing the service."
+        }
+      ]
+    },
+    {
+      "claim": "Ukrayna askeri yetkilileri Starshield hız kısıtlaması hakkında herhangi bir ön uyarı almadıklarını bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+          "quote": "The Ukrainian military reported receiving no advance warning about the Starshield speed restriction."
+        }
+      ]
+    },
+    {
+      "claim": "Starlink erişimi daha önce, 2022'de Kırım'daki bir karşı saldırı operasyonunu kapsayacak şekilde genişletilmemesi dahil olmak üzere kasıtlı olarak kısıtlanmıştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+          "quote": "Starlink access has been deliberately restricted there before, including in 2022, when coverage was not extended to cover a counterattack operation in Crimea."
+        }
+      ]
+    },
+    {
+      "claim": "SpaceX, alçak Dünya yörüngesinde şu anda 10.000'den fazla Starlink uydusundan oluşan ağını Falcon 9 roketleriyle inşa etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+          "quote": "The company has been able to build out its network of over 10,000 Starlink satellites currently in low Earth orbit by launching them cheaply and efficiently using its Falcon 9 rockets."
+        }
+      ]
+    },
+    {
+      "claim": "SpaceX'in Falcon 9'u tarihin en başarılı roketidir ve rideshare programı fırlatma fiyatlarını tarihin en düşük seviyelerine düşürmüştür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+          "quote": "SpaceX’s Falcon 9 is the most successful rocket in history, and its “rideshare” program, which lets small satellite operators share space on a rocket, has dropped the price of launches to historic lows."
+        }
+      ]
+    },
+    {
+      "claim": "Roket fırlatma endüstrisi, tüm uzay endüstrisinin yaklaşık yüzde 8'ini oluşturmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+          "quote": "“The rocket launch industry is around 8 percent of the entire [space] industry,” Karasu said"
+        }
+      ]
+    },
+    {
+      "claim": "2003 yılında yedi astronotun hayatına mal olan Uzay Mekiği Columbia felaketinin ardından tüm program iptal edilmiş ve 2011'den 2020'ye kadar ABD'den uzaya insan fırlatılmamıştır.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Bu yılın şubat ayında, Falcon 9'un güvenilirliğindeki sorunlar geçici olarak uçuştan alıkonulmasına neden oldu.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Geçtiğimiz hafta, Ukrayna ordusu tarafından kullanılan Starlink sürümü Starshield, belirli hızların üzerinde seyahat eden terminallerin hizmete erişimini engellemek için yavaşlatıldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+          "quote": "Last week, Starshield — the version of SpaceX’s Starlink used by the Ukrainian military — was throttled to block terminals traveling above certain speeds from accessing the service."
+        }
+      ]
+    },
+    {
+      "claim": "Ukrayna askeri yetkilileri Starshield hız kısıtlaması hakkında herhangi bir ön uyarı almadıklarını bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+          "quote": "The Ukrainian military reported receiving no advance warning about the Starshield speed restriction."
+        }
+      ]
+    },
+    {
+      "claim": "Starlink erişimi daha önce, 2022'de Kırım'daki bir karşı saldırı operasyonunu kapsayacak şekilde genişletilmemesi dahil olmak üzere kasıtlı olarak kısıtlanmıştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+          "quote": "Starlink access has been deliberately restricted there before, including in 2022, when coverage was not extended to cover a counterattack operation in Crimea."
+        }
+      ]
+    },
+    {
+      "claim": "SpaceX, alçak Dünya yörüngesinde şu anda 10.000'den fazla Starlink uydusundan oluşan ağını Falcon 9 roketleriyle inşa etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+          "quote": "The company has been able to build out its network of over 10,000 Starlink satellites currently in low Earth orbit by launching them cheaply and efficiently using its Falcon 9 rockets."
+        }
+      ]
+    },
+    {
+      "claim": "SpaceX'in Falcon 9'u tarihin en başarılı roketidir ve rideshare programı fırlatma fiyatlarını tarihin en düşük seviyelerine düşürmüştür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+          "quote": "SpaceX’s Falcon 9 is the most successful rocket in history, and its “rideshare” program, which lets small satellite operators share space on a rocket, has dropped the price of launches to historic lows."
+        }
+      ]
+    },
+    {
+      "claim": "Roket fırlatma endüstrisi, tüm uzay endüstrisinin yaklaşık yüzde 8'ini oluşturmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+          "quote": "“The rocket launch industry is around 8 percent of the entire [space] industry,” Karasu said"
+        }
+      ]
+    },
+    {
+      "claim": "2003 yılında yedi astronotun hayatına mal olan Uzay Mekiği Columbia felaketinin ardından tüm program iptal edilmiş ve 2011'den 2020'ye kadar ABD'den uzaya insan fırlatılmamıştır.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Bu yılın şubat ayında, Falcon 9'un güvenilirliğindeki sorunlar geçici olarak uçuştan alıkonulmasına neden oldu.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly": 12516,
+    "https://www.wired.com/story/elon-musk-just-dumped-another-dollar76-million-into-the-midterms/": 2949,
+    "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/": 14030,
+    "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/": 1274
+  }
+}

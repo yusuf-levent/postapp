@@ -1,0 +1,10 @@
+{
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 98.6,
+  "candidates_tried": 1,
+  "gemini_calls": 13,
+  "canonical_url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+  "generated_at": "2026-10-23T20:48:13+03:00"
+}
