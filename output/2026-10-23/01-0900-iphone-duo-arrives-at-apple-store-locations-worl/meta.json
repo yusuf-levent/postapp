@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 122.8,
+  "candidates_tried": 1,
+  "gemini_calls": 19,
+  "canonical_url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
+  "generated_at": "2026-10-23T09:24:40+03:00"
+}
