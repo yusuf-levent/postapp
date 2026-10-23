@@ -1,0 +1,10 @@
+{
+  "slot": "18:00",
+  "type": "edu",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 95.9,
+  "candidates_tried": 1,
+  "gemini_calls": 13,
+  "canonical_url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+  "generated_at": "2026-10-23T17:58:56+03:00"
+}

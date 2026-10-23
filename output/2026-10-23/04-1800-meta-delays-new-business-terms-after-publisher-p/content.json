@@ -1,0 +1,125 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ GÜNDEMİ",
+    "title": "Meta'nın Yeni İş Şartlarında Ertelenme Kararı",
+    "highlight_words": [
+      "Meta",
+      "Ertelenme"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Yeni şartların yürürlük tarihi güncellendi. İşte detaylar.",
+    "source_tags": [
+      "The Verge",
+      "TechCrunch",
+      "Ars Technica",
+      "Engadget"
+    ]
+  },
+  "problem": {
+    "heading": "Süreç Nasıl Başladı?",
+    "cards": [
+      {
+        "card_title": "Orijinal Tarih",
+        "card_body": "Yeni iş şartlarının asıl olarak 30 Ekim tarihinde yürürlüğe girmesi planlanıyordu."
+      },
+      {
+        "card_title": "Yapılan Erteleme",
+        "card_body": "Meta, yeni iş şartlarının uygulanmasını 20 Kasım tarihine erteleme kararı aldı."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Ertelemenin Gerekçesi",
+      "cards": [
+        {
+          "card_title": "Meta'nın Açıklaması",
+          "card_body": "Meta sözcüsü Daniel Roberts, ertelemenin ortaklara ve paydaşlara değişiklikleri açıklamak için daha fazla zaman tanıyacağını belirtti."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Sektörden Gelen Tepkiler",
+      "cards": [
+        {
+          "card_title": "Medya İttifakı",
+          "card_body": "News/Media Alliance, Perşembe günü Meta CEO'su Mark Zuckerberg'e yeni iş şartlarıyla ilgili bir mektup gönderdi."
+        },
+        {
+          "card_title": "AB ve UK Baskısı",
+          "card_body": "Avrupa Birliği ve Birleşik Krallık'taki dijital reklamcılar ile yayıncılar, düzenleyicileri Meta'yı durdurmaya çağırdı."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Önemli Tarihler",
+      "cards": [
+        {
+          "card_title": "Eski Tarih",
+          "card_body": "30 Ekim (Başlangıçta planlanan tarih)."
+        },
+        {
+          "card_title": "Yeni Tarih",
+          "card_body": "20 Kasım (Güncellenen yürürlük tarihi)."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Meta'nın bu erteleme kararını ve sektörden gelen tepkileri nasıl değerlendiriyorsunuz?",
+    "reminder_line": "Teknoloji gündemindeki gelişmeleri kaçırmamak için takipte kalın!"
+  },
+  "context": {
+    "heading": "Süreç Nasıl Başladı?",
+    "cards": [
+      {
+        "card_title": "Orijinal Tarih",
+        "card_body": "Yeni iş şartlarının asıl olarak 30 Ekim tarihinde yürürlüğe girmesi planlanıyordu."
+      },
+      {
+        "card_title": "Yapılan Erteleme",
+        "card_body": "Meta, yeni iş şartlarının uygulanmasını 20 Kasım tarihine erteleme kararı aldı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Ertelemenin Gerekçesi",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Sektörden Gelen Tepkiler",
+    "cards": [
+      {
+        "card_title": "Medya İttifakı",
+        "card_body": "News/Media Alliance, Perşembe günü Meta CEO'su Mark Zuckerberg'e yeni iş şartlarıyla ilgili bir mektup gönderdi."
+      },
+      {
+        "card_title": "AB ve UK Baskısı",
+        "card_body": "Avrupa Birliği ve Birleşik Krallık'taki dijital reklamcılar ile yayıncılar, düzenleyicileri Meta'yı durdurmaya çağırdı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Önemli Tarihler",
+    "cards": [
+      {
+        "card_title": "Eski Tarih",
+        "card_body": "30 Ekim (Başlangıçta planlanan tarih)."
+      },
+      {
+        "card_title": "Yeni Tarih",
+        "card_body": "20 Kasım (Güncellenen yürürlük tarihi)."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}
