@@ -3,7 +3,7 @@
 **Haber:** Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback
 **Canonical URL:** https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/
 **Kaynaklar:** TechCrunch, The Verge, Ars Technica, Wired
-**Kontrol zamanı:** 2026-10-23T08:42:37+03:00
+**Kontrol zamanı:** 2026-10-23T09:07:00+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
@@ -16,13 +16,11 @@
   - [https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/](https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/)
     > In a complaint filed Thursday in a federal court in Texas, Oura alleged that Ultrahuman’s Ring Pro infringes two of its patents covering the ring’s design and internal components, including its battery and sensors. Oura is seeking monetary damages and a permanent injunction that would stop Ultrahuman from selling the ring.
 
-### 2. Oura, Ultrahuman'ın Ring Pro modelinin tasarım, batarya ve sensörlerle ilgili iki patentini ihlal ettiğini iddia ediyor.
+### 2. Oura, Ultrahuman'ın Ring Pro modelinin tasarım, pil ve sensörlerle ilgili iki patentini ihlal ettiğini iddia ediyor.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/](https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/)
     > In a complaint filed Thursday in a federal court in Texas, Oura alleged that Ultrahuman’s Ring Pro infringes two of its patents covering the ring’s design and internal components, including its battery and sensors.
-  - [https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/](https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/)
-    > Oura alleged that Ultrahuman’s Ring Pro infringes two of its patents covering the ring’s design and internal components, including its battery and sensors.
 
 ### 3. Ultrahuman'ın Ring Pro modeli Şubat ayında piyasaya sürüldü ve Mart ayında ABD Gümrük ve Sınır Koruma biriminden olumlu bir karar aldı.
 - **Karar:** ✅ `supported`
@@ -30,13 +28,13 @@
   - [https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/](https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/)
     > Ultrahuman’s redesigned Ring Pro, launched in February, received a favorable ruling from U.S. Customs and Border Protection in March, paving the way for the startup’s return to the U.S. market.
 
-### 4. Oura'nın dava dilekçesinde belirttiği 12,769,363 numaralı patent 20 Ekim tarihinde tescil edildi.
+### 4. Oura'nın yeni davasında atıfta bulunduğu 12,769,363 numaralı patent, dava açılmadan sadece iki gün önce, 20 Ekim'de tescil edildi.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/](https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/)
     > One of those patents, 12,769,363, is also very new. It was issued to Oura on October 20, just two days before it filed the lawsuit.
 
-### 5. Oura, Teksas merkezli elektronik üreticisi SVTronics'i, Ring Pro'yu Plano, Teksas'taki tesislerinde ürettiği gerekçesiyle davaya dahil etti.
+### 5. Oura, Teksas merkezli elektronik üreticisi SVTronics'i de Ring Pro'nun üretiminde yer aldığı gerekçesiyle davaya dahil etti.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/](https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/)
@@ -48,7 +46,7 @@
   - [https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/](https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/)
     > Research firm IDC expects global shipments to rise 12.8% this year to 4.9 million units and reach about 6.3 million by 2030.
 
-### 7. Oura, piyasadaki belirsizlikleri gerekçe göstererek 2,2 milyar dolarlık halka arz (IPO) planını rafa kaldırdı.
+### 7. Oura, 2,2 milyar dolarlık halka arz (IPO) planını piyasadaki belirsizlik nedeniyle rafa kaldırdı.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/](https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/)
@@ -67,12 +65,12 @@
 | İddia | 1. Tur | 2. Tur | Nihai |
 |-------|--------|--------|-------|
 | Oura, Ultrahuman'ın Ring Pro ürününün ABD'deki satışlarını d | supported | supported | supported |
-| Oura, Ultrahuman'ın Ring Pro modelinin tasarım, batarya ve s | supported | supported | supported |
+| Oura, Ultrahuman'ın Ring Pro modelinin tasarım, pil ve sensö | supported | supported | supported |
 | Ultrahuman'ın Ring Pro modeli Şubat ayında piyasaya sürüldü  | supported | supported | supported |
-| Oura'nın dava dilekçesinde belirttiği 12,769,363 numaralı pa | supported | supported | supported |
-| Oura, Teksas merkezli elektronik üreticisi SVTronics'i, Ring | supported | supported | supported |
+| Oura'nın yeni davasında atıfta bulunduğu 12,769,363 numaralı | supported | supported | supported |
+| Oura, Teksas merkezli elektronik üreticisi SVTronics'i de Ri | supported | supported | supported |
 | IDC verilerine göre, küresel akıllı yüzük sevkiyatlarının bu | supported | supported | supported |
-| Oura, piyasadaki belirsizlikleri gerekçe göstererek 2,2 mily | supported | supported | supported |
+| Oura, 2,2 milyar dolarlık halka arz (IPO) planını piyasadaki | supported | supported | supported |
 | Ultrahuman, Eylül ayında Qualcomm Ventures ve Labcorp gibi y | supported | supported | supported |
 
 ## Kaynak Metinleri
