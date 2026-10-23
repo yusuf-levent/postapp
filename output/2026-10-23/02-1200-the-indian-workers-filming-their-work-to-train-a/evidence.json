@@ -1,0 +1,297 @@
+{
+  "title": "The Indian workers filming their work to train AI",
+  "canonical_url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+  "source_names": [
+    "BBC News – Technology",
+    "Google Blog"
+  ],
+  "checked_at": "2026-10-23T11:41:42+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Mohammed Ashim is a 22-year-old worker in Bengaluru who has been cutting hair and trimming beards for four years.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "Mohammed Ashim has been cutting hair and trimming beards for four years in Bengaluru.\nBut recently the 22-year old has been strapping a camera to his head to record his work."
+        }
+      ]
+    },
+    {
+      "claim": "Rashdan Technologies pays $5 to $10 for eight to 10 hours of recorded work.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "His company pays $5 to $10 (Â£3.74; Â£7.47) for eight to 10 hours of recorded work."
+        }
+      ]
+    },
+    {
+      "claim": "Shahil Baig is the co-founder and CEO of Rashdan Technologies.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "\"We go wherever the task is,\" says co-founder and CEO Shahil Baig."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "\"Rashdan Technologies collects and processes such human generated data.\n\"Every robotics company, every frontier AI lab, has a specific kind of data they want: industrial tasks, agriculture, household chores, small business work like pottery, garment-making, embroidery, candle-making. We go wherever the task is,\" says co-founder and CEO Shahil Baig."
+        }
+      ]
+    },
+    {
+      "claim": "Manish Agarwal is the founder of Humyn Labs.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "argues Manish Agarwal, the founder of Humyn Labs, which collects and processes human-generated data."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "If you want robots to navigate the real world, they can't just be trained inside computer simulations, argues Manish Agarwal, the founder of Humyn Labs..."
+        }
+      ]
+    },
+    {
+      "claim": "Humyn Labs currently has 96,000 data collectors across countries in Latin America and Southeast Asia.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "At the moment his firm has 96,000 data collectors across countries in Latin America and Southeast Asia."
+        }
+      ]
+    },
+    {
+      "claim": "Bino Paul is a senior professor at the School of Management and Labour Studies at the Tata Institute of Social Sciences in Mumbai.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "At the moment it's too early to tell says Bino Paul, senior professor at the School of Management and Labour Studies at the Tata Institute of Social Sciences (TISS) in Mumbai."
+        }
+      ]
+    },
+    {
+      "claim": "Mohammed Arman has been working in the textiles industry in Bangalore for 10 years.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "Mohammed Arman has been working in the textiles industry in Bangalore for 10 years."
+        }
+      ]
+    },
+    {
+      "claim": "Jolly Arifur is a science teacher living in Guntakal, Anantapur, who has been doing data collection work for the past seven months.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "Science teacher Jolly Arifur was looking for work she could do from home that would fit around her young son.\n\"For the past seven months, I strapped a rig-mounted camera on my head while doing my routine domestic work scrubbing, cooking, sweeping tile floors, and folding laundry.\"\nArifur, who lives in Guntakal, Anantapur, fits the recording work around her teaching."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "Science teacher Jolly Arifur was looking for work she could do from home that would fit around her young son.\n\"For the past seven months, I strapped a rig-mounted camera on my head while doing my routine domestic work scrubbing, cooking, sweeping tile floors, and folding laundry.\"\nArifur, who lives in Guntakal, Anantapur..."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Mohammed Ashim is a 22-year-old worker in Bengaluru who has been cutting hair and trimming beards for four years.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "Mohammed Ashim has been cutting hair and trimming beards for four years in Bengaluru.\nBut recently the 22-year old has been strapping a camera to his head to record his work."
+        }
+      ]
+    },
+    {
+      "claim": "Rashdan Technologies pays $5 to $10 for eight to 10 hours of recorded work.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "His company pays $5 to $10 (Â£3.74; Â£7.47) for eight to 10 hours of recorded work."
+        }
+      ]
+    },
+    {
+      "claim": "Shahil Baig is the co-founder and CEO of Rashdan Technologies.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "\"We go wherever the task is,\" says co-founder and CEO Shahil Baig."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "\"Rashdan Technologies collects and processes such human generated data.\n\"Every robotics company, every frontier AI lab, has a specific kind of data they want: industrial tasks, agriculture, household chores, small business work like pottery, garment-making, embroidery, candle-making. We go wherever the task is,\" says co-founder and CEO Shahil Baig."
+        }
+      ]
+    },
+    {
+      "claim": "Manish Agarwal is the founder of Humyn Labs.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "argues Manish Agarwal, the founder of Humyn Labs, which collects and processes human-generated data."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "If you want robots to navigate the real world, they can't just be trained inside computer simulations, argues Manish Agarwal, the founder of Humyn Labs..."
+        }
+      ]
+    },
+    {
+      "claim": "Humyn Labs currently has 96,000 data collectors across countries in Latin America and Southeast Asia.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "At the moment his firm has 96,000 data collectors across countries in Latin America and Southeast Asia."
+        }
+      ]
+    },
+    {
+      "claim": "Bino Paul is a senior professor at the School of Management and Labour Studies at the Tata Institute of Social Sciences in Mumbai.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "At the moment it's too early to tell says Bino Paul, senior professor at the School of Management and Labour Studies at the Tata Institute of Social Sciences (TISS) in Mumbai."
+        }
+      ]
+    },
+    {
+      "claim": "Mohammed Arman has been working in the textiles industry in Bangalore for 10 years.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "Mohammed Arman has been working in the textiles industry in Bangalore for 10 years."
+        }
+      ]
+    },
+    {
+      "claim": "Jolly Arifur is a science teacher living in Guntakal, Anantapur, who has been doing data collection work for the past seven months.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "Science teacher Jolly Arifur was looking for work she could do from home that would fit around her young son.\n\"For the past seven months, I strapped a rig-mounted camera on my head while doing my routine domestic work scrubbing, cooking, sweeping tile floors, and folding laundry.\"\nArifur, who lives in Guntakal, Anantapur, fits the recording work around her teaching."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "Science teacher Jolly Arifur was looking for work she could do from home that would fit around her young son.\n\"For the past seven months, I strapped a rig-mounted camera on my head while doing my routine domestic work scrubbing, cooking, sweeping tile floors, and folding laundry.\"\nArifur, who lives in Guntakal, Anantapur..."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Mohammed Ashim is a 22-year-old worker in Bengaluru who has been cutting hair and trimming beards for four years.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "Mohammed Ashim has been cutting hair and trimming beards for four years in Bengaluru.\nBut recently the 22-year old has been strapping a camera to his head to record his work."
+        }
+      ]
+    },
+    {
+      "claim": "Rashdan Technologies pays $5 to $10 for eight to 10 hours of recorded work.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "His company pays $5 to $10 (Â£3.74; Â£7.47) for eight to 10 hours of recorded work."
+        }
+      ]
+    },
+    {
+      "claim": "Shahil Baig is the co-founder and CEO of Rashdan Technologies.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "\"We go wherever the task is,\" says co-founder and CEO Shahil Baig."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "\"Rashdan Technologies collects and processes such human generated data.\n\"Every robotics company, every frontier AI lab, has a specific kind of data they want: industrial tasks, agriculture, household chores, small business work like pottery, garment-making, embroidery, candle-making. We go wherever the task is,\" says co-founder and CEO Shahil Baig."
+        }
+      ]
+    },
+    {
+      "claim": "Manish Agarwal is the founder of Humyn Labs.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "argues Manish Agarwal, the founder of Humyn Labs, which collects and processes human-generated data."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "If you want robots to navigate the real world, they can't just be trained inside computer simulations, argues Manish Agarwal, the founder of Humyn Labs..."
+        }
+      ]
+    },
+    {
+      "claim": "Humyn Labs currently has 96,000 data collectors across countries in Latin America and Southeast Asia.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "At the moment his firm has 96,000 data collectors across countries in Latin America and Southeast Asia."
+        }
+      ]
+    },
+    {
+      "claim": "Bino Paul is a senior professor at the School of Management and Labour Studies at the Tata Institute of Social Sciences in Mumbai.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "At the moment it's too early to tell says Bino Paul, senior professor at the School of Management and Labour Studies at the Tata Institute of Social Sciences (TISS) in Mumbai."
+        }
+      ]
+    },
+    {
+      "claim": "Mohammed Arman has been working in the textiles industry in Bangalore for 10 years.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "Mohammed Arman has been working in the textiles industry in Bangalore for 10 years."
+        }
+      ]
+    },
+    {
+      "claim": "Jolly Arifur is a science teacher living in Guntakal, Anantapur, who has been doing data collection work for the past seven months.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "Science teacher Jolly Arifur was looking for work she could do from home that would fit around her young son.\n\"For the past seven months, I strapped a rig-mounted camera on my head while doing my routine domestic work scrubbing, cooking, sweeping tile floors, and folding laundry.\"\nArifur, who lives in Guntakal, Anantapur, fits the recording work around her teaching."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "quote": "Science teacher Jolly Arifur was looking for work she could do from home that would fit around her young son.\n\"For the past seven months, I strapped a rig-mounted camera on my head while doing my routine domestic work scrubbing, cooking, sweeping tile floors, and folding laundry.\"\nArifur, who lives in Guntakal, Anantapur..."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss": 7599,
+    "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/": 4779
+  }
+}

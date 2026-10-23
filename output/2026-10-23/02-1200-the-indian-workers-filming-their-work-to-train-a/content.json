@@ -1,0 +1,72 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJI VE VERI",
+    "title": "Veri Toplama Sürecinde Neler Yaşanıyor",
+    "highlight_words": [
+      "Veri Toplama"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Küresel ölçekte veri toplayan çalışanların güncel durumu ve detayları.",
+    "source_tags": [
+      "BBC NEWS – TECHNOLOGY",
+      "GOOGLE BLOG"
+    ]
+  },
+  "context": {
+    "heading": "Küresel Veri Toplama Ağları",
+    "cards": [
+      {
+        "card_title": "Humyn Labs Ağı",
+        "card_body": "Kurucusu Manish Agarwal olan Humyn Labs, Latin Amerika ve Güneydoğu Asya ülkelerinde 96.000 veri toplayıcıya sahip."
+      },
+      {
+        "card_title": "Rashdan Technologies",
+        "card_body": "Şirketin kurucu ortağı ve CEO'su Shahil Baig olarak biliniyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "96.000",
+    "stat_caption": "Humyn Labs bünyesinde görev yapan toplam veri toplayıcı sayısı.",
+    "stat_quote": "Humyn Labs şu anda Latin Amerika ve Güneydoğu Asya ülkelerinde binlerce veri toplayıcıyla çalışıyor."
+  },
+  "details": {
+    "heading": "Çalışan Profilleri ve Ödemeler",
+    "cards": [
+      {
+        "card_title": "Bengaluru Çalışanları",
+        "card_body": "22 yaşındaki Mohammed Ashim dört yıldır berberlik yapıyor; Mohammed Arman ise Bengaluru'da tekstil sektöründe 10 yıldır çalışıyor."
+      },
+      {
+        "card_title": "Ücretlendirme",
+        "card_body": "Rashdan Technologies, sekiz ila 10 saatlik kaydedilen çalışma karşılığında 5 ila 10 dolar ödeme yapıyor."
+      },
+      {
+        "card_title": "Farklı Meslekler",
+        "card_body": "Guntakal, Anantapur'da yaşayan fen bilgisi öğretmeni Jolly Arifur, son yedi aydır veri toplama işi yapıyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel ve Akademik Boyut",
+    "cards": [
+      {
+        "card_title": "Sektörel Dağılım",
+        "card_body": "Farklı meslek gruplarından bireyler ek gelir veya veri toplama çalışmaları içinde yer alıyor."
+      },
+      {
+        "card_title": "Akademik Görüş",
+        "card_body": "Bino Paul, Mumbai'deki Tata Institute of Social Sciences'da Yönetim ve Çalışma Çalışmaları Okulu'nda kıdemli profesördür."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Küresel veri toplama süreçlerinin çalışma modelleri hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Düşüncelerinizi bizimle paylaşın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
