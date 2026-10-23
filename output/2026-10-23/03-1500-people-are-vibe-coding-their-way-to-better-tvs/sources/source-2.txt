@@ -1,0 +1,38 @@
+URL: https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace
+Erişim zamanı: 2026-10-23T16:12:48+03:00
+
+This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!
+If you’re an engineer, you may feel like your skills aren’t commanding the premium they once did. Many engineers have faced layoffs or restructuring. But even for those of us who still have jobs, something corrosive is happening. You may have heard some version of this:
+“ChatGPT answered that in five seconds. Why can’t you?”
+Or, “I made this app in a weekend. Why is our team taking so long?”
+I worked on a team where leadership said things like this directly to engineers. This was in 2024 and 2025, when the AI craze was in full swing and Claude and ChatGPT adoption was rising.
+Demo-Driven Development
+Generative AI (and the marketing behind it) gives people the illusion that the work is simpler than it is. A working demo hides complexity, and once someone has a website that works, they may decide they no longer need engineers, or start to distrust the ones they do have.
+Some CEOs want to believe they can replace an engineering team with a few sexy prompts. Many companies also want them to believe this.
+That website works great in the demo—under specific conditions and without users with thumbs for fingers. Then it has to plug into a system with millions of lines of old code, satisfy legal requirements, meet accessibility standards, and be delivered in a complex deployment process.
+Thinking that writing code was the only bottleneck for deploying new software is like the Titanic seeing the tip of the iceberg and assuming there was nothing underneath it.
+What you can do about it
+Engineers have a unique position in the AI space, because you have the capacity to understand how these models work much better than the average person. Use this to your advantage.
+Learn how AI models work. If you can’t already explain that LLMs are probabilistic, what tokens are, or why training data matters, spend a weekend fixing that. You don’t need to become a full-blown AI researcher. A few fundamentals will put you ahead of most people making the AI decisions.
+Teach upward. Turn that knowledge into teaching moments for the people who lead you. Explain the limits of these tools, and why a demo and a production system are different animals. It keeps people from truly believing that a notebook full of prompts can replace an engineering team.
+Consider the criticism of today’s processes. Some of what we do has been treated as ceremony for too long. Be willing to say, “you know what, maybe you’re right, this process is too slow for the speed we can work at now.” Conceding that earns you the credibility to defend the steps that matter.
+I still believe that speed at the cost of everything else is harmful—but that’s a topic for another time.
+Find your voice. Engineers at the forefront of AI adoption need to push back and explain why we do things the way we do. Nobody else in the room is going to do it for us.
+Don’t chase (too many) shiny objects
+Your goal, in my opinion, is to save your organization from buying into the hype so much that they chase the wrong thing. Our job, before and after AI, is building safe and useful products for human beings, and engineers are still best suited for that.
+—Brian
+We Need to Embed Ethics Into Our Engineering Courses
+The need to educate engineering students about ethics and social responsibility is widely recognized, but today’s curricula often miss the mark. Three professors propose a new approach: adding ethics training directly to core technical coursework.
+Read more here.
+The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing
+Looking for a career in quantum computing hardware? An IBM spin-off called Anderon could receive up to $1 billion in funding from the U.S. CHIPS and Science Act for its quantum foundry, established earlier this year. Could Anderon do for quantum hardware what TSMC did for conventional chips?
+Read more here.
+Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy
+When Gurmeet Saran joined Anthropic’s technical staff in 2025, he entered a role focused on a key question: How do you know whether you can trust a chatbot like Claude? Learn more about Saran’s path and his work at the AI company.
+Read more here.
+- AI Slop Is Changing How Engineers Review Code ›
+- AI Efficiency Could Cost Us the Next Generation of Experts ›
+- How to Stay Ahead of AI as an Early-Career Engineer ›
+Brian Jenney is the owner of Parsity, an online education platform that helps people break into AI and modern software roles through project-based learning and one-on-one mentorship with senior developers. Parsity helps career changers transition into software by focusing on practical skills, real-world systems, and the kind of experience companies actually look for.
+Outside Parsity, Brian works a senior software engineer in the SF Bay Area.
+Brian is also a father of three, and when he’s not working with students or building programs, you might catch him running around Lake Merritt in Oakland, California.

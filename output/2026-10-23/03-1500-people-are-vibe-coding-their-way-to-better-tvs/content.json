@@ -1,0 +1,72 @@
+{
+  "cover": {
+    "category_label": "YAZILIM VE GÜVENLİK",
+    "title": "Televizyonlarda Reklam Engelleme Dönemi",
+    "highlight_words": [
+      "Reklam Engelleme"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Cleanyourtv projeleri akıllı televizyonlarda veri toplamayı ve reklamları hedef alıyor.",
+    "source_tags": [
+      "THE VERGE",
+      "IEEE SPECTRUM"
+    ]
+  },
+  "context": {
+    "heading": "Yeni Projeler Neyi Amaçlıyor?",
+    "cards": [
+      {
+        "card_title": "Cleanyourtv ve Diğerleri",
+        "card_body": "Cleanyourtv projesinin adı 19'una kadar tv-vibehack olarak biliniyordu."
+      },
+      {
+        "card_title": "Amaç ve Hedef",
+        "card_body": "Cleanyourtv, tv-detox ve dumbtv projeleri sponsorlu reklamları kaldırmayı ve istenmeyen veri toplamayı engellemeyi amaçlıyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "4",
+    "stat_caption": "Desteklenen İşletim Sistemi ve Ürün Grubu",
+    "stat_quote": "Projeler Android ve Google TV işletim sistemine sahip TCL, Hisense, Sony ve eski Amazon Fire ürünlerinde çalışıyor."
+  },
+  "details": {
+    "heading": "Cihaz Uyumluluğu ve Sınırlar",
+    "cards": [
+      {
+        "card_title": "Desteklenen Cihazlar",
+        "card_body": "Projeler Android ve Google TV işletim sistemine sahip TCL, Hisense, Sony ve eski Amazon Fire ürünlerinde çalışıyor."
+      },
+      {
+        "card_title": "Desteklenmeyen Sistemler",
+        "card_body": "Samsung'un Tizen OS veya LG'nin webOS işletim sistemleri için benzer projeler bulunmuyor."
+      },
+      {
+        "card_title": "Yayın Cihazları",
+        "card_body": "Apple TV 4K ACR kullanmayan yayın cihazları arasında yer alıyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcı Deneyimi ve Riskler",
+    "cards": [
+      {
+        "card_title": "Güvenlik Riski",
+        "card_body": "Bir kullanıcı Claude kullanarak bir Samsung TV'yi hacklemeye çalışırken cihazı bozdu."
+      },
+      {
+        "card_title": "Veri Gizliliği",
+        "card_body": "İstenmeyen veri toplamayı engellemek bu projelerin temel amaçları arasında yer alıyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Televizyonunuzdaki sponsorlu reklamları engellemek için böyle bir yöntem denet miydiniz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

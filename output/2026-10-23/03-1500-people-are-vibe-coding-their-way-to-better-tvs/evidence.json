@@ -1,0 +1,241 @@
+{
+  "title": "People are vibe coding their way to better TVs",
+  "canonical_url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+  "source_names": [
+    "The Verge",
+    "IEEE Spectrum",
+    "NVIDIA Newsroom",
+    "GitHub Blog"
+  ],
+  "checked_at": "2026-10-23T16:12:48+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Cleanyourtv projesinin adı 19una kadar tv-vibehack olarak biliniyordu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "Cleanyourtv (known as tv-vibehack until the 19th), tv-detox, and dumbtv all claim to accomplish similar things — remove sponsored ads, debloat the TV so it runs faster, and block unwanted data collection that tracks what you’re watching — without hacking, or rooting, the TV."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "Cleanyourtv (known as tv-vibehack until the 19th)"
+        }
+      ]
+    },
+    {
+      "claim": "Cleanyourtv, tv-detox ve dumbtv projeleri sponsorlu reklamları kaldırmayı ve istenmeyen veri toplamayı engellemeyi amaçlıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "Cleanyourtv (known as tv-vibehack until the 19th), tv-detox, and dumbtv all claim to accomplish similar things — remove sponsored ads, debloat the TV so it runs faster, and block unwanted data collection that tracks what you’re watching — without hacking, or rooting, the TV."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "Cleanyourtv (known as tv-vibehack until the 19th), tv-detox, and dumbtv all claim to accomplish similar things — remove sponsored ads, debloat the TV so it runs faster, and block unwanted data collection that tracks what you’re watching"
+        }
+      ]
+    },
+    {
+      "claim": "Projeler Android ve Google TV işletim sistemine sahip TCL, Hisense, Sony ve eski Amazon Fire ürünlerinde çalışıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "Most of the projects we’ve seen so far focus on TVs that run on Android and Google TV operating systems (such as TCL, Hisense, Sony, and older Amazon Fire products), using existing developer modes and the Android Debug Bridge (ADB) to tweak settings and apply (and remove) packages."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "Most of the projects we’ve seen so far focus on TVs that run on Android and Google TV operating systems (such as TCL, Hisense, Sony, and older Amazon Fire products)"
+        }
+      ]
+    },
+    {
+      "claim": "Samsung'un Tizen OS veya LG'nin webOS işletim sistemleri için benzer projeler bulunmuyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "There’s nothing similar available for Samsung’s Tizen OS or LG’s webOS, apart from rooting the TV, which is a whole different level of hacking and device control."
+        }
+      ]
+    },
+    {
+      "claim": "Bir kullanıcı Claude kullanarak bir Samsung TV'yi hacklemeye çalışırken cihazı bozdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "One person who tried to vibe-hack a Samsung TV with Claude bricked it."
+        }
+      ]
+    },
+    {
+      "claim": "Apple TV 4K ACR kullanmayan yayın cihazları arasında yer alıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "If you still want to stream content, a streaming device that doesn’t use ACR, like an Apple TV 4K (grab a last-generation model before the expensive new one replaces it), is an option."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Cleanyourtv projesinin adı 19una kadar tv-vibehack olarak biliniyordu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "Cleanyourtv (known as tv-vibehack until the 19th), tv-detox, and dumbtv all claim to accomplish similar things — remove sponsored ads, debloat the TV so it runs faster, and block unwanted data collection that tracks what you’re watching — without hacking, or rooting, the TV."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "Cleanyourtv (known as tv-vibehack until the 19th)"
+        }
+      ]
+    },
+    {
+      "claim": "Cleanyourtv, tv-detox ve dumbtv projeleri sponsorlu reklamları kaldırmayı ve istenmeyen veri toplamayı engellemeyi amaçlıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "Cleanyourtv (known as tv-vibehack until the 19th), tv-detox, and dumbtv all claim to accomplish similar things — remove sponsored ads, debloat the TV so it runs faster, and block unwanted data collection that tracks what you’re watching — without hacking, or rooting, the TV."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "Cleanyourtv (known as tv-vibehack until the 19th), tv-detox, and dumbtv all claim to accomplish similar things — remove sponsored ads, debloat the TV so it runs faster, and block unwanted data collection that tracks what you’re watching"
+        }
+      ]
+    },
+    {
+      "claim": "Projeler Android ve Google TV işletim sistemine sahip TCL, Hisense, Sony ve eski Amazon Fire ürünlerinde çalışıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "Most of the projects we’ve seen so far focus on TVs that run on Android and Google TV operating systems (such as TCL, Hisense, Sony, and older Amazon Fire products), using existing developer modes and the Android Debug Bridge (ADB) to tweak settings and apply (and remove) packages."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "Most of the projects we’ve seen so far focus on TVs that run on Android and Google TV operating systems (such as TCL, Hisense, Sony, and older Amazon Fire products)"
+        }
+      ]
+    },
+    {
+      "claim": "Samsung'un Tizen OS veya LG'nin webOS işletim sistemleri için benzer projeler bulunmuyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "There’s nothing similar available for Samsung’s Tizen OS or LG’s webOS, apart from rooting the TV, which is a whole different level of hacking and device control."
+        }
+      ]
+    },
+    {
+      "claim": "Bir kullanıcı Claude kullanarak bir Samsung TV'yi hacklemeye çalışırken cihazı bozdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "One person who tried to vibe-hack a Samsung TV with Claude bricked it."
+        }
+      ]
+    },
+    {
+      "claim": "Apple TV 4K ACR kullanmayan yayın cihazları arasında yer alıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "If you still want to stream content, a streaming device that doesn’t use ACR, like an Apple TV 4K (grab a last-generation model before the expensive new one replaces it), is an option."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Cleanyourtv projesinin adı 19una kadar tv-vibehack olarak biliniyordu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "Cleanyourtv (known as tv-vibehack until the 19th), tv-detox, and dumbtv all claim to accomplish similar things — remove sponsored ads, debloat the TV so it runs faster, and block unwanted data collection that tracks what you’re watching — without hacking, or rooting, the TV."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "Cleanyourtv (known as tv-vibehack until the 19th)"
+        }
+      ]
+    },
+    {
+      "claim": "Cleanyourtv, tv-detox ve dumbtv projeleri sponsorlu reklamları kaldırmayı ve istenmeyen veri toplamayı engellemeyi amaçlıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "Cleanyourtv (known as tv-vibehack until the 19th), tv-detox, and dumbtv all claim to accomplish similar things — remove sponsored ads, debloat the TV so it runs faster, and block unwanted data collection that tracks what you’re watching — without hacking, or rooting, the TV."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "Cleanyourtv (known as tv-vibehack until the 19th), tv-detox, and dumbtv all claim to accomplish similar things — remove sponsored ads, debloat the TV so it runs faster, and block unwanted data collection that tracks what you’re watching"
+        }
+      ]
+    },
+    {
+      "claim": "Projeler Android ve Google TV işletim sistemine sahip TCL, Hisense, Sony ve eski Amazon Fire ürünlerinde çalışıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "Most of the projects we’ve seen so far focus on TVs that run on Android and Google TV operating systems (such as TCL, Hisense, Sony, and older Amazon Fire products), using existing developer modes and the Android Debug Bridge (ADB) to tweak settings and apply (and remove) packages."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "Most of the projects we’ve seen so far focus on TVs that run on Android and Google TV operating systems (such as TCL, Hisense, Sony, and older Amazon Fire products)"
+        }
+      ]
+    },
+    {
+      "claim": "Samsung'un Tizen OS veya LG'nin webOS işletim sistemleri için benzer projeler bulunmuyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "There’s nothing similar available for Samsung’s Tizen OS or LG’s webOS, apart from rooting the TV, which is a whole different level of hacking and device control."
+        }
+      ]
+    },
+    {
+      "claim": "Bir kullanıcı Claude kullanarak bir Samsung TV'yi hacklemeye çalışırken cihazı bozdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "One person who tried to vibe-hack a Samsung TV with Claude bricked it."
+        }
+      ]
+    },
+    {
+      "claim": "Apple TV 4K ACR kullanmayan yayın cihazları arasında yer alıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "quote": "If you still want to stream content, a streaming device that doesn’t use ACR, like an Apple TV 4K (grab a last-generation model before the expensive new one replaces it), is an option."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/tech/1016116/vibe-coding-tv-os": 5416,
+    "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace": 5148,
+    "https://blogs.nvidia.com/blog/dsx-power/": 3954,
+    "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/": 10907
+  }
+}

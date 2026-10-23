@@ -1,0 +1,10 @@
+{
+  "slot": "15:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 92.4,
+  "candidates_tried": 1,
+  "gemini_calls": 11,
+  "canonical_url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+  "generated_at": "2026-10-23T16:13:33+03:00"
+}
