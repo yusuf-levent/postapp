@@ -1,0 +1,128 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ REHBERİ",
+    "title": "iPhone Duo ile Tanışın",
+    "highlight_words": [
+      "iPhone Duo"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Tamamen yeni nesil bir iPhone deneyimi için pratik ipuçları.",
+    "source_tags": [
+      "The Verge",
+      "Wired",
+      "Apple Newsroom",
+      "Ars Technica"
+    ]
+  },
+  "problem": {
+    "heading": "iPhone Duo Nedir?",
+    "cards": [
+      {
+        "card_title": "Tamamen Yeni Bir Tür",
+        "card_body": "The Duo, geleneksel modellerden farklı olarak tamamen yeni bir iPhone deneyimi sunuyor."
+      },
+      {
+        "card_title": "Çift Ekran Yapısı",
+        "card_body": "Cihazın sunduğu yeni özellikler günlük kullanımınızı değiştirmek için tasarlandı."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "1. Ekran Yönü Kilidi",
+      "cards": [
+        {
+          "card_title": "Bağımsız Kontrol",
+          "card_body": "iPhone Duo'nun her bir ekranı için yönü kilidini tamamen bağımsız olarak ayarlayabilirsiniz."
+        },
+        {
+          "card_title": "Esnek Kullanım",
+          "card_body": "Ekranları kullanım amacınıza göre dikey veya yatay sabitlemeniz mümkün."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "2. Ses Ayarları",
+      "cards": [
+        {
+          "card_title": "Sabit Konum",
+          "card_body": "Ses kontrol ayarlarını değiştirmek için Ayarlar menüsünü kullanabilirsiniz."
+        },
+        {
+          "card_title": "Ses ve Dokunuşlar",
+          "card_body": "Ayarlar, Sesler ve Dokunuşlar adımlarını izleyerek Sabit Konumlu Ses Kontrolleri seçeneğini aktif edebilirsiniz."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "3. Kontrol Merkezi ve Aksesuar",
+      "cards": [
+        {
+          "card_title": "Durum Simgesi",
+          "card_body": "Birleştirilmiş Wi-Fi ve pil durumu simgesine dokunarak Kontrol Merkezi'ne hızlıca ulaşabilirsiniz."
+        },
+        {
+          "card_title": "MagSafe Desteği",
+          "card_body": "Günlük kullanımda MagSafe PopSocket aksesuarını iPhone Duo ile birlikte kullanabilirsiniz."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "iPhone Duo'nun hangi özelliğini ilk olarak denemek istersiniz?",
+    "reminder_line": "Teknoloji dünyasındaki yenilikler için Tekno Pusula'yı takipte kalın!"
+  },
+  "context": {
+    "heading": "iPhone Duo Nedir?",
+    "cards": [
+      {
+        "card_title": "Tamamen Yeni Bir Tür",
+        "card_body": "The Duo, geleneksel modellerden farklı olarak tamamen yeni bir iPhone deneyimi sunuyor."
+      },
+      {
+        "card_title": "Çift Ekran Yapısı",
+        "card_body": "Cihazın sunduğu yeni özellikler günlük kullanımınızı değiştirmek için tasarlandı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "1. Ekran Yönü Kilidi",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "2. Ses Ayarları",
+    "cards": [
+      {
+        "card_title": "Sabit Konum",
+        "card_body": "Ses kontrol ayarlarını değiştirmek için Ayarlar menüsünü kullanabilirsiniz."
+      },
+      {
+        "card_title": "Ses ve Dokunuşlar",
+        "card_body": "Ayarlar, Sesler ve Dokunuşlar adımlarını izleyerek Sabit Konumlu Ses Kontrolleri seçeneğini aktif edebilirsiniz."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "3. Kontrol Merkezi ve Aksesuar",
+    "cards": [
+      {
+        "card_title": "Durum Simgesi",
+        "card_body": "Birleştirilmiş Wi-Fi ve pil durumu simgesine dokunarak Kontrol Merkezi'ne hızlıca ulaşabilirsiniz."
+      },
+      {
+        "card_title": "MagSafe Desteği",
+        "card_body": "Günlük kullanımda MagSafe PopSocket aksesuarını iPhone Duo ile birlikte kullanabilirsiniz."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}
