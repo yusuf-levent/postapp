@@ -225,5 +225,79 @@
     ],
     "created_at": "2026-10-23T16:15:31+03:00",
     "verified_claims_count": 6
+  },
+  {
+    "id": "2026-10-23-1800",
+    "date": "2026-10-23",
+    "slot": "18:00",
+    "type": "edu",
+    "title_tr": "Meta'nın Yeni İş Şartlarında Ertelenme Kararı",
+    "original_title": "Meta delays new business terms after publisher pushback on AI scraping",
+    "source_urls": [
+      "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
+    ],
+    "canonical_url": "https://theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+    "entities": [
+      "Meta",
+      "Fast Company",
+      "The Verge",
+      "Daniel Roberts",
+      "News/Media Alliance",
+      "Mark Zuckerberg"
+    ],
+    "event_type": "policy_delay",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6adb7636ce9fbd2e3b51ede4",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6adb764e91ffb6bdb08d6dcd",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6adb76656fe59a6ed27dc836",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2113646586307682683",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18169199116485384",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/De11Ge9G_f-",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6adb768e6bf37011a37f6ba7",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6adb76a6ce9fbd2e3b52460d",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-23T18:01:17+03:00",
+    "verified_claims_count": 5
   }
 ]
