@@ -75,5 +75,76 @@
     ],
     "created_at": "2026-10-23T09:26:41+03:00",
     "verified_claims_count": 5
+  },
+  {
+    "id": "2026-10-23-1200",
+    "date": "2026-10-23",
+    "slot": "12:00",
+    "type": "news",
+    "title_tr": "Veri Toplama Sürecinde Neler Yaşanıyor",
+    "original_title": "The Indian workers filming their work to train AI",
+    "source_urls": [
+      "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss"
+    ],
+    "canonical_url": "https://bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=rss&at_campaign=rss",
+    "entities": [
+      "Mohammed Ashim",
+      "Bengaluru",
+      "Rashdan Technologies"
+    ],
+    "event_type": "data_collection_for_ai",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6adb1df7e2b536ff313e01b2",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6adb1e0ebab742f874b7df22",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6adb1e252baa602d024031cf",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2113551832073093159",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "17948208900068659",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/De1KAGFliFt",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6adb1e482baa602d024034f2",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6adb1e5fe2b536ff313e1124",
+        "permalink": "https://facebook.com/1351036918092059_122117786889484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-23T11:44:31+03:00",
+    "verified_claims_count": 8
   }
 ]
