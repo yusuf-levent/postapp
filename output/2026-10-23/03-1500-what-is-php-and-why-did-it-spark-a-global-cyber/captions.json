@@ -1,61 +1,57 @@
 {
   "captions": {
     "instagram": {
-      "text": "PHP kullananlar dikkat! Wiz raporuna göre dünya web sitelerinin %70'ini etkileyen kritik açıklar bulundu. 10 üzerinden 9.2 şiddetindeki bu açıklar için yamalar yayınlandı. İngiltere Hükümeti önlem olarak 32 sitesini kapattı. Web sitenizi korumak için güncellemeleri hemen yaptınız mı? Kaynak: BBC News – Technology ve Wired",
+      "text": "PHP'de milyonlarca siteyi etkileyen kritik güvenlik açıkları tespit edildi! Wiz verilerine göre web sitelerinin yüzde 70'ini güçlendiren PHP'deki bu açıklar, 10 üzerinden 9.2 şiddetinde derecelendirildi. PHP Foundation tarafından yamalar yayınlandı ancak saldırı girişimleri şimdiden başladı bile. Web sitenizi ve sistemlerinizi bu tür kritik açıklara karşı nasıl koruyorsunuz? Kaynak: BBC News ve Ars Technica.",
       "hashtags": [
         "PHP",
         "SiberGüvenlik",
-        "Wiz",
+        "WebDevelopment",
         "Teknoloji",
-        "Yazılım",
         "Güvenlik",
-        "Haber",
-        "Coding",
         "CyberSecurity",
+        "Yazılım",
         "TechNews"
       ]
     },
     "tiktok": {
-      "text": "Dünya web sitelerinin %70'ini etkileyen kritik PHP açıkları alarmı! Yamalar yayınlandı, milyonlarca saldırı girişimi engelleniyor. Kaynak: BBC News – Technology",
+      "text": "Dünyadaki web sitelerinin yüzde 70'ini etkileyen kritik PHP açığı ortaya çıktı! 9.2 şiddetindeki bu açıklar için yamalar yayınlandı ancak saldırılar başladı bile. Kaynak: BBC News.",
       "hashtags": [
         "PHP",
-        "Güvenlik",
         "SiberGüvenlik",
         "Teknoloji",
-        "Wiz"
+        "Yazılım"
       ]
     },
     "x": {
-      "text": "Wiz raporuna göre dünya web sitelerinin %70'ini etkileyen PHP'de 9.2 şiddetinde kritik açıklar bulundu. Yamalar yayınlandı! Kaynak: BBC News – Technology",
+      "text": "PHP'de 10 üzerinden 9.2 şiddetinde kritik güvenlik açıkları tespit edildi! Dünyadaki web sitelerinin %70'ini etkileyen açıklar için yamalar yayınlandı. Web sitenizi nasıl koruyorsunuz? Kaynak: BBC News ve Ars Technica.",
       "hashtags": [
         "PHP",
         "SiberGüvenlik"
       ]
     },
     "threads": {
-      "text": "PHP'de Kritik Güvenlik Açığı Alarmı!\n\nWiz raporuna göre dünya web sitelerinin %70'ini güçlendiren PHP'de 9.2 şiddetinde kritik açıklar tespit edildi. PHP Foundation hemen yamaları yayınladı.\n\nİngiltere Hükümeti 32 sitesini geçici olarak kapattı. Cloudflare milyonlarca saldırı girişimi bildirdi. 💭\n\nWeb sitenizi korumak için güncellemeleri yaptınız mı?\n\nKaynak: BBC News – Technology",
+      "text": "PHP'de Kritik Güvenlik Açığı\n\nDünyadaki web sitelerinin yüzde 70'ini etkileyen PHP açıklarına 9.2 şiddetinde dereceler verildi. PHP Foundation yamaları yayınladı ancak binlerce saldırı girişimi şimdiden rapor edildi.\n\nWeb sitenizi ve sistemlerinizi bu tür kritik açıklara karşı nasıl koruyorsunuz? 💭\n\nKaynak: BBC News",
       "hashtags": [
         "SiberGüvenlik"
       ]
     },
     "linkedin": {
-      "text": "Dijital dünyada kritik siber güvenlik alarmı! Wiz tarafından yayınlanan rapora göre, küresel web sitelerinin %70'ini destekleyen PHP altyapısında 9.2 şiddetinde kritik açıklar (CVE-2026-109618 ve CVE-2026-109619) tespit edildi. PHP Foundation hızla yamalar yayınlasa da, İngiltere Hükümeti ve Cloudflare gibi devler önlemler almaya başladı. Yazılım ekiplerinin güncellemeleri acilen yapması hayati önem taşıyor. Kaynak: BBC News – Technology ve Wired",
+      "text": "PHP altyapısında keşfedilen kritik güvenlik açıkları (CVE-2026-109618 ve CVE-2026-109619), küresel ölçekte risk oluşturuyor. Wiz verilerine göre web sitelerinin yüzde 70'ini etkileyen bu açıklar, araştırmacılar tarafından 10 üzerinden 9.2 şiddetinde derecelendirildi. PHP Foundation hızlı bir şekilde yamalar yayınlasa da, Cloudflare verileri duyuru öncesinde bile binlerce saldırı girişimi olduğunu gösteriyor. Kurumların ve geliştiricilerin bu süreçte acil güncellemeleri yapması kritik önem taşıyor. Sistemlerinizi bu açıklara karşı nasıl koruyorsunuz? Kaynak: BBC News ve Ars Technica.",
       "hashtags": [
-        "CyberSecurity",
+        "SiberGüvenlik",
         "PHP",
-        "SoftwareEngineering",
-        "Technology",
-        "InformationSecurity"
+        "Yazılım",
+        "BilgiGüvenliği",
+        "Teknoloji"
       ]
     },
     "facebook": {
-      "text": "PHP'de kritik güvenlik açıkları alarmı! Dünya web sitelerinin %70'ini etkileyen bu açıklar için 9.2 şiddet derecesi verildi. PHP Foundation hemen yamaları yayınladı, İngiltere Hükümeti bazı sitelerini geçici olarak kapattı. Web sitenizi korumak için güncellemeleri yaptınız mı? Kaynak: BBC News – Technology",
+      "text": "Dünyadaki web sitelerinin yüzde 70'ini etkileyen kritik PHP güvenlik açıkları ortaya çıktı! 10 üzerinden 9.2 şiddetinde derecelendirilen bu açıklar için PHP Foundation yamalar yayınladı. İngiltere'de bazı siteler tedbir amacıyla çevrimdışı bırakıldı. Web sitenizi ve sistemlerinizi bu tür kritik açıklara karşı nasıl koruyorsunuz? Kaynak: BBC News ve Ars Technica.",
       "hashtags": [
         "PHP",
         "SiberGüvenlik",
         "Teknoloji",
-        "Güvenlik",
-        "Wiz"
+        "WebDevelopment"
       ]
     }
   },

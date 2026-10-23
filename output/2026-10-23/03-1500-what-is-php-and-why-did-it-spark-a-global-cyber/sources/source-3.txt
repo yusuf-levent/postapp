@@ -1,5 +1,5 @@
 URL: https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/
-Erişim zamanı: 2026-10-23T15:32:31+03:00
+Erişim zamanı: 2026-10-23T15:43:03+03:00
 
 A security researcher has demonstrated a software-only partial jailbreak of the Switch 2, gaining “userland” access that he says “lets us run homebrew, reverse engineer and mod Switch 2 games, back up save files off the Switch, and access most of the Switch 2’s peripherals through MMIO.”
 The hack relies on the original Switch version of SmileBasic 4, the latest in a long-running series of programming environments and interpreters that run on Nintendo hardware. The so-called “tethered” hack also requires access to a macOS or Linux PC on the same network to run a node.js package that helps enable privileged system access.

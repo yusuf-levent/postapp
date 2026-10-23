@@ -1,65 +1,65 @@
 {
   "cover": {
     "category_label": "SİBER GÜVENLİK",
-    "title": "PHP'de Kritik Güvenlik Açıkları Alarmı",
+    "title": "PHP'de Kritik Güvenlik Açığı",
     "highlight_words": [
       "Kritik",
       "Güvenlik"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Wiz raporuna göre dünya web sitelerinin %70'ini güçlendiren PHP'de kritik açıklar bulundu.",
+    "subtitle": "Dünyadaki web sitelerinin çoğunu etkileyen açıklar ve yayınlanan yamalar hakkında bilmeniz gerekenler.",
     "source_tags": [
-      "BBC NEWS – TECHNOLOGY",
-      "WIRED"
+      "BBC NEWS",
+      "ARS TECHNICA"
     ]
   },
   "context": {
-    "heading": "PHP Hakkında Bilmeniz Gerekenler",
+    "heading": "PHP ve Güvenlik Açıkları",
     "cards": [
       {
-        "card_title": "YAYGIN KULLANIM",
-        "card_body": "PHP, Wiz adlı siber güvenlik firmasına göre dünyanın web sitelerinin %70'ini güçlendirmektedir."
+        "card_title": "PHP'nin Tarihçesi",
+        "card_body": "PHP, 1990'ların başında dinamik web sayfalarına ve uygulamalara hizmet vermeye yardımcı olmak için geliştirilmiştir."
       },
       {
-        "card_title": "TARİHÇE",
-        "card_body": "PHP, 1990'ların başlarında dinamik web sayfalarına ve uygulamalarına yardımcı olmak için geliştirilmiştir."
+        "card_title": "Yaygın Kullanım",
+        "card_body": "Wiz adındaki siber güvenlik firmasının açıklamasına göre PHP, dünyadaki web sitelerinin yüzde 70'ini güçlendirmektedir."
       }
     ]
   },
   "stat": {
     "big_stat": "%70",
-    "stat_caption": "Dünya üzerindeki web sitelerinin PHP ile güçlendirildiği oran.",
-    "stat_quote": "Wiz adlı siber güvenlik firmasına göre PHP, dünyanın web sitelerinin %70'ini güçlendirmektedir."
+    "stat_caption": "Dünyadaki web sitelerinin PHP tarafından güçlendirildiği oran",
+    "stat_quote": "PHP, Wiz adındaki siber güvenlik firmasının açıklamasına göre dünyadaki web sitelerinin yüzde 70'ini güçlendirmektedir."
   },
   "details": {
     "heading": "Teknik Detaylar ve Yamalar",
     "cards": [
       {
-        "card_title": "KİMLİKLER VE ŞİDDET",
-        "card_body": "PHP'deki kritik güvenlik açıklarına CVE-2026-109618 ve CVE-2026-109619 teknik kimlikleri verilmiştir. Açıklar 10 üzerinden 9.2 şiddetinde derecelendirilmiştir."
+        "card_title": "Kritik Açıkların Derecesi",
+        "card_body": "PHP'deki kritik güvenlik açıklarına CVE-2026-109618 ve CVE-2026-109619 teknik kimlikleri verilmiş ve araştırmacılar tarafından 10 üzerinden 9.2 şiddetinde derecelendirilmiştir."
       },
       {
-        "card_title": "YAMALAR YAYINLANDI",
-        "card_body": "PHP Foundation, yazılımdaki güvenlik açıklarını gidermek için 21 Ekim Çarşamba günü yamalar yayınlamıştır."
+        "card_title": "Yamaların Yayınlanması",
+        "card_body": "PHP Foundation, yıllardır yazılımda gizlenen güvenlik açıklarını gidermek için Çarşamba günü yamalar yayınlamıştır."
       }
     ]
   },
   "impact": {
-    "heading": "Küresel Etkiler ve Önlemler",
+    "heading": "Siber Saldırılar ve Alınan Tedbirler",
     "cards": [
       {
-        "card_title": "İNGİLTERE HÜKÜMETİ",
-        "card_body": "İngiltere Hükümeti, ihtiyati tedbir olarak 32 sitesini geçici olarak kapattığını açıklamıştır."
+        "card_title": "Saldırı Girişimleri",
+        "card_body": "Cloudflare yöneticisi Matthew Prince, genel duyurudan önceki 10 saat içinde ağında binlerce PHP güvenlik açığından yararlanma girişimi gördüğünü belirtti."
       },
       {
-        "card_title": "CLOUDFLARE UYARISI",
-        "card_body": "Cloudflare yöneticisi Matthew Prince, duyurudan sonraki saatlerde ağında milyonlarca istismar girişimi gördüğünü belirtmiştir."
+        "card_title": "Hükümet Tedbirleri",
+        "card_body": "İngiltere Hükümeti Perşembe günü yaptığı açıklamada, tedbir amacıyla 32 sitenin çevrimdışı bırakıldığını ve bazı sınırlı hizmetlerin geçici olarak çevrimdışı olabileceğini bildirdi."
       }
     ]
   },
   "cta": {
-    "question": "Web sitenizi korumak için güncellemeleri hemen yaptınız mı?",
-    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın."
+    "question": "Web sitenizi ve sistemlerinizi bu tür kritik açıklara karşı nasıl koruyorsunuz?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
