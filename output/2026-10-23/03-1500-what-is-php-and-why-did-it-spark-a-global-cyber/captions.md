@@ -1,0 +1,45 @@
+# Platform Açıklamaları
+
+## INSTAGRAM
+
+PHP kullananlar dikkat! Wiz raporuna göre dünya web sitelerinin %70'ini etkileyen kritik açıklar bulundu. 10 üzerinden 9.2 şiddetindeki bu açıklar için yamalar yayınlandı. İngiltere Hükümeti önlem olarak 32 sitesini kapattı. Web sitenizi korumak için güncellemeleri hemen yaptınız mı? Kaynak: BBC News – Technology ve Wired
+
+#PHP #SiberGüvenlik #Wiz #Teknoloji #Yazılım #Güvenlik #Haber #Coding #CyberSecurity #TechNews
+
+## TIKTOK
+
+Dünya web sitelerinin %70'ini etkileyen kritik PHP açıkları alarmı! Yamalar yayınlandı, milyonlarca saldırı girişimi engelleniyor. Kaynak: BBC News – Technology
+
+#PHP #Güvenlik #SiberGüvenlik #Teknoloji #Wiz
+
+## X
+
+Wiz raporuna göre dünya web sitelerinin %70'ini etkileyen PHP'de 9.2 şiddetinde kritik açıklar bulundu. Yamalar yayınlandı! Kaynak: BBC News – Technology
+
+#PHP #SiberGüvenlik
+
+## THREADS
+
+PHP'de Kritik Güvenlik Açığı Alarmı!
+
+Wiz raporuna göre dünya web sitelerinin %70'ini güçlendiren PHP'de 9.2 şiddetinde kritik açıklar tespit edildi. PHP Foundation hemen yamaları yayınladı.
+
+İngiltere Hükümeti 32 sitesini geçici olarak kapattı. Cloudflare milyonlarca saldırı girişimi bildirdi. 💭
+
+Web sitenizi korumak için güncellemeleri yaptınız mı?
+
+Kaynak: BBC News – Technology
+
+#SiberGüvenlik
+
+## LINKEDIN
+
+Dijital dünyada kritik siber güvenlik alarmı! Wiz tarafından yayınlanan rapora göre, küresel web sitelerinin %70'ini destekleyen PHP altyapısında 9.2 şiddetinde kritik açıklar (CVE-2026-109618 ve CVE-2026-109619) tespit edildi. PHP Foundation hızla yamalar yayınlasa da, İngiltere Hükümeti ve Cloudflare gibi devler önlemler almaya başladı. Yazılım ekiplerinin güncellemeleri acilen yapması hayati önem taşıyor. Kaynak: BBC News – Technology ve Wired
+
+#CyberSecurity #PHP #SoftwareEngineering #Technology #InformationSecurity
+
+## FACEBOOK
+
+PHP'de kritik güvenlik açıkları alarmı! Dünya web sitelerinin %70'ini etkileyen bu açıklar için 9.2 şiddet derecesi verildi. PHP Foundation hemen yamaları yayınladı, İngiltere Hükümeti bazı sitelerini geçici olarak kapattı. Web sitenizi korumak için güncellemeleri yaptınız mı? Kaynak: BBC News – Technology
+
+#PHP #SiberGüvenlik #Teknoloji #Güvenlik #Wiz

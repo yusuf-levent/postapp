@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "SİBER GÜVENLİK",
+    "title": "PHP'de Kritik Güvenlik Açıkları Alarmı",
+    "highlight_words": [
+      "Kritik",
+      "Güvenlik"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Wiz raporuna göre dünya web sitelerinin %70'ini güçlendiren PHP'de kritik açıklar bulundu.",
+    "source_tags": [
+      "BBC NEWS – TECHNOLOGY",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "PHP Hakkında Bilmeniz Gerekenler",
+    "cards": [
+      {
+        "card_title": "YAYGIN KULLANIM",
+        "card_body": "PHP, Wiz adlı siber güvenlik firmasına göre dünyanın web sitelerinin %70'ini güçlendirmektedir."
+      },
+      {
+        "card_title": "TARİHÇE",
+        "card_body": "PHP, 1990'ların başlarında dinamik web sayfalarına ve uygulamalarına yardımcı olmak için geliştirilmiştir."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "%70",
+    "stat_caption": "Dünya üzerindeki web sitelerinin PHP ile güçlendirildiği oran.",
+    "stat_quote": "Wiz adlı siber güvenlik firmasına göre PHP, dünyanın web sitelerinin %70'ini güçlendirmektedir."
+  },
+  "details": {
+    "heading": "Teknik Detaylar ve Yamalar",
+    "cards": [
+      {
+        "card_title": "KİMLİKLER VE ŞİDDET",
+        "card_body": "PHP'deki kritik güvenlik açıklarına CVE-2026-109618 ve CVE-2026-109619 teknik kimlikleri verilmiştir. Açıklar 10 üzerinden 9.2 şiddetinde derecelendirilmiştir."
+      },
+      {
+        "card_title": "YAMALAR YAYINLANDI",
+        "card_body": "PHP Foundation, yazılımdaki güvenlik açıklarını gidermek için 21 Ekim Çarşamba günü yamalar yayınlamıştır."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Küresel Etkiler ve Önlemler",
+    "cards": [
+      {
+        "card_title": "İNGİLTERE HÜKÜMETİ",
+        "card_body": "İngiltere Hükümeti, ihtiyati tedbir olarak 32 sitesini geçici olarak kapattığını açıklamıştır."
+      },
+      {
+        "card_title": "CLOUDFLARE UYARISI",
+        "card_body": "Cloudflare yöneticisi Matthew Prince, duyurudan sonraki saatlerde ağında milyonlarca istismar girişimi gördüğünü belirtmiştir."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Web sitenizi korumak için güncellemeleri hemen yaptınız mı?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
