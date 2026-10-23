@@ -4,3 +4,4 @@
 - ✅ `12:00` [news] Veri Toplama Sürecinde Neler Yaşanıyor — 6/6 platform
 - ✅ `15:00` [news] Televizyonlarda Reklam Engelleme Dönemi — 6/6 platform
 - ✅ `18:00` [edu] Meta'nın Yeni İş Şartlarında Ertelenme Kararı — 6/6 platform
+- ✅ `21:00` [news] Ukrayna'daki Starlink Ağında Hız Kısıtlaması — 6/6 platform
