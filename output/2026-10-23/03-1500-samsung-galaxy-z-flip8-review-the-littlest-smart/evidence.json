@@ -6,12 +6,12 @@
     "Engadget",
     "Ars Technica"
   ],
-  "checked_at": "2026-10-23T14:41:48+03:00",
+  "checked_at": "2026-10-23T14:47:32+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Samsung Galaxy Z Flip8, selefine kıyasla 100 dolar daha pahalıdır.",
+      "claim": "Samsung Galaxy Z Flip8, bir önceki modele göre 100 dolar daha pahalıdır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -21,17 +21,22 @@
       ]
     },
     {
-      "claim": "Z Flip8, selefine göre 0.02 inç daha ince ve bir gramın üçte biri kadar daha hafiftir.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "Z Flip8, IP48 derecesine sahiptir.",
+      "claim": "Z Flip8, selefine kıyasla 0.02 inç daha ince ve 8 gram daha hafiftir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
-          "quote": "The Flip8 has an IP48 rating"
+          "quote": "The Z Flip8 shaves off 0.02 inches (0.55 millimeters) and a third of an ounce (8 grams) compared to its predecessor, making it the slimmest and lightest option in this category."
+        }
+      ]
+    },
+    {
+      "claim": "Cihaz, suya karşı dayanıklılık sağlayan IP48 derecesine sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
+          "quote": "The Flip8 has an IP48 rating, so you don’t need to worry about dropping it in the bath"
         },
         {
           "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
@@ -40,7 +45,7 @@
       ]
     },
     {
-      "claim": "Cihazın dış kısmında 4.1 inç AMOLED ekran, iç kısmında ise 6.9 inç AMOLED ana ekran bulunmaktadır.",
+      "claim": "Z Flip8, dış yüzde 4.1 inç ve iç yüzde 6.9 inç AMOLED ekran ile gelmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -54,21 +59,37 @@
       ]
     },
     {
-      "claim": "Z Flip8, Qualcomm Snapdragon 8 Elite Gen 5 işlemciye, 12 GB RAM'e ve 256 GB depolama alanına sahiptir.",
+      "claim": "Telefon, Qualcomm Snapdragon 8 Elite Gen 5 for Galaxy işlemciye, 12 GB RAM'e ve 256 GB depolama alanına sahiptir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
           "quote": "the Z Flip8 boasts the Qualcomm Snapdragon 8 Elite Gen 5 for Galaxy (the same cutting-edge chip that's in its two bigger siblings). It has 12 GB of RAM and 256 GB of storage."
-        },
-        {
-          "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
-          "quote": "but the Z Flip8 boasts the Qualcomm Snapdragon 8 Elite Gen 5 for Galaxy (the same cutting-edge chip that's in its two bigger siblings). It has 12 GB of RAM and 256 GB of storage."
         }
       ]
     },
     {
-      "claim": "Telefon, 25 watt kablolu ve 15 watt kablosiz şarj hızlarını destekler.",
+      "claim": "Cihazın depolama alanını 512 GB'a yükseltmek 200 dolara mal olmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
+          "quote": "You can jump to 512 GB for an extra $200, but there’s no option to increase the RAM."
+        }
+      ]
+    },
+    {
+      "claim": "Z Flip8, 4.300 mAh kapasiteli silikon-karbon pil ile beslenmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
+          "quote": "Samsung put in a 4,300-mAh silicon-carbon battery that’s good enough for casual use."
+        }
+      ]
+    },
+    {
+      "claim": "Telefon 25 watt kablolu ve 15 watt kablosuz şarj hızlarını desteklemektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -78,41 +99,13 @@
         {
           "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
           "quote": "Charging speeds are disappointing at 25 watts wired and 15 watts wireless, and I’m annoyed by Samsung’s refusal to implement the magnetic feature of Qi2."
-        }
-      ]
-    },
-    {
-      "claim": "Z Flip8, 50 megapiksel ana kameraya ve 12 megapiksel ultra geniş kameraya sahiptir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
-          "quote": "That said, the main 50-megapixel shooter is perfectly good in many situations, and most folks will be happy with the photos it captures. Some noise creeps in when it’s dark. The 12-megapixel ultrawide is useful when you want to cram a lot in or take a group selfie"
-        },
-        {
-          "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
-          "quote": "That said, the main 50-megapixel shooter is perfectly good in many situations, and most folks will be happy with the photos it captures. Some noise creeps in when it’s dark. The 12-megapixel ultrawide is useful when you want to cram a lot in or take a group selfie, but it’s a definite step down in quality."
-        }
-      ]
-    },
-    {
-      "claim": "Samsung, Z Flip8 için yedi yıllık platform ve güvenlik yazılımı güncellemesi sunmaktadır.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
-          "quote": "If you do pull the trigger on the Flip8, you get an excellent seven years of platform and security software updates"
-        },
-        {
-          "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
-          "quote": "If you do pull the trigger on the Flip8, you get an excellent seven years of platform and security software updates, potentially taking you all the way to 2033."
         }
       ]
     }
   ],
   "round1": [
     {
-      "claim": "Samsung Galaxy Z Flip8, selefine kıyasla 100 dolar daha pahalıdır.",
+      "claim": "Samsung Galaxy Z Flip8, bir önceki modele göre 100 dolar daha pahalıdır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -122,17 +115,22 @@
       ]
     },
     {
-      "claim": "Z Flip8, selefine göre 0.02 inç daha ince ve bir gramın üçte biri kadar daha hafiftir.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "Z Flip8, IP48 derecesine sahiptir.",
+      "claim": "Z Flip8, selefine kıyasla 0.02 inç daha ince ve 8 gram daha hafiftir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
-          "quote": "The Flip8 has an IP48 rating"
+          "quote": "The Z Flip8 shaves off 0.02 inches (0.55 millimeters) and a third of an ounce (8 grams) compared to its predecessor, making it the slimmest and lightest option in this category."
+        }
+      ]
+    },
+    {
+      "claim": "Cihaz, suya karşı dayanıklılık sağlayan IP48 derecesine sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
+          "quote": "The Flip8 has an IP48 rating, so you don’t need to worry about dropping it in the bath"
         },
         {
           "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
@@ -141,7 +139,7 @@
       ]
     },
     {
-      "claim": "Cihazın dış kısmında 4.1 inç AMOLED ekran, iç kısmında ise 6.9 inç AMOLED ana ekran bulunmaktadır.",
+      "claim": "Z Flip8, dış yüzde 4.1 inç ve iç yüzde 6.9 inç AMOLED ekran ile gelmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -155,21 +153,37 @@
       ]
     },
     {
-      "claim": "Z Flip8, Qualcomm Snapdragon 8 Elite Gen 5 işlemciye, 12 GB RAM'e ve 256 GB depolama alanına sahiptir.",
+      "claim": "Telefon, Qualcomm Snapdragon 8 Elite Gen 5 for Galaxy işlemciye, 12 GB RAM'e ve 256 GB depolama alanına sahiptir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
           "quote": "the Z Flip8 boasts the Qualcomm Snapdragon 8 Elite Gen 5 for Galaxy (the same cutting-edge chip that's in its two bigger siblings). It has 12 GB of RAM and 256 GB of storage."
-        },
-        {
-          "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
-          "quote": "but the Z Flip8 boasts the Qualcomm Snapdragon 8 Elite Gen 5 for Galaxy (the same cutting-edge chip that's in its two bigger siblings). It has 12 GB of RAM and 256 GB of storage."
         }
       ]
     },
     {
-      "claim": "Telefon, 25 watt kablolu ve 15 watt kablosiz şarj hızlarını destekler.",
+      "claim": "Cihazın depolama alanını 512 GB'a yükseltmek 200 dolara mal olmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
+          "quote": "You can jump to 512 GB for an extra $200, but there’s no option to increase the RAM."
+        }
+      ]
+    },
+    {
+      "claim": "Z Flip8, 4.300 mAh kapasiteli silikon-karbon pil ile beslenmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
+          "quote": "Samsung put in a 4,300-mAh silicon-carbon battery that’s good enough for casual use."
+        }
+      ]
+    },
+    {
+      "claim": "Telefon 25 watt kablolu ve 15 watt kablosuz şarj hızlarını desteklemektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -179,41 +193,13 @@
         {
           "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
           "quote": "Charging speeds are disappointing at 25 watts wired and 15 watts wireless, and I’m annoyed by Samsung’s refusal to implement the magnetic feature of Qi2."
-        }
-      ]
-    },
-    {
-      "claim": "Z Flip8, 50 megapiksel ana kameraya ve 12 megapiksel ultra geniş kameraya sahiptir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
-          "quote": "That said, the main 50-megapixel shooter is perfectly good in many situations, and most folks will be happy with the photos it captures. Some noise creeps in when it’s dark. The 12-megapixel ultrawide is useful when you want to cram a lot in or take a group selfie"
-        },
-        {
-          "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
-          "quote": "That said, the main 50-megapixel shooter is perfectly good in many situations, and most folks will be happy with the photos it captures. Some noise creeps in when it’s dark. The 12-megapixel ultrawide is useful when you want to cram a lot in or take a group selfie, but it’s a definite step down in quality."
-        }
-      ]
-    },
-    {
-      "claim": "Samsung, Z Flip8 için yedi yıllık platform ve güvenlik yazılımı güncellemesi sunmaktadır.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
-          "quote": "If you do pull the trigger on the Flip8, you get an excellent seven years of platform and security software updates"
-        },
-        {
-          "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
-          "quote": "If you do pull the trigger on the Flip8, you get an excellent seven years of platform and security software updates, potentially taking you all the way to 2033."
         }
       ]
     }
   ],
   "round2": [
     {
-      "claim": "Samsung Galaxy Z Flip8, selefine kıyasla 100 dolar daha pahalıdır.",
+      "claim": "Samsung Galaxy Z Flip8, bir önceki modele göre 100 dolar daha pahalıdır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -223,17 +209,22 @@
       ]
     },
     {
-      "claim": "Z Flip8, selefine göre 0.02 inç daha ince ve bir gramın üçte biri kadar daha hafiftir.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "Z Flip8, IP48 derecesine sahiptir.",
+      "claim": "Z Flip8, selefine kıyasla 0.02 inç daha ince ve 8 gram daha hafiftir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
-          "quote": "The Flip8 has an IP48 rating"
+          "quote": "The Z Flip8 shaves off 0.02 inches (0.55 millimeters) and a third of an ounce (8 grams) compared to its predecessor, making it the slimmest and lightest option in this category."
+        }
+      ]
+    },
+    {
+      "claim": "Cihaz, suya karşı dayanıklılık sağlayan IP48 derecesine sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
+          "quote": "The Flip8 has an IP48 rating, so you don’t need to worry about dropping it in the bath"
         },
         {
           "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
@@ -242,7 +233,7 @@
       ]
     },
     {
-      "claim": "Cihazın dış kısmında 4.1 inç AMOLED ekran, iç kısmında ise 6.9 inç AMOLED ana ekran bulunmaktadır.",
+      "claim": "Z Flip8, dış yüzde 4.1 inç ve iç yüzde 6.9 inç AMOLED ekran ile gelmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -256,21 +247,37 @@
       ]
     },
     {
-      "claim": "Z Flip8, Qualcomm Snapdragon 8 Elite Gen 5 işlemciye, 12 GB RAM'e ve 256 GB depolama alanına sahiptir.",
+      "claim": "Telefon, Qualcomm Snapdragon 8 Elite Gen 5 for Galaxy işlemciye, 12 GB RAM'e ve 256 GB depolama alanına sahiptir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
           "quote": "the Z Flip8 boasts the Qualcomm Snapdragon 8 Elite Gen 5 for Galaxy (the same cutting-edge chip that's in its two bigger siblings). It has 12 GB of RAM and 256 GB of storage."
-        },
-        {
-          "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
-          "quote": "but the Z Flip8 boasts the Qualcomm Snapdragon 8 Elite Gen 5 for Galaxy (the same cutting-edge chip that's in its two bigger siblings). It has 12 GB of RAM and 256 GB of storage."
         }
       ]
     },
     {
-      "claim": "Telefon, 25 watt kablolu ve 15 watt kablosiz şarj hızlarını destekler.",
+      "claim": "Cihazın depolama alanını 512 GB'a yükseltmek 200 dolara mal olmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
+          "quote": "You can jump to 512 GB for an extra $200, but there’s no option to increase the RAM."
+        }
+      ]
+    },
+    {
+      "claim": "Z Flip8, 4.300 mAh kapasiteli silikon-karbon pil ile beslenmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
+          "quote": "Samsung put in a 4,300-mAh silicon-carbon battery that’s good enough for casual use."
+        }
+      ]
+    },
+    {
+      "claim": "Telefon 25 watt kablolu ve 15 watt kablosuz şarj hızlarını desteklemektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -280,34 +287,6 @@
         {
           "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
           "quote": "Charging speeds are disappointing at 25 watts wired and 15 watts wireless, and I’m annoyed by Samsung’s refusal to implement the magnetic feature of Qi2."
-        }
-      ]
-    },
-    {
-      "claim": "Z Flip8, 50 megapiksel ana kameraya ve 12 megapiksel ultra geniş kameraya sahiptir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
-          "quote": "That said, the main 50-megapixel shooter is perfectly good in many situations, and most folks will be happy with the photos it captures. Some noise creeps in when it’s dark. The 12-megapixel ultrawide is useful when you want to cram a lot in or take a group selfie"
-        },
-        {
-          "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
-          "quote": "That said, the main 50-megapixel shooter is perfectly good in many situations, and most folks will be happy with the photos it captures. Some noise creeps in when it’s dark. The 12-megapixel ultrawide is useful when you want to cram a lot in or take a group selfie, but it’s a definite step down in quality."
-        }
-      ]
-    },
-    {
-      "claim": "Samsung, Z Flip8 için yedi yıllık platform ve güvenlik yazılımı güncellemesi sunmaktadır.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
-          "quote": "If you do pull the trigger on the Flip8, you get an excellent seven years of platform and security software updates"
-        },
-        {
-          "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
-          "quote": "If you do pull the trigger on the Flip8, you get an excellent seven years of platform and security software updates, potentially taking you all the way to 2033."
         }
       ]
     }

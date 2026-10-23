@@ -1,49 +1,49 @@
 {
   "cover": {
-    "category_label": "TEKNOLOJI DÜNYASI",
-    "title": "Galaxy Z Flip8 Tanıtıldı",
+    "category_label": "TEKNOLOJİ DÜNYASI",
+    "title": "Galaxy Z Flip8 ile Tanışın",
     "highlight_words": [
       "Z Flip8"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Samsung'un yeni katlanabilir telefonu hakkında bilmeniz gerekenler.",
+    "subtitle": "Samsung'un yeni katlanabilir telefonu hakkındaki tüm detaylar.",
     "source_tags": [
       "WIRED",
       "ENGADGET"
     ]
   },
   "context": {
-    "heading": "Tasarım ve Ekran Özellikleri",
+    "heading": "Yeni Nesil Tasarım",
     "cards": [
       {
-        "card_title": "Dış Ekran",
-        "card_body": "Cihazın dış kısmında 4.1 inç AMOLED ekran bulunmaktadır."
+        "card_title": "İnce ve Hafif",
+        "card_body": "Z Flip8, selefine kıyasla 0.02 inç daha ince ve 8 gram daha hafiftir."
       },
       {
-        "card_title": "İç Ekran",
-        "card_body": "Cihazın iç kısmında ise 6.9 inç AMOLED ana ekran yer alır."
+        "card_title": "Dayanıklılık",
+        "card_body": "Cihaz, suya karşı dayanıklılık sağlayan IP48 derecesine sahiptir."
       }
     ]
   },
   "stat": {
     "big_stat": "100$",
-    "stat_caption": "Selefine kıyasla fiyat artışı",
-    "stat_quote": "Samsung Galaxy Z Flip8, selefine kıyasla 100 dolar daha pahalıdır."
+    "stat_caption": "Önceki modele göre fiyat artışı",
+    "stat_quote": "Samsung Galaxy Z Flip8, bir önceki modele göre 100 dolar daha pahalıdır."
   },
   "details": {
-    "heading": "Teknik Detaylar ve Kamera",
+    "heading": "Teknik Özellikler",
     "cards": [
       {
-        "card_title": "Performans",
-        "card_body": "Qualcomm Snapdragon 8 Elite Gen 5 işlemci, 12 GB RAM ve 256 GB depolama alanı sunar."
+        "card_title": "Ekran Boyutları",
+        "card_body": "Dış yüzde 4.1 inç ve iç yüzde 6.9 inç AMOLED ekran ile gelmektedir."
       },
       {
-        "card_title": "Kamera Sistemi",
-        "card_body": "50 megapiksel ana kamera ve 12 megapiksel ultra geniş kameraya sahiptir."
+        "card_title": "Donanım Gücü",
+        "card_body": "Qualcomm Snapdragon 8 Elite Gen 5 for Galaxy işlemci, 12 GB RAM ve 256 GB depolama alanı sunar."
       },
       {
-        "card_title": "Dayanıklılık ve Şarj",
-        "card_body": "IP48 derecesine sahip cihaz, 25 watt kablolu ve 15 watt kablosuz şarjı destekler."
+        "card_title": "Pil ve Şarj",
+        "card_body": "4.300 mAh silikon-karbon pil; 25W kablolu ve 15W kablosuz şarjı destekler."
       }
     ]
   },
@@ -51,18 +51,18 @@
     "heading": "Kullanıcı ve Sektör Etkisi",
     "cards": [
       {
-        "card_title": "Yazılım Desteği",
-        "card_body": "Samsung, bu model için yedi yıllık platform ve güvenlik yazılımı güncellemesi sunmaktadır."
+        "card_title": "Depolama Seçeneği",
+        "card_body": "Cihazın depolama alanını 512 GB'a yükseltmek 200 dolara mal olmaktadır."
       },
       {
-        "card_title": "Fiyat ve Konumlandırma",
-        "card_body": "100 dolarlık fiyat artışı, katlanabilir pazarındaki rekabeti etkileyebilir."
+        "card_title": "Fiyat ve Performans",
+        "card_body": "Fiyat artışına rağmen sunulan donanım ve pil iyileştirmeleri dikkat çekiyor."
       }
     ]
   },
   "cta": {
-    "question": "Galaxy Z Flip8'in yeniliklerini ve 100 dolarlık fiyat artışını nasıl buluyorsunuz?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeler için takipte kalın."
+    "question": "Galaxy Z Flip8'in yeni özelliklerini ve fiyatını nasıl buldunuz?",
+    "reminder_line": "Teknoloji gündemini kaçırmamak için takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

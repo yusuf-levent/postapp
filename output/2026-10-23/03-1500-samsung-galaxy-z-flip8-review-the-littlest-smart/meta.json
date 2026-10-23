@@ -2,9 +2,9 @@
   "slot": "15:00",
   "type": "news",
   "model": "gemini-3.5-flash-lite",
-  "duration_seconds": 148.5,
+  "duration_seconds": 225.3,
   "candidates_tried": 1,
-  "gemini_calls": 20,
+  "gemini_calls": 40,
   "canonical_url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
-  "generated_at": "2026-10-23T14:43:41+03:00"
+  "generated_at": "2026-10-23T14:50:32+03:00"
 }
