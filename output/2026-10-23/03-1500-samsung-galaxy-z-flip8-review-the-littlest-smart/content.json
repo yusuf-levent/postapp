@@ -1,0 +1,72 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJI DÜNYASI",
+    "title": "Galaxy Z Flip8 Tanıtıldı",
+    "highlight_words": [
+      "Z Flip8"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Samsung'un yeni katlanabilir telefonu hakkında bilmeniz gerekenler.",
+    "source_tags": [
+      "WIRED",
+      "ENGADGET"
+    ]
+  },
+  "context": {
+    "heading": "Tasarım ve Ekran Özellikleri",
+    "cards": [
+      {
+        "card_title": "Dış Ekran",
+        "card_body": "Cihazın dış kısmında 4.1 inç AMOLED ekran bulunmaktadır."
+      },
+      {
+        "card_title": "İç Ekran",
+        "card_body": "Cihazın iç kısmında ise 6.9 inç AMOLED ana ekran yer alır."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "100$",
+    "stat_caption": "Selefine kıyasla fiyat artışı",
+    "stat_quote": "Samsung Galaxy Z Flip8, selefine kıyasla 100 dolar daha pahalıdır."
+  },
+  "details": {
+    "heading": "Teknik Detaylar ve Kamera",
+    "cards": [
+      {
+        "card_title": "Performans",
+        "card_body": "Qualcomm Snapdragon 8 Elite Gen 5 işlemci, 12 GB RAM ve 256 GB depolama alanı sunar."
+      },
+      {
+        "card_title": "Kamera Sistemi",
+        "card_body": "50 megapiksel ana kamera ve 12 megapiksel ultra geniş kameraya sahiptir."
+      },
+      {
+        "card_title": "Dayanıklılık ve Şarj",
+        "card_body": "IP48 derecesine sahip cihaz, 25 watt kablolu ve 15 watt kablosuz şarjı destekler."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcı ve Sektör Etkisi",
+    "cards": [
+      {
+        "card_title": "Yazılım Desteği",
+        "card_body": "Samsung, bu model için yedi yıllık platform ve güvenlik yazılımı güncellemesi sunmaktadır."
+      },
+      {
+        "card_title": "Fiyat ve Konumlandırma",
+        "card_body": "100 dolarlık fiyat artışı, katlanabilir pazarındaki rekabeti etkileyebilir."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Galaxy Z Flip8'in yeniliklerini ve 100 dolarlık fiyat artışını nasıl buluyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
