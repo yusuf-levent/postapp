@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ DÜNYASI",
+    "title": "Akıllı Yüzük Pazarında Patent Savaşı",
+    "highlight_words": [
+      "Patent",
+      "Savaş"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Oura, rakibi Ultrahuman'a karşı ABD'de dava açtı.",
+    "source_tags": [
+      "TECHCRUNCH",
+      "THE VERGE"
+    ]
+  },
+  "context": {
+    "heading": "Davanın Arka Planı",
+    "cards": [
+      {
+        "card_title": "İddiaların Odağı",
+        "card_body": "Oura, Ultrahuman'ın Ring Pro modelinin tasarım, batarya ve sensör teknolojileriyle ilgili iki patentini ihlal ettiğini savunuyor."
+      },
+      {
+        "card_title": "Üretim Detayı",
+        "card_body": "Oura, Teksas merkezli SVTronics şirketini, Ring Pro'yu Plano'daki tesislerinde ürettiği gerekçesiyle davaya dahil etti."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "%12,8",
+    "stat_caption": "Küresel akıllı yüzük sevkiyatlarındaki yıllık büyüme beklentisi.",
+    "stat_quote": "IDC verilerine göre, akıllı yüzük sevkiyatlarının bu yıl 4,9 milyon adede ulaşması ve 2030'a kadar 6,3 milyona çıkması öngörülüyor."
+  },
+  "details": {
+    "heading": "Süreç Nasıl İlerliyor?",
+    "cards": [
+      {
+        "card_title": "Yasal Süreç",
+        "card_body": "Oura, 20 Ekim'de tescil edilen 12,769,363 numaralı patentine dayanarak Ultrahuman'ın ABD'deki satışlarını durdurmayı hedefliyor."
+      },
+      {
+        "card_title": "Ultrahuman'ın Durumu",
+        "card_body": "Ring Pro modeli Şubat ayında piyasaya çıktı ve Mart ayında ABD Gümrük ve Sınır Koruma biriminden olumlu bir karar almıştı."
+      },
+      {
+        "card_title": "Yatırım Gücü",
+        "card_body": "Ultrahuman, Eylül ayında aldığı 70 milyon dolarlık yatırımla değerlemesini yaklaşık 365 milyon dolara çıkardı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Yansımalar",
+    "cards": [
+      {
+        "card_title": "Pazar Dinamikleri",
+        "card_body": "Büyüyen akıllı yüzük pazarında rekabet kızışırken, patent davaları şirketlerin stratejilerini doğrudan etkiliyor."
+      },
+      {
+        "card_title": "Oura'nın Stratejisi",
+        "card_body": "Oura, piyasadaki belirsizlikleri gerekçe göstererek 2,2 milyar dolarlık halka arz (IPO) planını rafa kaldırdı."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce patent davaları, giyilebilir teknoloji pazarındaki inovasyonu yavaşlatır mı?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri takip etmek için bizi izlemeye devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

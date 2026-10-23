@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 169.3,
+  "candidates_tried": 1,
+  "gemini_calls": 24,
+  "canonical_url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+  "generated_at": "2026-10-23T08:44:46+03:00"
+}
