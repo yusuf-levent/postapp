@@ -671,5 +671,76 @@
     ],
     "created_at": "2026-10-24T19:40:29+03:00",
     "verified_claims_count": 7
+  },
+  {
+    "id": "2026-10-24-2100",
+    "date": "2026-10-24",
+    "slot": "21:00",
+    "type": "news",
+    "title_tr": "Capcom ID Sisteminde Veri Sızıntısı",
+    "original_title": "Capcom confirms data breach that affected 11.7 million users",
+    "source_urls": [
+      "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/"
+    ],
+    "canonical_url": "https://engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users",
+    "entities": [
+      "Capcom",
+      "Capcom ID",
+      "Street Fighter 6"
+    ],
+    "event_type": "data_breach",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6adcee418b3d437ddccfc059",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6adcee58e4be8a4d866f516d",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6adcee6f8b3d437ddccfcb69",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2114050356162204010",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18634129177059227",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/De4stDKFeqr",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6adcee938b3d437ddccfd46f",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6adceeaae4be8a4d866f6612",
+        "permalink": "https://facebook.com/1351036918092059_122118180351484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-24T20:45:24+03:00",
+    "verified_claims_count": 8
   }
 ]

@@ -4,3 +4,4 @@
 - ✅ `12:00` [news] Yapay Zeka Dünyasından Girişim Hikayeleri — 6/6 platform
 - ✅ `15:00` [news] Kişiselleştirilmiş mRNA Aşıları ile Yeni Umut — 6/6 platform
 - ✅ `18:00` [edu] Instacart Satış Masasında mı? — 6/6 platform
+- ✅ `21:00` [news] Capcom ID Sisteminde Veri Sızıntısı — 6/6 platform
