@@ -1,0 +1,213 @@
+{
+  "title": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent",
+  "canonical_url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+  "source_names": [
+    "Wired",
+    "Ars Technica"
+  ],
+  "checked_at": "2026-10-24T14:41:43+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Merck ve Moderna, kişiselleştirilmiş mRNA bazlı aşının immünoterapi ile birleştirildiğinde nüks veya ölüm riskini yüzde 42 oranında azalttığını gösteren Faz 3 klinik çalışmasının sonuçlarını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+          "quote": "The pharmaceutical companies Merck and Moderna released the results of a Phase 3 clinical trial that evaluated the efficacy of a personalized mRNA-based vaccine that, when combined with immunotherapy, reduced the risk of disease recurrence or death by 42 percent compared to treatment with the immunotherapy drug alone."
+        }
+      ]
+    },
+    {
+      "claim": "INTerpath-001 adı verilen çalışmaya, tümörleri tamamen ameliyatla alınan yüksek riskli 1.137 melanom hastası katıldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+          "quote": "The trial, known as INTerpath-001, included 1,137 people with high-risk melanoma who had undergone surgery to completely remove their tumors."
+        }
+      ]
+    },
+    {
+      "claim": "Katılımcılar ortalama 24.6 ay boyunca takip edildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+          "quote": "After monitoring the participants for an average of 24.6 months, the researchers determined that addition of the vaccine reduced the risk of cancer recurrence or death by 42 percent compared to Pembrolizumab alone."
+        }
+      ]
+    },
+    {
+      "claim": "Deney tedavisinin hastalığın vücudun diğer bölgelerine yayılma riskini yüzde 38 oranında azalttığı görüldü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+          "quote": "The results also showed that the experimental treatment reduced the risk of the disease spreading to other parts of the body by 38 percent."
+        }
+      ]
+    },
+    {
+      "claim": "Takip süresinin sonunda, her iki tedaviyi alan hastaların yüzde 82.2'si nükssüz kalırken, yalnızca Pembrolizumab alanlarda bu oran yüzde 70 oldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+          "quote": "At the end of the follow-up period, 82.2 percent of patients who received both treatments remained recurrence-free, compared with 70 percent of those who received Pembrolizumab alone."
+        }
+      ]
+    },
+    {
+      "claim": "Melanom, küresel olarak her yıl 50.000'den fazla insanın ölümüne neden olmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+          "quote": "Most people diagnosed with melanoma have a high chance of survival, especially if detected early, but as one of the most common cancers, melanoma kills over 50,000 people globally each year."
+        },
+        {
+          "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+          "quote": "as one of the most common cancers, melanoma kills over 50,000 people globally each year."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Merck ve Moderna, kişiselleştirilmiş mRNA bazlı aşının immünoterapi ile birleştirildiğinde nüks veya ölüm riskini yüzde 42 oranında azalttığını gösteren Faz 3 klinik çalışmasının sonuçlarını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+          "quote": "The pharmaceutical companies Merck and Moderna released the results of a Phase 3 clinical trial that evaluated the efficacy of a personalized mRNA-based vaccine that, when combined with immunotherapy, reduced the risk of disease recurrence or death by 42 percent compared to treatment with the immunotherapy drug alone."
+        }
+      ]
+    },
+    {
+      "claim": "INTerpath-001 adı verilen çalışmaya, tümörleri tamamen ameliyatla alınan yüksek riskli 1.137 melanom hastası katıldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+          "quote": "The trial, known as INTerpath-001, included 1,137 people with high-risk melanoma who had undergone surgery to completely remove their tumors."
+        }
+      ]
+    },
+    {
+      "claim": "Katılımcılar ortalama 24.6 ay boyunca takip edildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+          "quote": "After monitoring the participants for an average of 24.6 months, the researchers determined that addition of the vaccine reduced the risk of cancer recurrence or death by 42 percent compared to Pembrolizumab alone."
+        }
+      ]
+    },
+    {
+      "claim": "Deney tedavisinin hastalığın vücudun diğer bölgelerine yayılma riskini yüzde 38 oranında azalttığı görüldü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+          "quote": "The results also showed that the experimental treatment reduced the risk of the disease spreading to other parts of the body by 38 percent."
+        }
+      ]
+    },
+    {
+      "claim": "Takip süresinin sonunda, her iki tedaviyi alan hastaların yüzde 82.2'si nükssüz kalırken, yalnızca Pembrolizumab alanlarda bu oran yüzde 70 oldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+          "quote": "At the end of the follow-up period, 82.2 percent of patients who received both treatments remained recurrence-free, compared with 70 percent of those who received Pembrolizumab alone."
+        }
+      ]
+    },
+    {
+      "claim": "Melanom, küresel olarak her yıl 50.000'den fazla insanın ölümüne neden olmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+          "quote": "Most people diagnosed with melanoma have a high chance of survival, especially if detected early, but as one of the most common cancers, melanoma kills over 50,000 people globally each year."
+        },
+        {
+          "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+          "quote": "as one of the most common cancers, melanoma kills over 50,000 people globally each year."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Merck ve Moderna, kişiselleştirilmiş mRNA bazlı aşının immünoterapi ile birleştirildiğinde nüks veya ölüm riskini yüzde 42 oranında azalttığını gösteren Faz 3 klinik çalışmasının sonuçlarını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+          "quote": "The pharmaceutical companies Merck and Moderna released the results of a Phase 3 clinical trial that evaluated the efficacy of a personalized mRNA-based vaccine that, when combined with immunotherapy, reduced the risk of disease recurrence or death by 42 percent compared to treatment with the immunotherapy drug alone."
+        }
+      ]
+    },
+    {
+      "claim": "INTerpath-001 adı verilen çalışmaya, tümörleri tamamen ameliyatla alınan yüksek riskli 1.137 melanom hastası katıldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+          "quote": "The trial, known as INTerpath-001, included 1,137 people with high-risk melanoma who had undergone surgery to completely remove their tumors."
+        }
+      ]
+    },
+    {
+      "claim": "Katılımcılar ortalama 24.6 ay boyunca takip edildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+          "quote": "After monitoring the participants for an average of 24.6 months, the researchers determined that addition of the vaccine reduced the risk of cancer recurrence or death by 42 percent compared to Pembrolizumab alone."
+        }
+      ]
+    },
+    {
+      "claim": "Deney tedavisinin hastalığın vücudun diğer bölgelerine yayılma riskini yüzde 38 oranında azalttığı görüldü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+          "quote": "The results also showed that the experimental treatment reduced the risk of the disease spreading to other parts of the body by 38 percent."
+        }
+      ]
+    },
+    {
+      "claim": "Takip süresinin sonunda, her iki tedaviyi alan hastaların yüzde 82.2'si nükssüz kalırken, yalnızca Pembrolizumab alanlarda bu oran yüzde 70 oldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+          "quote": "At the end of the follow-up period, 82.2 percent of patients who received both treatments remained recurrence-free, compared with 70 percent of those who received Pembrolizumab alone."
+        }
+      ]
+    },
+    {
+      "claim": "Melanom, küresel olarak her yıl 50.000'den fazla insanın ölümüne neden olmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+          "quote": "Most people diagnosed with melanoma have a high chance of survival, especially if detected early, but as one of the most common cancers, melanoma kills over 50,000 people globally each year."
+        },
+        {
+          "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+          "quote": "as one of the most common cancers, melanoma kills over 50,000 people globally each year."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/": 4576,
+    "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/": 1968
+  }
+}

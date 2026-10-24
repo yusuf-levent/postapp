@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "SAĞLIK TEKNOLOJİLERİ",
+    "title": "Kişiselleştirilmiş mRNA Aşıları ile Yeni Umut",
+    "highlight_words": [
+      "mRNA",
+      "Aşıları"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Merck ve Moderna'dan melanom tedavisinde önemli Faz 3 klinik çalışma sonuçları.",
+    "source_tags": [
+      "WIRED",
+      "ARS TECHNICA"
+    ]
+  },
+  "context": {
+    "heading": "Klinik Çalışmanın Detayları",
+    "cards": [
+      {
+        "card_title": "INTerpath-001 Çalışması",
+        "card_body": "Tümörleri tamamen ameliyatla alınan yüksek riskli 1.137 melanom hastası bu kapsamlı çalışmaya katıldı."
+      },
+      {
+        "card_title": "Ortalama Takip Süresi",
+        "card_body": "Çalışmaya katılan hastalar ortalama 24.6 ay boyunca yakından takip edildi."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "%42",
+    "stat_caption": "Nüks veya Ölüm Riskinde Azalma",
+    "stat_quote": "Kişiselleştirilmiş mRNA bazlı aşının immünoterapi ile birleştirilmesi riski önemli ölçüde azalttı."
+  },
+  "details": {
+    "heading": "Tedavi Sonuçları",
+    "cards": [
+      {
+        "card_title": "Yayılma Riski",
+        "card_body": "Deney tedavisinin hastalığın vücudun diğer bölgelerine yayılma riskini yüzde 38 oranında azalttığı görüldü."
+      },
+      {
+        "card_title": "Nükssüz Kalma Oranı",
+        "card_body": "Her iki tedaviyi alan hastaların yüzde 82.2'si nükssüz kalırken, yalnızca Pembrolizumab alanlarda bu oran yüzde 70 oldu."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Küresel Etki ve Önemi",
+    "cards": [
+      {
+        "card_title": "Melanom Tehdidi",
+        "card_body": "Melanom, küresel olarak her yıl 50.000'den fazla insanın ölümüne neden olmaktadır."
+      },
+      {
+        "card_title": "Tıbbi Gelişme",
+        "card_body": "mRNA teknolojisinin kanser tedavisinde immünoterapiyle kombinasyonu umut vadeden sonuçlar sunuyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce mRNA teknolojisi gelecekte diğer kanser türlerinin tedavisinde de aynı başarıyı yakalayabilecek mi?",
+    "reminder_line": "Teknoloji ve bilim dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

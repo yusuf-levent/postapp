@@ -1,0 +1,10 @@
+{
+  "slot": "15:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 71.7,
+  "candidates_tried": 1,
+  "gemini_calls": 12,
+  "canonical_url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+  "generated_at": "2026-10-24T14:42:26+03:00"
+}
