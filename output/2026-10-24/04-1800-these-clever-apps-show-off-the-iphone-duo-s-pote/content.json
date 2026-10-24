@@ -1,0 +1,121 @@
+{
+  "cover": {
+    "category_label": "Teknoloji Dünyası",
+    "title": "iPhone Duo: Yeni Nesil Deneyim",
+    "highlight_words": [
+      "iPhone Duo",
+      "Özellikler"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Cihazın özellikleri ve optimize edilmiş uygulamalar hakkında bilmeniz gerekenler.",
+    "source_tags": [
+      "TechCrunch",
+      "The Verge",
+      "Engadget",
+      "Wired"
+    ]
+  },
+  "problem": {
+    "heading": "iPhone Duo Nedir?",
+    "cards": [
+      {
+        "card_title": "Başlangıç Fiyatı",
+        "card_body": "iPhone Duo cihazının piyasaya giriş fiyatı 2.000 dolar olarak belirlenmiştir."
+      },
+      {
+        "card_title": "Özel Deneyim",
+        "card_body": "Cihaz, özel olarak optimize edilmiş uygulama ekosistemiyle dikkat çekiyor."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Optimize Edilmiş Uygulamalar",
+      "cards": [
+        {
+          "card_title": "Desteklenen Uygulamalar",
+          "card_body": "Netflix, MLB, NYT Cooking, Slack ve Fantastical, iPhone Duo için özel olarak optimize edilmiştir."
+        },
+        {
+          "card_title": "Flighty Farkı",
+          "card_body": "Flighty uygulaması, iPhone Duo'ya özel 'En Route Mode' adlı yeni bir özellik sunuyor."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Geliştirici Başarıları",
+      "cards": [
+        {
+          "card_title": "Deck-Man",
+          "card_body": "Deck-Man uygulaması, Vidit Bhargava tarafından bir hackathon etkinliğinde tasarlanmıştır."
+        },
+        {
+          "card_title": "Wakeout",
+          "card_body": "Wakeout uygulaması, geçmişte Apple tarafından 'Yılın Uygulaması' ödülüne layık görülmüştür."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Uygulama Fiyatlandırması",
+      "cards": [
+        {
+          "card_title": "Toastie",
+          "card_body": "Toastie uygulaması, kullanıcılar için 2,99 dolar fiyat etiketiyle satışa sunulmuştur."
+        }
+      ],
+      "code_block": "Toastie App Price: $2.99"
+    }
+  ],
+  "cta": {
+    "question": "iPhone Duo'nun sunduğu bu özel uygulama deneyimi hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeler için Tekno Pusula'yı takipte kalın!"
+  },
+  "context": {
+    "heading": "iPhone Duo Nedir?",
+    "cards": [
+      {
+        "card_title": "Başlangıç Fiyatı",
+        "card_body": "iPhone Duo cihazının piyasaya giriş fiyatı 2.000 dolar olarak belirlenmiştir."
+      },
+      {
+        "card_title": "Özel Deneyim",
+        "card_body": "Cihaz, özel olarak optimize edilmiş uygulama ekosistemiyle dikkat çekiyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Optimize Edilmiş Uygulamalar",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Geliştirici Başarıları",
+    "cards": [
+      {
+        "card_title": "Deck-Man",
+        "card_body": "Deck-Man uygulaması, Vidit Bhargava tarafından bir hackathon etkinliğinde tasarlanmıştır."
+      },
+      {
+        "card_title": "Wakeout",
+        "card_body": "Wakeout uygulaması, geçmişte Apple tarafından 'Yılın Uygulaması' ödülüne layık görülmüştür."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Uygulama Fiyatlandırması",
+    "cards": [
+      {
+        "card_title": "Toastie",
+        "card_body": "Toastie uygulaması, kullanıcılar için 2,99 dolar fiyat etiketiyle satışa sunulmuştur."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}
