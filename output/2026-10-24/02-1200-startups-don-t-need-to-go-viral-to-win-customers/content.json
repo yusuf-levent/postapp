@@ -1,0 +1,72 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE GİRİŞİMCİLİK",
+    "title": "Yapay Zeka Dünyasından Girişim Hikayeleri",
+    "highlight_words": [
+      "Girişim Hikayeleri"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Engine ve Gamma'nın kurucularından iş dünyasına ilham veren stratejiler.",
+    "source_tags": [
+      "TECHCRUNCH",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Girişim Dünyasından İki İsim",
+    "cards": [
+      {
+        "card_title": "Engine'in Başarısı",
+        "card_body": "Elia Wallen, seyahat girişimi Engine'in kurucusu ve CEO'sudur."
+      },
+      {
+        "card_title": "Gamma'nın Vizyonu",
+        "card_body": "Grant Lee, Gamma'nın kurucusu ve CEO'sudur."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "150 MİLYON $",
+    "stat_caption": "Engine'in dışarıdan fon almadan önce ulaştığı rezervasyon tutarı.",
+    "stat_quote": "Şirketimiz dışarıdan fon almadan önce büyük bir rezervasyon hacmine ulaştı."
+  },
+  "details": {
+    "heading": "Büyüme ve Stratejiler",
+    "cards": [
+      {
+        "card_title": "Yaratıcı Tanıtım",
+        "card_body": "Elia Wallen, şirketinin ilk günlerinde potansiyel müşterileri cezbetmek için David adında bir sihirbaz kiraladıklarını belirtmiştir."
+      },
+      {
+        "card_title": "Yapay Zeka Destekli Araçlar",
+        "card_body": "Gamma, yapay zeka destekli sunum yazılımı satmaktadır ve Ambassadors programını uygulamıştır."
+      },
+      {
+        "card_title": "Yatırım Dünyası",
+        "card_body": "Crystal Huang, Google Ventures'ta genel ortaktır."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etkiler",
+    "cards": [
+      {
+        "card_title": "Seyahat Sektörü",
+        "card_body": "Engine, orta ölçekli işletmeler için konaklama ve seyahat rezervasyonlarını yönetmektedir."
+      },
+      {
+        "card_title": "Sunum Teknolojileri",
+        "card_body": "Gamma'nın yapay zeka destekli yazılımları iş süreçlerinde kullanılmaktadır."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce bir girişimin ilk günlerinde yaratıcı pazarlama taktikleri ne kadar önemli?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

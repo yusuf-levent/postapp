@@ -1,0 +1,247 @@
+{
+  "title": "Startups don’t need to go viral to win customers",
+  "canonical_url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+  "source_names": [
+    "TechCrunch",
+    "IEEE Spectrum",
+    "Wired",
+    "Engadget"
+  ],
+  "checked_at": "2026-10-24T11:41:47+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Elia Wallen, seyahat girişimi Engine'in kurucusu ve CEO'sudur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "quote": "Elia Wallen, founder and CEO of travel startup Engine"
+        }
+      ]
+    },
+    {
+      "claim": "Grant Lee, Gamma'nın kurucusu ve CEO'sudur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "quote": "Gamma founder and CEO Grant Lee"
+        }
+      ]
+    },
+    {
+      "claim": "Crystal Huang, Google Ventures'ta genel ortaktır (general partner).",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "quote": "Crystal Huang, general partner at Google Ventures"
+        }
+      ]
+    },
+    {
+      "claim": "Gamma, yapay zeka destekli sunum yazılımı satmaktadır ve Ambassadors programını uygulamıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "quote": "Gamma, which sells AI-powered presentation software, managed to scale its business exponentially with a social media strategy that deployed influencers through its Ambassadors (or “Gambassador”) program."
+        }
+      ]
+    },
+    {
+      "claim": "Engine, orta ölçekli işletmeler için konaklama ve seyahat rezervasyonlarını yönetmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "quote": "His company Engine, which manages lodging and travel bookings for midsize businesses"
+        }
+      ]
+    },
+    {
+      "claim": "Engine, dışarıdan fon almadan önce 150 milyon dolarlık rezervasyona ulaşmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "quote": "bootstrapped its way to $150 million in bookings before taking on any outside funding."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "quote": "His company Engine, which manages lodging and travel bookings for midsize businesses, bootstrapped its way to $150 million in bookings before taking on any outside funding."
+        }
+      ]
+    },
+    {
+      "claim": "Elia Wallen, şirketinin ilk günlerinde potansiyel müşterileri cezbetmek için David adında bir sihirbaz kiraladıklarını belirtmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "quote": "Wallen also shared an in-person tactic that his company deployed during its scrappy early days: hiring a magician named David to perform tricks for prospective clients at events and encourage them to visit the Engine’s booth."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Elia Wallen, seyahat girişimi Engine'in kurucusu ve CEO'sudur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "quote": "Elia Wallen, founder and CEO of travel startup Engine"
+        }
+      ]
+    },
+    {
+      "claim": "Grant Lee, Gamma'nın kurucusu ve CEO'sudur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "quote": "Gamma founder and CEO Grant Lee"
+        }
+      ]
+    },
+    {
+      "claim": "Crystal Huang, Google Ventures'ta genel ortaktır (general partner).",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "quote": "Crystal Huang, general partner at Google Ventures"
+        }
+      ]
+    },
+    {
+      "claim": "Gamma, yapay zeka destekli sunum yazılımı satmaktadır ve Ambassadors programını uygulamıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "quote": "Gamma, which sells AI-powered presentation software, managed to scale its business exponentially with a social media strategy that deployed influencers through its Ambassadors (or “Gambassador”) program."
+        }
+      ]
+    },
+    {
+      "claim": "Engine, orta ölçekli işletmeler için konaklama ve seyahat rezervasyonlarını yönetmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "quote": "His company Engine, which manages lodging and travel bookings for midsize businesses"
+        }
+      ]
+    },
+    {
+      "claim": "Engine, dışarıdan fon almadan önce 150 milyon dolarlık rezervasyona ulaşmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "quote": "bootstrapped its way to $150 million in bookings before taking on any outside funding."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "quote": "His company Engine, which manages lodging and travel bookings for midsize businesses, bootstrapped its way to $150 million in bookings before taking on any outside funding."
+        }
+      ]
+    },
+    {
+      "claim": "Elia Wallen, şirketinin ilk günlerinde potansiyel müşterileri cezbetmek için David adında bir sihirbaz kiraladıklarını belirtmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "quote": "Wallen also shared an in-person tactic that his company deployed during its scrappy early days: hiring a magician named David to perform tricks for prospective clients at events and encourage them to visit the Engine’s booth."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Elia Wallen, seyahat girişimi Engine'in kurucusu ve CEO'sudur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "quote": "Elia Wallen, founder and CEO of travel startup Engine"
+        }
+      ]
+    },
+    {
+      "claim": "Grant Lee, Gamma'nın kurucusu ve CEO'sudur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "quote": "Gamma founder and CEO Grant Lee"
+        }
+      ]
+    },
+    {
+      "claim": "Crystal Huang, Google Ventures'ta genel ortaktır (general partner).",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "quote": "Crystal Huang, general partner at Google Ventures"
+        }
+      ]
+    },
+    {
+      "claim": "Gamma, yapay zeka destekli sunum yazılımı satmaktadır ve Ambassadors programını uygulamıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "quote": "Gamma, which sells AI-powered presentation software, managed to scale its business exponentially with a social media strategy that deployed influencers through its Ambassadors (or “Gambassador”) program."
+        }
+      ]
+    },
+    {
+      "claim": "Engine, orta ölçekli işletmeler için konaklama ve seyahat rezervasyonlarını yönetmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "quote": "His company Engine, which manages lodging and travel bookings for midsize businesses"
+        }
+      ]
+    },
+    {
+      "claim": "Engine, dışarıdan fon almadan önce 150 milyon dolarlık rezervasyona ulaşmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "quote": "bootstrapped its way to $150 million in bookings before taking on any outside funding."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "quote": "His company Engine, which manages lodging and travel bookings for midsize businesses, bootstrapped its way to $150 million in bookings before taking on any outside funding."
+        }
+      ]
+    },
+    {
+      "claim": "Elia Wallen, şirketinin ilk günlerinde potansiyel müşterileri cezbetmek için David adında bir sihirbaz kiraladıklarını belirtmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "quote": "Wallen also shared an in-person tactic that his company deployed during its scrappy early days: hiring a magician named David to perform tricks for prospective clients at events and encourage them to visit the Engine’s booth."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/": 3979,
+    "https://spectrum.ieee.org/preethi-ashwath-chip-designer": 10605,
+    "https://www.wired.com/review/tdm-neo-hybrid-headphones/": 2037,
+    "https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/": 2387
+  }
+}
