@@ -7,11 +7,11 @@
       "Apple Watch"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Ekranı karartın, bildirimleri sessize alın ve pil ömrünü koruyun.",
+    "subtitle": "Sinemada veya toplantıda ekranınızın sizi rahatsız etmesini nasıl engellersiniz?",
     "source_tags": [
       "Engadget",
-      "TechCrunch",
       "The Verge",
+      "TechCrunch",
       "Wired"
     ]
   },
@@ -19,55 +19,55 @@
     "heading": "Neden Theater Mode Kullanmalısınız?",
     "cards": [
       {
-        "card_title": "Rahatsız Edici Işıklar",
-        "card_body": "Sinema veya tiyatro gibi karanlık ortamlarda, kolunuzu her hareket ettirdiğinizde saatinizin ekranının yanması hem sizi hem de çevrenizdekileri rahatsız edebilir."
+        "card_title": "Işık Kirliliğini Önleyin",
+        "card_body": "Karanlık ortamlarda bileğinizi her hareket ettirdiğinizde ekranın aniden parlaması hem sizi hem de çevrenizdekileri rahatsız edebilir."
       },
       {
-        "card_title": "Pil Tüketimi",
-        "card_body": "Ekranın en ufak bir bilek hareketiyle uyanması, pilinizin gereksiz yere tükenmesine neden olur. Theater Mode bu durumu engeller."
+        "card_title": "Pil Tasarrufu Sağlayın",
+        "card_body": "Ekranın sürekli uyanmasını engelleyerek, özellikle uzun süreli etkinliklerde pil tüketimini azaltabilirsiniz."
       }
     ],
     "code_block": ""
   },
   "steps": [
     {
-      "heading": "Theater Mode Ne Yapar?",
+      "heading": "Theater Mode Nasıl Aktif Edilir?",
       "cards": [
         {
-          "card_title": "Ekran ve Bildirimler",
-          "card_body": "Bu mod aktif olduğunda ekran kararır, cihaz sessize alınır ve görsel bildirimler devre dışı bırakılır."
+          "card_title": "Kontrol Merkezi'ne Erişim",
+          "card_body": "Apple Watch'un yan tarafındaki düz oval düğmeye basarak Kontrol Merkezi'ni açın."
         },
         {
-          "card_title": "Haptik Geri Bildirim",
-          "card_body": "Ekran kapalı olsa bile, önemli bildirimleri kaçırmamanız için titreşimli uyarılar (haptics) aktif kalmaya devam eder."
+          "card_title": "İkonu Bulun",
+          "card_body": "Kontrol Merkezi içerisinde yer alan, iki maske simgesiyle temsil edilen Theater Mode butonuna dokunarak özelliği aktif edin."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "Nasıl Aktif Edilir?",
+      "heading": "Mod Aktifken Neler Değişir?",
       "cards": [
         {
-          "card_title": "Kontrol Merkezi",
-          "card_body": "Saatinizin yan tarafındaki düğmeye basarak Kontrol Merkezi'ni açın."
+          "card_title": "Ekran Davranışı",
+          "card_body": "Bilek kaldırma hareketiyle ekran uyanmaz. Ekranı açmak için ekrana dokunmanız veya yan düğmelere basmanız gerekir."
         },
         {
-          "card_title": "İkonu Bulun",
-          "card_body": "Tiyatro maskeleri (komedi-trajedi) simgesine dokunarak modu kolayca açıp kapatabilirsiniz."
+          "card_title": "Bildirimler ve Sessiz Mod",
+          "card_body": "Cihaz sessize alınır ve görsel bildirimler devre dışı bırakılır. Ancak Do Not Disturb modundan farklı olarak, bildirim titreşimleri (haptics) çalışmaya devam eder."
         }
       ],
-      "code_block": "Yan Düğme -> Kontrol Merkezi -> Tiyatro Maskesi İkonu"
+      "code_block": ""
     },
     {
-      "heading": "Ekstra Ayarlar",
+      "heading": "Ekstra Ayarlar ve Geçmiş",
       "cards": [
         {
-          "card_title": "Biyometrik Veriler",
-          "card_body": "Theater Mode aktifken, kan oksijeni gibi bazı biyometrik ölçümlerin yapılmasını engelleyerek daha fazla gizlilik sağlayabilirsiniz."
+          "card_title": "Biyometrik Ölçümler",
+          "card_body": "Theater Mode aktifken Ayarlar menüsüne giderek, kan oksijeni gibi belirli biyometrik ölçümleri devre dışı bırakmayı seçebilirsiniz."
         },
         {
-          "card_title": "Geçmişi",
-          "card_body": "Bu özellik ilk olarak watchOS 3.2 ile hayatımıza girdi. Orijinal Apple Watch ise 2015 yılında piyasaya sürülmüştü."
+          "card_title": "Tarihçe",
+          "card_body": "Bu özellik, 2015 yılında piyasaya sürülen orijinal Apple Watch'tan sonra, watchOS 3.2 sürümü ile kullanıma sunulmuştur."
         }
       ],
       "code_block": ""
@@ -75,49 +75,49 @@
   ],
   "cta": {
     "question": "Siz Apple Watch'unuzda en çok hangi özelliği kullanıyorsunuz?",
-    "reminder_line": "Bu ipucunu kaydetmeyi unutmayın!"
+    "reminder_line": "Tekno Pusula'yı takip ederek güncel teknoloji ipuçlarından haberdar olun!"
   },
   "context": {
     "heading": "Neden Theater Mode Kullanmalısınız?",
     "cards": [
       {
-        "card_title": "Rahatsız Edici Işıklar",
-        "card_body": "Sinema veya tiyatro gibi karanlık ortamlarda, kolunuzu her hareket ettirdiğinizde saatinizin ekranının yanması hem sizi hem de çevrenizdekileri rahatsız edebilir."
+        "card_title": "Işık Kirliliğini Önleyin",
+        "card_body": "Karanlık ortamlarda bileğinizi her hareket ettirdiğinizde ekranın aniden parlaması hem sizi hem de çevrenizdekileri rahatsız edebilir."
       },
       {
-        "card_title": "Pil Tüketimi",
-        "card_body": "Ekranın en ufak bir bilek hareketiyle uyanması, pilinizin gereksiz yere tükenmesine neden olur. Theater Mode bu durumu engeller."
+        "card_title": "Pil Tasarrufu Sağlayın",
+        "card_body": "Ekranın sürekli uyanmasını engelleyerek, özellikle uzun süreli etkinliklerde pil tüketimini azaltabilirsiniz."
       }
     ]
   },
   "stat": {
     "big_stat": "💡",
-    "stat_caption": "Theater Mode Ne Yapar?",
+    "stat_caption": "Theater Mode Nasıl Aktif Edilir?",
     "stat_quote": ""
   },
   "details": {
-    "heading": "Nasıl Aktif Edilir?",
+    "heading": "Mod Aktifken Neler Değişir?",
     "cards": [
       {
-        "card_title": "Kontrol Merkezi",
-        "card_body": "Saatinizin yan tarafındaki düğmeye basarak Kontrol Merkezi'ni açın."
+        "card_title": "Ekran Davranışı",
+        "card_body": "Bilek kaldırma hareketiyle ekran uyanmaz. Ekranı açmak için ekrana dokunmanız veya yan düğmelere basmanız gerekir."
       },
       {
-        "card_title": "İkonu Bulun",
-        "card_body": "Tiyatro maskeleri (komedi-trajedi) simgesine dokunarak modu kolayca açıp kapatabilirsiniz."
+        "card_title": "Bildirimler ve Sessiz Mod",
+        "card_body": "Cihaz sessize alınır ve görsel bildirimler devre dışı bırakılır. Ancak Do Not Disturb modundan farklı olarak, bildirim titreşimleri (haptics) çalışmaya devam eder."
       }
     ]
   },
   "impact": {
-    "heading": "Ekstra Ayarlar",
+    "heading": "Ekstra Ayarlar ve Geçmiş",
     "cards": [
       {
-        "card_title": "Biyometrik Veriler",
-        "card_body": "Theater Mode aktifken, kan oksijeni gibi bazı biyometrik ölçümlerin yapılmasını engelleyerek daha fazla gizlilik sağlayabilirsiniz."
+        "card_title": "Biyometrik Ölçümler",
+        "card_body": "Theater Mode aktifken Ayarlar menüsüne giderek, kan oksijeni gibi belirli biyometrik ölçümleri devre dışı bırakmayı seçebilirsiniz."
       },
       {
-        "card_title": "Geçmişi",
-        "card_body": "Bu özellik ilk olarak watchOS 3.2 ile hayatımıza girdi. Orijinal Apple Watch ise 2015 yılında piyasaya sürülmüştü."
+        "card_title": "Tarihçe",
+        "card_body": "Bu özellik, 2015 yılında piyasaya sürülen orijinal Apple Watch'tan sonra, watchOS 3.2 sürümü ile kullanıma sunulmuştur."
       }
     ]
   },

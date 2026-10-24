@@ -1,10 +1,10 @@
 {
   "slot": "18:00",
   "type": "edu",
-  "model": "gemini-3.5-flash-lite",
-  "duration_seconds": 144.1,
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 178.2,
   "candidates_tried": 1,
-  "gemini_calls": 17,
+  "gemini_calls": 15,
   "canonical_url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
-  "generated_at": "2026-10-24T18:44:40+03:00"
+  "generated_at": "2026-10-24T19:00:02+03:00"
 }
