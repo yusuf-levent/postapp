@@ -1,0 +1,129 @@
+{
+  "cover": {
+    "category_label": "Apple Watch İpuçları",
+    "title": "Apple Watch'ta Theater Mode Nedir?",
+    "highlight_words": [
+      "Theater Mode",
+      "Apple Watch"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Ekranı karartın, bildirimleri sessize alın ve pil ömrünü koruyun.",
+    "source_tags": [
+      "Engadget",
+      "TechCrunch",
+      "The Verge",
+      "Wired"
+    ]
+  },
+  "problem": {
+    "heading": "Neden Theater Mode Kullanmalısınız?",
+    "cards": [
+      {
+        "card_title": "Rahatsız Edici Işıklar",
+        "card_body": "Sinema veya tiyatro gibi karanlık ortamlarda, kolunuzu her hareket ettirdiğinizde saatinizin ekranının yanması hem sizi hem de çevrenizdekileri rahatsız edebilir."
+      },
+      {
+        "card_title": "Pil Tüketimi",
+        "card_body": "Ekranın en ufak bir bilek hareketiyle uyanması, pilinizin gereksiz yere tükenmesine neden olur. Theater Mode bu durumu engeller."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Theater Mode Ne Yapar?",
+      "cards": [
+        {
+          "card_title": "Ekran ve Bildirimler",
+          "card_body": "Bu mod aktif olduğunda ekran kararır, cihaz sessize alınır ve görsel bildirimler devre dışı bırakılır."
+        },
+        {
+          "card_title": "Haptik Geri Bildirim",
+          "card_body": "Ekran kapalı olsa bile, önemli bildirimleri kaçırmamanız için titreşimli uyarılar (haptics) aktif kalmaya devam eder."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Nasıl Aktif Edilir?",
+      "cards": [
+        {
+          "card_title": "Kontrol Merkezi",
+          "card_body": "Saatinizin yan tarafındaki düğmeye basarak Kontrol Merkezi'ni açın."
+        },
+        {
+          "card_title": "İkonu Bulun",
+          "card_body": "Tiyatro maskeleri (komedi-trajedi) simgesine dokunarak modu kolayca açıp kapatabilirsiniz."
+        }
+      ],
+      "code_block": "Yan Düğme -> Kontrol Merkezi -> Tiyatro Maskesi İkonu"
+    },
+    {
+      "heading": "Ekstra Ayarlar",
+      "cards": [
+        {
+          "card_title": "Biyometrik Veriler",
+          "card_body": "Theater Mode aktifken, kan oksijeni gibi bazı biyometrik ölçümlerin yapılmasını engelleyerek daha fazla gizlilik sağlayabilirsiniz."
+        },
+        {
+          "card_title": "Geçmişi",
+          "card_body": "Bu özellik ilk olarak watchOS 3.2 ile hayatımıza girdi. Orijinal Apple Watch ise 2015 yılında piyasaya sürülmüştü."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Siz Apple Watch'unuzda en çok hangi özelliği kullanıyorsunuz?",
+    "reminder_line": "Bu ipucunu kaydetmeyi unutmayın!"
+  },
+  "context": {
+    "heading": "Neden Theater Mode Kullanmalısınız?",
+    "cards": [
+      {
+        "card_title": "Rahatsız Edici Işıklar",
+        "card_body": "Sinema veya tiyatro gibi karanlık ortamlarda, kolunuzu her hareket ettirdiğinizde saatinizin ekranının yanması hem sizi hem de çevrenizdekileri rahatsız edebilir."
+      },
+      {
+        "card_title": "Pil Tüketimi",
+        "card_body": "Ekranın en ufak bir bilek hareketiyle uyanması, pilinizin gereksiz yere tükenmesine neden olur. Theater Mode bu durumu engeller."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Theater Mode Ne Yapar?",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Nasıl Aktif Edilir?",
+    "cards": [
+      {
+        "card_title": "Kontrol Merkezi",
+        "card_body": "Saatinizin yan tarafındaki düğmeye basarak Kontrol Merkezi'ni açın."
+      },
+      {
+        "card_title": "İkonu Bulun",
+        "card_body": "Tiyatro maskeleri (komedi-trajedi) simgesine dokunarak modu kolayca açıp kapatabilirsiniz."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Ekstra Ayarlar",
+    "cards": [
+      {
+        "card_title": "Biyometrik Veriler",
+        "card_body": "Theater Mode aktifken, kan oksijeni gibi bazı biyometrik ölçümlerin yapılmasını engelleyerek daha fazla gizlilik sağlayabilirsiniz."
+      },
+      {
+        "card_title": "Geçmişi",
+        "card_body": "Bu özellik ilk olarak watchOS 3.2 ile hayatımıza girdi. Orijinal Apple Watch ise 2015 yılında piyasaya sürülmüştü."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}

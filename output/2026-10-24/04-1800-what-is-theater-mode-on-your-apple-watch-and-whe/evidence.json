@@ -1,0 +1,271 @@
+{
+  "title": "What is Theater Mode on your Apple Watch and when should you use it?",
+  "canonical_url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+  "source_names": [
+    "Engadget",
+    "TechCrunch",
+    "The Verge",
+    "Wired"
+  ],
+  "checked_at": "2026-10-24T18:43:08+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Theater Mode is a setting that launched with watchOS 3.2.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "The setting launched with watchOS 3.2"
+        }
+      ]
+    },
+    {
+      "claim": "The original Apple Watch first hit stores back in 2015.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "the original Apple Watch, which first hit stores back in 2015"
+        }
+      ]
+    },
+    {
+      "claim": "Theater Mode turns off the display, silences the device and disables visual notifications.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "it will turn off the display, silence the device and disable visual notifications."
+        },
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "Activating Theater Mode will dim the Apple Watch's bright lights and hush it down; it will turn off the display, silence the device and disable visual notifications."
+        }
+      ]
+    },
+    {
+      "claim": "Theater Mode allows you to keep haptics on so you can still feel the vibration from a notification.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "Theater Mode will allow you to keep haptics on, meaning you'll still be able to feel the vibration from a notification."
+        },
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "The big difference between this mode and the total serenity of Do Not Disturb (besides the disabled display) is that Theater Mode will allow you to keep haptics on, meaning you'll still be able to feel the vibration from a notification."
+        }
+      ]
+    },
+    {
+      "claim": "You can toggle Theater Mode by accessing the Control Center using the watch's side button and tapping the theatrical comedy-tragedy masks icon.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "you only need to tap your watch's side button (the flat oval button) to bring up the Control Center. From there, you can toggle Theater Mode by tapping the icon resembling the theatrical comedy-tragedy masks."
+        },
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "If you want to turn this feature on, you only need to tap your watch's side button (the flat oval button) to bring up the Control Center. From there, you can toggle Theater Mode by tapping the icon resembling the theatrical comedy-tragedy masks."
+        }
+      ]
+    },
+    {
+      "claim": "Theater Mode can reduce battery drain by stopping your watch from waking up at the slightest gesture.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "Chiefly, it can reduce battery drain by stopping your watch from waking up at the slightest gesture."
+        }
+      ]
+    },
+    {
+      "claim": "You can choose to suppress certain biometric readings, such as blood oxygen readings, while your watch is in Theater Mode.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "You can also choose to suppress certain biometric readings, such as blood oxygen readings, while your watch is in this mode."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Theater Mode is a setting that launched with watchOS 3.2.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "The setting launched with watchOS 3.2"
+        }
+      ]
+    },
+    {
+      "claim": "The original Apple Watch first hit stores back in 2015.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "the original Apple Watch, which first hit stores back in 2015"
+        }
+      ]
+    },
+    {
+      "claim": "Theater Mode turns off the display, silences the device and disables visual notifications.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "it will turn off the display, silence the device and disable visual notifications."
+        },
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "Activating Theater Mode will dim the Apple Watch's bright lights and hush it down; it will turn off the display, silence the device and disable visual notifications."
+        }
+      ]
+    },
+    {
+      "claim": "Theater Mode allows you to keep haptics on so you can still feel the vibration from a notification.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "Theater Mode will allow you to keep haptics on, meaning you'll still be able to feel the vibration from a notification."
+        },
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "The big difference between this mode and the total serenity of Do Not Disturb (besides the disabled display) is that Theater Mode will allow you to keep haptics on, meaning you'll still be able to feel the vibration from a notification."
+        }
+      ]
+    },
+    {
+      "claim": "You can toggle Theater Mode by accessing the Control Center using the watch's side button and tapping the theatrical comedy-tragedy masks icon.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "you only need to tap your watch's side button (the flat oval button) to bring up the Control Center. From there, you can toggle Theater Mode by tapping the icon resembling the theatrical comedy-tragedy masks."
+        },
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "If you want to turn this feature on, you only need to tap your watch's side button (the flat oval button) to bring up the Control Center. From there, you can toggle Theater Mode by tapping the icon resembling the theatrical comedy-tragedy masks."
+        }
+      ]
+    },
+    {
+      "claim": "Theater Mode can reduce battery drain by stopping your watch from waking up at the slightest gesture.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "Chiefly, it can reduce battery drain by stopping your watch from waking up at the slightest gesture."
+        }
+      ]
+    },
+    {
+      "claim": "You can choose to suppress certain biometric readings, such as blood oxygen readings, while your watch is in Theater Mode.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "You can also choose to suppress certain biometric readings, such as blood oxygen readings, while your watch is in this mode."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Theater Mode is a setting that launched with watchOS 3.2.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "The setting launched with watchOS 3.2"
+        }
+      ]
+    },
+    {
+      "claim": "The original Apple Watch first hit stores back in 2015.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "the original Apple Watch, which first hit stores back in 2015"
+        }
+      ]
+    },
+    {
+      "claim": "Theater Mode turns off the display, silences the device and disables visual notifications.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "it will turn off the display, silence the device and disable visual notifications."
+        },
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "Activating Theater Mode will dim the Apple Watch's bright lights and hush it down; it will turn off the display, silence the device and disable visual notifications."
+        }
+      ]
+    },
+    {
+      "claim": "Theater Mode allows you to keep haptics on so you can still feel the vibration from a notification.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "Theater Mode will allow you to keep haptics on, meaning you'll still be able to feel the vibration from a notification."
+        },
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "The big difference between this mode and the total serenity of Do Not Disturb (besides the disabled display) is that Theater Mode will allow you to keep haptics on, meaning you'll still be able to feel the vibration from a notification."
+        }
+      ]
+    },
+    {
+      "claim": "You can toggle Theater Mode by accessing the Control Center using the watch's side button and tapping the theatrical comedy-tragedy masks icon.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "you only need to tap your watch's side button (the flat oval button) to bring up the Control Center. From there, you can toggle Theater Mode by tapping the icon resembling the theatrical comedy-tragedy masks."
+        },
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "If you want to turn this feature on, you only need to tap your watch's side button (the flat oval button) to bring up the Control Center. From there, you can toggle Theater Mode by tapping the icon resembling the theatrical comedy-tragedy masks."
+        }
+      ]
+    },
+    {
+      "claim": "Theater Mode can reduce battery drain by stopping your watch from waking up at the slightest gesture.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "Chiefly, it can reduce battery drain by stopping your watch from waking up at the slightest gesture."
+        }
+      ]
+    },
+    {
+      "claim": "You can choose to suppress certain biometric readings, such as blood oxygen readings, while your watch is in Theater Mode.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+          "quote": "You can also choose to suppress certain biometric readings, such as blood oxygen readings, while your watch is in this mode."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/": 2855,
+    "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/": 11889,
+    "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro": 2855,
+    "https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/": 6923
+  }
+}

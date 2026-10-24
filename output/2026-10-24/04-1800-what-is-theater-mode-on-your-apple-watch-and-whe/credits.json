@@ -1,0 +1,47 @@
+{
+  "images": [
+    {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Apple_Watch_Series_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-24/04-1800-what-is-theater-mode-on-your-apple-watch-and-whe/images/img-1.png",
+      "license": "",
+      "author": "",
+      "credit_url": "https://en.wikipedia.org/wiki/Apple%20Watch",
+      "width": 4032,
+      "height": 3024,
+      "alt_text": "Apple Watch"
+    },
+    {
+      "source": "ogimage",
+      "url": "https://www.engadget.com/img/gallery/what-is-theater-mode-on-your-apple-watch-and-when-should-you-use-it/l-intro-1792501458.jpg",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-24/04-1800-what-is-theater-mode-on-your-apple-watch-and-whe/images/img-2.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
+      "width": 1600,
+      "height": 899,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/7989740/pexels-photo-7989740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-24/04-1800-what-is-theater-mode-on-your-apple-watch-and-whe/images/img-3.png",
+      "license": "Pexels License — Carlos Jairo",
+      "author": "Carlos Jairo",
+      "credit_url": "https://www.pexels.com/photo/black-gadgets-on-a-black-surface-7989740/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "A minimalist flat lay of electronic gadgets on a black surface, showcasing modern tech."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir.",
+  "music": [
+    {
+      "title": "Torley Wong - The Final Selection ::: 230 diverse MP3s",
+      "artist": "Torley Wong",
+      "license": "Creative Commons (ticari kullanıma uygun)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/us/",
+      "source_url": "https://archive.org/details/Torley_Wong_-_The_Final_Selection"
+    }
+  ]
+}
