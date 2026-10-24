@@ -1,0 +1,255 @@
+{
+  "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+  "canonical_url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+  "source_names": [
+    "TechCrunch",
+    "OpenAI News"
+  ],
+  "checked_at": "2026-10-24T19:32:21+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "The Information, Cuma günü Instacart'ın seçeneklerini değerlendirmek için bir yatırım bankasıyla anlaştığını bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "The Information reported Friday that the grocery delivery company has hired an investment bank to help it evaluate its options"
+        }
+      ]
+    },
+    {
+      "claim": "Instacart'ın DoorDash ile satın alma görüşmeleri yaptığı iddia edildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "The Information reported Friday that the grocery delivery company has hired an investment bank to help it evaluate its options, and that it’s held acquisition talks with DoorDash."
+        }
+      ]
+    },
+    {
+      "claim": "Bloomberg, Instacart'ın Uber ile görüştüğünü ancak Uber'in bu görüşmelerden çekildiğini bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "And Bloomberg reported that the company has also talked to Uber — although Uber reportedly walked away from those discussions."
+        }
+      ]
+    },
+    {
+      "claim": "Instacart'ın piyasa değeri 13 milyar doların üzerindedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "Instacart currently has a market cap of more than $13 billion"
+        }
+      ]
+    },
+    {
+      "claim": "Instacart'ın hisse senedi fiyatı yılbaşından bu yana %25 oranında artış gösterdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "its stock price is up 25% for the year to date."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "Instacart currently has a market cap of more than $13 billion, and its stock price is up 25% for the year to date."
+        }
+      ]
+    },
+    {
+      "claim": "Satış haberlerinin ardından Cuma günü Instacart'ın hisse fiyatı %9,2'den fazla yükseldi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "The reports of a potential sale caused the company’s share price to spike more than 9.2% on Friday"
+        }
+      ]
+    },
+    {
+      "claim": "Satış haberlerinin ardından Uber ve DoorDash hisseleri değer kaybetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "while Uber and DoorDash stock declined."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "The reports of a potential sale caused the company’s share price to spike more than 9.2% on Friday, while Uber and DoorDash stock declined."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "The Information, Cuma günü Instacart'ın seçeneklerini değerlendirmek için bir yatırım bankasıyla anlaştığını bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "The Information reported Friday that the grocery delivery company has hired an investment bank to help it evaluate its options"
+        }
+      ]
+    },
+    {
+      "claim": "Instacart'ın DoorDash ile satın alma görüşmeleri yaptığı iddia edildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "The Information reported Friday that the grocery delivery company has hired an investment bank to help it evaluate its options, and that it’s held acquisition talks with DoorDash."
+        }
+      ]
+    },
+    {
+      "claim": "Bloomberg, Instacart'ın Uber ile görüştüğünü ancak Uber'in bu görüşmelerden çekildiğini bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "And Bloomberg reported that the company has also talked to Uber — although Uber reportedly walked away from those discussions."
+        }
+      ]
+    },
+    {
+      "claim": "Instacart'ın piyasa değeri 13 milyar doların üzerindedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "Instacart currently has a market cap of more than $13 billion"
+        }
+      ]
+    },
+    {
+      "claim": "Instacart'ın hisse senedi fiyatı yılbaşından bu yana %25 oranında artış gösterdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "its stock price is up 25% for the year to date."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "Instacart currently has a market cap of more than $13 billion, and its stock price is up 25% for the year to date."
+        }
+      ]
+    },
+    {
+      "claim": "Satış haberlerinin ardından Cuma günü Instacart'ın hisse fiyatı %9,2'den fazla yükseldi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "The reports of a potential sale caused the company’s share price to spike more than 9.2% on Friday"
+        }
+      ]
+    },
+    {
+      "claim": "Satış haberlerinin ardından Uber ve DoorDash hisseleri değer kaybetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "while Uber and DoorDash stock declined."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "The reports of a potential sale caused the company’s share price to spike more than 9.2% on Friday, while Uber and DoorDash stock declined."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "The Information, Cuma günü Instacart'ın seçeneklerini değerlendirmek için bir yatırım bankasıyla anlaştığını bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "The Information reported Friday that the grocery delivery company has hired an investment bank to help it evaluate its options"
+        }
+      ]
+    },
+    {
+      "claim": "Instacart'ın DoorDash ile satın alma görüşmeleri yaptığı iddia edildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "The Information reported Friday that the grocery delivery company has hired an investment bank to help it evaluate its options, and that it’s held acquisition talks with DoorDash."
+        }
+      ]
+    },
+    {
+      "claim": "Bloomberg, Instacart'ın Uber ile görüştüğünü ancak Uber'in bu görüşmelerden çekildiğini bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "And Bloomberg reported that the company has also talked to Uber — although Uber reportedly walked away from those discussions."
+        }
+      ]
+    },
+    {
+      "claim": "Instacart'ın piyasa değeri 13 milyar doların üzerindedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "Instacart currently has a market cap of more than $13 billion"
+        }
+      ]
+    },
+    {
+      "claim": "Instacart'ın hisse senedi fiyatı yılbaşından bu yana %25 oranında artış gösterdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "its stock price is up 25% for the year to date."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "Instacart currently has a market cap of more than $13 billion, and its stock price is up 25% for the year to date."
+        }
+      ]
+    },
+    {
+      "claim": "Satış haberlerinin ardından Cuma günü Instacart'ın hisse fiyatı %9,2'den fazla yükseldi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "The reports of a potential sale caused the company’s share price to spike more than 9.2% on Friday"
+        }
+      ]
+    },
+    {
+      "claim": "Satış haberlerinin ardından Uber ve DoorDash hisseleri değer kaybetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "while Uber and DoorDash stock declined."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+          "quote": "The reports of a potential sale caused the company’s share price to spike more than 9.2% on Friday, while Uber and DoorDash stock declined."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/": 918,
+    "https://openai.com/index/uber-chatgpt-work-rollout": 1958
+  }
+}

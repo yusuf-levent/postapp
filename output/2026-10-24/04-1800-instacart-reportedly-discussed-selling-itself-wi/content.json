@@ -1,0 +1,120 @@
+{
+  "cover": {
+    "category_label": "Piyasa Analizi",
+    "title": "Instacart Satış Masasında mı?",
+    "highlight_words": [
+      "Instacart",
+      "Satış",
+      "Piyasa"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Dev market teslimat platformu hakkında çıkan son iddialar ve piyasa yansımaları.",
+    "source_tags": [
+      "TechCrunch",
+      "OpenAI News"
+    ]
+  },
+  "problem": {
+    "heading": "Sektörde Hareketli Saatler",
+    "cards": [
+      {
+        "card_title": "Stratejik Adım",
+        "card_body": "The Information'ın raporuna göre Instacart, stratejik seçeneklerini değerlendirmek amacıyla bir yatırım bankasıyla anlaşma sağladı."
+      },
+      {
+        "card_title": "Görüşme İddiaları",
+        "card_body": "Şirketin DoorDash ile satın alma görüşmeleri yürüttüğü iddia edilirken, Bloomberg'e göre Uber ile yapılan görüşmeler Uber'in çekilmesiyle sonuçlandı."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Piyasa Değeri ve Performans",
+      "cards": [
+        {
+          "card_title": "Güçlü Konum",
+          "card_body": "Instacart, şu an 13 milyar doların üzerinde bir piyasa değerine sahip."
+        },
+        {
+          "card_title": "Yıl İçi Artış",
+          "card_body": "Şirketin hisse senedi fiyatı, yılbaşından bu yana %25 oranında değer kazandı."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Hisse Senedi Tepkileri",
+      "cards": [
+        {
+          "card_title": "Instacart Yükselişte",
+          "card_body": "Satış haberlerinin piyasaya düşmesinin ardından, Cuma günü Instacart hisseleri %9,2'den fazla değer kazandı."
+        },
+        {
+          "card_title": "Diğerleri Etkilendi",
+          "card_body": "Aynı haber akışının ardından Uber ve DoorDash hisselerinde ise değer kaybı yaşandı."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Özet Tablo",
+      "cards": [
+        {
+          "card_title": "Durum Analizi",
+          "card_body": "Instacart seçeneklerini değerlendiriyor, piyasa ise bu belirsizliği hisse fiyatlarına yansıtıyor."
+        }
+      ],
+      "code_block": "Instacart Hisse Durumu: +%9,2 (Cuma Günü) | Yılbaşından Bu Yana: +%25 | Piyasa Değeri: >13 Milyar $"
+    }
+  ],
+  "cta": {
+    "question": "Sizce Instacart'ın bir başka dev tarafından satın alınması market teslimat sektörünü nasıl değiştirir?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri kaçırmamak için takipte kalın."
+  },
+  "context": {
+    "heading": "Sektörde Hareketli Saatler",
+    "cards": [
+      {
+        "card_title": "Stratejik Adım",
+        "card_body": "The Information'ın raporuna göre Instacart, stratejik seçeneklerini değerlendirmek amacıyla bir yatırım bankasıyla anlaşma sağladı."
+      },
+      {
+        "card_title": "Görüşme İddiaları",
+        "card_body": "Şirketin DoorDash ile satın alma görüşmeleri yürüttüğü iddia edilirken, Bloomberg'e göre Uber ile yapılan görüşmeler Uber'in çekilmesiyle sonuçlandı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Piyasa Değeri ve Performans",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Hisse Senedi Tepkileri",
+    "cards": [
+      {
+        "card_title": "Instacart Yükselişte",
+        "card_body": "Satış haberlerinin piyasaya düşmesinin ardından, Cuma günü Instacart hisseleri %9,2'den fazla değer kazandı."
+      },
+      {
+        "card_title": "Diğerleri Etkilendi",
+        "card_body": "Aynı haber akışının ardından Uber ve DoorDash hisselerinde ise değer kaybı yaşandı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Özet Tablo",
+    "cards": [
+      {
+        "card_title": "Durum Analizi",
+        "card_body": "Instacart seçeneklerini değerlendiriyor, piyasa ise bu belirsizliği hisse fiyatlarına yansıtıyor."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}
