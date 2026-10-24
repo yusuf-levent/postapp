@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE GÜVENLİK",
+    "title": "İngiltere'den Yapay Zeka ve Biyogüvenlik Hamlesi",
+    "highlight_words": [
+      "Biyogüvenlik",
+      "Yatırım"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Biyolojik tehditlere karşı yeni laboratuvar ve siber savunma yatırımları açıklandı.",
+    "source_tags": [
+      "BBC NEWS – TECHNOLOGY",
+      "MIT TECHNOLOGY REVIEW"
+    ]
+  },
+  "context": {
+    "heading": "Yatırımın Detayları",
+    "cards": [
+      {
+        "card_title": "AIBL'in Kurulması",
+        "card_body": "İngiltere hükümeti, biyogüvenlik savunmasını güçlendirmek için 100 milyon sterlin yatırım yaparak Ulusal Yapay Zeka Biyogüvenlik Laboratuvarı'nı kuracak."
+      },
+      {
+        "card_title": "Model Kredisi Desteği",
+        "card_body": "OpenAI ve Anthropic, bu laboratuvarın kurulmasını desteklemek amacıyla 200 milyon sterlin değerinde yapay zeka model kredisi sağlayacak."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "100 MİLYON",
+    "stat_caption": "Ulusal Yapay Zeka Biyogüvenlik Laboratuvarı (AIBL) için ayrılan sterlin cinsinden fon.",
+    "stat_quote": "İngiltere hükümeti gelişen biyolojik tehditlere karşı savunmayı güçlendirecek."
+  },
+  "details": {
+    "heading": "Ek Fonlar ve Enstitü",
+    "cards": [
+      {
+        "card_title": "AISI Kaynak Taahhüdü",
+        "card_body": "Şansölyenin planları kapsamında İngiltere'nin Yapay Zeka Güvenlik Enstitüsü'ne ek 120 milyon sterlin kaynak taahhüt edildi."
+      },
+      {
+        "card_title": "Kuruluş Tarihi",
+        "card_body": "Yapay Zeka Güvenlik Enstitüsü eski Muhafazakar hükümet tarafından 2023 yılında kuruldu."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Siber Savunma ve Altyapı",
+    "cards": [
+      {
+        "card_title": "Ulusal Siber Kalkan",
+        "card_body": "Hükümet, siber savunmaları güçlendirmek için yapay zeka kullanacak Ulusal Siber Kalkan için 60 milyon sterlinlik yatırım yapacak."
+      },
+      {
+        "card_title": "NERV Merkezi",
+        "card_body": "Kritik altyapı ve ekonomideki siber zafiyetleri tespit etmek amacıyla Ulusal Maruziyet ve Gerçek Zamanlı Zafiyet Merkezi'ne 70 milyon sterlin fon ayrılacak."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Yapay zeka modellerinin biyogüvenlik ve siber savunmada bu kadar aktif rol oynaması hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
