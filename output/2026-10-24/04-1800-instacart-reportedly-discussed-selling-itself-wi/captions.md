@@ -2,29 +2,19 @@
 
 ## INSTAGRAM
 
-Instacart satılıyor mu? 🛒 Piyasalarda hareketli saatler yaşanıyor! The Information'ın raporuna göre, market teslimat devi Instacart stratejik seçeneklerini değerlendirmek için bir yatırım bankasıyla masaya oturdu. 
+Instacart satış masasında mı? 🛒 Teknoloji dünyasında hareketli saatler! The Information'a göre 13 milyar dolarlık platform, stratejik seçenekleri için yatırım bankasıyla masaya oturdu. DoorDash ile görüşmeler sürerken, Uber süreçten çekildi. Haber sonrası Instacart hisseleri %9,2 değer kazandı. Yılbaşından bu yana ise %25 artış var. Bu olası birleşme sizce dengeleri nasıl değiştirir? Yorumlarda buluşalım! Kaynak: TechCrunch, OpenAI News
 
-İddialar arasında DoorDash ile görüşmeler olduğu konuşulurken, Uber'in ise bu süreçten çekildiği belirtiliyor. Bu haberlerin ardından Instacart hisseleri Cuma günü %9,2 değer kazandı. Yılbaşından bu yana ise %25'lik bir artış söz konusu.
-
-Sizce Instacart'ın bir başka dev tarafından satın alınması market teslimat sektörünü nasıl değiştirir? Yorumlarda buluşalım! 👇
-
-Kaynak: TechCrunch, OpenAI News
-
-#Instacart #PiyasaAnalizi #TeknolojiHaberleri #Borsa #Ekonomi #MarketTeslimat #Finans #TechNews #MarketAnalysis #BusinessUpdate
+#Instacart #PiyasaAnalizi #TeknolojiHaberleri #Borsa #Yatırım #DoorDash #Uber #Finans
 
 ## TIKTOK
 
-Instacart satılıyor mu? 🛒 Piyasalarda büyük hareketlilik var! Şirket stratejik seçeneklerini değerlendiriyor, hisseler %9,2 yükseldi. DoorDash ile görüşmeler iddia edilirken Uber çekildi. Sektörde neler oluyor? 📈
+Instacart satılıyor mu? 🚨 Dev platformun satış masasına oturduğu iddia ediliyor! DoorDash ile görüşmeler, Uber'in çekilmesi ve hisselerdeki %9'luk ani yükseliş... Sektörde neler oluyor? Sizce bu hamle piyasayı nasıl etkiler? Kaynak: TechCrunch, OpenAI News
 
-Kaynak: TechCrunch, OpenAI News
-
-#Instacart #Borsa #Ekonomi #Teknoloji #Haberler #Piyasa
+#Instacart #Ekonomi #Borsa #Teknoloji #Haberler #Finans
 
 ## X
 
-Instacart satılıyor mu? 🛒 Şirket stratejik seçeneklerini değerlendirmek için bankalarla masaya oturdu. Haberlerin ardından hisseler %9,2 değer kazandı. DoorDash ile görüşme iddiaları gündemde. Sektörde neler değişecek? 
-
-Kaynak: TechCrunch, OpenAI News
+Instacart satış masasında mı? 🛒 Şirketin stratejik seçenekler için bankalarla anlaştığı ve DoorDash ile görüştüğü iddia ediliyor. Haber sonrası hisseler %9,2 yükseldi. Sizce bu birleşme sektör dengelerini nasıl değiştirir? Kaynak: TechCrunch, OpenAI News
 
 #Instacart #Borsa
 
@@ -32,21 +22,24 @@ Kaynak: TechCrunch, OpenAI News
 
 Instacart Satış Masasında mı? 🛒
 
-Market teslimat devi Instacart, stratejik seçeneklerini değerlendirmek için yatırım bankalarıyla görüşüyor. DoorDash ile satın alma iddiaları gündeme gelirken, Uber'in süreçten çekildiği belirtiliyor.
+Teknoloji dünyasında hareketlilik var. Instacart, stratejik seçeneklerini değerlendirmek üzere bir yatırım bankasıyla anlaştı. DoorDash ile görüşmelerin sürdüğü, Uber'in ise çekildiği iddia ediliyor.
 
-Bu haberler piyasayı hareketlendirdi; Instacart hisseleri Cuma günü %9,2 değer kazandı. Sizce bu satın alma gerçekleşirse sektör nasıl şekillenir? 💭
+Haberin etkisiyle hisseler %9,2 değer kazandı. Sizce bu olası birleşme sektör dengelerini nasıl değiştirir? 💭
 
 Kaynak: TechCrunch, OpenAI News
 
-#Ekonomi
+#Instacart
 
 ## LINKEDIN
 
-Market teslimat sektöründe stratejik bir dönemeç: Instacart, geleceğini şekillendirmek adına yatırım bankalarıyla masaya oturdu. 
+Instacart'ın stratejik değerlendirme süreci, teknoloji ve lojistik sektöründe yeni bir dönemin habercisi olabilir. 13 milyar dolar değerindeki şirket, seçeneklerini masaya yatırmak üzere bir yatırım bankasıyla çalışmaya başladı.
 
-The Information'ın raporuna göre şirket, stratejik seçeneklerini değerlendiriyor. Bu süreçte DoorDash ile potansiyel görüşmelerin olduğu iddia edilirken, Uber'in süreçten çekildiği bilgisi paylaşıldı. Piyasa tepkisi ise oldukça net: Instacart hisseleri Cuma günü %9,2 değer kazanırken, yılbaşından bu yana toplamda %25'lik bir artış kaydetti. 
+Öne çıkanlar:
+- DoorDash ile potansiyel görüşmeler gündemde.
+- Uber'in süreçten çekildiği raporlandı.
+- Instacart hisseleri %9,2 yükseldi.
 
-Bu tür bir konsolidasyon, teslimat ekonomisinin geleceği ve rekabet dinamikleri açısından kritik bir öneme sahip. Sizce bu hamle, sektördeki oyuncuların pazar payını nasıl etkiler?
+Sizce bu adım, teslimat pazarındaki oyuncular için ne anlama geliyor? Yorumlarınızı bekliyorum.
 
 Kaynak: TechCrunch, OpenAI News
 
@@ -54,12 +47,6 @@ Kaynak: TechCrunch, OpenAI News
 
 ## FACEBOOK
 
-Instacart satılıyor mu? 🛒 Piyasalarda hareketli saatler yaşanıyor! 
+Instacart satış masasında mı? 🛒 Teknoloji dünyasında hareketli saatler! The Information'a göre 13 milyar dolarlık platform, stratejik seçenekleri için yatırım bankasıyla masaya oturdu. DoorDash ile görüşmeler sürerken, Uber süreçten çekildi. Haber sonrası Instacart hisseleri %9,2 değer kazandı. Bu olası birleşme sizce dengeleri nasıl değiştirir? Kaynak: TechCrunch, OpenAI News
 
-Market teslimat devi Instacart, stratejik seçeneklerini değerlendirmek için bir yatırım bankasıyla anlaşma sağladı. İddialar arasında DoorDash ile görüşmeler olduğu konuşulurken, Uber'in ise bu süreçten çekildiği belirtiliyor. 
-
-Bu haberlerin ardından Instacart hisseleri Cuma günü %9,2 değer kazandı. Yılbaşından bu yana ise %25'lik bir artış söz konusu. Sizce Instacart'ın bir başka dev tarafından satın alınması market teslimat sektörünü nasıl değiştirir? 
-
-Kaynak: TechCrunch, OpenAI News
-
-#Instacart #PiyasaAnalizi #TeknolojiHaberleri #Borsa #Ekonomi
+#Instacart #PiyasaAnalizi #TeknolojiHaberleri #Borsa #Yatırım

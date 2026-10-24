@@ -5,12 +5,12 @@
     "TechCrunch",
     "OpenAI News"
   ],
-  "checked_at": "2026-10-24T19:32:21+03:00",
+  "checked_at": "2026-10-24T19:37:10+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "The Information, Cuma günü Instacart'ın seçeneklerini değerlendirmek için bir yatırım bankasıyla anlaştığını bildirdi.",
+      "claim": "The Information, Instacart'ın seçeneklerini değerlendirmesi için bir yatırım bankasıyla anlaştığını bildirdi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -30,7 +30,7 @@
       ]
     },
     {
-      "claim": "Bloomberg, Instacart'ın Uber ile görüştüğünü ancak Uber'in bu görüşmelerden çekildiğini bildirdi.",
+      "claim": "Bloomberg, Instacart'ın Uber ile de görüştüğünü ancak Uber'in bu görüşmelerden çekildiğini bildirdi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -40,7 +40,7 @@
       ]
     },
     {
-      "claim": "Instacart'ın piyasa değeri 13 milyar doların üzerindedir.",
+      "claim": "Instacart'ın güncel piyasa değeri 13 milyar doların üzerindedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -77,10 +77,6 @@
       "claim": "Satış haberlerinin ardından Uber ve DoorDash hisseleri değer kaybetti.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
-          "quote": "while Uber and DoorDash stock declined."
-        },
         {
           "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
           "quote": "The reports of a potential sale caused the company’s share price to spike more than 9.2% on Friday, while Uber and DoorDash stock declined."
@@ -90,7 +86,7 @@
   ],
   "round1": [
     {
-      "claim": "The Information, Cuma günü Instacart'ın seçeneklerini değerlendirmek için bir yatırım bankasıyla anlaştığını bildirdi.",
+      "claim": "The Information, Instacart'ın seçeneklerini değerlendirmesi için bir yatırım bankasıyla anlaştığını bildirdi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -110,7 +106,7 @@
       ]
     },
     {
-      "claim": "Bloomberg, Instacart'ın Uber ile görüştüğünü ancak Uber'in bu görüşmelerden çekildiğini bildirdi.",
+      "claim": "Bloomberg, Instacart'ın Uber ile de görüştüğünü ancak Uber'in bu görüşmelerden çekildiğini bildirdi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -120,7 +116,7 @@
       ]
     },
     {
-      "claim": "Instacart'ın piyasa değeri 13 milyar doların üzerindedir.",
+      "claim": "Instacart'ın güncel piyasa değeri 13 milyar doların üzerindedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -157,10 +153,6 @@
       "claim": "Satış haberlerinin ardından Uber ve DoorDash hisseleri değer kaybetti.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
-          "quote": "while Uber and DoorDash stock declined."
-        },
         {
           "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
           "quote": "The reports of a potential sale caused the company’s share price to spike more than 9.2% on Friday, while Uber and DoorDash stock declined."
@@ -170,7 +162,7 @@
   ],
   "round2": [
     {
-      "claim": "The Information, Cuma günü Instacart'ın seçeneklerini değerlendirmek için bir yatırım bankasıyla anlaştığını bildirdi.",
+      "claim": "The Information, Instacart'ın seçeneklerini değerlendirmesi için bir yatırım bankasıyla anlaştığını bildirdi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -190,7 +182,7 @@
       ]
     },
     {
-      "claim": "Bloomberg, Instacart'ın Uber ile görüştüğünü ancak Uber'in bu görüşmelerden çekildiğini bildirdi.",
+      "claim": "Bloomberg, Instacart'ın Uber ile de görüştüğünü ancak Uber'in bu görüşmelerden çekildiğini bildirdi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -200,7 +192,7 @@
       ]
     },
     {
-      "claim": "Instacart'ın piyasa değeri 13 milyar doların üzerindedir.",
+      "claim": "Instacart'ın güncel piyasa değeri 13 milyar doların üzerindedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -237,10 +229,6 @@
       "claim": "Satış haberlerinin ardından Uber ve DoorDash hisseleri değer kaybetti.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
-          "quote": "while Uber and DoorDash stock declined."
-        },
         {
           "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
           "quote": "The reports of a potential sale caused the company’s share price to spike more than 9.2% on Friday, while Uber and DoorDash stock declined."
