@@ -1,0 +1,130 @@
+{
+  "cover": {
+    "category_label": "Yapay Zeka",
+    "title": "Block'tan Yeni Ses Modeli: Dessa",
+    "highlight_words": [
+      "Dessa",
+      "Ses Modeli",
+      "Yerel Çalışma"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Jack Dorsey'in şirketi Block, tamamen insan konuşmasıyla eğitilen yeni ses modelini duyurdu.",
+    "source_tags": [
+      "TechCrunch",
+      "The Verge",
+      "Engadget",
+      "OpenAI News"
+    ]
+  },
+  "problem": {
+    "heading": "Sesli Yapay Zekada Yeni Dönem",
+    "cards": [
+      {
+        "card_title": "Full-Duplex İletişim",
+        "card_body": "Dessa, OpenAI'ın GPT-Live modeli gibi aynı anda hem dinleyip hem konuşabilen tam çift yönlü (full-duplex) bir yapıya sahip."
+      },
+      {
+        "card_title": "Eğitim Süreci",
+        "card_body": "Model, tamamen insan konuşması verileri kullanılarak ve sadece tek bir NVIDIA GPU ile eğitildi."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Donanım ve Erişilebilirlik",
+      "cards": [
+        {
+          "card_title": "Yerel Çalıştırma",
+          "card_body": "Dessa modeli, MacBook M4 Max veya benzeri tüketici sınıfı bilgisayarlarda yerel olarak çalışabiliyor."
+        },
+        {
+          "card_title": "Halka Açık Erişim",
+          "card_body": "Şu an için modelin halka açık bir erişimi bulunmuyor."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Güvenlik ve Test Süreci",
+      "cards": [
+        {
+          "card_title": "Araştırmacılara Çağrı",
+          "card_body": "Block şirketi, modelin güvenliğini test etmeleri için güvenlik araştırmacılarını davet ediyor."
+        },
+        {
+          "card_title": "Pratik Kullanım",
+          "card_body": "Block bünyesindeki Square, sipariş işlemlerini yönetmek için halihazırda sesli yapay zeka teknolojisinden faydalanıyor."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Sektörel Karşılaştırma",
+      "cards": [
+        {
+          "card_title": "Duygu Aktarımı",
+          "card_body": "ElevenLabs v4 ve Fish Audio Drama 3 gibi modeller, konuşma üretiminde duygu sağlamak için özel ses etiketleri kullanıyor."
+        },
+        {
+          "card_title": "Farklı Yaklaşımlar",
+          "card_body": "Dessa'nın eğitim yöntemi ve full-duplex yeteneği, sesli yapay zeka pazarındaki rekabeti farklı bir boyuta taşıyor."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Sizce sesli yapay zekaların yerel bilgisayarlarda çalışması, gizlilik konusunda ne gibi avantajlar sağlar?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri kaçırmamak için bizi takipte kalın!"
+  },
+  "context": {
+    "heading": "Sesli Yapay Zekada Yeni Dönem",
+    "cards": [
+      {
+        "card_title": "Full-Duplex İletişim",
+        "card_body": "Dessa, OpenAI'ın GPT-Live modeli gibi aynı anda hem dinleyip hem konuşabilen tam çift yönlü (full-duplex) bir yapıya sahip."
+      },
+      {
+        "card_title": "Eğitim Süreci",
+        "card_body": "Model, tamamen insan konuşması verileri kullanılarak ve sadece tek bir NVIDIA GPU ile eğitildi."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Donanım ve Erişilebilirlik",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Güvenlik ve Test Süreci",
+    "cards": [
+      {
+        "card_title": "Araştırmacılara Çağrı",
+        "card_body": "Block şirketi, modelin güvenliğini test etmeleri için güvenlik araştırmacılarını davet ediyor."
+      },
+      {
+        "card_title": "Pratik Kullanım",
+        "card_body": "Block bünyesindeki Square, sipariş işlemlerini yönetmek için halihazırda sesli yapay zeka teknolojisinden faydalanıyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Karşılaştırma",
+    "cards": [
+      {
+        "card_title": "Duygu Aktarımı",
+        "card_body": "ElevenLabs v4 ve Fish Audio Drama 3 gibi modeller, konuşma üretiminde duygu sağlamak için özel ses etiketleri kullanıyor."
+      },
+      {
+        "card_title": "Farklı Yaklaşımlar",
+        "card_body": "Dessa'nın eğitim yöntemi ve full-duplex yeteneği, sesli yapay zeka pazarındaki rekabeti farklı bir boyuta taşıyor."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}

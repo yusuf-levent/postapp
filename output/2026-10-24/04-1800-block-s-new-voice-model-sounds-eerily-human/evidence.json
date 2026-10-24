@@ -1,0 +1,289 @@
+{
+  "title": "Block’s new voice model sounds eerily human",
+  "canonical_url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+  "source_names": [
+    "TechCrunch",
+    "The Verge",
+    "Engadget",
+    "OpenAI News"
+  ],
+  "checked_at": "2026-10-24T19:02:58+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Jack Dorsey’in şirketi Block, Dessa adında yeni bir ses modeli yayınladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "Jack Dorsey’s Block released a new voice model out of the company’s research lab that runs locally and sounds strangely human with its expressions like laughs, pauses, and cries. The company said the model, called Dessa, is trained fully on human speech and a single NVIDIA GPU."
+        }
+      ]
+    },
+    {
+      "claim": "Dessa modeli tamamen insan konuşması ve tek bir NVIDIA GPU kullanılarak eğitildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "The company said the model, called Dessa, is trained fully on human speech and a single NVIDIA GPU."
+        }
+      ]
+    },
+    {
+      "claim": "Dessa, OpenAI’ın GPT-Live modeli gibi aynı anda konuşup dinleyebilen tam çift yönlü (full-duplex) bir modeldir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "Dessa is a full-duplex model, which means it can talk and listen at the same time, just like the GPT-Live model OpenAI released earlier this year."
+        }
+      ]
+    },
+    {
+      "claim": "ElevenLabs v4 ve Fish Audio Drama 3 gibi modeller, konuşma üretiminde duygu sağlamak için ses etiketleri kullanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "A lot of models like ElevenLabs v4 or Fish Audio Drama 3 use voice tags to drive emotion in speech generation."
+        }
+      ]
+    },
+    {
+      "claim": "Dessa modeli, MacBook M4 Max veya daha iyi özelliklere sahip tüketici sınıfı bilgisayarlarda yerel olarak çalışabilmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "The company said that the model can run locally on a consumer-grade computer such as a MacBook M4 Max or better."
+        }
+      ]
+    },
+    {
+      "claim": "Dessa modeline şu an için halka açık bir erişim bulunmamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "However, there is no public access to Dessa at the moment"
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "However, there is no public access to Dessa at the moment, and Block has put out a call for safety researchers to test the model."
+        }
+      ]
+    },
+    {
+      "claim": "Block şirketi, Dessa modelini test etmeleri için güvenlik araştırmacılarına çağrıda bulundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "Block has put out a call for safety researchers to test the model."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "However, there is no public access to Dessa at the moment, and Block has put out a call for safety researchers to test the model."
+        }
+      ]
+    },
+    {
+      "claim": "Square, sipariş işlemlerini yönetmek için halihazırda sesli yapay zeka teknolojisini kullanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "Square already uses voice AI to handle ordering."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Jack Dorsey’in şirketi Block, Dessa adında yeni bir ses modeli yayınladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "Jack Dorsey’s Block released a new voice model out of the company’s research lab that runs locally and sounds strangely human with its expressions like laughs, pauses, and cries. The company said the model, called Dessa, is trained fully on human speech and a single NVIDIA GPU."
+        }
+      ]
+    },
+    {
+      "claim": "Dessa modeli tamamen insan konuşması ve tek bir NVIDIA GPU kullanılarak eğitildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "The company said the model, called Dessa, is trained fully on human speech and a single NVIDIA GPU."
+        }
+      ]
+    },
+    {
+      "claim": "Dessa, OpenAI’ın GPT-Live modeli gibi aynı anda konuşup dinleyebilen tam çift yönlü (full-duplex) bir modeldir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "Dessa is a full-duplex model, which means it can talk and listen at the same time, just like the GPT-Live model OpenAI released earlier this year."
+        }
+      ]
+    },
+    {
+      "claim": "ElevenLabs v4 ve Fish Audio Drama 3 gibi modeller, konuşma üretiminde duygu sağlamak için ses etiketleri kullanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "A lot of models like ElevenLabs v4 or Fish Audio Drama 3 use voice tags to drive emotion in speech generation."
+        }
+      ]
+    },
+    {
+      "claim": "Dessa modeli, MacBook M4 Max veya daha iyi özelliklere sahip tüketici sınıfı bilgisayarlarda yerel olarak çalışabilmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "The company said that the model can run locally on a consumer-grade computer such as a MacBook M4 Max or better."
+        }
+      ]
+    },
+    {
+      "claim": "Dessa modeline şu an için halka açık bir erişim bulunmamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "However, there is no public access to Dessa at the moment"
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "However, there is no public access to Dessa at the moment, and Block has put out a call for safety researchers to test the model."
+        }
+      ]
+    },
+    {
+      "claim": "Block şirketi, Dessa modelini test etmeleri için güvenlik araştırmacılarına çağrıda bulundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "Block has put out a call for safety researchers to test the model."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "However, there is no public access to Dessa at the moment, and Block has put out a call for safety researchers to test the model."
+        }
+      ]
+    },
+    {
+      "claim": "Square, sipariş işlemlerini yönetmek için halihazırda sesli yapay zeka teknolojisini kullanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "Square already uses voice AI to handle ordering."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Jack Dorsey’in şirketi Block, Dessa adında yeni bir ses modeli yayınladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "Jack Dorsey’s Block released a new voice model out of the company’s research lab that runs locally and sounds strangely human with its expressions like laughs, pauses, and cries. The company said the model, called Dessa, is trained fully on human speech and a single NVIDIA GPU."
+        }
+      ]
+    },
+    {
+      "claim": "Dessa modeli tamamen insan konuşması ve tek bir NVIDIA GPU kullanılarak eğitildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "The company said the model, called Dessa, is trained fully on human speech and a single NVIDIA GPU."
+        }
+      ]
+    },
+    {
+      "claim": "Dessa, OpenAI’ın GPT-Live modeli gibi aynı anda konuşup dinleyebilen tam çift yönlü (full-duplex) bir modeldir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "Dessa is a full-duplex model, which means it can talk and listen at the same time, just like the GPT-Live model OpenAI released earlier this year."
+        }
+      ]
+    },
+    {
+      "claim": "ElevenLabs v4 ve Fish Audio Drama 3 gibi modeller, konuşma üretiminde duygu sağlamak için ses etiketleri kullanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "A lot of models like ElevenLabs v4 or Fish Audio Drama 3 use voice tags to drive emotion in speech generation."
+        }
+      ]
+    },
+    {
+      "claim": "Dessa modeli, MacBook M4 Max veya daha iyi özelliklere sahip tüketici sınıfı bilgisayarlarda yerel olarak çalışabilmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "The company said that the model can run locally on a consumer-grade computer such as a MacBook M4 Max or better."
+        }
+      ]
+    },
+    {
+      "claim": "Dessa modeline şu an için halka açık bir erişim bulunmamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "However, there is no public access to Dessa at the moment"
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "However, there is no public access to Dessa at the moment, and Block has put out a call for safety researchers to test the model."
+        }
+      ]
+    },
+    {
+      "claim": "Block şirketi, Dessa modelini test etmeleri için güvenlik araştırmacılarına çağrıda bulundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "Block has put out a call for safety researchers to test the model."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "However, there is no public access to Dessa at the moment, and Block has put out a call for safety researchers to test the model."
+        }
+      ]
+    },
+    {
+      "claim": "Square, sipariş işlemlerini yönetmek için halihazırda sesli yapay zeka teknolojisini kullanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "quote": "Square already uses voice AI to handle ordering."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/": 2368,
+    "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis": 3853,
+    "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/": 2413,
+    "https://openai.com/index/scaling-storage-one-billion-users-part-two": 23621
+  }
+}
