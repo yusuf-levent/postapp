@@ -2,9 +2,9 @@
   "slot": "18:00",
   "type": "edu",
   "model": "gemini-3.1-flash-lite",
-  "duration_seconds": 206.6,
+  "duration_seconds": 172.3,
   "candidates_tried": 1,
-  "gemini_calls": 17,
+  "gemini_calls": 18,
   "canonical_url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-  "generated_at": "2026-10-24T18:05:52+03:00"
+  "generated_at": "2026-10-24T18:16:16+03:00"
 }

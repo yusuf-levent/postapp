@@ -7,22 +7,70 @@
     "Engadget",
     "Wired"
   ],
-  "checked_at": "2026-10-24T18:04:21+03:00",
+  "checked_at": "2026-10-24T18:14:08+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "iPhone Duo cihazının başlangıç fiyatı 2.000 dolardır.",
+      "claim": "The iPhone Duo starts at $2,000.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
           "quote": "(The Duo starts at $2,000)."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+          "quote": "Was propping up the phone as a little tent to watch Netflix worth all that extra money? (The Duo starts at $2,000)."
         }
       ]
     },
     {
-      "claim": "Netflix, MLB, NYT Cooking, Slack ve Fantastical uygulamaları iPhone Duo için optimize edilmiş olarak piyasaya sürülmüştür.",
+      "claim": "Deck-Man, formerly known as Duo-Man, was designed by indie developer Vidit Bhargava at a hackathon.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+          "quote": "Designed by indie developer Vidit Bhargava at a hackathon, the music player takes clever advantage of the Duo’s two screens to imitate how Walkman cassette players used to function."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+          "quote": "I have to credit Deck-Man, which was previously known as Duo-Man, as being the first app that made me want to get a Duo. Designed by indie developer Vidit Bhargava at a hackathon"
+        }
+      ]
+    },
+    {
+      "claim": "TypeDraw fonts were designed by its creator, Phil Traut.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+          "quote": "Inside TypeDraw, you can type using a font that’s your own handwriting or pick from one of a dozen fonts designed by its creator, Phil Traut."
+        }
+      ]
+    },
+    {
+      "claim": "Wakeout is a former Apple App of the Year winner.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+          "quote": "Wakeout, the workout app that’s a former Apple App of the Year winner, has also approached its Duo optimization thoughtfully"
+        }
+      ]
+    },
+    {
+      "claim": "Tiny Computers features 10 retro computers and has a $3.99 one-time fee with no ads or subscriptions.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Toastie is available for a $2.99 fee.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Netflix, MLB app, NYT Cooking, Slack, and Fantastical were among the apps Duo-optimized by the time the device shipped.",
       "verdict": "supported",
       "evidence": [
         {
@@ -32,77 +80,77 @@
       ]
     },
     {
-      "claim": "Deck-Man uygulaması, Vidit Bhargava tarafından bir hackathon etkinliğinde tasarlanmıştır.",
+      "claim": "Flighty is an Apple Design Award-winning travel app.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-          "quote": "Designed by indie developer Vidit Bhargava at a hackathon, the music player takes clever advantage of the Duo’s two screens to imitate how Walkman cassette players used to function."
-        },
-        {
-          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-          "quote": "Designed by indie developer Vidit Bhargava at a hackathon, the music player takes clever advantage of the Duo’s two screens"
-        }
-      ]
-    },
-    {
-      "claim": "Wakeout uygulaması, geçmişte Apple tarafından 'Yılın Uygulaması' ödülüne layık görülmüştür.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-          "quote": "Wakeout, the workout app that’s a former Apple App of the Year winner, has also approached its Duo optimization thoughtfully"
-        },
-        {
-          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-          "quote": "Wakeout, the workout app that’s a former Apple App of the Year winner"
-        }
-      ]
-    },
-    {
-      "claim": "Tiny Computers uygulaması, 3,99 dolarlık tek seferlik bir ücretle satılmaktadır.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "Tiny Computers uygulaması; Macintosh, Commodore 64, IBM PC, Amiga 500, Windows 95, ThinkPad, iMac G3, iBook G3, PowerBook G4 ve Windows XP olmak üzere 10 farklı retro bilgisayar simülasyonu içermektedir.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "Toastie uygulaması 2,99 dolar fiyatla satılmaktadır.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/",
-          "quote": "This delightful $3 app asks you to construct a sandwich on the iPhone Duo's inner screen."
-        }
-      ]
-    },
-    {
-      "claim": "Flighty uygulaması, iPhone Duo için özel olarak geliştirilen En Route Mode adlı yeni bir özelliğe sahiptir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-          "quote": "Plus, Flighty added a new feature called En Route Mode just for the Duo."
+          "quote": "Already my favorite travel app, Apple Design Award-winning Flighty tells you everything you need to know about your upcoming flight"
         }
       ]
     }
   ],
   "round1": [
     {
-      "claim": "iPhone Duo cihazının başlangıç fiyatı 2.000 dolardır.",
+      "claim": "The iPhone Duo starts at $2,000.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
           "quote": "(The Duo starts at $2,000)."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+          "quote": "Was propping up the phone as a little tent to watch Netflix worth all that extra money? (The Duo starts at $2,000)."
         }
       ]
     },
     {
-      "claim": "Netflix, MLB, NYT Cooking, Slack ve Fantastical uygulamaları iPhone Duo için optimize edilmiş olarak piyasaya sürülmüştür.",
+      "claim": "Deck-Man, formerly known as Duo-Man, was designed by indie developer Vidit Bhargava at a hackathon.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+          "quote": "Designed by indie developer Vidit Bhargava at a hackathon, the music player takes clever advantage of the Duo’s two screens to imitate how Walkman cassette players used to function."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+          "quote": "I have to credit Deck-Man, which was previously known as Duo-Man, as being the first app that made me want to get a Duo. Designed by indie developer Vidit Bhargava at a hackathon"
+        }
+      ]
+    },
+    {
+      "claim": "TypeDraw fonts were designed by its creator, Phil Traut.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+          "quote": "Inside TypeDraw, you can type using a font that’s your own handwriting or pick from one of a dozen fonts designed by its creator, Phil Traut."
+        }
+      ]
+    },
+    {
+      "claim": "Wakeout is a former Apple App of the Year winner.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+          "quote": "Wakeout, the workout app that’s a former Apple App of the Year winner, has also approached its Duo optimization thoughtfully"
+        }
+      ]
+    },
+    {
+      "claim": "Tiny Computers features 10 retro computers and has a $3.99 one-time fee with no ads or subscriptions.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Toastie is available for a $2.99 fee.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Netflix, MLB app, NYT Cooking, Slack, and Fantastical were among the apps Duo-optimized by the time the device shipped.",
       "verdict": "supported",
       "evidence": [
         {
@@ -112,77 +160,77 @@
       ]
     },
     {
-      "claim": "Deck-Man uygulaması, Vidit Bhargava tarafından bir hackathon etkinliğinde tasarlanmıştır.",
+      "claim": "Flighty is an Apple Design Award-winning travel app.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-          "quote": "Designed by indie developer Vidit Bhargava at a hackathon, the music player takes clever advantage of the Duo’s two screens to imitate how Walkman cassette players used to function."
-        },
-        {
-          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-          "quote": "Designed by indie developer Vidit Bhargava at a hackathon, the music player takes clever advantage of the Duo’s two screens"
-        }
-      ]
-    },
-    {
-      "claim": "Wakeout uygulaması, geçmişte Apple tarafından 'Yılın Uygulaması' ödülüne layık görülmüştür.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-          "quote": "Wakeout, the workout app that’s a former Apple App of the Year winner, has also approached its Duo optimization thoughtfully"
-        },
-        {
-          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-          "quote": "Wakeout, the workout app that’s a former Apple App of the Year winner"
-        }
-      ]
-    },
-    {
-      "claim": "Tiny Computers uygulaması, 3,99 dolarlık tek seferlik bir ücretle satılmaktadır.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "Tiny Computers uygulaması; Macintosh, Commodore 64, IBM PC, Amiga 500, Windows 95, ThinkPad, iMac G3, iBook G3, PowerBook G4 ve Windows XP olmak üzere 10 farklı retro bilgisayar simülasyonu içermektedir.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "Toastie uygulaması 2,99 dolar fiyatla satılmaktadır.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/",
-          "quote": "This delightful $3 app asks you to construct a sandwich on the iPhone Duo's inner screen."
-        }
-      ]
-    },
-    {
-      "claim": "Flighty uygulaması, iPhone Duo için özel olarak geliştirilen En Route Mode adlı yeni bir özelliğe sahiptir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-          "quote": "Plus, Flighty added a new feature called En Route Mode just for the Duo."
+          "quote": "Already my favorite travel app, Apple Design Award-winning Flighty tells you everything you need to know about your upcoming flight"
         }
       ]
     }
   ],
   "round2": [
     {
-      "claim": "iPhone Duo cihazının başlangıç fiyatı 2.000 dolardır.",
+      "claim": "The iPhone Duo starts at $2,000.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
           "quote": "(The Duo starts at $2,000)."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+          "quote": "Was propping up the phone as a little tent to watch Netflix worth all that extra money? (The Duo starts at $2,000)."
         }
       ]
     },
     {
-      "claim": "Netflix, MLB, NYT Cooking, Slack ve Fantastical uygulamaları iPhone Duo için optimize edilmiş olarak piyasaya sürülmüştür.",
+      "claim": "Deck-Man, formerly known as Duo-Man, was designed by indie developer Vidit Bhargava at a hackathon.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+          "quote": "Designed by indie developer Vidit Bhargava at a hackathon, the music player takes clever advantage of the Duo’s two screens to imitate how Walkman cassette players used to function."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+          "quote": "I have to credit Deck-Man, which was previously known as Duo-Man, as being the first app that made me want to get a Duo. Designed by indie developer Vidit Bhargava at a hackathon"
+        }
+      ]
+    },
+    {
+      "claim": "TypeDraw fonts were designed by its creator, Phil Traut.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+          "quote": "Inside TypeDraw, you can type using a font that’s your own handwriting or pick from one of a dozen fonts designed by its creator, Phil Traut."
+        }
+      ]
+    },
+    {
+      "claim": "Wakeout is a former Apple App of the Year winner.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+          "quote": "Wakeout, the workout app that’s a former Apple App of the Year winner, has also approached its Duo optimization thoughtfully"
+        }
+      ]
+    },
+    {
+      "claim": "Tiny Computers features 10 retro computers and has a $3.99 one-time fee with no ads or subscriptions.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Toastie is available for a $2.99 fee.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Netflix, MLB app, NYT Cooking, Slack, and Fantastical were among the apps Duo-optimized by the time the device shipped.",
       "verdict": "supported",
       "evidence": [
         {
@@ -192,60 +240,12 @@
       ]
     },
     {
-      "claim": "Deck-Man uygulaması, Vidit Bhargava tarafından bir hackathon etkinliğinde tasarlanmıştır.",
+      "claim": "Flighty is an Apple Design Award-winning travel app.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-          "quote": "Designed by indie developer Vidit Bhargava at a hackathon, the music player takes clever advantage of the Duo’s two screens to imitate how Walkman cassette players used to function."
-        },
-        {
-          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-          "quote": "Designed by indie developer Vidit Bhargava at a hackathon, the music player takes clever advantage of the Duo’s two screens"
-        }
-      ]
-    },
-    {
-      "claim": "Wakeout uygulaması, geçmişte Apple tarafından 'Yılın Uygulaması' ödülüne layık görülmüştür.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-          "quote": "Wakeout, the workout app that’s a former Apple App of the Year winner, has also approached its Duo optimization thoughtfully"
-        },
-        {
-          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-          "quote": "Wakeout, the workout app that’s a former Apple App of the Year winner"
-        }
-      ]
-    },
-    {
-      "claim": "Tiny Computers uygulaması, 3,99 dolarlık tek seferlik bir ücretle satılmaktadır.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "Tiny Computers uygulaması; Macintosh, Commodore 64, IBM PC, Amiga 500, Windows 95, ThinkPad, iMac G3, iBook G3, PowerBook G4 ve Windows XP olmak üzere 10 farklı retro bilgisayar simülasyonu içermektedir.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "Toastie uygulaması 2,99 dolar fiyatla satılmaktadır.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/",
-          "quote": "This delightful $3 app asks you to construct a sandwich on the iPhone Duo's inner screen."
-        }
-      ]
-    },
-    {
-      "claim": "Flighty uygulaması, iPhone Duo için özel olarak geliştirilen En Route Mode adlı yeni bir özelliğe sahiptir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-          "quote": "Plus, Flighty added a new feature called En Route Mode just for the Duo."
+          "quote": "Already my favorite travel app, Apple Design Award-winning Flighty tells you everything you need to know about your upcoming flight"
         }
       ]
     }

@@ -1,13 +1,13 @@
 {
   "cover": {
     "category_label": "Teknoloji Dünyası",
-    "title": "iPhone Duo: Yeni Nesil Deneyim",
+    "title": "iPhone Duo ve Uygulama Ekosistemi",
     "highlight_words": [
       "iPhone Duo",
-      "Özellikler"
+      "Ekosistem"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Cihazın özellikleri ve optimize edilmiş uygulamalar hakkında bilmeniz gerekenler.",
+    "subtitle": "Cihazın çıkış dönemindeki uygulama optimizasyonları ve geliştirici hikayeleri.",
     "source_tags": [
       "TechCrunch",
       "The Verge",
@@ -16,100 +16,104 @@
     ]
   },
   "problem": {
-    "heading": "iPhone Duo Nedir?",
+    "heading": "Yeni Bir Cihazın Zorlukları",
     "cards": [
       {
-        "card_title": "Başlangıç Fiyatı",
-        "card_body": "iPhone Duo cihazının piyasaya giriş fiyatı 2.000 dolar olarak belirlenmiştir."
+        "card_title": "Fiyatlandırma",
+        "card_body": "iPhone Duo, piyasaya 2.000 dolardan başlayan fiyatlarla giriş yaptı."
       },
       {
-        "card_title": "Özel Deneyim",
-        "card_body": "Cihaz, özel olarak optimize edilmiş uygulama ekosistemiyle dikkat çekiyor."
+        "card_title": "Optimizasyon İhtiyacı",
+        "card_body": "Yeni bir form faktörü, uygulamaların bu cihaza özel olarak optimize edilmesini gerektiriyordu."
       }
     ],
     "code_block": ""
   },
   "steps": [
     {
-      "heading": "Optimize Edilmiş Uygulamalar",
+      "heading": "Başlangıçta Hazır Olanlar",
       "cards": [
         {
-          "card_title": "Desteklenen Uygulamalar",
-          "card_body": "Netflix, MLB, NYT Cooking, Slack ve Fantastical, iPhone Duo için özel olarak optimize edilmiştir."
-        },
-        {
-          "card_title": "Flighty Farkı",
-          "card_body": "Flighty uygulaması, iPhone Duo'ya özel 'En Route Mode' adlı yeni bir özellik sunuyor."
+          "card_title": "Öncü Uygulamalar",
+          "card_body": "Cihaz piyasaya çıktığında Netflix, MLB, NYT Cooking, Slack ve Fantastical gibi popüler uygulamalar Duo için optimize edilmişti."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "Geliştirici Başarıları",
+      "heading": "Geliştirici Hikayeleri",
       "cards": [
         {
-          "card_title": "Deck-Man",
-          "card_body": "Deck-Man uygulaması, Vidit Bhargava tarafından bir hackathon etkinliğinde tasarlanmıştır."
+          "card_title": "Deck-Man'in Kökeni",
+          "card_body": "Daha önce Duo-Man olarak bilinen Deck-Man, bağımsız geliştirici Vidit Bhargava tarafından bir hackathon sırasında tasarlandı."
         },
+        {
+          "card_title": "Tasarım ve Tipografi",
+          "card_body": "TypeDraw yazı tipleri, uygulamanın yaratıcısı Phil Traut tarafından özel olarak tasarlandı."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Ödüllü Uygulamalar",
+      "cards": [
         {
           "card_title": "Wakeout",
-          "card_body": "Wakeout uygulaması, geçmişte Apple tarafından 'Yılın Uygulaması' ödülüne layık görülmüştür."
+          "card_body": "Wakeout, geçmişte Apple tarafından 'Yılın Uygulaması' ödülüne layık görülmüş bir platformdur."
+        },
+        {
+          "card_title": "Flighty",
+          "card_body": "Seyahat kategorisinde öne çıkan Flighty, Apple Tasarım Ödülü (Apple Design Award) kazanmış bir uygulamadır."
         }
       ],
       "code_block": ""
-    },
-    {
-      "heading": "Uygulama Fiyatlandırması",
-      "cards": [
-        {
-          "card_title": "Toastie",
-          "card_body": "Toastie uygulaması, kullanıcılar için 2,99 dolar fiyat etiketiyle satışa sunulmuştur."
-        }
-      ],
-      "code_block": "Toastie App Price: $2.99"
     }
   ],
   "cta": {
-    "question": "iPhone Duo'nun sunduğu bu özel uygulama deneyimi hakkında ne düşünüyorsunuz?",
-    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeler için Tekno Pusula'yı takipte kalın!"
+    "question": "Sizce yeni bir cihazın başarısında uygulama optimizasyonu ne kadar kritik?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeler için Tekno Pusula'yı takipte kalın."
   },
   "context": {
-    "heading": "iPhone Duo Nedir?",
+    "heading": "Yeni Bir Cihazın Zorlukları",
     "cards": [
       {
-        "card_title": "Başlangıç Fiyatı",
-        "card_body": "iPhone Duo cihazının piyasaya giriş fiyatı 2.000 dolar olarak belirlenmiştir."
+        "card_title": "Fiyatlandırma",
+        "card_body": "iPhone Duo, piyasaya 2.000 dolardan başlayan fiyatlarla giriş yaptı."
       },
       {
-        "card_title": "Özel Deneyim",
-        "card_body": "Cihaz, özel olarak optimize edilmiş uygulama ekosistemiyle dikkat çekiyor."
+        "card_title": "Optimizasyon İhtiyacı",
+        "card_body": "Yeni bir form faktörü, uygulamaların bu cihaza özel olarak optimize edilmesini gerektiriyordu."
       }
     ]
   },
   "stat": {
     "big_stat": "💡",
-    "stat_caption": "Optimize Edilmiş Uygulamalar",
+    "stat_caption": "Başlangıçta Hazır Olanlar",
     "stat_quote": ""
   },
   "details": {
-    "heading": "Geliştirici Başarıları",
+    "heading": "Geliştirici Hikayeleri",
     "cards": [
       {
-        "card_title": "Deck-Man",
-        "card_body": "Deck-Man uygulaması, Vidit Bhargava tarafından bir hackathon etkinliğinde tasarlanmıştır."
+        "card_title": "Deck-Man'in Kökeni",
+        "card_body": "Daha önce Duo-Man olarak bilinen Deck-Man, bağımsız geliştirici Vidit Bhargava tarafından bir hackathon sırasında tasarlandı."
       },
       {
-        "card_title": "Wakeout",
-        "card_body": "Wakeout uygulaması, geçmişte Apple tarafından 'Yılın Uygulaması' ödülüne layık görülmüştür."
+        "card_title": "Tasarım ve Tipografi",
+        "card_body": "TypeDraw yazı tipleri, uygulamanın yaratıcısı Phil Traut tarafından özel olarak tasarlandı."
       }
     ]
   },
   "impact": {
-    "heading": "Uygulama Fiyatlandırması",
+    "heading": "Ödüllü Uygulamalar",
     "cards": [
       {
-        "card_title": "Toastie",
-        "card_body": "Toastie uygulaması, kullanıcılar için 2,99 dolar fiyat etiketiyle satışa sunulmuştur."
+        "card_title": "Wakeout",
+        "card_body": "Wakeout, geçmişte Apple tarafından 'Yılın Uygulaması' ödülüne layık görülmüş bir platformdur."
+      },
+      {
+        "card_title": "Flighty",
+        "card_body": "Seyahat kategorisinde öne çıkan Flighty, Apple Tasarım Ödülü (Apple Design Award) kazanmış bir uygulamadır."
       }
     ]
   },
