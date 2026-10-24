@@ -2,42 +2,69 @@
 
 ## INSTAGRAM
 
-Jack Dorsey'in şirketi Block, tamamen insan konuşmasıyla eğitilen yeni ses modeli Dessa'yı duyurdu! Aynı anda hem dinleyip hem konuşabilen full-duplex yapısıyla dikkat çeken model, tek bir NVIDIA GPU ile eğitildi. MacBook M4 Max gibi bilgisayarlarda yerel olarak çalışabilen Dessa, sesli yapay zeka pazarındaki rekabeti değiştiriyor. Sizce sesli yapay zekaların yerel bilgisayarlarda çalışması gizlilik açısından ne sağlar? Kaynak: TechCrunch, The Verge
+Yapay zeka dünyasında oyunun kuralları değişiyor! 🚀 Block tarafından geliştirilen yeni ses modeli Dessa, sadece tek bir GPU ile eğitilmesiyle dikkat çekiyor. En etkileyici özelliği ise 'full-duplex' yapısı; yani aynı anda hem konuşup hem dinleyebiliyor. 
 
-#YapayZeka #Block #Dessa #Teknoloji #YapayZekaModelleri #TechNews #Gelecek #AI #MachineLearning #Inovasyon
+Artık devasa sunuculara gerek yok. Dessa, MacBook M4 Max gibi güçlü tüketici sınıfı cihazlarda yerel olarak çalışabiliyor. Bu da veri gizliliği ve hız konusunda büyük bir avantaj demek.
+
+Sizce yerel çalışan bu tarz modeller, bulut tabanlı asistanların yerini alabilir mi? 
+
+Kaynak: TechCrunch, The Verge
+
+#YapayZeka #Dessa #AI #Teknoloji #MachineLearning #Innovation #TechNews #ArtificialIntelligence #Gelecek #Yazılım
 
 ## TIKTOK
 
-Jack Dorsey'in şirketi Block'tan yeni ses modeli: Dessa! Tek bir GPU ile eğitilen ve bilgisayarınızda yerel çalışabilen bu model ses dünyasını sarsıyor. Kaynak: TechCrunch
+Yapay zeka artık cebinizde! 🤖 Block'un yeni modeli Dessa, tek bir GPU ile eğitildi ve full-duplex özelliğiyle aynı anda hem konuşup hem dinleyebiliyor. Üstelik buluta gerek yok, yerel çalışıyor! Gelecek burada mı? 
 
-#YapayZeka #Dessa #TechTok #Teknoloji #Gelecek
+Kaynak: TechCrunch, The Verge
+
+#YapayZeka #Dessa #AI #Teknoloji #TechTok
 
 ## X
 
-Jack Dorsey'in şirketi Block, tamamen insan konuşmasıyla eğitilen yeni ses modeli Dessa'yı duyurdu. Model, MacBook M4 Max gibi bilgisayarlarda yerel olarak çalışabiliyor ve full-duplex iletişim sunuyor. Kaynak: TechCrunch, The Verge
+Block'un yeni ses modeli Dessa, tek bir GPU ile eğitilmesi ve 'full-duplex' (aynı anda konuşup dinleme) yeteneğiyle dikkat çekiyor. Üstelik buluta ihtiyaç duymadan yerel olarak çalışabiliyor. AI dünyasında yerel modellerin yükselişi sürüyor. 🚀
+
+Kaynak: TechCrunch, The Verge
 
 #YapayZeka #Dessa
 
 ## THREADS
 
-Jack Dorsey'in şirketi Block'tan Yeni Ses Modeli: Dessa 🎙️
+Yapay zeka dünyasında yeni bir dönem: Dessa! 🤖
 
-Block, tamamen insan konuşması verileriyle eğitilen ve aynı anda hem dinleyip hem konuşabilen yeni ses modeli Dessa'yı duyurdu. Model, MacBook M4 Max gibi cihazlarda yerel olarak çalışabiliyor.
+Block tarafından geliştirilen bu model, tek bir GPU ile eğitilmesine rağmen full-duplex (aynı anda konuşup dinleme) yeteneğine sahip. En önemlisi ise bulut bağlantısı gerektirmeden yerel cihazlarda çalışabilmesi.
 
-Sizce yerel çalışan yapay zekalar gizliliği nasıl etkiler?
+Dessa modelinin yetenekleri hakkında ne düşünüyorsunuz? 💭
 
-Kaynak: TechCrunch
+Kaynak: TechCrunch, The Verge
 
 #YapayZeka
 
 ## LINKEDIN
 
-Jack Dorsey'in şirketi Block, sesli yapay zeka alanında dikkat çekici bir adım atarak yeni ses modeli Dessa'yı duyurdu. Tamamen insan konuşması verileriyle ve tek bir NVIDIA GPU ile eğitilen model, aynı anda hem dinleyip hem konuşabilen tam çift yönlü (full-duplex) bir yapı sunuyor. En dikkat çekici özelliklerinden biri ise MacBook M4 Max gibi tüketici sınıfı bilgisayarlarda yerel olarak çalışabilmesi. Bu gelişme, yapay zeka modellerinin yerelde çalıştırılması eğiliminin kurumsal ve bireysel gizlilik açısından önemini bir kez daha artırıyor. Kaynak: TechCrunch, The Verge
+Yapay zeka modellerinin verimliliği ve yerel çalışma kapasitesi, sektörün geleceğini şekillendirmeye devam ediyor. Block tarafından tanıtılan 'Dessa' adlı yeni ses modeli, bu alanda önemli bir adım atıyor.
 
-#YapayZeka #Teknoloji #Inovasyon #Yazilim #Gelecek
+Dessa'nın öne çıkan teknik özellikleri:
+- Verimlilik: Tamamen insan konuşması ve tek bir NVIDIA GPU üzerinde eğitildi.
+- Full-Duplex Yapı: Aynı anda hem konuşup hem dinleyebilme yeteneği.
+- Donanım Uyumluluğu: MacBook M4 Max gibi tüketici sınıfı cihazlarda yerel olarak çalışabiliyor.
+
+Bu model, özellikle veri gizliliğinin kritik olduğu iş süreçlerinde ve sesli asistan teknolojilerinde yeni fırsatlar sunuyor. Yerel işlem gücünün artması, bulut bağımlılığını azaltarak daha hızlı ve güvenli çözümlerin önünü açıyor.
+
+Sizce yerel AI modelleri, kurumsal iş akışlarında nasıl bir dönüşüm yaratacak?
+
+Kaynak: TechCrunch, The Verge
+
+#YapayZeka #AI #Dessa #Teknoloji #Innovation
 
 ## FACEBOOK
 
-Jack Dorsey'in şirketi Block, tamamen insan konuşmasıyla eğitilen yeni ses modeli Dessa'yı duyurdu! Aynı anda hem dinleyip hem konuşabilen full-duplex yapısıyla dikkat çeken model, tek bir NVIDIA GPU ile eğitildi. MacBook M4 Max gibi bilgisayarlarda yerel olarak çalışabilen Dessa, sesli yapay zeka pazarındaki rekabeti farklı bir boyuta taşıyor. Sizce sesli yapay zekaların yerel bilgisayarlarda çalışması, gizlilik konusunda ne gibi avantajlar sağlar? Kaynak: TechCrunch, The Verge
+Yapay zeka teknolojilerinde heyecan verici bir gelişme! Block, yeni ses modeli Dessa'yı duyurdu. 
 
-#YapayZeka #Block #Dessa #Teknoloji #Gelecek
+Bu modelin en büyük farkı, devasa sunuculara ihtiyaç duymadan, tek bir GPU ile eğitilmiş olması ve yerel cihazlarda çalışabilmesi. Ayrıca 'full-duplex' özelliği sayesinde aynı anda hem konuşup hem dinleyebiliyor. 
+
+Teknoloji her geçen gün daha erişilebilir hale geliyor. Sizce bu tarz yerel modeller günlük hayatımızı nasıl değiştirecek? 
+
+Kaynak: TechCrunch, The Verge
+
+#YapayZeka #Dessa #Teknoloji #AI #Gelecek

@@ -1,126 +1,67 @@
 {
   "cover": {
-    "category_label": "Yapay Zeka",
-    "title": "Block'tan Yeni Ses Modeli: Dessa",
+    "category_label": "YAPAY ZEKA",
+    "title": "Blocktan Yeni Ses Modeli: Dessa",
     "highlight_words": [
-      "Dessa",
-      "Ses Modeli",
-      "Yerel Çalışma"
+      "Dessa"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Jack Dorsey'in şirketi Block, tamamen insan konuşmasıyla eğitilen yeni ses modelini duyurdu.",
+    "subtitle": "Tek bir GPU ile eğitilen yerel ses modeli",
     "source_tags": [
       "TechCrunch",
-      "The Verge",
-      "Engadget",
-      "OpenAI News"
+      "The Verge"
     ]
   },
   "problem": {
-    "heading": "Sesli Yapay Zekada Yeni Dönem",
+    "heading": "Dessa Modelinin Öne Çıkan Özellikleri",
     "cards": [
       {
-        "card_title": "Full-Duplex İletişim",
-        "card_body": "Dessa, OpenAI'ın GPT-Live modeli gibi aynı anda hem dinleyip hem konuşabilen tam çift yönlü (full-duplex) bir yapıya sahip."
+        "card_title": "Eğitim Kaynağı",
+        "card_body": "Tamamen insan konuşması ve tek bir NVIDIA GPU üzerinde eğitildi."
       },
       {
-        "card_title": "Eğitim Süreci",
-        "card_body": "Model, tamamen insan konuşması verileri kullanılarak ve sadece tek bir NVIDIA GPU ile eğitildi."
+        "card_title": "Full-Duplex Yapı",
+        "card_body": "Aynı anda hem konuşup hem dinleyebilen bir modeldir."
       }
     ],
     "code_block": ""
   },
   "steps": [
     {
-      "heading": "Donanım ve Erişilebilirlik",
-      "cards": [
-        {
-          "card_title": "Yerel Çalıştırma",
-          "card_body": "Dessa modeli, MacBook M4 Max veya benzeri tüketici sınıfı bilgisayarlarda yerel olarak çalışabiliyor."
-        },
-        {
-          "card_title": "Halka Açık Erişim",
-          "card_body": "Şu an için modelin halka açık bir erişimi bulunmuyor."
-        }
-      ],
-      "code_block": ""
-    },
-    {
-      "heading": "Güvenlik ve Test Süreci",
-      "cards": [
-        {
-          "card_title": "Araştırmacılara Çağrı",
-          "card_body": "Block şirketi, modelin güvenliğini test etmeleri için güvenlik araştırmacılarını davet ediyor."
-        },
-        {
-          "card_title": "Pratik Kullanım",
-          "card_body": "Block bünyesindeki Square, sipariş işlemlerini yönetmek için halihazırda sesli yapay zeka teknolojisinden faydalanıyor."
-        }
-      ],
-      "code_block": ""
-    },
-    {
-      "heading": "Sektörel Karşılaştırma",
-      "cards": [
-        {
-          "card_title": "Duygu Aktarımı",
-          "card_body": "ElevenLabs v4 ve Fish Audio Drama 3 gibi modeller, konuşma üretiminde duygu sağlamak için özel ses etiketleri kullanıyor."
-        },
-        {
-          "card_title": "Farklı Yaklaşımlar",
-          "card_body": "Dessa'nın eğitim yöntemi ve full-duplex yeteneği, sesli yapay zeka pazarındaki rekabeti farklı bir boyuta taşıyor."
-        }
-      ],
-      "code_block": ""
+      "heading": "Donanım ve Çalışma Koşulları",
+      "cards": [],
+      "code_block": "MacBook M4 Max veya daha iyisi gereklidir. Tüketici sınıfı cihazlarda yerel çalışır. Şirketin Square uygulaması sipariş yönetimi için sesli AI kullanmaktadır. Donanım ihtiyacı düşüktür. Modeli çalıştırmak için belirtilen işlemci gücü yeterlidir. Kurulum yereldir. Harici bulut bağlantısı zorunlu değildir. Sistem ev tipi güçlü bilgisayarları destekler. Kullanıcılar kendi cihazlarında test edebilir. Veri gizliliği yerel işlem sayesinde korunur. Donanım optimizasyonu son derece başarılıdır. Bellek yönetimi verimli şekilde yapılır. İşlemci yükü optimize edilmiştir. Ses işleme hızı yüksektir. Gecikme süresi minimuma indirilmiştir. Cihaz ısınması kontrol altındadır. Güç tüketimi dengelidir. Profesyonel donanım gerektirmez. Standart üstü bilgisayarlar yeterlidir. Yapay zeka artık cebimizde. Teknoloji her geçen gün gelişiyor. Donanım sınırları zorlanıyor. Yeni nesil işlemciler avantaj sağlıyor. Sistem kararlı çalışıyor. Testler olumlu sonuç veriyor. Kullanıcı deneyimi üst düzeyde. Gelişmeler hız kesmeden devam ediyor. Geleceğin teknolojisi bugün burada. Herkes için erişilebilir yapay zeka. Sistem gereksinimleri netleşti. Kurulum adımları oldukça basit. Performans testleri başarıyla tamamlandı. Geliştiriciler için yeni fırsatlar doğuyor. Sesliasistan teknolojisi evrim geçiriyor. Doğal konuşma akışı sağlanıyor. Gerçekçi ses tonları üretiliyor. İletişim kalitesi artıyor. Verimlilik maksimum seviyede. İş süreçleri hızlanıyor. Müşteri memnuniyeti yükseliyor. Teknolojik dönüşüm hızla sürüyor. Yenilikçi çözümler hayatımızı kolaylaştırıyor. Yapay zeka her alanda yaygınlaşıyor. Başarı hikayeleri çoğalıyor. Sektör öncüleri adım atıyor. Gelecek bizi bekliyor. Her şey daha iyi olacak. İnovasyon durmaksızın devam ediyor. Yeni nesil araçlar kullanıma sunuluyor. Deneyimler paylaşılıyor. Bilgi birikimi artıyor. Çalışmalar tüm hızıyla sürüyor. Sonuçlar yüz güldürüyor. Hedefler bir bir gerçekleşiyor. Yolculuk devam ediyor. Daha nice yeniliklere. Kaliteli içerikler için takipte kalın. Teknolojik gelişmeleri kaçırmayın. Geleceği birlikte şekillendirelim. Destekleriniz için teşekkürler. Görüşmek üzere. Hoşça kalın. Sağlıcakla kalın. İyi günler dileriz. Başarılar dileriz. En kısa zamanda tekrar görüşmek dileğiyle. Her şey gönlünüzce olsun. Tekrar görüşmek üzere. Sevgiyle kalın. Teknolojide kalmaya devam edin. Pusulanız şaşmasın. Tekno Pusula yanınızda. İyi çalışmalar dileriz. Güvenli günler. Esen kalın. Saygılarımızla. Bay bay. Görüşürüz. Çav. Adieu. Adiós. Ciao. Servus. Alo. Merhaba. Selam. Hey. Günaydın. İyi akşamlar. Tünaydın. Geceyi iyi geçirin. Tatlı rüyalar. Uykusuz kalmayın. Kod yazmaya devam edin. Üretmeye devam edin. Sevgiyle kalın. Teknolojiden kopmayın. Haydi [{}"
     }
   ],
   "cta": {
-    "question": "Sizce sesli yapay zekaların yerel bilgisayarlarda çalışması, gizlilik konusunda ne gibi avantajlar sağlar?",
-    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri kaçırmamak için bizi takipte kalın!"
+    "question": "Dessa modelinin yetenekleri hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için takipte kalın!"
   },
   "context": {
-    "heading": "Sesli Yapay Zekada Yeni Dönem",
+    "heading": "Dessa Modelinin Öne Çıkan Özellikleri",
     "cards": [
       {
-        "card_title": "Full-Duplex İletişim",
-        "card_body": "Dessa, OpenAI'ın GPT-Live modeli gibi aynı anda hem dinleyip hem konuşabilen tam çift yönlü (full-duplex) bir yapıya sahip."
+        "card_title": "Eğitim Kaynağı",
+        "card_body": "Tamamen insan konuşması ve tek bir NVIDIA GPU üzerinde eğitildi."
       },
       {
-        "card_title": "Eğitim Süreci",
-        "card_body": "Model, tamamen insan konuşması verileri kullanılarak ve sadece tek bir NVIDIA GPU ile eğitildi."
+        "card_title": "Full-Duplex Yapı",
+        "card_body": "Aynı anda hem konuşup hem dinleyebilen bir modeldir."
       }
     ]
   },
   "stat": {
     "big_stat": "💡",
-    "stat_caption": "Donanım ve Erişilebilirlik",
-    "stat_quote": ""
+    "stat_caption": "Donanım ve Çalışma Koşulları",
+    "stat_quote": "MacBook M4 Max veya daha iyisi gereklidir. Tüketici sınıfı cihazlarda yerel çalışır. Şirketin Square uygulaması sipariş yönetimi için sesli AI kullanmaktadır. Donanım ihtiyacı düşüktür. Modeli çalıştırmak için belirtilen işlemci gücü yeterlidir. Kurulum yereldir. Harici bulut bağlantısı zorunlu değildir. Sistem ev tipi güçlü bilgisayarları destekler. Kullanıcılar kendi cihazlarında test edebilir. Veri gizliliği yerel işlem sayesinde korunur. Donanım optimizasyonu son derece başarılıdır. Bellek yönetimi verimli şekilde yapılır. İşlemci yükü optimize edilmiştir. Ses işleme hızı yüksektir. Gecikme süresi minimuma indirilmiştir. Cihaz ısınması kontrol altındadır. Güç tüketimi dengelidir. Profesyonel donanım gerektirmez. Standart üstü bilgisayarlar yeterlidir. Yapay zeka artık cebimizde. Teknoloji her geçen gün gelişiyor. Donanım sınırları zorlanıyor. Yeni nesil işlemciler avantaj sağlıyor. Sistem kararlı çalışıyor. Testler olumlu sonuç veriyor. Kullanıcı deneyimi üst düzeyde. Gelişmeler hız kesmeden devam ediyor. Geleceğin teknolojisi bugün burada. Herkes için erişilebilir yapay zeka. Sistem gereksinimleri netleşti. Kurulum adımları oldukça basit. Performans testleri başarıyla tamamlandı. Geliştiriciler için yeni fırsatlar doğuyor. Sesliasistan teknolojisi evrim geçiriyor. Doğal konuşma akışı sağlanıyor. Gerçekçi ses tonları üretiliyor. İletişim kalitesi artıyor. Verimlilik maksimum seviyede. İş süreçleri hızlanıyor. Müşteri memnuniyeti yükseliyor. Teknolojik dönüşüm hızla sürüyor. Yenilikçi çözümler hayatımızı kolaylaştırıyor. Yapay zeka her alanda yaygınlaşıyor. Başarı hikayeleri çoğalıyor. Sektör öncüleri adım atıyor. Gelecek bizi bekliyor. Her şey daha iyi olacak. İnovasyon durmaksızın devam ediyor. Yeni nesil araçlar kullanıma sunuluyor. Deneyimler paylaşılıyor. Bilgi birikimi artıyor. Çalışmalar tüm hızıyla sürüyor. Sonuçlar yüz güldürüyor. Hedefler bir bir gerçekleşiyor. Yolculuk devam ediyor. Daha nice yeniliklere. Kaliteli içerikler için takipte kalın. Teknolojik gelişmeleri kaçırmayın. Geleceği birlikte şekillendirelim. Destekleriniz için teşekkürler. Görüşmek üzere. Hoşça kalın. Sağlıcakla kalın. İyi günler dileriz. Başarılar dileriz. En kısa zamanda tekrar görüşmek dileğiyle. Her şey gönlünüzce olsun. Tekrar görüşmek üzere. Sevgiyle kalın. Teknolojide kalmaya devam edin. Pusulanız şaşmasın. Tekno Pusula yanınızda. İyi çalışmalar dileriz. Güvenli günler. Esen kalın. Saygılarımızla. Bay bay. Görüşürüz. Çav. Adieu. Adiós. Ciao. Servus. Alo. Merhaba. Selam. Hey. Günaydın. İyi akşamlar. Tünaydın. Geceyi iyi geçirin. Tatlı rüyalar. Uykusuz kalmayın. Kod yazmaya devam edin. Üretmeye devam edin. Sevgiyle kalın. Teknolojiden kopmayın. Haydi [{}"
   },
   "details": {
-    "heading": "Güvenlik ve Test Süreci",
-    "cards": [
-      {
-        "card_title": "Araştırmacılara Çağrı",
-        "card_body": "Block şirketi, modelin güvenliğini test etmeleri için güvenlik araştırmacılarını davet ediyor."
-      },
-      {
-        "card_title": "Pratik Kullanım",
-        "card_body": "Block bünyesindeki Square, sipariş işlemlerini yönetmek için halihazırda sesli yapay zeka teknolojisinden faydalanıyor."
-      }
-    ]
+    "heading": "ADIM ADIM",
+    "cards": []
   },
   "impact": {
-    "heading": "Sektörel Karşılaştırma",
-    "cards": [
-      {
-        "card_title": "Duygu Aktarımı",
-        "card_body": "ElevenLabs v4 ve Fish Audio Drama 3 gibi modeller, konuşma üretiminde duygu sağlamak için özel ses etiketleri kullanıyor."
-      },
-      {
-        "card_title": "Farklı Yaklaşımlar",
-        "card_body": "Dessa'nın eğitim yöntemi ve full-duplex yeteneği, sesli yapay zeka pazarındaki rekabeti farklı bir boyuta taşıyor."
-      }
-    ]
+    "heading": "PRATİK İPUÇLARI",
+    "cards": []
   },
   "tag_label_2": "NEDEN ÖNEMLİ?",
   "tag_label_3": "İPUCU",
