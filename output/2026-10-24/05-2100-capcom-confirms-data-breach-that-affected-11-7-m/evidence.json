@@ -1,0 +1,273 @@
+{
+  "title": "Capcom confirms data breach that affected 11.7 million users",
+  "canonical_url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+  "source_names": [
+    "Engadget",
+    "TechCrunch"
+  ],
+  "checked_at": "2026-10-24T20:42:10+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Capcom confirmed a data breach that affected 11.7 million users.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "Capcom confirms data breach that affected 11.7 million users"
+        }
+      ]
+    },
+    {
+      "claim": "The data breach included account emails, birth dates, genders, countries or regions, and nicknames of 43 accounts.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "the data breach included millions of account emails, but also the birth date, gender, country or region and nicknames of 43 accounts"
+        },
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "According to Capcom's statement, the data breach included millions of account emails, but also the birth date, gender, country or region and nicknames of 43 accounts"
+        }
+      ]
+    },
+    {
+      "claim": "Unauthorized changes were made to 196 account passwords.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "as well as unauthorized changes to 196 account passwords."
+        }
+      ]
+    },
+    {
+      "claim": "Customer credit card information was not included in the data breach.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "However, the company noted that customer credit card information was not included in this data breach."
+        }
+      ]
+    },
+    {
+      "claim": "The incident began on October 19 when suspicious activity was detected on Capcom ID.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "Capcom said the incident began on October 19 when it \"detected suspicious activity indicating potential unauthorized access\" to Capcom ID."
+        }
+      ]
+    },
+    {
+      "claim": "Capcom reported the incident to local police and its external advisory board for security oversight.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "Afterwards, Capcom reported the incident to local police and its external advisory board for security oversight."
+        }
+      ]
+    },
+    {
+      "claim": "Games like Street Fighter 6 still require Capcom ID for online play.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "including games like Street Fighter 6 that require it for online play."
+        }
+      ]
+    },
+    {
+      "claim": "Rockstar Games confirmed in April that it was hit by a third-party data breach.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "as Rockstar Games confirmed in April that it was hit by a \"third-party data breach.\""
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Capcom confirmed a data breach that affected 11.7 million users.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "Capcom confirms data breach that affected 11.7 million users"
+        }
+      ]
+    },
+    {
+      "claim": "The data breach included account emails, birth dates, genders, countries or regions, and nicknames of 43 accounts.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "the data breach included millions of account emails, but also the birth date, gender, country or region and nicknames of 43 accounts"
+        },
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "According to Capcom's statement, the data breach included millions of account emails, but also the birth date, gender, country or region and nicknames of 43 accounts"
+        }
+      ]
+    },
+    {
+      "claim": "Unauthorized changes were made to 196 account passwords.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "as well as unauthorized changes to 196 account passwords."
+        }
+      ]
+    },
+    {
+      "claim": "Customer credit card information was not included in the data breach.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "However, the company noted that customer credit card information was not included in this data breach."
+        }
+      ]
+    },
+    {
+      "claim": "The incident began on October 19 when suspicious activity was detected on Capcom ID.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "Capcom said the incident began on October 19 when it \"detected suspicious activity indicating potential unauthorized access\" to Capcom ID."
+        }
+      ]
+    },
+    {
+      "claim": "Capcom reported the incident to local police and its external advisory board for security oversight.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "Afterwards, Capcom reported the incident to local police and its external advisory board for security oversight."
+        }
+      ]
+    },
+    {
+      "claim": "Games like Street Fighter 6 still require Capcom ID for online play.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "including games like Street Fighter 6 that require it for online play."
+        }
+      ]
+    },
+    {
+      "claim": "Rockstar Games confirmed in April that it was hit by a third-party data breach.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "as Rockstar Games confirmed in April that it was hit by a \"third-party data breach.\""
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Capcom confirmed a data breach that affected 11.7 million users.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "Capcom confirms data breach that affected 11.7 million users"
+        }
+      ]
+    },
+    {
+      "claim": "The data breach included account emails, birth dates, genders, countries or regions, and nicknames of 43 accounts.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "the data breach included millions of account emails, but also the birth date, gender, country or region and nicknames of 43 accounts"
+        },
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "According to Capcom's statement, the data breach included millions of account emails, but also the birth date, gender, country or region and nicknames of 43 accounts"
+        }
+      ]
+    },
+    {
+      "claim": "Unauthorized changes were made to 196 account passwords.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "as well as unauthorized changes to 196 account passwords."
+        }
+      ]
+    },
+    {
+      "claim": "Customer credit card information was not included in the data breach.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "However, the company noted that customer credit card information was not included in this data breach."
+        }
+      ]
+    },
+    {
+      "claim": "The incident began on October 19 when suspicious activity was detected on Capcom ID.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "Capcom said the incident began on October 19 when it \"detected suspicious activity indicating potential unauthorized access\" to Capcom ID."
+        }
+      ]
+    },
+    {
+      "claim": "Capcom reported the incident to local police and its external advisory board for security oversight.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "Afterwards, Capcom reported the incident to local police and its external advisory board for security oversight."
+        }
+      ]
+    },
+    {
+      "claim": "Games like Street Fighter 6 still require Capcom ID for online play.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "including games like Street Fighter 6 that require it for online play."
+        }
+      ]
+    },
+    {
+      "claim": "Rockstar Games confirmed in April that it was hit by a third-party data breach.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "quote": "as Rockstar Games confirmed in April that it was hit by a \"third-party data breach.\""
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/": 1732,
+    "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/": 3441
+  }
+}

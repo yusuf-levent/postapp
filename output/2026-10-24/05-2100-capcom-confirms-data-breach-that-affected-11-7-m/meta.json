@@ -1,0 +1,10 @@
+{
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 119.2,
+  "candidates_tried": 1,
+  "gemini_calls": 12,
+  "canonical_url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+  "generated_at": "2026-10-24T20:43:23+03:00"
+}

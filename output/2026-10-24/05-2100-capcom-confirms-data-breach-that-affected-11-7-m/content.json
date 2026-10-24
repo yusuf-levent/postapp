@@ -1,0 +1,72 @@
+{
+  "cover": {
+    "category_label": "SİBER GÜVENLİK",
+    "title": "Capcom ID Sisteminde Veri Sızıntısı",
+    "highlight_words": [
+      "Veri Sızıntısı"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Capcom, milyonlarca kullanıcıyı etkileyen bir veri sızıntısını doğruladı.",
+    "source_tags": [
+      "ENGADGET",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Olay Nasıl Başladı?",
+    "cards": [
+      {
+        "card_title": "Şüpheli Aktivite",
+        "card_body": "Olay, 19 Ekim tarihinde Capcom ID üzerinde şüpheli aktivitelerin tespit edilmesiyle başladı."
+      },
+      {
+        "card_title": "Resmi Bildirim",
+        "card_body": "Capcom, yaşanan bu sızma girişimini yerel polise ve dış güvenlik danışma kuruluna bildirdi."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "11.7 MİLYON",
+    "stat_caption": "Veri sızıntısından etkilenen toplam kullanıcı sayısı.",
+    "stat_quote": "Capcom, 11.7 milyon kullanıcısını etkileyen bir veri sızma olayını doğruladı."
+  },
+  "details": {
+    "heading": "Hangi Bilgiler Etkilendi?",
+    "cards": [
+      {
+        "card_title": "Kişisel Veriler",
+        "card_body": "43 hesaba ait hesap e-postaları, doğum tarihleri, cinsiyetler, ülkeler ve takma adlar sızdırıldı."
+      },
+      {
+        "card_title": "Şifre Değişiklikleri",
+        "card_body": "Saldırganlar tarafından 196 hesabın şifresinde yetkisiz değişiklikler yapıldığı tespit edildi."
+      },
+      {
+        "card_title": "Kredi Kartı Güvende",
+        "card_body": "Sevindirici bir detay olarak, müşteri kredi kartı bilgileri bu veri sızıntısına dahil edilmedi."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektör ve Oyuncular",
+    "cards": [
+      {
+        "card_title": "Çevrim İçi Oyunlar",
+        "card_body": "Street Fighter 6 gibi popüler yapımlar, çevrim içi oynamak için hâlâ Capcom ID gerektirmeye devam ediyor."
+      },
+      {
+        "card_title": "Sektör Tehditleri",
+        "card_body": "Rockstar Games de Nisan ayında üçüncü taraf kaynaklı bir veri sızıntısına uğradığını doğrulamıştı."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Oyun hesaplarınızın güvenliği için iki aşamalı doğrulamayı aktif hale getirdiniz mi?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
