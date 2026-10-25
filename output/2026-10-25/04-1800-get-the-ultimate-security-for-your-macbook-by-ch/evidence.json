@@ -7,12 +7,12 @@
     "TechCrunch",
     "The Verge"
   ],
-  "checked_at": "2026-10-25T18:07:55+03:00",
+  "checked_at": "2026-10-25T18:17:15+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "MacBook ayarlarını değiştirmek için System Settings > Lock Screen yolu izlenebilir.",
+      "claim": "MacBook üzerinde parolanızı değiştirmek için System Settings > Lock Screen yolu izlenebilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "claim": "Konum Servisleri ayarlarına Settings, ardından Privacy & Security bölümünden ulaşılabilir.",
+      "claim": "Konum Servisleri ayarlarına Settings, ardindan Privacy & Security adimlari takip edilerek ulasilabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -32,9 +32,13 @@
       ]
     },
     {
-      "claim": "MacBook üzerinde Firewall seçeneği varsayılan olarak kapalı gelmektedir.",
+      "claim": "MacBook uzerindeki Firewall secenegi varsayilan olarak kapali gelmektedir.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "your MacBook comes with a Firewall option that's off by default."
+        },
         {
           "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
           "quote": "On the topic of exercising control, your MacBook comes with a Firewall option that's off by default."
@@ -42,7 +46,7 @@
       ]
     },
     {
-      "claim": "Firewall özelliğini açmak için System Settings > Network > Firewall adımları takip edilebilir.",
+      "claim": "Firewall ozelligini acmak icin System Settings > Network > Firewall adimlari izlenebilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -52,17 +56,27 @@
       ]
     },
     {
-      "claim": "Kişiselleştirilmiş reklamları kapatmak veya görmek için Settings > Privacy & Security > Apple Advertising > View Ad Targeting Information yolu izlenebilir.",
+      "claim": "Apple, App Store veya Apple News gibi alanlarda reklam sunmak icin veri toplar.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "If you go to Settings > Privacy & Security > Apple Advertising > View Ad Targeting Information, you can see what Apple knows about you."
+          "quote": "Apple, among others, collects data on you that it uses to serve you ads in spots like the App Store or Apple News."
         }
       ]
     },
     {
-      "claim": "Apple, toplandığı anonim analiz verilerinin bir ay sonra silindiğini belirtmektedir.",
+      "claim": "Kisisellestirilmis Reklamlar kapatildiginda Apple'in ilgili reklam sunma yetenegi sinirlenir ancak gorulen reklam sayisi degismez.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "A note on the settings page says this limits \"Apple's ability to deliver relevant ads,\" but it does not impact how many ads you see."
+        }
+      ]
+    },
+    {
+      "claim": "Analitik verileri bir ay sonra silinmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -72,23 +86,13 @@
       ]
     },
     {
-      "claim": "Consumer Reports makalesinde, uzmanların analiz verilerini paylaşmanın riskleri konusunda fikir ayrılığı yaşadığı belirtilmiştir.",
+      "claim": "Analitik verilerini paylasimini kapatmak icin Settings > Privacy & Security > Analytics Improvements adimlari izlenebilir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "An article from Consumer Reports found some experts were split on exactly how risky sharing analytics data is"
+          "quote": "you can go to Settings > Privacy & Security > Analytics Improvements and toggle off several choices like Improve Siri & Dictation and Share with App Developers."
         },
-        {
-          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "An article from Consumer Reports found some experts were split on exactly how risky sharing analytics data is, noting it often depends on the companies involved."
-        }
-      ]
-    },
-    {
-      "claim": "Analiz ve İyileştirme ayarlarını değiştirmek için Settings > Privacy & Security > Analytics Improvements bölümüne gidilebilir.",
-      "verdict": "supported",
-      "evidence": [
         {
           "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
           "quote": "If you'd just rather not take the risk, you can go to Settings > Privacy & Security > Analytics Improvements and toggle off several choices like Improve Siri & Dictation and Share with App Developers."
@@ -98,7 +102,7 @@
   ],
   "round1": [
     {
-      "claim": "MacBook ayarlarını değiştirmek için System Settings > Lock Screen yolu izlenebilir.",
+      "claim": "MacBook üzerinde parolanızı değiştirmek için System Settings > Lock Screen yolu izlenebilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -108,7 +112,7 @@
       ]
     },
     {
-      "claim": "Konum Servisleri ayarlarına Settings, ardından Privacy & Security bölümünden ulaşılabilir.",
+      "claim": "Konum Servisleri ayarlarına Settings, ardindan Privacy & Security adimlari takip edilerek ulasilabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -118,9 +122,13 @@
       ]
     },
     {
-      "claim": "MacBook üzerinde Firewall seçeneği varsayılan olarak kapalı gelmektedir.",
+      "claim": "MacBook uzerindeki Firewall secenegi varsayilan olarak kapali gelmektedir.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "your MacBook comes with a Firewall option that's off by default."
+        },
         {
           "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
           "quote": "On the topic of exercising control, your MacBook comes with a Firewall option that's off by default."
@@ -128,7 +136,7 @@
       ]
     },
     {
-      "claim": "Firewall özelliğini açmak için System Settings > Network > Firewall adımları takip edilebilir.",
+      "claim": "Firewall ozelligini acmak icin System Settings > Network > Firewall adimlari izlenebilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -138,17 +146,27 @@
       ]
     },
     {
-      "claim": "Kişiselleştirilmiş reklamları kapatmak veya görmek için Settings > Privacy & Security > Apple Advertising > View Ad Targeting Information yolu izlenebilir.",
+      "claim": "Apple, App Store veya Apple News gibi alanlarda reklam sunmak icin veri toplar.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "If you go to Settings > Privacy & Security > Apple Advertising > View Ad Targeting Information, you can see what Apple knows about you."
+          "quote": "Apple, among others, collects data on you that it uses to serve you ads in spots like the App Store or Apple News."
         }
       ]
     },
     {
-      "claim": "Apple, toplandığı anonim analiz verilerinin bir ay sonra silindiğini belirtmektedir.",
+      "claim": "Kisisellestirilmis Reklamlar kapatildiginda Apple'in ilgili reklam sunma yetenegi sinirlenir ancak gorulen reklam sayisi degismez.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "A note on the settings page says this limits \"Apple's ability to deliver relevant ads,\" but it does not impact how many ads you see."
+        }
+      ]
+    },
+    {
+      "claim": "Analitik verileri bir ay sonra silinmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -158,23 +176,13 @@
       ]
     },
     {
-      "claim": "Consumer Reports makalesinde, uzmanların analiz verilerini paylaşmanın riskleri konusunda fikir ayrılığı yaşadığı belirtilmiştir.",
+      "claim": "Analitik verilerini paylasimini kapatmak icin Settings > Privacy & Security > Analytics Improvements adimlari izlenebilir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "An article from Consumer Reports found some experts were split on exactly how risky sharing analytics data is"
+          "quote": "you can go to Settings > Privacy & Security > Analytics Improvements and toggle off several choices like Improve Siri & Dictation and Share with App Developers."
         },
-        {
-          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "An article from Consumer Reports found some experts were split on exactly how risky sharing analytics data is, noting it often depends on the companies involved."
-        }
-      ]
-    },
-    {
-      "claim": "Analiz ve İyileştirme ayarlarını değiştirmek için Settings > Privacy & Security > Analytics Improvements bölümüne gidilebilir.",
-      "verdict": "supported",
-      "evidence": [
         {
           "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
           "quote": "If you'd just rather not take the risk, you can go to Settings > Privacy & Security > Analytics Improvements and toggle off several choices like Improve Siri & Dictation and Share with App Developers."
@@ -184,7 +192,7 @@
   ],
   "round2": [
     {
-      "claim": "MacBook ayarlarını değiştirmek için System Settings > Lock Screen yolu izlenebilir.",
+      "claim": "MacBook üzerinde parolanızı değiştirmek için System Settings > Lock Screen yolu izlenebilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -194,7 +202,7 @@
       ]
     },
     {
-      "claim": "Konum Servisleri ayarlarına Settings, ardından Privacy & Security bölümünden ulaşılabilir.",
+      "claim": "Konum Servisleri ayarlarına Settings, ardindan Privacy & Security adimlari takip edilerek ulasilabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -204,9 +212,13 @@
       ]
     },
     {
-      "claim": "MacBook üzerinde Firewall seçeneği varsayılan olarak kapalı gelmektedir.",
+      "claim": "MacBook uzerindeki Firewall secenegi varsayilan olarak kapali gelmektedir.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "your MacBook comes with a Firewall option that's off by default."
+        },
         {
           "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
           "quote": "On the topic of exercising control, your MacBook comes with a Firewall option that's off by default."
@@ -214,7 +226,7 @@
       ]
     },
     {
-      "claim": "Firewall özelliğini açmak için System Settings > Network > Firewall adımları takip edilebilir.",
+      "claim": "Firewall ozelligini acmak icin System Settings > Network > Firewall adimlari izlenebilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -224,17 +236,27 @@
       ]
     },
     {
-      "claim": "Kişiselleştirilmiş reklamları kapatmak veya görmek için Settings > Privacy & Security > Apple Advertising > View Ad Targeting Information yolu izlenebilir.",
+      "claim": "Apple, App Store veya Apple News gibi alanlarda reklam sunmak icin veri toplar.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "If you go to Settings > Privacy & Security > Apple Advertising > View Ad Targeting Information, you can see what Apple knows about you."
+          "quote": "Apple, among others, collects data on you that it uses to serve you ads in spots like the App Store or Apple News."
         }
       ]
     },
     {
-      "claim": "Apple, toplandığı anonim analiz verilerinin bir ay sonra silindiğini belirtmektedir.",
+      "claim": "Kisisellestirilmis Reklamlar kapatildiginda Apple'in ilgili reklam sunma yetenegi sinirlenir ancak gorulen reklam sayisi degismez.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "A note on the settings page says this limits \"Apple's ability to deliver relevant ads,\" but it does not impact how many ads you see."
+        }
+      ]
+    },
+    {
+      "claim": "Analitik verileri bir ay sonra silinmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -244,23 +266,13 @@
       ]
     },
     {
-      "claim": "Consumer Reports makalesinde, uzmanların analiz verilerini paylaşmanın riskleri konusunda fikir ayrılığı yaşadığı belirtilmiştir.",
+      "claim": "Analitik verilerini paylasimini kapatmak icin Settings > Privacy & Security > Analytics Improvements adimlari izlenebilir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "An article from Consumer Reports found some experts were split on exactly how risky sharing analytics data is"
+          "quote": "you can go to Settings > Privacy & Security > Analytics Improvements and toggle off several choices like Improve Siri & Dictation and Share with App Developers."
         },
-        {
-          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "An article from Consumer Reports found some experts were split on exactly how risky sharing analytics data is, noting it often depends on the companies involved."
-        }
-      ]
-    },
-    {
-      "claim": "Analiz ve İyileştirme ayarlarını değiştirmek için Settings > Privacy & Security > Analytics Improvements bölümüne gidilebilir.",
-      "verdict": "supported",
-      "evidence": [
         {
           "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
           "quote": "If you'd just rather not take the risk, you can go to Settings > Privacy & Security > Analytics Improvements and toggle off several choices like Improve Siri & Dictation and Share with App Developers."

@@ -2,40 +2,64 @@
 
 ## INSTAGRAM
 
-MacBook gizlilik ve güvenlik ayarlarını hemen kontrol etmeye ne dersin? Ekran kilidi, konum servisleri, firewall ve kişiselleştirilmiş reklam ayarları ile verilerini koruma altına alabilirsin. Ayarlarını gözden geçirmeyi unutma! Kaynak: Wired
+MacBook'unuzu daha güvenli hale getirmek ister misiniz? Doğrulanmış gizlilik ve güvenlik ayarları rehberi ile cihazınızı koruma altına alın.
 
-#MacBook #Gizlilik #Güvenlik #Apple #Teknoloji #Tech #Privacy #CyberSecurity #MacOS #İpuçları
+Firewall ayarlarından konum servislerine, kişiselleştirilmiş reklamlardan analitik verilere kadar bilmeniz gereken her şey bu rehberde.
+
+Bu güvenlik ipuçlarından hangisini hemen uygulayacaksınız?
+
+Kaynak: Engadget, Wired, TechCrunch, The Verge
+
+#macbook #macos #güvenlik #gizlilik #apple #teknoloji #sibergüvenlik #mac #security #privacy
 
 ## TIKTOK
 
-MacBook güvenlik ayarlarını doğru yaptın mı? Firewall ve konum servislerini hemen kontrol et! Kaynak: TechCrunch
+MacBook'unuzu daha güvenli yapacak gizlilik ayarlarını biliyor musunuz? Adım adım güvenlik rehberi yayında! Bu ipuçlarından hangisini deneyeceksiniz?
 
-#MacBook #Güvenlik #Teknoloji #İpuçları
+Kaynak: Engadget, Wired, TechCrunch, The Verge
+
+#macbook #macos #güvenlik #teknoloji
 
 ## X
 
-MacBook gizlilik ve güvenlik ayarlarını kontrol ettin mi? Ekran kilidi, konum servisleri ve firewall ayarlarını gözden geçirerek verilerini koruyabilirsin. Kaynak: The Verge
+MacBook'unuzu daha güvenli hale getirin! Firewall, konum servisleri ve gizlilik ayarları ile cihazınızı koruyun. Bu ipuçlarından hangisini hemen uygulayacaksınız? Kaynak: Engadget, Wired, TechCrunch, The Verge
 
-#MacBook #Güvenlik
+#macbook #macos
 
 ## THREADS
 
-MacBook Gizlilik ve Güvenlik Rehberi
+MacBook'unuzu Daha Güvenli Hale Getirin
 
-MacBook'unda ekran kilidi, konum servisleri ve firewall gibi temel güvenlik ayarlarını hemen kontrol ederek verilerini güvence altına alabilirsin.
+Doğrulanmış gizlilik ve güvenlik ayarları rehberi ile cihazınızı koruma altına alın. Firewall ve analiz ayarlarınızı hemen gözden geçirin.
 
-MacBook'unda bu ayarları kontrol ettin mi? Kaynak: Engadget 💭
+Bu güvenlik ipuçlarından hangisini hemen uygulayacaksınız?
 
-#MacBook
+💭
+
+Kaynak: Engadget, Wired, TechCrunch, The Verge
+
+#macbook
 
 ## LINKEDIN
 
-MacBook kullanıcıları için gizlilik ve güvenlik rehberi yayında. Ekran kilidi, konum servisleri, firewall ve analiz verileri gibi kritik ayarları gözden geçirerek kurumsal ve kişisel veri güvenliğinizi artırabilirsiniz. Cihazınızdaki bu ayarları hemen kontrol edin. Kaynak: Wired
+MacBook'unuzu daha güvenli hale getirmek için bilmeniz gereken doğrulanmış gizlilik ve güvenlik ayarları rehberi.
 
-#MacBook #SiberGüvenlik #BilgiGüvenliği #Teknoloji #Apple
+İş ve kişisel cihaz güvenliğinizi artırmak için firewall ayarlarını yapılandırabilir, konum servislerini ve analitik veri paylaşımını yönetebilirsiniz. Düzenli güvenlik kontrolleri en iyi korumayı sağlar.
+
+Bu güvenlik ipuçlarından hangisini hemen uygulayacaksınız?
+
+Kaynak: Engadget, Wired, TechCrunch, The Verge
+
+#macbook #sibergüvenlik #bilgişlem #teknoloji
 
 ## FACEBOOK
 
-MacBook gizlilik ve güvenlik ayarlarını hemen kontrol et! Ekran kilidi, konum servisleri, firewall ve reklam tercihleri ile verilerini koruma altına alabilirsin. MacBook'unda bu ayarları kontrol ettin mi? Kaynak: Engadget
+MacBook'unuzu daha güvenli hale getirmek ister misiniz? Doğrulanmış gizlilik ve güvenlik ayarları rehberi ile cihazınızı koruma altına alın.
 
-#MacBook #Güvenlik #Teknoloji #Apple
+Firewall ayarları, konum servisleri ve analitik veri yönetimi ile cihazınızın güvenlik seviyesini artırın.
+
+Bu güvenlik ipuçlarından hangisini hemen uygulayacaksınız?
+
+Kaynak: Engadget, Wired, TechCrunch, The Verge
+
+#macbook #macos #güvenlik #teknoloji

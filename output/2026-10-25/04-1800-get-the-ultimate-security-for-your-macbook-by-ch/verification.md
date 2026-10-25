@@ -3,60 +3,62 @@
 **Haber:** Get the ultimate security for your MacBook by changing these privacy settings
 **Canonical URL:** https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/
 **Kaynaklar:** Engadget, Wired, TechCrunch, The Verge
-**Kontrol zamanı:** 2026-10-25T18:07:55+03:00
+**Kontrol zamanı:** 2026-10-25T18:17:15+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
 
 ## İddia Bazlı Sonuçlar
 
-### 1. MacBook ayarlarını değiştirmek için System Settings > Lock Screen yolu izlenebilir.
+### 1. MacBook üzerinde parolanızı değiştirmek için System Settings > Lock Screen yolu izlenebilir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/](https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/)
     > To tweak these settings, go to System Settings > Lock Screen.
 
-### 2. Konum Servisleri ayarlarına Settings, ardından Privacy & Security bölümünden ulaşılabilir.
+### 2. Konum Servisleri ayarlarına Settings, ardindan Privacy & Security adimlari takip edilerek ulasilabilir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/](https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/)
     > If you go to Settings, then Privacy & Security, you'll find Location Services.
 
-### 3. MacBook üzerinde Firewall seçeneği varsayılan olarak kapalı gelmektedir.
+### 3. MacBook uzerindeki Firewall secenegi varsayilan olarak kapali gelmektedir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/](https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/)
+    > your MacBook comes with a Firewall option that's off by default.
+  - [https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/](https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/)
     > On the topic of exercising control, your MacBook comes with a Firewall option that's off by default.
 
-### 4. Firewall özelliğini açmak için System Settings > Network > Firewall adımları takip edilebilir.
+### 4. Firewall ozelligini acmak icin System Settings > Network > Firewall adimlari izlenebilir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/](https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/)
     > To turn it on, you can go to System Settings > Network > Firewall.
 
-### 5. Kişiselleştirilmiş reklamları kapatmak veya görmek için Settings > Privacy & Security > Apple Advertising > View Ad Targeting Information yolu izlenebilir.
+### 5. Apple, App Store veya Apple News gibi alanlarda reklam sunmak icin veri toplar.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/](https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/)
-    > If you go to Settings > Privacy & Security > Apple Advertising > View Ad Targeting Information, you can see what Apple knows about you.
+    > Apple, among others, collects data on you that it uses to serve you ads in spots like the App Store or Apple News.
 
-### 6. Apple, toplandığı anonim analiz verilerinin bir ay sonra silindiğini belirtmektedir.
+### 6. Kisisellestirilmis Reklamlar kapatildiginda Apple'in ilgili reklam sunma yetenegi sinirlenir ancak gorulen reklam sayisi degismez.
+- **Karar:** ✅ `supported`
+- **Kanıtlar:**
+  - [https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/](https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/)
+    > A note on the settings page says this limits "Apple's ability to deliver relevant ads," but it does not impact how many ads you see.
+
+### 7. Analitik verileri bir ay sonra silinmektedir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/](https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/)
     > Your analytics data then gets deleted after a month.
 
-### 7. Consumer Reports makalesinde, uzmanların analiz verilerini paylaşmanın riskleri konusunda fikir ayrılığı yaşadığı belirtilmiştir.
+### 8. Analitik verilerini paylasimini kapatmak icin Settings > Privacy & Security > Analytics Improvements adimlari izlenebilir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/](https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/)
-    > An article from Consumer Reports found some experts were split on exactly how risky sharing analytics data is
-  - [https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/](https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/)
-    > An article from Consumer Reports found some experts were split on exactly how risky sharing analytics data is, noting it often depends on the companies involved.
-
-### 8. Analiz ve İyileştirme ayarlarını değiştirmek için Settings > Privacy & Security > Analytics Improvements bölümüne gidilebilir.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
+    > you can go to Settings > Privacy & Security > Analytics Improvements and toggle off several choices like Improve Siri & Dictation and Share with App Developers.
   - [https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/](https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/)
     > If you'd just rather not take the risk, you can go to Settings > Privacy & Security > Analytics Improvements and toggle off several choices like Improve Siri & Dictation and Share with App Developers.
 
@@ -66,14 +68,14 @@
 
 | İddia | 1. Tur | 2. Tur | Nihai |
 |-------|--------|--------|-------|
-| MacBook ayarlarını değiştirmek için System Settings > Lock S | supported | supported | supported |
-| Konum Servisleri ayarlarına Settings, ardından Privacy & Sec | supported | supported | supported |
-| MacBook üzerinde Firewall seçeneği varsayılan olarak kapalı  | supported | supported | supported |
-| Firewall özelliğini açmak için System Settings > Network > F | supported | supported | supported |
-| Kişiselleştirilmiş reklamları kapatmak veya görmek için Sett | supported | supported | supported |
-| Apple, toplandığı anonim analiz verilerinin bir ay sonra sil | supported | supported | supported |
-| Consumer Reports makalesinde, uzmanların analiz verilerini p | supported | supported | supported |
-| Analiz ve İyileştirme ayarlarını değiştirmek için Settings > | supported | supported | supported |
+| MacBook üzerinde parolanızı değiştirmek için System Settings | supported | supported | supported |
+| Konum Servisleri ayarlarına Settings, ardindan Privacy & Sec | supported | supported | supported |
+| MacBook uzerindeki Firewall secenegi varsayilan olarak kapal | supported | supported | supported |
+| Firewall ozelligini acmak icin System Settings > Network > F | supported | supported | supported |
+| Apple, App Store veya Apple News gibi alanlarda reklam sunma | supported | supported | supported |
+| Kisisellestirilmis Reklamlar kapatildiginda Apple'in ilgili  | supported | supported | supported |
+| Analitik verileri bir ay sonra silinmektedir. | supported | supported | supported |
+| Analitik verilerini paylasimini kapatmak icin Settings > Pri | supported | supported | supported |
 
 ## Kaynak Metinleri
 

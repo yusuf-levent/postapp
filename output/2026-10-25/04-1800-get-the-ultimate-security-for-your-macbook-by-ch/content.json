@@ -1,13 +1,13 @@
 {
   "cover": {
-    "category_label": "TEKNO PUSULA",
-    "title": "MacBook Gizlilik ve Güvenlik Rehberi",
+    "category_label": "MACOS GÜVENLİK",
+    "title": "MacBook'unuzu Daha Güvenli Hale Getirin",
     "highlight_words": [
-      "Gizlilik",
-      "Güvenlik"
+      "Güvenli",
+      "MacBook"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Ayarlarını hemen kontrol et",
+    "subtitle": "Doğrulanmış gizlilik ve güvenlik ayarları rehberi.",
     "source_tags": [
       "Engadget",
       "Wired",
@@ -16,30 +16,30 @@
     ]
   },
   "problem": {
-    "heading": "Temel Gizlilik Ayarları Nerede?",
+    "heading": "Temel Güvenlik ve Parola Ayarları",
     "cards": [
       {
-        "card_title": "Ekran Kilidi",
-        "card_body": "MacBook ayarlarını değiştirmek için System Settings > Lock Screen yolu izlenebilir."
+        "card_title": "Parola Değiştirme",
+        "card_body": "MacBook üzerinde parolanızı değiştirmek için System Settings > Lock Screen yolu izlenebilir."
       },
       {
         "card_title": "Konum Servisleri",
-        "card_body": "Konum Servisleri ayarlarına Settings, ardından Privacy & Security bölümünden ulaşılabilir."
+        "card_body": "Konum Servisleri ayarlarına Settings, ardından Privacy & Security adımları takip edilerek ulaşılabilir."
       }
     ],
     "code_block": ""
   },
   "steps": [
     {
-      "heading": "Firewall Güvenliği",
+      "heading": "Firewall Ayarları",
       "cards": [
         {
           "card_title": "Varsayılan Durum",
-          "card_body": "MacBook üzerinde Firewall seçeneği varsayılan olarak kapalı gelmektedir."
+          "card_body": "MacBook üzerindeki Firewall seçeneği varsayılan olarak kapalı gelmektedir."
         },
         {
-          "card_title": "Nasıl Açılır?",
-          "card_body": "Firewall özelliğini açmak için System Settings > Network > Firewall adımları takip edilebilir."
+          "card_title": "Firewall Açma",
+          "card_body": "Firewall özelliğini açmak için System Settings > Network > Firewall adımları izlenebilir."
         }
       ],
       "code_block": ""
@@ -48,76 +48,90 @@
       "heading": "Kişiselleştirilmiş Reklamlar",
       "cards": [
         {
-          "card_title": "Reklam Tercihleri",
-          "card_body": "Kişiselleştirilmiş reklamları kapatmak veya görmek için Settings > Privacy & Security > Apple Advertising > View Ad Targeting Information yolu izlenebilir."
+          "card_title": "Veri Toplama",
+          "card_body": "Apple, App Store veya Apple News gibi alanlarda reklam sunmak için veri toplar."
+        },
+        {
+          "card_title": "Reklamları Sınırlama",
+          "card_body": "Kişiselleştirilmiş Reklamlar kapatıldığında Apple'ın ilgili reklam sunma yeteneği sınırıanır ancak görülen reklam sayısı değişmez."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "Analiz ve İyileştirme Verileri",
+      "heading": "Analitik Verileri",
       "cards": [
         {
           "card_title": "Veri Silme Süresi",
-          "card_body": "Apple, toplandığı anonim analiz verilerinin bir ay sonra silindiğini belirtmektedir."
+          "card_body": "Analitik verileri bir ay sonra silinmektedir."
         },
         {
-          "card_title": "Ayarları Değiştirme",
-          "card_body": "Analiz ve İyileştirme ayarlarını değiştirmek için Settings > Privacy & Security > Analytics Improvements bölümüne gidilebilir."
+          "card_title": "Paylaşımı Kapatma",
+          "card_body": "Analitik verilerini paylaşımını kapatmak için Settings > Privacy & Security > Analytics Improvements adımları izlenebilir."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Özet ve Kontrol",
+      "cards": [
+        {
+          "card_title": "Güvenlik Adımları",
+          "card_body": "Bu adımları uygulayarak cihazınızın gizlilik ve güvenlik seviyesini artırabilirsiniz."
         },
         {
-          "card_title": "Uzman Görüşleri",
-          "card_body": "Consumer Reports makalesinde, uzmanların analiz verilerini paylaşmanın riskleri konusunda fikir ayrılığı yaşadığı belirtilmiştir."
+          "card_title": "Düzenli Kontrol",
+          "card_body": "Ayarlarınızı düzenli aralıklarla gözden geçirmek en iyi korumayı sağlar."
         }
       ],
       "code_block": ""
     }
   ],
   "cta": {
-    "question": "MacBook'unda bu ayarları kontrol ettin mi?",
-    "reminder_line": "Kaydetmeyi ve arkadaşlarınla paylaşmayı unutma!"
+    "question": "Bu güvenlik ipuçlarından hangisini hemen uygulayacaksınız?",
+    "reminder_line": "Teknoloji ve yapay zeka rehberleri için Tekno Pusula'yı takipte kalın!"
   },
   "context": {
-    "heading": "Temel Gizlilik Ayarları Nerede?",
+    "heading": "Temel Güvenlik ve Parola Ayarları",
     "cards": [
       {
-        "card_title": "Ekran Kilidi",
-        "card_body": "MacBook ayarlarını değiştirmek için System Settings > Lock Screen yolu izlenebilir."
+        "card_title": "Parola Değiştirme",
+        "card_body": "MacBook üzerinde parolanızı değiştirmek için System Settings > Lock Screen yolu izlenebilir."
       },
       {
         "card_title": "Konum Servisleri",
-        "card_body": "Konum Servisleri ayarlarına Settings, ardından Privacy & Security bölümünden ulaşılabilir."
+        "card_body": "Konum Servisleri ayarlarına Settings, ardından Privacy & Security adımları takip edilerek ulaşılabilir."
       }
     ]
   },
   "stat": {
     "big_stat": "💡",
-    "stat_caption": "Firewall Güvenliği",
+    "stat_caption": "Firewall Ayarları",
     "stat_quote": ""
   },
   "details": {
     "heading": "Kişiselleştirilmiş Reklamlar",
     "cards": [
       {
-        "card_title": "Reklam Tercihleri",
-        "card_body": "Kişiselleştirilmiş reklamları kapatmak veya görmek için Settings > Privacy & Security > Apple Advertising > View Ad Targeting Information yolu izlenebilir."
+        "card_title": "Veri Toplama",
+        "card_body": "Apple, App Store veya Apple News gibi alanlarda reklam sunmak için veri toplar."
+      },
+      {
+        "card_title": "Reklamları Sınırlama",
+        "card_body": "Kişiselleştirilmiş Reklamlar kapatıldığında Apple'ın ilgili reklam sunma yeteneği sınırıanır ancak görülen reklam sayısı değişmez."
       }
     ]
   },
   "impact": {
-    "heading": "Analiz ve İyileştirme Verileri",
+    "heading": "Analitik Verileri",
     "cards": [
       {
         "card_title": "Veri Silme Süresi",
-        "card_body": "Apple, toplandığı anonim analiz verilerinin bir ay sonra silindiğini belirtmektedir."
+        "card_body": "Analitik verileri bir ay sonra silinmektedir."
       },
       {
-        "card_title": "Ayarları Değiştirme",
-        "card_body": "Analiz ve İyileştirme ayarlarını değiştirmek için Settings > Privacy & Security > Analytics Improvements bölümüne gidilebilir."
-      },
-      {
-        "card_title": "Uzman Görüşleri",
-        "card_body": "Consumer Reports makalesinde, uzmanların analiz verilerini paylaşmanın riskleri konusunda fikir ayrılığı yaşadığı belirtilmiştir."
+        "card_title": "Paylaşımı Kapatma",
+        "card_body": "Analitik verilerini paylaşımını kapatmak için Settings > Privacy & Security > Analytics Improvements adımları izlenebilir."
       }
     ]
   },
