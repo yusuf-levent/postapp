@@ -1,0 +1,10 @@
+{
+  "slot": "15:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 136.6,
+  "candidates_tried": 1,
+  "gemini_calls": 16,
+  "canonical_url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+  "generated_at": "2026-10-25T14:43:32+03:00"
+}

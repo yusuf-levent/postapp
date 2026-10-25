@@ -1,0 +1,205 @@
+{
+  "title": "The MacBook Pro Max Just Dropped to Its Lowest Price Ever",
+  "canonical_url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+  "source_names": [
+    "Wired",
+    "Engadget",
+    "TechCrunch",
+    "The Verge"
+  ],
+  "checked_at": "2026-10-25T14:41:44+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "16 inç M5 Max MacBook Pro, 36 GB RAM ve 2 TB depolama alanı ile şu anda 3.499 dolara satılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+          "quote": "Right now, the 16-inch M5 Max MacBook Pro with 36 GB of RAM and 2 TB of storage is $3,499"
+        }
+      ]
+    },
+    {
+      "claim": "3.499 dolarlık fiyat, perakende fiyat üzerinden yüzde 20 indirim sağlamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+          "quote": "Right now, the 16-inch M5 Max MacBook Pro with 36 GB of RAM and 2 TB of storage is $3,499, which is 20 percent off the retail price"
+        }
+      ]
+    },
+    {
+      "claim": "Mevcut indirimli fiyat, birkaç gün önceki fiyatından 400 dolar daha ucuzdur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+          "quote": "Right now, the 16-inch M5 Max MacBook Pro with 36 GB of RAM and 2 TB of storage is $3,499, which is 20 percent off the retail price and $400 cheaper than it was just a few days ago."
+        }
+      ]
+    },
+    {
+      "claim": "Cyberpunk 2077 oyunu, Ultra ön ayarında ve ölçeklendirme olmadan ortalama 60 kareden fazla saniyede hız sunabilmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+          "quote": "In my testing, Cyberpunk 2077 could average over 60 frame per second on the Ultra preset without relying on upscaling."
+        }
+      ]
+    },
+    {
+      "claim": "64 GB veya 128 GB konfigürasyonları Amazon gibi üçüncü taraf perakendeciler tarafından satılmamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+          "quote": "If you really want to get serious about AI performance, you'll want to upgrade to the 64-GB or 128-GB configurations—though third-party retailers like Amazon don't sell them."
+        }
+      ]
+    },
+    {
+      "claim": "Tüm MacBook Pro serisi Haziran ayında fiyat artışı yaşamıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+          "quote": "That's especially significant considering the entire lineup got a price increase back in June."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "16 inç M5 Max MacBook Pro, 36 GB RAM ve 2 TB depolama alanı ile şu anda 3.499 dolara satılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+          "quote": "Right now, the 16-inch M5 Max MacBook Pro with 36 GB of RAM and 2 TB of storage is $3,499"
+        }
+      ]
+    },
+    {
+      "claim": "3.499 dolarlık fiyat, perakende fiyat üzerinden yüzde 20 indirim sağlamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+          "quote": "Right now, the 16-inch M5 Max MacBook Pro with 36 GB of RAM and 2 TB of storage is $3,499, which is 20 percent off the retail price"
+        }
+      ]
+    },
+    {
+      "claim": "Mevcut indirimli fiyat, birkaç gün önceki fiyatından 400 dolar daha ucuzdur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+          "quote": "Right now, the 16-inch M5 Max MacBook Pro with 36 GB of RAM and 2 TB of storage is $3,499, which is 20 percent off the retail price and $400 cheaper than it was just a few days ago."
+        }
+      ]
+    },
+    {
+      "claim": "Cyberpunk 2077 oyunu, Ultra ön ayarında ve ölçeklendirme olmadan ortalama 60 kareden fazla saniyede hız sunabilmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+          "quote": "In my testing, Cyberpunk 2077 could average over 60 frame per second on the Ultra preset without relying on upscaling."
+        }
+      ]
+    },
+    {
+      "claim": "64 GB veya 128 GB konfigürasyonları Amazon gibi üçüncü taraf perakendeciler tarafından satılmamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+          "quote": "If you really want to get serious about AI performance, you'll want to upgrade to the 64-GB or 128-GB configurations—though third-party retailers like Amazon don't sell them."
+        }
+      ]
+    },
+    {
+      "claim": "Tüm MacBook Pro serisi Haziran ayında fiyat artışı yaşamıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+          "quote": "That's especially significant considering the entire lineup got a price increase back in June."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "16 inç M5 Max MacBook Pro, 36 GB RAM ve 2 TB depolama alanı ile şu anda 3.499 dolara satılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+          "quote": "Right now, the 16-inch M5 Max MacBook Pro with 36 GB of RAM and 2 TB of storage is $3,499"
+        }
+      ]
+    },
+    {
+      "claim": "3.499 dolarlık fiyat, perakende fiyat üzerinden yüzde 20 indirim sağlamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+          "quote": "Right now, the 16-inch M5 Max MacBook Pro with 36 GB of RAM and 2 TB of storage is $3,499, which is 20 percent off the retail price"
+        }
+      ]
+    },
+    {
+      "claim": "Mevcut indirimli fiyat, birkaç gün önceki fiyatından 400 dolar daha ucuzdur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+          "quote": "Right now, the 16-inch M5 Max MacBook Pro with 36 GB of RAM and 2 TB of storage is $3,499, which is 20 percent off the retail price and $400 cheaper than it was just a few days ago."
+        }
+      ]
+    },
+    {
+      "claim": "Cyberpunk 2077 oyunu, Ultra ön ayarında ve ölçeklendirme olmadan ortalama 60 kareden fazla saniyede hız sunabilmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+          "quote": "In my testing, Cyberpunk 2077 could average over 60 frame per second on the Ultra preset without relying on upscaling."
+        }
+      ]
+    },
+    {
+      "claim": "64 GB veya 128 GB konfigürasyonları Amazon gibi üçüncü taraf perakendeciler tarafından satılmamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+          "quote": "If you really want to get serious about AI performance, you'll want to upgrade to the 64-GB or 128-GB configurations—though third-party retailers like Amazon don't sell them."
+        }
+      ]
+    },
+    {
+      "claim": "Tüm MacBook Pro serisi Haziran ayında fiyat artışı yaşamıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+          "quote": "That's especially significant considering the entire lineup got a price increase back in June."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/": 2614,
+    "https://www.engadget.com/2292921/how-to-extend-battery-life-apple-airtags/": 4676,
+    "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/": 8225,
+    "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro": 2855
+  }
+}

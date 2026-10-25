@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/MacBook_Pro_16_%28M1_Pro%2C_2021%29_-_Wikipedia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-25/03-1500-the-macbook-pro-max-just-dropped-to-its-lowest-p/images/img-1.png",
+      "license": "",
+      "author": "",
+      "credit_url": "https://en.wikipedia.org/wiki/MacBook%20Pro",
+      "width": 4032,
+      "height": 3024,
+      "alt_text": "MacBook Pro"
+    },
+    {
+      "source": "ogimage",
+      "url": "https://media.wired.com/photos/6adbb2adc29fe197e2045863/191:100/w_1280,c_limit/MacBook%20Pro%20Prices%20Drop%20to%20All-Time%20Low%20deals%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-25/03-1500-the-macbook-pro-max-just-dropped-to-its-lowest-p/images/img-2.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+      "width": 1146,
+      "height": 600,
+      "alt_text": ""
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir.",
+  "music": [
+    {
+      "title": "Torley Wong - The Final Selection ::: 230 diverse MP3s",
+      "artist": "Torley Wong",
+      "license": "Creative Commons (ticari kullanıma uygun)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/us/",
+      "source_url": "https://archive.org/details/Torley_Wong_-_The_Final_Selection"
+    }
+  ]
+}
