@@ -1,13 +1,13 @@
 {
   "cover": {
-    "category_label": "TEKNOLOJİ",
+    "category_label": "TEKNOLOJİ REHBERİ",
     "title": "Kablosuz CarPlay Dönüşümü",
     "highlight_words": [
       "Kablosuz",
       "CarPlay"
     ],
-    "highlight_color": "yellow",
-    "subtitle": "Kablolu sistemleri kablosuz forma dönüştüren adaptörler hakkında bilmeniz gerekenler.",
+    "highlight_color": "cyan",
+    "subtitle": "Kablolu sistemleri kablosuz hale getiren adaptörler hakkında bildiklerimiz.",
     "source_tags": [
       "ENGADGET",
       "WIRED"
@@ -17,49 +17,49 @@
     "heading": "Kablosuz CarPlay Nedir?",
     "cards": [
       {
-        "card_title": "Temel Amaç",
-        "card_body": "Kablosuz CarPlay adaptörleri, kablolu CarPlay sistemini kablosuz forma dönüştürmek için tasarlanmıştır."
+        "card_title": "Temel İşlev",
+        "card_body": "Kablosuz CarPlay adaptörleri, kablolu CarPlay sistemine sahip araçlarda USB bağlantısını kablosuza dönüştürür."
       },
       {
-        "card_title": "Araç Uyumluluğu",
-        "card_body": "Bu adaptörler doğrudan USB CarPlay ile çalışan araçlarla uyumludur."
+        "card_title": "Model Desteği",
+        "card_body": "Amzfeel'in adaptörü 800'den fazla araç modelini desteklediğini iddia etmektedir."
       }
     ]
   },
   "stat": {
     "big_stat": "800+",
-    "stat_caption": "Amzfeel markasının adaptörünün destek iddia ettiği araç modeli sayısı.",
-    "stat_quote": "Pazardaki farklı adaptörler geniş bir araç modeli yelpazesine destek sunmaktadır."
+    "stat_caption": "Desteklenen araç modeli sayısı",
+    "stat_quote": "Amzfeel'in adaptörü 800'den fazla araç modelini desteklediğini iddia etmektedir."
   },
   "details": {
-    "heading": "Fiyat ve Bağlantı",
+    "heading": "Bağlantı ve Fiyat Detayları",
     "cards": [
       {
-        "card_title": "Fiyat Aralıkları",
-        "card_body": "Kablosuz CarPlay adaptörlerinin fiyatı genellikle 30 dolar ile 50 dolar arasında değişmektedir."
+        "card_title": "Bağlantı Noktaları",
+        "card_body": "Eski arabalar genellikle USB-A bağlantı noktalarına sahipken, daha yeni arabalar USB-C ile gelebilir."
       },
       {
-        "card_title": "Popüler Markalar",
-        "card_body": "Ottocast markasının adaptörleri de 30 dolar ile 50 dolar arasındaki fiyat aralığında satılmaktadır."
+        "card_title": "Fiyat Aralığı",
+        "card_body": "Kablosuz CarPlay adaptörlerinin çoğu 30 ile 50 dolar arasında fiyatlandırılmaktadır."
       }
     ]
   },
   "impact": {
-    "heading": "Performans Standartları",
+    "heading": "Araç İçi Deneyime Etkisi",
     "cards": [
       {
-        "card_title": "Güvenilir Performans",
-        "card_body": "Daha güvenilir ve kararlı bir performans için adaptör seçimi büyük önem taşımaktadır."
+        "card_title": "Kullanıcı Konforu",
+        "card_body": "Kablolardan kurtularak araç içinde telefon bağlantısını kablosuz yapmak pratiklik sağlar."
       },
       {
-        "card_title": "Teknik Öneri",
-        "card_body": "Cihazların en az 5GHz Wi-Fi ve Bluetooth 5.0 standartlarını desteklemesi önerilir."
+        "card_title": "Geniş Uyumluluk",
+        "card_body": "Farklı USB portlarına sahip eski ve yeni araç modellerinde kullanım imkanı tanır."
       }
     ]
   },
   "cta": {
-    "question": "Aracınızda kablolu CarPlay kullanmaktan sıkıldınız mı?",
-    "reminder_line": "En güncel teknoloji içerikleri için Tekno Pusula'yı takipte kalın!"
+    "question": "Aracınızda kablosuz CarPlay kullanmayı tercih eder misiniz?",
+    "reminder_line": "Teknoloji gelişmelerini kaçırmamak için takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
