@@ -1,0 +1,68 @@
+{
+  "cover": {
+    "category_label": "AĞ TEKNOLOJİLERİ",
+    "title": "Evde Kablosuz Ağları Güçlendirme Yolları",
+    "highlight_words": [
+      "Ağları"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Mesh sistemleri ve bağlantı seçenekleri hakkında bilmeniz gerekenler.",
+    "source_tags": [
+      "ENGADGET",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Bağlantı Sorunları",
+    "cards": [
+      {
+        "card_title": "Ölü Bölgeler",
+        "card_body": "Mesh sistemleri ölü bölgeleri ortadan kaldırır ve hızları daha tutarlı tutar."
+      },
+      {
+        "card_title": "Arka Taşıma",
+        "card_body": "Mesh sistemleri, yönlendiriciler arasında veri taşıyan bir arka taşıma bağlantısı gerektirir."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "30 DOLAR",
+    "stat_caption": "Kablo Maliyeti",
+    "stat_quote": "Bir çift 50 feet uzunluğunda Cat 6 kablo yaklaşık 30 dolara satın alınabilir."
+  },
+  "details": {
+    "heading": "Cihaz ve Bağlantı Detayları",
+    "cards": [
+      {
+        "card_title": "Üç ve Dört Bantlı Sistemler",
+        "card_body": "Özel bir arka taşıma bağlantısına sahip olan cihazlar en az üç bantlıdır, bazı gelişmiş seçenekler ise dört bantlıdır."
+      },
+      {
+        "card_title": "Ethernet Performansı",
+        "card_body": "Cat 6 kablo kullanıldığında Ethernet, ortalama bir ev mesafesinde en az 1 Gbps veya daha fazla hız sağlar."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Port ve Hız Etkisi",
+    "cards": [
+      {
+        "card_title": "Port Sınırları",
+        "card_body": "100 Mbps port Wi-Fi için çok yavaştır."
+      },
+      {
+        "card_title": "Yeni Nesil Sistemler",
+        "card_body": "1 Gbps port bile Wi-Fi 7 sistemi kullanıldığında yetersiz hissedilebilir."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Ev ağınızda hangi bağlantı türünü tercih ediyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

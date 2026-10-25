@@ -1,0 +1,217 @@
+{
+  "title": "Even the best mesh Wi-Fi system can be easily improved with a simple cable",
+  "canonical_url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+  "source_names": [
+    "Engadget",
+    "Wired",
+    "TechCrunch",
+    "Hugging Face Blog"
+  ],
+  "checked_at": "2026-10-25T21:02:30+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Mesh sistemleri ölü bölgeleri ortadan kaldırır ve hızları daha tutarlı tutar.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "A mesh system eliminates dead zones, however, and keeps speeds more consistent, which is often more important on a daily basis."
+        }
+      ]
+    },
+    {
+      "claim": "Mesh sistemleri, yönlendiriciler arasında veri taşıyan bir arka taşıma bağlantısı gerektirir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "All mesh systems require what's called a backhaul connection. This is the pipeline that shuffles data between routers, rather than directly to your devices."
+        }
+      ]
+    },
+    {
+      "claim": "Özel bir arka taşıma bağlantısına sahip olan cihazlar en az üç bantlıdır (tri-band), bazı gelişmiş seçenekler ise dört bantlıdır (quad-band).",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "For reference, anything with a dedicated backhaul link will at least be tri-band, and some more advanced options are quad-band."
+        }
+      ]
+    },
+    {
+      "claim": "Cat 6 kablo kullanıldığında Ethernet, ortalama bir ev mesafesinde en az 1 Gbps veya daha fazla hız sağlar.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "And in the distances of the average home, Ethernet won't lose you a meaningful amount of speed. It will probably deliver at least 1 Gbps, if not more, when you use a Cat 6 cable."
+        }
+      ]
+    },
+    {
+      "claim": "Bir çift 50 feet uzunluğunda Cat 6 kablo yaklaşık 30 dolara satın alınabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "The basic cost is trivial — you can buy a pair of 50-foot Cat 6 cables for around $30 — but most people don't like wires snaking across their floor."
+        },
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "you can buy a pair of 50-foot Cat 6 cables for around $30"
+        }
+      ]
+    },
+    {
+      "claim": "100 Mbps port Wi-Fi için çok yavaştır ve 1 Gbps port bile Wi-Fi 7 sistemi kullanıldığında yetersiz hissedilebilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "A 100 Mbps port is simply too slow, and even 1 Gbps can feel subpar if you've got a Wi-Fi 7 system with a dedicated wireless backhaul"
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Mesh sistemleri ölü bölgeleri ortadan kaldırır ve hızları daha tutarlı tutar.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "A mesh system eliminates dead zones, however, and keeps speeds more consistent, which is often more important on a daily basis."
+        }
+      ]
+    },
+    {
+      "claim": "Mesh sistemleri, yönlendiriciler arasında veri taşıyan bir arka taşıma bağlantısı gerektirir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "All mesh systems require what's called a backhaul connection. This is the pipeline that shuffles data between routers, rather than directly to your devices."
+        }
+      ]
+    },
+    {
+      "claim": "Özel bir arka taşıma bağlantısına sahip olan cihazlar en az üç bantlıdır (tri-band), bazı gelişmiş seçenekler ise dört bantlıdır (quad-band).",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "For reference, anything with a dedicated backhaul link will at least be tri-band, and some more advanced options are quad-band."
+        }
+      ]
+    },
+    {
+      "claim": "Cat 6 kablo kullanıldığında Ethernet, ortalama bir ev mesafesinde en az 1 Gbps veya daha fazla hız sağlar.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "And in the distances of the average home, Ethernet won't lose you a meaningful amount of speed. It will probably deliver at least 1 Gbps, if not more, when you use a Cat 6 cable."
+        }
+      ]
+    },
+    {
+      "claim": "Bir çift 50 feet uzunluğunda Cat 6 kablo yaklaşık 30 dolara satın alınabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "The basic cost is trivial — you can buy a pair of 50-foot Cat 6 cables for around $30 — but most people don't like wires snaking across their floor."
+        },
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "you can buy a pair of 50-foot Cat 6 cables for around $30"
+        }
+      ]
+    },
+    {
+      "claim": "100 Mbps port Wi-Fi için çok yavaştır ve 1 Gbps port bile Wi-Fi 7 sistemi kullanıldığında yetersiz hissedilebilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "A 100 Mbps port is simply too slow, and even 1 Gbps can feel subpar if you've got a Wi-Fi 7 system with a dedicated wireless backhaul"
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Mesh sistemleri ölü bölgeleri ortadan kaldırır ve hızları daha tutarlı tutar.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "A mesh system eliminates dead zones, however, and keeps speeds more consistent, which is often more important on a daily basis."
+        }
+      ]
+    },
+    {
+      "claim": "Mesh sistemleri, yönlendiriciler arasında veri taşıyan bir arka taşıma bağlantısı gerektirir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "All mesh systems require what's called a backhaul connection. This is the pipeline that shuffles data between routers, rather than directly to your devices."
+        }
+      ]
+    },
+    {
+      "claim": "Özel bir arka taşıma bağlantısına sahip olan cihazlar en az üç bantlıdır (tri-band), bazı gelişmiş seçenekler ise dört bantlıdır (quad-band).",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "For reference, anything with a dedicated backhaul link will at least be tri-band, and some more advanced options are quad-band."
+        }
+      ]
+    },
+    {
+      "claim": "Cat 6 kablo kullanıldığında Ethernet, ortalama bir ev mesafesinde en az 1 Gbps veya daha fazla hız sağlar.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "And in the distances of the average home, Ethernet won't lose you a meaningful amount of speed. It will probably deliver at least 1 Gbps, if not more, when you use a Cat 6 cable."
+        }
+      ]
+    },
+    {
+      "claim": "Bir çift 50 feet uzunluğunda Cat 6 kablo yaklaşık 30 dolara satın alınabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "The basic cost is trivial — you can buy a pair of 50-foot Cat 6 cables for around $30 — but most people don't like wires snaking across their floor."
+        },
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "you can buy a pair of 50-foot Cat 6 cables for around $30"
+        }
+      ]
+    },
+    {
+      "claim": "100 Mbps port Wi-Fi için çok yavaştır ve 1 Gbps port bile Wi-Fi 7 sistemi kullanıldığında yetersiz hissedilebilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "A 100 Mbps port is simply too slow, and even 1 Gbps can feel subpar if you've got a Wi-Fi 7 system with a dedicated wireless backhaul"
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/": 4083,
+    "https://www.wired.com/story/oil-spills-wreak-havoc-on-the-bottom-of-the-ocean-even-a-decade-later/": 6234,
+    "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/": 15686,
+    "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1": 12263
+  }
+}
