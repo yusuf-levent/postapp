@@ -7,63 +7,63 @@
       "Fiyatları"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Piyasaya çıkan yeni nesil konsolların güncel fiyat etiketleri belli oldu.",
+    "subtitle": "2024 yılında piyasaya çıkan konsolların güncel etiket fiyatları açıklandı.",
     "source_tags": [
       "ENGADGET",
       "THE VERGE"
     ]
   },
   "context": {
-    "heading": "Yeni Nesil Konsol Piyasası",
+    "heading": "Konsol Piyasasındaki Son Durum",
     "cards": [
       {
-        "card_title": "PlayStation 5 Pro Çıkışı",
+        "card_title": "PlayStation 5 Pro",
         "card_body": "PlayStation 5 Pro 2024 yılında 700 dolardan piyasaya çıkmıştır."
       },
       {
-        "card_title": "Güncel PlayStation Fiyatları",
-        "card_body": "PlayStation 5 Pro'nun güncel fiyatı 900 dolardır ve GameStop gibi ikinci el satıcıları sistemi 1.400 doların üzerinde fiyatlandırmaktadır."
+        "card_title": "Güncel Etiketler",
+        "card_body": "PlayStation 5 Pro'nun güncel etiket fiyatı 900 dolardır."
       }
     ]
   },
   "stat": {
     "big_stat": "1.400 $",
-    "stat_caption": "İkinci el satıcılarda görülen en yüksek PlayStation 5 Pro fiyatı.",
-    "stat_quote": "GameStop gibi ikinci el satıcıları sistemi 1.400 doların üzerinde fiyatlandırmaktadır."
+    "stat_caption": "İkinci el satıcılarında görülen en yüksek fiyat seviyesi.",
+    "stat_quote": "GameStop gibi ikinci el satıcıları fiyatı 1.400 doların üzerine çıkarmaktadır."
   },
   "details": {
-    "heading": "Alternatif Konsol Fiyatları",
+    "heading": "Diğer Konsol Fiyatları",
     "cards": [
       {
-        "card_title": "Sony ve Microsoft",
+        "card_title": "PlayStation ve Xbox",
         "card_body": "Disksiz PlayStation 5 Digital Edition fiyatı 600 dolardır. Xbox Series S fiyatı ise 500 dolardır."
       },
       {
         "card_title": "Nintendo ve Taşınabilirler",
-        "card_body": "Nintendo Switch 2 500 dolardan başlayan fiyatlarla satılmaktadır. Nintendo Switch Lite 230 dolar fiyat etiketine sahiptir."
+        "card_body": "Nintendo Switch 2 500 dolardan başlamaktadır. Nintendo Switch Lite fiyatı 230 dolardır."
       },
       {
-        "card_title": "El Konsolları",
-        "card_body": "Valve'ın Steam Deck OLED modeli 789 dolardan başlamaktadır. ASUS ROG Xbox Ally X modelinin fiyatı ise 1.000 dolardır."
+        "card_title": "Steam Deck ve ASUS ROG",
+        "card_body": "Valve Steam Deck OLED 789 dolardan başlamaktadır. ASUS ROG Xbox Ally X fiyatı 1.000 dolardır."
       }
     ]
   },
   "impact": {
-    "heading": "Sektöre ve Kullanıcıya Etkisi",
+    "heading": "Piyasaya Etkileri",
     "cards": [
       {
-        "card_title": "Artan Etiketler",
-        "card_body": "Konsol fiyatlarının 500 dolar ve üzerine çıkması oyuncuların bütçe planlamasını doğrudan etkiliyor."
+        "card_title": "İkinci El Piyasası",
+        "card_body": "İkinci el satıcılarının talebi artırması fiyatların yükselmesine neden olmaktadır."
       },
       {
-        "card_title": "İkinci El Piyasası",
-        "card_body": "İkinci el satıcıların yüksek fiyatlandırmaları piyasadaki arz ve talep dengesini değiştiriyor."
+        "card_title": "Kullanıcı Tercihleri",
+        "card_body": "Farklı fiyat etiketleri kullanıcıların bütçelerine uygun alternatifler değerlendirmesini sağlamaktadır."
       }
     ]
   },
   "cta": {
-    "question": "Yeni nesil konsolların bu fiyat etiketleri hakkında ne düşünüyorsunuz?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeler için takipte kalın."
+    "question": "Sizce güncel konsol fiyatları bütçenizi zorluyor mu?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmelerden haberdar olmak için takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

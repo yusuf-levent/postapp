@@ -2,9 +2,9 @@
   "slot": "12:00",
   "type": "news",
   "model": "gemini-3.5-flash-lite",
-  "duration_seconds": 195.3,
+  "duration_seconds": 154.2,
   "candidates_tried": 1,
-  "gemini_calls": 20,
+  "gemini_calls": 16,
   "canonical_url": "https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/",
-  "generated_at": "2026-10-25T11:44:27+03:00"
+  "generated_at": "2026-10-25T11:49:03+03:00"
 }

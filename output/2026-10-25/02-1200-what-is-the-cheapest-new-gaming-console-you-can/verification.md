@@ -3,7 +3,7 @@
 **Haber:** What is the cheapest new gaming console you can buy in 2026?
 **Canonical URL:** https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/
 **Kaynaklar:** Engadget, The Verge, TechCrunch, Wired
-**Kontrol zamanı:** 2026-10-25T11:41:51+03:00
+**Kontrol zamanı:** 2026-10-25T11:47:03+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
@@ -16,7 +16,7 @@
   - [https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/](https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/)
     > For example, the PlayStation 5 Pro debuted in 2024 for $700.
 
-### 2. PlayStation 5 Pro'nun güncel fiyatı 900 dolardır ve GameStop gibi ikinci el satıcıları sistemi 1.400 doların üzerinde fiyatlandırmaktadır.
+### 2. PlayStation 5 Pro'nun güncel etiket fiyatı 900 dolardır ve GameStop gibi ikinci el satıcıları fiyatı 1.400 doların üzerine çıkarmaktadır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/](https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/)
@@ -33,28 +33,26 @@
 - **Kanıtlar:**
   - [https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/](https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/)
     > and even the scaled-down all-digital Xbox Series S is $500.
-  - [https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/](https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/)
-    > even the scaled-down all-digital Xbox Series S is $500.
 
-### 5. Nintendo Switch 2 500 dolardan başlayan fiyatlarla satılmaktadır.
+### 5. Nintendo Switch 2 500 dolardan başlamaktadır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/](https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/)
     > A slightly better deal is the Nintendo Switch 2. That also starts at $500
 
-### 6. Nintendo Switch Lite 230 dolar fiyat etiketine sahiptir.
+### 6. Nintendo Switch Lite fiyatı 230 dolardır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/](https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/)
     > It's just $230, putting in the same pricing bracket as a lot of those generic Android devices.
 
-### 7. Valve'ın Steam Deck OLED modeli 789 dolardan başlamaktadır.
+### 7. Valve Steam Deck OLED 789 dolardan başlamaktadır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/](https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/)
     > Valve's Steam Deck OLED starts at $789
 
-### 8. ASUS ROG Xbox Ally X modelinin fiyatı 1.000 dolardır.
+### 8. ASUS ROG Xbox Ally X fiyatı 1.000 dolardır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/](https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/)
@@ -67,13 +65,13 @@
 | İddia | 1. Tur | 2. Tur | Nihai |
 |-------|--------|--------|-------|
 | PlayStation 5 Pro 2024 yılında 700 dolardan piyasaya çıkmışt | supported | supported | supported |
-| PlayStation 5 Pro'nun güncel fiyatı 900 dolardır ve GameStop | supported | supported | supported |
+| PlayStation 5 Pro'nun güncel etiket fiyatı 900 dolardır ve G | supported | supported | supported |
 | Disksiz PlayStation 5 Digital Edition fiyatı 600 dolardır. | supported | supported | supported |
 | Xbox Series S fiyatı 500 dolardır. | supported | supported | supported |
-| Nintendo Switch 2 500 dolardan başlayan fiyatlarla satılmakt | supported | supported | supported |
-| Nintendo Switch Lite 230 dolar fiyat etiketine sahiptir. | supported | supported | supported |
-| Valve'ın Steam Deck OLED modeli 789 dolardan başlamaktadır. | supported | supported | supported |
-| ASUS ROG Xbox Ally X modelinin fiyatı 1.000 dolardır. | supported | supported | supported |
+| Nintendo Switch 2 500 dolardan başlamaktadır. | supported | supported | supported |
+| Nintendo Switch Lite fiyatı 230 dolardır. | supported | supported | supported |
+| Valve Steam Deck OLED 789 dolardan başlamaktadır. | supported | supported | supported |
+| ASUS ROG Xbox Ally X fiyatı 1.000 dolardır. | supported | supported | supported |
 
 ## Kaynak Metinleri
 

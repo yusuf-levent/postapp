@@ -7,7 +7,7 @@
     "TechCrunch",
     "Wired"
   ],
-  "checked_at": "2026-10-25T11:41:51+03:00",
+  "checked_at": "2026-10-25T11:47:03+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "claim": "PlayStation 5 Pro'nun güncel fiyatı 900 dolardır ve GameStop gibi ikinci el satıcıları sistemi 1.400 doların üzerinde fiyatlandırmaktadır.",
+      "claim": "PlayStation 5 Pro'nun güncel etiket fiyatı 900 dolardır ve GameStop gibi ikinci el satıcıları fiyatı 1.400 doların üzerine çıkarmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -48,15 +48,11 @@
         {
           "url": "https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/",
           "quote": "and even the scaled-down all-digital Xbox Series S is $500."
-        },
-        {
-          "url": "https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/",
-          "quote": "even the scaled-down all-digital Xbox Series S is $500."
         }
       ]
     },
     {
-      "claim": "Nintendo Switch 2 500 dolardan başlayan fiyatlarla satılmaktadır.",
+      "claim": "Nintendo Switch 2 500 dolardan başlamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -66,7 +62,7 @@
       ]
     },
     {
-      "claim": "Nintendo Switch Lite 230 dolar fiyat etiketine sahiptir.",
+      "claim": "Nintendo Switch Lite fiyatı 230 dolardır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -76,7 +72,7 @@
       ]
     },
     {
-      "claim": "Valve'ın Steam Deck OLED modeli 789 dolardan başlamaktadır.",
+      "claim": "Valve Steam Deck OLED 789 dolardan başlamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -86,7 +82,7 @@
       ]
     },
     {
-      "claim": "ASUS ROG Xbox Ally X modelinin fiyatı 1.000 dolardır.",
+      "claim": "ASUS ROG Xbox Ally X fiyatı 1.000 dolardır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -108,7 +104,7 @@
       ]
     },
     {
-      "claim": "PlayStation 5 Pro'nun güncel fiyatı 900 dolardır ve GameStop gibi ikinci el satıcıları sistemi 1.400 doların üzerinde fiyatlandırmaktadır.",
+      "claim": "PlayStation 5 Pro'nun güncel etiket fiyatı 900 dolardır ve GameStop gibi ikinci el satıcıları fiyatı 1.400 doların üzerine çıkarmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -134,15 +130,11 @@
         {
           "url": "https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/",
           "quote": "and even the scaled-down all-digital Xbox Series S is $500."
-        },
-        {
-          "url": "https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/",
-          "quote": "even the scaled-down all-digital Xbox Series S is $500."
         }
       ]
     },
     {
-      "claim": "Nintendo Switch 2 500 dolardan başlayan fiyatlarla satılmaktadır.",
+      "claim": "Nintendo Switch 2 500 dolardan başlamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -152,7 +144,7 @@
       ]
     },
     {
-      "claim": "Nintendo Switch Lite 230 dolar fiyat etiketine sahiptir.",
+      "claim": "Nintendo Switch Lite fiyatı 230 dolardır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -162,7 +154,7 @@
       ]
     },
     {
-      "claim": "Valve'ın Steam Deck OLED modeli 789 dolardan başlamaktadır.",
+      "claim": "Valve Steam Deck OLED 789 dolardan başlamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -172,7 +164,7 @@
       ]
     },
     {
-      "claim": "ASUS ROG Xbox Ally X modelinin fiyatı 1.000 dolardır.",
+      "claim": "ASUS ROG Xbox Ally X fiyatı 1.000 dolardır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -194,7 +186,7 @@
       ]
     },
     {
-      "claim": "PlayStation 5 Pro'nun güncel fiyatı 900 dolardır ve GameStop gibi ikinci el satıcıları sistemi 1.400 doların üzerinde fiyatlandırmaktadır.",
+      "claim": "PlayStation 5 Pro'nun güncel etiket fiyatı 900 dolardır ve GameStop gibi ikinci el satıcıları fiyatı 1.400 doların üzerine çıkarmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -220,15 +212,11 @@
         {
           "url": "https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/",
           "quote": "and even the scaled-down all-digital Xbox Series S is $500."
-        },
-        {
-          "url": "https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/",
-          "quote": "even the scaled-down all-digital Xbox Series S is $500."
         }
       ]
     },
     {
-      "claim": "Nintendo Switch 2 500 dolardan başlayan fiyatlarla satılmaktadır.",
+      "claim": "Nintendo Switch 2 500 dolardan başlamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -238,7 +226,7 @@
       ]
     },
     {
-      "claim": "Nintendo Switch Lite 230 dolar fiyat etiketine sahiptir.",
+      "claim": "Nintendo Switch Lite fiyatı 230 dolardır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -248,7 +236,7 @@
       ]
     },
     {
-      "claim": "Valve'ın Steam Deck OLED modeli 789 dolardan başlamaktadır.",
+      "claim": "Valve Steam Deck OLED 789 dolardan başlamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -258,7 +246,7 @@
       ]
     },
     {
-      "claim": "ASUS ROG Xbox Ally X modelinin fiyatı 1.000 dolardır.",
+      "claim": "ASUS ROG Xbox Ally X fiyatı 1.000 dolardır.",
       "verdict": "supported",
       "evidence": [
         {
