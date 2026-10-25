@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ",
+    "title": "Kablosuz CarPlay Dönüşümü",
+    "highlight_words": [
+      "Kablosuz",
+      "CarPlay"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Kablolu sistemleri kablosuz forma dönüştüren adaptörler hakkında bilmeniz gerekenler.",
+    "source_tags": [
+      "ENGADGET",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Kablosuz CarPlay Nedir?",
+    "cards": [
+      {
+        "card_title": "Temel Amaç",
+        "card_body": "Kablosuz CarPlay adaptörleri, kablolu CarPlay sistemini kablosuz forma dönüştürmek için tasarlanmıştır."
+      },
+      {
+        "card_title": "Araç Uyumluluğu",
+        "card_body": "Bu adaptörler doğrudan USB CarPlay ile çalışan araçlarla uyumludur."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "800+",
+    "stat_caption": "Amzfeel markasının adaptörünün destek iddia ettiği araç modeli sayısı.",
+    "stat_quote": "Pazardaki farklı adaptörler geniş bir araç modeli yelpazesine destek sunmaktadır."
+  },
+  "details": {
+    "heading": "Fiyat ve Bağlantı",
+    "cards": [
+      {
+        "card_title": "Fiyat Aralıkları",
+        "card_body": "Kablosuz CarPlay adaptörlerinin fiyatı genellikle 30 dolar ile 50 dolar arasında değişmektedir."
+      },
+      {
+        "card_title": "Popüler Markalar",
+        "card_body": "Ottocast markasının adaptörleri de 30 dolar ile 50 dolar arasındaki fiyat aralığında satılmaktadır."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Performans Standartları",
+    "cards": [
+      {
+        "card_title": "Güvenilir Performans",
+        "card_body": "Daha güvenilir ve kararlı bir performans için adaptör seçimi büyük önem taşımaktadır."
+      },
+      {
+        "card_title": "Teknik Öneri",
+        "card_body": "Cihazların en az 5GHz Wi-Fi ve Bluetooth 5.0 standartlarını desteklemesi önerilir."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Aracınızda kablolu CarPlay kullanmaktan sıkıldınız mı?",
+    "reminder_line": "En güncel teknoloji içerikleri için Tekno Pusula'yı takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

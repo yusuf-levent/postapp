@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 147.7,
+  "candidates_tried": 1,
+  "gemini_calls": 28,
+  "canonical_url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
+  "generated_at": "2026-10-25T08:43:41+03:00"
+}

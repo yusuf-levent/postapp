@@ -1,0 +1,175 @@
+{
+  "title": "Here's what you need to know before buying a wireless CarPlay adapter",
+  "canonical_url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
+  "source_names": [
+    "Engadget",
+    "TechCrunch",
+    "The Verge",
+    "Wired"
+  ],
+  "checked_at": "2026-10-25T08:41:41+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Kablosuz CarPlay adaptörleri, kablolu CarPlay sistemini kablosuz forma dönüştürmek için tasarlanmıştır ve doğrudan USB CarPlay ile çalışan araçlarla uyumludur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
+          "quote": "These adapters only work with cars that already have built-in CarPlay, as they simply convert USB CarPlay to wireless."
+        }
+      ]
+    },
+    {
+      "claim": "Amzfeel markasının adaptörü 800'den fazla araç modeli için destek iddia etmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
+          "quote": "Amzfeel's adapter, for example, claims support for over 800 vehicle models."
+        }
+      ]
+    },
+    {
+      "claim": "Kablosuz CarPlay adaptörlerinin fiyatı genellikle 30 dolar ile 50 dolar arasında değişmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
+          "quote": "Most of these adapters cost between $30 and $50, like the ones from Ottocast, but prices can go higher for models with more features."
+        }
+      ]
+    },
+    {
+      "claim": "Ottocast markasının adaptörleri 30 dolar ile 50 dolar arasındaki fiyat aralığında satılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
+          "quote": "Most of these adapters cost between $30 and $50, like the ones from Ottocast, but prices can go higher for models with more features."
+        }
+      ]
+    },
+    {
+      "claim": "Daha güvenilir ve kararlı bir performans için adaptörlerin en az 5GHz Wi-Fi ve Bluetooth 5.0 standartlarını desteklemesi önerilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
+          "quote": "Adapters that support 5GHz Wi-Fi (to avoid congestion) and at least Bluetooth 5.0 (for quick connections) tend to offer more reliable and stable performance."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Kablosuz CarPlay adaptörleri, kablolu CarPlay sistemini kablosuz forma dönüştürmek için tasarlanmıştır ve doğrudan USB CarPlay ile çalışan araçlarla uyumludur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
+          "quote": "These adapters only work with cars that already have built-in CarPlay, as they simply convert USB CarPlay to wireless."
+        }
+      ]
+    },
+    {
+      "claim": "Amzfeel markasının adaptörü 800'den fazla araç modeli için destek iddia etmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
+          "quote": "Amzfeel's adapter, for example, claims support for over 800 vehicle models."
+        }
+      ]
+    },
+    {
+      "claim": "Kablosuz CarPlay adaptörlerinin fiyatı genellikle 30 dolar ile 50 dolar arasında değişmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
+          "quote": "Most of these adapters cost between $30 and $50, like the ones from Ottocast, but prices can go higher for models with more features."
+        }
+      ]
+    },
+    {
+      "claim": "Ottocast markasının adaptörleri 30 dolar ile 50 dolar arasındaki fiyat aralığında satılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
+          "quote": "Most of these adapters cost between $30 and $50, like the ones from Ottocast, but prices can go higher for models with more features."
+        }
+      ]
+    },
+    {
+      "claim": "Daha güvenilir ve kararlı bir performans için adaptörlerin en az 5GHz Wi-Fi ve Bluetooth 5.0 standartlarını desteklemesi önerilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
+          "quote": "Adapters that support 5GHz Wi-Fi (to avoid congestion) and at least Bluetooth 5.0 (for quick connections) tend to offer more reliable and stable performance."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Kablosuz CarPlay adaptörleri, kablolu CarPlay sistemini kablosuz forma dönüştürmek için tasarlanmıştır ve doğrudan USB CarPlay ile çalışan araçlarla uyumludur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
+          "quote": "These adapters only work with cars that already have built-in CarPlay, as they simply convert USB CarPlay to wireless."
+        }
+      ]
+    },
+    {
+      "claim": "Amzfeel markasının adaptörü 800'den fazla araç modeli için destek iddia etmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
+          "quote": "Amzfeel's adapter, for example, claims support for over 800 vehicle models."
+        }
+      ]
+    },
+    {
+      "claim": "Kablosuz CarPlay adaptörlerinin fiyatı genellikle 30 dolar ile 50 dolar arasında değişmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
+          "quote": "Most of these adapters cost between $30 and $50, like the ones from Ottocast, but prices can go higher for models with more features."
+        }
+      ]
+    },
+    {
+      "claim": "Ottocast markasının adaptörleri 30 dolar ile 50 dolar arasındaki fiyat aralığında satılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
+          "quote": "Most of these adapters cost between $30 and $50, like the ones from Ottocast, but prices can go higher for models with more features."
+        }
+      ]
+    },
+    {
+      "claim": "Daha güvenilir ve kararlı bir performans için adaptörlerin en az 5GHz Wi-Fi ve Bluetooth 5.0 standartlarını desteklemesi önerilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
+          "quote": "Adapters that support 5GHz Wi-Fi (to avoid congestion) and at least Bluetooth 5.0 (for quick connections) tend to offer more reliable and stable performance."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/": 3647,
+    "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/": 11889,
+    "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro": 2855,
+    "https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/": 6923
+  }
+}
