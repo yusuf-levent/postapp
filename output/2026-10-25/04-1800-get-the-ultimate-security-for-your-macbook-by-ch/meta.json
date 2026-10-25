@@ -2,9 +2,9 @@
   "slot": "18:00",
   "type": "edu",
   "model": "gemini-3.5-flash-lite",
-  "duration_seconds": 181.8,
+  "duration_seconds": 170.4,
   "candidates_tried": 1,
-  "gemini_calls": 23,
+  "gemini_calls": 22,
   "canonical_url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-  "generated_at": "2026-10-25T17:54:50+03:00"
+  "generated_at": "2026-10-25T17:59:38+03:00"
 }

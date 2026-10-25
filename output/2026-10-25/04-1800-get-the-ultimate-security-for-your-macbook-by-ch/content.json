@@ -1,13 +1,13 @@
 {
   "cover": {
     "category_label": "TEKNO PUSULA",
-    "title": "MacBook Güvenliğinizi Artırın",
+    "title": "MacBook Gizlilik ve Güvenlik Rehberi",
     "highlight_words": [
-      "Güvenliğinizi",
-      "Artırın"
+      "Gizlilik",
+      "Güvenlik"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Temel ayarlar ve gizlilik ipuçları",
+    "subtitle": "Doğru ayarlar ile cihazını daha güvenli hale getir.",
     "source_tags": [
       "Engadget",
       "Wired",
@@ -16,104 +16,108 @@
     ]
   },
   "problem": {
-    "heading": "Temel Güvenlik Önlemleri",
+    "heading": "Temel Güvenlik Ayarları Nelerdir?",
     "cards": [
       {
-        "card_title": "Şifre ve Touch ID",
-        "card_body": "MacBook'unuzda şifre ve Touch ID kullanmak güvenliğinizi artırmanın ilk yollarından biridir."
+        "card_title": "Kilit Ekranı ve Touch ID",
+        "card_body": "MacBook ayarlarında kilit ekranı şifresi ve Touch ID kullanılabilir."
       },
       {
-        "card_title": "Kilit Ekranı",
-        "card_body": "Kilit ekranı ayarlarını değiştirmek için System Settings > Lock Screen yolunu izleyebilirsiniz."
+        "card_title": "Firewall Durumu",
+        "card_body": "MacBook üzerindeki Firewall seçeneği varsayılan olarak kapalıdır."
       }
     ],
     "code_block": ""
   },
   "steps": [
     {
-      "heading": "Konum Servisleri Ayarları",
+      "heading": "Konum ve Gizlilik Ayarları",
       "cards": [
         {
-          "card_title": "Gizlilik ve Güvenlik",
-          "card_body": "Location Services ayarlarına Settings menüsünden Privacy & Security seçeneğine giderek ulaşabilirsiniz."
+          "card_title": "Gizlilik Menüsü",
+          "card_body": "Konum Servisleri ayarlarına Privacy & Security menüsünden ulaşılabilir."
+        },
+        {
+          "card_title": "Konum Kontrolü",
+          "card_body": "Hangi uygulamanın konumunuza erişebileceğini bu menüden düzenleyebilirsiniz."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "Firewall (Güvenlik Duvarı) Durumu",
+      "heading": "Kişiselleştirilmiş Reklamlar",
       "cards": [
         {
-          "card_title": "Varsayılan Durum",
-          "card_body": "MacBook'unuzdaki Firewall seçeneği varsayılan olarak kapalı gelmektedir."
+          "card_title": "Apple Advertising",
+          "card_body": "Apple Advertising ayarlarından Kişiselleştirilmiş Reklamlar kapatılabilir."
         },
         {
-          "card_title": "Nasıl Açılır?",
-          "card_body": "Firewall özelliğini açmak için System Settings > Network > Firewall yolunu izleyebilirsiniz."
+          "card_title": "Reklam Tercihleri",
+          "card_body": "Bu ayarı değiştirerek hedefli reklamları sınırlandırabilirsiniz."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "Veri Gizliliği ve Reklamlar",
+      "heading": "Analitik Verileri",
       "cards": [
         {
-          "card_title": "Veri Toplama",
-          "card_body": "Apple, App Store veya Apple News gibi yerlerde size reklam sunmak için veri toplar."
+          "card_title": "Veri Paylaşımı",
+          "card_body": "Analytics & Improvements verileri bir ay sonra silinmektedir."
         },
         {
-          "card_title": "Üçüncü Taraf Takibi",
-          "card_body": "Apple, web siteleri veya üçüncü taraf uygulamalar üzerinden sizi takip etmediğini belirtmektedir. Toplanan anonim analitik verileri bir ay sonra silinmektedir."
+          "card_title": "İyileştirme Verileri",
+          "card_body": "Paylaşılan bu veriler otomatik olarak sistem tarafından temizlenir."
         }
       ],
       "code_block": ""
     }
   ],
   "cta": {
-    "question": "MacBook'unuzda bu güvenlik ayarlarını kontrol ettiniz mi?",
-    "reminder_line": "Daha fazla teknoloji ipucu için Tekno Pusula'yı takipte kalın!"
+    "question": "Bu güvenlik ayarlarından hangilerini zaten kullanıyorsun?",
+    "reminder_line": "Teknoloji ve yapay zeka rehberleri için takipte kal!"
   },
   "context": {
-    "heading": "Temel Güvenlik Önlemleri",
+    "heading": "Temel Güvenlik Ayarları Nelerdir?",
     "cards": [
       {
-        "card_title": "Şifre ve Touch ID",
-        "card_body": "MacBook'unuzda şifre ve Touch ID kullanmak güvenliğinizi artırmanın ilk yollarından biridir."
+        "card_title": "Kilit Ekranı ve Touch ID",
+        "card_body": "MacBook ayarlarında kilit ekranı şifresi ve Touch ID kullanılabilir."
       },
       {
-        "card_title": "Kilit Ekranı",
-        "card_body": "Kilit ekranı ayarlarını değiştirmek için System Settings > Lock Screen yolunu izleyebilirsiniz."
+        "card_title": "Firewall Durumu",
+        "card_body": "MacBook üzerindeki Firewall seçeneği varsayılan olarak kapalıdır."
       }
     ]
   },
   "stat": {
     "big_stat": "💡",
-    "stat_caption": "Konum Servisleri Ayarları",
+    "stat_caption": "Konum ve Gizlilik Ayarları",
     "stat_quote": ""
   },
   "details": {
-    "heading": "Firewall (Güvenlik Duvarı) Durumu",
+    "heading": "Kişiselleştirilmiş Reklamlar",
     "cards": [
       {
-        "card_title": "Varsayılan Durum",
-        "card_body": "MacBook'unuzdaki Firewall seçeneği varsayılan olarak kapalı gelmektedir."
+        "card_title": "Apple Advertising",
+        "card_body": "Apple Advertising ayarlarından Kişiselleştirilmiş Reklamlar kapatılabilir."
       },
       {
-        "card_title": "Nasıl Açılır?",
-        "card_body": "Firewall özelliğini açmak için System Settings > Network > Firewall yolunu izleyebilirsiniz."
+        "card_title": "Reklam Tercihleri",
+        "card_body": "Bu ayarı değiştirerek hedefli reklamları sınırlandırabilirsiniz."
       }
     ]
   },
   "impact": {
-    "heading": "Veri Gizliliği ve Reklamlar",
+    "heading": "Analitik Verileri",
     "cards": [
       {
-        "card_title": "Veri Toplama",
-        "card_body": "Apple, App Store veya Apple News gibi yerlerde size reklam sunmak için veri toplar."
+        "card_title": "Veri Paylaşımı",
+        "card_body": "Analytics & Improvements verileri bir ay sonra silinmektedir."
       },
       {
-        "card_title": "Üçüncü Taraf Takibi",
-        "card_body": "Apple, web siteleri veya üçüncü taraf uygulamalar üzerinden sizi takip etmediğini belirtmektedir. Toplanan anonim analitik verileri bir ay sonra silinmektedir."
+        "card_title": "İyileştirme Verileri",
+        "card_body": "Paylaşılan bu veriler otomatik olarak sistem tarafından temizlenir."
       }
     ]
   },

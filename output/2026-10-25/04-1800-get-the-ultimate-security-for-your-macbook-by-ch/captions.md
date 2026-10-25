@@ -2,60 +2,44 @@
 
 ## INSTAGRAM
 
-MacBook güvenliğinizi en üst düzeye çıkarmaya hazır mısınız? 💻 Temel ayarlar ve gizlilik ipuçlarıyla cihazınızı koruma altına alın. Şifre ve Touch ID kullanımından Firewall ayarına kadar bilmeniz gerekenler bu rehberde! Konum servisleri ve veri gizliliği detaylarını da unutmayın.
+MacBook'unu daha güvenli hale getirmek istemez misin? Doğru gizlilik ve güvenlik ayarları ile cihazını koruma altına alabilirsin. Kilit ekranı, Touch ID ve konum servisleri gibi temel adımlarla verilerini güvende tut. Bu güvenlik ayarlarından hangilerini zaten kullanıyorsun? Kaynak: Engadget, Wired, TechCrunch, The Verge
 
-MacBook'unuzda bu güvenlik ayarlarını kontrol ettiniz mi?
-
-Daha fazla teknoloji ipucu için Tekno Pusula'yı takipte kalın!
-
-Kaynak: Engadget, Wired, TechCrunch, The Verge
-
-#MacBook #SiberGüvenlik #Teknoloji #Apple #Gizlilik #TeknoPusula #TechTips #MacOs #Security #İpuçları
+#MacBook #Güvenlik #Gizlilik #Teknoloji #Apple #TechTips #CyberSecurity #MacOS #İpuçları #TeknoPusula
 
 ## TIKTOK
 
-MacBook'unuzu gerçekten güvende tutuyor musunuz? 🔒 Firewall ve gizlilik ayarlarını hemen kontrol edin! Kaynak: Engadget, Wired, TechCrunch, The Verge
+MacBook güvenlik ayarlarını doğru yaptın mı? Gizliliğini artırmak için bu ipuçlarını kaçırma! Kaynak: Engadget, Wired, TechCrunch, The Verge
 
-#MacBook #Teknoloji #Güvenlik #Apple #TeknoPusula
+#MacBook #Güvenlik #Teknoloji #Apple #İpuçları
 
 ## X
 
-MacBook güvenliğinizi artırmak için temel ayarları ve gizlilik ipuçlarını gözden geçirin. Firewall'unuz açık mı? Kaynak: Engadget, Wired, TechCrunch, The Verge #MacBook #Teknoloji
+MacBook'unuzu daha güvenli hale getirmek için temel gizlilik ve güvenlik ayarlarını gözden geçirin. Hangi ayarları kullanıyorsunuz? Kaynak: Engadget, Wired, TechCrunch, The Verge
 
-#MacBook #Teknoloji
+#MacBook #Güvenlik
 
 ## THREADS
 
-MacBook'unuzun güvenlik ayarlarını gözden geçirdiniz mi? 💻
+MacBook Gizlilik ve Güvenlik Rehberi
 
-Şifre, Touch ID ve Firewall gibi temel adımlarla cihazınızı koruyun.
+Doğru ayarlar ile cihazını daha güvenli hale getirebilirsin. Kilit ekranı, Touch ID ve konum izinleri gibi temel adımlarla kişisel verilerini koru.
 
-MacBook'unuzda bu güvenlik ayarlarını kontrol ettiniz mi? 💭
+Bu güvenlik ayarlarından hangilerini zaten kullanıyorsun?
 
-Kaynak: Engadget, Wired, TechCrunch, The Verge
+💭 Kaynak: Engadget, Wired, TechCrunch, The Verge
 
 #MacBook
 
 ## LINKEDIN
 
-Dijital çalışma ortamımızda cihaz güvenliği büyük önem taşıyor. MacBook kullanıcıları için temel güvenlik önlemleri, Firewall ayarları ve veri gizliliği ipuçlarını derledik. Kurumsal ve bireysel verilerinizi korumak için bu adımları gözden geçirebilirsiniz.
-
-MacBook'unuzda bu güvenlik ayarlarını kontrol ettiniz mi?
-
-Daha fazla teknoloji ipucu için Tekno Pusula'yı takipte kalın!
+MacBook'larda veri gizliliği ve güvenlik ayarlarının doğru yapılandırılması, kurumsal ve bireysel verilerin korunmasında kritik rol oynar. Kilit ekranı, Touch ID ve konum servisleri gibi temel ayarları gözden geçirerek cihaz güvenliğinizi artırabilirsiniz. Bu güvenlik ayarlarından hangilerini iş akışınızda aktif olarak kullanıyorsunuz?
 
 Kaynak: Engadget, Wired, TechCrunch, The Verge
 
-#SiberGüvenlik #MacBook #Teknoloji #BilgiGüvenliği #Apple
+#CyberSecurity #MacBook #InformationSecurity #Technology #Privacy
 
 ## FACEBOOK
 
-MacBook güvenliğinizi artırmak için temel ayarlar ve gizlilik ipuçları bir arada! 💻 Şifre, Touch ID, Firewall ve konum servisleri ayarlarıyla cihazınızı koruma altına alın.
+MacBook'unu daha güvenli hale getirmek ister misin? Doğru gizlilik ve güvenlik ayarları ile cihazını koruma altına alabilirsin. Kilit ekranı, Touch ID ve konum servisleri gibi temel adımlarla verilerini güvende tut. Bu güvenlik ayarlarından hangilerini zaten kullanıyorsun? Kaynak: Engadget, Wired, TechCrunch, The Verge
 
-MacBook'unuzda bu güvenlik ayarlarını kontrol ettiniz mi?
-
-Daha fazla teknoloji ipucu için Tekno Pusula'yı takipte kalın!
-
-Kaynak: Engadget, Wired, TechCrunch, The Verge
-
-#MacBook #Teknoloji #Güvenlik #Apple #TeknoPusula
+#MacBook #Güvenlik #Gizlilik #Teknoloji #Apple

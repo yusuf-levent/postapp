@@ -7,12 +7,12 @@
     "TechCrunch",
     "The Verge"
   ],
-  "checked_at": "2026-10-25T17:52:18+03:00",
+  "checked_at": "2026-10-25T17:57:15+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "MacBook'unuzda şifre ve Touch ID kullanmak güvenliğinizi artırmanın ilk yollarından biridir.",
+      "claim": "MacBook ayarlarında kilit ekranı şifresi ve Touch ID kullanılabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,17 +22,7 @@
       ]
     },
     {
-      "claim": "Kilit ekranı ayarlarını değiştirmek için System Settings > Lock Screen yolunu izleyebilirsiniz.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "To tweak these settings, go to System Settings > Lock Screen."
-        }
-      ]
-    },
-    {
-      "claim": "Location Services ayarlarına Settings menüsünden Privacy & Security seçeneğine giderek ulaşabilirsiniz.",
+      "claim": "Konum Servisleri ayarlarına Privacy & Security menüsünden ulaşılabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -42,7 +32,7 @@
       ]
     },
     {
-      "claim": "MacBook'unuzdaki Firewall seçeneği varsayılan olarak kapalı gelmektedir.",
+      "claim": "MacBook üzerindeki Firewall seçeneği varsayılan olarak kapalıdır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -52,37 +42,17 @@
       ]
     },
     {
-      "claim": "Firewall özelliğini açmak için System Settings > Network > Firewall yolunu izleyebilirsiniz.",
+      "claim": "Apple Advertising ayarlarından Kişiselleştirilmiş Reklamlar kapatılabilir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "To turn it on, you can go to System Settings > Network > Firewall."
+          "quote": "You can also just toggle off Personalized Ads."
         }
       ]
     },
     {
-      "claim": "Apple, App Store veya Apple News gibi yerlerde size reklam sunmak için veri toplar.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "Apple, among others, collects data on you that it uses to serve you ads in spots like the App Store or Apple News."
-        }
-      ]
-    },
-    {
-      "claim": "Apple, web siteleri veya üçüncü taraf uygulamalar üzerinden sizi takip etmediğini belirtmektedir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "The company notes that it doesn't track you across websites or third-party apps."
-        }
-      ]
-    },
-    {
-      "claim": "Toplanan anonim analitik verileri bir ay sonra silinmektedir.",
+      "claim": "Analytics & Improvements verileri bir ay sonra silinmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -94,7 +64,7 @@
   ],
   "round1": [
     {
-      "claim": "MacBook'unuzda şifre ve Touch ID kullanmak güvenliğinizi artırmanın ilk yollarından biridir.",
+      "claim": "MacBook ayarlarında kilit ekranı şifresi ve Touch ID kullanılabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -104,17 +74,7 @@
       ]
     },
     {
-      "claim": "Kilit ekranı ayarlarını değiştirmek için System Settings > Lock Screen yolunu izleyebilirsiniz.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "To tweak these settings, go to System Settings > Lock Screen."
-        }
-      ]
-    },
-    {
-      "claim": "Location Services ayarlarına Settings menüsünden Privacy & Security seçeneğine giderek ulaşabilirsiniz.",
+      "claim": "Konum Servisleri ayarlarına Privacy & Security menüsünden ulaşılabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -124,7 +84,7 @@
       ]
     },
     {
-      "claim": "MacBook'unuzdaki Firewall seçeneği varsayılan olarak kapalı gelmektedir.",
+      "claim": "MacBook üzerindeki Firewall seçeneği varsayılan olarak kapalıdır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -134,37 +94,17 @@
       ]
     },
     {
-      "claim": "Firewall özelliğini açmak için System Settings > Network > Firewall yolunu izleyebilirsiniz.",
+      "claim": "Apple Advertising ayarlarından Kişiselleştirilmiş Reklamlar kapatılabilir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "To turn it on, you can go to System Settings > Network > Firewall."
+          "quote": "You can also just toggle off Personalized Ads."
         }
       ]
     },
     {
-      "claim": "Apple, App Store veya Apple News gibi yerlerde size reklam sunmak için veri toplar.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "Apple, among others, collects data on you that it uses to serve you ads in spots like the App Store or Apple News."
-        }
-      ]
-    },
-    {
-      "claim": "Apple, web siteleri veya üçüncü taraf uygulamalar üzerinden sizi takip etmediğini belirtmektedir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "The company notes that it doesn't track you across websites or third-party apps."
-        }
-      ]
-    },
-    {
-      "claim": "Toplanan anonim analitik verileri bir ay sonra silinmektedir.",
+      "claim": "Analytics & Improvements verileri bir ay sonra silinmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -176,7 +116,7 @@
   ],
   "round2": [
     {
-      "claim": "MacBook'unuzda şifre ve Touch ID kullanmak güvenliğinizi artırmanın ilk yollarından biridir.",
+      "claim": "MacBook ayarlarında kilit ekranı şifresi ve Touch ID kullanılabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -186,17 +126,7 @@
       ]
     },
     {
-      "claim": "Kilit ekranı ayarlarını değiştirmek için System Settings > Lock Screen yolunu izleyebilirsiniz.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "To tweak these settings, go to System Settings > Lock Screen."
-        }
-      ]
-    },
-    {
-      "claim": "Location Services ayarlarına Settings menüsünden Privacy & Security seçeneğine giderek ulaşabilirsiniz.",
+      "claim": "Konum Servisleri ayarlarına Privacy & Security menüsünden ulaşılabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -206,7 +136,7 @@
       ]
     },
     {
-      "claim": "MacBook'unuzdaki Firewall seçeneği varsayılan olarak kapalı gelmektedir.",
+      "claim": "MacBook üzerindeki Firewall seçeneği varsayılan olarak kapalıdır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -216,37 +146,17 @@
       ]
     },
     {
-      "claim": "Firewall özelliğini açmak için System Settings > Network > Firewall yolunu izleyebilirsiniz.",
+      "claim": "Apple Advertising ayarlarından Kişiselleştirilmiş Reklamlar kapatılabilir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "To turn it on, you can go to System Settings > Network > Firewall."
+          "quote": "You can also just toggle off Personalized Ads."
         }
       ]
     },
     {
-      "claim": "Apple, App Store veya Apple News gibi yerlerde size reklam sunmak için veri toplar.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "Apple, among others, collects data on you that it uses to serve you ads in spots like the App Store or Apple News."
-        }
-      ]
-    },
-    {
-      "claim": "Apple, web siteleri veya üçüncü taraf uygulamalar üzerinden sizi takip etmediğini belirtmektedir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "The company notes that it doesn't track you across websites or third-party apps."
-        }
-      ]
-    },
-    {
-      "claim": "Toplanan anonim analitik verileri bir ay sonra silinmektedir.",
+      "claim": "Analytics & Improvements verileri bir ay sonra silinmektedir.",
       "verdict": "supported",
       "evidence": [
         {
