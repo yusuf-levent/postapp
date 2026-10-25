@@ -2,19 +2,19 @@
 
 ## INSTAGRAM
 
-MacBook'unu daha güvenli hale getirmek istemez misin? Doğru gizlilik ve güvenlik ayarları ile cihazını koruma altına alabilirsin. Kilit ekranı, Touch ID ve konum servisleri gibi temel adımlarla verilerini güvende tut. Bu güvenlik ayarlarından hangilerini zaten kullanıyorsun? Kaynak: Engadget, Wired, TechCrunch, The Verge
+MacBook gizlilik ve güvenlik ayarlarını hemen kontrol etmeye ne dersin? Ekran kilidi, konum servisleri, firewall ve kişiselleştirilmiş reklam ayarları ile verilerini koruma altına alabilirsin. Ayarlarını gözden geçirmeyi unutma! Kaynak: Wired
 
-#MacBook #Güvenlik #Gizlilik #Teknoloji #Apple #TechTips #CyberSecurity #MacOS #İpuçları #TeknoPusula
+#MacBook #Gizlilik #Güvenlik #Apple #Teknoloji #Tech #Privacy #CyberSecurity #MacOS #İpuçları
 
 ## TIKTOK
 
-MacBook güvenlik ayarlarını doğru yaptın mı? Gizliliğini artırmak için bu ipuçlarını kaçırma! Kaynak: Engadget, Wired, TechCrunch, The Verge
+MacBook güvenlik ayarlarını doğru yaptın mı? Firewall ve konum servislerini hemen kontrol et! Kaynak: TechCrunch
 
-#MacBook #Güvenlik #Teknoloji #Apple #İpuçları
+#MacBook #Güvenlik #Teknoloji #İpuçları
 
 ## X
 
-MacBook'unuzu daha güvenli hale getirmek için temel gizlilik ve güvenlik ayarlarını gözden geçirin. Hangi ayarları kullanıyorsunuz? Kaynak: Engadget, Wired, TechCrunch, The Verge
+MacBook gizlilik ve güvenlik ayarlarını kontrol ettin mi? Ekran kilidi, konum servisleri ve firewall ayarlarını gözden geçirerek verilerini koruyabilirsin. Kaynak: The Verge
 
 #MacBook #Güvenlik
 
@@ -22,24 +22,20 @@ MacBook'unuzu daha güvenli hale getirmek için temel gizlilik ve güvenlik ayar
 
 MacBook Gizlilik ve Güvenlik Rehberi
 
-Doğru ayarlar ile cihazını daha güvenli hale getirebilirsin. Kilit ekranı, Touch ID ve konum izinleri gibi temel adımlarla kişisel verilerini koru.
+MacBook'unda ekran kilidi, konum servisleri ve firewall gibi temel güvenlik ayarlarını hemen kontrol ederek verilerini güvence altına alabilirsin.
 
-Bu güvenlik ayarlarından hangilerini zaten kullanıyorsun?
-
-💭 Kaynak: Engadget, Wired, TechCrunch, The Verge
+MacBook'unda bu ayarları kontrol ettin mi? Kaynak: Engadget 💭
 
 #MacBook
 
 ## LINKEDIN
 
-MacBook'larda veri gizliliği ve güvenlik ayarlarının doğru yapılandırılması, kurumsal ve bireysel verilerin korunmasında kritik rol oynar. Kilit ekranı, Touch ID ve konum servisleri gibi temel ayarları gözden geçirerek cihaz güvenliğinizi artırabilirsiniz. Bu güvenlik ayarlarından hangilerini iş akışınızda aktif olarak kullanıyorsunuz?
+MacBook kullanıcıları için gizlilik ve güvenlik rehberi yayında. Ekran kilidi, konum servisleri, firewall ve analiz verileri gibi kritik ayarları gözden geçirerek kurumsal ve kişisel veri güvenliğinizi artırabilirsiniz. Cihazınızdaki bu ayarları hemen kontrol edin. Kaynak: Wired
 
-Kaynak: Engadget, Wired, TechCrunch, The Verge
-
-#CyberSecurity #MacBook #InformationSecurity #Technology #Privacy
+#MacBook #SiberGüvenlik #BilgiGüvenliği #Teknoloji #Apple
 
 ## FACEBOOK
 
-MacBook'unu daha güvenli hale getirmek ister misin? Doğru gizlilik ve güvenlik ayarları ile cihazını koruma altına alabilirsin. Kilit ekranı, Touch ID ve konum servisleri gibi temel adımlarla verilerini güvende tut. Bu güvenlik ayarlarından hangilerini zaten kullanıyorsun? Kaynak: Engadget, Wired, TechCrunch, The Verge
+MacBook gizlilik ve güvenlik ayarlarını hemen kontrol et! Ekran kilidi, konum servisleri, firewall ve reklam tercihleri ile verilerini koruma altına alabilirsin. MacBook'unda bu ayarları kontrol ettin mi? Kaynak: Engadget
 
-#MacBook #Güvenlik #Gizlilik #Teknoloji #Apple
+#MacBook #Güvenlik #Teknoloji #Apple

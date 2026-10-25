@@ -7,7 +7,7 @@
       "Güvenlik"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Doğru ayarlar ile cihazını daha güvenli hale getir.",
+    "subtitle": "Ayarlarını hemen kontrol et",
     "source_tags": [
       "Engadget",
       "Wired",
@@ -16,30 +16,30 @@
     ]
   },
   "problem": {
-    "heading": "Temel Güvenlik Ayarları Nelerdir?",
+    "heading": "Temel Gizlilik Ayarları Nerede?",
     "cards": [
       {
-        "card_title": "Kilit Ekranı ve Touch ID",
-        "card_body": "MacBook ayarlarında kilit ekranı şifresi ve Touch ID kullanılabilir."
+        "card_title": "Ekran Kilidi",
+        "card_body": "MacBook ayarlarını değiştirmek için System Settings > Lock Screen yolu izlenebilir."
       },
       {
-        "card_title": "Firewall Durumu",
-        "card_body": "MacBook üzerindeki Firewall seçeneği varsayılan olarak kapalıdır."
+        "card_title": "Konum Servisleri",
+        "card_body": "Konum Servisleri ayarlarına Settings, ardından Privacy & Security bölümünden ulaşılabilir."
       }
     ],
     "code_block": ""
   },
   "steps": [
     {
-      "heading": "Konum ve Gizlilik Ayarları",
+      "heading": "Firewall Güvenliği",
       "cards": [
         {
-          "card_title": "Gizlilik Menüsü",
-          "card_body": "Konum Servisleri ayarlarına Privacy & Security menüsünden ulaşılabilir."
+          "card_title": "Varsayılan Durum",
+          "card_body": "MacBook üzerinde Firewall seçeneği varsayılan olarak kapalı gelmektedir."
         },
         {
-          "card_title": "Konum Kontrolü",
-          "card_body": "Hangi uygulamanın konumunuza erişebileceğini bu menüden düzenleyebilirsiniz."
+          "card_title": "Nasıl Açılır?",
+          "card_body": "Firewall özelliğini açmak için System Settings > Network > Firewall adımları takip edilebilir."
         }
       ],
       "code_block": ""
@@ -48,76 +48,76 @@
       "heading": "Kişiselleştirilmiş Reklamlar",
       "cards": [
         {
-          "card_title": "Apple Advertising",
-          "card_body": "Apple Advertising ayarlarından Kişiselleştirilmiş Reklamlar kapatılabilir."
-        },
-        {
           "card_title": "Reklam Tercihleri",
-          "card_body": "Bu ayarı değiştirerek hedefli reklamları sınırlandırabilirsiniz."
+          "card_body": "Kişiselleştirilmiş reklamları kapatmak veya görmek için Settings > Privacy & Security > Apple Advertising > View Ad Targeting Information yolu izlenebilir."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "Analitik Verileri",
+      "heading": "Analiz ve İyileştirme Verileri",
       "cards": [
         {
-          "card_title": "Veri Paylaşımı",
-          "card_body": "Analytics & Improvements verileri bir ay sonra silinmektedir."
+          "card_title": "Veri Silme Süresi",
+          "card_body": "Apple, toplandığı anonim analiz verilerinin bir ay sonra silindiğini belirtmektedir."
         },
         {
-          "card_title": "İyileştirme Verileri",
-          "card_body": "Paylaşılan bu veriler otomatik olarak sistem tarafından temizlenir."
+          "card_title": "Ayarları Değiştirme",
+          "card_body": "Analiz ve İyileştirme ayarlarını değiştirmek için Settings > Privacy & Security > Analytics Improvements bölümüne gidilebilir."
+        },
+        {
+          "card_title": "Uzman Görüşleri",
+          "card_body": "Consumer Reports makalesinde, uzmanların analiz verilerini paylaşmanın riskleri konusunda fikir ayrılığı yaşadığı belirtilmiştir."
         }
       ],
       "code_block": ""
     }
   ],
   "cta": {
-    "question": "Bu güvenlik ayarlarından hangilerini zaten kullanıyorsun?",
-    "reminder_line": "Teknoloji ve yapay zeka rehberleri için takipte kal!"
+    "question": "MacBook'unda bu ayarları kontrol ettin mi?",
+    "reminder_line": "Kaydetmeyi ve arkadaşlarınla paylaşmayı unutma!"
   },
   "context": {
-    "heading": "Temel Güvenlik Ayarları Nelerdir?",
+    "heading": "Temel Gizlilik Ayarları Nerede?",
     "cards": [
       {
-        "card_title": "Kilit Ekranı ve Touch ID",
-        "card_body": "MacBook ayarlarında kilit ekranı şifresi ve Touch ID kullanılabilir."
+        "card_title": "Ekran Kilidi",
+        "card_body": "MacBook ayarlarını değiştirmek için System Settings > Lock Screen yolu izlenebilir."
       },
       {
-        "card_title": "Firewall Durumu",
-        "card_body": "MacBook üzerindeki Firewall seçeneği varsayılan olarak kapalıdır."
+        "card_title": "Konum Servisleri",
+        "card_body": "Konum Servisleri ayarlarına Settings, ardından Privacy & Security bölümünden ulaşılabilir."
       }
     ]
   },
   "stat": {
     "big_stat": "💡",
-    "stat_caption": "Konum ve Gizlilik Ayarları",
+    "stat_caption": "Firewall Güvenliği",
     "stat_quote": ""
   },
   "details": {
     "heading": "Kişiselleştirilmiş Reklamlar",
     "cards": [
       {
-        "card_title": "Apple Advertising",
-        "card_body": "Apple Advertising ayarlarından Kişiselleştirilmiş Reklamlar kapatılabilir."
-      },
-      {
         "card_title": "Reklam Tercihleri",
-        "card_body": "Bu ayarı değiştirerek hedefli reklamları sınırlandırabilirsiniz."
+        "card_body": "Kişiselleştirilmiş reklamları kapatmak veya görmek için Settings > Privacy & Security > Apple Advertising > View Ad Targeting Information yolu izlenebilir."
       }
     ]
   },
   "impact": {
-    "heading": "Analitik Verileri",
+    "heading": "Analiz ve İyileştirme Verileri",
     "cards": [
       {
-        "card_title": "Veri Paylaşımı",
-        "card_body": "Analytics & Improvements verileri bir ay sonra silinmektedir."
+        "card_title": "Veri Silme Süresi",
+        "card_body": "Apple, toplandığı anonim analiz verilerinin bir ay sonra silindiğini belirtmektedir."
       },
       {
-        "card_title": "İyileştirme Verileri",
-        "card_body": "Paylaşılan bu veriler otomatik olarak sistem tarafından temizlenir."
+        "card_title": "Ayarları Değiştirme",
+        "card_body": "Analiz ve İyileştirme ayarlarını değiştirmek için Settings > Privacy & Security > Analytics Improvements bölümüne gidilebilir."
+      },
+      {
+        "card_title": "Uzman Görüşleri",
+        "card_body": "Consumer Reports makalesinde, uzmanların analiz verilerini paylaşmanın riskleri konusunda fikir ayrılığı yaşadığı belirtilmiştir."
       }
     ]
   },
