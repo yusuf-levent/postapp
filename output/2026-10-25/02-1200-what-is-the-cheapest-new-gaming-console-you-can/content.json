@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "OYUN DÜNYASI",
+    "title": "PlayStation 5 Pro ve Güncel Konsol Fiyatları",
+    "highlight_words": [
+      "PlayStation 5 Pro",
+      "Fiyatları"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Piyasaya çıkan yeni nesil konsolların güncel fiyat etiketleri belli oldu.",
+    "source_tags": [
+      "ENGADGET",
+      "THE VERGE"
+    ]
+  },
+  "context": {
+    "heading": "Yeni Nesil Konsol Piyasası",
+    "cards": [
+      {
+        "card_title": "PlayStation 5 Pro Çıkışı",
+        "card_body": "PlayStation 5 Pro 2024 yılında 700 dolardan piyasaya çıkmıştır."
+      },
+      {
+        "card_title": "Güncel PlayStation Fiyatları",
+        "card_body": "PlayStation 5 Pro'nun güncel fiyatı 900 dolardır ve GameStop gibi ikinci el satıcıları sistemi 1.400 doların üzerinde fiyatlandırmaktadır."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "1.400 $",
+    "stat_caption": "İkinci el satıcılarda görülen en yüksek PlayStation 5 Pro fiyatı.",
+    "stat_quote": "GameStop gibi ikinci el satıcıları sistemi 1.400 doların üzerinde fiyatlandırmaktadır."
+  },
+  "details": {
+    "heading": "Alternatif Konsol Fiyatları",
+    "cards": [
+      {
+        "card_title": "Sony ve Microsoft",
+        "card_body": "Disksiz PlayStation 5 Digital Edition fiyatı 600 dolardır. Xbox Series S fiyatı ise 500 dolardır."
+      },
+      {
+        "card_title": "Nintendo ve Taşınabilirler",
+        "card_body": "Nintendo Switch 2 500 dolardan başlayan fiyatlarla satılmaktadır. Nintendo Switch Lite 230 dolar fiyat etiketine sahiptir."
+      },
+      {
+        "card_title": "El Konsolları",
+        "card_body": "Valve'ın Steam Deck OLED modeli 789 dolardan başlamaktadır. ASUS ROG Xbox Ally X modelinin fiyatı ise 1.000 dolardır."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektöre ve Kullanıcıya Etkisi",
+    "cards": [
+      {
+        "card_title": "Artan Etiketler",
+        "card_body": "Konsol fiyatlarının 500 dolar ve üzerine çıkması oyuncuların bütçe planlamasını doğrudan etkiliyor."
+      },
+      {
+        "card_title": "İkinci El Piyasası",
+        "card_body": "İkinci el satıcıların yüksek fiyatlandırmaları piyasadaki arz ve talep dengesini değiştiriyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Yeni nesil konsolların bu fiyat etiketleri hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
