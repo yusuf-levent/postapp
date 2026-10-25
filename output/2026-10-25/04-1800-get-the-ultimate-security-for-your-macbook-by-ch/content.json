@@ -1,0 +1,121 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ REHBERİ",
+    "title": "MacBook Güvenlik ve Gizlilik Ayarları",
+    "highlight_words": [
+      "Güvenlik",
+      "Gizlilik"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Mac cihazınızı daha güvenli hale getirin",
+    "source_tags": [
+      "Engadget",
+      "Wired",
+      "TechCrunch",
+      "The Verge"
+    ]
+  },
+  "problem": {
+    "heading": "Temel Güvenlik ve Gizlilik Adımları",
+    "cards": [
+      {
+        "card_title": "Kilit Ekranı Şifresi",
+        "card_body": "MacBook ayarlarında kilit ekranı şifresi oluşturmak için System Settings > Lock Screen yolu izlenir."
+      },
+      {
+        "card_title": "Konum Servisleri",
+        "card_body": "Konum Servisleri ayarlarına erişmek için Settings altındaki Privacy & Security bölümüne gidilir."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Güvenlik Duvarı (Firewall) Ayarı",
+      "cards": [
+        {
+          "card_title": "Varsayılan Durum",
+          "card_body": "MacBook üzerindeki Firewall seçeneği varsayılan olarak kapalı gelmektedir."
+        },
+        {
+          "card_title": "Nasıl Açılır?",
+          "card_body": "Firewall özelliğini açmak için System Settings > Network > Firewall adımları takip edilir."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Kişiselleştirilmiş Reklamlar",
+      "cards": [
+        {
+          "card_title": "Reklam Tercihleri",
+          "card_body": "Apple Advertising bölümünden kişiselleştirilmiş reklamlar kapatılabilmektedir."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Analitik Veri Paylaşımı",
+      "cards": [
+        {
+          "card_title": "Veri Silme Süresi",
+          "card_body": "Apple, anonim analitik verilerinin bir ay sonra silindiğini belirtmektedir."
+        },
+        {
+          "card_title": "Paylaşımı Kapatma",
+          "card_body": "Analitik verilerini paylaşmamak için Settings > Privacy & Security > Analytics Improvements yolu izlenir."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Bu güvenlik adımlarını kendi cihazınızda uyguladınız mı?",
+    "reminder_line": "Tekno Pusula ile teknolojiyi güvenli keşfedin!"
+  },
+  "context": {
+    "heading": "Temel Güvenlik ve Gizlilik Adımları",
+    "cards": [
+      {
+        "card_title": "Kilit Ekranı Şifresi",
+        "card_body": "MacBook ayarlarında kilit ekranı şifresi oluşturmak için System Settings > Lock Screen yolu izlenir."
+      },
+      {
+        "card_title": "Konum Servisleri",
+        "card_body": "Konum Servisleri ayarlarına erişmek için Settings altındaki Privacy & Security bölümüne gidilir."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Güvenlik Duvarı (Firewall) Ayarı",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Kişiselleştirilmiş Reklamlar",
+    "cards": [
+      {
+        "card_title": "Reklam Tercihleri",
+        "card_body": "Apple Advertising bölümünden kişiselleştirilmiş reklamlar kapatılabilmektedir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Analitik Veri Paylaşımı",
+    "cards": [
+      {
+        "card_title": "Veri Silme Süresi",
+        "card_body": "Apple, anonim analitik verilerinin bir ay sonra silindiğini belirtmektedir."
+      },
+      {
+        "card_title": "Paylaşımı Kapatma",
+        "card_body": "Analitik verilerini paylaşmamak için Settings > Privacy & Security > Analytics Improvements yolu izlenir."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}

@@ -1,0 +1,235 @@
+{
+  "title": "Get the ultimate security for your MacBook by changing these privacy settings",
+  "canonical_url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+  "source_names": [
+    "Engadget",
+    "Wired",
+    "TechCrunch",
+    "The Verge"
+  ],
+  "checked_at": "2026-10-25T17:47:19+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "MacBook ayarlarinda kilit ekrani sifresi olusturmak icin System Settings > Lock Screen yolu izlenir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "To tweak these settings, go to System Settings > Lock Screen."
+        }
+      ]
+    },
+    {
+      "claim": "Konum Servisleri ayarlarına erismek icin Settings altindaki Privacy & Security bolumune gidilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "If you go to Settings, then Privacy & Security, you'll find Location Services."
+        }
+      ]
+    },
+    {
+      "claim": "MacBook uzerindeki Firewall secenegi varsayilan olarak kapali gelmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "your MacBook comes with a Firewall option that's off by default."
+        }
+      ]
+    },
+    {
+      "claim": "Firewall ozelligini acmak icin System Settings > Network > Firewall adimlari takip edilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "To turn it on, you can go to System Settings > Network > Firewall."
+        }
+      ]
+    },
+    {
+      "claim": "Apple Advertising bolumunden kisiselleştirilmis reklamlar kapatilabilmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "You can also just toggle off Personalized Ads."
+        }
+      ]
+    },
+    {
+      "claim": "Apple, anonim analitik verilerinin bir ay sonra silindigini belirtmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "Your analytics data then gets deleted after a month."
+        }
+      ]
+    },
+    {
+      "claim": "Analitik verilerini paylasmamak icin Settings > Privacy & Security > Analytics Improvements yolu izlenir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "If you'd just rather not take the risk, you can go to Settings > Privacy & Security > Analytics Improvements and toggle off several choices like Improve Siri & Dictation and Share with App Developers."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "MacBook ayarlarinda kilit ekrani sifresi olusturmak icin System Settings > Lock Screen yolu izlenir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "To tweak these settings, go to System Settings > Lock Screen."
+        }
+      ]
+    },
+    {
+      "claim": "Konum Servisleri ayarlarına erismek icin Settings altindaki Privacy & Security bolumune gidilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "If you go to Settings, then Privacy & Security, you'll find Location Services."
+        }
+      ]
+    },
+    {
+      "claim": "MacBook uzerindeki Firewall secenegi varsayilan olarak kapali gelmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "your MacBook comes with a Firewall option that's off by default."
+        }
+      ]
+    },
+    {
+      "claim": "Firewall ozelligini acmak icin System Settings > Network > Firewall adimlari takip edilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "To turn it on, you can go to System Settings > Network > Firewall."
+        }
+      ]
+    },
+    {
+      "claim": "Apple Advertising bolumunden kisiselleştirilmis reklamlar kapatilabilmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "You can also just toggle off Personalized Ads."
+        }
+      ]
+    },
+    {
+      "claim": "Apple, anonim analitik verilerinin bir ay sonra silindigini belirtmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "Your analytics data then gets deleted after a month."
+        }
+      ]
+    },
+    {
+      "claim": "Analitik verilerini paylasmamak icin Settings > Privacy & Security > Analytics Improvements yolu izlenir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "If you'd just rather not take the risk, you can go to Settings > Privacy & Security > Analytics Improvements and toggle off several choices like Improve Siri & Dictation and Share with App Developers."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "MacBook ayarlarinda kilit ekrani sifresi olusturmak icin System Settings > Lock Screen yolu izlenir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "To tweak these settings, go to System Settings > Lock Screen."
+        }
+      ]
+    },
+    {
+      "claim": "Konum Servisleri ayarlarına erismek icin Settings altindaki Privacy & Security bolumune gidilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "If you go to Settings, then Privacy & Security, you'll find Location Services."
+        }
+      ]
+    },
+    {
+      "claim": "MacBook uzerindeki Firewall secenegi varsayilan olarak kapali gelmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "your MacBook comes with a Firewall option that's off by default."
+        }
+      ]
+    },
+    {
+      "claim": "Firewall ozelligini acmak icin System Settings > Network > Firewall adimlari takip edilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "To turn it on, you can go to System Settings > Network > Firewall."
+        }
+      ]
+    },
+    {
+      "claim": "Apple Advertising bolumunden kisiselleştirilmis reklamlar kapatilabilmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "You can also just toggle off Personalized Ads."
+        }
+      ]
+    },
+    {
+      "claim": "Apple, anonim analitik verilerinin bir ay sonra silindigini belirtmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "Your analytics data then gets deleted after a month."
+        }
+      ]
+    },
+    {
+      "claim": "Analitik verilerini paylasmamak icin Settings > Privacy & Security > Analytics Improvements yolu izlenir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "If you'd just rather not take the risk, you can go to Settings > Privacy & Security > Analytics Improvements and toggle off several choices like Improve Siri & Dictation and Share with App Developers."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/": 4922,
+    "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/": 2614,
+    "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/": 8225,
+    "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro": 2855
+  }
+}
