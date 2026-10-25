@@ -1034,5 +1034,74 @@
     ],
     "created_at": "2026-10-25T18:20:10+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-10-25-2100",
+    "date": "2026-10-25",
+    "slot": "21:00",
+    "type": "news",
+    "title_tr": "Evde Kesintisiz İnternet İçin Mesh ve Ethernet",
+    "original_title": "Even the best mesh Wi-Fi system can be easily improved with a simple cable",
+    "source_urls": [
+      "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/"
+    ],
+    "canonical_url": "https://engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable",
+    "entities": [
+      "Wi-Fi"
+    ],
+    "event_type": "technology_advice",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ade45998b3d437ddc1e9de3",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ade45b0bd33ce99c384bbae",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ade45c73d5b27036be681a0",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2114419018538823963",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "17996053794044760",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/De7UWZCFhSp",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ade45e86887a2efc11a89ef",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ade45ffe4be8a4d86bd8435",
+        "permalink": "https://facebook.com/1351036918092059_122118446169484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-25T21:10:20+03:00",
+    "verified_claims_count": 8
   }
 ]
