@@ -1,3 +1,4 @@
 # Günlük Özet — 2026-10-25
 
 - ✅ `09:00` [news] Kablosuz CarPlay Dönüşümü — 6/6 platform
+- ✅ `12:00` [news] PlayStation 5 Pro ve Yeni Konsol Fiyatları — 6/6 platform
