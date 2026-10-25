@@ -3,54 +3,60 @@
 **Haber:** Get the ultimate security for your MacBook by changing these privacy settings
 **Canonical URL:** https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/
 **Kaynaklar:** Engadget, Wired, TechCrunch, The Verge
-**Kontrol zamanı:** 2026-10-25T17:47:19+03:00
+**Kontrol zamanı:** 2026-10-25T17:52:18+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
 
 ## İddia Bazlı Sonuçlar
 
-### 1. MacBook ayarlarinda kilit ekrani sifresi olusturmak icin System Settings > Lock Screen yolu izlenir.
+### 1. MacBook'unuzda şifre ve Touch ID kullanmak güvenliğinizi artırmanın ilk yollarından biridir.
+- **Karar:** ✅ `supported`
+- **Kanıtlar:**
+  - [https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/](https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/)
+    > One of the first ways you can make your MacBook more secure is by using a strong passcode and setting up Touch ID.
+
+### 2. Kilit ekranı ayarlarını değiştirmek için System Settings > Lock Screen yolunu izleyebilirsiniz.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/](https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/)
     > To tweak these settings, go to System Settings > Lock Screen.
 
-### 2. Konum Servisleri ayarlarına erismek icin Settings altindaki Privacy & Security bolumune gidilir.
+### 3. Location Services ayarlarına Settings menüsünden Privacy & Security seçeneğine giderek ulaşabilirsiniz.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/](https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/)
     > If you go to Settings, then Privacy & Security, you'll find Location Services.
 
-### 3. MacBook uzerindeki Firewall secenegi varsayilan olarak kapali gelmektedir.
+### 4. MacBook'unuzdaki Firewall seçeneği varsayılan olarak kapalı gelmektedir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/](https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/)
-    > your MacBook comes with a Firewall option that's off by default.
+    > On the topic of exercising control, your MacBook comes with a Firewall option that's off by default.
 
-### 4. Firewall ozelligini acmak icin System Settings > Network > Firewall adimlari takip edilir.
+### 5. Firewall özelliğini açmak için System Settings > Network > Firewall yolunu izleyebilirsiniz.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/](https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/)
     > To turn it on, you can go to System Settings > Network > Firewall.
 
-### 5. Apple Advertising bolumunden kisiselleştirilmis reklamlar kapatilabilmektedir.
+### 6. Apple, App Store veya Apple News gibi yerlerde size reklam sunmak için veri toplar.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/](https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/)
-    > You can also just toggle off Personalized Ads.
+    > Apple, among others, collects data on you that it uses to serve you ads in spots like the App Store or Apple News.
 
-### 6. Apple, anonim analitik verilerinin bir ay sonra silindigini belirtmektedir.
+### 7. Apple, web siteleri veya üçüncü taraf uygulamalar üzerinden sizi takip etmediğini belirtmektedir.
+- **Karar:** ✅ `supported`
+- **Kanıtlar:**
+  - [https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/](https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/)
+    > The company notes that it doesn't track you across websites or third-party apps.
+
+### 8. Toplanan anonim analitik verileri bir ay sonra silinmektedir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/](https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/)
     > Your analytics data then gets deleted after a month.
-
-### 7. Analitik verilerini paylasmamak icin Settings > Privacy & Security > Analytics Improvements yolu izlenir.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/](https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/)
-    > If you'd just rather not take the risk, you can go to Settings > Privacy & Security > Analytics Improvements and toggle off several choices like Improve Siri & Dictation and Share with App Developers.
 
 ---
 
@@ -58,13 +64,14 @@
 
 | İddia | 1. Tur | 2. Tur | Nihai |
 |-------|--------|--------|-------|
-| MacBook ayarlarinda kilit ekrani sifresi olusturmak icin Sys | supported | supported | supported |
-| Konum Servisleri ayarlarına erismek icin Settings altindaki  | supported | supported | supported |
-| MacBook uzerindeki Firewall secenegi varsayilan olarak kapal | supported | supported | supported |
-| Firewall ozelligini acmak icin System Settings > Network > F | supported | supported | supported |
-| Apple Advertising bolumunden kisiselleştirilmis reklamlar ka | supported | supported | supported |
-| Apple, anonim analitik verilerinin bir ay sonra silindigini  | supported | supported | supported |
-| Analitik verilerini paylasmamak icin Settings > Privacy & Se | supported | supported | supported |
+| MacBook'unuzda şifre ve Touch ID kullanmak güvenliğinizi art | supported | supported | supported |
+| Kilit ekranı ayarlarını değiştirmek için System Settings > L | supported | supported | supported |
+| Location Services ayarlarına Settings menüsünden Privacy & S | supported | supported | supported |
+| MacBook'unuzdaki Firewall seçeneği varsayılan olarak kapalı  | supported | supported | supported |
+| Firewall özelliğini açmak için System Settings > Network > F | supported | supported | supported |
+| Apple, App Store veya Apple News gibi yerlerde size reklam s | supported | supported | supported |
+| Apple, web siteleri veya üçüncü taraf uygulamalar üzerinden  | supported | supported | supported |
+| Toplanan anonim analitik verileri bir ay sonra silinmektedir | supported | supported | supported |
 
 ## Kaynak Metinleri
 

@@ -2,43 +2,35 @@
 
 ## INSTAGRAM
 
-MacBook'unuzun güvenlik ve gizlilik ayarlarını gözden geçirdiniz mi? 💻 Kilit ekranı şifresinden Firewall ayarlarına kadar cihazınızı daha güvenli hale getirmenin yollarını keşfedin.
+MacBook güvenliğinizi en üst düzeye çıkarmaya hazır mısınız? 💻 Temel ayarlar ve gizlilik ipuçlarıyla cihazınızı koruma altına alın. Şifre ve Touch ID kullanımından Firewall ayarına kadar bilmeniz gerekenler bu rehberde! Konum servisleri ve veri gizliliği detaylarını da unutmayın.
 
-Konum servislerini düzenlemek ve analitik veri paylaşımını kapatmak gizliliğinizi korumanıza yardımcı olur.
+MacBook'unuzda bu güvenlik ayarlarını kontrol ettiniz mi?
 
-Apple Advertising üzerinden kişiselleştirilmiş reklamları kapatarak veri paylaşımınızı sınırlandırabilirsiniz.
-
-Bu güvenlik adımlarını kendi cihazınızda uyguladınız mı?
+Daha fazla teknoloji ipucu için Tekno Pusula'yı takipte kalın!
 
 Kaynak: Engadget, Wired, TechCrunch, The Verge
 
-#MacBook #MacOS #SiberGüvenlik #Teknoloji #Gizlilik #Apple #TechNews #GüvenlikAyarları #İpuçları
+#MacBook #SiberGüvenlik #Teknoloji #Apple #Gizlilik #TeknoPusula #TechTips #MacOs #Security #İpuçları
 
 ## TIKTOK
 
-MacBook'unuzu daha güvenli hale getirmek için bu ayarları hemen kontrol edin! 💻 Firewall açma, kilit ekranı şifresi ve gizlilik ipuçları bu videoda.
+MacBook'unuzu gerçekten güvende tutuyor musunuz? 🔒 Firewall ve gizlilik ayarlarını hemen kontrol edin! Kaynak: Engadget, Wired, TechCrunch, The Verge
 
-Bu güvenlik adımlarını kendi cihazınızda uyguladınız mı?
-
-Kaynak: Engadget, Wired, TechCrunch, The Verge
-
-#macbook #teknoloji #güvenlik #apple #ipucu
+#MacBook #Teknoloji #Güvenlik #Apple #TeknoPusula
 
 ## X
 
-MacBook güvenlik ve gizlilik ayarları nasıl yapılır? Kilit ekranı, Firewall ve konum servisleri ile cihazınızı daha güvenli hale getirin. Bu adımları uyguladınız mı? Kaynak: Engadget, Wired, TechCrunch, The Verge
+MacBook güvenliğinizi artırmak için temel ayarları ve gizlilik ipuçlarını gözden geçirin. Firewall'unuz açık mı? Kaynak: Engadget, Wired, TechCrunch, The Verge #MacBook #Teknoloji
 
-#MacBook #SiberGüvenlik
+#MacBook #Teknoloji
 
 ## THREADS
 
-MacBook Güvenlik ve Gizlilik Ayarları 💻
+MacBook'unuzun güvenlik ayarlarını gözden geçirdiniz mi? 💻
 
-Mac cihazınızı daha güvenli hale getirmek için kilit ekranı şifresi, Firewall ve konum servisleri gibi temel adımları gözden geçirin.
+Şifre, Touch ID ve Firewall gibi temel adımlarla cihazınızı koruyun.
 
-Analitik veri paylaşımını kapatarak kişisel verilerinizi koruyabilirsiniz.
-
-Bu güvenlik adımlarını kendi cihazınızda uyguladınız mı? 💭
+MacBook'unuzda bu güvenlik ayarlarını kontrol ettiniz mi? 💭
 
 Kaynak: Engadget, Wired, TechCrunch, The Verge
 
@@ -46,26 +38,24 @@ Kaynak: Engadget, Wired, TechCrunch, The Verge
 
 ## LINKEDIN
 
-Kişisel ve profesyonel verilerimizin güvenliği her zamankinden daha önemli. MacBook kullanıcıları için temel güvenlik ve gizlilik ayarlarını derledik.
+Dijital çalışma ortamımızda cihaz güvenliği büyük önem taşıyor. MacBook kullanıcıları için temel güvenlik önlemleri, Firewall ayarları ve veri gizliliği ipuçlarını derledik. Kurumsal ve bireysel verilerinizi korumak için bu adımları gözden geçirebilirsiniz.
 
-Kilit ekranı şifresi oluşturmaktan Firewall etkinleştirmeye, konum servislerini düzenlemekten analitik veri paylaşımını kapatmaya kadar atılabilecek adımlar cihaz güvenliğini artırıyor.
+MacBook'unuzda bu güvenlik ayarlarını kontrol ettiniz mi?
 
-Teknolojik varlıklarımızı korumak için bu tür temel ayarlara dikkat etmek büyük önem taşıyor.
-
-Bu güvenlik adımlarını kendi cihazınızda uyguladınız mı?
+Daha fazla teknoloji ipucu için Tekno Pusula'yı takipte kalın!
 
 Kaynak: Engadget, Wired, TechCrunch, The Verge
 
-#SiberGüvenlik #MacBook #BilgiGüvenliği #Teknoloji #Apple
+#SiberGüvenlik #MacBook #Teknoloji #BilgiGüvenliği #Apple
 
 ## FACEBOOK
 
-MacBook'unuzun güvenlik ve gizlilik ayarlarını ne kadar iyi yapılandırdınız? 💻 Kilit ekranı şifresi, Firewall ve konum servisleri ile cihazınızı daha güvenli hale getirin.
+MacBook güvenliğinizi artırmak için temel ayarlar ve gizlilik ipuçları bir arada! 💻 Şifre, Touch ID, Firewall ve konum servisleri ayarlarıyla cihazınızı koruma altına alın.
 
-Analitik veri paylaşımını kapatarak ve kişiselleştirilmiş reklam tercihlerini düzenleyerek gizliliğinizi artırabilirsiniz.
+MacBook'unuzda bu güvenlik ayarlarını kontrol ettiniz mi?
 
-Bu güvenlik adımlarını kendi cihazınızda uyguladınız mı?
+Daha fazla teknoloji ipucu için Tekno Pusula'yı takipte kalın!
 
 Kaynak: Engadget, Wired, TechCrunch, The Verge
 
-#MacBook #Teknoloji #Güvenlik #Apple
+#MacBook #Teknoloji #Güvenlik #Apple #TeknoPusula

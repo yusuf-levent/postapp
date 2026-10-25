@@ -7,12 +7,22 @@
     "TechCrunch",
     "The Verge"
   ],
-  "checked_at": "2026-10-25T17:47:19+03:00",
+  "checked_at": "2026-10-25T17:52:18+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "MacBook ayarlarinda kilit ekrani sifresi olusturmak icin System Settings > Lock Screen yolu izlenir.",
+      "claim": "MacBook'unuzda şifre ve Touch ID kullanmak güvenliğinizi artırmanın ilk yollarından biridir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "One of the first ways you can make your MacBook more secure is by using a strong passcode and setting up Touch ID."
+        }
+      ]
+    },
+    {
+      "claim": "Kilit ekranı ayarlarını değiştirmek için System Settings > Lock Screen yolunu izleyebilirsiniz.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,7 +32,7 @@
       ]
     },
     {
-      "claim": "Konum Servisleri ayarlarına erismek icin Settings altindaki Privacy & Security bolumune gidilir.",
+      "claim": "Location Services ayarlarına Settings menüsünden Privacy & Security seçeneğine giderek ulaşabilirsiniz.",
       "verdict": "supported",
       "evidence": [
         {
@@ -32,17 +42,17 @@
       ]
     },
     {
-      "claim": "MacBook uzerindeki Firewall secenegi varsayilan olarak kapali gelmektedir.",
+      "claim": "MacBook'unuzdaki Firewall seçeneği varsayılan olarak kapalı gelmektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "your MacBook comes with a Firewall option that's off by default."
+          "quote": "On the topic of exercising control, your MacBook comes with a Firewall option that's off by default."
         }
       ]
     },
     {
-      "claim": "Firewall ozelligini acmak icin System Settings > Network > Firewall adimlari takip edilir.",
+      "claim": "Firewall özelliğini açmak için System Settings > Network > Firewall yolunu izleyebilirsiniz.",
       "verdict": "supported",
       "evidence": [
         {
@@ -52,39 +62,49 @@
       ]
     },
     {
-      "claim": "Apple Advertising bolumunden kisiselleştirilmis reklamlar kapatilabilmektedir.",
+      "claim": "Apple, App Store veya Apple News gibi yerlerde size reklam sunmak için veri toplar.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "You can also just toggle off Personalized Ads."
+          "quote": "Apple, among others, collects data on you that it uses to serve you ads in spots like the App Store or Apple News."
         }
       ]
     },
     {
-      "claim": "Apple, anonim analitik verilerinin bir ay sonra silindigini belirtmektedir.",
+      "claim": "Apple, web siteleri veya üçüncü taraf uygulamalar üzerinden sizi takip etmediğini belirtmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "The company notes that it doesn't track you across websites or third-party apps."
+        }
+      ]
+    },
+    {
+      "claim": "Toplanan anonim analitik verileri bir ay sonra silinmektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
           "quote": "Your analytics data then gets deleted after a month."
-        }
-      ]
-    },
-    {
-      "claim": "Analitik verilerini paylasmamak icin Settings > Privacy & Security > Analytics Improvements yolu izlenir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "If you'd just rather not take the risk, you can go to Settings > Privacy & Security > Analytics Improvements and toggle off several choices like Improve Siri & Dictation and Share with App Developers."
         }
       ]
     }
   ],
   "round1": [
     {
-      "claim": "MacBook ayarlarinda kilit ekrani sifresi olusturmak icin System Settings > Lock Screen yolu izlenir.",
+      "claim": "MacBook'unuzda şifre ve Touch ID kullanmak güvenliğinizi artırmanın ilk yollarından biridir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "One of the first ways you can make your MacBook more secure is by using a strong passcode and setting up Touch ID."
+        }
+      ]
+    },
+    {
+      "claim": "Kilit ekranı ayarlarını değiştirmek için System Settings > Lock Screen yolunu izleyebilirsiniz.",
       "verdict": "supported",
       "evidence": [
         {
@@ -94,7 +114,7 @@
       ]
     },
     {
-      "claim": "Konum Servisleri ayarlarına erismek icin Settings altindaki Privacy & Security bolumune gidilir.",
+      "claim": "Location Services ayarlarına Settings menüsünden Privacy & Security seçeneğine giderek ulaşabilirsiniz.",
       "verdict": "supported",
       "evidence": [
         {
@@ -104,17 +124,17 @@
       ]
     },
     {
-      "claim": "MacBook uzerindeki Firewall secenegi varsayilan olarak kapali gelmektedir.",
+      "claim": "MacBook'unuzdaki Firewall seçeneği varsayılan olarak kapalı gelmektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "your MacBook comes with a Firewall option that's off by default."
+          "quote": "On the topic of exercising control, your MacBook comes with a Firewall option that's off by default."
         }
       ]
     },
     {
-      "claim": "Firewall ozelligini acmak icin System Settings > Network > Firewall adimlari takip edilir.",
+      "claim": "Firewall özelliğini açmak için System Settings > Network > Firewall yolunu izleyebilirsiniz.",
       "verdict": "supported",
       "evidence": [
         {
@@ -124,39 +144,49 @@
       ]
     },
     {
-      "claim": "Apple Advertising bolumunden kisiselleştirilmis reklamlar kapatilabilmektedir.",
+      "claim": "Apple, App Store veya Apple News gibi yerlerde size reklam sunmak için veri toplar.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "You can also just toggle off Personalized Ads."
+          "quote": "Apple, among others, collects data on you that it uses to serve you ads in spots like the App Store or Apple News."
         }
       ]
     },
     {
-      "claim": "Apple, anonim analitik verilerinin bir ay sonra silindigini belirtmektedir.",
+      "claim": "Apple, web siteleri veya üçüncü taraf uygulamalar üzerinden sizi takip etmediğini belirtmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "The company notes that it doesn't track you across websites or third-party apps."
+        }
+      ]
+    },
+    {
+      "claim": "Toplanan anonim analitik verileri bir ay sonra silinmektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
           "quote": "Your analytics data then gets deleted after a month."
-        }
-      ]
-    },
-    {
-      "claim": "Analitik verilerini paylasmamak icin Settings > Privacy & Security > Analytics Improvements yolu izlenir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "If you'd just rather not take the risk, you can go to Settings > Privacy & Security > Analytics Improvements and toggle off several choices like Improve Siri & Dictation and Share with App Developers."
         }
       ]
     }
   ],
   "round2": [
     {
-      "claim": "MacBook ayarlarinda kilit ekrani sifresi olusturmak icin System Settings > Lock Screen yolu izlenir.",
+      "claim": "MacBook'unuzda şifre ve Touch ID kullanmak güvenliğinizi artırmanın ilk yollarından biridir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "One of the first ways you can make your MacBook more secure is by using a strong passcode and setting up Touch ID."
+        }
+      ]
+    },
+    {
+      "claim": "Kilit ekranı ayarlarını değiştirmek için System Settings > Lock Screen yolunu izleyebilirsiniz.",
       "verdict": "supported",
       "evidence": [
         {
@@ -166,7 +196,7 @@
       ]
     },
     {
-      "claim": "Konum Servisleri ayarlarına erismek icin Settings altindaki Privacy & Security bolumune gidilir.",
+      "claim": "Location Services ayarlarına Settings menüsünden Privacy & Security seçeneğine giderek ulaşabilirsiniz.",
       "verdict": "supported",
       "evidence": [
         {
@@ -176,17 +206,17 @@
       ]
     },
     {
-      "claim": "MacBook uzerindeki Firewall secenegi varsayilan olarak kapali gelmektedir.",
+      "claim": "MacBook'unuzdaki Firewall seçeneği varsayılan olarak kapalı gelmektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "your MacBook comes with a Firewall option that's off by default."
+          "quote": "On the topic of exercising control, your MacBook comes with a Firewall option that's off by default."
         }
       ]
     },
     {
-      "claim": "Firewall ozelligini acmak icin System Settings > Network > Firewall adimlari takip edilir.",
+      "claim": "Firewall özelliğini açmak için System Settings > Network > Firewall yolunu izleyebilirsiniz.",
       "verdict": "supported",
       "evidence": [
         {
@@ -196,32 +226,32 @@
       ]
     },
     {
-      "claim": "Apple Advertising bolumunden kisiselleştirilmis reklamlar kapatilabilmektedir.",
+      "claim": "Apple, App Store veya Apple News gibi yerlerde size reklam sunmak için veri toplar.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "You can also just toggle off Personalized Ads."
+          "quote": "Apple, among others, collects data on you that it uses to serve you ads in spots like the App Store or Apple News."
         }
       ]
     },
     {
-      "claim": "Apple, anonim analitik verilerinin bir ay sonra silindigini belirtmektedir.",
+      "claim": "Apple, web siteleri veya üçüncü taraf uygulamalar üzerinden sizi takip etmediğini belirtmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+          "quote": "The company notes that it doesn't track you across websites or third-party apps."
+        }
+      ]
+    },
+    {
+      "claim": "Toplanan anonim analitik verileri bir ay sonra silinmektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
           "quote": "Your analytics data then gets deleted after a month."
-        }
-      ]
-    },
-    {
-      "claim": "Analitik verilerini paylasmamak icin Settings > Privacy & Security > Analytics Improvements yolu izlenir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-          "quote": "If you'd just rather not take the risk, you can go to Settings > Privacy & Security > Analytics Improvements and toggle off several choices like Improve Siri & Dictation and Share with App Developers."
         }
       ]
     }

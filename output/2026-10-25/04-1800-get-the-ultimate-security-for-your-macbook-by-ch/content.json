@@ -1,13 +1,13 @@
 {
   "cover": {
-    "category_label": "TEKNOLOJİ REHBERİ",
-    "title": "MacBook Güvenlik ve Gizlilik Ayarları",
+    "category_label": "TEKNO PUSULA",
+    "title": "MacBook Güvenliğinizi Artırın",
     "highlight_words": [
-      "Güvenlik",
-      "Gizlilik"
+      "Güvenliğinizi",
+      "Artırın"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Mac cihazınızı daha güvenli hale getirin",
+    "subtitle": "Temel ayarlar ve gizlilik ipuçları",
     "source_tags": [
       "Engadget",
       "Wired",
@@ -16,100 +16,104 @@
     ]
   },
   "problem": {
-    "heading": "Temel Güvenlik ve Gizlilik Adımları",
+    "heading": "Temel Güvenlik Önlemleri",
     "cards": [
       {
-        "card_title": "Kilit Ekranı Şifresi",
-        "card_body": "MacBook ayarlarında kilit ekranı şifresi oluşturmak için System Settings > Lock Screen yolu izlenir."
+        "card_title": "Şifre ve Touch ID",
+        "card_body": "MacBook'unuzda şifre ve Touch ID kullanmak güvenliğinizi artırmanın ilk yollarından biridir."
       },
       {
-        "card_title": "Konum Servisleri",
-        "card_body": "Konum Servisleri ayarlarına erişmek için Settings altındaki Privacy & Security bölümüne gidilir."
+        "card_title": "Kilit Ekranı",
+        "card_body": "Kilit ekranı ayarlarını değiştirmek için System Settings > Lock Screen yolunu izleyebilirsiniz."
       }
     ],
     "code_block": ""
   },
   "steps": [
     {
-      "heading": "Güvenlik Duvarı (Firewall) Ayarı",
+      "heading": "Konum Servisleri Ayarları",
+      "cards": [
+        {
+          "card_title": "Gizlilik ve Güvenlik",
+          "card_body": "Location Services ayarlarına Settings menüsünden Privacy & Security seçeneğine giderek ulaşabilirsiniz."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Firewall (Güvenlik Duvarı) Durumu",
       "cards": [
         {
           "card_title": "Varsayılan Durum",
-          "card_body": "MacBook üzerindeki Firewall seçeneği varsayılan olarak kapalı gelmektedir."
+          "card_body": "MacBook'unuzdaki Firewall seçeneği varsayılan olarak kapalı gelmektedir."
         },
         {
           "card_title": "Nasıl Açılır?",
-          "card_body": "Firewall özelliğini açmak için System Settings > Network > Firewall adımları takip edilir."
+          "card_body": "Firewall özelliğini açmak için System Settings > Network > Firewall yolunu izleyebilirsiniz."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "Kişiselleştirilmiş Reklamlar",
+      "heading": "Veri Gizliliği ve Reklamlar",
       "cards": [
         {
-          "card_title": "Reklam Tercihleri",
-          "card_body": "Apple Advertising bölümünden kişiselleştirilmiş reklamlar kapatılabilmektedir."
-        }
-      ],
-      "code_block": ""
-    },
-    {
-      "heading": "Analitik Veri Paylaşımı",
-      "cards": [
-        {
-          "card_title": "Veri Silme Süresi",
-          "card_body": "Apple, anonim analitik verilerinin bir ay sonra silindiğini belirtmektedir."
+          "card_title": "Veri Toplama",
+          "card_body": "Apple, App Store veya Apple News gibi yerlerde size reklam sunmak için veri toplar."
         },
         {
-          "card_title": "Paylaşımı Kapatma",
-          "card_body": "Analitik verilerini paylaşmamak için Settings > Privacy & Security > Analytics Improvements yolu izlenir."
+          "card_title": "Üçüncü Taraf Takibi",
+          "card_body": "Apple, web siteleri veya üçüncü taraf uygulamalar üzerinden sizi takip etmediğini belirtmektedir. Toplanan anonim analitik verileri bir ay sonra silinmektedir."
         }
       ],
       "code_block": ""
     }
   ],
   "cta": {
-    "question": "Bu güvenlik adımlarını kendi cihazınızda uyguladınız mı?",
-    "reminder_line": "Tekno Pusula ile teknolojiyi güvenli keşfedin!"
+    "question": "MacBook'unuzda bu güvenlik ayarlarını kontrol ettiniz mi?",
+    "reminder_line": "Daha fazla teknoloji ipucu için Tekno Pusula'yı takipte kalın!"
   },
   "context": {
-    "heading": "Temel Güvenlik ve Gizlilik Adımları",
+    "heading": "Temel Güvenlik Önlemleri",
     "cards": [
       {
-        "card_title": "Kilit Ekranı Şifresi",
-        "card_body": "MacBook ayarlarında kilit ekranı şifresi oluşturmak için System Settings > Lock Screen yolu izlenir."
+        "card_title": "Şifre ve Touch ID",
+        "card_body": "MacBook'unuzda şifre ve Touch ID kullanmak güvenliğinizi artırmanın ilk yollarından biridir."
       },
       {
-        "card_title": "Konum Servisleri",
-        "card_body": "Konum Servisleri ayarlarına erişmek için Settings altındaki Privacy & Security bölümüne gidilir."
+        "card_title": "Kilit Ekranı",
+        "card_body": "Kilit ekranı ayarlarını değiştirmek için System Settings > Lock Screen yolunu izleyebilirsiniz."
       }
     ]
   },
   "stat": {
     "big_stat": "💡",
-    "stat_caption": "Güvenlik Duvarı (Firewall) Ayarı",
+    "stat_caption": "Konum Servisleri Ayarları",
     "stat_quote": ""
   },
   "details": {
-    "heading": "Kişiselleştirilmiş Reklamlar",
+    "heading": "Firewall (Güvenlik Duvarı) Durumu",
     "cards": [
       {
-        "card_title": "Reklam Tercihleri",
-        "card_body": "Apple Advertising bölümünden kişiselleştirilmiş reklamlar kapatılabilmektedir."
+        "card_title": "Varsayılan Durum",
+        "card_body": "MacBook'unuzdaki Firewall seçeneği varsayılan olarak kapalı gelmektedir."
+      },
+      {
+        "card_title": "Nasıl Açılır?",
+        "card_body": "Firewall özelliğini açmak için System Settings > Network > Firewall yolunu izleyebilirsiniz."
       }
     ]
   },
   "impact": {
-    "heading": "Analitik Veri Paylaşımı",
+    "heading": "Veri Gizliliği ve Reklamlar",
     "cards": [
       {
-        "card_title": "Veri Silme Süresi",
-        "card_body": "Apple, anonim analitik verilerinin bir ay sonra silindiğini belirtmektedir."
+        "card_title": "Veri Toplama",
+        "card_body": "Apple, App Store veya Apple News gibi yerlerde size reklam sunmak için veri toplar."
       },
       {
-        "card_title": "Paylaşımı Kapatma",
-        "card_body": "Analitik verilerini paylaşmamak için Settings > Privacy & Security > Analytics Improvements yolu izlenir."
+        "card_title": "Üçüncü Taraf Takibi",
+        "card_body": "Apple, web siteleri veya üçüncü taraf uygulamalar üzerinden sizi takip etmediğini belirtmektedir. Toplanan anonim analitik verileri bir ay sonra silinmektedir."
       }
     ]
   },
