@@ -7,22 +7,26 @@
     "TechCrunch",
     "Hugging Face Blog"
   ],
-  "checked_at": "2026-10-25T21:02:30+03:00",
+  "checked_at": "2026-10-25T21:06:54+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Mesh sistemleri ölü bölgeleri ortadan kaldırır ve hızları daha tutarlı tutar.",
+      "claim": "Mesh sistemleri evdeki ölü bölgeleri ortadan kaldırır ve hızları daha istikrarlı tutar.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
           "quote": "A mesh system eliminates dead zones, however, and keeps speeds more consistent, which is often more important on a daily basis."
+        },
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "A mesh system eliminates dead zones, however, and keeps speeds more consistent"
         }
       ]
     },
     {
-      "claim": "Mesh sistemleri, yönlendiriciler arasında veri taşıyan bir arka taşıma bağlantısı gerektirir.",
+      "claim": "Mesh sistemleri, yönlendiriciler arasında veri taşıyan arka altyapı (backhaul) bağlantısına ihtiyaç duyar.",
       "verdict": "supported",
       "evidence": [
         {
@@ -32,7 +36,21 @@
       ]
     },
     {
-      "claim": "Özel bir arka taşıma bağlantısına sahip olan cihazlar en az üç bantlıdır (tri-band), bazı gelişmiş seçenekler ise dört bantlıdır (quad-band).",
+      "claim": "Çift bantlı (dual-band) mesh ürünleri, kablosuz arka altyapıyı cihazların kullandığı bantlarla birleştirir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "Worse, some cheaper mesh systems merge their wireless backhauls with the same bands your devices rely on, forcing both halves of the equation to suffer."
+        },
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "Worse, some cheaper mesh systems merge their wireless backhauls with the same bands your devices rely on"
+        }
+      ]
+    },
+    {
+      "claim": "Özel bir arka altyapı bağlantısına sahip cihazlar en az üç bantlıdır (tri-band), bazı gelişmiş seçenekler ise dört bantlıdır (quad-band).",
       "verdict": "supported",
       "evidence": [
         {
@@ -42,7 +60,7 @@
       ]
     },
     {
-      "claim": "Cat 6 kablo kullanıldığında Ethernet, ortalama bir ev mesafesinde en az 1 Gbps veya daha fazla hız sağlar.",
+      "claim": "Cat 6 kablo kullanıldığında Ethernet, ortalama bir ev mesafesinde en az 1 Gbps veya daha fazla hız sunar.",
       "verdict": "supported",
       "evidence": [
         {
@@ -52,7 +70,7 @@
       ]
     },
     {
-      "claim": "Bir çift 50 feet uzunluğunda Cat 6 kablo yaklaşık 30 dolara satın alınabilir.",
+      "claim": "Bir çift 50 feet uzunluğundaki Cat 6 kablo yaklaşık 30 dolara satın alınabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -66,29 +84,47 @@
       ]
     },
     {
-      "claim": "100 Mbps port Wi-Fi için çok yavaştır ve 1 Gbps port bile Wi-Fi 7 sistemi kullanıldığında yetersiz hissedilebilir.",
+      "claim": "100 Mbps port mesh sistemler için oldukça yavaştır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
           "quote": "A 100 Mbps port is simply too slow, and even 1 Gbps can feel subpar if you've got a Wi-Fi 7 system with a dedicated wireless backhaul"
+        },
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "A 100 Mbps port is simply too slow"
+        }
+      ]
+    },
+    {
+      "claim": "Wi-Fi 7 sistemi kullanan cihazların çoklu gigabit hızlarına ulaşabilmesi için 2.5 veya 10 Gbps Ethernet kullanılması tercih edilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "and even 1 Gbps can feel subpar if you've got a Wi-Fi 7 system with a dedicated wireless backhaul, as connecting Wi-Fi devices might be able to achieve multi-gig speeds. It's always preferable to use 2.5 or 10 Gbps Ethernet when it's available"
         }
       ]
     }
   ],
   "round1": [
     {
-      "claim": "Mesh sistemleri ölü bölgeleri ortadan kaldırır ve hızları daha tutarlı tutar.",
+      "claim": "Mesh sistemleri evdeki ölü bölgeleri ortadan kaldırır ve hızları daha istikrarlı tutar.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
           "quote": "A mesh system eliminates dead zones, however, and keeps speeds more consistent, which is often more important on a daily basis."
+        },
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "A mesh system eliminates dead zones, however, and keeps speeds more consistent"
         }
       ]
     },
     {
-      "claim": "Mesh sistemleri, yönlendiriciler arasında veri taşıyan bir arka taşıma bağlantısı gerektirir.",
+      "claim": "Mesh sistemleri, yönlendiriciler arasında veri taşıyan arka altyapı (backhaul) bağlantısına ihtiyaç duyar.",
       "verdict": "supported",
       "evidence": [
         {
@@ -98,7 +134,21 @@
       ]
     },
     {
-      "claim": "Özel bir arka taşıma bağlantısına sahip olan cihazlar en az üç bantlıdır (tri-band), bazı gelişmiş seçenekler ise dört bantlıdır (quad-band).",
+      "claim": "Çift bantlı (dual-band) mesh ürünleri, kablosuz arka altyapıyı cihazların kullandığı bantlarla birleştirir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "Worse, some cheaper mesh systems merge their wireless backhauls with the same bands your devices rely on, forcing both halves of the equation to suffer."
+        },
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "Worse, some cheaper mesh systems merge their wireless backhauls with the same bands your devices rely on"
+        }
+      ]
+    },
+    {
+      "claim": "Özel bir arka altyapı bağlantısına sahip cihazlar en az üç bantlıdır (tri-band), bazı gelişmiş seçenekler ise dört bantlıdır (quad-band).",
       "verdict": "supported",
       "evidence": [
         {
@@ -108,7 +158,7 @@
       ]
     },
     {
-      "claim": "Cat 6 kablo kullanıldığında Ethernet, ortalama bir ev mesafesinde en az 1 Gbps veya daha fazla hız sağlar.",
+      "claim": "Cat 6 kablo kullanıldığında Ethernet, ortalama bir ev mesafesinde en az 1 Gbps veya daha fazla hız sunar.",
       "verdict": "supported",
       "evidence": [
         {
@@ -118,7 +168,7 @@
       ]
     },
     {
-      "claim": "Bir çift 50 feet uzunluğunda Cat 6 kablo yaklaşık 30 dolara satın alınabilir.",
+      "claim": "Bir çift 50 feet uzunluğundaki Cat 6 kablo yaklaşık 30 dolara satın alınabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -132,29 +182,47 @@
       ]
     },
     {
-      "claim": "100 Mbps port Wi-Fi için çok yavaştır ve 1 Gbps port bile Wi-Fi 7 sistemi kullanıldığında yetersiz hissedilebilir.",
+      "claim": "100 Mbps port mesh sistemler için oldukça yavaştır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
           "quote": "A 100 Mbps port is simply too slow, and even 1 Gbps can feel subpar if you've got a Wi-Fi 7 system with a dedicated wireless backhaul"
+        },
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "A 100 Mbps port is simply too slow"
+        }
+      ]
+    },
+    {
+      "claim": "Wi-Fi 7 sistemi kullanan cihazların çoklu gigabit hızlarına ulaşabilmesi için 2.5 veya 10 Gbps Ethernet kullanılması tercih edilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "and even 1 Gbps can feel subpar if you've got a Wi-Fi 7 system with a dedicated wireless backhaul, as connecting Wi-Fi devices might be able to achieve multi-gig speeds. It's always preferable to use 2.5 or 10 Gbps Ethernet when it's available"
         }
       ]
     }
   ],
   "round2": [
     {
-      "claim": "Mesh sistemleri ölü bölgeleri ortadan kaldırır ve hızları daha tutarlı tutar.",
+      "claim": "Mesh sistemleri evdeki ölü bölgeleri ortadan kaldırır ve hızları daha istikrarlı tutar.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
           "quote": "A mesh system eliminates dead zones, however, and keeps speeds more consistent, which is often more important on a daily basis."
+        },
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "A mesh system eliminates dead zones, however, and keeps speeds more consistent"
         }
       ]
     },
     {
-      "claim": "Mesh sistemleri, yönlendiriciler arasında veri taşıyan bir arka taşıma bağlantısı gerektirir.",
+      "claim": "Mesh sistemleri, yönlendiriciler arasında veri taşıyan arka altyapı (backhaul) bağlantısına ihtiyaç duyar.",
       "verdict": "supported",
       "evidence": [
         {
@@ -164,7 +232,21 @@
       ]
     },
     {
-      "claim": "Özel bir arka taşıma bağlantısına sahip olan cihazlar en az üç bantlıdır (tri-band), bazı gelişmiş seçenekler ise dört bantlıdır (quad-band).",
+      "claim": "Çift bantlı (dual-band) mesh ürünleri, kablosuz arka altyapıyı cihazların kullandığı bantlarla birleştirir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "Worse, some cheaper mesh systems merge their wireless backhauls with the same bands your devices rely on, forcing both halves of the equation to suffer."
+        },
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "Worse, some cheaper mesh systems merge their wireless backhauls with the same bands your devices rely on"
+        }
+      ]
+    },
+    {
+      "claim": "Özel bir arka altyapı bağlantısına sahip cihazlar en az üç bantlıdır (tri-band), bazı gelişmiş seçenekler ise dört bantlıdır (quad-band).",
       "verdict": "supported",
       "evidence": [
         {
@@ -174,7 +256,7 @@
       ]
     },
     {
-      "claim": "Cat 6 kablo kullanıldığında Ethernet, ortalama bir ev mesafesinde en az 1 Gbps veya daha fazla hız sağlar.",
+      "claim": "Cat 6 kablo kullanıldığında Ethernet, ortalama bir ev mesafesinde en az 1 Gbps veya daha fazla hız sunar.",
       "verdict": "supported",
       "evidence": [
         {
@@ -184,7 +266,7 @@
       ]
     },
     {
-      "claim": "Bir çift 50 feet uzunluğunda Cat 6 kablo yaklaşık 30 dolara satın alınabilir.",
+      "claim": "Bir çift 50 feet uzunluğundaki Cat 6 kablo yaklaşık 30 dolara satın alınabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -198,12 +280,26 @@
       ]
     },
     {
-      "claim": "100 Mbps port Wi-Fi için çok yavaştır ve 1 Gbps port bile Wi-Fi 7 sistemi kullanıldığında yetersiz hissedilebilir.",
+      "claim": "100 Mbps port mesh sistemler için oldukça yavaştır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
           "quote": "A 100 Mbps port is simply too slow, and even 1 Gbps can feel subpar if you've got a Wi-Fi 7 system with a dedicated wireless backhaul"
+        },
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "A 100 Mbps port is simply too slow"
+        }
+      ]
+    },
+    {
+      "claim": "Wi-Fi 7 sistemi kullanan cihazların çoklu gigabit hızlarına ulaşabilmesi için 2.5 veya 10 Gbps Ethernet kullanılması tercih edilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+          "quote": "and even 1 Gbps can feel subpar if you've got a Wi-Fi 7 system with a dedicated wireless backhaul, as connecting Wi-Fi devices might be able to achieve multi-gig speeds. It's always preferable to use 2.5 or 10 Gbps Ethernet when it's available"
         }
       ]
     }

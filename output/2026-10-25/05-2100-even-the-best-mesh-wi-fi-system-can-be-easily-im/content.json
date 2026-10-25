@@ -1,64 +1,69 @@
 {
   "cover": {
-    "category_label": "AĞ TEKNOLOJİLERİ",
-    "title": "Evde Kablosuz Ağları Güçlendirme Yolları",
+    "category_label": "TEKNOLOJİ REHBERİ",
+    "title": "Evde Kesintisiz İnternet İçin Mesh ve Ethernet",
     "highlight_words": [
-      "Ağları"
+      "Mesh",
+      "Ethernet"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Mesh sistemleri ve bağlantı seçenekleri hakkında bilmeniz gerekenler.",
+    "subtitle": "Evdeki ölü bölgeleri ortadan kaldırmak ve hızı artırmak için doğru bağlantı türlerini keşfedin.",
     "source_tags": [
       "ENGADGET",
       "WIRED"
     ]
   },
   "context": {
-    "heading": "Bağlantı Sorunları",
+    "heading": "Mesh Sistemleri Nasıl Çalışır?",
     "cards": [
       {
-        "card_title": "Ölü Bölgeler",
-        "card_body": "Mesh sistemleri ölü bölgeleri ortadan kaldırır ve hızları daha tutarlı tutar."
+        "card_title": "Ölü Bölgelere Son",
+        "card_body": "Mesh sistemleri evdeki ölü bölgeleri ortadan kaldırır ve internet hızlarını daha istikrarlı tutar."
       },
       {
-        "card_title": "Arka Taşıma",
-        "card_body": "Mesh sistemleri, yönlendiriciler arasında veri taşıyan bir arka taşıma bağlantısı gerektirir."
+        "card_title": "Arka Altyapı İhtiyacı",
+        "card_body": "Bu sistemler, yönlendiriciler arasında veri taşıyan arka altyapı yani backhaul bağlantısına ihtiyaç duyar."
       }
     ]
   },
   "stat": {
-    "big_stat": "30 DOLAR",
-    "stat_caption": "Kablo Maliyeti",
-    "stat_quote": "Bir çift 50 feet uzunluğunda Cat 6 kablo yaklaşık 30 dolara satın alınabilir."
+    "big_stat": "1 Gbps",
+    "stat_caption": "Cat 6 Kablo İle Elde Edilen Hız",
+    "stat_quote": "Cat 6 kablo kullanıldığında Ethernet, ortalama bir ev mesafesinde en az 1 Gbps veya daha fazla hız sunar."
   },
   "details": {
-    "heading": "Cihaz ve Bağlantı Detayları",
+    "heading": "Bant Genişliği ve Bağlantı Seçenekleri",
     "cards": [
       {
-        "card_title": "Üç ve Dört Bantlı Sistemler",
-        "card_body": "Özel bir arka taşıma bağlantısına sahip olan cihazlar en az üç bantlıdır, bazı gelişmiş seçenekler ise dört bantlıdır."
+        "card_title": "Çift Bantlı Sistemler",
+        "card_body": "Çift bantlı mesh ürünleri, kablosuz arka altyapıyı cihazların kullandığı bantlarla birleştirir."
       },
       {
-        "card_title": "Ethernet Performansı",
-        "card_body": "Cat 6 kablo kullanıldığında Ethernet, ortalama bir ev mesafesinde en az 1 Gbps veya daha fazla hız sağlar."
+        "card_title": "Üç ve Dört Bantlı Seçenekler",
+        "card_body": "Özel bir arka altyapı bağlantısına sahip cihazlar en az üç bantlıdır, bazı gelişmiş seçenekler ise dört bantlıdır."
+      },
+      {
+        "card_title": "Ethernet Maliyeti",
+        "card_body": "Bir çift 50 feet uzunluğundaki Cat 6 kablo yaklaşık 30 dolara satın alınabilir."
       }
     ]
   },
   "impact": {
-    "heading": "Port ve Hız Etkisi",
+    "heading": "Performans ve Hız Etkisi",
     "cards": [
       {
-        "card_title": "Port Sınırları",
-        "card_body": "100 Mbps port Wi-Fi için çok yavaştır."
+        "card_title": "Port Hızının Önemi",
+        "card_body": "100 Mbps portlar mesh sistemler için oldukça yavaştır ve performansı sınırlar."
       },
       {
-        "card_title": "Yeni Nesil Sistemler",
-        "card_body": "1 Gbps port bile Wi-Fi 7 sistemi kullanıldığında yetersiz hissedilebilir."
+        "card_title": "Wi-Fi 7 ve Gigabit",
+        "card_body": "Wi-Fi 7 sistemi kullanan cihazların çoklu gigabit hızlarına ulaşabilmesi için 2.5 veya 10 Gbps Ethernet tercih edilir."
       }
     ]
   },
   "cta": {
-    "question": "Ev ağınızda hangi bağlantı türünü tercih ediyorsunuz?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeler için takipte kalın."
+    "question": "Ev ağınızda kablosuz mesh sistemleri mi yoksa kablolu Ethernet bağlantısını mı tercih ediyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

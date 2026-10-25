@@ -2,9 +2,9 @@
   "slot": "21:00",
   "type": "news",
   "model": "gemini-3.5-flash-lite",
-  "duration_seconds": 119.9,
+  "duration_seconds": 116.9,
   "candidates_tried": 1,
-  "gemini_calls": 13,
+  "gemini_calls": 16,
   "canonical_url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
-  "generated_at": "2026-10-25T21:04:01+03:00"
+  "generated_at": "2026-10-25T21:08:21+03:00"
 }
