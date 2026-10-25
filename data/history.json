@@ -963,5 +963,76 @@
     ],
     "created_at": "2026-10-25T14:45:27+03:00",
     "verified_claims_count": 6
+  },
+  {
+    "id": "2026-10-25-1800",
+    "date": "2026-10-25",
+    "slot": "18:00",
+    "type": "edu",
+    "title_tr": "MacBook'unuzu Daha Güvenli Hale Getirin",
+    "original_title": "Get the ultimate security for your MacBook by changing these privacy settings",
+    "source_urls": [
+      "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/"
+    ],
+    "canonical_url": "https://engadget.com/2293095/macbook-privacy-settings-change-immediately",
+    "entities": [
+      "Apple",
+      "MacBook",
+      "Touch ID"
+    ],
+    "event_type": "security_guide",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ade1db2bd33ce99c379a58a",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ade1dc93d5b27036bdb606d",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ade1de1e4be8a4d86b28e16",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2114376175204118905",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18153040393535793",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/De7A4NqG3c5",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ade1e086887a2efc10f7c32",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ade1e203d5b27036bdb6d4b",
+        "permalink": "https://facebook.com/1351036918092059_122118412155484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-25T18:20:10+03:00",
+    "verified_claims_count": 8
   }
 ]
