@@ -1,0 +1,10 @@
+{
+  "slot": "18:00",
+  "type": "edu",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 163.0,
+  "candidates_tried": 1,
+  "gemini_calls": 11,
+  "canonical_url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+  "generated_at": "2026-10-26T21:25:08+03:00"
+}

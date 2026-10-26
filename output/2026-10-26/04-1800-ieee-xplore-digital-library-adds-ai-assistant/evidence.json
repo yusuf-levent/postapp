@@ -1,0 +1,261 @@
+{
+  "title": "IEEE Xplore Digital Library Adds AI Assistant",
+  "canonical_url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+  "source_names": [
+    "IEEE Spectrum",
+    "Microsoft Blog"
+  ],
+  "checked_at": "2026-10-26T21:23:16+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "IEEE, IEEE Xplore Digital Library içerisindeki milyonlarca hakemli yayının tam metnine dayanan IEEE Xplore AI Research Suite'i piyasaya sürdü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+          "quote": "IEEE recently released the IEEE Xplore AI Research Suite, built on the full text of millions of peer-reviewed publications in the IEEE Xplore Digital Library."
+        }
+      ]
+    },
+    {
+      "claim": "IEEE Xplore AI Research Suite, tüm IEEE Xplore Digital Library kurumsal abonelerine isteğe bağlı bir abonelik yükseltmesi olarak sunulmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+          "quote": "The suite is available as an optional subscription upgrade to all IEEE Xplore Digital Library institutional subscribers."
+        }
+      ]
+    },
+    {
+      "claim": "Geliştirme sürecinde mühendisler, bilim insanları ve kütüphane bilgi profesyonellerinden oluşan 3.000'den fazla test kullanıcısı geri bildirim sağladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+          "quote": "More than 3,000 testers—including engineers, scientists, and library information professionals—provided feedback to refine the AI engine and support research workflows."
+        }
+      ]
+    },
+    {
+      "claim": "W. Clem Karl, IEEE Yayın Hizmetleri ve Ürünleri başkan yardımcısıdır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+          "quote": "says W. Clem Karl, vice president, IEEE Publication Services and Products."
+        }
+      ]
+    },
+    {
+      "claim": "Steven Heffner, IEEE'nin baş yayın sorumlusu ve IEEE Yayınları genel müdürüdür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+          "quote": "says Steven Heffner, IEEE’s chief publication officer and managing director of IEEE Publications."
+        }
+      ]
+    },
+    {
+      "claim": "Claire Olini, IEEE Kurumsal ve Stratejik Ürün Lansmanı ve Etkileşimi kıdemli yöneticisidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+          "quote": "Claire Olini is the senior manager for IEEE Corporate and Strategic Product Launch and Engagement."
+        }
+      ]
+    },
+    {
+      "claim": "Michael Spada, IEEE Ürün Lansmanı ve Etkileşimi Stratejisi direktörüdür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+          "quote": "Michael Spada is director of IEEE Product Launch and Engagement Strategy."
+        }
+      ]
+    },
+    {
+      "claim": "IEEE'nin iç testleri, tam metin dayanağının her temel metrikte sonuç kalitesi ve doğruluğunda üç kat artış gösterdiğini ortaya koydu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+          "quote": "Our internal testing showed a threefold increase in result quality and accuracy across every key metric."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "IEEE, IEEE Xplore Digital Library içerisindeki milyonlarca hakemli yayının tam metnine dayanan IEEE Xplore AI Research Suite'i piyasaya sürdü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+          "quote": "IEEE recently released the IEEE Xplore AI Research Suite, built on the full text of millions of peer-reviewed publications in the IEEE Xplore Digital Library."
+        }
+      ]
+    },
+    {
+      "claim": "IEEE Xplore AI Research Suite, tüm IEEE Xplore Digital Library kurumsal abonelerine isteğe bağlı bir abonelik yükseltmesi olarak sunulmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+          "quote": "The suite is available as an optional subscription upgrade to all IEEE Xplore Digital Library institutional subscribers."
+        }
+      ]
+    },
+    {
+      "claim": "Geliştirme sürecinde mühendisler, bilim insanları ve kütüphane bilgi profesyonellerinden oluşan 3.000'den fazla test kullanıcısı geri bildirim sağladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+          "quote": "More than 3,000 testers—including engineers, scientists, and library information professionals—provided feedback to refine the AI engine and support research workflows."
+        }
+      ]
+    },
+    {
+      "claim": "W. Clem Karl, IEEE Yayın Hizmetleri ve Ürünleri başkan yardımcısıdır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+          "quote": "says W. Clem Karl, vice president, IEEE Publication Services and Products."
+        }
+      ]
+    },
+    {
+      "claim": "Steven Heffner, IEEE'nin baş yayın sorumlusu ve IEEE Yayınları genel müdürüdür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+          "quote": "says Steven Heffner, IEEE’s chief publication officer and managing director of IEEE Publications."
+        }
+      ]
+    },
+    {
+      "claim": "Claire Olini, IEEE Kurumsal ve Stratejik Ürün Lansmanı ve Etkileşimi kıdemli yöneticisidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+          "quote": "Claire Olini is the senior manager for IEEE Corporate and Strategic Product Launch and Engagement."
+        }
+      ]
+    },
+    {
+      "claim": "Michael Spada, IEEE Ürün Lansmanı ve Etkileşimi Stratejisi direktörüdür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+          "quote": "Michael Spada is director of IEEE Product Launch and Engagement Strategy."
+        }
+      ]
+    },
+    {
+      "claim": "IEEE'nin iç testleri, tam metin dayanağının her temel metrikte sonuç kalitesi ve doğruluğunda üç kat artış gösterdiğini ortaya koydu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+          "quote": "Our internal testing showed a threefold increase in result quality and accuracy across every key metric."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "IEEE, IEEE Xplore Digital Library içerisindeki milyonlarca hakemli yayının tam metnine dayanan IEEE Xplore AI Research Suite'i piyasaya sürdü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+          "quote": "IEEE recently released the IEEE Xplore AI Research Suite, built on the full text of millions of peer-reviewed publications in the IEEE Xplore Digital Library."
+        }
+      ]
+    },
+    {
+      "claim": "IEEE Xplore AI Research Suite, tüm IEEE Xplore Digital Library kurumsal abonelerine isteğe bağlı bir abonelik yükseltmesi olarak sunulmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+          "quote": "The suite is available as an optional subscription upgrade to all IEEE Xplore Digital Library institutional subscribers."
+        }
+      ]
+    },
+    {
+      "claim": "Geliştirme sürecinde mühendisler, bilim insanları ve kütüphane bilgi profesyonellerinden oluşan 3.000'den fazla test kullanıcısı geri bildirim sağladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+          "quote": "More than 3,000 testers—including engineers, scientists, and library information professionals—provided feedback to refine the AI engine and support research workflows."
+        }
+      ]
+    },
+    {
+      "claim": "W. Clem Karl, IEEE Yayın Hizmetleri ve Ürünleri başkan yardımcısıdır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+          "quote": "says W. Clem Karl, vice president, IEEE Publication Services and Products."
+        }
+      ]
+    },
+    {
+      "claim": "Steven Heffner, IEEE'nin baş yayın sorumlusu ve IEEE Yayınları genel müdürüdür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+          "quote": "says Steven Heffner, IEEE’s chief publication officer and managing director of IEEE Publications."
+        }
+      ]
+    },
+    {
+      "claim": "Claire Olini, IEEE Kurumsal ve Stratejik Ürün Lansmanı ve Etkileşimi kıdemli yöneticisidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+          "quote": "Claire Olini is the senior manager for IEEE Corporate and Strategic Product Launch and Engagement."
+        }
+      ]
+    },
+    {
+      "claim": "Michael Spada, IEEE Ürün Lansmanı ve Etkileşimi Stratejisi direktörüdür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+          "quote": "Michael Spada is director of IEEE Product Launch and Engagement Strategy."
+        }
+      ]
+    },
+    {
+      "claim": "IEEE'nin iç testleri, tam metin dayanağının her temel metrikte sonuç kalitesi ve doğruluğunda üç kat artış gösterdiğini ortaya koydu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+          "quote": "Our internal testing showed a threefold increase in result quality and accuracy across every key metric."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://spectrum.ieee.org/ieee-xplore-digital-library-ai": 4760,
+    "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/": 13012
+  }
+}

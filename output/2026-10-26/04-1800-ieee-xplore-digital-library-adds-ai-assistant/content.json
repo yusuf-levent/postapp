@@ -1,0 +1,140 @@
+{
+  "cover": {
+    "category_label": "Yapay Zeka ve Bilim",
+    "title": "IEEE Xplore AI Research Suite Çıktı",
+    "highlight_words": [
+      "AI Research Suite"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Milyonlarca hakemli yayına dayanan yeni yapay zeka aracı yayında.",
+    "source_tags": [
+      "IEEE Spectrum",
+      "Microsoft Blog"
+    ]
+  },
+  "problem": {
+    "heading": "Bilimsel Araştırmalarda Yeni Dönem",
+    "cards": [
+      {
+        "card_title": "Tam Metin Desteği",
+        "card_body": "IEEE Xplore Digital Library içerisindeki milyonlarca hakemli yayının tam metnine dayanıyor."
+      },
+      {
+        "card_title": "Üç Kat Artış",
+        "card_body": "İç testler, sonuç kalitesi ve doğruluğunda üç kat artış gösterdiğini ortaya koydu."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Kimler İçin ve Nasıl Sunuluyor?",
+      "cards": [
+        {
+          "card_title": "Abonelik Yükseltmesi",
+          "card_body": "Tüm IEEE Xplore Digital Library kurumsal abonelerine isteğe bağlı bir yükseltme olarak sunuluyor."
+        },
+        {
+          "card_title": "Geniş Test Süreci",
+          "card_body": "Mühendisler, bilim insanları ve kütüphane bilgi profesyonellerinden oluşan 3.000'den fazla test kullanıcısı geri bildirim sağladı."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Projede Kimlerin İmzası Var?",
+      "cards": [
+        {
+          "card_title": "Yayın Hizmetleri",
+          "card_body": "W. Clem Karl, IEEE Yayın Hizmetleri ve Ürünleri başkan yardımcısıdır."
+        },
+        {
+          "card_title": "Yayın Sorumlusu",
+          "card_body": "Steven Heffner, IEEE'nin baş yayın sorumlusu ve IEEE Yayınları genel müdürüdür."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Lansman ve Strateji Ekibi",
+      "cards": [
+        {
+          "card_title": "Ürün Lansmanı",
+          "card_body": "Claire Olini, IEEE Kurumsal ve Stratejik Ürün Lansmanı ve Etkileşimi kıdemli yöneticisidir."
+        },
+        {
+          "card_title": "Strateji Direktörü",
+          "card_body": "Michael Spada, IEEE Ürün Lansmanı ve Etkileşimi Stratejisi direktörüdür."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Doğruluk ve Sonuç Kalitesi",
+      "cards": [
+        {
+          "card_title": "Test Sonuçları",
+          "card_body": "IEEE'nin iç testleri, tam metin dayanağının her temel metrikte sonuç kalitesini artırdığını kanıtladı."
+        },
+        {
+          "card_title": "Güvenilir Kaynak",
+          "card_body": "Hakemli yayınların tam metnine dayanan altyapı hata payını en aza indiriyor."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Bu yeni AI araştırma suite hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için takipte kalın!"
+  },
+  "context": {
+    "heading": "Bilimsel Araştırmalarda Yeni Dönem",
+    "cards": [
+      {
+        "card_title": "Tam Metin Desteği",
+        "card_body": "IEEE Xplore Digital Library içerisindeki milyonlarca hakemli yayının tam metnine dayanıyor."
+      },
+      {
+        "card_title": "Üç Kat Artış",
+        "card_body": "İç testler, sonuç kalitesi ve doğruluğunda üç kat artış gösterdiğini ortaya koydu."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Kimler İçin ve Nasıl Sunuluyor?",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Projede Kimlerin İmzası Var?",
+    "cards": [
+      {
+        "card_title": "Yayın Hizmetleri",
+        "card_body": "W. Clem Karl, IEEE Yayın Hizmetleri ve Ürünleri başkan yardımcısıdır."
+      },
+      {
+        "card_title": "Yayın Sorumlusu",
+        "card_body": "Steven Heffner, IEEE'nin baş yayın sorumlusu ve IEEE Yayınları genel müdürüdür."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Lansman ve Strateji Ekibi",
+    "cards": [
+      {
+        "card_title": "Ürün Lansmanı",
+        "card_body": "Claire Olini, IEEE Kurumsal ve Stratejik Ürün Lansmanı ve Etkileşimi kıdemli yöneticisidir."
+      },
+      {
+        "card_title": "Strateji Direktörü",
+        "card_body": "Michael Spada, IEEE Ürün Lansmanı ve Etkileşimi Stratejisi direktörüdür."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}
