@@ -1,0 +1,124 @@
+{
+  "cover": {
+    "category_label": "TEKNO PUSULA",
+    "title": "Apple TV Kumandanızı Daha Verimli Kullanın",
+    "highlight_words": [
+      "Apple TV",
+      "Kumanda"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Pratik ipuçları ile Apple TV deneyiminizi hızlandırın.",
+    "source_tags": [
+      "Engadget",
+      "The Verge",
+      "Apple Newsroom"
+    ]
+  },
+  "problem": {
+    "heading": "Temel İpuçları ile Başlayın",
+    "cards": [
+      {
+        "card_title": "Uygulamaları Kapatma",
+        "card_body": "Apple TV uzaktan kumandasında uygulamaları zorla kapatmak için Home/Control Center tuşuna iki kez basılması gerekir."
+      },
+      {
+        "card_title": "Ses Kaynağı Değiştirme",
+        "card_body": "Ses kaynağını hızla değiştirmek için TV simgeli Home/Control Center tuşuna basılı tutularak Control Center açılır."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Denetim Merkezi ve Bağlantılar",
+      "cards": [
+        {
+          "card_title": "Kablosuz Ağ ve Bluetooth",
+          "card_body": "Control Center menüsü kablosuz ağın değiştirilmesine ve Bluetooth kontrol cihazlarının eklenmesine olanak tanır."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Oynatma ve Metin İpuçları",
+      "cards": [
+        {
+          "card_title": "Zaman Çizelgesi Denetimi",
+          "card_body": "Kumanda üzerindeki clickpad, video oynatırken geri sarma veya ileri sarma için zaman çizelgesi denetleyicisi olarak kullanılabilir."
+        },
+        {
+          "card_title": "Parola Giriş Kolaylığı",
+          "card_body": "Parola girerken Play/Pause tuşuna basarak büyük ve küçük harfler arasında anında geçiş yapılabilir."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Erişilebilirlik ve Görseller",
+      "cards": [
+        {
+          "card_title": "VoiceOver Özelliği",
+          "card_body": "VoiceOver, menüleri ve açıklayıcı metinleri yüksek sesle okuyan Apple'ın sesli açıklama sistemidir."
+        },
+        {
+          "card_title": "Ekran Koruyucu",
+          "card_body": "Ekran koruyucu görsellerini başlatmak için geri tuşuna iki kez basılması yeterlidir."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Bu ipuçlarından hangisini zaten biliyordunuz?",
+    "reminder_line": "Daha fazla teknoloji ipucu için takipte kalın!"
+  },
+  "context": {
+    "heading": "Temel İpuçları ile Başlayın",
+    "cards": [
+      {
+        "card_title": "Uygulamaları Kapatma",
+        "card_body": "Apple TV uzaktan kumandasında uygulamaları zorla kapatmak için Home/Control Center tuşuna iki kez basılması gerekir."
+      },
+      {
+        "card_title": "Ses Kaynağı Değiştirme",
+        "card_body": "Ses kaynağını hızla değiştirmek için TV simgeli Home/Control Center tuşuna basılı tutularak Control Center açılır."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Denetim Merkezi ve Bağlantılar",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Oynatma ve Metin İpuçları",
+    "cards": [
+      {
+        "card_title": "Zaman Çizelgesi Denetimi",
+        "card_body": "Kumanda üzerindeki clickpad, video oynatırken geri sarma veya ileri sarma için zaman çizelgesi denetleyicisi olarak kullanılabilir."
+      },
+      {
+        "card_title": "Parola Giriş Kolaylığı",
+        "card_body": "Parola girerken Play/Pause tuşuna basarak büyük ve küçük harfler arasında anında geçiş yapılabilir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Erişilebilirlik ve Görseller",
+    "cards": [
+      {
+        "card_title": "VoiceOver Özelliği",
+        "card_body": "VoiceOver, menüleri ve açıklayıcı metinleri yüksek sesle okuyan Apple'ın sesli açıklama sistemidir."
+      },
+      {
+        "card_title": "Ekran Koruyucu",
+        "card_body": "Ekran koruyucu görsellerini başlatmak için geri tuşuna iki kez basılması yeterlidir."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}
