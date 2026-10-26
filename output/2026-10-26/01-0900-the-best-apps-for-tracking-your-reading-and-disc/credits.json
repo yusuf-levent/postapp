@@ -1,0 +1,27 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://techcrunch.com/wp-content/uploads/2022/12/Screenshot-2026-10-22-at-2.48.45-PM.png?resize=1200,831",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-26/01-0900-the-best-apps-for-tracking-your-reading-and-disc/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+      "width": 1200,
+      "height": 831,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/10149051/pexels-photo-10149051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-26/01-0900-the-best-apps-for-tracking-your-reading-and-disc/images/img-2.png",
+      "license": "Pexels License — Melike Avcı",
+      "author": "Melike Avcı",
+      "credit_url": "https://www.pexels.com/photo/woman-wearing-hijab-in-bookstore-10149051/",
+      "width": 1299,
+      "height": 1300,
+      "alt_text": "Woman in hijab explores second-hand books in a packed bookstore."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}

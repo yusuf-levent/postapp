@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "KİTAP VE TEKNOLOJİ",
+    "title": "Goodreads Alternatifi Okuma Uygulamaları",
+    "highlight_words": [
+      "Goodreads",
+      "Alternatifi"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Amazon'un devine karşı yükselen yeni nesil kitap uygulamaları ve abonelik ücretleri.",
+    "source_tags": [
+      "TECHCRUNCH",
+      "THE VERGE"
+    ]
+  },
+  "context": {
+    "heading": "Pazardaki Yeni Alternatifler",
+    "cards": [
+      {
+        "card_title": "Goodreads'in Durumu",
+        "card_body": "Popüler kitap platformu Goodreads, e-ticaret devi Amazon'a aittir."
+      },
+      {
+        "card_title": "Yeni Uygulamalar",
+        "card_body": "Fable, Bookshelf, Pagebound ve StoryGraph okuyuculara yeni özellikler sunuyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "$4.99",
+    "stat_caption": "StoryGraph Plus aylık abonelik ücreti ile özel grafikler ve ek istatistikler sunuyor.",
+    "stat_quote": "StoryGraph Plus kullanıcılara detaylı istatistikler sağlıyor."
+  },
+  "details": {
+    "heading": "Abonelik Ücretleri",
+    "cards": [
+      {
+        "card_title": "Fable Plus",
+        "card_body": "Fable Plus aboneliği aylık 5.99 dolar olarak fiyatlandırılıyor."
+      },
+      {
+        "card_title": "Bookshelf ve Pagebound",
+        "card_body": "Bookshelf premium özellikler için aylık 6.99 dolar, Pagebound ise profil özelleştirme için aylık 9.99 dolar istiyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Uygulama Erişilebilirliği",
+    "cards": [
+      {
+        "card_title": "Fable ve Pagebound",
+        "card_body": "Fable ve Pagebound uygulamaları hem iOS hem de Android için ücretsiz indirilebilir."
+      },
+      {
+        "card_title": "Bookshelf",
+        "card_body": "Bookshelf uygulaması iOS kullanıcıları için ücretsiz olarak indirilebiliyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Hangi kitap uygulamasını kullanmayı tercih edersiniz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

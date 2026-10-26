@@ -1,0 +1,265 @@
+{
+  "title": "The best apps for tracking your reading and discovering new books",
+  "canonical_url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+  "source_names": [
+    "TechCrunch",
+    "Engadget",
+    "The Verge",
+    "Ars Technica"
+  ],
+  "checked_at": "2026-10-26T08:42:12+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Goodreads is owned by Amazon.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "quote": "Amazon-owned Goodreads, which is arguably the most popular book-related app, isn’t included in this list because we’re focusing on newer, lesser-known platforms."
+        }
+      ]
+    },
+    {
+      "claim": "Fable Plus subscription costs $5.99 per month.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "quote": "Fable is free to download on iOS and Android, but also offers a Fable Plus subscription tier that unlocks additional features like custom goals and advanced analytics for a monthly fee of $5.99."
+        }
+      ]
+    },
+    {
+      "claim": "Bookshelf offers a $6.99 monthly fee to unlock premium features.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "quote": "Bookshelf is free to download on iOS, but offers a $6.99 monthly fee to unlock premium features like unlimited collections and enhanced analytics."
+        }
+      ]
+    },
+    {
+      "claim": "Pagebound offers a $9.99 monthly subscription for added features like profile customization.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "quote": "Pagebound is free to download on iOS and Android and offers a $9.99 monthly subscription for added features like profile customization."
+        }
+      ]
+    },
+    {
+      "claim": "StoryGraph Plus costs $4.99 per month and unlocks custom charts and additional statistics.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "quote": "StoryGraph is free to use on iOS and Android, but also offers a paid subscription called StoryGraph Plus that costs $4.99 per month and unlocks custom charts, additional statistics, and more."
+        }
+      ]
+    },
+    {
+      "claim": "Fable is free to download on iOS and Android.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "quote": "Fable is free to download on iOS and Android, but also offers a Fable Plus subscription tier that unlocks additional features like custom goals and advanced analytics for a monthly fee of $5.99."
+        }
+      ]
+    },
+    {
+      "claim": "Bookshelf is free to download on iOS.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "quote": "Bookshelf is free to download on iOS, but offers a $6.99 monthly fee to unlock premium features like unlimited collections and enhanced analytics."
+        }
+      ]
+    },
+    {
+      "claim": "Pagebound is free to download on iOS and Android.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "quote": "Pagebound is free to download on iOS and Android and offers a $9.99 monthly subscription for added features like profile customization."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Goodreads is owned by Amazon.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "quote": "Amazon-owned Goodreads, which is arguably the most popular book-related app, isn’t included in this list because we’re focusing on newer, lesser-known platforms."
+        }
+      ]
+    },
+    {
+      "claim": "Fable Plus subscription costs $5.99 per month.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "quote": "Fable is free to download on iOS and Android, but also offers a Fable Plus subscription tier that unlocks additional features like custom goals and advanced analytics for a monthly fee of $5.99."
+        }
+      ]
+    },
+    {
+      "claim": "Bookshelf offers a $6.99 monthly fee to unlock premium features.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "quote": "Bookshelf is free to download on iOS, but offers a $6.99 monthly fee to unlock premium features like unlimited collections and enhanced analytics."
+        }
+      ]
+    },
+    {
+      "claim": "Pagebound offers a $9.99 monthly subscription for added features like profile customization.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "quote": "Pagebound is free to download on iOS and Android and offers a $9.99 monthly subscription for added features like profile customization."
+        }
+      ]
+    },
+    {
+      "claim": "StoryGraph Plus costs $4.99 per month and unlocks custom charts and additional statistics.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "quote": "StoryGraph is free to use on iOS and Android, but also offers a paid subscription called StoryGraph Plus that costs $4.99 per month and unlocks custom charts, additional statistics, and more."
+        }
+      ]
+    },
+    {
+      "claim": "Fable is free to download on iOS and Android.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "quote": "Fable is free to download on iOS and Android, but also offers a Fable Plus subscription tier that unlocks additional features like custom goals and advanced analytics for a monthly fee of $5.99."
+        }
+      ]
+    },
+    {
+      "claim": "Bookshelf is free to download on iOS.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "quote": "Bookshelf is free to download on iOS, but offers a $6.99 monthly fee to unlock premium features like unlimited collections and enhanced analytics."
+        }
+      ]
+    },
+    {
+      "claim": "Pagebound is free to download on iOS and Android.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "quote": "Pagebound is free to download on iOS and Android and offers a $9.99 monthly subscription for added features like profile customization."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Goodreads is owned by Amazon.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "quote": "Amazon-owned Goodreads, which is arguably the most popular book-related app, isn’t included in this list because we’re focusing on newer, lesser-known platforms."
+        }
+      ]
+    },
+    {
+      "claim": "Fable Plus subscription costs $5.99 per month.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "quote": "Fable is free to download on iOS and Android, but also offers a Fable Plus subscription tier that unlocks additional features like custom goals and advanced analytics for a monthly fee of $5.99."
+        }
+      ]
+    },
+    {
+      "claim": "Bookshelf offers a $6.99 monthly fee to unlock premium features.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "quote": "Bookshelf is free to download on iOS, but offers a $6.99 monthly fee to unlock premium features like unlimited collections and enhanced analytics."
+        }
+      ]
+    },
+    {
+      "claim": "Pagebound offers a $9.99 monthly subscription for added features like profile customization.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "quote": "Pagebound is free to download on iOS and Android and offers a $9.99 monthly subscription for added features like profile customization."
+        }
+      ]
+    },
+    {
+      "claim": "StoryGraph Plus costs $4.99 per month and unlocks custom charts and additional statistics.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "quote": "StoryGraph is free to use on iOS and Android, but also offers a paid subscription called StoryGraph Plus that costs $4.99 per month and unlocks custom charts, additional statistics, and more."
+        }
+      ]
+    },
+    {
+      "claim": "Fable is free to download on iOS and Android.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "quote": "Fable is free to download on iOS and Android, but also offers a Fable Plus subscription tier that unlocks additional features like custom goals and advanced analytics for a monthly fee of $5.99."
+        }
+      ]
+    },
+    {
+      "claim": "Bookshelf is free to download on iOS.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "quote": "Bookshelf is free to download on iOS, but offers a $6.99 monthly fee to unlock premium features like unlimited collections and enhanced analytics."
+        }
+      ]
+    },
+    {
+      "claim": "Pagebound is free to download on iOS and Android.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "quote": "Pagebound is free to download on iOS and Android and offers a $9.99 monthly subscription for added features like profile customization."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/": 4261,
+    "https://www.engadget.com/2294022/devices-could-be-wrong-wifi-band-slowing-them-down/": 7765,
+    "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review": 2228,
+    "https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/": 1455
+  }
+}
