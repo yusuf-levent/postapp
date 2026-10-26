@@ -1,118 +1,115 @@
 {
   "cover": {
-    "category_label": "TEKNO PUSULA",
-    "title": "Apple TV Kumandanızı Daha Verimli Kullanın",
+    "category_label": "TEKNOLOJİ REHBERİ",
+    "title": "Apple TV Kumandasını Daha Etkili Kullanın",
     "highlight_words": [
       "Apple TV",
-      "Kumanda"
+      "Etkili"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Pratik ipuçları ile Apple TV deneyiminizi hızlandırın.",
+    "subtitle": "Günlük kullanımı kolaylaştıracak pratik kumanda ipuçları.",
     "source_tags": [
       "Engadget",
       "The Verge",
+      "Wired",
       "Apple Newsroom"
     ]
   },
   "problem": {
-    "heading": "Temel İpuçları ile Başlayın",
+    "heading": "Kumanda Hakimiyetini Artırın",
     "cards": [
       {
-        "card_title": "Uygulamaları Kapatma",
-        "card_body": "Apple TV uzaktan kumandasında uygulamaları zorla kapatmak için Home/Control Center tuşuna iki kez basılması gerekir."
+        "card_title": "Gizli Kısayollar",
+        "card_body": "Apple TV kumandası üzerinde bilinmeyen pek çok pratik özellik yer alıyor."
       },
       {
-        "card_title": "Ses Kaynağı Değiştirme",
-        "card_body": "Ses kaynağını hızla değiştirmek için TV simgeli Home/Control Center tuşuna basılı tutularak Control Center açılır."
+        "card_title": "Daha Hızlı Kontrol",
+        "card_body": "Bu ipuçları sayesinde cihazınızı çok daha akıcı bir şekilde yönetebilirsiniz."
       }
     ],
     "code_block": ""
   },
   "steps": [
     {
-      "heading": "Denetim Merkezi ve Bağlantılar",
+      "heading": "Uygulamaları Kapatma ve Menü",
       "cards": [
         {
-          "card_title": "Kablosuz Ağ ve Bluetooth",
-          "card_body": "Control Center menüsü kablosuz ağın değiştirilmesine ve Bluetooth kontrol cihazlarının eklenmesine olanak tanır."
+          "card_title": "Uygulamaları Zorla Kapat",
+          "card_body": "Kumanda üzerindeki Home/Control Center tuşuna iki kez basarak açık uygulamaları kapatma ekranına ulaşabilirsiniz."
+        },
+        {
+          "card_title": "Control Center Menüsü",
+          "card_body": "Control Center menüsünü açmak için Home/Control Center tuşuna basılı tutmanız yeterlidir."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "Oynatma ve Metin İpuçları",
+      "heading": "Video Kontrolleri ve Metin Girişi",
       "cards": [
         {
-          "card_title": "Zaman Çizelgesi Denetimi",
-          "card_body": "Kumanda üzerindeki clickpad, video oynatırken geri sarma veya ileri sarma için zaman çizelgesi denetleyicisi olarak kullanılabilir."
+          "card_title": "Hızlı İleri ve Geri Sarma",
+          "card_body": "Clickpad üzerinde parmağınızı sağa veya sola kaydırarak ya da daireler çizerek video içinde kolayca sarabilirsiniz."
         },
         {
-          "card_title": "Parola Giriş Kolaylığı",
-          "card_body": "Parola girerken Play/Pause tuşuna basarak büyük ve küçük harfler arasında anında geçiş yapılabilir."
+          "card_title": "Büyük ve Küçük Harf Değişimi",
+          "card_body": "Metin girerken büyük ve küçük harfler arasında anında geçiş yapmak için Play/Pause tuşuna basabilirsiniz."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "Erişilebilirlik ve Görseller",
+      "heading": "Ekran Koruyucu",
       "cards": [
         {
-          "card_title": "VoiceOver Özelliği",
-          "card_body": "VoiceOver, menüleri ve açıklayıcı metinleri yüksek sesle okuyan Apple'ın sesli açıklama sistemidir."
-        },
-        {
-          "card_title": "Ekran Koruyucu",
-          "card_body": "Ekran koruyucu görsellerini başlatmak için geri tuşuna iki kez basılması yeterlidir."
+          "card_title": "Ekran Koruyucuyu Başlatma",
+          "card_body": "Ekran koruyucu görsellerini hemen başlatmak için geri tuşuna iki kez basılması yeterlidir."
         }
       ],
       "code_block": ""
     }
   ],
   "cta": {
-    "question": "Bu ipuçlarından hangisini zaten biliyordunuz?",
-    "reminder_line": "Daha fazla teknoloji ipucu için takipte kalın!"
+    "question": "Siz bu ipuçlarından en çok hangisini faydalı buldunuz?",
+    "reminder_line": "Teknoloji ipuçları için Tekno Pusula hesabını takip etmeyi unutmayın!"
   },
   "context": {
-    "heading": "Temel İpuçları ile Başlayın",
+    "heading": "Kumanda Hakimiyetini Artırın",
     "cards": [
       {
-        "card_title": "Uygulamaları Kapatma",
-        "card_body": "Apple TV uzaktan kumandasında uygulamaları zorla kapatmak için Home/Control Center tuşuna iki kez basılması gerekir."
+        "card_title": "Gizli Kısayollar",
+        "card_body": "Apple TV kumandası üzerinde bilinmeyen pek çok pratik özellik yer alıyor."
       },
       {
-        "card_title": "Ses Kaynağı Değiştirme",
-        "card_body": "Ses kaynağını hızla değiştirmek için TV simgeli Home/Control Center tuşuna basılı tutularak Control Center açılır."
+        "card_title": "Daha Hızlı Kontrol",
+        "card_body": "Bu ipuçları sayesinde cihazınızı çok daha akıcı bir şekilde yönetebilirsiniz."
       }
     ]
   },
   "stat": {
     "big_stat": "💡",
-    "stat_caption": "Denetim Merkezi ve Bağlantılar",
+    "stat_caption": "Uygulamaları Kapatma ve Menü",
     "stat_quote": ""
   },
   "details": {
-    "heading": "Oynatma ve Metin İpuçları",
+    "heading": "Video Kontrolleri ve Metin Girişi",
     "cards": [
       {
-        "card_title": "Zaman Çizelgesi Denetimi",
-        "card_body": "Kumanda üzerindeki clickpad, video oynatırken geri sarma veya ileri sarma için zaman çizelgesi denetleyicisi olarak kullanılabilir."
+        "card_title": "Hızlı İleri ve Geri Sarma",
+        "card_body": "Clickpad üzerinde parmağınızı sağa veya sola kaydırarak ya da daireler çizerek video içinde kolayca sarabilirsiniz."
       },
       {
-        "card_title": "Parola Giriş Kolaylığı",
-        "card_body": "Parola girerken Play/Pause tuşuna basarak büyük ve küçük harfler arasında anında geçiş yapılabilir."
+        "card_title": "Büyük ve Küçük Harf Değişimi",
+        "card_body": "Metin girerken büyük ve küçük harfler arasında anında geçiş yapmak için Play/Pause tuşuna basabilirsiniz."
       }
     ]
   },
   "impact": {
-    "heading": "Erişilebilirlik ve Görseller",
+    "heading": "Ekran Koruyucu",
     "cards": [
       {
-        "card_title": "VoiceOver Özelliği",
-        "card_body": "VoiceOver, menüleri ve açıklayıcı metinleri yüksek sesle okuyan Apple'ın sesli açıklama sistemidir."
-      },
-      {
-        "card_title": "Ekran Koruyucu",
-        "card_body": "Ekran koruyucu görsellerini başlatmak için geri tuşuna iki kez basılması yeterlidir."
+        "card_title": "Ekran Koruyucuyu Başlatma",
+        "card_body": "Ekran koruyucu görsellerini hemen başlatmak için geri tuşuna iki kez basılması yeterlidir."
       }
     ]
   },

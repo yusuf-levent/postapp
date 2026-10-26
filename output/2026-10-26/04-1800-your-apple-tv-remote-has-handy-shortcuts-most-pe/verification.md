@@ -2,51 +2,41 @@
 
 **Haber:** Your Apple TV remote has handy shortcuts most people never use
 **Canonical URL:** https://www.engadget.com/2295146/handy-apple-tv-remote-shortcuts/
-**Kaynaklar:** Engadget, The Verge, TechCrunch, Apple Newsroom
-**Kontrol zamanı:** 2026-10-26T21:32:44+03:00
+**Kaynaklar:** Engadget, The Verge, Wired, Apple Newsroom
+**Kontrol zamanı:** 2026-10-26T21:37:50+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
 
 ## İddia Bazlı Sonuçlar
 
-### 1. Apple TV uzaktan kumandasında uygulamaları zorla kapatmak için Home/Control Center tuşuna iki kez basılması gerekir.
+### 1. Apple TV kumandasındaki uygulamaları zorla kapatmak için kumanda üzerindeki Home/Control Center tuşuna iki kez basılması gerekir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2295146/handy-apple-tv-remote-shortcuts/](https://www.engadget.com/2295146/handy-apple-tv-remote-shortcuts/)
     > All you have to do is double-press the Home/Control Center button on the remote.
 
-### 2. Ses kaynağını hızla değiştirmek için TV simgeli Home/Control Center tuşuna basılı tutularak Control Center açılır.
+### 2. Apple TV kumandasında Control Center menüsünü açmak için Home/Control Center tuşuna basılı tutmak yeterlidir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2295146/handy-apple-tv-remote-shortcuts/](https://www.engadget.com/2295146/handy-apple-tv-remote-shortcuts/)
     > Just press and hold down the Home/Control Center button, which is one with the TV icon. This will bring up the Control Center.
 
-### 3. Control Center menüsü kablosuz ağın değiştirilmesine ve Bluetooth kontrol cihazlarının eklenmesine olanak tanır.
+### 3. Apple TV kumandasındaki clickpad üzerinde parmağı sağa veya sola kaydırarak ya da daireler çizerek video içinde ileri veya geri sarma işlemi yapılabilir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2295146/handy-apple-tv-remote-shortcuts/](https://www.engadget.com/2295146/handy-apple-tv-remote-shortcuts/)
-    > This menu lets you change the wireless network, add Bluetooth controllers, access your smart home dashboard and a whole lot more.
-
-### 4. Kumanda üzerindeki clickpad, video oynatırken geri sarma veya ileri sarma için zaman çizelgesi denetleyicisi olarak kullanılabilir.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
+    > Press the Play/Pause button and slide your finger left or right to rewind or fast-forward. You can also draw circles on the clickpad to scrub back and forth, offering an even more intuitive control option.
   - [https://www.engadget.com/2295146/handy-apple-tv-remote-shortcuts/](https://www.engadget.com/2295146/handy-apple-tv-remote-shortcuts/)
-    > The clickpad on the remote doubles as a timeline controller, offering precise controls that aren't available with many rival products.
+    > Press the Play/Pause button and slide your finger left or right to rewind or fast-forward. You can also draw circles on the clickpad to scrub back and forth
 
-### 5. VoiceOver, menüleri ve açıklayıcı metinleri yüksek sesle okuyan Apple'ın sesli açıklama sistemidir.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://www.engadget.com/2295146/handy-apple-tv-remote-shortcuts/](https://www.engadget.com/2295146/handy-apple-tv-remote-shortcuts/)
-    > VoiceOver is Apple's audio description system that reads menus and descriptive text aloud as you navigate.
-
-### 6. Parola girerken Play/Pause tuşuna basarak büyük ve küçük harfler arasında anında geçiş yapılabilir.
+### 4. Apple TV metin girerken büyük ve küçük harfler arasında anında geçiş yapmak için Play/Pause tuşuna basılabilir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2295146/handy-apple-tv-remote-shortcuts/](https://www.engadget.com/2295146/handy-apple-tv-remote-shortcuts/)
     > You can instantly switch between uppercase and lowercase text just by pressing the Play/Pause button as you type.
 
-### 7. Ekran koruyucu görsellerini başlatmak için geri tuşuna (eski kumandalarda menü tuşu) iki kez basılması yeterlidir.
+### 5. Apple TV ekran koruyucu görsellerini başlatmak için geri tuşuna iki kez basılması yeterlidir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2295146/handy-apple-tv-remote-shortcuts/](https://www.engadget.com/2295146/handy-apple-tv-remote-shortcuts/)
@@ -58,17 +48,15 @@
 
 | İddia | 1. Tur | 2. Tur | Nihai |
 |-------|--------|--------|-------|
-| Apple TV uzaktan kumandasında uygulamaları zorla kapatmak iç | supported | supported | supported |
-| Ses kaynağını hızla değiştirmek için TV simgeli Home/Control | supported | supported | supported |
-| Control Center menüsü kablosuz ağın değiştirilmesine ve Blue | supported | supported | supported |
-| Kumanda üzerindeki clickpad, video oynatırken geri sarma vey | supported | supported | supported |
-| VoiceOver, menüleri ve açıklayıcı metinleri yüksek sesle oku | supported | supported | supported |
-| Parola girerken Play/Pause tuşuna basarak büyük ve küçük har | supported | supported | supported |
-| Ekran koruyucu görsellerini başlatmak için geri tuşuna (eski | supported | supported | supported |
+| Apple TV kumandasındaki uygulamaları zorla kapatmak için kum | supported | supported | supported |
+| Apple TV kumandasında Control Center menüsünü açmak için Hom | supported | supported | supported |
+| Apple TV kumandasındaki clickpad üzerinde parmağı sağa veya  | supported | supported | supported |
+| Apple TV metin girerken büyük ve küçük harfler arasında anın | supported | supported | supported |
+| Apple TV ekran koruyucu görsellerini başlatmak için geri tuş | supported | supported | supported |
 
 ## Kaynak Metinleri
 
 - `sources/source-1.txt` — https://www.engadget.com/2295146/handy-apple-tv-remote-shortcuts/
-- `sources/source-2.txt` — https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack
-- `sources/source-3.txt` — https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/
-- `sources/source-4.txt` — https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/
+- `sources/source-2.txt` — https://www.theverge.com/tech/1018624/t-mobile-mix-plans-streaming-picks
+- `sources/source-3.txt` — https://www.wired.com/story/apple-carplay-and-android-auto-make-your-phone-hot-heres-how-to-keep-it-cool/
+- `sources/source-4.txt` — https://www.apple.com/newsroom/2026/10/formula-1-united-states-grand-prix-streams-live-on-apple-tv-this-weekend/
