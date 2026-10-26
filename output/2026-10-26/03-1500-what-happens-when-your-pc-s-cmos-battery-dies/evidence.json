@@ -1,0 +1,277 @@
+{
+  "title": "What happens when your PC's CMOS battery dies?",
+  "canonical_url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+  "source_names": [
+    "Engadget",
+    "The Verge",
+    "Wired",
+    "TechCrunch"
+  ],
+  "checked_at": "2026-10-26T15:37:28+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Masaüstü bilgisayarların anakartlarında, bilgisayar kapalıyken donanım ayarlarını ve gerçek zamanlı saati koruyan CMOS pili bulunur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "Look closely at a desktop computer's motherboard, and you'll notice a small disc-shaped battery that was installed from the factory. This coin-sized battery powers your computer's real-time clock and helps preserve basic hardware-related settings when the machine is turned off."
+        }
+      ]
+    },
+    {
+      "claim": "Masaüstü bilgisayarların çoğunda standart CR2032 tipi düğme pil kullanılır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "Most desktop computers use a standard CR2032 coin cell"
+        }
+      ]
+    },
+    {
+      "claim": "Apple AirTag cihazları da CR2032 tipi pil ile çalışır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "Most desktop computers use a standard CR2032 coin cell, which is the same kind that powers Apple's AirTags."
+        }
+      ]
+    },
+    {
+      "claim": "Bazı bilgisayarlar daha az yaygın olmakla birlikte CR2025 tipi pil kullanabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "Some may use a CR2025 coin, but this is less common."
+        }
+      ]
+    },
+    {
+      "claim": "CMOS pilleri genellikle birkaç yıl, hatta on yıla kadar dayanabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "Since the battery only needs to power a real-time clock and memory chip, it can usually last several years, or even up to a decade."
+        }
+      ]
+    },
+    {
+      "claim": "CMOS pili bittiğinde bilgisayarın tarih ve saati 1 Ocak 2000 veya 1 Ocak 1970 gibi varsayılan değerlere sıfırlanabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "It may reset to a default value (like January 1, 2000 or January 1, 1970) on every boot."
+        }
+      ]
+    },
+    {
+      "claim": "Birçok modern dizüstü bilgisayar, dahili saati korumak için özel bir CMOS pili yerine ana bataryayı kullanır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "Many laptops use their main battery instead of a dedicated CMOS cell to maintain the internal clock"
+        },
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "Many laptops use their main battery instead of a dedicated CMOS cell to maintain the internal clock, so you're much more likely to run into this problem on a desktop PC."
+        }
+      ]
+    },
+    {
+      "claim": "CMOS pili değiştirildikten sonra BIOS veya UEFI ayarlarından Intel XMP veya AMD EXPO özelliklerinin yeniden etkinleştirilmesi gerekebilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "With the CMOS battery replaced, don't forget to enter your computer's BIOS or UEFI settings and adjust settings to the way you had them before. An important one for gamers or anyone using heavy software is re-enabling Intel XMP or AMD EXPO to ensure your RAM performs as well as it should."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Masaüstü bilgisayarların anakartlarında, bilgisayar kapalıyken donanım ayarlarını ve gerçek zamanlı saati koruyan CMOS pili bulunur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "Look closely at a desktop computer's motherboard, and you'll notice a small disc-shaped battery that was installed from the factory. This coin-sized battery powers your computer's real-time clock and helps preserve basic hardware-related settings when the machine is turned off."
+        }
+      ]
+    },
+    {
+      "claim": "Masaüstü bilgisayarların çoğunda standart CR2032 tipi düğme pil kullanılır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "Most desktop computers use a standard CR2032 coin cell"
+        }
+      ]
+    },
+    {
+      "claim": "Apple AirTag cihazları da CR2032 tipi pil ile çalışır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "Most desktop computers use a standard CR2032 coin cell, which is the same kind that powers Apple's AirTags."
+        }
+      ]
+    },
+    {
+      "claim": "Bazı bilgisayarlar daha az yaygın olmakla birlikte CR2025 tipi pil kullanabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "Some may use a CR2025 coin, but this is less common."
+        }
+      ]
+    },
+    {
+      "claim": "CMOS pilleri genellikle birkaç yıl, hatta on yıla kadar dayanabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "Since the battery only needs to power a real-time clock and memory chip, it can usually last several years, or even up to a decade."
+        }
+      ]
+    },
+    {
+      "claim": "CMOS pili bittiğinde bilgisayarın tarih ve saati 1 Ocak 2000 veya 1 Ocak 1970 gibi varsayılan değerlere sıfırlanabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "It may reset to a default value (like January 1, 2000 or January 1, 1970) on every boot."
+        }
+      ]
+    },
+    {
+      "claim": "Birçok modern dizüstü bilgisayar, dahili saati korumak için özel bir CMOS pili yerine ana bataryayı kullanır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "Many laptops use their main battery instead of a dedicated CMOS cell to maintain the internal clock"
+        },
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "Many laptops use their main battery instead of a dedicated CMOS cell to maintain the internal clock, so you're much more likely to run into this problem on a desktop PC."
+        }
+      ]
+    },
+    {
+      "claim": "CMOS pili değiştirildikten sonra BIOS veya UEFI ayarlarından Intel XMP veya AMD EXPO özelliklerinin yeniden etkinleştirilmesi gerekebilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "With the CMOS battery replaced, don't forget to enter your computer's BIOS or UEFI settings and adjust settings to the way you had them before. An important one for gamers or anyone using heavy software is re-enabling Intel XMP or AMD EXPO to ensure your RAM performs as well as it should."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Masaüstü bilgisayarların anakartlarında, bilgisayar kapalıyken donanım ayarlarını ve gerçek zamanlı saati koruyan CMOS pili bulunur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "Look closely at a desktop computer's motherboard, and you'll notice a small disc-shaped battery that was installed from the factory. This coin-sized battery powers your computer's real-time clock and helps preserve basic hardware-related settings when the machine is turned off."
+        }
+      ]
+    },
+    {
+      "claim": "Masaüstü bilgisayarların çoğunda standart CR2032 tipi düğme pil kullanılır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "Most desktop computers use a standard CR2032 coin cell"
+        }
+      ]
+    },
+    {
+      "claim": "Apple AirTag cihazları da CR2032 tipi pil ile çalışır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "Most desktop computers use a standard CR2032 coin cell, which is the same kind that powers Apple's AirTags."
+        }
+      ]
+    },
+    {
+      "claim": "Bazı bilgisayarlar daha az yaygın olmakla birlikte CR2025 tipi pil kullanabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "Some may use a CR2025 coin, but this is less common."
+        }
+      ]
+    },
+    {
+      "claim": "CMOS pilleri genellikle birkaç yıl, hatta on yıla kadar dayanabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "Since the battery only needs to power a real-time clock and memory chip, it can usually last several years, or even up to a decade."
+        }
+      ]
+    },
+    {
+      "claim": "CMOS pili bittiğinde bilgisayarın tarih ve saati 1 Ocak 2000 veya 1 Ocak 1970 gibi varsayılan değerlere sıfırlanabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "It may reset to a default value (like January 1, 2000 or January 1, 1970) on every boot."
+        }
+      ]
+    },
+    {
+      "claim": "Birçok modern dizüstü bilgisayar, dahili saati korumak için özel bir CMOS pili yerine ana bataryayı kullanır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "Many laptops use their main battery instead of a dedicated CMOS cell to maintain the internal clock"
+        },
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "Many laptops use their main battery instead of a dedicated CMOS cell to maintain the internal clock, so you're much more likely to run into this problem on a desktop PC."
+        }
+      ]
+    },
+    {
+      "claim": "CMOS pili değiştirildikten sonra BIOS veya UEFI ayarlarından Intel XMP veya AMD EXPO özelliklerinin yeniden etkinleştirilmesi gerekebilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+          "quote": "With the CMOS battery replaced, don't forget to enter your computer's BIOS or UEFI settings and adjust settings to the way you had them before. An important one for gamers or anyone using heavy software is re-enabling Intel XMP or AMD EXPO to ensure your RAM performs as well as it should."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/": 4507,
+    "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen": 1078,
+    "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/": 2614,
+    "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/": 8225
+  }
+}

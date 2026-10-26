@@ -1,0 +1,10 @@
+{
+  "slot": "15:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 497.3,
+  "candidates_tried": 1,
+  "gemini_calls": 33,
+  "canonical_url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+  "generated_at": "2026-10-26T15:45:04+03:00"
+}

@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "DONANIM BİLGİSİ",
+    "title": "Bilgisayarınızın Gizli Kahramanı: CMOS Pili",
+    "highlight_words": [
+      "CMOS",
+      "Pili"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Bilgisayar kapalıyken ayarlarınızı koruyan o küçük parçayı yakından tanıyalım.",
+    "source_tags": [
+      "ENGADGET",
+      "THE VERGE"
+    ]
+  },
+  "context": {
+    "heading": "CMOS Pili Nedir?",
+    "cards": [
+      {
+        "card_title": "Görevi Nedir?",
+        "card_body": "Masaüstü bilgisayarların anakartında bulunur. Bilgisayar kapalıyken donanım ayarlarını ve gerçek zamanlı saati korur."
+      },
+      {
+        "card_title": "Dizüstü Farkı",
+        "card_body": "Birçok modern dizüstü bilgisayar, dahili saati korumak için özel bir CMOS pili yerine ana bataryayı kullanır."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "10 YIL",
+    "stat_caption": "CMOS pillerinin kullanım ömrü",
+    "stat_quote": "CMOS pilleri genellikle birkaç yıl, hatta on yıla kadar dayanabilir. - Wired"
+  },
+  "details": {
+    "heading": "Pil Türleri ve Değişim",
+    "cards": [
+      {
+        "card_title": "Standartlar",
+        "card_body": "Masaüstü bilgisayarların çoğunda standart CR2032 tipi düğme pil kullanılır. Bazı modellerde CR2025 tipi pil de görülebilir."
+      },
+      {
+        "card_title": "Ortak Kullanım",
+        "card_body": "İlginç bir detay: Apple AirTag cihazları da tıpkı birçok masaüstü bilgisayar gibi CR2032 tipi pil ile çalışır."
+      },
+      {
+        "card_title": "Değişim Sonrası",
+        "card_body": "Pil değişimi sonrası BIOS veya UEFI ayarlarından Intel XMP veya AMD EXPO özelliklerini yeniden etkinleştirmeniz gerekebilir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Pil Biterse Ne Olur?",
+    "cards": [
+      {
+        "card_title": "Zaman Kayması",
+        "card_body": "CMOS pili bittiğinde bilgisayarın tarih ve saati 1 Ocak 2000 veya 1 Ocak 1970 gibi varsayılan değerlere sıfırlanabilir."
+      },
+      {
+        "card_title": "Ayarların Sıfırlanması",
+        "card_body": "Donanım ayarlarının korunması zorlaşır, bu da bilgisayarın açılışında veya performans ayarlarında değişikliklere yol açar."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Bilgisayarınızın tarihinin sürekli sıfırlandığına hiç şahit oldunuz mu?",
+    "reminder_line": "Tekno Pusula ile teknolojinin detaylarını keşfetmeye devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

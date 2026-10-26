@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://www.engadget.com/img/gallery/what-happens-when-your-pcs-cmos-battery-dies/l-intro-1792173458.jpg",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-26/03-1500-what-happens-when-your-pc-s-cmos-battery-dies/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
+      "width": 1600,
+      "height": 899,
+      "alt_text": ""
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir.",
+  "music": [
+    {
+      "title": "Torley Wong - The Final Selection ::: 230 diverse MP3s",
+      "artist": "Torley Wong",
+      "license": "Creative Commons (ticari kullanıma uygun)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/us/",
+      "source_url": "https://archive.org/details/Torley_Wong_-_The_Final_Selection"
+    }
+  ]
+}
