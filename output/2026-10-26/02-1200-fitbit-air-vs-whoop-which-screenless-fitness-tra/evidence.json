@@ -7,12 +7,12 @@
     "Wired",
     "Ars Technica"
   ],
-  "checked_at": "2026-10-26T11:43:48+03:00",
+  "checked_at": "2026-10-26T11:47:22+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Whoop launched its first tracker in 2015.",
+      "claim": "Whoop ilk takipçisini 2015 yılında piyasaya sürdü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "claim": "In March, Whoop raised $575 million, garnering itself a $10 billion valuation.",
+      "claim": "Whoop, mart ayında 575 milyon dolar yatırım alarak 10 milyar dolar değerlemeye ulaştı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "claim": "Google teased it was preparing something like the Air on March 31.",
+      "claim": "Google, 31 Mart'ta Fitbit Air benzeri bir ürün hazırladığını duyurdu.",
       "verdict": "supported",
       "evidence": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "claim": "Newer Whoop models like the Whoop 5.0 and Whoop MG are rated to last 14+ days.",
+      "claim": "Whoop 5.0 ve Whoop MG gibi newer modeller 14 günden fazla pil ömrüne sahiptir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -52,9 +52,13 @@
       ]
     },
     {
-      "claim": "Google says the Fitbit Air lasts up to seven days.",
+      "claim": "Google, Fitbit Air pilinin yedi güne kadar dayandığını belirtmektedir.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/",
+          "quote": "while Google says the Fitbit Air lasts up to seven."
+        },
         {
           "url": "https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/",
           "quote": "Newer Whoop models like the Whoop 5.0 and Whoop MG are rated to last 14+ days while Google says the Fitbit Air lasts up to seven."
@@ -62,7 +66,7 @@
       ]
     },
     {
-      "claim": "Whoop One memberships are sold at $199 per year in the US, MX, CA, EU and UK.",
+      "claim": "ABD, Meksika, Kanada, AB ve İngiltere'de Whoop One üyeliği yıllık 199 dolara satılacaktır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -72,7 +76,7 @@
       ]
     },
     {
-      "claim": "The Fitbit Air comes with a three-month trial to Google Health Premium.",
+      "claim": "Fitbit Air, Google Health Premium için üç aylık deneme süresi ile birlikte gelmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -82,19 +86,19 @@
       ]
     },
     {
-      "claim": "A Whoop membership starts at about $149 for the first year or $25 per month.",
+      "claim": "Google Health Premium'un yıllık planı yılda 100 dolar veya aylık 10 dolardır ve donanım maliyeti 100 dolardır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/",
-          "quote": "A Whoop membership starts at about $149 for the first year ($199 after the first year) or, for those already paying monthly, $25 per month."
+          "quote": "Meanwhile, Google Health Premium will set you back $100 per year (with an annual plan or $10 per month) on top of the hardware cost of $100."
         }
       ]
     }
   ],
   "round1": [
     {
-      "claim": "Whoop launched its first tracker in 2015.",
+      "claim": "Whoop ilk takipçisini 2015 yılında piyasaya sürdü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -104,7 +108,7 @@
       ]
     },
     {
-      "claim": "In March, Whoop raised $575 million, garnering itself a $10 billion valuation.",
+      "claim": "Whoop, mart ayında 575 milyon dolar yatırım alarak 10 milyar dolar değerlemeye ulaştı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -114,7 +118,7 @@
       ]
     },
     {
-      "claim": "Google teased it was preparing something like the Air on March 31.",
+      "claim": "Google, 31 Mart'ta Fitbit Air benzeri bir ürün hazırladığını duyurdu.",
       "verdict": "supported",
       "evidence": [
         {
@@ -124,7 +128,7 @@
       ]
     },
     {
-      "claim": "Newer Whoop models like the Whoop 5.0 and Whoop MG are rated to last 14+ days.",
+      "claim": "Whoop 5.0 ve Whoop MG gibi newer modeller 14 günden fazla pil ömrüne sahiptir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -134,9 +138,13 @@
       ]
     },
     {
-      "claim": "Google says the Fitbit Air lasts up to seven days.",
+      "claim": "Google, Fitbit Air pilinin yedi güne kadar dayandığını belirtmektedir.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/",
+          "quote": "while Google says the Fitbit Air lasts up to seven."
+        },
         {
           "url": "https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/",
           "quote": "Newer Whoop models like the Whoop 5.0 and Whoop MG are rated to last 14+ days while Google says the Fitbit Air lasts up to seven."
@@ -144,7 +152,7 @@
       ]
     },
     {
-      "claim": "Whoop One memberships are sold at $199 per year in the US, MX, CA, EU and UK.",
+      "claim": "ABD, Meksika, Kanada, AB ve İngiltere'de Whoop One üyeliği yıllık 199 dolara satılacaktır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -154,7 +162,7 @@
       ]
     },
     {
-      "claim": "The Fitbit Air comes with a three-month trial to Google Health Premium.",
+      "claim": "Fitbit Air, Google Health Premium için üç aylık deneme süresi ile birlikte gelmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -164,19 +172,19 @@
       ]
     },
     {
-      "claim": "A Whoop membership starts at about $149 for the first year or $25 per month.",
+      "claim": "Google Health Premium'un yıllık planı yılda 100 dolar veya aylık 10 dolardır ve donanım maliyeti 100 dolardır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/",
-          "quote": "A Whoop membership starts at about $149 for the first year ($199 after the first year) or, for those already paying monthly, $25 per month."
+          "quote": "Meanwhile, Google Health Premium will set you back $100 per year (with an annual plan or $10 per month) on top of the hardware cost of $100."
         }
       ]
     }
   ],
   "round2": [
     {
-      "claim": "Whoop launched its first tracker in 2015.",
+      "claim": "Whoop ilk takipçisini 2015 yılında piyasaya sürdü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -186,7 +194,7 @@
       ]
     },
     {
-      "claim": "In March, Whoop raised $575 million, garnering itself a $10 billion valuation.",
+      "claim": "Whoop, mart ayında 575 milyon dolar yatırım alarak 10 milyar dolar değerlemeye ulaştı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -196,7 +204,7 @@
       ]
     },
     {
-      "claim": "Google teased it was preparing something like the Air on March 31.",
+      "claim": "Google, 31 Mart'ta Fitbit Air benzeri bir ürün hazırladığını duyurdu.",
       "verdict": "supported",
       "evidence": [
         {
@@ -206,7 +214,7 @@
       ]
     },
     {
-      "claim": "Newer Whoop models like the Whoop 5.0 and Whoop MG are rated to last 14+ days.",
+      "claim": "Whoop 5.0 ve Whoop MG gibi newer modeller 14 günden fazla pil ömrüne sahiptir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -216,9 +224,13 @@
       ]
     },
     {
-      "claim": "Google says the Fitbit Air lasts up to seven days.",
+      "claim": "Google, Fitbit Air pilinin yedi güne kadar dayandığını belirtmektedir.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/",
+          "quote": "while Google says the Fitbit Air lasts up to seven."
+        },
         {
           "url": "https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/",
           "quote": "Newer Whoop models like the Whoop 5.0 and Whoop MG are rated to last 14+ days while Google says the Fitbit Air lasts up to seven."
@@ -226,7 +238,7 @@
       ]
     },
     {
-      "claim": "Whoop One memberships are sold at $199 per year in the US, MX, CA, EU and UK.",
+      "claim": "ABD, Meksika, Kanada, AB ve İngiltere'de Whoop One üyeliği yıllık 199 dolara satılacaktır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -236,7 +248,7 @@
       ]
     },
     {
-      "claim": "The Fitbit Air comes with a three-month trial to Google Health Premium.",
+      "claim": "Fitbit Air, Google Health Premium için üç aylık deneme süresi ile birlikte gelmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -246,12 +258,12 @@
       ]
     },
     {
-      "claim": "A Whoop membership starts at about $149 for the first year or $25 per month.",
+      "claim": "Google Health Premium'un yıllık planı yılda 100 dolar veya aylık 10 dolardır ve donanım maliyeti 100 dolardır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/",
-          "quote": "A Whoop membership starts at about $149 for the first year ($199 after the first year) or, for those already paying monthly, $25 per month."
+          "quote": "Meanwhile, Google Health Premium will set you back $100 per year (with an annual plan or $10 per month) on top of the hardware cost of $100."
         }
       ]
     }
