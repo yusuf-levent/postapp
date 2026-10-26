@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ DÜNYASI",
+    "title": "Giyilebilir Teknolojide Yeni Gelişmeler",
+    "highlight_words": [
+      "Teknolojide",
+      "Yeni"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Whoop ve Google Fitbit Air hakkında doğrulanmış son detaylar.",
+    "source_tags": [
+      "THE VERGE",
+      "ENGADGET"
+    ]
+  },
+  "context": {
+    "heading": "Piyasadaki Son Durum",
+    "cards": [
+      {
+        "card_title": "Whoop Modelleri",
+        "card_body": "Whoop ilk takipçisini 2015 yılında piyasaya sürdü. Yeni modeller ise dikkat çekiyor."
+      },
+      {
+        "card_title": "Google Hamlesi",
+        "card_body": "Google, 31 Mart tarihinde Air benzeri bir ürün için hazırlık yaptığını duyurdu."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "10 MİLYAR",
+    "stat_caption": "Whoop'un Mart ayında ulaştığı değerleme.",
+    "stat_quote": "Mart ayında 575 milyon dolar yatırımla Whoop, 10 milyar dolar değerlemeye ulaştı."
+  },
+  "details": {
+    "heading": "Cihaz Özellikleri",
+    "cards": [
+      {
+        "card_title": "Pil Ömürleri",
+        "card_body": "Whoop 5.0 ve Whoop MG gibi yeni Whoop modelleri 14 günden uzun pil ömrüne sahip."
+      },
+      {
+        "card_title": "Fitbit Air Pil Ömrü",
+        "card_body": "Google, Fitbit Air modelinin yedi güne kadar pil ömrü sunduğunu belirtiyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Üyelik ve Fiyatlandırma",
+    "cards": [
+      {
+        "card_title": "Whoop Ücretleri",
+        "card_body": "Whoop üyelikleri ilk yıl için yaklaşık 149 dolardan veya aylık 25 dolardan başlıyor."
+      },
+      {
+        "card_title": "Google Health Premium",
+        "card_body": "Fitbit Air, Google Health Premium için üç aylık deneme sürümüyle birlikte geliyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Giyilebilir teknolojilerde uzun pil ömrü sizin için ne kadar önemli?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

@@ -1,0 +1,10 @@
+{
+  "slot": "12:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 101.5,
+  "candidates_tried": 1,
+  "gemini_calls": 16,
+  "canonical_url": "https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/",
+  "generated_at": "2026-10-26T11:45:00+03:00"
+}
