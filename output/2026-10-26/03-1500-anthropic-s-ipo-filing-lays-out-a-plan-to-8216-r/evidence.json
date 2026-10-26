@@ -1,0 +1,187 @@
+{
+  "title": "Anthropic’s IPO filing lays out a plan to &#8216;revolutionize every area of human endeavor&#8217; with AI",
+  "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+  "source_names": [
+    "The Verge",
+    "BBC News – Technology",
+    "Engadget",
+    "TechCrunch"
+  ],
+  "checked_at": "2026-10-26T16:39:55+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission to prepare for an IPO.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+          "quote": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO."
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic plans to list on the Nasdaq exchange under the ticker symbol ANT.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+          "quote": "In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol “ANT.”"
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic confidentially filed with the SEC earlier this year in June.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+          "quote": "The AI company confidentially filed with the SEC earlier this year in June"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+          "quote": "The AI company confidentially filed with the SEC earlier this year in June, but the public document reveals more details"
+        }
+      ]
+    },
+    {
+      "claim": "In the first half of this year, Anthropic had an $80.7 billion net loss.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+          "quote": "According to the S-1, in the first half of this year Anthropic had an $80.7 billion net loss on $16.3 billion in revenue."
+        }
+      ]
+    },
+    {
+      "claim": "In the first half of this year, Anthropic generated $16.3 billion in revenue.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+          "quote": "According to the S-1, in the first half of this year Anthropic had an $80.7 billion net loss on $16.3 billion in revenue."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission to prepare for an IPO.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+          "quote": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO."
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic plans to list on the Nasdaq exchange under the ticker symbol ANT.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+          "quote": "In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol “ANT.”"
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic confidentially filed with the SEC earlier this year in June.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+          "quote": "The AI company confidentially filed with the SEC earlier this year in June"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+          "quote": "The AI company confidentially filed with the SEC earlier this year in June, but the public document reveals more details"
+        }
+      ]
+    },
+    {
+      "claim": "In the first half of this year, Anthropic had an $80.7 billion net loss.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+          "quote": "According to the S-1, in the first half of this year Anthropic had an $80.7 billion net loss on $16.3 billion in revenue."
+        }
+      ]
+    },
+    {
+      "claim": "In the first half of this year, Anthropic generated $16.3 billion in revenue.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+          "quote": "According to the S-1, in the first half of this year Anthropic had an $80.7 billion net loss on $16.3 billion in revenue."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission to prepare for an IPO.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+          "quote": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO."
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic plans to list on the Nasdaq exchange under the ticker symbol ANT.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+          "quote": "In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol “ANT.”"
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic confidentially filed with the SEC earlier this year in June.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+          "quote": "The AI company confidentially filed with the SEC earlier this year in June"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+          "quote": "The AI company confidentially filed with the SEC earlier this year in June, but the public document reveals more details"
+        }
+      ]
+    },
+    {
+      "claim": "In the first half of this year, Anthropic had an $80.7 billion net loss.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+          "quote": "According to the S-1, in the first half of this year Anthropic had an $80.7 billion net loss on $16.3 billion in revenue."
+        }
+      ]
+    },
+    {
+      "claim": "In the first half of this year, Anthropic generated $16.3 billion in revenue.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+          "quote": "According to the S-1, in the first half of this year Anthropic had an $80.7 billion net loss on $16.3 billion in revenue."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec": 1624,
+    "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss": 2694,
+    "https://www.engadget.com/2296535/elvis-presley-estate-suing-ai-company-for-copyright-infringement/": 2380,
+    "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/": 8225
+  }
+}
