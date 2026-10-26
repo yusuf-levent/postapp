@@ -1,0 +1,289 @@
+{
+  "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
+  "canonical_url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+  "source_names": [
+    "The Verge",
+    "TechCrunch",
+    "Wired",
+    "Ars Technica"
+  ],
+  "checked_at": "2026-10-26T21:27:30+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "NBA Top Shot NFT pazar yerindeki satışlar geçen ay 762.781 dolara gerileyerek Şubat 2021'deki 226.350.843 dolarlık zirvesine göre yüzde 99,66'lık bir düşüş yaşadı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843)"
+        }
+      ]
+    },
+    {
+      "claim": "NBA, Pazartesi günü Kalshi ve Polymarket ile yeni tercih edilen tahmin piyasası anlaşmaları yaptığını duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "the NBA announced Monday that it has new “preferred” prediction market deals for Kalshi and Polymarket"
+        }
+      ]
+    },
+    {
+      "claim": "NBA, ABD CFTC ile ilişkilerin nasıl yönetileceğine dair bir mutabakat zaptı imzaladığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "as well as a memorandum of understanding with the US CFTC about how to manage the relationships."
+        }
+      ]
+    },
+    {
+      "claim": "NBA, DraftKings ile olan anlaşmasını tahmin piyasalarını da içerecek şekilde genişlettiğini duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "It also announced an expansion of its DraftKings deal to include prediction markets"
+        }
+      ]
+    },
+    {
+      "claim": "Jontay Porter, 2024 yılında bir kumar ve manipülasyon komplosu suçunu kabul etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "Jontay Porter pleaded guilty to conspiracy over a gambling and manipulation scheme in 2024"
+        },
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "after Jontay Porter pleaded guilty to conspiracy over a gambling and manipulation scheme in 2024"
+        }
+      ]
+    },
+    {
+      "claim": "Malik Beasley'nin benzer suçlamalarla ilgili bir suç anlaşması müzakerelerinde olduğu bildirildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "Malik Beasley is reportedly in negotiations over a plea deal on similar charges"
+        }
+      ]
+    },
+    {
+      "claim": "Eski oyuncu Terry Rozier ve koç Chauncey Billups, sırasıyla prop bahislerini manipüle etmek ve hileli poker oyunlarına katılmak suçlamalarıyla iddianameyle karşı karşıyadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "former player Terry Rozier and coach Chauncey Billups are under indictment on charges of allegedly rigging prop bets and participating in rigged poker games, respectively."
+        },
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "while former player Terry Rozier and coach Chauncey Billups are under indictment on charges of allegedly rigging prop bets and participating in rigged poker games, respectively."
+        }
+      ]
+    },
+    {
+      "claim": "New York Başsavcısı Letitia James, Kalshi ve diğer platformlara dava açan eyalet başsavcılarından biridir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "Currently, New York attorney general Letitia James is just one of many state AGs suing Kalshi and the others"
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "NBA Top Shot NFT pazar yerindeki satışlar geçen ay 762.781 dolara gerileyerek Şubat 2021'deki 226.350.843 dolarlık zirvesine göre yüzde 99,66'lık bir düşüş yaşadı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843)"
+        }
+      ]
+    },
+    {
+      "claim": "NBA, Pazartesi günü Kalshi ve Polymarket ile yeni tercih edilen tahmin piyasası anlaşmaları yaptığını duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "the NBA announced Monday that it has new “preferred” prediction market deals for Kalshi and Polymarket"
+        }
+      ]
+    },
+    {
+      "claim": "NBA, ABD CFTC ile ilişkilerin nasıl yönetileceğine dair bir mutabakat zaptı imzaladığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "as well as a memorandum of understanding with the US CFTC about how to manage the relationships."
+        }
+      ]
+    },
+    {
+      "claim": "NBA, DraftKings ile olan anlaşmasını tahmin piyasalarını da içerecek şekilde genişlettiğini duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "It also announced an expansion of its DraftKings deal to include prediction markets"
+        }
+      ]
+    },
+    {
+      "claim": "Jontay Porter, 2024 yılında bir kumar ve manipülasyon komplosu suçunu kabul etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "Jontay Porter pleaded guilty to conspiracy over a gambling and manipulation scheme in 2024"
+        },
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "after Jontay Porter pleaded guilty to conspiracy over a gambling and manipulation scheme in 2024"
+        }
+      ]
+    },
+    {
+      "claim": "Malik Beasley'nin benzer suçlamalarla ilgili bir suç anlaşması müzakerelerinde olduğu bildirildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "Malik Beasley is reportedly in negotiations over a plea deal on similar charges"
+        }
+      ]
+    },
+    {
+      "claim": "Eski oyuncu Terry Rozier ve koç Chauncey Billups, sırasıyla prop bahislerini manipüle etmek ve hileli poker oyunlarına katılmak suçlamalarıyla iddianameyle karşı karşıyadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "former player Terry Rozier and coach Chauncey Billups are under indictment on charges of allegedly rigging prop bets and participating in rigged poker games, respectively."
+        },
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "while former player Terry Rozier and coach Chauncey Billups are under indictment on charges of allegedly rigging prop bets and participating in rigged poker games, respectively."
+        }
+      ]
+    },
+    {
+      "claim": "New York Başsavcısı Letitia James, Kalshi ve diğer platformlara dava açan eyalet başsavcılarından biridir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "Currently, New York attorney general Letitia James is just one of many state AGs suing Kalshi and the others"
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "NBA Top Shot NFT pazar yerindeki satışlar geçen ay 762.781 dolara gerileyerek Şubat 2021'deki 226.350.843 dolarlık zirvesine göre yüzde 99,66'lık bir düşüş yaşadı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843)"
+        }
+      ]
+    },
+    {
+      "claim": "NBA, Pazartesi günü Kalshi ve Polymarket ile yeni tercih edilen tahmin piyasası anlaşmaları yaptığını duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "the NBA announced Monday that it has new “preferred” prediction market deals for Kalshi and Polymarket"
+        }
+      ]
+    },
+    {
+      "claim": "NBA, ABD CFTC ile ilişkilerin nasıl yönetileceğine dair bir mutabakat zaptı imzaladığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "as well as a memorandum of understanding with the US CFTC about how to manage the relationships."
+        }
+      ]
+    },
+    {
+      "claim": "NBA, DraftKings ile olan anlaşmasını tahmin piyasalarını da içerecek şekilde genişlettiğini duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "It also announced an expansion of its DraftKings deal to include prediction markets"
+        }
+      ]
+    },
+    {
+      "claim": "Jontay Porter, 2024 yılında bir kumar ve manipülasyon komplosu suçunu kabul etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "Jontay Porter pleaded guilty to conspiracy over a gambling and manipulation scheme in 2024"
+        },
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "after Jontay Porter pleaded guilty to conspiracy over a gambling and manipulation scheme in 2024"
+        }
+      ]
+    },
+    {
+      "claim": "Malik Beasley'nin benzer suçlamalarla ilgili bir suç anlaşması müzakerelerinde olduğu bildirildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "Malik Beasley is reportedly in negotiations over a plea deal on similar charges"
+        }
+      ]
+    },
+    {
+      "claim": "Eski oyuncu Terry Rozier ve koç Chauncey Billups, sırasıyla prop bahislerini manipüle etmek ve hileli poker oyunlarına katılmak suçlamalarıyla iddianameyle karşı karşıyadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "former player Terry Rozier and coach Chauncey Billups are under indictment on charges of allegedly rigging prop bets and participating in rigged poker games, respectively."
+        },
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "while former player Terry Rozier and coach Chauncey Billups are under indictment on charges of allegedly rigging prop bets and participating in rigged poker games, respectively."
+        }
+      ]
+    },
+    {
+      "claim": "New York Başsavcısı Letitia James, Kalshi ve diğer platformlara dava açan eyalet başsavcılarından biridir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "quote": "Currently, New York attorney general Letitia James is just one of many state AGs suing Kalshi and the others"
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket": 2054,
+    "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/": 4104,
+    "https://www.wired.com/story/qubitunes-starter-kit-october-2026/": 2892,
+    "https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/": 1455
+  }
+}

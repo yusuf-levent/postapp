@@ -1,0 +1,129 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ VE SPOR",
+    "title": "NBA'in Yeni Tahmin Piyasası Hamleleri ve Pazar Gelişmeleri",
+    "highlight_words": [
+      "Tahmin Piyasası",
+      "NBA"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "NBA ekosistemindeki son ortaklıklar, yasal süreçler ve NFT pazarındaki değişimler.",
+    "source_tags": [
+      "The Verge",
+      "TechCrunch",
+      "Wired",
+      "Ars Technica"
+    ]
+  },
+  "problem": {
+    "heading": "NBA Ekosisteminde Önemli Değişimler",
+    "cards": [
+      {
+        "card_title": "NFT Pazarındaki Düşüş",
+        "card_body": "NBA Top Shot pazar yerindeki satışlar geçen ay 762.781 dolara gerileyerek Şubat 2021'deki 226.350.843 dolarlık zirvesine göre yüzde 99,66'lık bir düşüş yaşadı."
+      },
+      {
+        "card_title": "Yasal Soruşturmalar",
+        "card_body": "Eski oyuncu Terry Rozier ve koç Chauncey Billups, prop bahislerini manipüle etmek ve hileli poker oyunlarına katılmak suçlamalarıyla iddianameyle karşı karşıyadır."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Yeni Tahmin Piyasası Anlaşmaları",
+      "cards": [
+        {
+          "card_title": "Kalshi ve Polymarket",
+          "card_body": "NBA, Pazartesi günü Kalshi ve Polymarket ile yeni tercih edilen tahmin piyasası anlaşmaları yaptığını duyurdu."
+        },
+        {
+          "card_title": "DraftKings Ortaklığı",
+          "card_body": "NBA, DraftKings ile olan anlaşmasını tahmin piyasalarını da içerecek şekilde genişlettiğini duyurdu."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Düzenleyici Kurumlar ve Mutabakatlar",
+      "cards": [
+        {
+          "card_title": "ABD CFTC",
+          "card_body": "NBA, ABD CFTC ile ilişkilerin nasıl yönetileceğine dair bir mutabakat zaptı imzaladığını açıkladı."
+        },
+        {
+          "card_title": "Eyalet Başsavcılıkları",
+          "card_body": "New York Başsavcısı Letitia James, Kalshi ve diğer platformlara dava açan eyalet başsavcılarından biridir."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Disiplin ve Yasal Süreçler",
+      "cards": [
+        {
+          "card_title": "Jontay Porter Suçunu Kabul Etti",
+          "card_body": "Jontay Porter, 2024 yılında bir kumar ve manipülasyon komplosu suçunu kabul etti."
+        },
+        {
+          "card_title": "Malik Beasley Süreci",
+          "card_body": "Malik Beasley'nin benzer suçlamalarla ilgili bir suç anlaşması müzakerelerinde olduğu bildirildi."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "NBA'in tahmin piyasalarıyla yaptığı bu yeni ortaklıklar hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki güvenilir gelişmeler için Tekno Pusula'yı takipte kalın!"
+  },
+  "context": {
+    "heading": "NBA Ekosisteminde Önemli Değişimler",
+    "cards": [
+      {
+        "card_title": "NFT Pazarındaki Düşüş",
+        "card_body": "NBA Top Shot pazar yerindeki satışlar geçen ay 762.781 dolara gerileyerek Şubat 2021'deki 226.350.843 dolarlık zirvesine göre yüzde 99,66'lık bir düşüş yaşadı."
+      },
+      {
+        "card_title": "Yasal Soruşturmalar",
+        "card_body": "Eski oyuncu Terry Rozier ve koç Chauncey Billups, prop bahislerini manipüle etmek ve hileli poker oyunlarına katılmak suçlamalarıyla iddianameyle karşı karşıyadır."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Yeni Tahmin Piyasası Anlaşmaları",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Düzenleyici Kurumlar ve Mutabakatlar",
+    "cards": [
+      {
+        "card_title": "ABD CFTC",
+        "card_body": "NBA, ABD CFTC ile ilişkilerin nasıl yönetileceğine dair bir mutabakat zaptı imzaladığını açıkladı."
+      },
+      {
+        "card_title": "Eyalet Başsavcılıkları",
+        "card_body": "New York Başsavcısı Letitia James, Kalshi ve diğer platformlara dava açan eyalet başsavcılarından biridir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Disiplin ve Yasal Süreçler",
+    "cards": [
+      {
+        "card_title": "Jontay Porter Suçunu Kabul Etti",
+        "card_body": "Jontay Porter, 2024 yılında bir kumar ve manipülasyon komplosu suçunu kabul etti."
+      },
+      {
+        "card_title": "Malik Beasley Süreci",
+        "card_body": "Malik Beasley'nin benzer suçlamalarla ilgili bir suç anlaşması müzakerelerinde olduğu bildirildi."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}
