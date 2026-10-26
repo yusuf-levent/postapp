@@ -1253,5 +1253,78 @@
     ],
     "created_at": "2026-10-26T11:50:37+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-10-26-1500",
+    "date": "2026-10-26",
+    "slot": "15:00",
+    "type": "news",
+    "title_tr": "Anthropic Şirketi IPO İçin Adım Attı",
+    "original_title": "Anthropic’s IPO filing lays out a plan to &#8216;revolutionize every area of human endeavor&#8217; with AI",
+    "source_urls": [
+      "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec"
+    ],
+    "canonical_url": "https://theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+    "entities": [
+      "Anthropic",
+      "Claude",
+      "OpenAI",
+      "Securities and Exchange Commission",
+      "Nasdaq"
+    ],
+    "event_type": "ipo_filing",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6adf58c2ea9e83a81e6f86ee",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6adf58d9db969f175440f1c6",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6adf58f007b13e9a888f0707",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2114714469796303220",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18002273397046084",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/De9atE4lsbd",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6adf590f00bfbbae70043a2e",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6adf59278f8d1eab42d0bcec",
+        "permalink": "https://facebook.com/1351036918092059_122118648993484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-26T16:44:20+03:00",
+    "verified_claims_count": 5
   }
 ]
