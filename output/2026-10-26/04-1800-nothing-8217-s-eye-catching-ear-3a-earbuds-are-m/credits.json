@@ -1,0 +1,27 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268654_Nothing_Ear_3A_JHiggins_0014.jpg?quality=90&amp;strip=all&amp;crop=0%2C14.488902354413%2C100%2C78.534031413613&amp;w=1200",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-26/04-1800-nothing-8217-s-eye-catching-ear-3a-earbuds-are-m/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
+      "width": 3000,
+      "height": 2000,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/7989740/pexels-photo-7989740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-26/04-1800-nothing-8217-s-eye-catching-ear-3a-earbuds-are-m/images/img-2.png",
+      "license": "Pexels License — Carlos Jairo",
+      "author": "Carlos Jairo",
+      "credit_url": "https://www.pexels.com/photo/black-gadgets-on-a-black-surface-7989740/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "A minimalist flat lay of electronic gadgets on a black surface, showcasing modern tech."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}
