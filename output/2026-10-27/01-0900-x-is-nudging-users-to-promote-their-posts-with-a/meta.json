@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 242.2,
+  "candidates_tried": 1,
+  "gemini_calls": 24,
+  "canonical_url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
+  "generated_at": "2026-10-27T09:50:28+03:00"
+}
