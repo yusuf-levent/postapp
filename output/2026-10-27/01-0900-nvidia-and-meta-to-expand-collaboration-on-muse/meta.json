@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 108.7,
+  "candidates_tried": 1,
+  "gemini_calls": 12,
+  "canonical_url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+  "generated_at": "2026-10-27T09:04:26+03:00"
+}

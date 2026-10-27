@@ -1,0 +1,247 @@
+{
+  "title": "NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth",
+  "canonical_url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+  "source_names": [
+    "NVIDIA Newsroom",
+    "TechCrunch",
+    "Meta Newsroom (resmi alternatif)",
+    "NVIDIA Newsroom"
+  ],
+  "checked_at": "2026-10-27T09:03:23+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "NVIDIA ve Meta, Muse ve Muse model ailesi üzerindeki iş birliklerini genişletme kararı aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "quote": "NVIDIA and Meta today announced they will partner to expand their work on Muse and the Muse family of models to improve inference and training performance"
+        }
+      ]
+    },
+    {
+      "claim": "Meta, NVIDIA Vera Rubin ve Vera CPU donanımlarının kullanımını genişletmeyi planlıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "quote": "Meta intends to expand the deployment of NVIDIA infrastructure, including Vera Rubin and Vera CPUs for next-generation AI agents"
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "quote": "Meta intends to expand the deployment of NVIDIA infrastructure, including Vera Rubin and Vera CPUs for next-generation AI agents to deliver maximum performance per watt."
+        }
+      ]
+    },
+    {
+      "claim": "Meta, ağ verimliliğini ve iş hacmini artırmak için NVIDIA Spectrum-X Ethernet ağ teknolojisi ve BlueField-4 kullanacak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "quote": "Meta will also deploy NVIDIA Spectrum-X™ Ethernet networking and BlueField-4® to support network efficiency and throughput."
+        }
+      ]
+    },
+    {
+      "claim": "NVIDIA, Meta'nın hisse senedi arzına 3 milyar dolar yatırım yapacak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "quote": "In addition, NVIDIA will invest $3 billion in Meta’s equity offering."
+        }
+      ]
+    },
+    {
+      "claim": "NVIDIA ve Meta, NVIDIA OpenShell Referans Mimarisi ve NVIDIA Sentry teknolojileri üzerinde iş birliği yapmayı değerlendiriyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "quote": "Meta and NVIDIA will also consider additional collaboration opportunities with NVIDIA on its NVIDIA OpenShell Reference Architecture, including NVIDIA OpenShell™ for safe deployment and NVIDIA Sentry for monitoring agent behavior."
+        }
+      ]
+    },
+    {
+      "claim": "Jensen Huang, NVIDIA'nın kurucusu ve CEO'sudur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "quote": "“AI agents represent a new computing paradigm — software that understands our goals, reasons, uses tools and gets work done on our behalf,” said Jensen Huang, founder and CEO of NVIDIA."
+        }
+      ]
+    },
+    {
+      "claim": "Mark Zuckerberg, Meta'nın kurucusu ve CEO'sudur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "quote": "“Muse is how we bring personal superintelligence to everyone. We’re excited to keep working with NVIDIA to deliver the best personal agents and frontier models for billions of people,” said Mark Zuckerberg, founder and CEO of Meta."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "NVIDIA ve Meta, Muse ve Muse model ailesi üzerindeki iş birliklerini genişletme kararı aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "quote": "NVIDIA and Meta today announced they will partner to expand their work on Muse and the Muse family of models to improve inference and training performance"
+        }
+      ]
+    },
+    {
+      "claim": "Meta, NVIDIA Vera Rubin ve Vera CPU donanımlarının kullanımını genişletmeyi planlıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "quote": "Meta intends to expand the deployment of NVIDIA infrastructure, including Vera Rubin and Vera CPUs for next-generation AI agents"
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "quote": "Meta intends to expand the deployment of NVIDIA infrastructure, including Vera Rubin and Vera CPUs for next-generation AI agents to deliver maximum performance per watt."
+        }
+      ]
+    },
+    {
+      "claim": "Meta, ağ verimliliğini ve iş hacmini artırmak için NVIDIA Spectrum-X Ethernet ağ teknolojisi ve BlueField-4 kullanacak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "quote": "Meta will also deploy NVIDIA Spectrum-X™ Ethernet networking and BlueField-4® to support network efficiency and throughput."
+        }
+      ]
+    },
+    {
+      "claim": "NVIDIA, Meta'nın hisse senedi arzına 3 milyar dolar yatırım yapacak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "quote": "In addition, NVIDIA will invest $3 billion in Meta’s equity offering."
+        }
+      ]
+    },
+    {
+      "claim": "NVIDIA ve Meta, NVIDIA OpenShell Referans Mimarisi ve NVIDIA Sentry teknolojileri üzerinde iş birliği yapmayı değerlendiriyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "quote": "Meta and NVIDIA will also consider additional collaboration opportunities with NVIDIA on its NVIDIA OpenShell Reference Architecture, including NVIDIA OpenShell™ for safe deployment and NVIDIA Sentry for monitoring agent behavior."
+        }
+      ]
+    },
+    {
+      "claim": "Jensen Huang, NVIDIA'nın kurucusu ve CEO'sudur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "quote": "“AI agents represent a new computing paradigm — software that understands our goals, reasons, uses tools and gets work done on our behalf,” said Jensen Huang, founder and CEO of NVIDIA."
+        }
+      ]
+    },
+    {
+      "claim": "Mark Zuckerberg, Meta'nın kurucusu ve CEO'sudur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "quote": "“Muse is how we bring personal superintelligence to everyone. We’re excited to keep working with NVIDIA to deliver the best personal agents and frontier models for billions of people,” said Mark Zuckerberg, founder and CEO of Meta."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "NVIDIA ve Meta, Muse ve Muse model ailesi üzerindeki iş birliklerini genişletme kararı aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "quote": "NVIDIA and Meta today announced they will partner to expand their work on Muse and the Muse family of models to improve inference and training performance"
+        }
+      ]
+    },
+    {
+      "claim": "Meta, NVIDIA Vera Rubin ve Vera CPU donanımlarının kullanımını genişletmeyi planlıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "quote": "Meta intends to expand the deployment of NVIDIA infrastructure, including Vera Rubin and Vera CPUs for next-generation AI agents"
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "quote": "Meta intends to expand the deployment of NVIDIA infrastructure, including Vera Rubin and Vera CPUs for next-generation AI agents to deliver maximum performance per watt."
+        }
+      ]
+    },
+    {
+      "claim": "Meta, ağ verimliliğini ve iş hacmini artırmak için NVIDIA Spectrum-X Ethernet ağ teknolojisi ve BlueField-4 kullanacak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "quote": "Meta will also deploy NVIDIA Spectrum-X™ Ethernet networking and BlueField-4® to support network efficiency and throughput."
+        }
+      ]
+    },
+    {
+      "claim": "NVIDIA, Meta'nın hisse senedi arzına 3 milyar dolar yatırım yapacak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "quote": "In addition, NVIDIA will invest $3 billion in Meta’s equity offering."
+        }
+      ]
+    },
+    {
+      "claim": "NVIDIA ve Meta, NVIDIA OpenShell Referans Mimarisi ve NVIDIA Sentry teknolojileri üzerinde iş birliği yapmayı değerlendiriyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "quote": "Meta and NVIDIA will also consider additional collaboration opportunities with NVIDIA on its NVIDIA OpenShell Reference Architecture, including NVIDIA OpenShell™ for safe deployment and NVIDIA Sentry for monitoring agent behavior."
+        }
+      ]
+    },
+    {
+      "claim": "Jensen Huang, NVIDIA'nın kurucusu ve CEO'sudur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "quote": "“AI agents represent a new computing paradigm — software that understands our goals, reasons, uses tools and gets work done on our behalf,” said Jensen Huang, founder and CEO of NVIDIA."
+        }
+      ]
+    },
+    {
+      "claim": "Mark Zuckerberg, Meta'nın kurucusu ve CEO'sudur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "quote": "“Muse is how we bring personal superintelligence to everyone. We’re excited to keep working with NVIDIA to deliver the best personal agents and frontier models for billions of people,” said Mark Zuckerberg, founder and CEO of Meta."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth": 2547,
+    "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/": 6941,
+    "https://about.fb.com/news/2026/10/new-tools-for-the-admins-who-build-communities-on-forum/": 3167,
+    "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/": 7861
+  }
+}
