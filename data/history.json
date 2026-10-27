@@ -1471,5 +1471,74 @@
     ],
     "created_at": "2026-10-27T11:44:35+03:00",
     "verified_claims_count": 5
+  },
+  {
+    "id": "2026-10-27-1500",
+    "date": "2026-10-27",
+    "slot": "15:00",
+    "type": "news",
+    "title_tr": "Üretimde Veri ve Yapay Zeka Dönüşümü",
+    "original_title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+    "source_urls": [
+      "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/"
+    ],
+    "canonical_url": "https://technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing",
+    "entities": [
+      "Microsoft"
+    ],
+    "event_type": "sponsored_article",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae08e52a21f4739ba9bc01f",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae08e6998c25f90461c1fc2",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae08e8098c25f90461c248a",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2115046861266464908",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "17935813113404056",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/De_x3OmFnDr",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae08ea383416db301eba4e1",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae08ebaa21f4739ba9bdd9c",
+        "permalink": "https://facebook.com/1351036918092059_122118886173484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-27T14:45:11+03:00",
+    "verified_claims_count": 5
   }
 ]

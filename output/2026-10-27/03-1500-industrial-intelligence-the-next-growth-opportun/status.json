@@ -1,0 +1,53 @@
+{
+  "dry_run": false,
+  "platforms": {
+    "instagram": {
+      "platform": "instagram",
+      "state": "published",
+      "external_id": "6ae08e52a21f4739ba9bc01f",
+      "permalink": "",
+      "attempts": 1,
+      "last_error": ""
+    },
+    "tiktok": {
+      "platform": "tiktok",
+      "state": "published",
+      "external_id": "6ae08e6998c25f90461c1fc2",
+      "permalink": "",
+      "attempts": 1,
+      "last_error": ""
+    },
+    "x": {
+      "platform": "x",
+      "state": "published",
+      "external_id": "6ae08e8098c25f90461c248a",
+      "permalink": "https://twitter.com/tekno_pusulatr/status/2115046861266464908",
+      "attempts": 1,
+      "last_error": ""
+    },
+    "threads": {
+      "platform": "threads",
+      "state": "published",
+      "external_id": "17935813113404056",
+      "permalink": "https://www.threads.com/@tekno_pusula/post/De_x3OmFnDr",
+      "attempts": 1,
+      "last_error": ""
+    },
+    "linkedin": {
+      "platform": "linkedin",
+      "state": "published",
+      "external_id": "6ae08ea383416db301eba4e1",
+      "permalink": "",
+      "attempts": 1,
+      "last_error": ""
+    },
+    "facebook": {
+      "platform": "facebook",
+      "state": "published",
+      "external_id": "6ae08ebaa21f4739ba9bdd9c",
+      "permalink": "https://facebook.com/1351036918092059_122118886173484840",
+      "attempts": 1,
+      "last_error": ""
+    }
+  }
+}
