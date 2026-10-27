@@ -1,0 +1,112 @@
+{
+  "cover": {
+    "category_label": "YENİ NESİL ARAÇLAR",
+    "title": "Ford Fathom ve Yeni EV Şarj Cihazları",
+    "highlight_words": [
+      "Fathom",
+      "EV Şarj"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Elektrikli kamyonetler eve ve şebekeye nasıl güç veriyor?",
+    "source_tags": [
+      "TechCrunch",
+      "The Verge",
+      "Engadget"
+    ]
+  },
+  "problem": {
+    "heading": "Fathom ve Şarj Sistemleri",
+    "cards": [
+      {
+        "card_title": "Fiyat ve Başlangıç",
+        "card_body": "Ford, Fathom pickup modelinin 28.350 dolardan başlayacağını açıkladı."
+      },
+      {
+        "card_title": "Güç Kapasitesi",
+        "card_body": "Fathom, eve 10 kW'tan fazla güç sağlama kapasitesine sahip olacak."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Yeni Şarj Cihazı Seçenekleri",
+      "cards": [
+        {
+          "card_title": "Home Power Station",
+          "card_body": "Yaklaşık 650 dolar fiyatla sunulacak; ilk nesil çift yönlü şarj cihazından yüzde 50 daha ucuz."
+        },
+        {
+          "card_title": "Home Backup Power",
+          "card_body": "Yaklaşık 2.100 dolar maliyeti olan paket, ilk nesil ürüne göre yüzde 60 daha ucuz."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Kurulum ve Maliyetler",
+      "cards": [
+        {
+          "card_title": "Mevcut V2X Şarj Cihazları",
+          "card_body": "Gerekli elektrik işlerine bağlı olarak kurulum maliyetleri 10.000 dolara kadar çıkabiliyor."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Sanal Güç Santralleri ve Kazanç",
+      "cards": [
+        {
+          "card_title": "Elektrik Satışı",
+          "card_body": "Sanal güç santrallerine kaydolan ve şebekeye elektrik satan Fathom sahipleri yılda 1.000 doların üzerinde ödeme alabilir."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Fathom'un eve ve şebekeye güç sağlama özelliğini nasıl buluyorsun?",
+    "reminder_line": "Teknoloji gelişmelerini kaçırmamak için bizi takip et!"
+  },
+  "context": {
+    "heading": "Fathom ve Şarj Sistemleri",
+    "cards": [
+      {
+        "card_title": "Fiyat ve Başlangıç",
+        "card_body": "Ford, Fathom pickup modelinin 28.350 dolardan başlayacağını açıkladı."
+      },
+      {
+        "card_title": "Güç Kapasitesi",
+        "card_body": "Fathom, eve 10 kW'tan fazla güç sağlama kapasitesine sahip olacak."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Yeni Şarj Cihazı Seçenekleri",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Kurulum ve Maliyetler",
+    "cards": [
+      {
+        "card_title": "Mevcut V2X Şarj Cihazları",
+        "card_body": "Gerekli elektrik işlerine bağlı olarak kurulum maliyetleri 10.000 dolara kadar çıkabiliyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sanal Güç Santralleri ve Kazanç",
+    "cards": [
+      {
+        "card_title": "Elektrik Satışı",
+        "card_body": "Sanal güç santrallerine kaydolan ve şebekeye elektrik satan Fathom sahipleri yılda 1.000 doların üzerinde ödeme alabilir."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}

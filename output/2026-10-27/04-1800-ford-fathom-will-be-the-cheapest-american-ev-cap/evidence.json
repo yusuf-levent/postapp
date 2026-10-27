@@ -1,0 +1,247 @@
+{
+  "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
+  "canonical_url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+  "source_names": [
+    "TechCrunch",
+    "The Verge",
+    "Apple Newsroom",
+    "Engadget"
+  ],
+  "checked_at": "2026-10-27T17:52:22+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Ford announced two new EV chargers that will allow its forthcoming Fathom pickup truck to serve as a battery delivering power to the home or grid.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+          "quote": "Ford announced two new EV chargers today that will allow its forthcoming Fathom pickup truck to serve as a battery capable of delivering power to the home or grid."
+        }
+      ]
+    },
+    {
+      "claim": "Ford said the Fathom pickup truck will start at $28,350.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+          "quote": "Ford said the Fathom itself will start at $28,350."
+        }
+      ]
+    },
+    {
+      "claim": "The Fathom will be capable of delivering over 10 kW of power to a home.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+          "quote": "The Fathom will be capable of delivering “over 10 kW” to a home, Ford said."
+        }
+      ]
+    },
+    {
+      "claim": "The Home Power Station device will cost around $650, which is about 50% less than its first generation bidirectional charger.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+          "quote": "The automaker says it will cost around $650, about 50% less than its first generation bidirectional charger."
+        }
+      ]
+    },
+    {
+      "claim": "The Home Backup Power package will cost around $2,100, about 60% less than its first generation product.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+          "quote": "Ford says the package will cost around $2,100, about 60% less than its first generation product."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+          "quote": "The other option, Home Backup Power, is a package that bundles the Home Power Station with a second device, the Home Backup Panel, to allow the Fathom to also power parts or all of a home when the power goes out. Ford says the package will cost around $2,100, about 60% less than its first generation product."
+        }
+      ]
+    },
+    {
+      "claim": "Installation costs for existing V2X chargers can run up to $10,000 depending on the electrical work needed.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+          "quote": "None of those prices include installation, which for existing V2X chargers can run up to $10,000, depending on how much electrical work needs to be done to prepare the home."
+        }
+      ]
+    },
+    {
+      "claim": "Payouts for Fathom owners who enroll in virtual power plants and sell electricity back to the grid can be upwards of $1,000 per year.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+          "quote": "Fathom owners who enroll and keep their truck plugged in can sell electricity back to the grid, often at a premium. Ford did not say how much Fathom owners can stand to make, but the payouts can be upwards of $1,000 per year, depending on the grid’s needs and the level of participation."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Ford announced two new EV chargers that will allow its forthcoming Fathom pickup truck to serve as a battery delivering power to the home or grid.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+          "quote": "Ford announced two new EV chargers today that will allow its forthcoming Fathom pickup truck to serve as a battery capable of delivering power to the home or grid."
+        }
+      ]
+    },
+    {
+      "claim": "Ford said the Fathom pickup truck will start at $28,350.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+          "quote": "Ford said the Fathom itself will start at $28,350."
+        }
+      ]
+    },
+    {
+      "claim": "The Fathom will be capable of delivering over 10 kW of power to a home.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+          "quote": "The Fathom will be capable of delivering “over 10 kW” to a home, Ford said."
+        }
+      ]
+    },
+    {
+      "claim": "The Home Power Station device will cost around $650, which is about 50% less than its first generation bidirectional charger.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+          "quote": "The automaker says it will cost around $650, about 50% less than its first generation bidirectional charger."
+        }
+      ]
+    },
+    {
+      "claim": "The Home Backup Power package will cost around $2,100, about 60% less than its first generation product.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+          "quote": "Ford says the package will cost around $2,100, about 60% less than its first generation product."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+          "quote": "The other option, Home Backup Power, is a package that bundles the Home Power Station with a second device, the Home Backup Panel, to allow the Fathom to also power parts or all of a home when the power goes out. Ford says the package will cost around $2,100, about 60% less than its first generation product."
+        }
+      ]
+    },
+    {
+      "claim": "Installation costs for existing V2X chargers can run up to $10,000 depending on the electrical work needed.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+          "quote": "None of those prices include installation, which for existing V2X chargers can run up to $10,000, depending on how much electrical work needs to be done to prepare the home."
+        }
+      ]
+    },
+    {
+      "claim": "Payouts for Fathom owners who enroll in virtual power plants and sell electricity back to the grid can be upwards of $1,000 per year.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+          "quote": "Fathom owners who enroll and keep their truck plugged in can sell electricity back to the grid, often at a premium. Ford did not say how much Fathom owners can stand to make, but the payouts can be upwards of $1,000 per year, depending on the grid’s needs and the level of participation."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Ford announced two new EV chargers that will allow its forthcoming Fathom pickup truck to serve as a battery delivering power to the home or grid.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+          "quote": "Ford announced two new EV chargers today that will allow its forthcoming Fathom pickup truck to serve as a battery capable of delivering power to the home or grid."
+        }
+      ]
+    },
+    {
+      "claim": "Ford said the Fathom pickup truck will start at $28,350.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+          "quote": "Ford said the Fathom itself will start at $28,350."
+        }
+      ]
+    },
+    {
+      "claim": "The Fathom will be capable of delivering over 10 kW of power to a home.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+          "quote": "The Fathom will be capable of delivering “over 10 kW” to a home, Ford said."
+        }
+      ]
+    },
+    {
+      "claim": "The Home Power Station device will cost around $650, which is about 50% less than its first generation bidirectional charger.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+          "quote": "The automaker says it will cost around $650, about 50% less than its first generation bidirectional charger."
+        }
+      ]
+    },
+    {
+      "claim": "The Home Backup Power package will cost around $2,100, about 60% less than its first generation product.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+          "quote": "Ford says the package will cost around $2,100, about 60% less than its first generation product."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+          "quote": "The other option, Home Backup Power, is a package that bundles the Home Power Station with a second device, the Home Backup Panel, to allow the Fathom to also power parts or all of a home when the power goes out. Ford says the package will cost around $2,100, about 60% less than its first generation product."
+        }
+      ]
+    },
+    {
+      "claim": "Installation costs for existing V2X chargers can run up to $10,000 depending on the electrical work needed.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+          "quote": "None of those prices include installation, which for existing V2X chargers can run up to $10,000, depending on how much electrical work needs to be done to prepare the home."
+        }
+      ]
+    },
+    {
+      "claim": "Payouts for Fathom owners who enroll in virtual power plants and sell electricity back to the grid can be upwards of $1,000 per year.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+          "quote": "Fathom owners who enroll and keep their truck plugged in can sell electricity back to the grid, often at a premium. Ford did not say how much Fathom owners can stand to make, but the payouts can be upwards of $1,000 per year, depending on the grid’s needs and the level of participation."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/": 3049,
+    "https://www.theverge.com/transportation/1018784/ford-fathom-bidirectional-charging-inverter-power-station-cost": 3374,
+    "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/": 12738,
+    "https://www.engadget.com/2295333/iphone-lockdown-mode-pros-cons/": 4095
+  }
+}
