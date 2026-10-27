@@ -1,0 +1,10 @@
+{
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 174.2,
+  "candidates_tried": 1,
+  "gemini_calls": 18,
+  "canonical_url": "https://www.engadget.com/2296036/why-buying-mac-mini-over-macbook-smarter-move/",
+  "generated_at": "2026-10-27T21:09:53+03:00"
+}

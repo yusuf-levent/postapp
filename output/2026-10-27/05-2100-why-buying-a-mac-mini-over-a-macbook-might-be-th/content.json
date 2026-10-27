@@ -1,0 +1,68 @@
+{
+  "cover": {
+    "category_label": "YENİ TEKNOLOJİLER",
+    "title": "En Uygun Fiyatlı MacBook Modeli Duyuruldu",
+    "highlight_words": [
+      "MacBook Neo"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Apple ekosistemine giriş artık daha erişilebilir fiyatlarla mümkün.",
+    "source_tags": [
+      "THE VERGE",
+      "ENGADGET"
+    ]
+  },
+  "context": {
+    "heading": "Yeni Cihazın Öne Çıkan Özellikleri",
+    "cards": [
+      {
+        "card_title": "MacBook Neo",
+        "card_body": "Serinin en ucuz modeli olan MacBook Neo, 699 dolardan başlayan fiyat etiketiyle raflardaki yerini alıyor."
+      },
+      {
+        "card_title": "Donanım Gücü",
+        "card_body": "Bu yeni model gücünü A18 Pro çipinden alırken, sistemde 8GB RAM yer alıyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "$699",
+    "stat_caption": "MacBook Neo modelinin başlangıç fiyatı",
+    "stat_quote": "Apple, A18 Pro çipine sahip yeni ve daha ekonomik dizüstü bilgisayarını duyurdu."
+  },
+  "details": {
+    "heading": "Mac mini Detayları",
+    "cards": [
+      {
+        "card_title": "Fiyat ve Bellek",
+        "card_body": "Mac mini'nin taban modeli 899 dolardan başlıyor ve en son M6 çipi ile 16GB RAM barındırıyor."
+      },
+      {
+        "card_title": "Soğutma ve Bağlantı",
+        "card_body": "Cihaz fanlı soğutma sistemine sahip. Ayrıca USB-C Thunderbolt, Ethernet, HDMI ve kulaklık jakı sunuyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektör ve Kullanıcı Etkisi",
+    "cards": [
+      {
+        "card_title": "Giriş Seviyesi",
+        "card_body": "MacBook Air 1.299 dolardan satılırken, 699 dolarlık model yeni bir alternatif oluşturuyor."
+      },
+      {
+        "card_title": "Performans",
+        "card_body": "Mac mini üzerindeki M6 çipi ve 16GB RAM kombinasyonu güçlü bir taban sunuyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Yeni MacBook Neo'nun fiyatını ve özelliklerini nasıl buldunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
