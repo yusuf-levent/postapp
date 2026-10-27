@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA",
+    "title": "OpenAI'dan Yeni Asistan: Dots",
+    "highlight_words": [
+      "Dots",
+      "Yeni"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "OpenAI, geliştirici gününde tanıttığı yeni yapay zeka asistanı Dots'u kullanıma sundu.",
+    "source_tags": [
+      "TECHCRUNCH",
+      "OPENAI NEWS"
+    ]
+  },
+  "context": {
+    "heading": "Dots Neler Sunuyor?",
+    "cards": [
+      {
+        "card_title": "Gelişmiş Entegrasyon",
+        "card_body": "Dots asistanı; takvim, e-posta ve bilgisayar gibi temel araçlara bağlanarak kullanıcıların iş akışlarına dahil olabiliyor."
+      },
+      {
+        "card_title": "Erişim ve Kullanım",
+        "card_body": "Yeni asistan, aylık 100 dolardan başlayan fiyatlarla Pro veya daha üst abonelik paketine sahip kullanıcılara sunuluyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "100$",
+    "stat_caption": "Dots asistanına erişim için gereken aylık minimum abonelik ücreti.",
+    "stat_quote": "OpenAI, Dots asistanının yeteneklerini geliştirmek için ödeme işlemcileriyle görüşmeler yürütüyor."
+  },
+  "details": {
+    "heading": "Gizlilik ve Kontrol",
+    "cards": [
+      {
+        "card_title": "Kullanıcı Kontrolü",
+        "card_body": "Kullanıcılar, model eğitimini kapatma ve asistanın bilgisayarlarındaki kaynaklara erişimini kontrol etme imkanına sahip."
+      },
+      {
+        "card_title": "Erişim Sınırları",
+        "card_body": "OpenAI, Dots asistanının bulut sürücülerine salt okunur erişim talebini kabul etmiyor."
+      },
+      {
+        "card_title": "Yönetim Ekibi",
+        "card_body": "Alexander Embiricos, OpenAI bünyesinde kurumsal ürün ekibini yöneten isim olarak öne çıkıyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Yansımalar",
+    "cards": [
+      {
+        "card_title": "Rekabet Artıyor",
+        "card_body": "Meta'nın Muse adlı yapay zeka asistanını pazarladığı bir dönemde, OpenAI'ın Dots hamlesi rekabeti kızıştırıyor."
+      },
+      {
+        "card_title": "İş Akışında Dönüşüm",
+        "card_body": "Bilgisayar ve e-posta gibi araçlarla doğrudan entegre olan asistanlar, profesyonel kullanıcıların çalışma biçimini değiştirebilir."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Bilgisayarınıza doğrudan erişebilen bir yapay zeka asistanı kullanmaya hazır mısınız?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri takip etmek için Tekno Pusula'yı izlemeye devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

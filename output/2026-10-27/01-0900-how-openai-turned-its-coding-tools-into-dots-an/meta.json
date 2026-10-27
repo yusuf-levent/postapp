@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 161.2,
+  "candidates_tried": 1,
+  "gemini_calls": 16,
+  "canonical_url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+  "generated_at": "2026-10-27T08:44:34+03:00"
+}

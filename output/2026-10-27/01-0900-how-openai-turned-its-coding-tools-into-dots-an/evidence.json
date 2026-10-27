@@ -1,0 +1,277 @@
+{
+  "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+  "canonical_url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+  "source_names": [
+    "TechCrunch",
+    "The Verge",
+    "OpenAI News",
+    "BBC News – Technology"
+  ],
+  "checked_at": "2026-10-27T08:42:31+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "OpenAI, dots adlı yapay zeka asistanını Eylül ayı sonundaki geliştirici gününde piyasaya sürdü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "The company released dots, its assistant offering, at its developer day in late September."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI'ın dots asistanı, aylık 100 dolardan başlayan fiyatlarla Pro veya daha üst abonelik paketine sahip kullanıcılara sunulmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "The assistant is available in the ChatGPT desktop and mobile apps to subscribers on the Pro tier or higher, with plans starting at $100 a month."
+        }
+      ]
+    },
+    {
+      "claim": "Alexander Embiricos, OpenAI'ın kurumsal ürün ekibini yönetmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "Alexander Embiricos, who leads OpenAI’s enterprise product team, joined us at TechCrunch Disrupt this month"
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, dots asistanı için kullanıcıların model eğitimini kapatmasına ve asistanın bilgisayarlarındaki kaynaklara erişimini kontrol etmesine olanak tanıyan gizlilik ayarları sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "With dots, OpenAI says that the agent has the same privacy controls as ChatGPT itself: Users can turn off model training (stopping OpenAI from using their conversations to improve its AI), and control what resources it accesses within your computer and how."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, dots asistanının takvim, e-posta ve bilgisayar gibi araçlara bağlanarak çalışabildiğini belirtmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "Once it is connected to your calendar, email, computer and other tools, the agent tries to help you get your work done."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, dots asistanının bulut sürücülerine salt okunur erişim talebini kabul etmemektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "For example, it refuses to accept read-only access to cloud drives."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "Still, those controls aren’t granular and the app can be pushy. For example, it refuses to accept read-only access to cloud drives."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, dots asistanının yeteneklerini geliştirmek için ödeme işlemcileriyle görüşmeler yürütmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "I probably can’t say too much here, but we’re deep in lots of conversations with payment processors."
+        }
+      ]
+    },
+    {
+      "claim": "Meta, Muse adlı yapay zeka asistanını pazarlamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "Meta put the full force of its marketing behind its assistant, Muse."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "OpenAI, dots adlı yapay zeka asistanını Eylül ayı sonundaki geliştirici gününde piyasaya sürdü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "The company released dots, its assistant offering, at its developer day in late September."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI'ın dots asistanı, aylık 100 dolardan başlayan fiyatlarla Pro veya daha üst abonelik paketine sahip kullanıcılara sunulmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "The assistant is available in the ChatGPT desktop and mobile apps to subscribers on the Pro tier or higher, with plans starting at $100 a month."
+        }
+      ]
+    },
+    {
+      "claim": "Alexander Embiricos, OpenAI'ın kurumsal ürün ekibini yönetmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "Alexander Embiricos, who leads OpenAI’s enterprise product team, joined us at TechCrunch Disrupt this month"
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, dots asistanı için kullanıcıların model eğitimini kapatmasına ve asistanın bilgisayarlarındaki kaynaklara erişimini kontrol etmesine olanak tanıyan gizlilik ayarları sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "With dots, OpenAI says that the agent has the same privacy controls as ChatGPT itself: Users can turn off model training (stopping OpenAI from using their conversations to improve its AI), and control what resources it accesses within your computer and how."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, dots asistanının takvim, e-posta ve bilgisayar gibi araçlara bağlanarak çalışabildiğini belirtmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "Once it is connected to your calendar, email, computer and other tools, the agent tries to help you get your work done."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, dots asistanının bulut sürücülerine salt okunur erişim talebini kabul etmemektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "For example, it refuses to accept read-only access to cloud drives."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "Still, those controls aren’t granular and the app can be pushy. For example, it refuses to accept read-only access to cloud drives."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, dots asistanının yeteneklerini geliştirmek için ödeme işlemcileriyle görüşmeler yürütmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "I probably can’t say too much here, but we’re deep in lots of conversations with payment processors."
+        }
+      ]
+    },
+    {
+      "claim": "Meta, Muse adlı yapay zeka asistanını pazarlamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "Meta put the full force of its marketing behind its assistant, Muse."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "OpenAI, dots adlı yapay zeka asistanını Eylül ayı sonundaki geliştirici gününde piyasaya sürdü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "The company released dots, its assistant offering, at its developer day in late September."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI'ın dots asistanı, aylık 100 dolardan başlayan fiyatlarla Pro veya daha üst abonelik paketine sahip kullanıcılara sunulmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "The assistant is available in the ChatGPT desktop and mobile apps to subscribers on the Pro tier or higher, with plans starting at $100 a month."
+        }
+      ]
+    },
+    {
+      "claim": "Alexander Embiricos, OpenAI'ın kurumsal ürün ekibini yönetmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "Alexander Embiricos, who leads OpenAI’s enterprise product team, joined us at TechCrunch Disrupt this month"
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, dots asistanı için kullanıcıların model eğitimini kapatmasına ve asistanın bilgisayarlarındaki kaynaklara erişimini kontrol etmesine olanak tanıyan gizlilik ayarları sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "With dots, OpenAI says that the agent has the same privacy controls as ChatGPT itself: Users can turn off model training (stopping OpenAI from using their conversations to improve its AI), and control what resources it accesses within your computer and how."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, dots asistanının takvim, e-posta ve bilgisayar gibi araçlara bağlanarak çalışabildiğini belirtmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "Once it is connected to your calendar, email, computer and other tools, the agent tries to help you get your work done."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, dots asistanının bulut sürücülerine salt okunur erişim talebini kabul etmemektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "For example, it refuses to accept read-only access to cloud drives."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "Still, those controls aren’t granular and the app can be pushy. For example, it refuses to accept read-only access to cloud drives."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, dots asistanının yeteneklerini geliştirmek için ödeme işlemcileriyle görüşmeler yürütmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "I probably can’t say too much here, but we’re deep in lots of conversations with payment processors."
+        }
+      ]
+    },
+    {
+      "claim": "Meta, Muse adlı yapay zeka asistanını pazarlamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "quote": "Meta put the full force of its marketing behind its assistant, Muse."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/": 7112,
+    "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics": 4387,
+    "https://openai.com/index/greptile-code-review-codex-astra": 3248,
+    "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss": 5369
+  }
+}
