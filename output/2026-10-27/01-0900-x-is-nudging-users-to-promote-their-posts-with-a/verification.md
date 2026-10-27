@@ -3,52 +3,42 @@
 **Haber:** X is nudging users to promote their posts with a pointing hand, and people are confused
 **Canonical URL:** https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/
 **Kaynaklar:** TechCrunch, The Verge, BBC News – Technology, Ars Technica
-**Kontrol zamanı:** 2026-10-27T10:03:25+03:00
+**Kontrol zamanı:** 2026-10-27T10:12:19+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
 
 ## İddia Bazlı Sonuçlar
 
-### 1. Son 24 saat içinde, birçok kullanıcı yazı yazarken promote butonunu gösteren gizli bir el işaretinin çıktığını paylaştı.
+### 1. Son 24 saat içinde, kullanıcılar bir gönderi yazarken "tanıt" düğmesini gösteren gizemli bir el işaretinin belirdiğini bildirdi.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/](https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/)
     > Over the last 24 hours, a growing number of users have posted that a mysterious hand pointing to the “promote” button suddenly showed up while they were writing a post.
 
-### 2. TBPN podcast başkanı Dylan Abruscato, bu etkileşim hilesini Nikita Bier ile ilişkilendirdi.
+### 2. TBPN podcast’inin başkanı Dylan Abruscato, bu etkileşim hilesini X’in eski ürün müdürü Nikita Bier ile ilişkilendirdi.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/](https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/)
     > TBPN podcast’s president Dylan Abruscato said that this engagement trick was the “most Nikita-coded thing I’ve ever seen,” a nod to the growth tactics associated with Nikita Bier, X’s former head of product.
 
-### 3. Nikita Bier, X'in eski ürün başkanıdır.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/](https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/)
-    > Nikita Bier, X’s former head of product.
-  - [https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/](https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/)
-    > a nod to the growth tactics associated with Nikita Bier, X’s former head of product.
-
-### 4. Nikita Bier Ağustos ayında platformdan ayrıldı.
+### 3. Nikita Bier, yaklaşık bir yıl görev yaptıktan sonra ağustos ayında platformdan ayrıldı.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/](https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/)
     > Bier left the platform in August after almost a year at the helm.
 
-### 5. Peter Sellis, X'in yeni ürün şefi olarak görevi devraldı.
+### 4. Pazartesi günü Peter Sellis, X’in ürün şefi olarak görevi devraldığını açıkladı.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
-  - [https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/](https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/)
-    > Peter Sellis, posted that he has taken over as X’s product chief.
   - [https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/](https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/)
     > On Monday, Bier’s former boss and ex-head of product for Snap and Discord, Peter Sellis, posted that he has taken over as X’s product chief.
 
-### 6. Peter Sellis, X'in eski ürün başkanı Bier'in eski yöneticisidir ve Snap ile Discord'un eski ürün başkanıdır.
+### 5. Peter Sellis, daha önce Snap ve Discord'da ürün başkanı olarak görev yapmıştır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/](https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/)
-    > On Monday, Bier’s former boss and ex-head of product for Snap and Discord, Peter Sellis, posted that he has taken over as X’s product chief.
+    > Bier’s former boss and ex-head of product for Snap and Discord, Peter Sellis
 
 ---
 
@@ -56,12 +46,11 @@
 
 | İddia | 1. Tur | 2. Tur | Nihai |
 |-------|--------|--------|-------|
-| Son 24 saat içinde, birçok kullanıcı yazı yazarken promote b | supported | supported | supported |
-| TBPN podcast başkanı Dylan Abruscato, bu etkileşim hilesini  | supported | supported | supported |
-| Nikita Bier, X'in eski ürün başkanıdır. | supported | supported | supported |
-| Nikita Bier Ağustos ayında platformdan ayrıldı. | supported | supported | supported |
-| Peter Sellis, X'in yeni ürün şefi olarak görevi devraldı. | supported | supported | supported |
-| Peter Sellis, X'in eski ürün başkanı Bier'in eski yöneticisi | supported | supported | supported |
+| Son 24 saat içinde, kullanıcılar bir gönderi yazarken "tanıt | supported | supported | supported |
+| TBPN podcast’inin başkanı Dylan Abruscato, bu etkileşim hile | supported | supported | supported |
+| Nikita Bier, yaklaşık bir yıl görev yaptıktan sonra ağustos  | supported | supported | supported |
+| Pazartesi günü Peter Sellis, X’in ürün şefi olarak görevi de | supported | supported | supported |
+| Peter Sellis, daha önce Snap ve Discord'da ürün başkanı olar | supported | supported | supported |
 
 ## Kaynak Metinleri
 

@@ -1,70 +1,64 @@
 {
   "cover": {
-    "category_label": "TEKNOLOJİ GÜNDEMİ",
-    "title": "X Üzerinde Gizli El İşareti ve Promote Butonu İddiası",
+    "category_label": "SOSYAL MEDYA GÜNDEMİ",
+    "title": "X'te Gizemli El İşareti Şoku",
     "highlight_words": [
-      "Gizli",
-      "El",
-      "İşareti"
+      "Gizemli El İşareti"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Son 24 saatte kullanıcıların paylaştığı ilginç etkileşim hilesi gündemde.",
+    "subtitle": "Kullanıcıların gönderi yazarken karşılaştığı yeni detay gündemde.",
     "source_tags": [
       "TECHCRUNCH",
       "THE VERGE"
     ]
   },
   "context": {
-    "heading": "Gündemdeki Gizli İşaret",
+    "heading": "Son 24 Saatin Gelişmeleri",
     "cards": [
       {
-        "card_title": "Yazı Yazarken Çıkan İşaret",
-        "card_body": "Son 24 saat içinde, birçok kullanıcı yazı yazarken promote butonunu gösteren gizli bir el işaretinin çıktığını paylaştı."
+        "card_title": "Gizemli El İşareti",
+        "card_body": "Son 24 saat içinde, kullanıcılar bir gönderi yazarken tanıt düğmesini gösteren gizemli bir el işaretinin belirdiğini bildirdi."
       },
       {
         "card_title": "Etkileşim Hilesi İddiası",
-        "card_body": "TBPN podcast başkanı Dylan Abruscato, bu etkileşim hilesini Nikita Bier ile ilişkilendirdi."
+        "card_body": "TBPN podcast’inin başkanı Dylan Abruscato, bu etkileşim hilesini X’in eski ürün müdürü Nikita Bier ile ilişkilendirdi."
       }
     ]
   },
   "stat": {
-    "big_stat": "24 SAAT",
-    "stat_caption": "Kullanıcıların bu gizli işareti paylaşmaya başladığı son zaman dilimi.",
-    "stat_quote": "Son 24 saat içinde, birçok kullanıcı yazı yazarken promote butonunu gösteren gizli bir el işaretinin çıktığını paylaştı."
+    "big_stat": "1 YIL",
+    "stat_caption": "Nikita Bier'in X platformundaki görev süresi.",
+    "stat_quote": "Nikita Bier, yaklaşık bir yıl görev yaptıktan sonra ağustos ayında platformdan ayrıldı."
   },
   "details": {
-    "heading": "Yönetim Değişiklikleri",
+    "heading": "Yönetim Değişikliği",
     "cards": [
       {
-        "card_title": "Nikita Bier'in Ayrılığı",
-        "card_body": "Nikita Bier, X'in eski ürün başkanıdır ve Ağustos ayında platformdan ayrıldı."
-      },
-      {
         "card_title": "Yeni Ürün Şefi",
-        "card_body": "Peter Sellis, X'in yeni ürün şefi olarak görevi devraldı."
+        "card_body": "Pazartesi günü Peter Sellis, X’in ürün şefi olarak görevi devraldığını açıkladı."
       },
       {
         "card_title": "Deneyimli İsim",
-        "card_body": "Peter Sellis, Bier'in eski yöneticisidir ve Snap ile Discord'un eski ürün başkanıdır."
+        "card_body": "Peter Sellis, daha önce Snap ve Discord'da ürün başkanı olarak görev yapmıştır."
       }
     ]
   },
   "impact": {
-    "heading": "Sektör ve Platform Etkisi",
+    "heading": "Platformda Neler Değişiyor?",
     "cards": [
       {
-        "card_title": "Ürün Yönetimi",
-        "card_body": "X platformundaki yönetim değişiklikleri ve yeni ürün şefi Peter Sellis'in görevi devralması dikkat çekiyor."
+        "card_title": "Kullanıcı Deneyimi",
+        "card_body": "Gönderi yazarken beliren el işareti ve tanıt düğmesi kullanıcıların dikkatini çekti."
       },
       {
-        "card_title": "Kullanıcı Deneyimi",
-        "card_body": "Kullanıcıların yazı yazarken fark ettiği gizli el işareti ve promote butonu paylaşımları tartışılıyor."
+        "card_title": "Yönetim Kadrosu",
+        "card_body": "Peter Sellis'in görevi devralmasıyla X platformunda yeni bir dönem başladı."
       }
     ]
   },
   "cta": {
-    "question": "X platformunda bu tarz gizli işaretler ve etkileşim hileleri hakkında ne düşünüyorsunuz?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın."
+    "question": "Siz de X'te gönderi yazarken bu gizemli el işaretini fark ettiniz mi?",
+    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

@@ -7,12 +7,12 @@
     "BBC News – Technology",
     "Ars Technica"
   ],
-  "checked_at": "2026-10-27T10:03:25+03:00",
+  "checked_at": "2026-10-27T10:12:19+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Son 24 saat içinde, birçok kullanıcı yazı yazarken promote butonunu gösteren gizli bir el işaretinin çıktığını paylaştı.",
+      "claim": "Son 24 saat içinde, kullanıcılar bir gönderi yazarken \"tanıt\" düğmesini gösteren gizemli bir el işaretinin belirdiğini bildirdi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "claim": "TBPN podcast başkanı Dylan Abruscato, bu etkileşim hilesini Nikita Bier ile ilişkilendirdi.",
+      "claim": "TBPN podcast’inin başkanı Dylan Abruscato, bu etkileşim hilesini X’in eski ürün müdürü Nikita Bier ile ilişkilendirdi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -32,21 +32,7 @@
       ]
     },
     {
-      "claim": "Nikita Bier, X'in eski ürün başkanıdır.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
-          "quote": "Nikita Bier, X’s former head of product."
-        },
-        {
-          "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
-          "quote": "a nod to the growth tactics associated with Nikita Bier, X’s former head of product."
-        }
-      ]
-    },
-    {
-      "claim": "Nikita Bier Ağustos ayında platformdan ayrıldı.",
+      "claim": "Nikita Bier, yaklaşık bir yıl görev yaptıktan sonra ağustos ayında platformdan ayrıldı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -56,13 +42,9 @@
       ]
     },
     {
-      "claim": "Peter Sellis, X'in yeni ürün şefi olarak görevi devraldı.",
+      "claim": "Pazartesi günü Peter Sellis, X’in ürün şefi olarak görevi devraldığını açıkladı.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
-          "quote": "Peter Sellis, posted that he has taken over as X’s product chief."
-        },
         {
           "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
           "quote": "On Monday, Bier’s former boss and ex-head of product for Snap and Discord, Peter Sellis, posted that he has taken over as X’s product chief."
@@ -70,19 +52,19 @@
       ]
     },
     {
-      "claim": "Peter Sellis, X'in eski ürün başkanı Bier'in eski yöneticisidir ve Snap ile Discord'un eski ürün başkanıdır.",
+      "claim": "Peter Sellis, daha önce Snap ve Discord'da ürün başkanı olarak görev yapmıştır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
-          "quote": "On Monday, Bier’s former boss and ex-head of product for Snap and Discord, Peter Sellis, posted that he has taken over as X’s product chief."
+          "quote": "Bier’s former boss and ex-head of product for Snap and Discord, Peter Sellis"
         }
       ]
     }
   ],
   "round1": [
     {
-      "claim": "Son 24 saat içinde, birçok kullanıcı yazı yazarken promote butonunu gösteren gizli bir el işaretinin çıktığını paylaştı.",
+      "claim": "Son 24 saat içinde, kullanıcılar bir gönderi yazarken \"tanıt\" düğmesini gösteren gizemli bir el işaretinin belirdiğini bildirdi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -92,7 +74,7 @@
       ]
     },
     {
-      "claim": "TBPN podcast başkanı Dylan Abruscato, bu etkileşim hilesini Nikita Bier ile ilişkilendirdi.",
+      "claim": "TBPN podcast’inin başkanı Dylan Abruscato, bu etkileşim hilesini X’in eski ürün müdürü Nikita Bier ile ilişkilendirdi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -102,21 +84,7 @@
       ]
     },
     {
-      "claim": "Nikita Bier, X'in eski ürün başkanıdır.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
-          "quote": "Nikita Bier, X’s former head of product."
-        },
-        {
-          "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
-          "quote": "a nod to the growth tactics associated with Nikita Bier, X’s former head of product."
-        }
-      ]
-    },
-    {
-      "claim": "Nikita Bier Ağustos ayında platformdan ayrıldı.",
+      "claim": "Nikita Bier, yaklaşık bir yıl görev yaptıktan sonra ağustos ayında platformdan ayrıldı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -126,13 +94,9 @@
       ]
     },
     {
-      "claim": "Peter Sellis, X'in yeni ürün şefi olarak görevi devraldı.",
+      "claim": "Pazartesi günü Peter Sellis, X’in ürün şefi olarak görevi devraldığını açıkladı.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
-          "quote": "Peter Sellis, posted that he has taken over as X’s product chief."
-        },
         {
           "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
           "quote": "On Monday, Bier’s former boss and ex-head of product for Snap and Discord, Peter Sellis, posted that he has taken over as X’s product chief."
@@ -140,19 +104,19 @@
       ]
     },
     {
-      "claim": "Peter Sellis, X'in eski ürün başkanı Bier'in eski yöneticisidir ve Snap ile Discord'un eski ürün başkanıdır.",
+      "claim": "Peter Sellis, daha önce Snap ve Discord'da ürün başkanı olarak görev yapmıştır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
-          "quote": "On Monday, Bier’s former boss and ex-head of product for Snap and Discord, Peter Sellis, posted that he has taken over as X’s product chief."
+          "quote": "Bier’s former boss and ex-head of product for Snap and Discord, Peter Sellis"
         }
       ]
     }
   ],
   "round2": [
     {
-      "claim": "Son 24 saat içinde, birçok kullanıcı yazı yazarken promote butonunu gösteren gizli bir el işaretinin çıktığını paylaştı.",
+      "claim": "Son 24 saat içinde, kullanıcılar bir gönderi yazarken \"tanıt\" düğmesini gösteren gizemli bir el işaretinin belirdiğini bildirdi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -162,7 +126,7 @@
       ]
     },
     {
-      "claim": "TBPN podcast başkanı Dylan Abruscato, bu etkileşim hilesini Nikita Bier ile ilişkilendirdi.",
+      "claim": "TBPN podcast’inin başkanı Dylan Abruscato, bu etkileşim hilesini X’in eski ürün müdürü Nikita Bier ile ilişkilendirdi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -172,21 +136,7 @@
       ]
     },
     {
-      "claim": "Nikita Bier, X'in eski ürün başkanıdır.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
-          "quote": "Nikita Bier, X’s former head of product."
-        },
-        {
-          "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
-          "quote": "a nod to the growth tactics associated with Nikita Bier, X’s former head of product."
-        }
-      ]
-    },
-    {
-      "claim": "Nikita Bier Ağustos ayında platformdan ayrıldı.",
+      "claim": "Nikita Bier, yaklaşık bir yıl görev yaptıktan sonra ağustos ayında platformdan ayrıldı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -196,13 +146,9 @@
       ]
     },
     {
-      "claim": "Peter Sellis, X'in yeni ürün şefi olarak görevi devraldı.",
+      "claim": "Pazartesi günü Peter Sellis, X’in ürün şefi olarak görevi devraldığını açıkladı.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
-          "quote": "Peter Sellis, posted that he has taken over as X’s product chief."
-        },
         {
           "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
           "quote": "On Monday, Bier’s former boss and ex-head of product for Snap and Discord, Peter Sellis, posted that he has taken over as X’s product chief."
@@ -210,12 +156,12 @@
       ]
     },
     {
-      "claim": "Peter Sellis, X'in eski ürün başkanı Bier'in eski yöneticisidir ve Snap ile Discord'un eski ürün başkanıdır.",
+      "claim": "Peter Sellis, daha önce Snap ve Discord'da ürün başkanı olarak görev yapmıştır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
-          "quote": "On Monday, Bier’s former boss and ex-head of product for Snap and Discord, Peter Sellis, posted that he has taken over as X’s product chief."
+          "quote": "Bier’s former boss and ex-head of product for Snap and Discord, Peter Sellis"
         }
       ]
     }
