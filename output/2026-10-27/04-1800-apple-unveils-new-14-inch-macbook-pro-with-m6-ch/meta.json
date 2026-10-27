@@ -1,0 +1,10 @@
+{
+  "slot": "18:00",
+  "type": "edu",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 176.8,
+  "candidates_tried": 2,
+  "gemini_calls": 22,
+  "canonical_url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+  "generated_at": "2026-10-27T17:49:46+03:00"
+}

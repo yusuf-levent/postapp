@@ -1,0 +1,128 @@
+{
+  "cover": {
+    "category_label": "YENİ ÇIKANLAR",
+    "title": "Apple'dan Yeni Cihazlar ve M6 Çipi",
+    "highlight_words": [
+      "M6",
+      "MacBook Pro"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Apple'ın en güncel duyuruları ve teknik özellikleri.",
+    "source_tags": [
+      "TechCrunch",
+      "The Verge",
+      "Apple Newsroom"
+    ]
+  },
+  "problem": {
+    "heading": "Yeni MacBook Pro ve M6 Gücü",
+    "cards": [
+      {
+        "card_title": "14 inç MacBook Pro",
+        "card_body": "Salı günü tanıtılan yeni model, M6 çipi ile güçlendirildi ve başlangıç fiyatı 1.999 dolar."
+      },
+      {
+        "card_title": "Renk Seçenekleri",
+        "card_body": "Uzay siyahı ve gümüş renk seçenekleriyle kullanıcıların beğenisine sunuluyor."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Pil ve Bağlantı Özellikleri",
+      "cards": [
+        {
+          "card_title": "24 Saat Pil Ömrü",
+          "card_body": "Yeni MacBook Pro, kesintisiz kullanım için 24 saate varan pil ömrü sunuyor."
+        },
+        {
+          "card_title": "Kablosuz Bağlantı",
+          "card_body": "Cihaz, Wi-Fi 7 ve Bluetooth 6 teknolojilerini destekliyor."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "M6 Çipinin Performans Detayları",
+      "cards": [
+        {
+          "card_title": "12 Çekirdekli İşlemci",
+          "card_body": "M6 çipi; 12 çekirdekli CPU ve 12 çekirdekli GPU ile donatıldı."
+        },
+        {
+          "card_title": "Hız Artışı",
+          "card_body": "M5 çipine kıyasla %30'a kadar daha hızlı grafik ve %25'e kadar daha hızlı yapay zeka iş yükü sağlıyor."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Yeni iMac ve Çıkış Tarihleri",
+      "cards": [
+        {
+          "card_title": "Yeni iMac Özellikleri",
+          "card_body": "24 inç 4.5K Retina ekrana sahip yeni iMac, macOS 27 ile çalışıyor ve 1.499 dolardan başlıyor."
+        },
+        {
+          "card_title": "Renkler ve Takvim",
+          "card_body": "iMac mavi, yeşil, pembe, sarı, mor, turuncu ve gümüş renkleriyle geliyor. 28 Ekim'de ön siparişe açılıp 6 Kasım'da satışa çıkacak."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Yeni M6 çipli MacBook Pro hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için takipte kalın!"
+  },
+  "context": {
+    "heading": "Yeni MacBook Pro ve M6 Gücü",
+    "cards": [
+      {
+        "card_title": "14 inç MacBook Pro",
+        "card_body": "Salı günü tanıtılan yeni model, M6 çipi ile güçlendirildi ve başlangıç fiyatı 1.999 dolar."
+      },
+      {
+        "card_title": "Renk Seçenekleri",
+        "card_body": "Uzay siyahı ve gümüş renk seçenekleriyle kullanıcıların beğenisine sunuluyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Pil ve Bağlantı Özellikleri",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "M6 Çipinin Performans Detayları",
+    "cards": [
+      {
+        "card_title": "12 Çekirdekli İşlemci",
+        "card_body": "M6 çipi; 12 çekirdekli CPU ve 12 çekirdekli GPU ile donatıldı."
+      },
+      {
+        "card_title": "Hız Artışı",
+        "card_body": "M5 çipine kıyasla %30'a kadar daha hızlı grafik ve %25'e kadar daha hızlı yapay zeka iş yükü sağlıyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Yeni iMac ve Çıkış Tarihleri",
+    "cards": [
+      {
+        "card_title": "Yeni iMac Özellikleri",
+        "card_body": "24 inç 4.5K Retina ekrana sahip yeni iMac, macOS 27 ile çalışıyor ve 1.499 dolardan başlıyor."
+      },
+      {
+        "card_title": "Renkler ve Takvim",
+        "card_body": "iMac mavi, yeşil, pembe, sarı, mor, turuncu ve gümüş renkleriyle geliyor. 28 Ekim'de ön siparişe açılıp 6 Kasım'da satışa çıkacak."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}

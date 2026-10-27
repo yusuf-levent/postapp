@@ -1,0 +1,58 @@
+{
+  "images": [
+    {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/MacBook_Pro_16_%28M1_Pro%2C_2021%29_-_Wikipedia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-27/04-1800-apple-unveils-new-14-inch-macbook-pro-with-m6-ch/images/img-1.png",
+      "license": "",
+      "author": "",
+      "credit_url": "https://en.wikipedia.org/wiki/MacBook%20Pro",
+      "width": 4032,
+      "height": 3024,
+      "alt_text": "MacBook Pro"
+    },
+    {
+      "source": "ogimage",
+      "url": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027_big.jpg.medium_2x.jpg?resize=1200,675",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-27/04-1800-apple-unveils-new-14-inch-macbook-pro-with-m6-ch/images/img-2.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+      "width": 1200,
+      "height": 675,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/34703569/pexels-photo-34703569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-27/04-1800-apple-unveils-new-14-inch-macbook-pro-with-m6-ch/images/img-3.png",
+      "license": "Pexels License — Optimerch GmbH",
+      "author": "Optimerch GmbH",
+      "credit_url": "https://www.pexels.com/photo/minimalist-workspace-with-apple-laptop-and-keyboard-34703569/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "A top-down view of a minimalist workspace featuring a laptop, keyboard, mouse, apple, and plant."
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/4812932/pexels-photo-4812932.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-27/04-1800-apple-unveils-new-14-inch-macbook-pro-with-m6-ch/images/img-4.png",
+      "license": "Pexels License — Mahdi Daldawala",
+      "author": "Mahdi Daldawala",
+      "credit_url": "https://www.pexels.com/photo/macbook-air-on-white-table-4812932/",
+      "width": 1186,
+      "height": 1300,
+      "alt_text": "Close-up view of a modern desk setup featuring a laptop and wireless mouse, ideal for productivity."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir.",
+  "music": [
+    {
+      "title": "Torley Wong - The Final Selection ::: 230 diverse MP3s",
+      "artist": "Torley Wong",
+      "license": "Creative Commons (ticari kullanıma uygun)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/us/",
+      "source_url": "https://archive.org/details/Torley_Wong_-_The_Final_Selection"
+    }
+  ]
+}

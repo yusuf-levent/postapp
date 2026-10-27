@@ -1,0 +1,265 @@
+{
+  "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+  "canonical_url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+  "source_names": [
+    "TechCrunch",
+    "Engadget",
+    "The Verge",
+    "Apple Newsroom"
+  ],
+  "checked_at": "2026-10-27T17:47:49+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Apple unveiled its new 14-inch MacBook Pro powered by its latest M6 chip on Tuesday.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "quote": "Apple on Tuesday unveiled its new 14-inch MacBook Pro, powered by its latest M6 chip."
+        }
+      ]
+    },
+    {
+      "claim": "The new MacBook Pro has 24 hours of battery life and supports Wi-Fi 7 and Bluetooth 6 connectivity.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "quote": "The new MacBook Pro has 24 hours of battery life and now supports for Wi-Fi 7 and Bluetooth 6 connectivity."
+        }
+      ]
+    },
+    {
+      "claim": "The new 14-inch MacBook Pro starts at $1,999 and is available in space black and silver.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "quote": "The laptop starts at $1,999 and is available in space black and silver."
+        }
+      ]
+    },
+    {
+      "claim": "Apple announced its new iPad mini on Monday.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "quote": "On Monday, Apple announced its new iPad mini."
+        }
+      ]
+    },
+    {
+      "claim": "The M6 chip features a 12-core CPU and a 12-core GPU delivering up to 30% faster graphics and up to 25% faster AI workloads compared with the M5 chip.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "quote": "The tech giant says the M6 chip features a 12-core CPU with the world’s fastest CPU core and a 12-core GPU that delivers more responsive performance, up to 30% faster graphics, and up to 25% faster AI workloads compared with the M5 chip."
+        }
+      ]
+    },
+    {
+      "claim": "The new iMac starts at $1,499 and comes in blue, green, pink, yellow, purple, orange, and silver.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "quote": "The new iMac starts at $1,499 and comes in blue, green, pink, yellow, purple, orange, and silver."
+        }
+      ]
+    },
+    {
+      "claim": "The new iMac features a 24-inch 4.5K Retina display and runs on macOS 27.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "quote": "It features a 24-inch 4.5K Retina display, an advanced camera and audio system, up to four Thunderbolt 4 ports, color-matched accessories, and macOS 27."
+        }
+      ]
+    },
+    {
+      "claim": "Both the new MacBook Pro and iMac can be preordered starting October 28 and will be available starting November 6.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "quote": "Both the new MacBook Pro and iMac can be preordered starting October 28 and will be available starting November 6."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Apple unveiled its new 14-inch MacBook Pro powered by its latest M6 chip on Tuesday.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "quote": "Apple on Tuesday unveiled its new 14-inch MacBook Pro, powered by its latest M6 chip."
+        }
+      ]
+    },
+    {
+      "claim": "The new MacBook Pro has 24 hours of battery life and supports Wi-Fi 7 and Bluetooth 6 connectivity.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "quote": "The new MacBook Pro has 24 hours of battery life and now supports for Wi-Fi 7 and Bluetooth 6 connectivity."
+        }
+      ]
+    },
+    {
+      "claim": "The new 14-inch MacBook Pro starts at $1,999 and is available in space black and silver.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "quote": "The laptop starts at $1,999 and is available in space black and silver."
+        }
+      ]
+    },
+    {
+      "claim": "Apple announced its new iPad mini on Monday.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "quote": "On Monday, Apple announced its new iPad mini."
+        }
+      ]
+    },
+    {
+      "claim": "The M6 chip features a 12-core CPU and a 12-core GPU delivering up to 30% faster graphics and up to 25% faster AI workloads compared with the M5 chip.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "quote": "The tech giant says the M6 chip features a 12-core CPU with the world’s fastest CPU core and a 12-core GPU that delivers more responsive performance, up to 30% faster graphics, and up to 25% faster AI workloads compared with the M5 chip."
+        }
+      ]
+    },
+    {
+      "claim": "The new iMac starts at $1,499 and comes in blue, green, pink, yellow, purple, orange, and silver.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "quote": "The new iMac starts at $1,499 and comes in blue, green, pink, yellow, purple, orange, and silver."
+        }
+      ]
+    },
+    {
+      "claim": "The new iMac features a 24-inch 4.5K Retina display and runs on macOS 27.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "quote": "It features a 24-inch 4.5K Retina display, an advanced camera and audio system, up to four Thunderbolt 4 ports, color-matched accessories, and macOS 27."
+        }
+      ]
+    },
+    {
+      "claim": "Both the new MacBook Pro and iMac can be preordered starting October 28 and will be available starting November 6.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "quote": "Both the new MacBook Pro and iMac can be preordered starting October 28 and will be available starting November 6."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Apple unveiled its new 14-inch MacBook Pro powered by its latest M6 chip on Tuesday.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "quote": "Apple on Tuesday unveiled its new 14-inch MacBook Pro, powered by its latest M6 chip."
+        }
+      ]
+    },
+    {
+      "claim": "The new MacBook Pro has 24 hours of battery life and supports Wi-Fi 7 and Bluetooth 6 connectivity.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "quote": "The new MacBook Pro has 24 hours of battery life and now supports for Wi-Fi 7 and Bluetooth 6 connectivity."
+        }
+      ]
+    },
+    {
+      "claim": "The new 14-inch MacBook Pro starts at $1,999 and is available in space black and silver.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "quote": "The laptop starts at $1,999 and is available in space black and silver."
+        }
+      ]
+    },
+    {
+      "claim": "Apple announced its new iPad mini on Monday.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "quote": "On Monday, Apple announced its new iPad mini."
+        }
+      ]
+    },
+    {
+      "claim": "The M6 chip features a 12-core CPU and a 12-core GPU delivering up to 30% faster graphics and up to 25% faster AI workloads compared with the M5 chip.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "quote": "The tech giant says the M6 chip features a 12-core CPU with the world’s fastest CPU core and a 12-core GPU that delivers more responsive performance, up to 30% faster graphics, and up to 25% faster AI workloads compared with the M5 chip."
+        }
+      ]
+    },
+    {
+      "claim": "The new iMac starts at $1,499 and comes in blue, green, pink, yellow, purple, orange, and silver.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "quote": "The new iMac starts at $1,499 and comes in blue, green, pink, yellow, purple, orange, and silver."
+        }
+      ]
+    },
+    {
+      "claim": "The new iMac features a 24-inch 4.5K Retina display and runs on macOS 27.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "quote": "It features a 24-inch 4.5K Retina display, an advanced camera and audio system, up to four Thunderbolt 4 ports, color-matched accessories, and macOS 27."
+        }
+      ]
+    },
+    {
+      "claim": "Both the new MacBook Pro and iMac can be preordered starting October 28 and will be available starting November 6.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "quote": "Both the new MacBook Pro and iMac can be preordered starting October 28 and will be available starting November 6."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/": 2070,
+    "https://www.engadget.com/2298220/everything-apple-announced-ipad-macbook-pro-and-tell-event/": 7551,
+    "https://www.theverge.com/tech/1019288/apple-event-la-macbook-pro-touchscreen-questions": 4653,
+    "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/": 20808
+  }
+}
