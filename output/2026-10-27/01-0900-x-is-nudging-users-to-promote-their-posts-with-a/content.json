@@ -1,64 +1,66 @@
 {
   "cover": {
-    "category_label": "SOSYAL MEDYA GÜNDEMİ",
-    "title": "X'te Gizemli El İşareti Şoku",
+    "category_label": "SOSYAL MEDYA",
+    "title": "X'te Ortaya Çıkan Gizli El İşareti",
     "highlight_words": [
-      "Gizemli El İşareti"
+      "Gizli",
+      "El",
+      "İşareti"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Kullanıcıların gönderi yazarken karşılaştığı yeni detay gündemde.",
+    "subtitle": "X platformunda kullanıcıların karşılaştığı şaşırtıcı detaylar ve yönetim değişiklikleri.",
     "source_tags": [
       "TECHCRUNCH",
       "THE VERGE"
     ]
   },
   "context": {
-    "heading": "Son 24 Saatin Gelişmeleri",
+    "heading": "X'te Gizli Detaylar",
     "cards": [
       {
-        "card_title": "Gizemli El İşareti",
-        "card_body": "Son 24 saat içinde, kullanıcılar bir gönderi yazarken tanıt düğmesini gösteren gizemli bir el işaretinin belirdiğini bildirdi."
+        "card_title": "Promote Butonu",
+        "card_body": "X platformunda kullanıcılar post yazarken promote butonunu gösteren gizli bir el işaretinin çıktığını bildirdi."
       },
       {
-        "card_title": "Etkileşim Hilesi İddiası",
-        "card_body": "TBPN podcast’inin başkanı Dylan Abruscato, bu etkileşim hilesini X’in eski ürün müdürü Nikita Bier ile ilişkilendirdi."
+        "card_title": "Etkileşim Hilesi",
+        "card_body": "TBPN podcast başkanı Dylan Abruscato, bu etkileşim hilesini X'in eski ürün müdürü Nikita Bier'e bağladı."
       }
     ]
   },
   "stat": {
     "big_stat": "1 YIL",
-    "stat_caption": "Nikita Bier'in X platformundaki görev süresi.",
-    "stat_quote": "Nikita Bier, yaklaşık bir yıl görev yaptıktan sonra ağustos ayında platformdan ayrıldı."
+    "stat_caption": "Nikita Bier'in X'teki görev süresi ve sonrasındaki gelişmeler.",
+    "stat_quote": "Nikita Bier, X'teki görevinden yaklaşık bir yıl sonra ağustos ayında ayrıldı."
   },
   "details": {
-    "heading": "Yönetim Değişikliği",
+    "heading": "Yönetim Değişiklikleri",
     "cards": [
       {
-        "card_title": "Yeni Ürün Şefi",
-        "card_body": "Pazartesi günü Peter Sellis, X’in ürün şefi olarak görevi devraldığını açıkladı."
+        "card_title": "Ağustos Ayrılığı",
+        "card_body": "Nikita Bier, X'teki görevinden yaklaşık bir yıl sonra ağustos ayında platformdan ayrıldı."
       },
       {
-        "card_title": "Deneyimli İsim",
-        "card_body": "Peter Sellis, daha önce Snap ve Discord'da ürün başkanı olarak görev yapmıştır."
+        "card_title": "Yeni Ürün Şefi",
+        "card_body": "Snap ve Discord'un eski ürün müdürü Peter Sellis, pazartesi günü yaptığı paylaşımda X'in yeni ürün şefi olduğunu duyurdu."
       }
     ]
   },
   "impact": {
-    "heading": "Platformda Neler Değişiyor?",
+    "heading": "Sektörel Etkiler",
     "cards": [
       {
         "card_title": "Kullanıcı Deneyimi",
-        "card_body": "Gönderi yazarken beliren el işareti ve tanıt düğmesi kullanıcıların dikkatini çekti."
+        "card_body": "Kullanıcılar post yazarken karşılaştıkları gizli el işareti ve promote butonu gibi detayları fark etmeye başladı."
       },
       {
         "card_title": "Yönetim Kadrosu",
-        "card_body": "Peter Sellis'in görevi devralmasıyla X platformunda yeni bir dönem başladı."
+        "card_body": "Peter Sellis'in pazartesi günü yaptığı duyuru ile X'in yeni ürün şefi göreve başladı."
       }
     ]
   },
   "cta": {
-    "question": "Siz de X'te gönderi yazarken bu gizemli el işaretini fark ettiniz mi?",
-    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın."
+    "question": "X platformunda bu tarz gizli detaylarla siz de karşılaştınız mı?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
