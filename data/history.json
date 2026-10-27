@@ -1540,5 +1540,78 @@
     ],
     "created_at": "2026-10-27T14:45:11+03:00",
     "verified_claims_count": 5
+  },
+  {
+    "id": "2026-10-27-1800",
+    "date": "2026-10-27",
+    "slot": "18:00",
+    "type": "edu",
+    "title_tr": "Ford Fathom ve Yeni EV Şarj Cihazları",
+    "original_title": "Ford Fathom will be the cheapest American EV capable of powering a house",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/"
+    ],
+    "canonical_url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house",
+    "entities": [
+      "Ford",
+      "Fathom",
+      "Home Power Station",
+      "Home Backup Power",
+      "Home Backup Panel"
+    ],
+    "event_type": "product_launch",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae0bb1fcbba2af26a9ab095",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae0bb3601a7b9ebe43da118",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae0bb4d30edb436ffcc274b",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2115094962861670709",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18031950170686363",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfAHu4yFeis",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae0bb6d30edb436ffcc2f80",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae0bb847d2301ca995daa87",
+        "permalink": "https://facebook.com/1351036918092059_122118931515484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-27T17:56:14+03:00",
+    "verified_claims_count": 7
   }
 ]
