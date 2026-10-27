@@ -1,13 +1,13 @@
 {
   "cover": {
-    "category_label": "YAPAY ZEKA VE DONANIM",
+    "category_label": "TEKNOLOJİ DÜNYASI",
     "title": "NVIDIA ve Meta'dan Büyük İş Birliği",
     "highlight_words": [
       "NVIDIA",
       "Meta"
     ],
     "highlight_color": "yellow",
-    "subtitle": "İki dev şirket, yapay zeka altyapısı ve donanım teknolojileri için güçlerini birleştiriyor.",
+    "subtitle": "İki dev şirket, yapay zeka ve donanım altyapısında güçlerini birleştiriyor.",
     "source_tags": [
       "NVIDIA NEWSROOM",
       "META NEWSROOM"
@@ -21,45 +21,49 @@
         "card_body": "NVIDIA ve Meta, Muse ve Muse model ailesi üzerindeki iş birliklerini genişletme kararı aldı."
       },
       {
-        "card_title": "Donanım Yatırımı",
-        "card_body": "Meta, NVIDIA Vera Rubin ve Vera CPU donanımlarının kullanımını genişletmeyi planlıyor."
+        "card_title": "Liderlerin Vizyonu",
+        "card_body": "NVIDIA CEO'su Jensen Huang ve Meta CEO'su Mark Zuckerberg, teknolojik altyapı için stratejik adımlar atıyor."
       }
     ]
   },
   "stat": {
-    "big_stat": "3 MİLYAR DOLAR",
-    "stat_caption": "NVIDIA'nın Meta'nın hisse senedi arzına yapacağı yatırım miktarı.",
-    "stat_quote": "Jensen Huang ve Mark Zuckerberg, yapay zeka geleceğini şekillendirmek için stratejik bir adım atıyor."
+    "big_stat": "3 MİLYAR $",
+    "stat_caption": "NVIDIA'nın Meta'nın hisse arzına yapacağı yatırım miktarı.",
+    "stat_quote": "Bu yatırım, iki şirketin yapay zeka ekosistemindeki ortak geleceğine olan güveni temsil ediyor."
   },
   "details": {
-    "heading": "Teknolojik Detaylar",
+    "heading": "Teknik Detaylar",
     "cards": [
       {
-        "card_title": "Ağ Teknolojileri",
-        "card_body": "Meta, ağ verimliliğini ve iş hacmini artırmak için NVIDIA Spectrum-X Ethernet ağ teknolojisi ve BlueField-4 kullanacak."
+        "card_title": "Donanım Gücü",
+        "card_body": "Meta, NVIDIA Vera Rubin ve Vera CPU donanımlarının kullanımını genişletmeyi planlıyor."
       },
       {
-        "card_title": "Gelecek Projeler",
-        "card_body": "İki şirket, NVIDIA OpenShell Referans Mimarisi ve NVIDIA Sentry teknolojileri üzerinde iş birliği yapmayı değerlendiriyor."
+        "card_title": "Ağ Teknolojileri",
+        "card_body": "Ağ verimliliğini artırmak için NVIDIA Spectrum-X Ethernet ve BlueField-4 teknolojileri kullanılacak."
+      },
+      {
+        "card_title": "Güvenlik Odaklılık",
+        "card_body": "Şirketler, NVIDIA OpenShell Referans Mimarisi ve NVIDIA Sentry ile güvenlik ve izleme üzerine çalışıyor."
       }
     ]
   },
   "impact": {
-    "heading": "Sektörel Etki",
+    "heading": "Gelecek Etkileri",
     "cards": [
       {
-        "card_title": "Altyapı Gücü",
-        "card_body": "Yeni nesil donanım ve ağ teknolojileri, yapay zeka modellerinin işlenme kapasitesini ve hızını doğrudan artıracak."
+        "card_title": "Sektörel Verimlilik",
+        "card_body": "Yeni nesil donanım ve ağ teknolojileri, yapay zeka modellerinin iş hacmini önemli ölçüde artıracak."
       },
       {
-        "card_title": "Stratejik Ortaklık",
-        "card_body": "Bu iş birliği, Meta'nın yapay zeka ekosistemini NVIDIA'nın gelişmiş donanım çözümleriyle daha verimli hale getirmesini sağlıyor."
+        "card_title": "Güvenli Altyapı",
+        "card_body": "Referans mimariler ve izleme araçları, yapay zeka sistemlerinin daha güvenli çalışmasını sağlayacak."
       }
     ]
   },
   "cta": {
-    "question": "Sizce bu dev iş birliği, yapay zeka modellerinin gelişim hızını nasıl etkileyecek?",
-    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri kaçırmamak için takipte kalın."
+    "question": "Sizce bu dev iş birliği, yapay zeka modellerinin gelişim hızını nasıl etkiler?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeler için Tekno Pusula'yı takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

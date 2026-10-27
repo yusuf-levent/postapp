@@ -3,7 +3,7 @@
 **Haber:** NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth
 **Canonical URL:** https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth
 **Kaynaklar:** NVIDIA Newsroom, TechCrunch, Meta Newsroom (resmi alternatif), NVIDIA Newsroom
-**Kontrol zamanı:** 2026-10-27T09:03:23+03:00
+**Kontrol zamanı:** 2026-10-27T09:33:07+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
@@ -15,12 +15,12 @@
 - **Kanıtlar:**
   - [https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth](https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth)
     > NVIDIA and Meta today announced they will partner to expand their work on Muse and the Muse family of models to improve inference and training performance
+  - [https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth](https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth)
+    > NVIDIA and Meta today announced they will partner to expand their work on Muse and the Muse family of models to improve inference and training performance, reflecting popular demand for useful AI agents.
 
 ### 2. Meta, NVIDIA Vera Rubin ve Vera CPU donanımlarının kullanımını genişletmeyi planlıyor.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
-  - [https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth](https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth)
-    > Meta intends to expand the deployment of NVIDIA infrastructure, including Vera Rubin and Vera CPUs for next-generation AI agents
   - [https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth](https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth)
     > Meta intends to expand the deployment of NVIDIA infrastructure, including Vera Rubin and Vera CPUs for next-generation AI agents to deliver maximum performance per watt.
 
@@ -30,13 +30,13 @@
   - [https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth](https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth)
     > Meta will also deploy NVIDIA Spectrum-X™ Ethernet networking and BlueField-4® to support network efficiency and throughput.
 
-### 4. NVIDIA, Meta'nın hisse senedi arzına 3 milyar dolar yatırım yapacak.
+### 4. NVIDIA, Meta'nın hisse arzına 3 milyar dolar yatırım yapacak.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth](https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth)
     > In addition, NVIDIA will invest $3 billion in Meta’s equity offering.
 
-### 5. NVIDIA ve Meta, NVIDIA OpenShell Referans Mimarisi ve NVIDIA Sentry teknolojileri üzerinde iş birliği yapmayı değerlendiriyor.
+### 5. NVIDIA ve Meta, güvenlik için NVIDIA OpenShell Referans Mimarisi ve izleme için NVIDIA Sentry kullanımı üzerine iş birliği fırsatlarını değerlendiriyor.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth](https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth)
@@ -63,8 +63,8 @@
 | NVIDIA ve Meta, Muse ve Muse model ailesi üzerindeki iş birl | supported | supported | supported |
 | Meta, NVIDIA Vera Rubin ve Vera CPU donanımlarının kullanımı | supported | supported | supported |
 | Meta, ağ verimliliğini ve iş hacmini artırmak için NVIDIA Sp | supported | supported | supported |
-| NVIDIA, Meta'nın hisse senedi arzına 3 milyar dolar yatırım  | supported | supported | supported |
-| NVIDIA ve Meta, NVIDIA OpenShell Referans Mimarisi ve NVIDIA | supported | supported | supported |
+| NVIDIA, Meta'nın hisse arzına 3 milyar dolar yatırım yapacak | supported | supported | supported |
+| NVIDIA ve Meta, güvenlik için NVIDIA OpenShell Referans Mima | supported | supported | supported |
 | Jensen Huang, NVIDIA'nın kurucusu ve CEO'sudur. | supported | supported | supported |
 | Mark Zuckerberg, Meta'nın kurucusu ve CEO'sudur. | supported | supported | supported |
 
