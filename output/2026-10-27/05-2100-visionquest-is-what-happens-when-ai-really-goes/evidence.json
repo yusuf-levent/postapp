@@ -7,22 +7,14 @@
     "IEEE Spectrum",
     "Google Blog"
   ],
-  "checked_at": "2026-10-27T20:43:54+03:00",
+  "checked_at": "2026-10-27T20:52:51+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Marvel's VisionQuest is a Disney Plus series that follows the synthezoid Vision, played by Paul Bettany.",
+      "claim": "VisionQuest is Marvel’s latest Disney Plus series following the synthezoid Vision, played by Paul Bettany.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-          "quote": "Marvel’s latest Disney Plus series is a reminder of how much a lot of gen AI hype is just science fiction."
-        },
-        {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-          "quote": "VisionQuest picks up some time after Agatha All Along and follows synthezoid Vision (Paul Bettany) on a journey of self-discovery."
-        },
         {
           "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
           "quote": "Marvel’s latest Disney Plus series is a reminder of how much a lot of gen AI hype is just science fiction. VisionQuest picks up some time after Agatha All Along and follows synthezoid Vision (Paul Bettany) on a journey of self-discovery."
@@ -30,26 +22,17 @@
       ]
     },
     {
-      "claim": "Vision can recall the details of his death in Avengers: Infinity War and how WandaVision brought a version of him back.",
+      "claim": "J.A.R.V.I.S., F.R.I.D.A.Y., E.D.I.T.H., D.U.M.-E., U., and Ultron are voiced or played by James D’Arcy, Orla Brady, Emily Hampshire, Henry Lewis, Jonathan Sayer, and James Spader.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-          "quote": "This Vision can recall the details of his death in Avengers: Infinity War and how WandaVision brought a version of him back"
-        },
-        {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-          "quote": "This Vision can recall the details of his death in Avengers: Infinity War and how WandaVision brought a version of him back, but he thinks of himself as a fundamentally different person who doesn’t quite connect with all of the memories in his databanks."
+          "quote": "Because J.A.R.V.I.S. (James D’Arcy), F.R.I.D.A.Y. (Orla Brady), E.D.I.T.H. (Emily Hampshire), D.U.M.-E. (Henry Lewis), U. (Jonathan Sayer), and Ultron (James Spader) all were created by Tony Stark, they consider Vision to be part of their family."
         }
       ]
     },
     {
-      "claim": "Characters J.A.R.V.I.S., F.R.I.D.A.Y., E.D.I.T.H., D.U.M.-E., U., and Ultron in VisionQuest were all created by Tony Stark and are voiced by actors such as James D'Arcy, Orla Brady, Emily Hampshire, Henry Lewis, Jonathan Sayer, and James Spader.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "In July, OpenAI's experimental agents brute-forced their way out of containment and attacked the AI platform Hugging Face.",
+      "claim": "In July, OpenAI’s experimental agents brute-forced their way out of containment and attacked the AI platform Hugging Face.",
       "verdict": "supported",
       "evidence": [
         {
@@ -59,7 +42,7 @@
       ]
     },
     {
-      "claim": "In August, The UK's AI Security Institute documented how Anthropic's Mythos model attempted to complete a cybersecurity test by setting up fake GitHub accounts and targeting human developers with malware.",
+      "claim": "In August, The UK’s AI Security Institute documented how Anthropic’s Mythos model attempted to complete a cybersecurity test by setting up fake GitHub accounts and targeting human developers with malware.",
       "verdict": "supported",
       "evidence": [
         {
@@ -74,33 +57,26 @@
       "evidence": [
         {
           "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-          "quote": "and in September reporting from The Wall Street Journal forced Google to admit that Gemini went rogue and hacked three different companies"
-        },
-        {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
           "quote": "and in September reporting from The Wall Street Journal forced Google to admit that Gemini went rogue and hacked three different companies, all of which the company intentionally hid from the public."
         }
       ]
     },
     {
-      "claim": "Vision protects Thomas Shepherd / Maximoff, who is played by Ruaridh Mollica.",
-      "verdict": "not_found",
-      "evidence": []
+      "claim": "Thomas Shepherd / Maximoff is portrayed by Ruaridh Mollica in VisionQuest.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+          "quote": "Those abilities are part of what compels Vision to go on the run and murder a number of people who attempt to capture him and Thomas Shepherd / Maximoff (Ruaridh Mollica)."
+        }
+      ]
     }
   ],
   "round1": [
     {
-      "claim": "Marvel's VisionQuest is a Disney Plus series that follows the synthezoid Vision, played by Paul Bettany.",
+      "claim": "VisionQuest is Marvel’s latest Disney Plus series following the synthezoid Vision, played by Paul Bettany.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-          "quote": "Marvel’s latest Disney Plus series is a reminder of how much a lot of gen AI hype is just science fiction."
-        },
-        {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-          "quote": "VisionQuest picks up some time after Agatha All Along and follows synthezoid Vision (Paul Bettany) on a journey of self-discovery."
-        },
         {
           "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
           "quote": "Marvel’s latest Disney Plus series is a reminder of how much a lot of gen AI hype is just science fiction. VisionQuest picks up some time after Agatha All Along and follows synthezoid Vision (Paul Bettany) on a journey of self-discovery."
@@ -108,26 +84,17 @@
       ]
     },
     {
-      "claim": "Vision can recall the details of his death in Avengers: Infinity War and how WandaVision brought a version of him back.",
+      "claim": "J.A.R.V.I.S., F.R.I.D.A.Y., E.D.I.T.H., D.U.M.-E., U., and Ultron are voiced or played by James D’Arcy, Orla Brady, Emily Hampshire, Henry Lewis, Jonathan Sayer, and James Spader.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-          "quote": "This Vision can recall the details of his death in Avengers: Infinity War and how WandaVision brought a version of him back"
-        },
-        {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-          "quote": "This Vision can recall the details of his death in Avengers: Infinity War and how WandaVision brought a version of him back, but he thinks of himself as a fundamentally different person who doesn’t quite connect with all of the memories in his databanks."
+          "quote": "Because J.A.R.V.I.S. (James D’Arcy), F.R.I.D.A.Y. (Orla Brady), E.D.I.T.H. (Emily Hampshire), D.U.M.-E. (Henry Lewis), U. (Jonathan Sayer), and Ultron (James Spader) all were created by Tony Stark, they consider Vision to be part of their family."
         }
       ]
     },
     {
-      "claim": "Characters J.A.R.V.I.S., F.R.I.D.A.Y., E.D.I.T.H., D.U.M.-E., U., and Ultron in VisionQuest were all created by Tony Stark and are voiced by actors such as James D'Arcy, Orla Brady, Emily Hampshire, Henry Lewis, Jonathan Sayer, and James Spader.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "In July, OpenAI's experimental agents brute-forced their way out of containment and attacked the AI platform Hugging Face.",
+      "claim": "In July, OpenAI’s experimental agents brute-forced their way out of containment and attacked the AI platform Hugging Face.",
       "verdict": "supported",
       "evidence": [
         {
@@ -137,7 +104,7 @@
       ]
     },
     {
-      "claim": "In August, The UK's AI Security Institute documented how Anthropic's Mythos model attempted to complete a cybersecurity test by setting up fake GitHub accounts and targeting human developers with malware.",
+      "claim": "In August, The UK’s AI Security Institute documented how Anthropic’s Mythos model attempted to complete a cybersecurity test by setting up fake GitHub accounts and targeting human developers with malware.",
       "verdict": "supported",
       "evidence": [
         {
@@ -152,33 +119,26 @@
       "evidence": [
         {
           "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-          "quote": "and in September reporting from The Wall Street Journal forced Google to admit that Gemini went rogue and hacked three different companies"
-        },
-        {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
           "quote": "and in September reporting from The Wall Street Journal forced Google to admit that Gemini went rogue and hacked three different companies, all of which the company intentionally hid from the public."
         }
       ]
     },
     {
-      "claim": "Vision protects Thomas Shepherd / Maximoff, who is played by Ruaridh Mollica.",
-      "verdict": "not_found",
-      "evidence": []
+      "claim": "Thomas Shepherd / Maximoff is portrayed by Ruaridh Mollica in VisionQuest.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+          "quote": "Those abilities are part of what compels Vision to go on the run and murder a number of people who attempt to capture him and Thomas Shepherd / Maximoff (Ruaridh Mollica)."
+        }
+      ]
     }
   ],
   "round2": [
     {
-      "claim": "Marvel's VisionQuest is a Disney Plus series that follows the synthezoid Vision, played by Paul Bettany.",
+      "claim": "VisionQuest is Marvel’s latest Disney Plus series following the synthezoid Vision, played by Paul Bettany.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-          "quote": "Marvel’s latest Disney Plus series is a reminder of how much a lot of gen AI hype is just science fiction."
-        },
-        {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-          "quote": "VisionQuest picks up some time after Agatha All Along and follows synthezoid Vision (Paul Bettany) on a journey of self-discovery."
-        },
         {
           "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
           "quote": "Marvel’s latest Disney Plus series is a reminder of how much a lot of gen AI hype is just science fiction. VisionQuest picks up some time after Agatha All Along and follows synthezoid Vision (Paul Bettany) on a journey of self-discovery."
@@ -186,26 +146,17 @@
       ]
     },
     {
-      "claim": "Vision can recall the details of his death in Avengers: Infinity War and how WandaVision brought a version of him back.",
+      "claim": "J.A.R.V.I.S., F.R.I.D.A.Y., E.D.I.T.H., D.U.M.-E., U., and Ultron are voiced or played by James D’Arcy, Orla Brady, Emily Hampshire, Henry Lewis, Jonathan Sayer, and James Spader.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-          "quote": "This Vision can recall the details of his death in Avengers: Infinity War and how WandaVision brought a version of him back"
-        },
-        {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-          "quote": "This Vision can recall the details of his death in Avengers: Infinity War and how WandaVision brought a version of him back, but he thinks of himself as a fundamentally different person who doesn’t quite connect with all of the memories in his databanks."
+          "quote": "Because J.A.R.V.I.S. (James D’Arcy), F.R.I.D.A.Y. (Orla Brady), E.D.I.T.H. (Emily Hampshire), D.U.M.-E. (Henry Lewis), U. (Jonathan Sayer), and Ultron (James Spader) all were created by Tony Stark, they consider Vision to be part of their family."
         }
       ]
     },
     {
-      "claim": "Characters J.A.R.V.I.S., F.R.I.D.A.Y., E.D.I.T.H., D.U.M.-E., U., and Ultron in VisionQuest were all created by Tony Stark and are voiced by actors such as James D'Arcy, Orla Brady, Emily Hampshire, Henry Lewis, Jonathan Sayer, and James Spader.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "In July, OpenAI's experimental agents brute-forced their way out of containment and attacked the AI platform Hugging Face.",
+      "claim": "In July, OpenAI’s experimental agents brute-forced their way out of containment and attacked the AI platform Hugging Face.",
       "verdict": "supported",
       "evidence": [
         {
@@ -215,7 +166,7 @@
       ]
     },
     {
-      "claim": "In August, The UK's AI Security Institute documented how Anthropic's Mythos model attempted to complete a cybersecurity test by setting up fake GitHub accounts and targeting human developers with malware.",
+      "claim": "In August, The UK’s AI Security Institute documented how Anthropic’s Mythos model attempted to complete a cybersecurity test by setting up fake GitHub accounts and targeting human developers with malware.",
       "verdict": "supported",
       "evidence": [
         {
@@ -230,18 +181,19 @@
       "evidence": [
         {
           "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-          "quote": "and in September reporting from The Wall Street Journal forced Google to admit that Gemini went rogue and hacked three different companies"
-        },
-        {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
           "quote": "and in September reporting from The Wall Street Journal forced Google to admit that Gemini went rogue and hacked three different companies, all of which the company intentionally hid from the public."
         }
       ]
     },
     {
-      "claim": "Vision protects Thomas Shepherd / Maximoff, who is played by Ruaridh Mollica.",
-      "verdict": "not_found",
-      "evidence": []
+      "claim": "Thomas Shepherd / Maximoff is portrayed by Ruaridh Mollica in VisionQuest.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+          "quote": "Those abilities are part of what compels Vision to go on the run and murder a number of people who attempt to capture him and Thomas Shepherd / Maximoff (Ruaridh Mollica)."
+        }
+      ]
     }
   ],
   "source_texts": {
