@@ -1,65 +1,70 @@
 {
   "cover": {
-    "category_label": "SOSYAL MEDYA GÜNCELLEMELERİ",
-    "title": "X Platformunda Gizemli Bir \"El\" İkonu Belirdi",
+    "category_label": "TEKNOLOJİ GÜNDEMİ",
+    "title": "X Üzerinde Gizli El İşareti ve Promote Butonu İddiası",
     "highlight_words": [
-      "Gizemli",
-      "El İkonu"
+      "Gizli",
+      "El",
+      "İşareti"
     ],
     "highlight_color": "yellow",
-    "subtitle": "X'in yeni ürün stratejileri ve platformdaki dikkat çeken tasarım değişiklikleri.",
+    "subtitle": "Son 24 saatte kullanıcıların paylaştığı ilginç etkileşim hilesi gündemde.",
     "source_tags": [
       "TECHCRUNCH",
       "THE VERGE"
     ]
   },
   "context": {
-    "heading": "X'te Neler Değişiyor?",
+    "heading": "Gündemdeki Gizli İşaret",
     "cards": [
       {
-        "card_title": "Yeni Etkileşim Yöntemi",
-        "card_body": "Kullanıcılar gönderi yazarken 'promote' (öne çıkar) butonunu işaret eden gizemli bir el ikonu görmeye başladı."
+        "card_title": "Yazı Yazarken Çıkan İşaret",
+        "card_body": "Son 24 saat içinde, birçok kullanıcı yazı yazarken promote butonunu gösteren gizli bir el işaretinin çıktığını paylaştı."
       },
       {
-        "card_title": "İsimler ve Bağlantılar",
-        "card_body": "TBPN podcast başkanı Dylan Abruscato, bu yeni etkileşim yöntemini X'in eski ürün müdürü Nikita Bier ile ilişkilendirdi."
+        "card_title": "Etkileşim Hilesi İddiası",
+        "card_body": "TBPN podcast başkanı Dylan Abruscato, bu etkileşim hilesini Nikita Bier ile ilişkilendirdi."
       }
     ]
   },
   "stat": {
-    "big_stat": "1 YIL",
-    "stat_caption": "Nikita Bier'in X platformundaki görev süresi.",
-    "stat_quote": "Nikita Bier, yaklaşık bir yıl görev yaptıktan sonra Ağustos ayında X'teki görevinden ayrıldı."
+    "big_stat": "24 SAAT",
+    "stat_caption": "Kullanıcıların bu gizli işareti paylaşmaya başladığı son zaman dilimi.",
+    "stat_quote": "Son 24 saat içinde, birçok kullanıcı yazı yazarken promote butonunu gösteren gizli bir el işaretinin çıktığını paylaştı."
   },
   "details": {
-    "heading": "Yönetim Kadrosunda Yenilik",
+    "heading": "Yönetim Değişiklikleri",
     "cards": [
       {
-        "card_title": "Yeni Ürün Şefi",
-        "card_body": "Snap ve Discord'un eski ürün müdürü Peter Sellis, Pazartesi günü X'in yeni ürün şefi olduğunu duyurdu."
+        "card_title": "Nikita Bier'in Ayrılığı",
+        "card_body": "Nikita Bier, X'in eski ürün başkanıdır ve Ağustos ayında platformdan ayrıldı."
       },
       {
-        "card_title": "Görev Değişimi",
-        "card_body": "Platformun ürün yönetimi tarafında yaşanan bu değişim, kullanıcı arayüzündeki güncellemelerle eş zamanlı gerçekleşti."
+        "card_title": "Yeni Ürün Şefi",
+        "card_body": "Peter Sellis, X'in yeni ürün şefi olarak görevi devraldı."
+      },
+      {
+        "card_title": "Deneyimli İsim",
+        "card_body": "Peter Sellis, Bier'in eski yöneticisidir ve Snap ile Discord'un eski ürün başkanıdır."
       }
     ]
   },
   "impact": {
-    "heading": "Platforma Etkisi",
+    "heading": "Sektör ve Platform Etkisi",
     "cards": [
       {
-        "card_title": "Kullanıcı Deneyimi",
-        "card_body": "Yeni el ikonu, kullanıcıların gönderi öne çıkarma süreçlerini daha görünür ve etkileşim odaklı hale getirmeyi amaçlıyor."
+        "card_title": "Ürün Yönetimi",
+        "card_body": "X platformundaki yönetim değişiklikleri ve yeni ürün şefi Peter Sellis'in görevi devralması dikkat çekiyor."
       },
       {
-        "card_title": "Stratejik Dönüşüm",
-        "card_body": "Peter Sellis'in göreve gelmesiyle birlikte, X'in ürün geliştirme süreçlerinde yeni bir dönemin başladığı sinyalleri veriliyor."
+        "card_title": "Kullanıcı Deneyimi",
+        "card_body": "Kullanıcıların yazı yazarken fark ettiği gizli el işareti ve promote butonu paylaşımları tartışılıyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce bu yeni 'el' ikonu, platformdaki etkileşim oranlarını nasıl değiştirecek?",
-    "reminder_line": "Teknoloji dünyasındaki güncel değişimleri takip etmek için Tekno Pusula'yı izlemeye devam edin."
+    "question": "X platformunda bu tarz gizli işaretler ve etkileşim hileleri hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
