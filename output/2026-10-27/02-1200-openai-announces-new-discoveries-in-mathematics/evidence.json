@@ -1,0 +1,199 @@
+{
+  "title": "OpenAI announces new discoveries in mathematics, computer science and physics",
+  "canonical_url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
+  "source_names": [
+    "Engadget",
+    "TechCrunch",
+    "The Verge",
+    "OpenAI News"
+  ],
+  "checked_at": "2026-10-27T11:41:45+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "OpenAI released manuscripts with over 700 pages of solutions and progress for 372 major math problems a few weeks ago.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
+          "quote": "Just a few weeks after OpenAI released manuscripts with over 700 pages of solutions and progress for 372 major math problems, the company has announced even more discoveries."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI has added two new manuscripts on GitHub that establish Sogge's local smoothing for waves in every spatial dimension and disprove the Exponential Time Hypothesis.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
+          "quote": "OpenAI has added two new manuscripts on GitHub you can access right now. One establishes Sogge's local smoothing for waves in every spatial dimension, which is a conjecture about the behavior of solutions to the wave equation. The other shows proof that the Exponential Time Hypothesis, which is an assumption in computer science that some problems are just too hard to solve quickly, is false."
+        }
+      ]
+    },
+    {
+      "claim": "The physics results involve proof of interacting quantum field theories containing gauge fields and fermions in four dimensions.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
+          "quote": "Finally, the physics results involve proof of interacting quantum field theories containing gauge fields and fermions in four dimensions."
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+          "quote": "The physics information has not been released in full, but is a “mathematically rigorous existence proof of certain interacting quantum field theories containing gauge fields and fermions in four dimensions..."
+        }
+      ]
+    },
+    {
+      "claim": "The group examining the physics results provided the email address YANGMILLS4D@gmail.com for questions about its efforts.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
+          "quote": "The group examining the physics results has yet to publish anything about it, but it has provided an email – YANGMILLS4D[@]gmail.com — for all questions about its efforts."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI stated that it will not seek any academic credit for its models' discoveries.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
+          "quote": "The company says it will not seek any academic credit for its models' discoveries."
+        },
+        {
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "quote": "We do not seek academic credit for the discoveries produced by our internal models."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "OpenAI released manuscripts with over 700 pages of solutions and progress for 372 major math problems a few weeks ago.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
+          "quote": "Just a few weeks after OpenAI released manuscripts with over 700 pages of solutions and progress for 372 major math problems, the company has announced even more discoveries."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI has added two new manuscripts on GitHub that establish Sogge's local smoothing for waves in every spatial dimension and disprove the Exponential Time Hypothesis.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
+          "quote": "OpenAI has added two new manuscripts on GitHub you can access right now. One establishes Sogge's local smoothing for waves in every spatial dimension, which is a conjecture about the behavior of solutions to the wave equation. The other shows proof that the Exponential Time Hypothesis, which is an assumption in computer science that some problems are just too hard to solve quickly, is false."
+        }
+      ]
+    },
+    {
+      "claim": "The physics results involve proof of interacting quantum field theories containing gauge fields and fermions in four dimensions.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
+          "quote": "Finally, the physics results involve proof of interacting quantum field theories containing gauge fields and fermions in four dimensions."
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+          "quote": "The physics information has not been released in full, but is a “mathematically rigorous existence proof of certain interacting quantum field theories containing gauge fields and fermions in four dimensions..."
+        }
+      ]
+    },
+    {
+      "claim": "The group examining the physics results provided the email address YANGMILLS4D@gmail.com for questions about its efforts.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
+          "quote": "The group examining the physics results has yet to publish anything about it, but it has provided an email – YANGMILLS4D[@]gmail.com — for all questions about its efforts."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI stated that it will not seek any academic credit for its models' discoveries.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
+          "quote": "The company says it will not seek any academic credit for its models' discoveries."
+        },
+        {
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "quote": "We do not seek academic credit for the discoveries produced by our internal models."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "OpenAI released manuscripts with over 700 pages of solutions and progress for 372 major math problems a few weeks ago.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
+          "quote": "Just a few weeks after OpenAI released manuscripts with over 700 pages of solutions and progress for 372 major math problems, the company has announced even more discoveries."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI has added two new manuscripts on GitHub that establish Sogge's local smoothing for waves in every spatial dimension and disprove the Exponential Time Hypothesis.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
+          "quote": "OpenAI has added two new manuscripts on GitHub you can access right now. One establishes Sogge's local smoothing for waves in every spatial dimension, which is a conjecture about the behavior of solutions to the wave equation. The other shows proof that the Exponential Time Hypothesis, which is an assumption in computer science that some problems are just too hard to solve quickly, is false."
+        }
+      ]
+    },
+    {
+      "claim": "The physics results involve proof of interacting quantum field theories containing gauge fields and fermions in four dimensions.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
+          "quote": "Finally, the physics results involve proof of interacting quantum field theories containing gauge fields and fermions in four dimensions."
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+          "quote": "The physics information has not been released in full, but is a “mathematically rigorous existence proof of certain interacting quantum field theories containing gauge fields and fermions in four dimensions..."
+        }
+      ]
+    },
+    {
+      "claim": "The group examining the physics results provided the email address YANGMILLS4D@gmail.com for questions about its efforts.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
+          "quote": "The group examining the physics results has yet to publish anything about it, but it has provided an email – YANGMILLS4D[@]gmail.com — for all questions about its efforts."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI stated that it will not seek any academic credit for its models' discoveries.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
+          "quote": "The company says it will not seek any academic credit for its models' discoveries."
+        },
+        {
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "quote": "We do not seek academic credit for the discoveries produced by our internal models."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/": 2588,
+    "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/": 7112,
+    "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics": 4387,
+    "https://openai.com/index/building-scientific-understanding-with-academic-communities": 11976
+  }
+}

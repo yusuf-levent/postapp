@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA GELİŞMELERİ",
+    "title": "OpenAI Matematik ve Fizikte Çığır Açtı",
+    "highlight_words": [
+      "Matematik",
+      "Fizik"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "OpenAI tarafından yayınlanan yeni el yazmaları önemli bilimsel problemleri ele alıyor.",
+    "source_tags": [
+      "OPENAI NEWS",
+      "THE VERGE"
+    ]
+  },
+  "context": {
+    "heading": "Bilimsel Çalışmalar",
+    "cards": [
+      {
+        "card_title": "Matematik Problemleri",
+        "card_body": "OpenAI, 372 büyük matematik problemi için çözüm ve ilerlemeleri içeren 700 sayfadan fazla el yazması yayınladı."
+      },
+      {
+        "card_title": "GitHub Paylaşımı",
+        "card_body": "GitHub üzerinde dalgalar için Sogge yerel düzgünleştirmesini kuran ve Üstel Zaman Hipotezi'ni çürüten iki yeni el yazması eklendi."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "372",
+    "stat_caption": "OpenAI tarafından ele alınan büyük matematik problemi sayısı.",
+    "stat_quote": "OpenAI, 372 büyük matematik problemi için çözümler sundu."
+  },
+  "details": {
+    "heading": "Fizik ve Yeni Keşifler",
+    "cards": [
+      {
+        "card_title": "Kuantum Alan Teorileri",
+        "card_body": "Fizik sonuçları, dört boyutta ayar alanları ve fermiyonlar içeren etkileşimli kuantum alan teorilerinin kanıtını içeriyor."
+      },
+      {
+        "card_title": "İletişim Adresi",
+        "card_body": "Fizik sonuçlarını inceleyen grup, çabalarıyla ilgili sorular için YANGMILLS4D@gmail.com e-posta adresini sağladı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Akademik Etki ve Yaklaşım",
+    "cards": [
+      {
+        "card_title": "Akademik Kredi",
+        "card_body": "OpenAI, modellerinin keşifleri için hiçbir akademik kredi aramayacağını açıkladı."
+      },
+      {
+        "card_title": "Bilimsel Katkı",
+        "card_body": "Yayınlanan el yazmaları matematik ve fizik alanındaki karmaşık teorilerin çözümüne ışık tutuyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Yapay zekanın temel bilimlerdeki bu keşifleri hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
