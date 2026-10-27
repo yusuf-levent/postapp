@@ -1,0 +1,10 @@
+{
+  "slot": "15:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 91.1,
+  "candidates_tried": 1,
+  "gemini_calls": 12,
+  "canonical_url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+  "generated_at": "2026-10-27T14:43:08+03:00"
+}

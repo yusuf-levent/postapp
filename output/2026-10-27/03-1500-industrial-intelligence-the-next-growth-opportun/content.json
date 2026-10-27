@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE ENDÜSTRİ",
+    "title": "Üretimde Veri ve Yapay Zeka Dönüşümü",
+    "highlight_words": [
+      "Yapay",
+      "Zeka"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Fabrikalarda verimlilik artıran yeni uygulamalar.",
+    "source_tags": [
+      "MICROSOFT",
+      "MIT TECHNOLOGY REVIEW"
+    ]
+  },
+  "context": {
+    "heading": "Fabrikalarda Yeni Dönem",
+    "cards": [
+      {
+        "card_title": "Toyota Industries",
+        "card_body": "Boyahane verilerini birleştirerek analiz döngülerini beş günden dört saatin altına düşürmüştür."
+      },
+      {
+        "card_title": "Rockwell Automation",
+        "card_body": "Singapur fabrikasındaki teknisyenler, bakım süreçleri için bir bakım yardımcı pilotu kullanmaktadır."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "%25",
+    "stat_caption": "Toyota Industries'in pilot uygulamasının boya kusurlarını azaltma oranı.",
+    "stat_quote": "Pilot uygulama, ilgili boya kusurlarını yaklaşık yüzde 25 oranında azaltmıştır."
+  },
+  "details": {
+    "heading": "Süreçlerde Önemli İyileştirmeler",
+    "cards": [
+      {
+        "card_title": "Analiz Süreleri",
+        "card_body": "Toyota Industries, boyahane verilerini birleştirerek analiz döngülerini büyük ölçüde hızlandırmıştır."
+      },
+      {
+        "card_title": "Bakım Süreçleri",
+        "card_body": "Rockwell Automation'daki sistem, teknisyenlerin bakım süreçlerine destek vermektedir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Eğitim ve Uyum Süreçleri",
+    "cards": [
+      {
+        "card_title": "Öğrenme Süresi",
+        "card_body": "Rockwell Automation'daki sistem, yeni işçilerin yüzlerce makinedte sorun gidermeyi öğrenme süresini dokuz aydan üç aya düşürmüştür."
+      },
+      {
+        "card_title": "Hata Azaltma",
+        "card_body": "Pilot uygulamalar sayesinde üretim süreçlerindeki kusurlar azaltılmaktadır."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce yapay zeka destekli yardımcı pilotlar endüstriyel süreçleri nasıl değiştirecek?",
+    "reminder_line": "Bu içerik Microsoft tarafından üretilmiştir."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

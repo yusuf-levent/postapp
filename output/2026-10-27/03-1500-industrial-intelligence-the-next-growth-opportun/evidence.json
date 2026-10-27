@@ -1,0 +1,211 @@
+{
+  "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+  "canonical_url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+  "source_names": [
+    "MIT Technology Review",
+    "TechCrunch",
+    "Microsoft Blog",
+    "NVIDIA Newsroom"
+  ],
+  "checked_at": "2026-10-27T14:42:19+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Toyota Industries, boyahane verilerini birleştirerek analiz döngülerini beş günden dört saatin altına düşürmüştür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "quote": "When Toyota Industries connected previously fragmented paint shop data, engineering and operations teams were given the context needed to understand defect drivers. The company reports that analysis cycles fell from five days to under four hours"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "quote": "When Toyota Industries connected previously fragmented paint shop data, engineering and operations teams were given the context needed to understand defect drivers. The company reports that analysis cycles fell from five days to under four hours..."
+        }
+      ]
+    },
+    {
+      "claim": "Toyota Industries'in pilot uygulaması, ilgili boya kusurlarını yaklaşık yüzde 25 oranında azaltmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "quote": "while its pilot reduced relevant paint defects by about 25%."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "quote": "The company reports that analysis cycles fell from five days to under four hours, while its pilot reduced relevant paint defects by about 25%."
+        }
+      ]
+    },
+    {
+      "claim": "Rockwell Automation'ın Singapur fabrikasındaki teknisyenler, bakım süreçleri için bir bakım yardımcı pilotu (copilot) kullanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "quote": "At its Singapore plant, technicians use a maintenance copilot that combines manufacturing data, machine manuals, and knowledge captured from experienced workers."
+        }
+      ]
+    },
+    {
+      "claim": "Rockwell Automation'daki bu sistem, yeni işçilerin yüzlerce makinede sorun gidermeyi öğrenme süresini dokuz aydan üç aya düşürmüştür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "quote": "This system has reduced the time required for new workers to learn how to troubleshoot hundreds of machines from nine months to three."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "quote": "At its Singapore plant, technicians use a maintenance copilot that combines manufacturing data, machine manuals, and knowledge captured from experienced workers. This system has reduced the time required for new workers to learn how to troubleshoot hundreds of machines from nine months to three."
+        }
+      ]
+    },
+    {
+      "claim": "Bu içerik Microsoft tarafından üretilmiştir ve MIT Technology Review editör kadrosu tarafından yazılmamıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "quote": "This content was produced by Microsoft. It was not written by MIT Technology Review’s editorial staff."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Toyota Industries, boyahane verilerini birleştirerek analiz döngülerini beş günden dört saatin altına düşürmüştür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "quote": "When Toyota Industries connected previously fragmented paint shop data, engineering and operations teams were given the context needed to understand defect drivers. The company reports that analysis cycles fell from five days to under four hours"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "quote": "When Toyota Industries connected previously fragmented paint shop data, engineering and operations teams were given the context needed to understand defect drivers. The company reports that analysis cycles fell from five days to under four hours..."
+        }
+      ]
+    },
+    {
+      "claim": "Toyota Industries'in pilot uygulaması, ilgili boya kusurlarını yaklaşık yüzde 25 oranında azaltmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "quote": "while its pilot reduced relevant paint defects by about 25%."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "quote": "The company reports that analysis cycles fell from five days to under four hours, while its pilot reduced relevant paint defects by about 25%."
+        }
+      ]
+    },
+    {
+      "claim": "Rockwell Automation'ın Singapur fabrikasındaki teknisyenler, bakım süreçleri için bir bakım yardımcı pilotu (copilot) kullanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "quote": "At its Singapore plant, technicians use a maintenance copilot that combines manufacturing data, machine manuals, and knowledge captured from experienced workers."
+        }
+      ]
+    },
+    {
+      "claim": "Rockwell Automation'daki bu sistem, yeni işçilerin yüzlerce makinede sorun gidermeyi öğrenme süresini dokuz aydan üç aya düşürmüştür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "quote": "This system has reduced the time required for new workers to learn how to troubleshoot hundreds of machines from nine months to three."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "quote": "At its Singapore plant, technicians use a maintenance copilot that combines manufacturing data, machine manuals, and knowledge captured from experienced workers. This system has reduced the time required for new workers to learn how to troubleshoot hundreds of machines from nine months to three."
+        }
+      ]
+    },
+    {
+      "claim": "Bu içerik Microsoft tarafından üretilmiştir ve MIT Technology Review editör kadrosu tarafından yazılmamıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "quote": "This content was produced by Microsoft. It was not written by MIT Technology Review’s editorial staff."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Toyota Industries, boyahane verilerini birleştirerek analiz döngülerini beş günden dört saatin altına düşürmüştür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "quote": "When Toyota Industries connected previously fragmented paint shop data, engineering and operations teams were given the context needed to understand defect drivers. The company reports that analysis cycles fell from five days to under four hours"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "quote": "When Toyota Industries connected previously fragmented paint shop data, engineering and operations teams were given the context needed to understand defect drivers. The company reports that analysis cycles fell from five days to under four hours..."
+        }
+      ]
+    },
+    {
+      "claim": "Toyota Industries'in pilot uygulaması, ilgili boya kusurlarını yaklaşık yüzde 25 oranında azaltmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "quote": "while its pilot reduced relevant paint defects by about 25%."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "quote": "The company reports that analysis cycles fell from five days to under four hours, while its pilot reduced relevant paint defects by about 25%."
+        }
+      ]
+    },
+    {
+      "claim": "Rockwell Automation'ın Singapur fabrikasındaki teknisyenler, bakım süreçleri için bir bakım yardımcı pilotu (copilot) kullanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "quote": "At its Singapore plant, technicians use a maintenance copilot that combines manufacturing data, machine manuals, and knowledge captured from experienced workers."
+        }
+      ]
+    },
+    {
+      "claim": "Rockwell Automation'daki bu sistem, yeni işçilerin yüzlerce makinede sorun gidermeyi öğrenme süresini dokuz aydan üç aya düşürmüştür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "quote": "This system has reduced the time required for new workers to learn how to troubleshoot hundreds of machines from nine months to three."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "quote": "At its Singapore plant, technicians use a maintenance copilot that combines manufacturing data, machine manuals, and knowledge captured from experienced workers. This system has reduced the time required for new workers to learn how to troubleshoot hundreds of machines from nine months to three."
+        }
+      ]
+    },
+    {
+      "claim": "Bu içerik Microsoft tarafından üretilmiştir ve MIT Technology Review editör kadrosu tarafından yazılmamıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "quote": "This content was produced by Microsoft. It was not written by MIT Technology Review’s editorial staff."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/": 8212,
+    "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/": 2315,
+    "https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/": 2136,
+    "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/": 11528
+  }
+}
