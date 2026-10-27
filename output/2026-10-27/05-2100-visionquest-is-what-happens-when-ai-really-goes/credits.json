@@ -1,0 +1,38 @@
+{
+  "images": [
+    {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/PaulBettany-byPhilipRomano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-27/05-2100-visionquest-is-what-happens-when-ai-really-goes/images/img-1.png",
+      "license": "",
+      "author": "",
+      "credit_url": "https://en.wikipedia.org/wiki/Paul%20Bettany",
+      "width": 4024,
+      "height": 6048,
+      "alt_text": "Paul Bettany"
+    },
+    {
+      "source": "ogimage",
+      "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/107-90190_RC.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.721948032455%2C100%2C78.556103935089&amp;w=1200",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-27/05-2100-visionquest-is-what-happens-when-ai-really-goes/images/img-2.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+      "width": 3559,
+      "height": 2372,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/37911407/pexels-photo-37911407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-27/05-2100-visionquest-is-what-happens-when-ai-really-goes/images/img-3.png",
+      "license": "Pexels License — Shubham Dhage",
+      "author": "Shubham Dhage",
+      "credit_url": "https://www.pexels.com/photo/futuristic-cyberpunk-ai-portrait-with-glowing-eyes-37911407/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "A cyberpunk-inspired AI robot portrait with glowing eyes, showcasing a sci-fi aesthetic and futuristic concepts."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}
