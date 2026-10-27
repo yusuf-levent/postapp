@@ -1613,5 +1613,79 @@
     ],
     "created_at": "2026-10-27T17:56:14+03:00",
     "verified_claims_count": 7
+  },
+  {
+    "id": "2026-10-27-2100",
+    "date": "2026-10-27",
+    "slot": "21:00",
+    "type": "news",
+    "title_tr": "Trump Yönetimi Metan Kurallarını Değiştiriyor",
+    "original_title": "Trump is making it easier for fossil fuel companies to leak methane",
+    "source_urls": [
+      "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump"
+    ],
+    "canonical_url": "https://theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump",
+    "entities": [
+      "Trump administration",
+      "Environmental Protection Agency",
+      "EPA",
+      "Lee Zeldin",
+      "Donald Trump",
+      "Biden"
+    ],
+    "event_type": "regulatory_rollback",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae0ed55d7b92f839146b904",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae0ed6ca7712201c2183338",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae0ed832d4e3ce4bcb13eee",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2115148878806720602",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18023125214952211",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfAgQMfFH10",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae0eda6d7b92f839146c94b",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae0edbe229a249d534a8d41",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-27T21:30:44+03:00",
+    "verified_claims_count": 8
   }
 ]

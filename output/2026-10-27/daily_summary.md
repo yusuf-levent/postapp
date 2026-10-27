@@ -4,3 +4,4 @@
 - ✅ `12:00` [news] OpenAI Matematik ve Fizikte Çığır Açtı — 6/6 platform
 - ✅ `15:00` [news] Üretimde Veri ve Yapay Zeka Dönüşümü — 6/6 platform
 - ✅ `18:00` [edu] Ford Fathom ve Yeni EV Şarj Cihazları — 6/6 platform
+- ✅ `21:00` [news] Trump Yönetimi Metan Kurallarını Değiştiriyor — 6/6 platform
