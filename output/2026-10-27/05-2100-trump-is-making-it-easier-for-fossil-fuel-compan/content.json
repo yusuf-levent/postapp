@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "ÇEVRE VE ENERJI",
+    "title": "Trump Yönetimi Metan Kurallarını Değiştiriyor",
+    "highlight_words": [
+      "Metan",
+      "Kurallarını"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Metan sızıntılarına karşı koruma kurallarının zayıflatılması planlanıyor.",
+    "source_tags": [
+      "THE VERGE",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Beklenen Karar ve Detaylar",
+    "cards": [
+      {
+        "card_title": "Teksas Mitingi",
+        "card_body": "Trump'ın açıklamayı bugün Teksas eyaletinin Lubbock şehrindeki bir seçim mitinginden yapması beklenmektedir."
+      },
+      {
+        "card_title": "EPA Adımları",
+        "card_body": "EPA, Biden dönemi kurallarını geri alarak metan emisyonlarını azaltması beklenen kuralları değiştirmeyi planlamaktadır."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "80 KATI",
+    "stat_caption": "Metan, 20 yıllık bir ufukta karondioksitten 80 kat daha güçlü olan bir sera gazıdır.",
+    "stat_quote": "Metan, küresel ısınmanın yaklaşık yüzde 30'una neden olmuştur."
+  },
+  "details": {
+    "heading": "Sektörel Etkiler ve Tasarruf",
+    "cards": [
+      {
+        "card_title": "Milyarlarca Dolar Tasarruf",
+        "card_body": "EPA Yöneticisi Lee Zeldin, kural değişikliklerinin petrol ve gaz şirketlerine 45 milyar dolar tasarruf sağlayacağını belirtmiştir."
+      },
+      {
+        "card_title": "Marjinal Kuyular",
+        "card_body": "Eski ve düşük üretimlimarjinal kuyular, ABD petrol ve gazının yüzde 6'sını üretmesine rağmen sektörün metan emisyonlarının yarısından sorumludur."
+      },
+      {
+        "card_title": "Super Emitter Programı",
+        "card_body": "EPA'nın, saatte 100 kilogram veya daha fazla metan salınımını bildiren Super Emitter Programı'nı sonlandırması beklenmektedir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Emisyonlar ve Çevreye Etkisi",
+    "cards": [
+      {
+        "card_title": "Emisyon Hedefleri",
+        "card_body": "Geri alınması planlanan kuralların, metan emisyonlarını 14 yıl içinde yüzde 80 oranında azaltması bekleniyordu."
+      },
+      {
+        "card_title": "Küresel Isınma",
+        "card_body": "Metan gazı, küresel ısınmanın yaklaşık yüzde 30'una neden olmuştur ve iklim üzerinde kritik bir etkiye sahiptir."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce petrol ve gaz şirketlerine sağlanacak 45 milyar dolarlık tasarruf çevre politikalarını nasıl etkiler?",
+    "reminder_line": "Tekno Pusula ile en güncel gelişmeleri takip edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
