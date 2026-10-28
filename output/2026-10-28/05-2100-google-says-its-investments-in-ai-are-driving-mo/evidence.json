@@ -1,0 +1,313 @@
+{
+  "title": "Google says its investments in AI are driving more searches",
+  "canonical_url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+  "source_names": [
+    "The Verge",
+    "Google Blog",
+    "Ars Technica",
+    "TechCrunch"
+  ],
+  "checked_at": "2026-10-28T23:27:08+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Alphabet'in 2026 yılı 3. çeyrek konsolide gelirleri yıllık bazda yüzde 25 artışla 127,6 milyar dolar olarak gerçekleşti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "Alphabet’s consolidated revenues for the quarter were $127.6 billion, up 25 percent year-over-year"
+        }
+      ]
+    },
+    {
+      "claim": "Google Arama ve diğer hizmetlerinden elde edilen gelirler yıllık bazda yüzde 12 oranında arttı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "with its “Google Search & other” revenues up 12 percent year-over-year."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "Alphabet’s consolidated revenues for the quarter were $127.6 billion, up 25 percent year-over-year, with its “Google Search & other” revenues up 12 percent year-over-year."
+        }
+      ]
+    },
+    {
+      "claim": "Google Cloud geliri yıllık bazda yüzde 103 artarak 30,7 milyar dolara ulaştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "Google Cloud revenue was also up 103 percent year-over-year to $30.7 billion."
+        }
+      ]
+    },
+    {
+      "claim": "Google CEO'su Sundar Pichai, yıllık arama sorgusu büyüme oranının son beş yılın en yüksek seviyesinde olduğunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "“In fact, our year-over-year query growth rate is the highest it’s been in the last five years.”"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "“Our AI investments are driving overall Search query growth, including commercial queries,” CEO Sundar Pichai says in a statement. “In fact, our year-over-year query growth rate is the highest it’s been in the last five years.”"
+        }
+      ]
+    },
+    {
+      "claim": "Gemini aylık kullanıcı sayısı 1 milyarı aştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "crossing 1 billion monthly users in Gemini"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "The earnings follow a packed quarter for Google, including the announcement of its Gemini 4 Argon frontier model (which it released widely this month); crossing 1 billion monthly users in Gemini;"
+        }
+      ]
+    },
+    {
+      "claim": "Google, Gemini 4 Argon adlı yeni yapay zeka modelini bu ay geniş çapta kullanıma sundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "including the announcement of its Gemini 4 Argon frontier model (which it released widely this month)"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "The earnings follow a packed quarter for Google, including the announcement of its Gemini 4 Argon frontier model (which it released widely this month)"
+        }
+      ]
+    },
+    {
+      "claim": "Google, ilk beş Googlebook dizüstü bilgisayar modelini tanıttı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "the reveal of the first five Googlebook laptops"
+        }
+      ]
+    },
+    {
+      "claim": "Eski DeepMind lideri Demis Hassabis, Google'ın yapay zeka liderlik kadrosunda başkanlık görevine getirildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "a major shakeup of its top AI leadership that included former DeepMind leader Demis Hassabis stepping into a chair role."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Alphabet'in 2026 yılı 3. çeyrek konsolide gelirleri yıllık bazda yüzde 25 artışla 127,6 milyar dolar olarak gerçekleşti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "Alphabet’s consolidated revenues for the quarter were $127.6 billion, up 25 percent year-over-year"
+        }
+      ]
+    },
+    {
+      "claim": "Google Arama ve diğer hizmetlerinden elde edilen gelirler yıllık bazda yüzde 12 oranında arttı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "with its “Google Search & other” revenues up 12 percent year-over-year."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "Alphabet’s consolidated revenues for the quarter were $127.6 billion, up 25 percent year-over-year, with its “Google Search & other” revenues up 12 percent year-over-year."
+        }
+      ]
+    },
+    {
+      "claim": "Google Cloud geliri yıllık bazda yüzde 103 artarak 30,7 milyar dolara ulaştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "Google Cloud revenue was also up 103 percent year-over-year to $30.7 billion."
+        }
+      ]
+    },
+    {
+      "claim": "Google CEO'su Sundar Pichai, yıllık arama sorgusu büyüme oranının son beş yılın en yüksek seviyesinde olduğunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "“In fact, our year-over-year query growth rate is the highest it’s been in the last five years.”"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "“Our AI investments are driving overall Search query growth, including commercial queries,” CEO Sundar Pichai says in a statement. “In fact, our year-over-year query growth rate is the highest it’s been in the last five years.”"
+        }
+      ]
+    },
+    {
+      "claim": "Gemini aylık kullanıcı sayısı 1 milyarı aştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "crossing 1 billion monthly users in Gemini"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "The earnings follow a packed quarter for Google, including the announcement of its Gemini 4 Argon frontier model (which it released widely this month); crossing 1 billion monthly users in Gemini;"
+        }
+      ]
+    },
+    {
+      "claim": "Google, Gemini 4 Argon adlı yeni yapay zeka modelini bu ay geniş çapta kullanıma sundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "including the announcement of its Gemini 4 Argon frontier model (which it released widely this month)"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "The earnings follow a packed quarter for Google, including the announcement of its Gemini 4 Argon frontier model (which it released widely this month)"
+        }
+      ]
+    },
+    {
+      "claim": "Google, ilk beş Googlebook dizüstü bilgisayar modelini tanıttı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "the reveal of the first five Googlebook laptops"
+        }
+      ]
+    },
+    {
+      "claim": "Eski DeepMind lideri Demis Hassabis, Google'ın yapay zeka liderlik kadrosunda başkanlık görevine getirildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "a major shakeup of its top AI leadership that included former DeepMind leader Demis Hassabis stepping into a chair role."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Alphabet'in 2026 yılı 3. çeyrek konsolide gelirleri yıllık bazda yüzde 25 artışla 127,6 milyar dolar olarak gerçekleşti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "Alphabet’s consolidated revenues for the quarter were $127.6 billion, up 25 percent year-over-year"
+        }
+      ]
+    },
+    {
+      "claim": "Google Arama ve diğer hizmetlerinden elde edilen gelirler yıllık bazda yüzde 12 oranında arttı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "with its “Google Search & other” revenues up 12 percent year-over-year."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "Alphabet’s consolidated revenues for the quarter were $127.6 billion, up 25 percent year-over-year, with its “Google Search & other” revenues up 12 percent year-over-year."
+        }
+      ]
+    },
+    {
+      "claim": "Google Cloud geliri yıllık bazda yüzde 103 artarak 30,7 milyar dolara ulaştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "Google Cloud revenue was also up 103 percent year-over-year to $30.7 billion."
+        }
+      ]
+    },
+    {
+      "claim": "Google CEO'su Sundar Pichai, yıllık arama sorgusu büyüme oranının son beş yılın en yüksek seviyesinde olduğunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "“In fact, our year-over-year query growth rate is the highest it’s been in the last five years.”"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "“Our AI investments are driving overall Search query growth, including commercial queries,” CEO Sundar Pichai says in a statement. “In fact, our year-over-year query growth rate is the highest it’s been in the last five years.”"
+        }
+      ]
+    },
+    {
+      "claim": "Gemini aylık kullanıcı sayısı 1 milyarı aştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "crossing 1 billion monthly users in Gemini"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "The earnings follow a packed quarter for Google, including the announcement of its Gemini 4 Argon frontier model (which it released widely this month); crossing 1 billion monthly users in Gemini;"
+        }
+      ]
+    },
+    {
+      "claim": "Google, Gemini 4 Argon adlı yeni yapay zeka modelini bu ay geniş çapta kullanıma sundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "including the announcement of its Gemini 4 Argon frontier model (which it released widely this month)"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "The earnings follow a packed quarter for Google, including the announcement of its Gemini 4 Argon frontier model (which it released widely this month)"
+        }
+      ]
+    },
+    {
+      "claim": "Google, ilk beş Googlebook dizüstü bilgisayar modelini tanıttı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "the reveal of the first five Googlebook laptops"
+        }
+      ]
+    },
+    {
+      "claim": "Eski DeepMind lideri Demis Hassabis, Google'ın yapay zeka liderlik kadrosunda başkanlık görevine getirildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+          "quote": "a major shakeup of its top AI leadership that included former DeepMind leader Demis Hassabis stepping into a chair role."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026": 1344,
+    "https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/": 686,
+    "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/": 2222,
+    "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/": 2875
+  }
+}

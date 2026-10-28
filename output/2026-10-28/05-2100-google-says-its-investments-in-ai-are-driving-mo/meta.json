@@ -1,0 +1,10 @@
+{
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 281.4,
+  "candidates_tried": 1,
+  "gemini_calls": 17,
+  "canonical_url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+  "generated_at": "2026-10-28T23:31:07+03:00"
+}

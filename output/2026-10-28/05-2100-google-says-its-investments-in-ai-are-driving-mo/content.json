@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ DÜNYASI",
+    "title": "Alphabet'ten Rekor Büyüme ve Yeni Yapay Zeka Dönemi",
+    "highlight_words": [
+      "Rekor",
+      "Yapay Zeka"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Google'ın finansal verileri ve yeni yapay zeka hamleleri açıklandı.",
+    "source_tags": [
+      "THE VERGE",
+      "GOOGLE BLOG"
+    ]
+  },
+  "context": {
+    "heading": "Finansal Tablolar ve Büyüme",
+    "cards": [
+      {
+        "card_title": "Gelirlerde Büyük Artış",
+        "card_body": "Alphabet, 2026 yılı 3. çeyrekte yıllık bazda yüzde 25 artışla 127,6 milyar dolar konsolide gelir elde etti."
+      },
+      {
+        "card_title": "Arama ve Cloud Gücü",
+        "card_body": "Google Arama gelirleri yüzde 12 artarken, Google Cloud geliri yıllık bazda yüzde 103 artışla 30,7 milyar dolara ulaştı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "1 MİLYAR",
+    "stat_caption": "Gemini'nin aylık aktif kullanıcı sayısı 1 milyarı aştı.",
+    "stat_quote": "Sundar Pichai, yıllık arama sorgusu büyüme oranının son beş yılın en yüksek seviyesinde olduğunu belirtti."
+  },
+  "details": {
+    "heading": "Yenilikler ve Liderlik",
+    "cards": [
+      {
+        "card_title": "Gemini 4 Argon",
+        "card_body": "Google, yeni yapay zeka modeli Gemini 4 Argon'u bu ay geniş çapta kullanıma sundu."
+      },
+      {
+        "card_title": "Donanım Hamlesi",
+        "card_body": "Google, ilk beş Googlebook dizüstü bilgisayar modelini tanıttı."
+      },
+      {
+        "card_title": "Yönetim Değişikliği",
+        "card_body": "Eski DeepMind lideri Demis Hassabis, Google'ın yapay zeka liderlik kadrosunda başkanlık görevine getirildi."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etki",
+    "cards": [
+      {
+        "card_title": "Yapay Zeka Liderliği",
+        "card_body": "Demis Hassabis'in başkanlık görevine gelmesi ve Gemini 4 Argon'un yaygınlaşması, Google'ın yapay zeka stratejisini güçlendiriyor."
+      },
+      {
+        "card_title": "Kullanıcı Deneyimi",
+        "card_body": "Arama sorgularındaki rekor artış ve 1 milyarı aşan Gemini kullanıcı sayısı, Google ekosisteminin etkileşim gücünü kanıtlıyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce Google'ın yeni Gemini 4 Argon modeli, yapay zeka rekabetinde dengeleri nasıl değiştirecek?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri kaçırmamak için takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
