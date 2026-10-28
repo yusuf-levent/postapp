@@ -1,0 +1,130 @@
+{
+  "cover": {
+    "category_label": "Yapay Zeka Ekonomisi",
+    "title": "Anthropic'in Yükselişi ve Kurumsal Veriler",
+    "highlight_words": [
+      "Anthropic",
+      "Kurumsal",
+      "Büyüme"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Yapay zeka dünyasında son veriler ne söylüyor? İşte Anthropic'in finansal ve operasyonel karnesi.",
+    "source_tags": [
+      "TechCrunch",
+      "Wired",
+      "Ars Technica",
+      "MIT Technology Review"
+    ]
+  },
+  "problem": {
+    "heading": "Kurumsal AI Kullanımında Neler Değişiyor?",
+    "cards": [
+      {
+        "card_title": "Finansal Başarı",
+        "card_body": "Anthropic, ikinci çeyrekte faaliyet kârı elde ettiğini resmen açıkladı. Bu, şirketin ticari sürdürülebilirliği açısından önemli bir dönüm noktası."
+      },
+      {
+        "card_title": "Sadakat Oranı",
+        "card_body": "Şirketin net gelir tutma oranı, 2025'in üçüncü çeyreğinden 2026'nın üçüncü çeyreğine kadar %900 seviyesinde gerçekleşti."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Kodlama Dünyasında Anthropic Etkisi",
+      "cards": [
+        {
+          "card_title": "En Yaygın Tercih",
+          "card_body": "Jellyfish raporuna göre, 276.000 müşterinin kullandığı agentic kodlama araçları arasında Anthropic modelleri en yaygın kullanılanlar olmaya devam ediyor."
+        },
+        {
+          "card_title": "Harcama Artışı",
+          "card_body": "Yine aynı verilere göre, Anthropic tabanlı araçlara yapılan harcamalar yılın başından bu yana tam 10 kat arttı."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Maliyet Analizi",
+      "cards": [
+        {
+          "card_title": "Mühendislik Bütçesi",
+          "card_body": "Jellyfish raporu, agentic kodlama araçlarının maliyetinin toplam mühendislik maliyetlerinin yaklaşık %2'sine denk geldiğini ortaya koyuyor."
+        },
+        {
+          "card_title": "Piyasa Rekabeti",
+          "card_body": "Yapay zeka pazarındaki hareketlilik sürüyor; OpenAI de Astra modelini bu yaz piyasaya sürerek rekabetteki yerini aldı."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Yeni Raporlama Araçları",
+      "cards": [
+        {
+          "card_title": "Şeffaflık Adımı",
+          "card_body": "Anthropic, kurumsal müşterilerin token harcamalarını daha detaylı görmelerini sağlayan yeni bir raporlama araçları paketi duyurdu."
+        },
+        {
+          "card_title": "Veri Gizliliği",
+          "card_body": "Önemli bir not: Anthropic, bu yeni raporlama araçlarından elde edilen verileri varsayılan olarak model eğitimi için kullanmayacağını belirtti."
+        }
+      ],
+      "code_block": "Veri Kullanımı Politikası: Varsayılan = Eğitim Dışı"
+    }
+  ],
+  "cta": {
+    "question": "Sizce kurumsal şirketlerin yapay zeka araçlarına ayırdığı bütçe önümüzdeki yıl artmaya devam edecek mi?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri takip etmek için Tekno Pusula'yı izlemeye devam edin."
+  },
+  "context": {
+    "heading": "Kurumsal AI Kullanımında Neler Değişiyor?",
+    "cards": [
+      {
+        "card_title": "Finansal Başarı",
+        "card_body": "Anthropic, ikinci çeyrekte faaliyet kârı elde ettiğini resmen açıkladı. Bu, şirketin ticari sürdürülebilirliği açısından önemli bir dönüm noktası."
+      },
+      {
+        "card_title": "Sadakat Oranı",
+        "card_body": "Şirketin net gelir tutma oranı, 2025'in üçüncü çeyreğinden 2026'nın üçüncü çeyreğine kadar %900 seviyesinde gerçekleşti."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Kodlama Dünyasında Anthropic Etkisi",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Maliyet Analizi",
+    "cards": [
+      {
+        "card_title": "Mühendislik Bütçesi",
+        "card_body": "Jellyfish raporu, agentic kodlama araçlarının maliyetinin toplam mühendislik maliyetlerinin yaklaşık %2'sine denk geldiğini ortaya koyuyor."
+      },
+      {
+        "card_title": "Piyasa Rekabeti",
+        "card_body": "Yapay zeka pazarındaki hareketlilik sürüyor; OpenAI de Astra modelini bu yaz piyasaya sürerek rekabetteki yerini aldı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Yeni Raporlama Araçları",
+    "cards": [
+      {
+        "card_title": "Şeffaflık Adımı",
+        "card_body": "Anthropic, kurumsal müşterilerin token harcamalarını daha detaylı görmelerini sağlayan yeni bir raporlama araçları paketi duyurdu."
+      },
+      {
+        "card_title": "Veri Gizliliği",
+        "card_body": "Önemli bir not: Anthropic, bu yeni raporlama araçlarından elde edilen verileri varsayılan olarak model eğitimi için kullanmayacağını belirtti."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}

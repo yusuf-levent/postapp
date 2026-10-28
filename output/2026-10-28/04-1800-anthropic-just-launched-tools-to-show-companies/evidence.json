@@ -1,0 +1,289 @@
+{
+  "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+  "canonical_url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+  "source_names": [
+    "TechCrunch",
+    "Wired",
+    "Ars Technica",
+    "MIT Technology Review"
+  ],
+  "checked_at": "2026-10-28T22:33:53+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Anthropic, ikinci çeyrekte faaliyet kârı elde ettiğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "The company recorded an operating profit in the second quarter"
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic'in net gelir tutma oranı, 2025'in üçüncü çeyreğinden 2026'nın üçüncü çeyreğine kadar %900 olarak gerçekleşti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "and 900% net revenue retention—that is, spending from the same customers in Q3 2025 grew nine times in Q3 2026."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "The company recorded an operating profit in the second quarter, and 900% net revenue retention—that is, spending from the same customers in Q3 2025 grew nine times in Q3 2026."
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic, kurumsal müşterilerin token harcamalarını daha detaylı görmelerini sağlayan yeni bir raporlama araçları paketi duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "Anthropic has focused on getting enterprise users to stick around, and Wednesday announced a new suite of reporting tools designed to give those customers a more granular understanding of the value they get from their token spend."
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic, yeni raporlama araçlarından elde edilen verileri varsayılan olarak model eğitimi için kullanmayacağını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "Anthropic says it won’t use this data for model training by default."
+        }
+      ]
+    },
+    {
+      "claim": "Jellyfish tarafından yayınlanan rapora göre, 276.000 müşterinin kullandığı agentic kodlama araçları arasında Anthropic modelleri en yaygın kullanılanlar olmaya devam ediyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "Jellyfish, a company that makes tools for software developers, released a new report yesterday based on the use of agentic coding tools by 276,000 of its customers. Claude Code and other tools built on Anthropic models remain the most widely used in the survey"
+        }
+      ]
+    },
+    {
+      "claim": "Jellyfish verilerine göre, Anthropic tabanlı araçlara yapılan harcamalar yılın başından bu yana 10 kat arttı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "More importantly, spending on those tools has grown 10x since the beginning of the year"
+        }
+      ]
+    },
+    {
+      "claim": "Jellyfish raporuna göre, agentic kodlama araçlarının maliyeti toplam mühendislik maliyetlerinin yaklaşık %2'sine denk geliyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "with their cost now equal to about 2% of total engineering cost."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "More importantly, spending on those tools has grown 10x since the beginning of the year, with their cost now equal to about 2% of total engineering cost."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, Astra modelini bu yaz piyasaya sürdü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "The release of OpenAI’s Astra model this summer seemed like a potential threat to Anthropic"
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Anthropic, ikinci çeyrekte faaliyet kârı elde ettiğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "The company recorded an operating profit in the second quarter"
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic'in net gelir tutma oranı, 2025'in üçüncü çeyreğinden 2026'nın üçüncü çeyreğine kadar %900 olarak gerçekleşti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "and 900% net revenue retention—that is, spending from the same customers in Q3 2025 grew nine times in Q3 2026."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "The company recorded an operating profit in the second quarter, and 900% net revenue retention—that is, spending from the same customers in Q3 2025 grew nine times in Q3 2026."
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic, kurumsal müşterilerin token harcamalarını daha detaylı görmelerini sağlayan yeni bir raporlama araçları paketi duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "Anthropic has focused on getting enterprise users to stick around, and Wednesday announced a new suite of reporting tools designed to give those customers a more granular understanding of the value they get from their token spend."
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic, yeni raporlama araçlarından elde edilen verileri varsayılan olarak model eğitimi için kullanmayacağını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "Anthropic says it won’t use this data for model training by default."
+        }
+      ]
+    },
+    {
+      "claim": "Jellyfish tarafından yayınlanan rapora göre, 276.000 müşterinin kullandığı agentic kodlama araçları arasında Anthropic modelleri en yaygın kullanılanlar olmaya devam ediyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "Jellyfish, a company that makes tools for software developers, released a new report yesterday based on the use of agentic coding tools by 276,000 of its customers. Claude Code and other tools built on Anthropic models remain the most widely used in the survey"
+        }
+      ]
+    },
+    {
+      "claim": "Jellyfish verilerine göre, Anthropic tabanlı araçlara yapılan harcamalar yılın başından bu yana 10 kat arttı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "More importantly, spending on those tools has grown 10x since the beginning of the year"
+        }
+      ]
+    },
+    {
+      "claim": "Jellyfish raporuna göre, agentic kodlama araçlarının maliyeti toplam mühendislik maliyetlerinin yaklaşık %2'sine denk geliyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "with their cost now equal to about 2% of total engineering cost."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "More importantly, spending on those tools has grown 10x since the beginning of the year, with their cost now equal to about 2% of total engineering cost."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, Astra modelini bu yaz piyasaya sürdü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "The release of OpenAI’s Astra model this summer seemed like a potential threat to Anthropic"
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Anthropic, ikinci çeyrekte faaliyet kârı elde ettiğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "The company recorded an operating profit in the second quarter"
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic'in net gelir tutma oranı, 2025'in üçüncü çeyreğinden 2026'nın üçüncü çeyreğine kadar %900 olarak gerçekleşti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "and 900% net revenue retention—that is, spending from the same customers in Q3 2025 grew nine times in Q3 2026."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "The company recorded an operating profit in the second quarter, and 900% net revenue retention—that is, spending from the same customers in Q3 2025 grew nine times in Q3 2026."
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic, kurumsal müşterilerin token harcamalarını daha detaylı görmelerini sağlayan yeni bir raporlama araçları paketi duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "Anthropic has focused on getting enterprise users to stick around, and Wednesday announced a new suite of reporting tools designed to give those customers a more granular understanding of the value they get from their token spend."
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic, yeni raporlama araçlarından elde edilen verileri varsayılan olarak model eğitimi için kullanmayacağını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "Anthropic says it won’t use this data for model training by default."
+        }
+      ]
+    },
+    {
+      "claim": "Jellyfish tarafından yayınlanan rapora göre, 276.000 müşterinin kullandığı agentic kodlama araçları arasında Anthropic modelleri en yaygın kullanılanlar olmaya devam ediyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "Jellyfish, a company that makes tools for software developers, released a new report yesterday based on the use of agentic coding tools by 276,000 of its customers. Claude Code and other tools built on Anthropic models remain the most widely used in the survey"
+        }
+      ]
+    },
+    {
+      "claim": "Jellyfish verilerine göre, Anthropic tabanlı araçlara yapılan harcamalar yılın başından bu yana 10 kat arttı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "More importantly, spending on those tools has grown 10x since the beginning of the year"
+        }
+      ]
+    },
+    {
+      "claim": "Jellyfish raporuna göre, agentic kodlama araçlarının maliyeti toplam mühendislik maliyetlerinin yaklaşık %2'sine denk geliyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "with their cost now equal to about 2% of total engineering cost."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "More importantly, spending on those tools has grown 10x since the beginning of the year, with their cost now equal to about 2% of total engineering cost."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, Astra modelini bu yaz piyasaya sürdü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "quote": "The release of OpenAI’s Astra model this summer seemed like a potential threat to Anthropic"
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/": 4146,
+    "https://www.wired.com/story/the-men-dropping-50000-and-up-on-teslas-new-roadster/": 4337,
+    "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/": 11467,
+    "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/": 7046
+  }
+}
