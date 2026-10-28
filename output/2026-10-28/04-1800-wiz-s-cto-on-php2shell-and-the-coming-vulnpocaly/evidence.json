@@ -1,0 +1,187 @@
+{
+  "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+  "canonical_url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+  "source_names": [
+    "TechCrunch",
+    "Google Blog",
+    "The Verge",
+    "Ars Technica"
+  ],
+  "checked_at": "2026-10-28T22:14:00+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "PHP, web sitelerinin yaklaşık %70'inin arkasındaki açık kaynaklı dildir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+          "quote": "two critical bugs in the open source language behind roughly 70% of websites"
+        }
+      ]
+    },
+    {
+      "claim": "Geçtiğimiz hafta açık kaynaklı PHP dilinde iki kritik hata bulunmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+          "quote": "Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems"
+        }
+      ]
+    },
+    {
+      "claim": "Hataların düzeltilmesi sürecinde OpenAI, Calif araştırma grubu ve PHP ekibi yer almıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+          "quote": "who was part of the scramble — alongside OpenAI, research group Calif, and the PHP team — to fix the bugs."
+        },
+        {
+          "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+          "quote": "alongside OpenAI, research group Calif, and the PHP team — to fix the bugs."
+        }
+      ]
+    },
+    {
+      "claim": "Tomer Schwartz, Google bünyesindeki Wiz'de Exposure Management ve AppSec CTO'sudur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+          "quote": "Tomer Schwartz, CTO of Exposure Management & AppSec at Google-owned Wiz"
+        }
+      ]
+    },
+    {
+      "claim": "Rebecca Bellan, TechCrunch’ın Equity podcast'inde Tomer Schwartz ile konuşmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+          "quote": "On this episode of TechCrunch’sEquity podcast, Rebecca Bellan talks with Tomer Schwartz, CTO of Exposure Management & AppSec at Google-owned Wiz"
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "PHP, web sitelerinin yaklaşık %70'inin arkasındaki açık kaynaklı dildir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+          "quote": "two critical bugs in the open source language behind roughly 70% of websites"
+        }
+      ]
+    },
+    {
+      "claim": "Geçtiğimiz hafta açık kaynaklı PHP dilinde iki kritik hata bulunmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+          "quote": "Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems"
+        }
+      ]
+    },
+    {
+      "claim": "Hataların düzeltilmesi sürecinde OpenAI, Calif araştırma grubu ve PHP ekibi yer almıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+          "quote": "who was part of the scramble — alongside OpenAI, research group Calif, and the PHP team — to fix the bugs."
+        },
+        {
+          "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+          "quote": "alongside OpenAI, research group Calif, and the PHP team — to fix the bugs."
+        }
+      ]
+    },
+    {
+      "claim": "Tomer Schwartz, Google bünyesindeki Wiz'de Exposure Management ve AppSec CTO'sudur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+          "quote": "Tomer Schwartz, CTO of Exposure Management & AppSec at Google-owned Wiz"
+        }
+      ]
+    },
+    {
+      "claim": "Rebecca Bellan, TechCrunch’ın Equity podcast'inde Tomer Schwartz ile konuşmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+          "quote": "On this episode of TechCrunch’sEquity podcast, Rebecca Bellan talks with Tomer Schwartz, CTO of Exposure Management & AppSec at Google-owned Wiz"
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "PHP, web sitelerinin yaklaşık %70'inin arkasındaki açık kaynaklı dildir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+          "quote": "two critical bugs in the open source language behind roughly 70% of websites"
+        }
+      ]
+    },
+    {
+      "claim": "Geçtiğimiz hafta açık kaynaklı PHP dilinde iki kritik hata bulunmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+          "quote": "Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems"
+        }
+      ]
+    },
+    {
+      "claim": "Hataların düzeltilmesi sürecinde OpenAI, Calif araştırma grubu ve PHP ekibi yer almıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+          "quote": "who was part of the scramble — alongside OpenAI, research group Calif, and the PHP team — to fix the bugs."
+        },
+        {
+          "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+          "quote": "alongside OpenAI, research group Calif, and the PHP team — to fix the bugs."
+        }
+      ]
+    },
+    {
+      "claim": "Tomer Schwartz, Google bünyesindeki Wiz'de Exposure Management ve AppSec CTO'sudur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+          "quote": "Tomer Schwartz, CTO of Exposure Management & AppSec at Google-owned Wiz"
+        }
+      ]
+    },
+    {
+      "claim": "Rebecca Bellan, TechCrunch’ın Equity podcast'inde Tomer Schwartz ile konuşmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+          "quote": "On this episode of TechCrunch’sEquity podcast, Rebecca Bellan talks with Tomer Schwartz, CTO of Exposure Management & AppSec at Google-owned Wiz"
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/": 1026,
+    "https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/": 686,
+    "https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date": 2596,
+    "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/": 2222
+  }
+}

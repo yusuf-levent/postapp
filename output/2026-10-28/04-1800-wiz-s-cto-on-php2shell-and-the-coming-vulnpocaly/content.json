@@ -1,0 +1,129 @@
+{
+  "cover": {
+    "category_label": "Yazılım Güvenliği",
+    "title": "PHP Dilinde Kritik Hatalar Tespit Edildi",
+    "highlight_words": [
+      "PHP",
+      "Kritik Hatalar"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Web sitelerinin %70'ini etkileyen süreç ve detaylar.",
+    "source_tags": [
+      "TechCrunch",
+      "Google Blog",
+      "The Verge",
+      "Ars Technica"
+    ]
+  },
+  "problem": {
+    "heading": "Mevcut Durum ve Bulunan Hatalar",
+    "cards": [
+      {
+        "card_title": "PHP'nin Yaygınlığı",
+        "card_body": "PHP, web sitelerinin yaklaşık %70'inin arkasındaki açık kaynaklı dildir."
+      },
+      {
+        "card_title": "Kritik Açıklar",
+        "card_body": "Geçtiğimiz hafta açık kaynaklı PHP dilinde iki kritik hata bulunmuştur."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "1. Çözüm Ekip Çalışması",
+      "cards": [
+        {
+          "card_title": "Ortak Çalışma",
+          "card_body": "Hataların düzeltilmesi sürecinde OpenAI, Calif araştırma grubu ve PHP ekibi yer almıştır."
+        },
+        {
+          "card_title": "Açık Kaynak Desteği",
+          "card_body": "Güvenlik açıkları ilgili ekiplerin koordineli çalışmasıyla ele alınmıştır."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "2. Güvenlik Uzmanlarının Rolü",
+      "cards": [
+        {
+          "card_title": "Tomer Schwartz kimdir?",
+          "card_body": "Tomer Schwartz, Google bünyesindeki Wiz'de Exposure Management ve AppSec CTO'sudur."
+        },
+        {
+          "card_title": "Uzman Görüşleri",
+          "card_body": "Süreç ve güvenlik önlemleri sektör uzmanları tarafından değerlendirilmektedir."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "3. Gelişmelerin Takibi",
+      "cards": [
+        {
+          "card_title": "Podcast Yayını",
+          "card_body": "Rebecca Bellan, TechCrunch’ın Equity podcast'inde Tomer Schwartz ile konuşmaktadır."
+        },
+        {
+          "card_title": "Bilgilendirme",
+          "card_body": "Güvenlik açıklarına dair detaylar teknoloji yayınlarında ele alınmaktadır."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "PHP tabanlı projelerinizde güvenlik güncellemelerini takip ediyor musunuz?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
+  },
+  "context": {
+    "heading": "Mevcut Durum ve Bulunan Hatalar",
+    "cards": [
+      {
+        "card_title": "PHP'nin Yaygınlığı",
+        "card_body": "PHP, web sitelerinin yaklaşık %70'inin arkasındaki açık kaynaklı dildir."
+      },
+      {
+        "card_title": "Kritik Açıklar",
+        "card_body": "Geçtiğimiz hafta açık kaynaklı PHP dilinde iki kritik hata bulunmuştur."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "1. Çözüm Ekip Çalışması",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "2. Güvenlik Uzmanlarının Rolü",
+    "cards": [
+      {
+        "card_title": "Tomer Schwartz kimdir?",
+        "card_body": "Tomer Schwartz, Google bünyesindeki Wiz'de Exposure Management ve AppSec CTO'sudur."
+      },
+      {
+        "card_title": "Uzman Görüşleri",
+        "card_body": "Süreç ve güvenlik önlemleri sektör uzmanları tarafından değerlendirilmektedir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "3. Gelişmelerin Takibi",
+    "cards": [
+      {
+        "card_title": "Podcast Yayını",
+        "card_body": "Rebecca Bellan, TechCrunch’ın Equity podcast'inde Tomer Schwartz ile konuşmaktadır."
+      },
+      {
+        "card_title": "Bilgilendirme",
+        "card_body": "Güvenlik açıklarına dair detaylar teknoloji yayınlarında ele alınmaktadır."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}
