@@ -1,0 +1,126 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ GELİŞMELERİ",
+    "title": "Fiziksel Medya Dönemi Kapanıyor",
+    "highlight_words": [
+      "Fiziksel Medya"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Sony ve diğer üreticilerin güncel takvimi.",
+    "source_tags": [
+      "Engadget",
+      "Wired"
+    ]
+  },
+  "problem": {
+    "heading": "Sektörde Neler Değişiyor?",
+    "cards": [
+      {
+        "card_title": "Pazarın Durumu",
+        "card_body": "Büyük üreticiler fiziksel oynatıcı ve disk üretimini sırayla sonlandırıyor."
+      },
+      {
+        "card_title": "Geçiş Süreci",
+        "card_body": "Dijital platformlar ve akış servisleri sektörü tamamen dönüştürüyor."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "1. Adım: Samsung ve LG",
+      "cards": [
+        {
+          "card_title": "Samsung (2019)",
+          "card_body": "Samsung, Blu-ray pazarından 2019 yılında tamamen çekildi."
+        },
+        {
+          "card_title": "LG (Aralık 2024)",
+          "card_body": "LG, Blu-ray oynatıcı üretimini Aralık 2024'te durdurdu."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "2. Adım: Sony Oynatıcılar",
+      "cards": [
+        {
+          "card_title": "UBP-X700/K Modeli",
+          "card_body": "Sony UBP-X700/K modeli 2025'in ilkbaharında piyasaya sürüldü."
+        },
+        {
+          "card_title": "Son 4K Oynatıcı",
+          "card_body": "Sony resmi olarak son 4K Blu-ray oynatıcısını 22 Ekim 2026'da durduracağını doğruladı."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "3. Adım: PlayStation Gelişmeleri",
+      "cards": [
+        {
+          "card_title": "PS5 Konsollar",
+          "card_body": "Sony, takılabilir optik sürücüyü 10 Ekim 2023'te PS5 Slim ile 79 dolara çıkardı; PS5 Pro ise 7 Kasım 2024'te piyasaya sürüldü."
+        },
+        {
+          "card_title": "Fiziksel Diskler",
+          "card_body": "Sony, Ocak 2028'den itibaren yeni PS5 oyunları için fiziksel disk üretiminin durdurulacağını Temmuz ayında onayladı."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Dijital arşive geçiş hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Tekno Pusula ile güncel kal."
+  },
+  "context": {
+    "heading": "Sektörde Neler Değişiyor?",
+    "cards": [
+      {
+        "card_title": "Pazarın Durumu",
+        "card_body": "Büyük üreticiler fiziksel oynatıcı ve disk üretimini sırayla sonlandırıyor."
+      },
+      {
+        "card_title": "Geçiş Süreci",
+        "card_body": "Dijital platformlar ve akış servisleri sektörü tamamen dönüştürüyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "1. Adım: Samsung ve LG",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "2. Adım: Sony Oynatıcılar",
+    "cards": [
+      {
+        "card_title": "UBP-X700/K Modeli",
+        "card_body": "Sony UBP-X700/K modeli 2025'in ilkbaharında piyasaya sürüldü."
+      },
+      {
+        "card_title": "Son 4K Oynatıcı",
+        "card_body": "Sony resmi olarak son 4K Blu-ray oynatıcısını 22 Ekim 2026'da durduracağını doğruladı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "3. Adım: PlayStation Gelişmeleri",
+    "cards": [
+      {
+        "card_title": "PS5 Konsollar",
+        "card_body": "Sony, takılabilir optik sürücüyü 10 Ekim 2023'te PS5 Slim ile 79 dolara çıkardı; PS5 Pro ise 7 Kasım 2024'te piyasaya sürüldü."
+      },
+      {
+        "card_title": "Fiziksel Diskler",
+        "card_body": "Sony, Ocak 2028'den itibaren yeni PS5 oyunları için fiziksel disk üretiminin durdurulacağını Temmuz ayında onayladı."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}

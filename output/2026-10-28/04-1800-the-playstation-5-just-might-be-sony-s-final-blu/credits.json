@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Black_and_white_Playstation_5_base_edition_with_controller.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-28/04-1800-the-playstation-5-just-might-be-sony-s-final-blu/images/img-1.png",
+      "license": "",
+      "author": "",
+      "credit_url": "https://en.wikipedia.org/wiki/PlayStation%205",
+      "width": 1941,
+      "height": 3515,
+      "alt_text": "PlayStation 5"
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir.",
+  "music": [
+    {
+      "title": "Torley Wong - The Final Selection ::: 230 diverse MP3s",
+      "artist": "Torley Wong",
+      "license": "Creative Commons (ticari kullanıma uygun)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/us/",
+      "source_url": "https://archive.org/details/Torley_Wong_-_The_Final_Selection"
+    }
+  ]
+}
