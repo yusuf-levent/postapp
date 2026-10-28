@@ -1739,11 +1739,11 @@
       },
       {
         "platform": "threads",
-        "state": "failed",
-        "external_id": "",
-        "permalink": "",
-        "attempts": 1,
-        "last_error": "HTTP 400: {\"error\":{\"message\":\"The requested resource does not exist\",\"type\":\"OAuthException\",\"code\":24,\"error_subcode\":4279009,\"is_transient\":false,\"error_user_title\":\"Media Not Found\",\"error_user_msg\":\"The media with id 18129264040782657 cannot be found.\",\"fbtrace_id\":\"Axa8hifm6zz_XshO80oHDPZ\"}}"
+        "state": "published",
+        "external_id": "18111136985111853",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfBuUHFFQQK",
+        "attempts": 2,
+        "last_error": ""
       },
       {
         "platform": "linkedin",
