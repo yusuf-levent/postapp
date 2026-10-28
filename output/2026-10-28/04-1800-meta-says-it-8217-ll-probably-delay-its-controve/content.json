@@ -1,0 +1,127 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ GÜNDEMİ",
+    "title": "Meta'nın Yeni İş Şartlarında Erteleme Sinyali",
+    "highlight_words": [
+      "Erteleme"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Güncellenen kuralların takvimi ve gelen tepkiler.",
+    "source_tags": [
+      "The Verge",
+      "TechCrunch",
+      "Meta Newsroom"
+    ]
+  },
+  "problem": {
+    "heading": "Meta'nın Yeni İş Şartları Neden Gündemde?",
+    "cards": [
+      {
+        "card_title": "İlk Planlanan Tarih",
+        "card_body": "Yeni iş şartlarının başlangıçta 30 Ekim'de yürürlüğe girmesi planlanıyordu."
+      },
+      {
+        "card_title": "Olası Erteleme",
+        "card_body": "Meta, yeni iş şartlarının uygulanmasını 20 Kasım'ın ötesine erteleyebileceğini açıkladı."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Andy Stone'un Açıklaması",
+      "cards": [
+        {
+          "card_title": "İstişare Vurgusu",
+          "card_body": "Meta iletişim başkanı Andy Stone, X üzerinden açıklama yaptı."
+        },
+        {
+          "card_title": "Politika Değişikliği",
+          "card_body": "Endüstri grupları ve liderlerle tam bir istişare yapılmadan politika değişikliği planlamadıkları belirtildi."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Sektörden Gelen Tepkiler",
+      "cards": [
+        {
+          "card_title": "News/Media Alliance",
+          "card_body": "News/Media Alliance yeni şartlara tepki gösterdi."
+        },
+        {
+          "card_title": "Milletvekilleri",
+          "card_body": "Her iki siyasi kanattan milletvekilleri de yeni şartlara karşı tepkilerini dile getirdi."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Siyasi İsimlerin Çağrıları",
+      "cards": [
+        {
+          "card_title": "Senatör Marsha Blackburn",
+          "card_body": "Güncellenmiş şartların, Meta'nın Amerikan içerik üreticilerini ve işletmelerini sömürmeye çalıştığını gösterdiğini söyledi."
+        },
+        {
+          "card_title": "Senatör Adam Schiff",
+          "card_body": "Meta'ya bu değişiklikten geri adım atması çağrısında bulundu."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Meta'nın bu erteleme kararı hakkındaki düşünceleriniz neler?",
+    "reminder_line": "Teknoloji gündemindeki gelişmeler için Tekno Pusula'yı takipte kalın!"
+  },
+  "context": {
+    "heading": "Meta'nın Yeni İş Şartları Neden Gündemde?",
+    "cards": [
+      {
+        "card_title": "İlk Planlanan Tarih",
+        "card_body": "Yeni iş şartlarının başlangıçta 30 Ekim'de yürürlüğe girmesi planlanıyordu."
+      },
+      {
+        "card_title": "Olası Erteleme",
+        "card_body": "Meta, yeni iş şartlarının uygulanmasını 20 Kasım'ın ötesine erteleyebileceğini açıkladı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Andy Stone'un Açıklaması",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Sektörden Gelen Tepkiler",
+    "cards": [
+      {
+        "card_title": "News/Media Alliance",
+        "card_body": "News/Media Alliance yeni şartlara tepki gösterdi."
+      },
+      {
+        "card_title": "Milletvekilleri",
+        "card_body": "Her iki siyasi kanattan milletvekilleri de yeni şartlara karşı tepkilerini dile getirdi."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Siyasi İsimlerin Çağrıları",
+    "cards": [
+      {
+        "card_title": "Senatör Marsha Blackburn",
+        "card_body": "Güncellenmiş şartların, Meta'nın Amerikan içerik üreticilerini ve işletmelerini sömürmeye çalıştığını gösterdiğini söyledi."
+      },
+      {
+        "card_title": "Senatör Adam Schiff",
+        "card_body": "Meta'ya bu değişiklikten geri adım atması çağrısında bulundu."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}
