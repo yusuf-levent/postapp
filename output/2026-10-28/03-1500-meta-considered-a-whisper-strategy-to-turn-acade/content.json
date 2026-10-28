@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "SOSYAL MEDYA VE GİZLİ KAMPANYALAR",
+    "title": "Meta'nın Haidt'i İtibarsızlaştırma Planı",
+    "highlight_words": [
+      "İtibarsızlaştırma",
+      "Planı"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Federal dava dosyalarından çıkan belgeler yeni bir tartışmanın fitilini ateşledi.",
+    "source_tags": [
+      "THE VERGE",
+      "ENGADGET"
+    ]
+  },
+  "context": {
+    "heading": "Kongre Önündeki İfadeler",
+    "cards": [
+      {
+        "card_title": "Depresyon ve Kaygı İddiası",
+        "card_body": "Jonathan Haidt, 2022 yılında Kongre önünde sosyal medyanın ergenlerde depresyon ve kaygıyı artırdığına dair ifade verdi."
+      },
+      {
+        "card_title": "Substack Paylaşımları",
+        "card_body": "Jonathan Haidt, Şubat 2023'te teorilerini ve araştırmalarını Substack platformunda yayınlamaya başladı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "7 MART",
+    "stat_caption": "Meta ekibinin diğer akademisyenleri Haidt'e karşı döndürmeyi tartıştığı toplantı tarihi.",
+    "stat_quote": "Meta çalışanlarının Jonathan Haidt'i zayıflatma yollarını tartıştığı notlar federal dava dosyasında yer aldı."
+  },
+  "details": {
+    "heading": "Fısıltı Stratejisinin Detayları",
+    "cards": [
+      {
+        "card_title": "Fısıltı Stratejisi",
+        "card_body": "Meta, Mart 2023'te sosyal psikolog Jonathan Haidt'i itibarsızlaştırmak için fısıltı stratejisi adında bir kampanya tartışt."
+      },
+      {
+        "card_title": "Akademisyenleri Yönlendirme",
+        "card_body": "7 Mart 2023 tarihli toplantıda diğer akademisyenleri Haidt'e karşı döndürmek ve metodologların daha güçlü konuşması değerlendirildi."
+      },
+      {
+        "card_title": "Hedef ve Curtiss Cobb",
+        "card_body": "8 Mart tarihli alt başlıkta Meta'nın o dönemki araştırma başkan yardımcısı Curtiss Cobb'un hedefinin akademisyenlerin Haidt'i reddetmesini sağlamak olduğu yazıldı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Dava Dosyalarındaki Diğer İsimler",
+    "cards": [
+      {
+        "card_title": "Jean Twenge'nin İfadesi",
+        "card_body": "Belgelerde, San Diego State Üniversitesi psikoloji profesörü Jean Twenge'nin çocukların çevrimiçi güvenliği davalarında ifade verdiği belirtildi."
+      },
+      {
+        "card_title": "Peter Gray'in Kitabı",
+        "card_body": "Peter Gray, Haidt'in teorisini eleştiren ve ergenlerin zihinsel sağlık sorunlarını Common Core eğitim müfredatına bağlayan bir kitap yayınladı."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sosyal medya platformlarının akademisyenler üzerindeki bu stratejileri hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
