@@ -1,0 +1,129 @@
+{
+  "cover": {
+    "category_label": "GÜNCEL TEKNOLOJİ",
+    "title": "Meta'nın Yeni Şartlarında Neler Değişiyor?",
+    "highlight_words": [
+      "Meta",
+      "Politika",
+      "Güncelleme"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Şirketin veri politikası ve işletme şartlarındaki son gelişmeler.",
+    "source_tags": [
+      "Engadget",
+      "The Verge",
+      "TechCrunch"
+    ]
+  },
+  "problem": {
+    "heading": "Neden Gündemde?",
+    "cards": [
+      {
+        "card_title": "Ertelenen Tarih",
+        "card_body": "Meta'nın yeni işletme şartlarının 30 Ekim'de yürürlüğe girmesi planlanıyordu ancak bu tarih 20 Kasım'a ertelendi."
+      },
+      {
+        "card_title": "İstişare Süreci",
+        "card_body": "Meta sözcüsü Andy Stone, endüstri grupları ve liderlerle tam bir istişare yapılana kadar politika değişiklikleri yapmayı planlamadıklarını açıkladı."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Hukuki ve Siyasi Baskı",
+      "cards": [
+        {
+          "card_title": "Dava Süreci",
+          "card_body": "Norveç merkezli bir medya kuruluşu grubu, Meta'nın yeni şartları nedeniyle şirkete karşı dava açtı."
+        },
+        {
+          "card_title": "Yasal Müdahale",
+          "card_body": "Kaliforniya Senatörü Adam Schiff, Meta'dan bu değişikliklerden vazgeçmesini talep eden ikinci yasa koyucu oldu."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Metinlerdeki Küçük Değişiklik",
+      "cards": [
+        {
+          "card_title": "Kelime Değişimi",
+          "card_body": "Meta, bu ayın başlarında metinlerinden 'train' (eğitmek) kelimesini çıkardı."
+        },
+        {
+          "card_title": "Yeni İfade",
+          "card_body": "Çıkarılan kelimenin yerine 'reklam ve işletme ürünleri' referansı eklendi."
+        }
+      ],
+      "code_block": "Eski Metin: '...data to train AI models...' -> Yeni Metin: '...data for advertising and business products...'"
+    },
+    {
+      "heading": "Özetle Durum",
+      "cards": [
+        {
+          "card_title": "Bekleme Modu",
+          "card_body": "Şu an için süreç, endüstri liderleriyle yapılacak görüşmeler ve gelen tepkiler nedeniyle 20 Kasım'a kadar askıya alınmış durumda."
+        },
+        {
+          "card_title": "Şeffaflık İhtiyacı",
+          "card_body": "Hem yasal otoriteler hem de medya kuruluşları, Meta'nın veri kullanım politikaları konusunda daha fazla netlik bekliyor."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Meta'nın bu politika değişiklikleri hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri takip etmek için Tekno Pusula'yı takipte kalın!"
+  },
+  "context": {
+    "heading": "Neden Gündemde?",
+    "cards": [
+      {
+        "card_title": "Ertelenen Tarih",
+        "card_body": "Meta'nın yeni işletme şartlarının 30 Ekim'de yürürlüğe girmesi planlanıyordu ancak bu tarih 20 Kasım'a ertelendi."
+      },
+      {
+        "card_title": "İstişare Süreci",
+        "card_body": "Meta sözcüsü Andy Stone, endüstri grupları ve liderlerle tam bir istişare yapılana kadar politika değişiklikleri yapmayı planlamadıklarını açıkladı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Hukuki ve Siyasi Baskı",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Metinlerdeki Küçük Değişiklik",
+    "cards": [
+      {
+        "card_title": "Kelime Değişimi",
+        "card_body": "Meta, bu ayın başlarında metinlerinden 'train' (eğitmek) kelimesini çıkardı."
+      },
+      {
+        "card_title": "Yeni İfade",
+        "card_body": "Çıkarılan kelimenin yerine 'reklam ve işletme ürünleri' referansı eklendi."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Özetle Durum",
+    "cards": [
+      {
+        "card_title": "Bekleme Modu",
+        "card_body": "Şu an için süreç, endüstri liderleriyle yapılacak görüşmeler ve gelen tepkiler nedeniyle 20 Kasım'a kadar askıya alınmış durumda."
+      },
+      {
+        "card_title": "Şeffaflık İhtiyacı",
+        "card_body": "Hem yasal otoriteler hem de medya kuruluşları, Meta'nın veri kullanım politikaları konusunda daha fazla netlik bekliyor."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}
