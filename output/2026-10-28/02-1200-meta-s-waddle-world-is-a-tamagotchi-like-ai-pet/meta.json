@@ -1,0 +1,10 @@
+{
+  "slot": "12:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 80.8,
+  "candidates_tried": 1,
+  "gemini_calls": 13,
+  "canonical_url": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/",
+  "generated_at": "2026-10-28T11:42:45+03:00"
+}

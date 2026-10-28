@@ -1,0 +1,68 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE OYUN",
+    "title": "Meta'dan Yeni Yapay Zeka Oyunu: Waddle World",
+    "highlight_words": [
+      "Waddle World"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Meta, Tamagotchi benzeri yeni yapay zeka destekli evcil hayvan oyununu duyurdu.",
+    "source_tags": [
+      "ENGADGET",
+      "THE VERGE"
+    ]
+  },
+  "context": {
+    "heading": "Waddle World Nedir?",
+    "cards": [
+      {
+        "card_title": "16-Bit Sanal Evcil Hayvan",
+        "card_body": "Waddle World, Meta tarafından geliştirilen 16-bit formatında ve evcil hayvan kisvesi altında bir günlük olarak tanımlanan bir oyun."
+      },
+      {
+        "card_title": "İlk Çıkış ve Erişim",
+        "card_body": "Uygulama mağazası listelerine göre oyun Eylül ayının sonlarında yayınlandı ve şu anda yalnızca Filipinler'de erişilebilir durumda."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "16-BİT",
+    "stat_caption": "Meta'nın yeni yapay zeka oyununun görsel ve teknik tarzı.",
+    "stat_quote": "Sosyal medya danışmanı Matt Navarra, oyunun Apple App Store ve Google Play bağlantılarını X üzerinden paylaştı."
+  },
+  "details": {
+    "heading": "Oyunun Özellikleri ve Detaylar",
+    "cards": [
+      {
+        "card_title": "Günlük Günlük Formatı",
+        "card_body": "Oyun, geleneksel evcil hayvan bakım mekaniklerini günlük tutma deneyimiyle birleştiriyor."
+      },
+      {
+        "card_title": "Sosyal Medya Paylaşımı",
+        "card_body": "Gelişme, sosyal medya danışmanı Matt Navarra'nın X platformundaki paylaşımlarıyla duyuruldu."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Donanım ve Gelecek Planları",
+    "cards": [
+      {
+        "card_title": "Muse Charm Cihazı",
+        "card_body": "Meta, Eylül ayındaki Connect etkinliğinde yumurta şeklindeki fiziksel yapay zeka arkadaşı Muse Charm'ı tanıttı."
+      },
+      {
+        "card_title": "Tatil Sezonu Hedefi",
+        "card_body": "Meta, Muse Charm cihazını bu yıl Aralık ayındaki tatil sezonuna kadar piyasaya sürmeyi hedefliyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce Meta'nın yapay zeka destekli sanal evcil hayvan oyunları ve fiziksel cihazları popüler olacak mı?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

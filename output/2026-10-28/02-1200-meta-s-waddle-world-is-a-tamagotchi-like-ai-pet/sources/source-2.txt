@@ -1,0 +1,11 @@
+URL: https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/
+Erişim zamanı: 2026-10-28T11:41:53+03:00
+
+Following our global announcement of Muse, we are excited to share that Muse is now available in Singapore.
+What Muse Can Do in Singapore
+Connectors are a big reason Muse can do so much. People in Singapore can connect their Muse to apps they already use, including Gmail, Google Calendar and Instagram, so it can help them manage email, coordinate schedules and draw on saved content to get everyday tasks done.
+Early local connector partners in Singapore include Shopee, Grab, Singapore Airlines, Agoda, ShopBack, Klook, Trip.com and Lazada spanning shopping, groceries, dining and travel. Connector features will roll out progressively, with some experiences becoming available after launch.
+You can ask Muse to research products and compare prices before buying on Shopee or Lazada, or plan grocery shopping and dining through GrabMart and Grab Dine Out. You can also explore travel, ticketing and reservation options through Singapore Airlines, Agoda, Klook and Trip.com, or earn cashback on travel and shopping plus claim in-store dining deals through ShopBack.
+Making this technology work for everyone requires careful design and engineering to operate more safely. That’s where most of the effort on this project went and this post explains our approach in detail. Muse runs on Muse Secure VM, a dedicated computer in the cloud that securely stores the data and credentials for the services you connect, while keeping passwords and payment methods out of the agent’s view. You choose what your Muse can access, and it checks with you before sensitive actions such as sending an email or making a purchase.
+Nicole Tan, Managing Director, Meta Singapore said: “Muse is your personal agent, built to help make everyday life easier. We are connecting Muse with some of the most iconic brands in Singapore and the region, so you can get things done with the services you already use and love.”
+Muse is available in Singapore on iOS, Android, and muse.ai, and coming soon to AI glasses. It’s free for most of what people need, with subscription plans for people who want to do more.
