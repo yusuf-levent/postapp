@@ -1,0 +1,74 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ VE FİNANS",
+    "title": "Jio Platforms dev halka arz ile borsada",
+    "highlight_words": [
+      "Jio",
+      "Platforms",
+      "halka arz"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Hindistan'ın en büyük halka arzıyla borsaya giren Jio Platforms rekor kırdı.",
+    "source_tags": [
+      "TECHCRUNCH",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Halka Arz Detayları",
+    "cards": [
+      {
+        "card_title": "Rekor Halka Arz",
+        "card_body": "Jio Platforms, Hindistan'ın en büyük ve en çok talep gören halka arzında 3.2 milyar dolar topladı."
+      },
+      {
+        "card_title": "Borsa Debütü",
+        "card_body": "Hisseler Çarşamba günü borsadaki ilk gününde yüzde 21 artış gösterdi."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "21%",
+    "stat_caption": "Borsadaki ilk işlem gününde hisselerin yaşadığı artış oranı.",
+    "stat_quote": "Hisseler 1.119 rupi olan halka arz fiyatından 1.358 rupiye yükseldi."
+  },
+  "details": {
+    "heading": "Finansal Rakamlar",
+    "cards": [
+      {
+        "card_title": "Piyasa Değeri",
+        "card_body": "Halka arz Jio'ya yaklaşık 12.5 trilyon rupi değer biçti ve şirket Reliance Industries'ten sonra ülkenin en değerli ikinci halka açık şirketi oldu."
+      },
+      {
+        "card_title": "Talep ve Katılım",
+        "card_body": "21-22 Ekim tarihleri arasında gerçekleşen halka arzda 13.8 milyondan fazla kişi satışa sunulan hisselerin 22.19 katı teklif verdi."
+      },
+      {
+        "card_title": "Müşteri ve Gelir",
+        "card_body": "Akash Ambani halka arz töreninde 540 milyondan fazla müşteriye hizmet verdiklerini belirtti. Şirket Mart 2026'da sona eren mali yılda 1.47 trilyon rupi gelir elde etti."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etki",
+    "cards": [
+      {
+        "card_title": "Borç Ödemesi",
+        "card_body": "Jio, halka arz gelirinden 275 milyar rupiye kadar olan kısmını telekom iştiraki Reliance Jio Infocomm'un borcunu ödemek için kullanmayı planlıyor."
+      },
+      {
+        "card_title": "Geçmiş Yatırımlar",
+        "card_body": "2020 yılında Meta 5.7 milyar dolar, Google ise 4.5 milyar dolar yatırım yaparak Jio'yu desteklemişti."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Hindistan pazarındaki bu devasa büyüme hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
