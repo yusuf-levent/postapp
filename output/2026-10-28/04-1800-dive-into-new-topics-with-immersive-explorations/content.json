@@ -1,0 +1,127 @@
+{
+  "cover": {
+    "category_label": "TEKNO PUSULA",
+    "title": "Gemini ile Katman Katman Keşif",
+    "highlight_words": [
+      "Katman Katman",
+      "Keşif"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Mikroskobik sistemlerden derin uzaya interaktif yolculuk.",
+    "source_tags": [
+      "Google Blog",
+      "TechCrunch"
+    ]
+  },
+  "problem": {
+    "heading": "İnteraktif Keşif Kütüphanesi Nedir?",
+    "cards": [
+      {
+        "card_title": "Görsel Yolculuk",
+        "card_body": "Mikroskobik sistemlerden derin uzaya kadar konuları görsel olarak inceleyin."
+      },
+      {
+        "card_title": "Nasıl Erişilir?",
+        "card_body": "Gemini öğrenci merkezinden 'Try immersive explorations' butonuna tıklayarak erişebilirsiniz."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Adım 1: Kütüphaneye Erişim",
+      "cards": [
+        {
+          "card_title": "Öğrenci Merkezi",
+          "card_body": "Gemini öğrenci merkezini açın."
+        },
+        {
+          "card_title": "Butona Tıklayın",
+          "card_body": "'Try immersive explorations' butonuna tıklayarak keşfe başlayın."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Adım 2: Dil Desteği Durumu",
+      "cards": [
+        {
+          "card_title": "Mevcut Diller",
+          "card_body": "Şu anda İngilizce, Endonezya dili, Hintçe, Brezilya Portekizcesi, Fransızca ve Basitleştirilmiş Çince dillerinde tüm kullanıcılara açıktır."
+        },
+        {
+          "card_title": "Diğer Diller",
+          "card_body": "Diğer tüm dillerdeki kullanıcılar şu anda yalnızca İngilizce deneyim almaktadır."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Adım 3: Yaklaşan Yenilikler",
+      "cards": [
+        {
+          "card_title": "Sohbet İçi Erişim",
+          "card_body": "Immersive explorations özelliği yakında doğrudan Gemini sohbet konuşmaları içinden de erişilebilir olacaktır."
+        },
+        {
+          "card_title": "Sesli Anlatım",
+          "card_body": "Bu özellik yakında her katmanda size rehberlik edecek sesli anlatım içerecektir."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Gemini'nin bu yeni keşif özelliğini denediniz mi?",
+    "reminder_line": "Teknoloji dünyasındaki yenilikler için takipte kalın!"
+  },
+  "context": {
+    "heading": "İnteraktif Keşif Kütüphanesi Nedir?",
+    "cards": [
+      {
+        "card_title": "Görsel Yolculuk",
+        "card_body": "Mikroskobik sistemlerden derin uzaya kadar konuları görsel olarak inceleyin."
+      },
+      {
+        "card_title": "Nasıl Erişilir?",
+        "card_body": "Gemini öğrenci merkezinden 'Try immersive explorations' butonuna tıklayarak erişebilirsiniz."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Adım 1: Kütüphaneye Erişim",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Adım 2: Dil Desteği Durumu",
+    "cards": [
+      {
+        "card_title": "Mevcut Diller",
+        "card_body": "Şu anda İngilizce, Endonezya dili, Hintçe, Brezilya Portekizcesi, Fransızca ve Basitleştirilmiş Çince dillerinde tüm kullanıcılara açıktır."
+      },
+      {
+        "card_title": "Diğer Diller",
+        "card_body": "Diğer tüm dillerdeki kullanıcılar şu anda yalnızca İngilizce deneyim almaktadır."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Adım 3: Yaklaşan Yenilikler",
+    "cards": [
+      {
+        "card_title": "Sohbet İçi Erişim",
+        "card_body": "Immersive explorations özelliği yakında doğrudan Gemini sohbet konuşmaları içinden de erişilebilir olacaktır."
+      },
+      {
+        "card_title": "Sesli Anlatım",
+        "card_body": "Bu özellik yakında her katmanda size rehberlik edecek sesli anlatım içerecektir."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}
