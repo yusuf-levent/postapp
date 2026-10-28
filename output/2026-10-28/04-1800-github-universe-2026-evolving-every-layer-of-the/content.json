@@ -1,0 +1,131 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE ALTYAPI",
+    "title": "GitHub ve Kodlama Araçlarında Yeni Dönem",
+    "highlight_words": [
+      "GitHub",
+      "Fusion Max"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Güncel yapay zeka maliyetleri ve altyapı gelişmeleri.",
+    "source_tags": [
+      "GitHub Blog",
+      "Wired"
+    ]
+  },
+  "problem": {
+    "heading": "Kodlama Araçlarında Maliyet ve Performans",
+    "cards": [
+      {
+        "card_title": "Fusion Max Performansı",
+        "card_body": "Artificial Analysis Kodlama Aracı İndeksi'ne göre Fusion Max, Opus 5.5 Max'ten iki puan içinde bir skor elde etti."
+      },
+      {
+        "card_title": "Maliyet ve Zaman Avantajı",
+        "card_body": "Fusion Max, Opus 5.5 Max'in yarısı maliyetle ve görev başına %40 daha az sürede bu skora ulaştı."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "GitHub Enterprise Yenilikleri",
+      "cards": [
+        {
+          "card_title": "Ek Abonelik Gerekmiyor",
+          "card_body": "GitHub Enterprise müşterileri, bugünden itibaren ayrı bir abonelik satın almadan tüm Copilot özelliklerini kullanabilecekler."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Altyapı ve Donanım Yatırımları",
+      "cards": [
+        {
+          "card_title": "CPU Çekirdekleri",
+          "card_body": "GitHub bu yıl şimdiye kadar 4 milyon CPU çekirdeği ekledi."
+        },
+        {
+          "card_title": "Yüksek Hızlı Depolama",
+          "card_body": "GitHub bu yıl şimdiye kadar 160 PB yüksek hızda depolama alanı ekledi."
+        },
+        {
+          "card_title": "Ağ Kapasitesi",
+          "card_body": "GitHub bu yıl şimdiye kadar 50 Tb/s ağ kapasitesi ekledi."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Mimari ve Liderlik Değişimleri",
+      "cards": [
+        {
+          "card_title": "Azure Dağıtımı",
+          "card_body": "GitHub, Azure'da çok bölgeli bir dağıtıma geçiş yapıyor ve bu migrasyonun gelecek yılın başlarında tamamlanması bekleniyor."
+        },
+        {
+          "card_title": "Jay Parikh",
+          "card_body": "Jay Parikh, Microsoft'ta CoreAI'dan sorumlu Kıdemli Başkan Yardımcısı olarak görev yapmakta olup daha önce Facebook'un küresel mühendislik ve altyapı başkanı olarak görev yapmıştır."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Bu güncellemeler hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+  },
+  "context": {
+    "heading": "Kodlama Araçlarında Maliyet ve Performans",
+    "cards": [
+      {
+        "card_title": "Fusion Max Performansı",
+        "card_body": "Artificial Analysis Kodlama Aracı İndeksi'ne göre Fusion Max, Opus 5.5 Max'ten iki puan içinde bir skor elde etti."
+      },
+      {
+        "card_title": "Maliyet ve Zaman Avantajı",
+        "card_body": "Fusion Max, Opus 5.5 Max'in yarısı maliyetle ve görev başına %40 daha az sürede bu skora ulaştı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "GitHub Enterprise Yenilikleri",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Altyapı ve Donanım Yatırımları",
+    "cards": [
+      {
+        "card_title": "CPU Çekirdekleri",
+        "card_body": "GitHub bu yıl şimdiye kadar 4 milyon CPU çekirdeği ekledi."
+      },
+      {
+        "card_title": "Yüksek Hızlı Depolama",
+        "card_body": "GitHub bu yıl şimdiye kadar 160 PB yüksek hızda depolama alanı ekledi."
+      },
+      {
+        "card_title": "Ağ Kapasitesi",
+        "card_body": "GitHub bu yıl şimdiye kadar 50 Tb/s ağ kapasitesi ekledi."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Mimari ve Liderlik Değişimleri",
+    "cards": [
+      {
+        "card_title": "Azure Dağıtımı",
+        "card_body": "GitHub, Azure'da çok bölgeli bir dağıtıma geçiş yapıyor ve bu migrasyonun gelecek yılın başlarında tamamlanması bekleniyor."
+      },
+      {
+        "card_title": "Jay Parikh",
+        "card_body": "Jay Parikh, Microsoft'ta CoreAI'dan sorumlu Kıdemli Başkan Yardımcısı olarak görev yapmakta olup daha önce Facebook'un küresel mühendislik ve altyapı başkanı olarak görev yapmıştır."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}

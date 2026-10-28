@@ -1,0 +1,261 @@
+{
+  "title": "GitHub Universe 2026: Evolving every layer of the stack",
+  "canonical_url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+  "source_names": [
+    "GitHub Blog",
+    "Wired"
+  ],
+  "checked_at": "2026-10-28T19:13:16+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Artificial Analysis Kodlama Aracı İndeksi'nde Fusion Max, Opus 5.5 Max'in yarısı maliyetle ve görev başına %40 daha az sürede ondan iki puan içinde bir skor elde etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "quote": "In the Artificial Analysis Coding Agent Index, Fusion Max scored within two points of Opus 5.5 Max at half the cost and 40% less time per task."
+        }
+      ]
+    },
+    {
+      "claim": "GitHub Enterprise müşterileri, bugünden itibaren ayrı bir abonelik satın almadan tüm Copilot özelliklerini kullanabilecekler.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "quote": "Starting today, GitHub Enterprise customers can use all Copilot features without buying a separate subscription."
+        }
+      ]
+    },
+    {
+      "claim": "GitHub bu yıl şimdiye kadar 4 milyon CPU çekirdeği ekledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "quote": "4 million CPU cores"
+        }
+      ]
+    },
+    {
+      "claim": "GitHub bu yıl şimdiye kadar 160 PB yüksek hızda depolama alanı ekledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "quote": "160 PB of high-speed storage"
+        }
+      ]
+    },
+    {
+      "claim": "GitHub bu yıl şimdiye kadar 50 Tb/s ağ kapasitesi ekledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "quote": "50 Tb/s network capacity"
+        }
+      ]
+    },
+    {
+      "claim": "GitHub, Azure'da çok bölgeli bir dağıtıma geçiş yapıyor ve bu migrasyonun gelecek yılın başlarında tamamlanması bekleniyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "quote": "We’re also migrating to a multi-region deployment in Azure, while continuing to serve incredible levels of traffic from developers around the world. We expect to complete the migration early next year."
+        }
+      ]
+    },
+    {
+      "claim": "Jay Parikh, Microsoft'ta CoreAI'dan sorumlu Kıdemli Başkan Yardımcısı olarak görev yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "quote": "As Executive Vice President of CoreAI at Microsoft, Parikh leads the organization building the end-to-end agentic system required to build, ship, and run AI agents in the Enterprise."
+        }
+      ]
+    },
+    {
+      "claim": "Jay Parikh daha önce Facebook'un küresel mühendislik ve altyapı başkanı olarak görev yapmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "quote": "Previously, Parikh was CEO of a cloud security startup and, before that, was Facebook’s global head of engineering and infrastructure."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Artificial Analysis Kodlama Aracı İndeksi'nde Fusion Max, Opus 5.5 Max'in yarısı maliyetle ve görev başına %40 daha az sürede ondan iki puan içinde bir skor elde etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "quote": "In the Artificial Analysis Coding Agent Index, Fusion Max scored within two points of Opus 5.5 Max at half the cost and 40% less time per task."
+        }
+      ]
+    },
+    {
+      "claim": "GitHub Enterprise müşterileri, bugünden itibaren ayrı bir abonelik satın almadan tüm Copilot özelliklerini kullanabilecekler.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "quote": "Starting today, GitHub Enterprise customers can use all Copilot features without buying a separate subscription."
+        }
+      ]
+    },
+    {
+      "claim": "GitHub bu yıl şimdiye kadar 4 milyon CPU çekirdeği ekledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "quote": "4 million CPU cores"
+        }
+      ]
+    },
+    {
+      "claim": "GitHub bu yıl şimdiye kadar 160 PB yüksek hızda depolama alanı ekledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "quote": "160 PB of high-speed storage"
+        }
+      ]
+    },
+    {
+      "claim": "GitHub bu yıl şimdiye kadar 50 Tb/s ağ kapasitesi ekledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "quote": "50 Tb/s network capacity"
+        }
+      ]
+    },
+    {
+      "claim": "GitHub, Azure'da çok bölgeli bir dağıtıma geçiş yapıyor ve bu migrasyonun gelecek yılın başlarında tamamlanması bekleniyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "quote": "We’re also migrating to a multi-region deployment in Azure, while continuing to serve incredible levels of traffic from developers around the world. We expect to complete the migration early next year."
+        }
+      ]
+    },
+    {
+      "claim": "Jay Parikh, Microsoft'ta CoreAI'dan sorumlu Kıdemli Başkan Yardımcısı olarak görev yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "quote": "As Executive Vice President of CoreAI at Microsoft, Parikh leads the organization building the end-to-end agentic system required to build, ship, and run AI agents in the Enterprise."
+        }
+      ]
+    },
+    {
+      "claim": "Jay Parikh daha önce Facebook'un küresel mühendislik ve altyapı başkanı olarak görev yapmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "quote": "Previously, Parikh was CEO of a cloud security startup and, before that, was Facebook’s global head of engineering and infrastructure."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Artificial Analysis Kodlama Aracı İndeksi'nde Fusion Max, Opus 5.5 Max'in yarısı maliyetle ve görev başına %40 daha az sürede ondan iki puan içinde bir skor elde etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "quote": "In the Artificial Analysis Coding Agent Index, Fusion Max scored within two points of Opus 5.5 Max at half the cost and 40% less time per task."
+        }
+      ]
+    },
+    {
+      "claim": "GitHub Enterprise müşterileri, bugünden itibaren ayrı bir abonelik satın almadan tüm Copilot özelliklerini kullanabilecekler.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "quote": "Starting today, GitHub Enterprise customers can use all Copilot features without buying a separate subscription."
+        }
+      ]
+    },
+    {
+      "claim": "GitHub bu yıl şimdiye kadar 4 milyon CPU çekirdeği ekledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "quote": "4 million CPU cores"
+        }
+      ]
+    },
+    {
+      "claim": "GitHub bu yıl şimdiye kadar 160 PB yüksek hızda depolama alanı ekledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "quote": "160 PB of high-speed storage"
+        }
+      ]
+    },
+    {
+      "claim": "GitHub bu yıl şimdiye kadar 50 Tb/s ağ kapasitesi ekledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "quote": "50 Tb/s network capacity"
+        }
+      ]
+    },
+    {
+      "claim": "GitHub, Azure'da çok bölgeli bir dağıtıma geçiş yapıyor ve bu migrasyonun gelecek yılın başlarında tamamlanması bekleniyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "quote": "We’re also migrating to a multi-region deployment in Azure, while continuing to serve incredible levels of traffic from developers around the world. We expect to complete the migration early next year."
+        }
+      ]
+    },
+    {
+      "claim": "Jay Parikh, Microsoft'ta CoreAI'dan sorumlu Kıdemli Başkan Yardımcısı olarak görev yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "quote": "As Executive Vice President of CoreAI at Microsoft, Parikh leads the organization building the end-to-end agentic system required to build, ship, and run AI agents in the Enterprise."
+        }
+      ]
+    },
+    {
+      "claim": "Jay Parikh daha önce Facebook'un küresel mühendislik ve altyapı başkanı olarak görev yapmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "quote": "Previously, Parikh was CEO of a cloud security startup and, before that, was Facebook’s global head of engineering and infrastructure."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/": 8423,
+    "https://www.wired.com/gallery/best-kindle/": 15727
+  }
+}
