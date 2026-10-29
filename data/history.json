@@ -1979,5 +1979,80 @@
     ],
     "created_at": "2026-10-28T23:01:06+03:00",
     "verified_claims_count": 5
+  },
+  {
+    "id": "2026-10-29-0900",
+    "date": "2026-10-29",
+    "slot": "09:00",
+    "type": "news",
+    "title_tr": "Bluesky'dan sızıntı arşivine engel",
+    "original_title": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records",
+    "source_urls": [
+      "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/"
+    ],
+    "canonical_url": "https://wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data",
+    "entities": [
+      "Bluesky",
+      "Department of Homeland Security",
+      "DHS",
+      "WIRED",
+      "Distributed Denial of Secrets",
+      "DDoSecrets",
+      "Klearsky"
+    ],
+    "event_type": "data_leak_censorship",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae2dcf46b4b6463f8ca1d27",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae2dd0c6b4b6463f8ca226b",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae2dd236b4b6463f8ca257d",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2115681051213218107",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18059557082660487",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfESQS6FF2-",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae2dd452cd0d708938fef93",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae2dd5c5b14165ff7527b11",
+        "permalink": "https://facebook.com/1351036918092059_122119338183484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-29T08:45:14+03:00",
+    "verified_claims_count": 8
   }
 ]
