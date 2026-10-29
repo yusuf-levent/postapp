@@ -1,123 +1,114 @@
 {
   "cover": {
-    "category_label": "Dijital Ebeveynlik",
-    "title": "Meta'dan Gençler İçin Yeni Güvenlik Adımı",
+    "category_label": "GÜVENLİK",
+    "title": "Meta'dan Gençler İçin Yeni Ebeveyn Bildirimleri",
     "highlight_words": [
-      "Güvenlik",
-      "Meta",
-      "Ebeveyn"
+      "Ebeveyn",
+      "Bildirimleri"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Meta, gençlerin intihar ve kendine zarar verme içerikli aramalarıyla ilgili ebeveyn bildirimlerini genişletiyor.",
+    "subtitle": "Facebook hesaplarını denetleyen ebeveynler için yeni güvenlik özellikleri duyuruldu.",
     "source_tags": [
-      "Meta Newsroom",
       "Engadget",
+      "Meta Newsroom",
       "Ars Technica"
     ]
   },
   "problem": {
-    "heading": "Neden Yeni Bir Önlem Alındı?",
+    "heading": "Risk Altındaki Gençler İçin Yeni Uyarı Sistemi",
     "cards": [
       {
-        "card_title": "Risk Tespiti",
-        "card_body": "Gençlerin dijital dünyada karşılaştığı riskleri azaltmak amacıyla, Meta artık intihar ve kendine zarar verme eğilimlerini içeren aramalarda ebeveynleri bilgilendirecek."
+        "card_title": "Kapsam Genişliyor",
+        "card_body": "Meta, Facebook hesaplarını denetleyen ebeveynler için ebeveyn bildirimlerini genişletiyor."
       },
       {
-        "card_title": "Kritik Eşik",
-        "card_body": "Sistem, bir gencin kısa süre içinde tekrarlayan şekilde kendine zarar verme içerikli aramalar yapması durumunda devreye giriyor."
+        "card_title": "Hesap Türü",
+        "card_body": "Bu özellik, gençleri ebeveyn denetimli genç hesaplarına kaydetme çabasının bir parçası olarak sunuluyor."
       }
     ],
     "code_block": ""
   },
   "steps": [
     {
-      "heading": "Hangi Durumlarda Bildirim Gidiyor?",
+      "heading": "Hangi Durumlarda Bildirim Gönderilecek?",
       "cards": [
         {
-          "card_title": "Arama Davranışları",
-          "card_body": "Genç kullanıcı, kısa bir zaman diliminde kendine zarar verme ile ilgili içerikleri defalarca aradığında sistem bunu algılıyor."
+          "card_title": "Kendi Kendine Zarar Verme Aramaları",
+          "card_body": "Genç, kısa bir süre içinde tekrar tekrar kendine zarar verme içeriği ararsa ebeveynlere bildirim gönderilecek."
         },
         {
-          "card_title": "Meta AI Etkileşimi",
-          "card_body": "Eğer genç, Meta AI ile yaptığı sohbetlerde intihar veya kendine zarar verme riski taşıyan ifadeler kullanırsa ebeveynlere uyarı gönderiliyor."
+          "card_title": "Meta AI Sohbetleri",
+          "card_body": "Genç, Meta AI ile intihar veya kendine zarar verme riskine işaret eden bir şekilde sohbet ederse ebeveynler bilgilendirilecek."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "Bildirim Süreci Nasıl İşliyor?",
+      "heading": "Bildirimler Nasıl İletilecek?",
       "cards": [
         {
           "card_title": "İletişim Kanalları",
-          "card_body": "Ebeveynler; SMS, e-posta, WhatsApp veya kendi uygulamaları üzerinden gelen push bildirimleri ile bilgilendiriliyor."
+          "card_body": "Ebeveynler uyarıları kısa mesaj, e-posta, WhatsApp veya kendi uygulamalarındaki anlık bildirimler aracılığıyla alacak."
         },
         {
           "card_title": "Gizlilik Sınırı",
-          "card_body": "Önemli bir not: Bildirimler, yapılan spesifik aramaları veya Meta AI ile yapılan sohbetin içeriğini detaylı olarak paylaşmıyor."
+          "card_body": "Uyarılar, belirli arama terimlerini veya Meta AI sohbetlerinin içeriğini ayrıntılı olarak içermeyecek."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "Ebeveynlere Sunulan Destek",
+      "heading": "Destek Hatları ve Yardım",
       "cards": [
         {
-          "card_title": "Yardım Kaynakları",
-          "card_body": "Bildirimlerle birlikte, ebeveynlere uzman desteği alabilecekleri yardım hatları ve rehberlik kaynakları sunuluyor."
-        },
-        {
-          "card_title": "İletişim Tavsiyesi",
-          "card_body": "Meta, bu bildirimleri aldıktan sonra ebeveynlerin gençlerle doğrudan ve destekleyici bir iletişim kurmalarını öneriyor."
+          "card_title": "Kriz Durumunda Destek",
+          "card_body": "Zorluk çeken veya krizde olan kişiler 988'i arayabilir, mesaj atabilir veya 988lifeline.org adresinden sohbet edebilir."
         }
       ],
       "code_block": ""
     }
   ],
   "cta": {
-    "question": "Dijital güvenlik konusunda ebeveynlerin daha fazla bilgilendirilmesini destekliyor musunuz?",
-    "reminder_line": "Teknoloji dünyasındaki güncel ve güvenilir gelişmelerden haberdar olmak için Tekno Pusula'yı takipte kalın."
+    "question": "Bu yeni güvenlik önlemleri hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki güvenilir gelişmeler için takipte kalın."
   },
   "context": {
-    "heading": "Neden Yeni Bir Önlem Alındı?",
+    "heading": "Risk Altındaki Gençler İçin Yeni Uyarı Sistemi",
     "cards": [
       {
-        "card_title": "Risk Tespiti",
-        "card_body": "Gençlerin dijital dünyada karşılaştığı riskleri azaltmak amacıyla, Meta artık intihar ve kendine zarar verme eğilimlerini içeren aramalarda ebeveynleri bilgilendirecek."
+        "card_title": "Kapsam Genişliyor",
+        "card_body": "Meta, Facebook hesaplarını denetleyen ebeveynler için ebeveyn bildirimlerini genişletiyor."
       },
       {
-        "card_title": "Kritik Eşik",
-        "card_body": "Sistem, bir gencin kısa süre içinde tekrarlayan şekilde kendine zarar verme içerikli aramalar yapması durumunda devreye giriyor."
+        "card_title": "Hesap Türü",
+        "card_body": "Bu özellik, gençleri ebeveyn denetimli genç hesaplarına kaydetme çabasının bir parçası olarak sunuluyor."
       }
     ]
   },
   "stat": {
     "big_stat": "💡",
-    "stat_caption": "Hangi Durumlarda Bildirim Gidiyor?",
+    "stat_caption": "Hangi Durumlarda Bildirim Gönderilecek?",
     "stat_quote": ""
   },
   "details": {
-    "heading": "Bildirim Süreci Nasıl İşliyor?",
+    "heading": "Bildirimler Nasıl İletilecek?",
     "cards": [
       {
         "card_title": "İletişim Kanalları",
-        "card_body": "Ebeveynler; SMS, e-posta, WhatsApp veya kendi uygulamaları üzerinden gelen push bildirimleri ile bilgilendiriliyor."
+        "card_body": "Ebeveynler uyarıları kısa mesaj, e-posta, WhatsApp veya kendi uygulamalarındaki anlık bildirimler aracılığıyla alacak."
       },
       {
         "card_title": "Gizlilik Sınırı",
-        "card_body": "Önemli bir not: Bildirimler, yapılan spesifik aramaları veya Meta AI ile yapılan sohbetin içeriğini detaylı olarak paylaşmıyor."
+        "card_body": "Uyarılar, belirli arama terimlerini veya Meta AI sohbetlerinin içeriğini ayrıntılı olarak içermeyecek."
       }
     ]
   },
   "impact": {
-    "heading": "Ebeveynlere Sunulan Destek",
+    "heading": "Destek Hatları ve Yardım",
     "cards": [
       {
-        "card_title": "Yardım Kaynakları",
-        "card_body": "Bildirimlerle birlikte, ebeveynlere uzman desteği alabilecekleri yardım hatları ve rehberlik kaynakları sunuluyor."
-      },
-      {
-        "card_title": "İletişim Tavsiyesi",
-        "card_body": "Meta, bu bildirimleri aldıktan sonra ebeveynlerin gençlerle doğrudan ve destekleyici bir iletişim kurmalarını öneriyor."
+        "card_title": "Kriz Durumunda Destek",
+        "card_body": "Zorluk çeken veya krizde olan kişiler 988'i arayabilir, mesaj atabilir veya 988lifeline.org adresinden sohbet edebilir."
       }
     ]
   },

@@ -2,36 +2,52 @@
 
 ## INSTAGRAM
 
-Meta, dijital dünyada gençler için güvenlik önlemlerini artırıyor! 🛡️ Gençlerin internetteki güvenliğini ön planda tutan Meta, intihar veya kendine zarar verme eğilimi içeren aramalar yapıldığında ebeveynleri bilgilendirecek yeni bir sistem başlattı. Bu özellik, gençlerin tekrarlayan riskli aramalar yapması veya Meta AI ile bu yönde sohbetler gerçekleştirmesi durumunda devreye giriyor. Sistem, ebeveynlere bildirim göndererek onları bilgilendiriyor. Gizlilik gereği, yapılan spesifik aramaların içeriği paylaşılmıyor; bunun yerine ebeveynlere uzman desteği alabilecekleri rehberlik kaynakları sunuluyor. Meta, bu bildirimlerin ardından ebeveynlerin gençlerle destekleyici bir iletişim kurmasını öneriyor. Dijital güvenlik konusunda ebeveynlerin daha fazla bilgilendirilmesini destekliyor musunuz? Kaynak: Meta Newsroom, Engadget, Ars Technica
+Meta'dan gençlerin güvenliği için önemli bir adım! Facebook hesaplarını denetleyen ebeveynler artık riskli durumlarda anında bildirim alacak. Gençlerin kendine zarar verme aramaları veya Meta AI sohbetlerindeki riskli durumlar ebeveynlere bildirilecek. Gizlilik sınırları korunurken gençlerin korunması amaçlanıyor. Bu yeni güvenlik önlemleri hakkında ne düşünüyorsunuz?
 
-#DijitalEbeveynlik #Meta #Güvenliİnternet #GençlikVeTeknoloji #SosyalMedyaGüvenliği #EbeveynKontrolü #DigitalParenting #OnlineSafety
+Kaynak: Meta Newsroom
+
+#Meta #Güvenlik #EbeveynKontrolü #SosyalMedya #Teknoloji #Gençler #ParentalControl #Safety
 
 ## TIKTOK
 
-Meta'dan gençler için kritik güvenlik adımı! 🛡️ Gençler intihar veya kendine zarar verme içerikli aramalar yaptığında, sistem artık ebeveynleri bilgilendirecek. Bu özellik, Meta AI sohbetlerini de kapsıyor. Gizlilik korunarak, ebeveynlere uzman desteği kaynakları sunuluyor. Dijital güvenlikte yeni dönem başladı. Detaylar için takipte kalın! Kaynak: Meta Newsroom, Engadget, Ars Technica
+Meta'dan gençler için yeni güvenlik bildirimleri! Ebeveynler artık riskli durumlarda anında uyarılacak. Detaylar profilde!
 
-#DijitalGüvenlik #Meta #Ebeveynlik #TeknolojiHaberleri
+Kaynak: Meta Newsroom
+
+#Meta #Teknoloji #Güvenlik #Keşfet
 
 ## X
 
-Meta, gençlerin güvenliği için yeni bir adım attı: İntihar veya kendine zarar verme eğilimi içeren aramalarda ebeveynlere bildirim gönderilecek. Sistem, gizliliği koruyarak uzman desteği kaynakları sunuyor. Detaylar: Meta Newsroom, Engadget, Ars Technica.
+Meta, Facebook'ta gençlerin güvenliği için ebeveyn bildirimlerini genişletti. Kendine zarar verme aramaları ve riskli AI sohbetleri ebeveynlere bildirilecek.
 
-#DijitalGüvenlik #Meta
+Kaynak: Meta Newsroom
+
+#Meta #Teknoloji
 
 ## THREADS
 
-Meta'dan Gençler İçin Yeni Güvenlik Adımı 🛡️ Meta, gençlerin intihar ve kendine zarar verme içerikli aramalarıyla ilgili ebeveyn bildirimlerini genişletiyor. Sistem, tekrarlayan riskli aramalarda veya Meta AI ile yapılan benzer sohbetlerde devreye giriyor. Bildirimler içeriği paylaşmadan, ebeveynlere uzman desteği kaynakları sunuyor. Dijital güvenlik konusunda ebeveynlerin daha fazla bilgilendirilmesini destekliyor musunuz? 💭 Kaynak: Meta Newsroom, Engadget, Ars Technica
+Meta'dan Gençler İçin Yeni Ebeveyn Bildirimleri 📱
 
-#DijitalEbeveynlik
+Facebook hesaplarında gençlerin kendine zarar verme aramaları veya riskli Meta AI sohbetleri artık ebeveynlere bildirilecek. Gizlilik sınırları korunarak kriz anlarında destek sağlanması amaçlanıyor.
+
+Bu yeni önlem hakkında ne düşünüyorsunuz? 💭
+
+Kaynak: Meta Newsroom
+
+#Meta
 
 ## LINKEDIN
 
-Dijital dünyada gençlerin güvenliği, teknoloji şirketlerinin öncelikli gündem maddelerinden biri olmaya devam ediyor. Meta, bu alanda önemli bir adım atarak, genç kullanıcıların intihar veya kendine zarar verme eğilimi içeren arama davranışlarını tespit eden yeni bir bildirim sistemini devreye aldı. Sistem, kısa sürede tekrarlayan riskli aramalar veya Meta AI ile gerçekleştirilen benzer içerikli etkileşimler durumunda ebeveynleri bilgilendiriyor. Bu süreçte gizlilik prensipleri korunarak, spesifik arama veya sohbet içerikleri paylaşılmıyor; bunun yerine ebeveynlere profesyonel destek ve rehberlik kaynakları sağlanıyor. Teknoloji dünyasının bu tür güvenlik odaklı geliştirmeleri, dijital ebeveynlik süreçlerinde proaktif bir yaklaşımı destekliyor. Sizce bu tür sistemler, gençlerin dijital refahını korumada ne kadar etkili olabilir? Kaynak: Meta Newsroom, Engadget, Ars Technica
+Meta, dijital platformlarda gençlerin güvenliğini artırmak amacıyla ebeveyn bildirim mekanizmalarını genişletiyor. Facebook üzerinde gençlerin kendine zarar verme eğilimine işaret eden arama ve Meta AI sohbetleri, belirlenen iletişim kanalları üzerinden ebeveynlere bildirilecek. Gizlilik esasları korunarak geliştirilen bu özellik, teknoloji sektöründe güvenli kullanım standartlarının önemini bir kez daha ortaya koyuyor.
 
-#DijitalGüvenlik #Meta #Teknoloji #Ebeveynlik #DijitalRefah
+Kaynak: Meta Newsroom
+
+#Meta #Teknoloji #SiberGüvenlik #DijitalGüvenlik
 
 ## FACEBOOK
 
-Meta, gençlerin dijital dünyadaki güvenliğini artırmak için yeni bir adım attı! 🛡️ Artık gençler intihar veya kendine zarar verme eğilimi içeren aramalar yaptığında veya Meta AI ile bu yönde sohbetler gerçekleştirdiğinde, ebeveynlere bildirim gönderilecek. Sistem, gizliliği koruyarak ebeveynlere uzman desteği alabilecekleri rehberlik kaynakları sunuyor. Meta, bu bildirimlerin ardından ebeveynlerin gençlerle doğrudan ve destekleyici bir iletişim kurmalarını öneriyor. Dijital güvenlik konusunda ebeveynlerin daha fazla bilgilendirilmesini destekliyor musunuz? Kaynak: Meta Newsroom, Engadget, Ars Technica
+Meta'dan gençlerin güvenliği için yeni ebeveyn bildirimleri! Facebook'ta gençlerin denetimli hesapları için genişletilen bu özellik sayesinde, kendine zarar verme aramaları veya riskli Meta AI sohbetleri ebeveynlere bildirilecek. Gizlilik sınırları gözetilerek tasarlanan bu sistem hakkında ne düşünüyorsunuz?
 
-#DijitalEbeveynlik #Meta #Güvenliİnternet #EbeveynKontrolü
+Kaynak: Meta Newsroom
+
+#Meta #Güvenlik #Teknoloji #EbeveynKontrolü
