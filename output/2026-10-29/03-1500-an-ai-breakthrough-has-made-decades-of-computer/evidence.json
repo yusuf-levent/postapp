@@ -1,0 +1,217 @@
+{
+  "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
+  "canonical_url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+  "source_names": [
+    "Wired",
+    "MIT Technology Review",
+    "TechCrunch",
+    "OpenAI News"
+  ],
+  "checked_at": "2026-10-29T14:41:57+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Linkoping University professor Peter Jonsson will have his work presented in two weeks at the IEEE Symposium on Foundations of Computer Science.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+          "quote": "Linköping University professor Peter Jonsson is set to have his work presented in two weeks’ time at one of the most prestigious conferences in theoretical computer science."
+        },
+        {
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+          "quote": "Jonsson expects his predicament will be “very common” at the IEEE Symposium on Foundations of Computer Science, where his work will be presented by one of his coauthors."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI and Anthropic claimed to have disproved the exponential time hypothesis.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+          "quote": "Both OpenAI and Anthropic claimed this week to have disproved the exponential time hypothesis (ETH)."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI published AI-produced proofs on GitHub in natural language and Lean format.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+          "quote": "Researchers haven’t independently verified, let alone had time to fully understand, the AI-produced proofs, which both firms have published on GitHub in both natural language and its machine-checkable Lean format."
+        }
+      ]
+    },
+    {
+      "claim": "Daniel Lokshtanov estimates that around 50 of his published papers are rendered pointless or need a revisit if the result is confirmed.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+          "quote": "UC Santa Barbara professor Daniel Lokshtanov plans to join the effort, as he estimates the result—if confirmed—will render him “galactically wrong” and make around 50 of his published papers either “pointless” or in need of a revisit."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI dumped 722 manuscripts on 400 problems on GitHub earlier this month.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+          "quote": "OpenAI has directly contributed to this; earlier this month, it dumped 722 manuscripts on 400 problems on GitHub, to the annoyance of academics, who complain this makes it difficult to digest the results."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI's paper on the exponential time hypothesis is approximately 60 pages long.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+          "quote": "This time around, OpenAI’s 60-odd-page paper on ETH seems to be written better than the companies’ past publications, academics tell WIRED."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Linkoping University professor Peter Jonsson will have his work presented in two weeks at the IEEE Symposium on Foundations of Computer Science.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+          "quote": "Linköping University professor Peter Jonsson is set to have his work presented in two weeks’ time at one of the most prestigious conferences in theoretical computer science."
+        },
+        {
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+          "quote": "Jonsson expects his predicament will be “very common” at the IEEE Symposium on Foundations of Computer Science, where his work will be presented by one of his coauthors."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI and Anthropic claimed to have disproved the exponential time hypothesis.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+          "quote": "Both OpenAI and Anthropic claimed this week to have disproved the exponential time hypothesis (ETH)."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI published AI-produced proofs on GitHub in natural language and Lean format.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+          "quote": "Researchers haven’t independently verified, let alone had time to fully understand, the AI-produced proofs, which both firms have published on GitHub in both natural language and its machine-checkable Lean format."
+        }
+      ]
+    },
+    {
+      "claim": "Daniel Lokshtanov estimates that around 50 of his published papers are rendered pointless or need a revisit if the result is confirmed.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+          "quote": "UC Santa Barbara professor Daniel Lokshtanov plans to join the effort, as he estimates the result—if confirmed—will render him “galactically wrong” and make around 50 of his published papers either “pointless” or in need of a revisit."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI dumped 722 manuscripts on 400 problems on GitHub earlier this month.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+          "quote": "OpenAI has directly contributed to this; earlier this month, it dumped 722 manuscripts on 400 problems on GitHub, to the annoyance of academics, who complain this makes it difficult to digest the results."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI's paper on the exponential time hypothesis is approximately 60 pages long.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+          "quote": "This time around, OpenAI’s 60-odd-page paper on ETH seems to be written better than the companies’ past publications, academics tell WIRED."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Linkoping University professor Peter Jonsson will have his work presented in two weeks at the IEEE Symposium on Foundations of Computer Science.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+          "quote": "Linköping University professor Peter Jonsson is set to have his work presented in two weeks’ time at one of the most prestigious conferences in theoretical computer science."
+        },
+        {
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+          "quote": "Jonsson expects his predicament will be “very common” at the IEEE Symposium on Foundations of Computer Science, where his work will be presented by one of his coauthors."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI and Anthropic claimed to have disproved the exponential time hypothesis.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+          "quote": "Both OpenAI and Anthropic claimed this week to have disproved the exponential time hypothesis (ETH)."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI published AI-produced proofs on GitHub in natural language and Lean format.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+          "quote": "Researchers haven’t independently verified, let alone had time to fully understand, the AI-produced proofs, which both firms have published on GitHub in both natural language and its machine-checkable Lean format."
+        }
+      ]
+    },
+    {
+      "claim": "Daniel Lokshtanov estimates that around 50 of his published papers are rendered pointless or need a revisit if the result is confirmed.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+          "quote": "UC Santa Barbara professor Daniel Lokshtanov plans to join the effort, as he estimates the result—if confirmed—will render him “galactically wrong” and make around 50 of his published papers either “pointless” or in need of a revisit."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI dumped 722 manuscripts on 400 problems on GitHub earlier this month.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+          "quote": "OpenAI has directly contributed to this; earlier this month, it dumped 722 manuscripts on 400 problems on GitHub, to the annoyance of academics, who complain this makes it difficult to digest the results."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI's paper on the exponential time hypothesis is approximately 60 pages long.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+          "quote": "This time around, OpenAI’s 60-odd-page paper on ETH seems to be written better than the companies’ past publications, academics tell WIRED."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/": 6502,
+    "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/": 8263,
+    "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/": 2370,
+    "https://openai.com/index/openai-servicenow-partnership-expansion": 3289
+  }
+}

@@ -1,0 +1,37 @@
+# Platform Açıklamaları
+
+## INSTAGRAM
+
+OpenAI ve Anthropic, yapay zeka dünyasında tartışma yaratan üstel zaman hipotezini çürüttüklerini duyurdu. GitHub'da yayınlanan 60 sayfalık makale ve yüzlerce kanıt bilim dünyasında şimdiden büyük yankı uyandırdı. Sonuçlar doğrulanırsa yüzlerce akademik makalenin yeniden ele alınması gerekebilir. Yapay zekanın matematiksel kanıt üretebilmesi bilimsel araştırmaların geleceğini nasıl değiştirecek? Kaynak: Wired
+
+#YapayZeka #OpenAI #Bilim #Teknoloji #Wired #ArtificialIntelligence #TechNews #Science
+
+## TIKTOK
+
+OpenAI üstel zaman hipotezini çürüttü mü? GitHub'da yayınlanan 60 sayfalık kanıtlar bilim dünyasını salladı! Kaynak: Wired
+
+#yapayzeka #openai #bilim #teknoloji #wired
+
+## X
+
+OpenAI ve Anthropic, üstel zaman hipotezini çürüttüklerini iddia etti. GitHub'da yayınlanan 60 sayfalık kanıtlar bilim dünyasında geniş yankı uyandırdı. Yapay zekanın matematiksel kanıt üretmesi araştırmaları nasıl etkiler? Kaynak: Wired
+
+#YapayZeka #OpenAI
+
+## THREADS
+
+OpenAI ve Anthropic'ten büyük iddia: Üstel zaman hipotezi çürütüldü mü? GitHub üzerinde yayınlanan 60 sayfalık kanıtlar bilim dünyasını ikiye böldü. Sonuçlar teyit edilirse pek çok akademik makalenin yeniden yazılması gerekecek. 💭 Yapay zekanın matematiksel kanıt üretebilmesi bilimsel araştırmaların geleceğini nasıl değiştirecek? Kaynak: Wired
+
+#YapayZeka
+
+## LINKEDIN
+
+Yapay zeka ve bilim dünyasında çığır açabilecek bir gelişme yaşandı. OpenAI ve Anthropic, üstel zaman hipotezini çürüttüklerini iddia ederek GitHub üzerinden 60 sayfalık kanıt ve yüzlerce problem yayınladı. Bilim insanları, bu gelişmenin akademik literatür üzerinde köklü değişiklikler yaratabileceğini belirtiyor. Sektörel olarak bu adımı nasıl değerlendiriyorsunuz? Kaynak: Wired
+
+#YapayZeka #OpenAI #Teknoloji #Bilim #Inovasyon
+
+## FACEBOOK
+
+OpenAI ve Anthropic, üstel zaman hipotezini çürüttüklerini iddia etti! GitHub'da yayınlanan 60 sayfalık makale ve yüzlerce kanıt bilim dünyasında büyük yankı uyandırdı. Yapay zekanın matematiksel kanıt üretebilmesi bilimsel araştırmaların geleceğini nasıl değiştirecek? Kaynak: Wired
+
+#YapayZeka #OpenAI #Bilim #Teknoloji #Wired
