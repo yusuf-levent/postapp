@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJI DÜNYASI",
+    "title": "Güney Kore'den Apple ve Google'a Ceza",
+    "highlight_words": [
+      "Apple",
+      "Google"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Uygulama mağazası ihlalleri nedeniyle büyük cezalar verildi.",
+    "source_tags": [
+      "ENGADGET",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Soruşturmanın Arka Planı",
+    "cards": [
+      {
+        "card_title": "Denetim Süreci",
+        "card_body": "Korea Media and Communications Commission, 2022 yılından beri Apple ve Google üzerinde incelemeler yürütüyor."
+      },
+      {
+        "card_title": "Yasal Dayanak",
+        "card_body": "Şirketler, Telekomünikasyon İş Kanunu'nu ihlal ettikleri gerekçesiyle cezalandırıldı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "$47.6M",
+    "stat_caption": "Apple ve Google'a Kesilen Toplam Para Cezası",
+    "stat_quote": "Google 32 milyon dolar, Apple ise 15.6 milyon dolar para cezası aldı."
+  },
+  "details": {
+    "heading": "İhlaller ve Komisyonlar",
+    "cards": [
+      {
+        "card_title": "Ödeme Yöntemleri",
+        "card_body": "Apple ve Google, kullanıcıları kendi uygulama içi ödeme yöntemlerini kullanmaya zorladı ve dış ödemeleri yasakladı."
+      },
+      {
+        "card_title": "Komisyon Oranları",
+        "card_body": "Üçüncü taraf ödemeler için yüzde 26 komisyon dayatıldı."
+      },
+      {
+        "card_title": "KDV Hesaplaması",
+        "card_body": "Apple, Güney Koreli geliştiriciler için komisyonları KDV dahil fiyatlar üzerinden hesapladı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Küresel ve Yerel Etkiler",
+    "cards": [
+      {
+        "card_title": "Farklı Bölgeler",
+        "card_body": "Apple ve Google, Amerika Birleşik Devletleri ve Avrupa Birliği'nde halihazırda dış ödemelere izin veriyor."
+      },
+      {
+        "card_title": "Geliştirici Şartları",
+        "card_body": "Güney Koreli ve denizaşırı geliştiriciler için uygulanan komisyon hesaplama farkları dikkat çekti."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce teknoloji devlerinin uygulama mağazası politikaları adil mi?",
+    "reminder_line": "Düşüncelerinizi bizimle paylaşın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

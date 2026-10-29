@@ -1,0 +1,10 @@
+{
+  "slot": "15:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 96.6,
+  "candidates_tried": 2,
+  "gemini_calls": 17,
+  "canonical_url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+  "generated_at": "2026-10-29T14:54:33+03:00"
+}

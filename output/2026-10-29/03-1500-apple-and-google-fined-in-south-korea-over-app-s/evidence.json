@@ -1,0 +1,247 @@
+{
+  "title": "Apple and Google fined in South Korea over app store violations",
+  "canonical_url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+  "source_names": [
+    "Engadget",
+    "Wired",
+    "Google Blog",
+    "TechCrunch"
+  ],
+  "checked_at": "2026-10-29T14:53:43+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Apple and Google were fined in South Korea over app store violations of the Telecommunications Business Act.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "quote": "Both Apple and Google have violated Korea's Telecommunications Business Act, the country's communications regulator has determined. The companies have received penalties from the regulator and have been ordered to change their business practices related to their app stores."
+        }
+      ]
+    },
+    {
+      "claim": "Google received a fine of KRW 42.9 billion or $32 million from South Korean regulators.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "quote": "Google was slapped with a KRW 42.9 billion ($32 million) fine"
+        }
+      ]
+    },
+    {
+      "claim": "Apple received a penalty of KRW 20.81 billion or $15.6 million from South Korean regulators.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "quote": "Apple has to pay KRW 20.81 billion ($15.6 million) in penalties."
+        },
+        {
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "quote": "while Apple has to pay KRW 20.81 billion ($15.6 million) in penalties."
+        }
+      ]
+    },
+    {
+      "claim": "The Korea Media and Communications Commission conducted fact-finding investigations and on-site inspections on Apple and Google since 2022.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "quote": "According to the Korea Media and Communications Commission (KMCC), it has conducted fact-finding investigations and on-site inspections on the companies since 2022."
+        }
+      ]
+    },
+    {
+      "claim": "Apple and Google forced users to use their in-app payment methods, imposed a 26 percent commission for third-party payments, and prohibited external payments.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "quote": "The agency found that the two of them violated the country's rules for the app market sector, including forcing people to use their in-app payment methods, imposing a commission of 26 percent for third-party payments and prohibiting external payments."
+        }
+      ]
+    },
+    {
+      "claim": "Apple computed its commissions based on prices including VAT for South Korean developers and pre-VAT prices for overseas developers.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "quote": "Finally, the regulator found that Apple computed its commissions differently for South Korean and overseas developers. For Korean developers, it based its cut on the price of purchases including VAT, while it based its cut on pre-VAT prices for developers from outside the country."
+        }
+      ]
+    },
+    {
+      "claim": "Apple and Google already allow external payments in the United States and the European Union.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "quote": "The companies already allow external payments in the US and in the European Union."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Apple and Google were fined in South Korea over app store violations of the Telecommunications Business Act.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "quote": "Both Apple and Google have violated Korea's Telecommunications Business Act, the country's communications regulator has determined. The companies have received penalties from the regulator and have been ordered to change their business practices related to their app stores."
+        }
+      ]
+    },
+    {
+      "claim": "Google received a fine of KRW 42.9 billion or $32 million from South Korean regulators.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "quote": "Google was slapped with a KRW 42.9 billion ($32 million) fine"
+        }
+      ]
+    },
+    {
+      "claim": "Apple received a penalty of KRW 20.81 billion or $15.6 million from South Korean regulators.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "quote": "Apple has to pay KRW 20.81 billion ($15.6 million) in penalties."
+        },
+        {
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "quote": "while Apple has to pay KRW 20.81 billion ($15.6 million) in penalties."
+        }
+      ]
+    },
+    {
+      "claim": "The Korea Media and Communications Commission conducted fact-finding investigations and on-site inspections on Apple and Google since 2022.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "quote": "According to the Korea Media and Communications Commission (KMCC), it has conducted fact-finding investigations and on-site inspections on the companies since 2022."
+        }
+      ]
+    },
+    {
+      "claim": "Apple and Google forced users to use their in-app payment methods, imposed a 26 percent commission for third-party payments, and prohibited external payments.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "quote": "The agency found that the two of them violated the country's rules for the app market sector, including forcing people to use their in-app payment methods, imposing a commission of 26 percent for third-party payments and prohibiting external payments."
+        }
+      ]
+    },
+    {
+      "claim": "Apple computed its commissions based on prices including VAT for South Korean developers and pre-VAT prices for overseas developers.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "quote": "Finally, the regulator found that Apple computed its commissions differently for South Korean and overseas developers. For Korean developers, it based its cut on the price of purchases including VAT, while it based its cut on pre-VAT prices for developers from outside the country."
+        }
+      ]
+    },
+    {
+      "claim": "Apple and Google already allow external payments in the United States and the European Union.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "quote": "The companies already allow external payments in the US and in the European Union."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Apple and Google were fined in South Korea over app store violations of the Telecommunications Business Act.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "quote": "Both Apple and Google have violated Korea's Telecommunications Business Act, the country's communications regulator has determined. The companies have received penalties from the regulator and have been ordered to change their business practices related to their app stores."
+        }
+      ]
+    },
+    {
+      "claim": "Google received a fine of KRW 42.9 billion or $32 million from South Korean regulators.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "quote": "Google was slapped with a KRW 42.9 billion ($32 million) fine"
+        }
+      ]
+    },
+    {
+      "claim": "Apple received a penalty of KRW 20.81 billion or $15.6 million from South Korean regulators.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "quote": "Apple has to pay KRW 20.81 billion ($15.6 million) in penalties."
+        },
+        {
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "quote": "while Apple has to pay KRW 20.81 billion ($15.6 million) in penalties."
+        }
+      ]
+    },
+    {
+      "claim": "The Korea Media and Communications Commission conducted fact-finding investigations and on-site inspections on Apple and Google since 2022.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "quote": "According to the Korea Media and Communications Commission (KMCC), it has conducted fact-finding investigations and on-site inspections on the companies since 2022."
+        }
+      ]
+    },
+    {
+      "claim": "Apple and Google forced users to use their in-app payment methods, imposed a 26 percent commission for third-party payments, and prohibited external payments.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "quote": "The agency found that the two of them violated the country's rules for the app market sector, including forcing people to use their in-app payment methods, imposing a commission of 26 percent for third-party payments and prohibiting external payments."
+        }
+      ]
+    },
+    {
+      "claim": "Apple computed its commissions based on prices including VAT for South Korean developers and pre-VAT prices for overseas developers.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "quote": "Finally, the regulator found that Apple computed its commissions differently for South Korean and overseas developers. For Korean developers, it based its cut on the price of purchases including VAT, while it based its cut on pre-VAT prices for developers from outside the country."
+        }
+      ]
+    },
+    {
+      "claim": "Apple and Google already allow external payments in the United States and the European Union.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+          "quote": "The companies already allow external payments in the US and in the European Union."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/": 1714,
+    "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/": 6502,
+    "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/": 3303,
+    "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/": 1361
+  }
+}
