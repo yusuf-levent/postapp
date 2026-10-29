@@ -7,36 +7,46 @@
     "Ars Technica",
     "NVIDIA Newsroom"
   ],
-  "checked_at": "2026-10-29T21:32:29+03:00",
+  "checked_at": "2026-10-29T21:37:11+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Meta is expanding its parental notifications to parents who supervise teens with Facebook accounts.",
+      "claim": "Meta, Facebook'ta kendine zarar verme içeriklerini tekrar eden gençlerin ebeveynlerini uyaracak.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
-          "quote": "the company is now rolling out similar capabilities to parents who supervise teens with Facebook accounts, as well as chats with its AI assistant."
+          "quote": "Meta will now alert parents if teens 'repeatedly' search for self-harm content on Facebook"
+        }
+      ]
+    },
+    {
+      "claim": "Meta, ebeveyn bildirimlerini Meta AI ile yapılan sohbetleri de kapsayacak şekilde genişletiyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
+          "quote": "The company will also notify parents about conversations with Meta AI."
+        }
+      ]
+    },
+    {
+      "claim": "Bu bildirim özelliği daha önce bu yıl Instagram'a eklenmişti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
+          "quote": "After adding the alerts to Instagram earlier this year, the company is now rolling out similar capabilities to parents who supervise teens with Facebook accounts, as well as chats with its AI assistant."
         },
         {
           "url": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
-          "quote": "Meta is now expanding its parental notifications that appear when teens search for content related to suicide and self-harm. After adding the alerts to Instagram earlier this year, the company is now rolling out similar capabilities to parents who supervise teens with Facebook accounts"
+          "quote": "After adding the alerts to Instagram earlier this year, the company is now rolling out similar capabilities to parents who supervise teens with Facebook accounts"
         }
       ]
     },
     {
-      "claim": "Meta will notify parents if their teen repeatedly searches for self-harm content within a short period of time.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
-          "quote": "With the update, Meta will notify parents if their teen \"repeatedly\" searches for self-harm content \"within a short period of time.\""
-        }
-      ]
-    },
-    {
-      "claim": "Parents will be notified if a teen chats with Meta AI in a way that suggests they may be at risk of suicide or self-harm.",
+      "claim": "Meta, gençlerin intihar veya kendine zarar verme riskinde olduğunu gösteren Meta AI sohbetlerinde ebeveynleri bilgilendirecek.",
       "verdict": "supported",
       "evidence": [
         {
@@ -46,7 +56,7 @@
       ]
     },
     {
-      "claim": "Parents receive alerts via text, email, WhatsApp, or a push notification in their own app.",
+      "claim": "Ebeveynlere gönderilen uyarılar kısa mesaj, e-posta, WhatsApp veya kendi uygulamalarındaki anlık bildirim yoluyla iletiliyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -56,7 +66,7 @@
       ]
     },
     {
-      "claim": "The alerts do not detail the specific search terms or contents of Meta AI chats.",
+      "claim": "Uyarılar, spesifik arama terimlerini veya Meta AI sohbetlerinin içeriğini detayıyla paylaşmıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -66,53 +76,53 @@
       ]
     },
     {
-      "claim": "The feature is part of Meta's push to enroll teens into parent-supervised teen accounts.",
+      "claim": "Yardım için 988 numarası aranabilir veya mesaj atılabilir ya da 988lifeline.org adresi ziyaret edilebilir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
-          "quote": "The feature is part of Meta's push to enroll teens into parent-supervised \"teen accounts\" that give caregivers more control over teens' privacy settings."
-        }
-      ]
-    },
-    {
-      "claim": "People struggling or in crisis can call or text 988 or chat at 988lifeline.org",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
-          "quote": "If you or someone you know is struggling or in crisis, help is available. Call or text 988 or chat 988lifeline.org"
+          "quote": "Call or text 988 or chat 988lifeline.org"
         }
       ]
     }
   ],
   "round1": [
     {
-      "claim": "Meta is expanding its parental notifications to parents who supervise teens with Facebook accounts.",
+      "claim": "Meta, Facebook'ta kendine zarar verme içeriklerini tekrar eden gençlerin ebeveynlerini uyaracak.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
-          "quote": "the company is now rolling out similar capabilities to parents who supervise teens with Facebook accounts, as well as chats with its AI assistant."
+          "quote": "Meta will now alert parents if teens 'repeatedly' search for self-harm content on Facebook"
+        }
+      ]
+    },
+    {
+      "claim": "Meta, ebeveyn bildirimlerini Meta AI ile yapılan sohbetleri de kapsayacak şekilde genişletiyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
+          "quote": "The company will also notify parents about conversations with Meta AI."
+        }
+      ]
+    },
+    {
+      "claim": "Bu bildirim özelliği daha önce bu yıl Instagram'a eklenmişti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
+          "quote": "After adding the alerts to Instagram earlier this year, the company is now rolling out similar capabilities to parents who supervise teens with Facebook accounts, as well as chats with its AI assistant."
         },
         {
           "url": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
-          "quote": "Meta is now expanding its parental notifications that appear when teens search for content related to suicide and self-harm. After adding the alerts to Instagram earlier this year, the company is now rolling out similar capabilities to parents who supervise teens with Facebook accounts"
+          "quote": "After adding the alerts to Instagram earlier this year, the company is now rolling out similar capabilities to parents who supervise teens with Facebook accounts"
         }
       ]
     },
     {
-      "claim": "Meta will notify parents if their teen repeatedly searches for self-harm content within a short period of time.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
-          "quote": "With the update, Meta will notify parents if their teen \"repeatedly\" searches for self-harm content \"within a short period of time.\""
-        }
-      ]
-    },
-    {
-      "claim": "Parents will be notified if a teen chats with Meta AI in a way that suggests they may be at risk of suicide or self-harm.",
+      "claim": "Meta, gençlerin intihar veya kendine zarar verme riskinde olduğunu gösteren Meta AI sohbetlerinde ebeveynleri bilgilendirecek.",
       "verdict": "supported",
       "evidence": [
         {
@@ -122,7 +132,7 @@
       ]
     },
     {
-      "claim": "Parents receive alerts via text, email, WhatsApp, or a push notification in their own app.",
+      "claim": "Ebeveynlere gönderilen uyarılar kısa mesaj, e-posta, WhatsApp veya kendi uygulamalarındaki anlık bildirim yoluyla iletiliyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -132,7 +142,7 @@
       ]
     },
     {
-      "claim": "The alerts do not detail the specific search terms or contents of Meta AI chats.",
+      "claim": "Uyarılar, spesifik arama terimlerini veya Meta AI sohbetlerinin içeriğini detayıyla paylaşmıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -142,53 +152,53 @@
       ]
     },
     {
-      "claim": "The feature is part of Meta's push to enroll teens into parent-supervised teen accounts.",
+      "claim": "Yardım için 988 numarası aranabilir veya mesaj atılabilir ya da 988lifeline.org adresi ziyaret edilebilir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
-          "quote": "The feature is part of Meta's push to enroll teens into parent-supervised \"teen accounts\" that give caregivers more control over teens' privacy settings."
-        }
-      ]
-    },
-    {
-      "claim": "People struggling or in crisis can call or text 988 or chat at 988lifeline.org",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
-          "quote": "If you or someone you know is struggling or in crisis, help is available. Call or text 988 or chat 988lifeline.org"
+          "quote": "Call or text 988 or chat 988lifeline.org"
         }
       ]
     }
   ],
   "round2": [
     {
-      "claim": "Meta is expanding its parental notifications to parents who supervise teens with Facebook accounts.",
+      "claim": "Meta, Facebook'ta kendine zarar verme içeriklerini tekrar eden gençlerin ebeveynlerini uyaracak.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
-          "quote": "the company is now rolling out similar capabilities to parents who supervise teens with Facebook accounts, as well as chats with its AI assistant."
+          "quote": "Meta will now alert parents if teens 'repeatedly' search for self-harm content on Facebook"
+        }
+      ]
+    },
+    {
+      "claim": "Meta, ebeveyn bildirimlerini Meta AI ile yapılan sohbetleri de kapsayacak şekilde genişletiyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
+          "quote": "The company will also notify parents about conversations with Meta AI."
+        }
+      ]
+    },
+    {
+      "claim": "Bu bildirim özelliği daha önce bu yıl Instagram'a eklenmişti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
+          "quote": "After adding the alerts to Instagram earlier this year, the company is now rolling out similar capabilities to parents who supervise teens with Facebook accounts, as well as chats with its AI assistant."
         },
         {
           "url": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
-          "quote": "Meta is now expanding its parental notifications that appear when teens search for content related to suicide and self-harm. After adding the alerts to Instagram earlier this year, the company is now rolling out similar capabilities to parents who supervise teens with Facebook accounts"
+          "quote": "After adding the alerts to Instagram earlier this year, the company is now rolling out similar capabilities to parents who supervise teens with Facebook accounts"
         }
       ]
     },
     {
-      "claim": "Meta will notify parents if their teen repeatedly searches for self-harm content within a short period of time.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
-          "quote": "With the update, Meta will notify parents if their teen \"repeatedly\" searches for self-harm content \"within a short period of time.\""
-        }
-      ]
-    },
-    {
-      "claim": "Parents will be notified if a teen chats with Meta AI in a way that suggests they may be at risk of suicide or self-harm.",
+      "claim": "Meta, gençlerin intihar veya kendine zarar verme riskinde olduğunu gösteren Meta AI sohbetlerinde ebeveynleri bilgilendirecek.",
       "verdict": "supported",
       "evidence": [
         {
@@ -198,7 +208,7 @@
       ]
     },
     {
-      "claim": "Parents receive alerts via text, email, WhatsApp, or a push notification in their own app.",
+      "claim": "Ebeveynlere gönderilen uyarılar kısa mesaj, e-posta, WhatsApp veya kendi uygulamalarındaki anlık bildirim yoluyla iletiliyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -208,7 +218,7 @@
       ]
     },
     {
-      "claim": "The alerts do not detail the specific search terms or contents of Meta AI chats.",
+      "claim": "Uyarılar, spesifik arama terimlerini veya Meta AI sohbetlerinin içeriğini detayıyla paylaşmıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -218,22 +228,12 @@
       ]
     },
     {
-      "claim": "The feature is part of Meta's push to enroll teens into parent-supervised teen accounts.",
+      "claim": "Yardım için 988 numarası aranabilir veya mesaj atılabilir ya da 988lifeline.org adresi ziyaret edilebilir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
-          "quote": "The feature is part of Meta's push to enroll teens into parent-supervised \"teen accounts\" that give caregivers more control over teens' privacy settings."
-        }
-      ]
-    },
-    {
-      "claim": "People struggling or in crisis can call or text 988 or chat at 988lifeline.org",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
-          "quote": "If you or someone you know is struggling or in crisis, help is available. Call or text 988 or chat 988lifeline.org"
+          "quote": "Call or text 988 or chat 988lifeline.org"
         }
       ]
     }

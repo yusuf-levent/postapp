@@ -3,56 +3,56 @@
 **Haber:** Meta will now alert parents if teens 'repeatedly' search for self-harm content on Facebook
 **Canonical URL:** https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/
 **Kaynaklar:** Engadget, Meta Newsroom (resmi alternatif), Ars Technica, NVIDIA Newsroom
-**Kontrol zamanı:** 2026-10-29T21:32:29+03:00
+**Kontrol zamanı:** 2026-10-29T21:37:11+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
 
 ## İddia Bazlı Sonuçlar
 
-### 1. Meta is expanding its parental notifications to parents who supervise teens with Facebook accounts.
+### 1. Meta, Facebook'ta kendine zarar verme içeriklerini tekrar eden gençlerin ebeveynlerini uyaracak.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/](https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/)
-    > the company is now rolling out similar capabilities to parents who supervise teens with Facebook accounts, as well as chats with its AI assistant.
-  - [https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/](https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/)
-    > Meta is now expanding its parental notifications that appear when teens search for content related to suicide and self-harm. After adding the alerts to Instagram earlier this year, the company is now rolling out similar capabilities to parents who supervise teens with Facebook accounts
+    > Meta will now alert parents if teens 'repeatedly' search for self-harm content on Facebook
 
-### 2. Meta will notify parents if their teen repeatedly searches for self-harm content within a short period of time.
+### 2. Meta, ebeveyn bildirimlerini Meta AI ile yapılan sohbetleri de kapsayacak şekilde genişletiyor.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/](https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/)
-    > With the update, Meta will notify parents if their teen "repeatedly" searches for self-harm content "within a short period of time."
+    > The company will also notify parents about conversations with Meta AI.
 
-### 3. Parents will be notified if a teen chats with Meta AI in a way that suggests they may be at risk of suicide or self-harm.
+### 3. Bu bildirim özelliği daha önce bu yıl Instagram'a eklenmişti.
+- **Karar:** ✅ `supported`
+- **Kanıtlar:**
+  - [https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/](https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/)
+    > After adding the alerts to Instagram earlier this year, the company is now rolling out similar capabilities to parents who supervise teens with Facebook accounts, as well as chats with its AI assistant.
+  - [https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/](https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/)
+    > After adding the alerts to Instagram earlier this year, the company is now rolling out similar capabilities to parents who supervise teens with Facebook accounts
+
+### 4. Meta, gençlerin intihar veya kendine zarar verme riskinde olduğunu gösteren Meta AI sohbetlerinde ebeveynleri bilgilendirecek.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/](https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/)
     > Likewise, if a teen chats with Meta AI in a way that "suggests they may be at risk of suicide or self-harm," parents will also be notified.
 
-### 4. Parents receive alerts via text, email, WhatsApp, or a push notification in their own app.
+### 5. Ebeveynlere gönderilen uyarılar kısa mesaj, e-posta, WhatsApp veya kendi uygulamalarındaki anlık bildirim yoluyla iletiliyor.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/](https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/)
     > Should a teen meet that threshold, parents receive an alert via text, email or WhatsApp, and a push notification in their own app.
 
-### 5. The alerts do not detail the specific search terms or contents of Meta AI chats.
+### 6. Uyarılar, spesifik arama terimlerini veya Meta AI sohbetlerinin içeriğini detayıyla paylaşmıyor.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/](https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/)
     > The alerts don't detail the specific search terms or contents of Meta AI chats, but recommend that parents speak with their teens.
 
-### 6. The feature is part of Meta's push to enroll teens into parent-supervised teen accounts.
+### 7. Yardım için 988 numarası aranabilir veya mesaj atılabilir ya da 988lifeline.org adresi ziyaret edilebilir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/](https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/)
-    > The feature is part of Meta's push to enroll teens into parent-supervised "teen accounts" that give caregivers more control over teens' privacy settings.
-
-### 7. People struggling or in crisis can call or text 988 or chat at 988lifeline.org
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/](https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/)
-    > If you or someone you know is struggling or in crisis, help is available. Call or text 988 or chat 988lifeline.org
+    > Call or text 988 or chat 988lifeline.org
 
 ---
 
@@ -60,13 +60,13 @@
 
 | İddia | 1. Tur | 2. Tur | Nihai |
 |-------|--------|--------|-------|
-| Meta is expanding its parental notifications to parents who  | supported | supported | supported |
-| Meta will notify parents if their teen repeatedly searches f | supported | supported | supported |
-| Parents will be notified if a teen chats with Meta AI in a w | supported | supported | supported |
-| Parents receive alerts via text, email, WhatsApp, or a push  | supported | supported | supported |
-| The alerts do not detail the specific search terms or conten | supported | supported | supported |
-| The feature is part of Meta's push to enroll teens into pare | supported | supported | supported |
-| People struggling or in crisis can call or text 988 or chat  | supported | supported | supported |
+| Meta, Facebook'ta kendine zarar verme içeriklerini tekrar ed | supported | supported | supported |
+| Meta, ebeveyn bildirimlerini Meta AI ile yapılan sohbetleri  | supported | supported | supported |
+| Bu bildirim özelliği daha önce bu yıl Instagram'a eklenmişti | supported | supported | supported |
+| Meta, gençlerin intihar veya kendine zarar verme riskinde ol | supported | supported | supported |
+| Ebeveynlere gönderilen uyarılar kısa mesaj, e-posta, WhatsAp | supported | supported | supported |
+| Uyarılar, spesifik arama terimlerini veya Meta AI sohbetleri | supported | supported | supported |
+| Yardım için 988 numarası aranabilir veya mesaj atılabilir ya | supported | supported | supported |
 
 ## Kaynak Metinleri
 

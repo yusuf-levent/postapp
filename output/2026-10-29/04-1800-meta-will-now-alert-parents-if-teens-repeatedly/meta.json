@@ -2,9 +2,9 @@
   "slot": "18:00",
   "type": "edu",
   "model": "gemini-3.5-flash-lite",
-  "duration_seconds": 159.8,
+  "duration_seconds": 90.8,
   "candidates_tried": 1,
   "gemini_calls": 13,
   "canonical_url": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
-  "generated_at": "2026-10-29T21:34:25+03:00"
+  "generated_at": "2026-10-29T21:38:01+03:00"
 }
