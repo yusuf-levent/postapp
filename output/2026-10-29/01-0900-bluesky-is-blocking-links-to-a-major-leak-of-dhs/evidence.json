@@ -1,0 +1,289 @@
+{
+  "title": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records",
+  "canonical_url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+  "source_names": [
+    "Wired",
+    "BBC News – Technology",
+    "The Verge",
+    "TechCrunch"
+  ],
+  "checked_at": "2026-10-29T08:42:08+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Bluesky, 41.000'den fazla İç Güvenlik Bakanlığı çalışan ve yüklenicisinin kayıtlarını içeren sızdırılmış arşiv bağlantılarını engellemektedir ve bu sayfaları kötü amaçlı olarak etiketlemektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "Bluesky is blocking users from opening links to a newly leaked archive of records on more than 41,000 Department of Homeland Security employees and contractors, and labels the pages “malicious.”"
+        }
+      ]
+    },
+    {
+      "claim": "DHS kayıtları, Çarşamba günü şeffaflık kar amacı gütmeyen kuruluşu Distributed Denial of Secrets tarafından yayınlanmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "The DHS records, published Wednesday by the transparency nonprofit Distributed Denial of Secrets, list employees' and contractors’ names, contact information, and membership in internal groups, tied in some cases to surveillance and undercover operations."
+        },
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "The DHS records, published Wednesday by the transparency nonprofit Distributed Denial of Secrets"
+        }
+      ]
+    },
+    {
+      "claim": "Bluesky, 2019 yılında bir Twitter araştırma projesi olarak başlamış, daha sonra bağımsızlaşmış ve Şubat 2024'te halka açılmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "Bluesky started in 2019 as a Twitter research project, later became independent, and opened to the public in February 2024."
+        }
+      ]
+    },
+    {
+      "claim": "Bluesky, bu yılın Ağustos ayı itibarıyla 45 milyon kayıtlı hesaba ulaşmıştır ve Haziran ayında tahmini 10,4 milyon kişi mobil uygulamasını kullanmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "By August of this year, it counted 45 million registered accounts, and an estimated 10.4 million people used its mobile app in June."
+        }
+      ]
+    },
+    {
+      "claim": "Toni Schneider, kurucu ortak Jay Graber'in Mart ayında görevden ayrılmasından bu yana şirketi yönetmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "Toni Schneider, the founding CEO of Automattic, has run the company since cofounder Jay Graber stepped down in March."
+        }
+      ]
+    },
+    {
+      "claim": "Twitter, DDoSecrets'in hesabını 2020 yılında askıya almış ve grup yüzlerce polis teşkilatına ait dahili kayıtları yayınladıktan sonra web sitesine giden bağlantıları engellemiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "Twitter suspended DDoSecrets’ account in 2020, prior to the Elon Musk acquisition and X rebrand, and blocked links to its website after the group published BlueLeaks, a 269-gigabyte trove of internal records from hundreds of police agencies and fusion centers."
+        }
+      ]
+    },
+    {
+      "claim": "Department of Peace adlı grup, Icepick adlı arşivi DDoSecrets'e ve gazeteci maia arson crimew'e vermiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "A group calling itself the Department of Peace gave the archive, dubbed “Icepick,” to DDoSecrets and journalist maia arson crimew."
+        }
+      ]
+    },
+    {
+      "claim": "X platformundaki Grok sohbet botu, meraklı kullanıcıları Icepick web sitesine yönlendirmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "On X, the Grok chatbot built by X’s parent company pointed curious users to the Icepick website, describing it as a “cleaned searchable web tool” and saying that the complete dataset can be downloaded via DDoSecrets’ website or by torrent."
+        },
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "On X, the Grok chatbot built by X’s parent company pointed curious users to the Icepick website"
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Bluesky, 41.000'den fazla İç Güvenlik Bakanlığı çalışan ve yüklenicisinin kayıtlarını içeren sızdırılmış arşiv bağlantılarını engellemektedir ve bu sayfaları kötü amaçlı olarak etiketlemektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "Bluesky is blocking users from opening links to a newly leaked archive of records on more than 41,000 Department of Homeland Security employees and contractors, and labels the pages “malicious.”"
+        }
+      ]
+    },
+    {
+      "claim": "DHS kayıtları, Çarşamba günü şeffaflık kar amacı gütmeyen kuruluşu Distributed Denial of Secrets tarafından yayınlanmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "The DHS records, published Wednesday by the transparency nonprofit Distributed Denial of Secrets, list employees' and contractors’ names, contact information, and membership in internal groups, tied in some cases to surveillance and undercover operations."
+        },
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "The DHS records, published Wednesday by the transparency nonprofit Distributed Denial of Secrets"
+        }
+      ]
+    },
+    {
+      "claim": "Bluesky, 2019 yılında bir Twitter araştırma projesi olarak başlamış, daha sonra bağımsızlaşmış ve Şubat 2024'te halka açılmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "Bluesky started in 2019 as a Twitter research project, later became independent, and opened to the public in February 2024."
+        }
+      ]
+    },
+    {
+      "claim": "Bluesky, bu yılın Ağustos ayı itibarıyla 45 milyon kayıtlı hesaba ulaşmıştır ve Haziran ayında tahmini 10,4 milyon kişi mobil uygulamasını kullanmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "By August of this year, it counted 45 million registered accounts, and an estimated 10.4 million people used its mobile app in June."
+        }
+      ]
+    },
+    {
+      "claim": "Toni Schneider, kurucu ortak Jay Graber'in Mart ayında görevden ayrılmasından bu yana şirketi yönetmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "Toni Schneider, the founding CEO of Automattic, has run the company since cofounder Jay Graber stepped down in March."
+        }
+      ]
+    },
+    {
+      "claim": "Twitter, DDoSecrets'in hesabını 2020 yılında askıya almış ve grup yüzlerce polis teşkilatına ait dahili kayıtları yayınladıktan sonra web sitesine giden bağlantıları engellemiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "Twitter suspended DDoSecrets’ account in 2020, prior to the Elon Musk acquisition and X rebrand, and blocked links to its website after the group published BlueLeaks, a 269-gigabyte trove of internal records from hundreds of police agencies and fusion centers."
+        }
+      ]
+    },
+    {
+      "claim": "Department of Peace adlı grup, Icepick adlı arşivi DDoSecrets'e ve gazeteci maia arson crimew'e vermiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "A group calling itself the Department of Peace gave the archive, dubbed “Icepick,” to DDoSecrets and journalist maia arson crimew."
+        }
+      ]
+    },
+    {
+      "claim": "X platformundaki Grok sohbet botu, meraklı kullanıcıları Icepick web sitesine yönlendirmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "On X, the Grok chatbot built by X’s parent company pointed curious users to the Icepick website, describing it as a “cleaned searchable web tool” and saying that the complete dataset can be downloaded via DDoSecrets’ website or by torrent."
+        },
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "On X, the Grok chatbot built by X’s parent company pointed curious users to the Icepick website"
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Bluesky, 41.000'den fazla İç Güvenlik Bakanlığı çalışan ve yüklenicisinin kayıtlarını içeren sızdırılmış arşiv bağlantılarını engellemektedir ve bu sayfaları kötü amaçlı olarak etiketlemektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "Bluesky is blocking users from opening links to a newly leaked archive of records on more than 41,000 Department of Homeland Security employees and contractors, and labels the pages “malicious.”"
+        }
+      ]
+    },
+    {
+      "claim": "DHS kayıtları, Çarşamba günü şeffaflık kar amacı gütmeyen kuruluşu Distributed Denial of Secrets tarafından yayınlanmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "The DHS records, published Wednesday by the transparency nonprofit Distributed Denial of Secrets, list employees' and contractors’ names, contact information, and membership in internal groups, tied in some cases to surveillance and undercover operations."
+        },
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "The DHS records, published Wednesday by the transparency nonprofit Distributed Denial of Secrets"
+        }
+      ]
+    },
+    {
+      "claim": "Bluesky, 2019 yılında bir Twitter araştırma projesi olarak başlamış, daha sonra bağımsızlaşmış ve Şubat 2024'te halka açılmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "Bluesky started in 2019 as a Twitter research project, later became independent, and opened to the public in February 2024."
+        }
+      ]
+    },
+    {
+      "claim": "Bluesky, bu yılın Ağustos ayı itibarıyla 45 milyon kayıtlı hesaba ulaşmıştır ve Haziran ayında tahmini 10,4 milyon kişi mobil uygulamasını kullanmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "By August of this year, it counted 45 million registered accounts, and an estimated 10.4 million people used its mobile app in June."
+        }
+      ]
+    },
+    {
+      "claim": "Toni Schneider, kurucu ortak Jay Graber'in Mart ayında görevden ayrılmasından bu yana şirketi yönetmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "Toni Schneider, the founding CEO of Automattic, has run the company since cofounder Jay Graber stepped down in March."
+        }
+      ]
+    },
+    {
+      "claim": "Twitter, DDoSecrets'in hesabını 2020 yılında askıya almış ve grup yüzlerce polis teşkilatına ait dahili kayıtları yayınladıktan sonra web sitesine giden bağlantıları engellemiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "Twitter suspended DDoSecrets’ account in 2020, prior to the Elon Musk acquisition and X rebrand, and blocked links to its website after the group published BlueLeaks, a 269-gigabyte trove of internal records from hundreds of police agencies and fusion centers."
+        }
+      ]
+    },
+    {
+      "claim": "Department of Peace adlı grup, Icepick adlı arşivi DDoSecrets'e ve gazeteci maia arson crimew'e vermiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "A group calling itself the Department of Peace gave the archive, dubbed “Icepick,” to DDoSecrets and journalist maia arson crimew."
+        }
+      ]
+    },
+    {
+      "claim": "X platformundaki Grok sohbet botu, meraklı kullanıcıları Icepick web sitesine yönlendirmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "On X, the Grok chatbot built by X’s parent company pointed curious users to the Icepick website, describing it as a “cleaned searchable web tool” and saying that the complete dataset can be downloaded via DDoSecrets’ website or by torrent."
+        },
+        {
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "quote": "On X, the Grok chatbot built by X’s parent company pointed curious users to the Icepick website"
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/": 3889,
+    "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss": 4617,
+    "https://www.theverge.com/tech/1021528/ice-cbp-data-leak": 2019,
+    "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/": 2901
+  }
+}

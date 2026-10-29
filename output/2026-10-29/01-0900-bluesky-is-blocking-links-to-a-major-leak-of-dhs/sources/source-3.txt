@@ -1,0 +1,10 @@
+URL: https://www.theverge.com/tech/1021528/ice-cbp-data-leak
+Erişim zamanı: 2026-10-29T08:42:08+03:00
+
+A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP), according to TechCrunch and Wired. The data also linked the agencies to specific surveillance tools.
+A hacker stole more than 40,000 DHS employee records
+The names, job titles, phone numbers, and emails of thousands of ICE, CBP, and other DHS employees were compromised in a massive hack.
+As reported by TechCrunch, a hacker known as “Department of Peace” gained access to the data through Okta, an identity and access management service used by the DHS. Around 21,000 records pertain to CBP employees, and nearly 7,000 belong to staff at ICE. The data also includes records from the Cybersecurity and Infrastructure Security Agency (CISA), US Citizenship and Immigration Services (USCIS), and Homeland Security Investigations (HSI).
+The DHS has worked to conceal the identities of CBP and ICE agents, who have carried out anti-immigration raids around the US, while also tracking down online critics. “They have our information, so it’s only fair that we have theirs,” the “Department of Peace” hacker said, according to TechCrunch. This leak comes just weeks after hackers stole data from the FBI on its employees and job applicants.
+The leaked DHS information was reportedly given to cybersecurity researcher maia arson crimew, who shared it with Distributed Denial of Secrets (DDoSecrets), a nonprofit organization that’s now hosting the leaked “Icepick” dataset. The leak also reportedly includes information about DHS groups that have access to tools that can be used for surveillance, such as the facial recognition app Mobile Fortify and PenLink, which can collect and analyze data from phones and online services.
+The DHS didn’t immediately respond to The Verge’s request for comment.

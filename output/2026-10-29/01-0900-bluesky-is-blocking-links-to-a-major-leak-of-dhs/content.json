@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "GÜVENLİK VE SOSYAL MEDYA",
+    "title": "Bluesky'dan sızıntı arşivine engel",
+    "highlight_words": [
+      "sızıntı",
+      "engel"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "İç Güvenlik Bakanlığı çalışanlarına ait sızdırılmış arşiv bağlantıları engelleniyor.",
+    "source_tags": [
+      "WIRED",
+      "THE VERGE"
+    ]
+  },
+  "context": {
+    "heading": "Sızıntı ve engelleme kararı",
+    "cards": [
+      {
+        "card_title": "DHS kayıtları yayınlandı",
+        "card_body": "41.000'den fazla İç Güvenlik Bakanlığı çalışan ve yüklenicisinin kayıtları şeffaflık kuruluşu tarafından paylaşıldı."
+      },
+      {
+        "card_title": "Bluesky'ın hamlesi",
+        "card_body": "Bluesky, sızdırılmış arşiv bağlantılarını engellemekte ve bu sayfaları kötü amaçlı olarak etiketlemektedir."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "41.000+",
+    "stat_caption": "Kayıtları içeren sızdırılmış arşiv bağlantıları engelleniyor.",
+    "stat_quote": "Bluesky, 41.000'den fazla İç Güvenlik Bakanlığı çalışan ve yüklenicisinin kayıtlarını içeren sızdırılmış arşiv bağlantılarını engellemektedir."
+  },
+  "details": {
+    "heading": "Platformun geçmişi ve süreç",
+    "cards": [
+      {
+        "card_title": "Bluesky'ın büyümesi",
+        "card_body": "2019'da Twitter araştırma projesi olarak başlayan platform, Şubat 2024'te halka açıldı ve Ağustos itibarıyla 45 milyon hesaba ulaştı."
+      },
+      {
+        "card_title": "Arşivin kaynağı",
+        "card_body": "Department of Peace adlı grup, Icepick adlı arşivi DDoSecrets'e ve gazeteci maia arson crimew'e teslim etti."
+      },
+      {
+        "card_title": "Yönetim",
+        "card_body": "Kurucu ortak Jay Graber'in Mart ayındaki ayrılışından bu yana şirketi Toni Schneider yönetmektedir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel etkiler ve platformlar",
+    "cards": [
+      {
+        "card_title": "Platformların politikaları",
+        "card_body": "Twitter da 2020 yılında DDoSecrets'in hesabını askıya almış ve web sitesine giden bağlantıları engellemişti."
+      },
+      {
+        "card_title": "Yapay zeka yönlendirmesi",
+        "card_body": "X platformundaki Grok sohbet botu, meraklı kullanıcıları Icepick web sitesine yönlendirmiştir."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sosyal medya platformlarının sızdırılmış arşivlere karşı aldığı bu önlemleri yeterli buluyor musunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

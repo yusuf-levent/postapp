@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 94.9,
+  "candidates_tried": 1,
+  "gemini_calls": 12,
+  "canonical_url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+  "generated_at": "2026-10-29T08:43:09+03:00"
+}
