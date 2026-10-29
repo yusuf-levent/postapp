@@ -1,4 +1,16 @@
 {
-  "images": [],
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://media.wired.com/photos/6ae293587359ba945850d8f8/191:100/w_1280,c_limit/science_math_ai_breakthrough_research.jpg",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-29/03-1500-an-ai-breakthrough-has-made-decades-of-computer/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+      "width": 1280,
+      "height": 670,
+      "alt_text": ""
+    }
+  ],
   "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
 }

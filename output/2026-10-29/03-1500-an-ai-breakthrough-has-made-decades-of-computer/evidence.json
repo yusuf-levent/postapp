@@ -7,12 +7,12 @@
     "TechCrunch",
     "OpenAI News"
   ],
-  "checked_at": "2026-10-29T14:47:12+03:00",
+  "checked_at": "2026-10-29T14:57:06+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Linkoping University professor Peter Jonsson will have his work presented in two weeks at the IEEE Symposium on Foundations of Computer Science.",
+      "claim": "Linkopings University professor Peter Jonsson's work is set to be presented in two weeks at the IEEE Symposium on Foundations of Computer Science.",
       "verdict": "supported",
       "evidence": [
         {
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "claim": "OpenAI and Anthropic claimed to have disproved the exponential time hypothesis.",
+      "claim": "OpenAI and Anthropic claimed to have disproved the exponential time hypothesis (ETH).",
       "verdict": "supported",
       "evidence": [
         {
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "claim": "UC Santa Barbara professor Daniel Lokshtanov estimates that the result will render around 50 of his published papers pointless or in need of a revisit.",
+      "claim": "UC Santa Barbara professor Daniel Lokshtanov estimates the result will render around 50 of his published papers pointless or in need of a revisit.",
       "verdict": "supported",
       "evidence": [
         {
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "claim": "OpenAI published a 60-odd-page paper on the exponential time hypothesis.",
+      "claim": "OpenAI's paper on ETH is approximately 60 pages long.",
       "verdict": "supported",
       "evidence": [
         {
@@ -82,7 +82,7 @@
   ],
   "round1": [
     {
-      "claim": "Linkoping University professor Peter Jonsson will have his work presented in two weeks at the IEEE Symposium on Foundations of Computer Science.",
+      "claim": "Linkopings University professor Peter Jonsson's work is set to be presented in two weeks at the IEEE Symposium on Foundations of Computer Science.",
       "verdict": "supported",
       "evidence": [
         {
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "claim": "OpenAI and Anthropic claimed to have disproved the exponential time hypothesis.",
+      "claim": "OpenAI and Anthropic claimed to have disproved the exponential time hypothesis (ETH).",
       "verdict": "supported",
       "evidence": [
         {
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "claim": "UC Santa Barbara professor Daniel Lokshtanov estimates that the result will render around 50 of his published papers pointless or in need of a revisit.",
+      "claim": "UC Santa Barbara professor Daniel Lokshtanov estimates the result will render around 50 of his published papers pointless or in need of a revisit.",
       "verdict": "supported",
       "evidence": [
         {
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "claim": "OpenAI published a 60-odd-page paper on the exponential time hypothesis.",
+      "claim": "OpenAI's paper on ETH is approximately 60 pages long.",
       "verdict": "supported",
       "evidence": [
         {
@@ -152,7 +152,7 @@
   ],
   "round2": [
     {
-      "claim": "Linkoping University professor Peter Jonsson will have his work presented in two weeks at the IEEE Symposium on Foundations of Computer Science.",
+      "claim": "Linkopings University professor Peter Jonsson's work is set to be presented in two weeks at the IEEE Symposium on Foundations of Computer Science.",
       "verdict": "supported",
       "evidence": [
         {
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "claim": "OpenAI and Anthropic claimed to have disproved the exponential time hypothesis.",
+      "claim": "OpenAI and Anthropic claimed to have disproved the exponential time hypothesis (ETH).",
       "verdict": "supported",
       "evidence": [
         {
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "claim": "UC Santa Barbara professor Daniel Lokshtanov estimates that the result will render around 50 of his published papers pointless or in need of a revisit.",
+      "claim": "UC Santa Barbara professor Daniel Lokshtanov estimates the result will render around 50 of his published papers pointless or in need of a revisit.",
       "verdict": "supported",
       "evidence": [
         {
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "claim": "OpenAI published a 60-odd-page paper on the exponential time hypothesis.",
+      "claim": "OpenAI's paper on ETH is approximately 60 pages long.",
       "verdict": "supported",
       "evidence": [
         {

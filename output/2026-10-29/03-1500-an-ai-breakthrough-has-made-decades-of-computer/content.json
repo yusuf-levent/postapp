@@ -1,66 +1,65 @@
 {
   "cover": {
-    "category_label": "YAPAY ZEKA VE BİLİM",
-    "title": "Üstel Zaman Hipotezi Çürüdü mü?",
+    "category_label": "YAPAY ZEKA DÜNYASI",
+    "title": "OpenAI ve Anthropic Bilgisayar Bilimlerinde Çığır Açtı",
     "highlight_words": [
-      "Üstel",
-      "Zaman",
-      "Hipotezi"
+      "Bilgisayar",
+      "Bilimlerinde"
     ],
-    "highlight_color": "yellow",
-    "subtitle": "OpenAI ve Anthropic, bilgisayar bilimlerinin temelini sarsan çalışmalarını paylaştı.",
+    "highlight_color": "cyan",
+    "subtitle": "Yapay zeka modelleri teorik bilgisayar biliminin temel hipotezini çürüttü.",
     "source_tags": [
       "WIRED",
       "OPENAI NEWS"
     ]
   },
   "context": {
-    "heading": "GitHub'da Yayınlanan Dev Arşiv",
+    "heading": "Bilim Dünyasında Neler Oluyor?",
     "cards": [
       {
-        "card_title": "722 El Yazması",
-        "card_body": "OpenAI, bu ayin başında 400 probleme ait 722 el yazmasını GitHub üzerinde paylaştı."
+        "card_title": "IEEE Sempozyumu",
+        "card_body": "Linkopings Üniversitesi'nden Profesör Peter Jonsson'ın çalışması iki hafta içinde IEEE sempozyumunda sunulacak."
       },
       {
-        "card_title": "Doğal Dil ve Lean Formatı",
-        "card_body": "OpenAI ve Anthropic, yapay zeka tarafından üretilen kanıtları doğal dil ve Lean formatında yayınladı."
+        "card_title": "GitHub Paylaşımı",
+        "card_body": "OpenAI ve Anthropic, yapay zeka tarafından üretilen kanıtları doğal dil ve Lean formatında GitHub'da yayınladı."
       }
     ]
   },
   "stat": {
     "big_stat": "722",
-    "stat_caption": "GitHub'da paylaşılan el yazması ve 400 farklı problem.",
-    "stat_quote": "OpenAI ve Anthropic, üstel zaman hipotezini çürüttüklerini iddia ediyor."
+    "stat_caption": "OpenAI tarafından GitHub'da yayınlanan el yazması sayısı",
+    "stat_quote": "OpenAI, bu ayın başında 400 problem üzerine 722 el yazmasını GitHub'a yükledi."
   },
   "details": {
-    "heading": "Bilim Dünyasında Yankıları",
+    "heading": "Çalışmanın Detayları",
     "cards": [
       {
-        "card_title": "60 Sayfalık Makale",
-        "card_body": "OpenAI, üstel zaman hipotezi üzerine yaklaşık 60 sayfalık kapsamlı bir makale yayınladı."
+        "card_title": "ETH'nin Çürütülmesi",
+        "card_body": "OpenAI ve Anthropic, üstel zaman hipotezini (ETH) çürüttüklerini iddia etti."
       },
       {
-        "card_title": "IEEE Sempozyumu",
-        "card_body": "Linkoping Üniversitesi profesörü Peter Jonsson'un çalışması iki hafta sonra IEEE sempozyumunda sunulacak."
+        "card_title": "60 Sayfalık Makale",
+        "card_body": "OpenAI'ın ETH hakkındaki makalesi yaklaşık 60 sayfa uzunluğunda."
       }
     ]
   },
   "impact": {
-    "heading": "Akademik Dünyaya Etkisi",
+    "heading": "Akademik Etki",
     "cards": [
       {
-        "card_title": "Yeniden Yazılacak Makaleler",
-        "card_body": "UC Santa Barbara profesörü Daniel Lokshtanov, yaklaşık 50 yayınlanmış makalesinin anlamsızlaşacağını veya gözden geçirilmesi gerekeceğini tahmin ediyor."
+        "card_title": "Akademik Yayınlar Tehlikede",
+        "card_body": "UC Santa Barbara profesörü Daniel Lokshtanov, sonucun yayınlanan 50 makalesini geçersiz kılacağını tahmin ediyor."
       },
       {
-        "card_title": "Temel Kabul Edilen Teoriler",
-        "card_body": "Yapay zekanın ürettiği bu kanıtlar, bilgisayar bilimlerindeki uzun süreli kabullerin yeniden tartışılmasına yol açıyor."
+        "card_title": "Yeniden Değerlendirme",
+        "card_body": "Mevcut teorik bilgisayar bilimi makalelerinin gözden geçirilmesi gerekebilir."
       }
     ]
   },
   "cta": {
-    "question": "Yapay zekanın akademik araştırmalardaki bu hızı hakkında ne düşünüyorsunuz?",
-    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın."
+    "question": "Yapay zekanın teorik bilimlerdeki bu hızı akademik dünyayı nasıl dönüştürecek?",
+    "reminder_line": "Teknoloji gündemini kaçırmamak için bizi takip et!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
