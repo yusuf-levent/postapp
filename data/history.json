@@ -2133,5 +2133,78 @@
     ],
     "created_at": "2026-10-29T11:44:52+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-10-29-1500",
+    "date": "2026-10-29",
+    "slot": "15:00",
+    "type": "news",
+    "title_tr": "OpenAI ve Anthropic Bilgisayar Bilimlerinde Çığır Açtı",
+    "original_title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
+    "source_urls": [
+      "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/"
+    ],
+    "canonical_url": "https://wired.com/story/ai-made-decades-of-computer-science-research-irrelevant",
+    "entities": [
+      "Peter Jonsson",
+      "OpenAI",
+      "Anthropic",
+      "Linköping University",
+      "IEEE Symposium on Foundations of Computer Science"
+    ],
+    "event_type": "research_result",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae334d064fcf825949e8b6a",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae334e764fcf825949e9416",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae334fe44715b877827702b",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2115775384306225587",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18135659389673369",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfE9KMsIMGb",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae33524d747cf479b1f60d4",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae3353bb36cf8170e7b15cc",
+        "permalink": "https://facebook.com/1351036918092059_122119407207484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-29T15:00:12+03:00",
+    "verified_claims_count": 6
   }
 ]
