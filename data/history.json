@@ -2054,5 +2054,84 @@
     ],
     "created_at": "2026-10-29T08:45:14+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-10-29-1200",
+    "date": "2026-10-29",
+    "slot": "12:00",
+    "type": "news",
+    "title_tr": "Büyük Sızıntı: 41 Bin Personelin Kayıtları Yayınlandı",
+    "original_title": "Hackers leaked details of more than 41,000 Homeland Security personnel",
+    "source_urls": [
+      "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/"
+    ],
+    "canonical_url": "https://engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel",
+    "entities": [
+      "Homeland Security",
+      "ICE",
+      "US Customs and Border Protection",
+      "Homeland Security Investigations",
+      "Markwayne Mullin",
+      "Department of Peace",
+      "Joan Sebastian Duran Guerrero",
+      "Lorenzo Salgado Araujo",
+      "Wired",
+      "Washington Post",
+      "NPR"
+    ],
+    "event_type": "data_breach",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae30708b8abb6631d18c574",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae3071f9c8338621358b6d3",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae307368d517922b23c5a7c",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2115726226522353864",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "17941795170379432",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfEmzBTldDK",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae307572467e67f128b0234",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae3076eb8abb6631d18deca",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-29T11:44:52+03:00",
+    "verified_claims_count": 8
   }
 ]
