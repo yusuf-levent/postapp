@@ -1,0 +1,10 @@
+{
+  "slot": "18:00",
+  "type": "edu",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 147.9,
+  "candidates_tried": 1,
+  "gemini_calls": 12,
+  "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+  "generated_at": "2026-10-29T17:54:23+03:00"
+}

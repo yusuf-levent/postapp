@@ -1,0 +1,313 @@
+{
+  "title": "The NYT Cooking app is testing AI recipe modifications",
+  "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+  "source_names": [
+    "The Verge",
+    "MIT Technology Review",
+    "Wired",
+    "IEEE Spectrum"
+  ],
+  "checked_at": "2026-10-29T17:53:31+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it’s sparked some drama among users."
+        }
+      ]
+    },
+    {
+      "claim": "NYT Cooking senior editor Genevieve Ko announced the new AI feature last Friday.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "NYT Cooking senior editor Genevieve Ko announced the feature last Friday"
+        }
+      ]
+    },
+    {
+      "claim": "Customized recipes are private and can't be published or shared via the app.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "Customized recipes are private and can’t be published or shared via the app."
+        }
+      ]
+    },
+    {
+      "claim": "The AI modification feature is currently available to all Cooking subscribers on the iOS app.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "it’s currently available to all Cooking subscribers on the iOS app"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "it’s currently available to all Cooking subscribers on the iOS app, and will be more broadly available “soon.”"
+        }
+      ]
+    },
+    {
+      "claim": "Genevieve Ko stated that there is currently no way to disable the AI feature.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "When one user asked if there will be a way to disable the AI feature, Ko responded with “No, not at this time,”"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "When one user asked if there will be a way to disable the AI feature, Ko responded with “No, not at this time,” and noted that the feature is “completely optional to use.”"
+        }
+      ]
+    },
+    {
+      "claim": "AI was previously used by the NYT Cooking app to convert imperial volume measurements to metric weight measurements two years ago.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "Ko says it was used to convert imperial volume measurements to metric weight measurements in recipes two years ago"
+        }
+      ]
+    },
+    {
+      "claim": "A feature was added last year that converts recipes to halve or double the original serving size.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "a feature was added last year that converts recipes to halve or double the original serving size."
+        }
+      ]
+    },
+    {
+      "claim": "NYT spokesperson Jordan Cohen stated that comments on the article remained open for four days.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "NYT spokesperson Jordan Cohen tells The Verge that this is standard practice: “Comments on this article remained open for four days"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "NYT spokesperson Jordan Cohen tells The Verge that this is standard practice: “Comments on this article remained open for four days, with editors from Cooking taking care to answer questions, address concerns and engage directly with readers."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it’s sparked some drama among users."
+        }
+      ]
+    },
+    {
+      "claim": "NYT Cooking senior editor Genevieve Ko announced the new AI feature last Friday.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "NYT Cooking senior editor Genevieve Ko announced the feature last Friday"
+        }
+      ]
+    },
+    {
+      "claim": "Customized recipes are private and can't be published or shared via the app.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "Customized recipes are private and can’t be published or shared via the app."
+        }
+      ]
+    },
+    {
+      "claim": "The AI modification feature is currently available to all Cooking subscribers on the iOS app.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "it’s currently available to all Cooking subscribers on the iOS app"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "it’s currently available to all Cooking subscribers on the iOS app, and will be more broadly available “soon.”"
+        }
+      ]
+    },
+    {
+      "claim": "Genevieve Ko stated that there is currently no way to disable the AI feature.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "When one user asked if there will be a way to disable the AI feature, Ko responded with “No, not at this time,”"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "When one user asked if there will be a way to disable the AI feature, Ko responded with “No, not at this time,” and noted that the feature is “completely optional to use.”"
+        }
+      ]
+    },
+    {
+      "claim": "AI was previously used by the NYT Cooking app to convert imperial volume measurements to metric weight measurements two years ago.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "Ko says it was used to convert imperial volume measurements to metric weight measurements in recipes two years ago"
+        }
+      ]
+    },
+    {
+      "claim": "A feature was added last year that converts recipes to halve or double the original serving size.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "a feature was added last year that converts recipes to halve or double the original serving size."
+        }
+      ]
+    },
+    {
+      "claim": "NYT spokesperson Jordan Cohen stated that comments on the article remained open for four days.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "NYT spokesperson Jordan Cohen tells The Verge that this is standard practice: “Comments on this article remained open for four days"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "NYT spokesperson Jordan Cohen tells The Verge that this is standard practice: “Comments on this article remained open for four days, with editors from Cooking taking care to answer questions, address concerns and engage directly with readers."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it’s sparked some drama among users."
+        }
+      ]
+    },
+    {
+      "claim": "NYT Cooking senior editor Genevieve Ko announced the new AI feature last Friday.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "NYT Cooking senior editor Genevieve Ko announced the feature last Friday"
+        }
+      ]
+    },
+    {
+      "claim": "Customized recipes are private and can't be published or shared via the app.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "Customized recipes are private and can’t be published or shared via the app."
+        }
+      ]
+    },
+    {
+      "claim": "The AI modification feature is currently available to all Cooking subscribers on the iOS app.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "it’s currently available to all Cooking subscribers on the iOS app"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "it’s currently available to all Cooking subscribers on the iOS app, and will be more broadly available “soon.”"
+        }
+      ]
+    },
+    {
+      "claim": "Genevieve Ko stated that there is currently no way to disable the AI feature.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "When one user asked if there will be a way to disable the AI feature, Ko responded with “No, not at this time,”"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "When one user asked if there will be a way to disable the AI feature, Ko responded with “No, not at this time,” and noted that the feature is “completely optional to use.”"
+        }
+      ]
+    },
+    {
+      "claim": "AI was previously used by the NYT Cooking app to convert imperial volume measurements to metric weight measurements two years ago.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "Ko says it was used to convert imperial volume measurements to metric weight measurements in recipes two years ago"
+        }
+      ]
+    },
+    {
+      "claim": "A feature was added last year that converts recipes to halve or double the original serving size.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "a feature was added last year that converts recipes to halve or double the original serving size."
+        }
+      ]
+    },
+    {
+      "claim": "NYT spokesperson Jordan Cohen stated that comments on the article remained open for four days.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "NYT spokesperson Jordan Cohen tells The Verge that this is standard practice: “Comments on this article remained open for four days"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "quote": "NYT spokesperson Jordan Cohen tells The Verge that this is standard practice: “Comments on this article remained open for four days, with editors from Cooking taking care to answer questions, address concerns and engage directly with readers."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool": 2836,
+    "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/": 8263,
+    "https://www.wired.com/story/the-2000-nit-oled-in-apples-new-macbook-pro-is-a-big-deal/": 8541,
+    "https://spectrum.ieee.org/systems-thinking-vital-in-ai": 7527
+  }
+}

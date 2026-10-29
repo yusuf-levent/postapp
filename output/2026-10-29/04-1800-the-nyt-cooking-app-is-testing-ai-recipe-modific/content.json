@@ -1,0 +1,129 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA GÜNCELLEMELERİ",
+    "title": "NYT Cooking Uygulamasında Yeni Yapay Zeka Dönemi",
+    "highlight_words": [
+      "Yapay Zeka",
+      "NYT Cooking"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Yemek tariflerini kişiselleştiren yeni özellik yayında.",
+    "source_tags": [
+      "The Verge",
+      "MIT Technology Review",
+      "Wired",
+      "IEEE Spectrum"
+    ]
+  },
+  "problem": {
+    "heading": "Yemek Tariflerinde Yapay Zeka Desteği",
+    "cards": [
+      {
+        "card_title": "Yeni Özellik Nedir?",
+        "card_body": "The New York Times, Cooking uygulaması için kullanıcıların tarifleri değiştirmesine yardımcı olan yeni bir yapay zeka özelliğini test ediyor."
+      },
+      {
+        "card_title": "Kimler Erişebilir?",
+        "card_body": "Bu özellik şu anda iOS uygulamasındaki tüm Cooking aboneleri için kullanıma sunulmuş durumda."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Geçmişten Günümüze NYT Cooking",
+      "cards": [
+        {
+          "card_title": "Ölçü Birimi Dönüşümü",
+          "card_body": "Uygulama, iki yıl önce emperyal hacim ölçülerini metrik ağırlık ölçülerine dönüştürmek için yapay zekayı kullanmaya başlamıştı."
+        },
+        {
+          "card_title": "Porsiyon Ayarlama",
+          "card_body": "Geçtiğimiz yıl ise tarifleri orijinal porsiyon boyutunun yarısına veya iki katına çıkarma özelliği eklenmişti."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Özelliğin Sınırları",
+      "cards": [
+        {
+          "card_title": "Gizlilik Kuralı",
+          "card_body": "Yapay zeka ile özelleştirilen tarifler tamamen kişiseldir; uygulama üzerinden yayınlanamaz veya paylaşılamaz."
+        },
+        {
+          "card_title": "Kapatma Seçeneği",
+          "card_body": "NYT Cooking kıdemli editörü Genevieve Ko, şu an için bu yapay zeka özelliğini devre dışı bırakmanın bir yolu olmadığını belirtti."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Duyuru ve Geri Bildirim",
+      "cards": [
+        {
+          "card_title": "Resmi Duyuru",
+          "card_body": "Yeni özellik, geçtiğimiz Cuma günü kıdemli editör Genevieve Ko tarafından duyuruldu."
+        },
+        {
+          "card_title": "İletişim Süreci",
+          "card_body": "NYT sözcüsü Jordan Cohen, konuyla ilgili makaledeki yorumların dört gün boyunca açık kaldığını ifade etti."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Yemek tariflerinde yapay zeka desteği kullanmak mutfaktaki işlerinizi kolaylaştırır mı?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri takip etmek için Tekno Pusula'yı izlemeye devam edin."
+  },
+  "context": {
+    "heading": "Yemek Tariflerinde Yapay Zeka Desteği",
+    "cards": [
+      {
+        "card_title": "Yeni Özellik Nedir?",
+        "card_body": "The New York Times, Cooking uygulaması için kullanıcıların tarifleri değiştirmesine yardımcı olan yeni bir yapay zeka özelliğini test ediyor."
+      },
+      {
+        "card_title": "Kimler Erişebilir?",
+        "card_body": "Bu özellik şu anda iOS uygulamasındaki tüm Cooking aboneleri için kullanıma sunulmuş durumda."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Geçmişten Günümüze NYT Cooking",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Özelliğin Sınırları",
+    "cards": [
+      {
+        "card_title": "Gizlilik Kuralı",
+        "card_body": "Yapay zeka ile özelleştirilen tarifler tamamen kişiseldir; uygulama üzerinden yayınlanamaz veya paylaşılamaz."
+      },
+      {
+        "card_title": "Kapatma Seçeneği",
+        "card_body": "NYT Cooking kıdemli editörü Genevieve Ko, şu an için bu yapay zeka özelliğini devre dışı bırakmanın bir yolu olmadığını belirtti."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Duyuru ve Geri Bildirim",
+    "cards": [
+      {
+        "card_title": "Resmi Duyuru",
+        "card_body": "Yeni özellik, geçtiğimiz Cuma günü kıdemli editör Genevieve Ko tarafından duyuruldu."
+      },
+      {
+        "card_title": "İletişim Süreci",
+        "card_body": "NYT sözcüsü Jordan Cohen, konuyla ilgili makaledeki yorumların dört gün boyunca açık kaldığını ifade etti."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}
