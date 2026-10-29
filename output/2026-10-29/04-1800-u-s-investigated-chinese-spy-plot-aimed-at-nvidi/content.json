@@ -1,0 +1,129 @@
+{
+  "cover": {
+    "category_label": "Teknoloji Gündemi",
+    "title": "Nvidia ve Çin: Kritik İddialar",
+    "highlight_words": [
+      "Nvidia",
+      "Çin",
+      "İstihbarat"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Yapay zeka çipleri ve uluslararası ticaretin karmaşık dünyasında neler yaşanıyor?",
+    "source_tags": [
+      "TechCrunch",
+      "The Verge",
+      "NVIDIA"
+    ]
+  },
+  "problem": {
+    "heading": "Gündemdeki İddia Nedir?",
+    "cards": [
+      {
+        "card_title": "Şüpheli Ticaret",
+        "card_body": "New York Times'ın haberine göre, Singapurlu yapay zeka bulut şirketi Megaspeed'in, kısıtlı Nvidia çiplerini yasa dışı yollarla Çin'e aktardığı iddia ediliyor."
+      },
+      {
+        "card_title": "İstihbarat Takibi",
+        "card_body": "ABD istihbarat birimleri, Megaspeed yöneticisi Alice Huang'ın Çin ile olası bağlantılarını incelemek için yaklaşık bir yıldır takip yürütüyor."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Alice Huang Kimdir?",
+      "cards": [
+        {
+          "card_title": "Üst Düzey Yönetici",
+          "card_body": "Alice Huang (Huang Le), Megaspeed şirketinde üst düzey yönetici olarak görev yapıyor."
+        },
+        {
+          "card_title": "Fotoğraflar ve İlişkiler",
+          "card_body": "Huang, Singapur'daki çeşitli iş yemeklerinde Nvidia CEO'su Jensen Huang ile birlikte görüntülenmişti."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Nvidia'nın Açıklamaları",
+      "cards": [
+        {
+          "card_title": "CEO İlişkisi",
+          "card_body": "Nvidia sözcüsü, Jensen Huang'ın Alice Huang ile olan ilişkisinin, diğer bölgesel müşterilerle olan profesyonel ilişkilerden farklı olmadığını belirtti."
+        },
+        {
+          "card_title": "Güvenlik Vurgusu",
+          "card_body": "Şirket, bölgesel bulut müşterilerinin hassas ticari sırlar veya ulusal güvenlikle ilgili bilgiler almadığını net bir şekilde açıkladı."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Soruşturma Süreci",
+      "cards": [
+        {
+          "card_title": "Ticaret Bakanlığı Devrede",
+          "card_body": "New York Times'ın aktardığına göre, 2025 yılında ABD Ticaret Bakanlığı, Megaspeed'i ihracat düzenlemelerini aşmakla suçlayarak soruşturma başlattı."
+        },
+        {
+          "card_title": "İddiaların Odağı",
+          "card_body": "Soruşturmanın temelinde, kısıtlı çipleri Çinli şirketlere yeniden satarak yaptırımların delinmesine yardımcı olunduğu şüphesi yatıyor."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Teknoloji dünyasındaki bu tür yaptırım haberleri hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Doğrulanmış kaynakları takip etmeye devam edin, Tekno Pusula ile gündemden kopmayın."
+  },
+  "context": {
+    "heading": "Gündemdeki İddia Nedir?",
+    "cards": [
+      {
+        "card_title": "Şüpheli Ticaret",
+        "card_body": "New York Times'ın haberine göre, Singapurlu yapay zeka bulut şirketi Megaspeed'in, kısıtlı Nvidia çiplerini yasa dışı yollarla Çin'e aktardığı iddia ediliyor."
+      },
+      {
+        "card_title": "İstihbarat Takibi",
+        "card_body": "ABD istihbarat birimleri, Megaspeed yöneticisi Alice Huang'ın Çin ile olası bağlantılarını incelemek için yaklaşık bir yıldır takip yürütüyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Alice Huang Kimdir?",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Nvidia'nın Açıklamaları",
+    "cards": [
+      {
+        "card_title": "CEO İlişkisi",
+        "card_body": "Nvidia sözcüsü, Jensen Huang'ın Alice Huang ile olan ilişkisinin, diğer bölgesel müşterilerle olan profesyonel ilişkilerden farklı olmadığını belirtti."
+      },
+      {
+        "card_title": "Güvenlik Vurgusu",
+        "card_body": "Şirket, bölgesel bulut müşterilerinin hassas ticari sırlar veya ulusal güvenlikle ilgili bilgiler almadığını net bir şekilde açıkladı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Soruşturma Süreci",
+    "cards": [
+      {
+        "card_title": "Ticaret Bakanlığı Devrede",
+        "card_body": "New York Times'ın aktardığına göre, 2025 yılında ABD Ticaret Bakanlığı, Megaspeed'i ihracat düzenlemelerini aşmakla suçlayarak soruşturma başlattı."
+      },
+      {
+        "card_title": "İddiaların Odağı",
+        "card_body": "Soruşturmanın temelinde, kısıtlı çipleri Çinli şirketlere yeniden satarak yaptırımların delinmesine yardımcı olunduğu şüphesi yatıyor."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}
