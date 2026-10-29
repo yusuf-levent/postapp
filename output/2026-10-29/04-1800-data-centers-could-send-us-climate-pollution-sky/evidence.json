@@ -5,26 +5,22 @@
     "The Verge",
     "MIT Technology Review"
   ],
-  "checked_at": "2026-10-29T20:28:21+03:00",
+  "checked_at": "2026-10-29T20:33:01+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "ABD güç sektörünün karbondioksit kirliliği 2030 yılına kadar 2025 yılına göre yüzde 42 oranında artabilir.",
+      "claim": "ABD elektrik sektörünün karbon dioksit kirliliği, veri merkezi elektrik talebi nedeniyle 2030 yılına kadar 2025 yılına göre yüzde 42 daha fazla artabilir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
           "quote": "The US power sector could release 42 percent more planet-heating carbon dioxide pollution by 2030 than it did in 2025 as it builds out more fossil fuel infrastructure to meet data center electricity demand, according to a new analysis by the Sierra Club."
-        },
-        {
-          "url": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
-          "quote": "The US power sector could release 42 percent more planet-heating carbon dioxide pollution by 2030 than it did in 2025 as it builds out more fossil fuel infrastructure to meet data center electricity demand"
         }
       ]
     },
     {
-      "claim": "Planlanan yapay zeka projeleri inşa edilirse elektrik üretiminden kaynaklanan CO2 emisyonları on yılın sonuna kadar 618 milyon ton artacak.",
+      "claim": "Planlanan yapay zeka projeleri inşa edilirse elektrik üretiminden kaynaklanan CO2 emisyonları on katının sonuna kadar 618 milyon ton artacak.",
       "verdict": "supported",
       "evidence": [
         {
@@ -34,7 +30,7 @@
       ]
     },
     {
-      "claim": "Akademik araştırmacılar tarafından haziran ayında yayınlanan başka bir çalışma, veri merkezleri ve kripto madenlerinden gelen elektrik talebinin güç sektörü emisyonlarını 2030 yılına kadar yüzde 28 artırabileceğini öngördü.",
+      "claim": "Akademik araştırmacılar tarafından haziran ayında yayınlanan başka bir çalışma, veri merkezi ve kripto madeni elektrik talebinin 2030 yılına kadar güç sektörü emisyonlarını yüzde 28 artırabileceğini öngördü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -44,7 +40,7 @@
       ]
     },
     {
-      "claim": "Net ABD sera gazı emisyonları 2007 yılında yaklaşık 6,58 milyar metrik tondan 2025 yılında yaklaşık 5,35 milyar metrik tona geriledi.",
+      "claim": "ABD'nin net seragazı emisyonları 2007 yılında yaklaşık 6,58 milyar metrik ton iken 2025 yılında yaklaşık 5,35 milyar metrik tona geriledi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -54,7 +50,7 @@
       ]
     },
     {
-      "claim": "ABD, bu ay Environmental Defense Fund tarafından yayınlanan ayrı bir rapora göre, on yıldır olmadığı kadar çok fosil yakıt kapasitesi inşa etmeyi planlıyor.",
+      "claim": "Environmental Defense Fund tarafından bu ay yayınlanan ayrı bir rapora göre ABD, son on yılda planladığından daha fazla fosil yakıt kapasitesi inşa etmeyi planlıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -66,21 +62,17 @@
   ],
   "round1": [
     {
-      "claim": "ABD güç sektörünün karbondioksit kirliliği 2030 yılına kadar 2025 yılına göre yüzde 42 oranında artabilir.",
+      "claim": "ABD elektrik sektörünün karbon dioksit kirliliği, veri merkezi elektrik talebi nedeniyle 2030 yılına kadar 2025 yılına göre yüzde 42 daha fazla artabilir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
           "quote": "The US power sector could release 42 percent more planet-heating carbon dioxide pollution by 2030 than it did in 2025 as it builds out more fossil fuel infrastructure to meet data center electricity demand, according to a new analysis by the Sierra Club."
-        },
-        {
-          "url": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
-          "quote": "The US power sector could release 42 percent more planet-heating carbon dioxide pollution by 2030 than it did in 2025 as it builds out more fossil fuel infrastructure to meet data center electricity demand"
         }
       ]
     },
     {
-      "claim": "Planlanan yapay zeka projeleri inşa edilirse elektrik üretiminden kaynaklanan CO2 emisyonları on yılın sonuna kadar 618 milyon ton artacak.",
+      "claim": "Planlanan yapay zeka projeleri inşa edilirse elektrik üretiminden kaynaklanan CO2 emisyonları on katının sonuna kadar 618 milyon ton artacak.",
       "verdict": "supported",
       "evidence": [
         {
@@ -90,7 +82,7 @@
       ]
     },
     {
-      "claim": "Akademik araştırmacılar tarafından haziran ayında yayınlanan başka bir çalışma, veri merkezleri ve kripto madenlerinden gelen elektrik talebinin güç sektörü emisyonlarını 2030 yılına kadar yüzde 28 artırabileceğini öngördü.",
+      "claim": "Akademik araştırmacılar tarafından haziran ayında yayınlanan başka bir çalışma, veri merkezi ve kripto madeni elektrik talebinin 2030 yılına kadar güç sektörü emisyonlarını yüzde 28 artırabileceğini öngördü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -100,7 +92,7 @@
       ]
     },
     {
-      "claim": "Net ABD sera gazı emisyonları 2007 yılında yaklaşık 6,58 milyar metrik tondan 2025 yılında yaklaşık 5,35 milyar metrik tona geriledi.",
+      "claim": "ABD'nin net seragazı emisyonları 2007 yılında yaklaşık 6,58 milyar metrik ton iken 2025 yılında yaklaşık 5,35 milyar metrik tona geriledi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -110,7 +102,7 @@
       ]
     },
     {
-      "claim": "ABD, bu ay Environmental Defense Fund tarafından yayınlanan ayrı bir rapora göre, on yıldır olmadığı kadar çok fosil yakıt kapasitesi inşa etmeyi planlıyor.",
+      "claim": "Environmental Defense Fund tarafından bu ay yayınlanan ayrı bir rapora göre ABD, son on yılda planladığından daha fazla fosil yakıt kapasitesi inşa etmeyi planlıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -122,21 +114,17 @@
   ],
   "round2": [
     {
-      "claim": "ABD güç sektörünün karbondioksit kirliliği 2030 yılına kadar 2025 yılına göre yüzde 42 oranında artabilir.",
+      "claim": "ABD elektrik sektörünün karbon dioksit kirliliği, veri merkezi elektrik talebi nedeniyle 2030 yılına kadar 2025 yılına göre yüzde 42 daha fazla artabilir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
           "quote": "The US power sector could release 42 percent more planet-heating carbon dioxide pollution by 2030 than it did in 2025 as it builds out more fossil fuel infrastructure to meet data center electricity demand, according to a new analysis by the Sierra Club."
-        },
-        {
-          "url": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
-          "quote": "The US power sector could release 42 percent more planet-heating carbon dioxide pollution by 2030 than it did in 2025 as it builds out more fossil fuel infrastructure to meet data center electricity demand"
         }
       ]
     },
     {
-      "claim": "Planlanan yapay zeka projeleri inşa edilirse elektrik üretiminden kaynaklanan CO2 emisyonları on yılın sonuna kadar 618 milyon ton artacak.",
+      "claim": "Planlanan yapay zeka projeleri inşa edilirse elektrik üretiminden kaynaklanan CO2 emisyonları on katının sonuna kadar 618 milyon ton artacak.",
       "verdict": "supported",
       "evidence": [
         {
@@ -146,7 +134,7 @@
       ]
     },
     {
-      "claim": "Akademik araştırmacılar tarafından haziran ayında yayınlanan başka bir çalışma, veri merkezleri ve kripto madenlerinden gelen elektrik talebinin güç sektörü emisyonlarını 2030 yılına kadar yüzde 28 artırabileceğini öngördü.",
+      "claim": "Akademik araştırmacılar tarafından haziran ayında yayınlanan başka bir çalışma, veri merkezi ve kripto madeni elektrik talebinin 2030 yılına kadar güç sektörü emisyonlarını yüzde 28 artırabileceğini öngördü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -156,7 +144,7 @@
       ]
     },
     {
-      "claim": "Net ABD sera gazı emisyonları 2007 yılında yaklaşık 6,58 milyar metrik tondan 2025 yılında yaklaşık 5,35 milyar metrik tona geriledi.",
+      "claim": "ABD'nin net seragazı emisyonları 2007 yılında yaklaşık 6,58 milyar metrik ton iken 2025 yılında yaklaşık 5,35 milyar metrik tona geriledi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -166,7 +154,7 @@
       ]
     },
     {
-      "claim": "ABD, bu ay Environmental Defense Fund tarafından yayınlanan ayrı bir rapora göre, on yıldır olmadığı kadar çok fosil yakıt kapasitesi inşa etmeyi planlıyor.",
+      "claim": "Environmental Defense Fund tarafından bu ay yayınlanan ayrı bir rapora göre ABD, son on yılda planladığından daha fazla fosil yakıt kapasitesi inşa etmeyi planlıyor.",
       "verdict": "supported",
       "evidence": [
         {

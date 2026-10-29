@@ -1,101 +1,101 @@
 {
   "cover": {
-    "category_label": "Teknoloji ve Çevre",
-    "title": "Yapay Zeka ve Karbon Ayak İzi: Yeni Bir Dönem",
+    "category_label": "YAPAY ZEKA VE ENERJİ",
+    "title": "Veri Merkezleri ve Karbon Emisyonu Artışı",
     "highlight_words": [
-      "Yapay Zeka",
-      "Karbon Ayak İzi"
+      "Karbon",
+      "Emisyonu"
     ],
-    "highlight_color": "cyan",
-    "subtitle": "Veri merkezlerinin enerji talebi ve emisyonlar üzerindeki etkisi ne durumda?",
+    "highlight_color": "yellow",
+    "subtitle": "Yapay zeka talebinin elektrik sektörü etkileri",
     "source_tags": [
       "The Verge",
       "MIT Technology Review"
     ]
   },
   "problem": {
-    "heading": "Artan Enerji İhtiyacı",
+    "heading": "Artan Elektrik Talebi ve Emisyon Tehlikesi",
     "cards": [
       {
-        "card_title": "Beklenen Artış",
-        "card_body": "Planlanan yapay zeka projeleri hayata geçerse, elektrik üretiminden kaynaklanan CO2 emisyonlarının on yılın sonuna kadar 618 milyon ton artabileceği öngörülüyor."
+        "card_title": "2030 Projeksiyonu",
+        "card_body": "ABD elektrik sektörünün karbon dioksit kirliliği, veri merkezi elektrik talebi nedeniyle 2030 yılına kadar 2025 yılına göre yüzde 42 daha fazla artabilir."
       },
       {
-        "card_title": "Sektörel Tahminler",
-        "card_body": "Akademik araştırmalar, veri merkezleri ve kripto madenlerinden gelen elektrik talebinin, güç sektörü emisyonlarını 2030 yılına kadar yüzde 28 oranında artırabileceğini gösteriyor."
+        "card_title": "Emisyon Artış Miktarı",
+        "card_body": "Planlanan yapay zeka projeleri inşa edilirse elektrik üretiminden kaynaklanan CO2 emisyonları on katının sonuna kadar 618 milyon ton artacak."
       }
     ],
     "code_block": ""
   },
   "steps": [
     {
-      "heading": "ABD Güç Sektöründe Durum",
+      "heading": "Akademik Araştırma Bulguları",
       "cards": [
         {
-          "card_title": "Kritik Tahmin",
-          "card_body": "ABD güç sektörünün karbondioksit kirliliği, 2025 yılına kıyasla 2030 yılına kadar yüzde 42 oranında artış gösterebilir."
+          "card_title": "Haziran Ayı Çalışması",
+          "card_body": "Akademik araştırmacılar tarafından haziran ayında yayınlanan başka bir çalışma, veri merkezi ve kripto madeni elektrik talebinin 2030 yılına kadar güç sektörü emisyonlarını yüzde 28 artırabileceğini öngördü."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "Geçmişten Günümüze Emisyonlar",
+      "heading": "ABD Emisyon Geçmişi",
       "cards": [
         {
-          "card_title": "Düşüş Eğilimi",
-          "card_body": "ABD'nin net sera gazı emisyonları 2007 yılında yaklaşık 6,58 milyar metrik ton seviyesindeyken, 2025 yılında bu rakam yaklaşık 5,35 milyar metrik tona geriledi."
+          "card_title": "2007 - 2025 Kıyaslaması",
+          "card_body": "ABD'nin net seragazı emisyonları 2007 yılında yaklaşık 6,58 milyar metrik ton iken 2025 yılında yaklaşık 5,35 milyar metrik tona geriledi."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "Fosil Yakıt Kapasitesi",
+      "heading": "Fosil Yakıt Planları",
       "cards": [
         {
-          "card_title": "Yeni Planlar",
-          "card_body": "Environmental Defense Fund tarafından yayınlanan rapora göre ABD, son on yıldır olmadığı kadar çok fosil yakıt kapasitesi inşa etmeyi planlıyor."
+          "card_title": "Environmental Defense Fund Raporu",
+          "card_body": "Environmental Defense Fund tarafından bu ay yayınlanan ayrı bir rapora göre ABD, son on yılda planladığından daha fazla fosil yakıt kapasitesi inşa etmeyi planlıyor."
         }
       ],
       "code_block": ""
     }
   ],
   "cta": {
-    "question": "Teknolojik gelişmelerin çevresel maliyeti hakkında ne düşünüyorsunuz?",
-    "reminder_line": "Daha fazla teknoloji analizi için Tekno Pusula'yı takipte kalın."
+    "question": "Sizce veri merkezlerinin enerji ihtiyacı nasıl karşılanmalı?",
+    "reminder_line": "Tekno Pusula ile güncel gelişmeleri takipte kalın."
   },
   "context": {
-    "heading": "Artan Enerji İhtiyacı",
+    "heading": "Artan Elektrik Talebi ve Emisyon Tehlikesi",
     "cards": [
       {
-        "card_title": "Beklenen Artış",
-        "card_body": "Planlanan yapay zeka projeleri hayata geçerse, elektrik üretiminden kaynaklanan CO2 emisyonlarının on yılın sonuna kadar 618 milyon ton artabileceği öngörülüyor."
+        "card_title": "2030 Projeksiyonu",
+        "card_body": "ABD elektrik sektörünün karbon dioksit kirliliği, veri merkezi elektrik talebi nedeniyle 2030 yılına kadar 2025 yılına göre yüzde 42 daha fazla artabilir."
       },
       {
-        "card_title": "Sektörel Tahminler",
-        "card_body": "Akademik araştırmalar, veri merkezleri ve kripto madenlerinden gelen elektrik talebinin, güç sektörü emisyonlarını 2030 yılına kadar yüzde 28 oranında artırabileceğini gösteriyor."
+        "card_title": "Emisyon Artış Miktarı",
+        "card_body": "Planlanan yapay zeka projeleri inşa edilirse elektrik üretiminden kaynaklanan CO2 emisyonları on katının sonuna kadar 618 milyon ton artacak."
       }
     ]
   },
   "stat": {
     "big_stat": "💡",
-    "stat_caption": "ABD Güç Sektöründe Durum",
+    "stat_caption": "Akademik Araştırma Bulguları",
     "stat_quote": ""
   },
   "details": {
-    "heading": "Geçmişten Günümüze Emisyonlar",
+    "heading": "ABD Emisyon Geçmişi",
     "cards": [
       {
-        "card_title": "Düşüş Eğilimi",
-        "card_body": "ABD'nin net sera gazı emisyonları 2007 yılında yaklaşık 6,58 milyar metrik ton seviyesindeyken, 2025 yılında bu rakam yaklaşık 5,35 milyar metrik tona geriledi."
+        "card_title": "2007 - 2025 Kıyaslaması",
+        "card_body": "ABD'nin net seragazı emisyonları 2007 yılında yaklaşık 6,58 milyar metrik ton iken 2025 yılında yaklaşık 5,35 milyar metrik tona geriledi."
       }
     ]
   },
   "impact": {
-    "heading": "Fosil Yakıt Kapasitesi",
+    "heading": "Fosil Yakıt Planları",
     "cards": [
       {
-        "card_title": "Yeni Planlar",
-        "card_body": "Environmental Defense Fund tarafından yayınlanan rapora göre ABD, son on yıldır olmadığı kadar çok fosil yakıt kapasitesi inşa etmeyi planlıyor."
+        "card_title": "Environmental Defense Fund Raporu",
+        "card_body": "Environmental Defense Fund tarafından bu ay yayınlanan ayrı bir rapora göre ABD, son on yılda planladığından daha fazla fosil yakıt kapasitesi inşa etmeyi planlıyor."
       }
     ]
   },
