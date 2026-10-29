@@ -2206,5 +2206,77 @@
     ],
     "created_at": "2026-10-29T15:00:12+03:00",
     "verified_claims_count": 6
+  },
+  {
+    "id": "2026-10-29-1800",
+    "date": "2026-10-29",
+    "slot": "18:00",
+    "type": "edu",
+    "title_tr": "Meta'dan Gençler İçin Yeni Ebeveyn Bildirimleri",
+    "original_title": "Meta will now alert parents if teens 'repeatedly' search for self-harm content on Facebook",
+    "source_urls": [
+      "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/"
+    ],
+    "canonical_url": "https://engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook",
+    "entities": [
+      "Meta",
+      "Facebook",
+      "Instagram",
+      "Meta AI"
+    ],
+    "event_type": "product_update",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae3928e4ae687d9696aad4a",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae392a59b320e38551135d9",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae392a618a6132aaf6bd184",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2115875948566315314",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18180483715452705",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfFq4kWFnxg",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae392c69b320e3855113aed",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae392dd780a8b491853a87f",
+        "permalink": "https://facebook.com/1351036918092059_122119489863484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-29T21:39:35+03:00",
+    "verified_claims_count": 7
   }
 ]
