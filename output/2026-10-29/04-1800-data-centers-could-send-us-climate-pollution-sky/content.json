@@ -1,40 +1,39 @@
 {
   "cover": {
     "category_label": "Teknoloji ve Çevre",
-    "title": "Yapay Zeka ve Enerji İkilemi",
+    "title": "Yapay Zeka ve Karbon Ayak İzi: Yeni Bir Dönem",
     "highlight_words": [
       "Yapay Zeka",
-      "Enerji",
-      "Emisyon"
+      "Karbon Ayak İzi"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Veri merkezlerinin artan elektrik talebi ve çevresel etkileri üzerine güncel veriler.",
+    "subtitle": "Veri merkezlerinin enerji talebi ve emisyonlar üzerindeki etkisi ne durumda?",
     "source_tags": [
       "The Verge",
       "MIT Technology Review"
     ]
   },
   "problem": {
-    "heading": "Artan Talep, Artan Emisyon",
+    "heading": "Artan Enerji İhtiyacı",
     "cards": [
       {
-        "card_title": "Yapay Zeka Projeleri",
-        "card_body": "Planlanan yapay zeka projeleri hayata geçerse, elektrik üretiminden kaynaklanan CO2 emisyonları on yılın sonuna kadar 618 milyon ton artabilir."
+        "card_title": "Beklenen Artış",
+        "card_body": "Planlanan yapay zeka projeleri hayata geçerse, elektrik üretiminden kaynaklanan CO2 emisyonlarının on yılın sonuna kadar 618 milyon ton artabileceği öngörülüyor."
       },
       {
-        "card_title": "2030 Tahminleri",
-        "card_body": "Veri merkezi ve kripto madenlerinden kaynaklanan elektrik talebi, güç sektörü emisyonlarını 2030 yılına kadar %28 oranında artırabilir."
+        "card_title": "Sektörel Tahminler",
+        "card_body": "Akademik araştırmalar, veri merkezleri ve kripto madenlerinden gelen elektrik talebinin, güç sektörü emisyonlarını 2030 yılına kadar yüzde 28 oranında artırabileceğini gösteriyor."
       }
     ],
     "code_block": ""
   },
   "steps": [
     {
-      "heading": "ABD Elektrik Sektörü Görünümü",
+      "heading": "ABD Güç Sektöründe Durum",
       "cards": [
         {
-          "card_title": "Karbon Kirliliği Riski",
-          "card_body": "ABD elektrik sektöründeki karbon dioksit kirliliği, veri merkezi talebi nedeniyle 2030 yılına kadar 2025 seviyesine göre %42 daha fazla artış gösterebilir."
+          "card_title": "Kritik Tahmin",
+          "card_body": "ABD güç sektörünün karbondioksit kirliliği, 2025 yılına kıyasla 2030 yılına kadar yüzde 42 oranında artış gösterebilir."
         }
       ],
       "code_block": ""
@@ -43,60 +42,60 @@
       "heading": "Geçmişten Günümüze Emisyonlar",
       "cards": [
         {
-          "card_title": "Düşüş Trendi",
-          "card_body": "ABD'nin net sera gazı emisyonları 2007 yılında yaklaşık 6,58 milyar metrik tondan, 2025 yılında yaklaşık 5,35 milyar metrik tona gerilemiştir."
+          "card_title": "Düşüş Eğilimi",
+          "card_body": "ABD'nin net sera gazı emisyonları 2007 yılında yaklaşık 6,58 milyar metrik ton seviyesindeyken, 2025 yılında bu rakam yaklaşık 5,35 milyar metrik tona geriledi."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "Gelecek Planları ve Fosil Yakıtlar",
+      "heading": "Fosil Yakıt Kapasitesi",
       "cards": [
         {
-          "card_title": "Beklenmedik Artış",
-          "card_body": "Environmental Defense Fund raporuna göre ABD, son on yılda planladığından daha fazla fosil yakıt kapasitesi inşa etmeyi planlamaktadır."
+          "card_title": "Yeni Planlar",
+          "card_body": "Environmental Defense Fund tarafından yayınlanan rapora göre ABD, son on yıldır olmadığı kadar çok fosil yakıt kapasitesi inşa etmeyi planlıyor."
         }
       ],
       "code_block": ""
     }
   ],
   "cta": {
-    "question": "Teknolojik gelişimin çevresel maliyeti hakkında ne düşünüyorsunuz?",
+    "question": "Teknolojik gelişmelerin çevresel maliyeti hakkında ne düşünüyorsunuz?",
     "reminder_line": "Daha fazla teknoloji analizi için Tekno Pusula'yı takipte kalın."
   },
   "context": {
-    "heading": "Artan Talep, Artan Emisyon",
+    "heading": "Artan Enerji İhtiyacı",
     "cards": [
       {
-        "card_title": "Yapay Zeka Projeleri",
-        "card_body": "Planlanan yapay zeka projeleri hayata geçerse, elektrik üretiminden kaynaklanan CO2 emisyonları on yılın sonuna kadar 618 milyon ton artabilir."
+        "card_title": "Beklenen Artış",
+        "card_body": "Planlanan yapay zeka projeleri hayata geçerse, elektrik üretiminden kaynaklanan CO2 emisyonlarının on yılın sonuna kadar 618 milyon ton artabileceği öngörülüyor."
       },
       {
-        "card_title": "2030 Tahminleri",
-        "card_body": "Veri merkezi ve kripto madenlerinden kaynaklanan elektrik talebi, güç sektörü emisyonlarını 2030 yılına kadar %28 oranında artırabilir."
+        "card_title": "Sektörel Tahminler",
+        "card_body": "Akademik araştırmalar, veri merkezleri ve kripto madenlerinden gelen elektrik talebinin, güç sektörü emisyonlarını 2030 yılına kadar yüzde 28 oranında artırabileceğini gösteriyor."
       }
     ]
   },
   "stat": {
     "big_stat": "💡",
-    "stat_caption": "ABD Elektrik Sektörü Görünümü",
+    "stat_caption": "ABD Güç Sektöründe Durum",
     "stat_quote": ""
   },
   "details": {
     "heading": "Geçmişten Günümüze Emisyonlar",
     "cards": [
       {
-        "card_title": "Düşüş Trendi",
-        "card_body": "ABD'nin net sera gazı emisyonları 2007 yılında yaklaşık 6,58 milyar metrik tondan, 2025 yılında yaklaşık 5,35 milyar metrik tona gerilemiştir."
+        "card_title": "Düşüş Eğilimi",
+        "card_body": "ABD'nin net sera gazı emisyonları 2007 yılında yaklaşık 6,58 milyar metrik ton seviyesindeyken, 2025 yılında bu rakam yaklaşık 5,35 milyar metrik tona geriledi."
       }
     ]
   },
   "impact": {
-    "heading": "Gelecek Planları ve Fosil Yakıtlar",
+    "heading": "Fosil Yakıt Kapasitesi",
     "cards": [
       {
-        "card_title": "Beklenmedik Artış",
-        "card_body": "Environmental Defense Fund raporuna göre ABD, son on yılda planladığından daha fazla fosil yakıt kapasitesi inşa etmeyi planlamaktadır."
+        "card_title": "Yeni Planlar",
+        "card_body": "Environmental Defense Fund tarafından yayınlanan rapora göre ABD, son on yıldır olmadığı kadar çok fosil yakıt kapasitesi inşa etmeyi planlıyor."
       }
     ]
   },

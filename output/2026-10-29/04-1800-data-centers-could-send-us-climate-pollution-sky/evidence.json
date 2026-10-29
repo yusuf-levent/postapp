@@ -5,12 +5,12 @@
     "The Verge",
     "MIT Technology Review"
   ],
-  "checked_at": "2026-10-29T20:18:24+03:00",
+  "checked_at": "2026-10-29T20:28:21+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "ABD elektrik sektörünün karbon dioksit kirliliği, veri merkezi elektrik talebi nedeniyle 2030 yılına kadar 2025'e göre yüzde 42 daha fazla artabilir.",
+      "claim": "ABD güç sektörünün karbondioksit kirliliği 2030 yılına kadar 2025 yılına göre yüzde 42 oranında artabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -24,7 +24,7 @@
       ]
     },
     {
-      "claim": "Planlanan yapay zeka projelerinin inşa edilmesi durumunda elektrik üretiminden kaynaklanan CO2 emisyonları on yılın sonuna kadar 618 milyon ton artacaktır.",
+      "claim": "Planlanan yapay zeka projeleri inşa edilirse elektrik üretiminden kaynaklanan CO2 emisyonları on yılın sonuna kadar 618 milyon ton artacak.",
       "verdict": "supported",
       "evidence": [
         {
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "claim": "Akademik araştırmacılar tarafından Haziran ayında yayınlanan başka bir çalışma, veri merkezi ve kripto madenlerinden kaynaklanan elektrik talebinin 2030 yılına kadar güç sektörü emisyonlarını yüzde 28 artırabileceğini öngörmektedir.",
+      "claim": "Akademik araştırmacılar tarafından haziran ayında yayınlanan başka bir çalışma, veri merkezleri ve kripto madenlerinden gelen elektrik talebinin güç sektörü emisyonlarını 2030 yılına kadar yüzde 28 artırabileceğini öngördü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "claim": "ABD'nin net sera gazı emisyonları 2007 yılında yaklaşık 6,58 milyar metrik tondan 2025 yılında yaklaşık 5,35 milyar metrik tona gerilemiştir.",
+      "claim": "Net ABD sera gazı emisyonları 2007 yılında yaklaşık 6,58 milyar metrik tondan 2025 yılında yaklaşık 5,35 milyar metrik tona geriledi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "claim": "Environmental Defense Fund tarafından bu ay yayınlanan ayrı bir rapora göre ABD, son on yılda planladığından daha fazla fosil yakıt kapasitesi inşa etmeyi planlamaktadır.",
+      "claim": "ABD, bu ay Environmental Defense Fund tarafından yayınlanan ayrı bir rapora göre, on yıldır olmadığı kadar çok fosil yakıt kapasitesi inşa etmeyi planlıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -66,7 +66,7 @@
   ],
   "round1": [
     {
-      "claim": "ABD elektrik sektörünün karbon dioksit kirliliği, veri merkezi elektrik talebi nedeniyle 2030 yılına kadar 2025'e göre yüzde 42 daha fazla artabilir.",
+      "claim": "ABD güç sektörünün karbondioksit kirliliği 2030 yılına kadar 2025 yılına göre yüzde 42 oranında artabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "claim": "Planlanan yapay zeka projelerinin inşa edilmesi durumunda elektrik üretiminden kaynaklanan CO2 emisyonları on yılın sonuna kadar 618 milyon ton artacaktır.",
+      "claim": "Planlanan yapay zeka projeleri inşa edilirse elektrik üretiminden kaynaklanan CO2 emisyonları on yılın sonuna kadar 618 milyon ton artacak.",
       "verdict": "supported",
       "evidence": [
         {
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "claim": "Akademik araştırmacılar tarafından Haziran ayında yayınlanan başka bir çalışma, veri merkezi ve kripto madenlerinden kaynaklanan elektrik talebinin 2030 yılına kadar güç sektörü emisyonlarını yüzde 28 artırabileceğini öngörmektedir.",
+      "claim": "Akademik araştırmacılar tarafından haziran ayında yayınlanan başka bir çalışma, veri merkezleri ve kripto madenlerinden gelen elektrik talebinin güç sektörü emisyonlarını 2030 yılına kadar yüzde 28 artırabileceğini öngördü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "claim": "ABD'nin net sera gazı emisyonları 2007 yılında yaklaşık 6,58 milyar metrik tondan 2025 yılında yaklaşık 5,35 milyar metrik tona gerilemiştir.",
+      "claim": "Net ABD sera gazı emisyonları 2007 yılında yaklaşık 6,58 milyar metrik tondan 2025 yılında yaklaşık 5,35 milyar metrik tona geriledi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "claim": "Environmental Defense Fund tarafından bu ay yayınlanan ayrı bir rapora göre ABD, son on yılda planladığından daha fazla fosil yakıt kapasitesi inşa etmeyi planlamaktadır.",
+      "claim": "ABD, bu ay Environmental Defense Fund tarafından yayınlanan ayrı bir rapora göre, on yıldır olmadığı kadar çok fosil yakıt kapasitesi inşa etmeyi planlıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -122,7 +122,7 @@
   ],
   "round2": [
     {
-      "claim": "ABD elektrik sektörünün karbon dioksit kirliliği, veri merkezi elektrik talebi nedeniyle 2030 yılına kadar 2025'e göre yüzde 42 daha fazla artabilir.",
+      "claim": "ABD güç sektörünün karbondioksit kirliliği 2030 yılına kadar 2025 yılına göre yüzde 42 oranında artabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "claim": "Planlanan yapay zeka projelerinin inşa edilmesi durumunda elektrik üretiminden kaynaklanan CO2 emisyonları on yılın sonuna kadar 618 milyon ton artacaktır.",
+      "claim": "Planlanan yapay zeka projeleri inşa edilirse elektrik üretiminden kaynaklanan CO2 emisyonları on yılın sonuna kadar 618 milyon ton artacak.",
       "verdict": "supported",
       "evidence": [
         {
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "claim": "Akademik araştırmacılar tarafından Haziran ayında yayınlanan başka bir çalışma, veri merkezi ve kripto madenlerinden kaynaklanan elektrik talebinin 2030 yılına kadar güç sektörü emisyonlarını yüzde 28 artırabileceğini öngörmektedir.",
+      "claim": "Akademik araştırmacılar tarafından haziran ayında yayınlanan başka bir çalışma, veri merkezleri ve kripto madenlerinden gelen elektrik talebinin güç sektörü emisyonlarını 2030 yılına kadar yüzde 28 artırabileceğini öngördü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "claim": "ABD'nin net sera gazı emisyonları 2007 yılında yaklaşık 6,58 milyar metrik tondan 2025 yılında yaklaşık 5,35 milyar metrik tona gerilemiştir.",
+      "claim": "Net ABD sera gazı emisyonları 2007 yılında yaklaşık 6,58 milyar metrik tondan 2025 yılında yaklaşık 5,35 milyar metrik tona geriledi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "claim": "Environmental Defense Fund tarafından bu ay yayınlanan ayrı bir rapora göre ABD, son on yılda planladığından daha fazla fosil yakıt kapasitesi inşa etmeyi planlamaktadır.",
+      "claim": "ABD, bu ay Environmental Defense Fund tarafından yayınlanan ayrı bir rapora göre, on yıldır olmadığı kadar çok fosil yakıt kapasitesi inşa etmeyi planlıyor.",
       "verdict": "supported",
       "evidence": [
         {
