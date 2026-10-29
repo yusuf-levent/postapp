@@ -1,0 +1,248 @@
+{
+  "title": "Granola crunches up a dictation feature to compete with Wispr",
+  "canonical_url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+  "source_names": [
+    "TechCrunch",
+    "The Verge",
+    "MIT Technology Review"
+  ],
+  "checked_at": "2026-10-29T21:12:57+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Granola, meeting notetaker uygulaması için bugün bir dikte özelliği başlattı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+          "quote": "Granola, known for its meeting notetaker, launched a dictation feature today."
+        }
+      ]
+    },
+    {
+      "claim": "Wispr, dictation aracının ardından aylar önce bir toplantı not alıcısı başlattı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+          "quote": "This comes months after Wispr, known for its dictation tool, launched a meeting notetaker."
+        }
+      ]
+    },
+    {
+      "claim": "Granola'nın dikte özelliği şu anda Mac üzerinde çalışmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+          "quote": "Granola’s dictation currently works on Mac just like any other such tool."
+        }
+      ]
+    },
+    {
+      "claim": "Granola'nın dikte özelliği kullanıcıların Fn tuşuna basarak konuşmaya başlamasını sağlar ve metni düzenleyip biçimlendirerek yayınlar.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+          "quote": "Users can press the “Fn” key, start speaking, and the tool cleans up and formats their speech and posts the final text."
+        }
+      ]
+    },
+    {
+      "claim": "Granola bu özelliğin yakında iOS ve Windows'a geleceğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+          "quote": "The company said that the feature will land on iOS and Windows soon."
+        }
+      ]
+    },
+    {
+      "claim": "Granola 1.5 milyar dolar değerindedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+          "quote": "Granola and Wispr are valued at $1.5 billion and $2 billion, respectively."
+        }
+      ]
+    },
+    {
+      "claim": "Wispr 2 milyar dolar değerindedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+          "quote": "Granola and Wispr are valued at $1.5 billion and $2 billion, respectively."
+        }
+      ]
+    },
+    {
+      "claim": "Fireflies, Speechify and Monologue gibi diğer ses girişimleri toplantı not alma ve dikte özelliklerine sahip çok özellikli uygulamalara dönüştü.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Granola, meeting notetaker uygulaması için bugün bir dikte özelliği başlattı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+          "quote": "Granola, known for its meeting notetaker, launched a dictation feature today."
+        }
+      ]
+    },
+    {
+      "claim": "Wispr, dictation aracının ardından aylar önce bir toplantı not alıcısı başlattı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+          "quote": "This comes months after Wispr, known for its dictation tool, launched a meeting notetaker."
+        }
+      ]
+    },
+    {
+      "claim": "Granola'nın dikte özelliği şu anda Mac üzerinde çalışmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+          "quote": "Granola’s dictation currently works on Mac just like any other such tool."
+        }
+      ]
+    },
+    {
+      "claim": "Granola'nın dikte özelliği kullanıcıların Fn tuşuna basarak konuşmaya başlamasını sağlar ve metni düzenleyip biçimlendirerek yayınlar.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+          "quote": "Users can press the “Fn” key, start speaking, and the tool cleans up and formats their speech and posts the final text."
+        }
+      ]
+    },
+    {
+      "claim": "Granola bu özelliğin yakında iOS ve Windows'a geleceğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+          "quote": "The company said that the feature will land on iOS and Windows soon."
+        }
+      ]
+    },
+    {
+      "claim": "Granola 1.5 milyar dolar değerindedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+          "quote": "Granola and Wispr are valued at $1.5 billion and $2 billion, respectively."
+        }
+      ]
+    },
+    {
+      "claim": "Wispr 2 milyar dolar değerindedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+          "quote": "Granola and Wispr are valued at $1.5 billion and $2 billion, respectively."
+        }
+      ]
+    },
+    {
+      "claim": "Fireflies, Speechify and Monologue gibi diğer ses girişimleri toplantı not alma ve dikte özelliklerine sahip çok özellikli uygulamalara dönüştü.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Granola, meeting notetaker uygulaması için bugün bir dikte özelliği başlattı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+          "quote": "Granola, known for its meeting notetaker, launched a dictation feature today."
+        }
+      ]
+    },
+    {
+      "claim": "Wispr, dictation aracının ardından aylar önce bir toplantı not alıcısı başlattı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+          "quote": "This comes months after Wispr, known for its dictation tool, launched a meeting notetaker."
+        }
+      ]
+    },
+    {
+      "claim": "Granola'nın dikte özelliği şu anda Mac üzerinde çalışmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+          "quote": "Granola’s dictation currently works on Mac just like any other such tool."
+        }
+      ]
+    },
+    {
+      "claim": "Granola'nın dikte özelliği kullanıcıların Fn tuşuna basarak konuşmaya başlamasını sağlar ve metni düzenleyip biçimlendirerek yayınlar.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+          "quote": "Users can press the “Fn” key, start speaking, and the tool cleans up and formats their speech and posts the final text."
+        }
+      ]
+    },
+    {
+      "claim": "Granola bu özelliğin yakında iOS ve Windows'a geleceğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+          "quote": "The company said that the feature will land on iOS and Windows soon."
+        }
+      ]
+    },
+    {
+      "claim": "Granola 1.5 milyar dolar değerindedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+          "quote": "Granola and Wispr are valued at $1.5 billion and $2 billion, respectively."
+        }
+      ]
+    },
+    {
+      "claim": "Wispr 2 milyar dolar değerindedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+          "quote": "Granola and Wispr are valued at $1.5 billion and $2 billion, respectively."
+        }
+      ]
+    },
+    {
+      "claim": "Fireflies, Speechify and Monologue gibi diğer ses girişimleri toplantı not alma ve dikte özelliklerine sahip çok özellikli uygulamalara dönüştü.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/": 1290,
+    "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf": 4073,
+    "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/": 3482
+  }
+}

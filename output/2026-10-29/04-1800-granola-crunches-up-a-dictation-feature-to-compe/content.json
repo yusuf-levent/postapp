@@ -1,0 +1,120 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA GÜNDEMİ",
+    "title": "Granola'dan Yeni Dikte Özelliği",
+    "highlight_words": [
+      "Dikte",
+      "Granola"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Popüler toplantı not alıcısı Granola'nın yeni dikte özelliği ve detayları.",
+    "source_tags": [
+      "TechCrunch",
+      "The Verge",
+      "MIT Technology Review"
+    ]
+  },
+  "problem": {
+    "heading": "Toplantı Asistanları ve Dikte Araçları",
+    "cards": [
+      {
+        "card_title": "Granola'nın Hamlesi",
+        "card_body": "Toplantı not alıcısı uygulaması Granola, bugün yeni bir dikte özelliği başlattı."
+      },
+      {
+        "card_title": "Rekabet Durumu",
+        "card_body": "Wispr bir dikte aracının ardından aylar önce toplantı not alıcısı başlatmıştı. Şu an Granola 1.5 milyar dolar, Wispr ise 2 milyar dolar değerindedir."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Granola Dikte Özelliği Nasıl Çalışır?",
+      "cards": [
+        {
+          "card_title": "Mac Desteği",
+          "card_body": "Granola'nın yeni dikte özelliği şu anda sadece Mac üzerinde çalışmaktadır."
+        },
+        {
+          "card_title": "Kullanım Şekli",
+          "card_body": "Kullanıcılar klavyedeki Fn tuşuna basarak konuşmaya başlayabilirler."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Metin Düzenleme ve Biçimlendirme",
+      "cards": [
+        {
+          "card_title": "Otomatik Düzenleme",
+          "card_body": "Konuşmanız bittikten sonra metin uygulama tarafından otomatik olarak düzenlenir."
+        },
+        {
+          "card_title": "Biçimlendirilmiş Yayın",
+          "card_body": "Düzenlenen metin uygun biçimde ekrana yansıtılır ve yayınlanır."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Gelecek Planları",
+      "cards": [
+        {
+          "card_title": "Yeni Platformlar",
+          "card_body": "Granola, bu dikte özelliğinin yakında iOS ve Windows işletim sistemlerine de geleceğini açıkladı."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Siz günlük işlerinizde dikte özelliklerini sıkça kullanıyor musunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+  },
+  "context": {
+    "heading": "Toplantı Asistanları ve Dikte Araçları",
+    "cards": [
+      {
+        "card_title": "Granola'nın Hamlesi",
+        "card_body": "Toplantı not alıcısı uygulaması Granola, bugün yeni bir dikte özelliği başlattı."
+      },
+      {
+        "card_title": "Rekabet Durumu",
+        "card_body": "Wispr bir dikte aracının ardından aylar önce toplantı not alıcısı başlatmıştı. Şu an Granola 1.5 milyar dolar, Wispr ise 2 milyar dolar değerindedir."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Granola Dikte Özelliği Nasıl Çalışır?",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Metin Düzenleme ve Biçimlendirme",
+    "cards": [
+      {
+        "card_title": "Otomatik Düzenleme",
+        "card_body": "Konuşmanız bittikten sonra metin uygulama tarafından otomatik olarak düzenlenir."
+      },
+      {
+        "card_title": "Biçimlendirilmiş Yayın",
+        "card_body": "Düzenlenen metin uygun biçimde ekrana yansıtılır ve yayınlanır."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Gelecek Planları",
+    "cards": [
+      {
+        "card_title": "Yeni Platformlar",
+        "card_body": "Granola, bu dikte özelliğinin yakında iOS ve Windows işletim sistemlerine de geleceğini açıkladı."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}
