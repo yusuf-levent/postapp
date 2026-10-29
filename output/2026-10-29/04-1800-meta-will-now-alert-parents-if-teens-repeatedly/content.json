@@ -1,0 +1,129 @@
+{
+  "cover": {
+    "category_label": "Dijital Ebeveynlik",
+    "title": "Meta'dan Gençler İçin Yeni Güvenlik Adımı",
+    "highlight_words": [
+      "Güvenlik",
+      "Meta",
+      "Ebeveyn"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Meta, gençlerin intihar ve kendine zarar verme içerikli aramalarıyla ilgili ebeveyn bildirimlerini genişletiyor.",
+    "source_tags": [
+      "Meta Newsroom",
+      "Engadget",
+      "Ars Technica"
+    ]
+  },
+  "problem": {
+    "heading": "Neden Yeni Bir Önlem Alındı?",
+    "cards": [
+      {
+        "card_title": "Risk Tespiti",
+        "card_body": "Gençlerin dijital dünyada karşılaştığı riskleri azaltmak amacıyla, Meta artık intihar ve kendine zarar verme eğilimlerini içeren aramalarda ebeveynleri bilgilendirecek."
+      },
+      {
+        "card_title": "Kritik Eşik",
+        "card_body": "Sistem, bir gencin kısa süre içinde tekrarlayan şekilde kendine zarar verme içerikli aramalar yapması durumunda devreye giriyor."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Hangi Durumlarda Bildirim Gidiyor?",
+      "cards": [
+        {
+          "card_title": "Arama Davranışları",
+          "card_body": "Genç kullanıcı, kısa bir zaman diliminde kendine zarar verme ile ilgili içerikleri defalarca aradığında sistem bunu algılıyor."
+        },
+        {
+          "card_title": "Meta AI Etkileşimi",
+          "card_body": "Eğer genç, Meta AI ile yaptığı sohbetlerde intihar veya kendine zarar verme riski taşıyan ifadeler kullanırsa ebeveynlere uyarı gönderiliyor."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Bildirim Süreci Nasıl İşliyor?",
+      "cards": [
+        {
+          "card_title": "İletişim Kanalları",
+          "card_body": "Ebeveynler; SMS, e-posta, WhatsApp veya kendi uygulamaları üzerinden gelen push bildirimleri ile bilgilendiriliyor."
+        },
+        {
+          "card_title": "Gizlilik Sınırı",
+          "card_body": "Önemli bir not: Bildirimler, yapılan spesifik aramaları veya Meta AI ile yapılan sohbetin içeriğini detaylı olarak paylaşmıyor."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Ebeveynlere Sunulan Destek",
+      "cards": [
+        {
+          "card_title": "Yardım Kaynakları",
+          "card_body": "Bildirimlerle birlikte, ebeveynlere uzman desteği alabilecekleri yardım hatları ve rehberlik kaynakları sunuluyor."
+        },
+        {
+          "card_title": "İletişim Tavsiyesi",
+          "card_body": "Meta, bu bildirimleri aldıktan sonra ebeveynlerin gençlerle doğrudan ve destekleyici bir iletişim kurmalarını öneriyor."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Dijital güvenlik konusunda ebeveynlerin daha fazla bilgilendirilmesini destekliyor musunuz?",
+    "reminder_line": "Teknoloji dünyasındaki güncel ve güvenilir gelişmelerden haberdar olmak için Tekno Pusula'yı takipte kalın."
+  },
+  "context": {
+    "heading": "Neden Yeni Bir Önlem Alındı?",
+    "cards": [
+      {
+        "card_title": "Risk Tespiti",
+        "card_body": "Gençlerin dijital dünyada karşılaştığı riskleri azaltmak amacıyla, Meta artık intihar ve kendine zarar verme eğilimlerini içeren aramalarda ebeveynleri bilgilendirecek."
+      },
+      {
+        "card_title": "Kritik Eşik",
+        "card_body": "Sistem, bir gencin kısa süre içinde tekrarlayan şekilde kendine zarar verme içerikli aramalar yapması durumunda devreye giriyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Hangi Durumlarda Bildirim Gidiyor?",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Bildirim Süreci Nasıl İşliyor?",
+    "cards": [
+      {
+        "card_title": "İletişim Kanalları",
+        "card_body": "Ebeveynler; SMS, e-posta, WhatsApp veya kendi uygulamaları üzerinden gelen push bildirimleri ile bilgilendiriliyor."
+      },
+      {
+        "card_title": "Gizlilik Sınırı",
+        "card_body": "Önemli bir not: Bildirimler, yapılan spesifik aramaları veya Meta AI ile yapılan sohbetin içeriğini detaylı olarak paylaşmıyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Ebeveynlere Sunulan Destek",
+    "cards": [
+      {
+        "card_title": "Yardım Kaynakları",
+        "card_body": "Bildirimlerle birlikte, ebeveynlere uzman desteği alabilecekleri yardım hatları ve rehberlik kaynakları sunuluyor."
+      },
+      {
+        "card_title": "İletişim Tavsiyesi",
+        "card_body": "Meta, bu bildirimleri aldıktan sonra ebeveynlerin gençlerle doğrudan ve destekleyici bir iletişim kurmalarını öneriyor."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}
