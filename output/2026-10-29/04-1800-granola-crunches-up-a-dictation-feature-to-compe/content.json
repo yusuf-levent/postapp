@@ -1,13 +1,12 @@
 {
   "cover": {
-    "category_label": "YAPAY ZEKA GÜNDEMİ",
-    "title": "Granola'dan Yeni Dikte Özelliği",
+    "category_label": "Yapay Zeka ve Not Asistanları",
+    "title": "Sesli Asistanlar ve Dikte Araçları Dönüşüyor",
     "highlight_words": [
-      "Dikte",
-      "Granola"
+      "Sesli Asistanlar"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Popüler toplantı not alıcısı Granola'nın yeni dikte özelliği ve detayları.",
+    "subtitle": "Granola ve Wispr gibi araçların yeni özellikleri ve değerlemeleri.",
     "source_tags": [
       "TechCrunch",
       "The Verge",
@@ -15,100 +14,92 @@
     ]
   },
   "problem": {
-    "heading": "Toplantı Asistanları ve Dikte Araçları",
+    "heading": "Sektörde Son Durum",
     "cards": [
       {
-        "card_title": "Granola'nın Hamlesi",
-        "card_body": "Toplantı not alıcısı uygulaması Granola, bugün yeni bir dikte özelliği başlattı."
+        "card_title": "Pazar Değerleri",
+        "card_body": "Granola 1.5 milyar dolar, Wispr ise 2 milyar dolar değerlemeye ulaştı."
       },
       {
-        "card_title": "Rekabet Durumu",
-        "card_body": "Wispr bir dikte aracının ardından aylar önce toplantı not alıcısı başlatmıştı. Şu an Granola 1.5 milyar dolar, Wispr ise 2 milyar dolar değerindedir."
+        "card_title": "Çoklu Özellikler",
+        "card_body": "Fireflies, Speechify ve Monologue gibi uygulamalar hem toplantı notu alma hem de dikte yeteneklerini birleştirdi."
       }
     ],
     "code_block": ""
   },
   "steps": [
     {
-      "heading": "Granola Dikte Özelliği Nasıl Çalışır?",
+      "heading": "Granola'nın Yeni Özelliği",
       "cards": [
         {
-          "card_title": "Mac Desteği",
-          "card_body": "Granola'nın yeni dikte özelliği şu anda sadece Mac üzerinde çalışmaktadır."
+          "card_title": "Dikte Özelliği",
+          "card_body": "Granola bugün yeni bir dikte özelliği duyurdu."
         },
         {
-          "card_title": "Kullanım Şekli",
-          "card_body": "Kullanıcılar klavyedeki Fn tuşuna basarak konuşmaya başlayabilirler."
+          "card_title": "Platform Desteği",
+          "card_body": "Şu an için sadece Mac üzerinde çalışıyor."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "Metin Düzenleme ve Biçimlendirme",
+      "heading": "Yaklaşan Güncellemeler",
       "cards": [
         {
-          "card_title": "Otomatik Düzenleme",
-          "card_body": "Konuşmanız bittikten sonra metin uygulama tarafından otomatik olarak düzenlenir."
-        },
-        {
-          "card_title": "Biçimlendirilmiş Yayın",
-          "card_body": "Düzenlenen metin uygun biçimde ekrana yansıtılır ve yayınlanır."
+          "card_title": "iOS ve Windows",
+          "card_body": "Granola, dikte özelliğinin yakında iOS ve Windows platformlarına da geleceğini açıkladı."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "Gelecek Planları",
+      "heading": "Wispr'ın Hamlesi",
       "cards": [
         {
-          "card_title": "Yeni Platformlar",
-          "card_body": "Granola, bu dikte özelliğinin yakında iOS ve Windows işletim sistemlerine de geleceğini açıkladı."
+          "card_title": "Toplantı Asistanı",
+          "card_body": "Wispr, dikte aracını piyasaya sürmesinden aylar sonra toplantı not alıcısını da kullanıma sundu."
         }
       ],
       "code_block": ""
     }
   ],
   "cta": {
-    "question": "Siz günlük işlerinizde dikte özelliklerini sıkça kullanıyor musunuz?",
+    "question": "Siz günlük iş akışınızda hangi sesli asistanı kullanıyorsunuz?",
     "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
   },
   "context": {
-    "heading": "Toplantı Asistanları ve Dikte Araçları",
+    "heading": "Sektörde Son Durum",
     "cards": [
       {
-        "card_title": "Granola'nın Hamlesi",
-        "card_body": "Toplantı not alıcısı uygulaması Granola, bugün yeni bir dikte özelliği başlattı."
+        "card_title": "Pazar Değerleri",
+        "card_body": "Granola 1.5 milyar dolar, Wispr ise 2 milyar dolar değerlemeye ulaştı."
       },
       {
-        "card_title": "Rekabet Durumu",
-        "card_body": "Wispr bir dikte aracının ardından aylar önce toplantı not alıcısı başlatmıştı. Şu an Granola 1.5 milyar dolar, Wispr ise 2 milyar dolar değerindedir."
+        "card_title": "Çoklu Özellikler",
+        "card_body": "Fireflies, Speechify ve Monologue gibi uygulamalar hem toplantı notu alma hem de dikte yeteneklerini birleştirdi."
       }
     ]
   },
   "stat": {
     "big_stat": "💡",
-    "stat_caption": "Granola Dikte Özelliği Nasıl Çalışır?",
+    "stat_caption": "Granola'nın Yeni Özelliği",
     "stat_quote": ""
   },
   "details": {
-    "heading": "Metin Düzenleme ve Biçimlendirme",
+    "heading": "Yaklaşan Güncellemeler",
     "cards": [
       {
-        "card_title": "Otomatik Düzenleme",
-        "card_body": "Konuşmanız bittikten sonra metin uygulama tarafından otomatik olarak düzenlenir."
-      },
-      {
-        "card_title": "Biçimlendirilmiş Yayın",
-        "card_body": "Düzenlenen metin uygun biçimde ekrana yansıtılır ve yayınlanır."
+        "card_title": "iOS ve Windows",
+        "card_body": "Granola, dikte özelliğinin yakında iOS ve Windows platformlarına da geleceğini açıkladı."
       }
     ]
   },
   "impact": {
-    "heading": "Gelecek Planları",
+    "heading": "Wispr'ın Hamlesi",
     "cards": [
       {
-        "card_title": "Yeni Platformlar",
-        "card_body": "Granola, bu dikte özelliğinin yakında iOS ve Windows işletim sistemlerine de geleceğini açıkladı."
+        "card_title": "Toplantı Asistanı",
+        "card_body": "Wispr, dikte aracını piyasaya sürmesinden aylar sonra toplantı not alıcısını da kullanıma sundu."
       }
     ]
   },
