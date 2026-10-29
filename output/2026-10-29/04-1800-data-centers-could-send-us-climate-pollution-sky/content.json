@@ -1,0 +1,108 @@
+{
+  "cover": {
+    "category_label": "Teknoloji ve Çevre",
+    "title": "Yapay Zeka ve Enerji İkilemi",
+    "highlight_words": [
+      "Yapay Zeka",
+      "Enerji",
+      "Emisyon"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Veri merkezlerinin artan elektrik talebi ve çevresel etkileri üzerine güncel veriler.",
+    "source_tags": [
+      "The Verge",
+      "MIT Technology Review"
+    ]
+  },
+  "problem": {
+    "heading": "Artan Talep, Artan Emisyon",
+    "cards": [
+      {
+        "card_title": "Yapay Zeka Projeleri",
+        "card_body": "Planlanan yapay zeka projeleri hayata geçerse, elektrik üretiminden kaynaklanan CO2 emisyonları on yılın sonuna kadar 618 milyon ton artabilir."
+      },
+      {
+        "card_title": "2030 Tahminleri",
+        "card_body": "Veri merkezi ve kripto madenlerinden kaynaklanan elektrik talebi, güç sektörü emisyonlarını 2030 yılına kadar %28 oranında artırabilir."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "ABD Elektrik Sektörü Görünümü",
+      "cards": [
+        {
+          "card_title": "Karbon Kirliliği Riski",
+          "card_body": "ABD elektrik sektöründeki karbon dioksit kirliliği, veri merkezi talebi nedeniyle 2030 yılına kadar 2025 seviyesine göre %42 daha fazla artış gösterebilir."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Geçmişten Günümüze Emisyonlar",
+      "cards": [
+        {
+          "card_title": "Düşüş Trendi",
+          "card_body": "ABD'nin net sera gazı emisyonları 2007 yılında yaklaşık 6,58 milyar metrik tondan, 2025 yılında yaklaşık 5,35 milyar metrik tona gerilemiştir."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Gelecek Planları ve Fosil Yakıtlar",
+      "cards": [
+        {
+          "card_title": "Beklenmedik Artış",
+          "card_body": "Environmental Defense Fund raporuna göre ABD, son on yılda planladığından daha fazla fosil yakıt kapasitesi inşa etmeyi planlamaktadır."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Teknolojik gelişimin çevresel maliyeti hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Daha fazla teknoloji analizi için Tekno Pusula'yı takipte kalın."
+  },
+  "context": {
+    "heading": "Artan Talep, Artan Emisyon",
+    "cards": [
+      {
+        "card_title": "Yapay Zeka Projeleri",
+        "card_body": "Planlanan yapay zeka projeleri hayata geçerse, elektrik üretiminden kaynaklanan CO2 emisyonları on yılın sonuna kadar 618 milyon ton artabilir."
+      },
+      {
+        "card_title": "2030 Tahminleri",
+        "card_body": "Veri merkezi ve kripto madenlerinden kaynaklanan elektrik talebi, güç sektörü emisyonlarını 2030 yılına kadar %28 oranında artırabilir."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "ABD Elektrik Sektörü Görünümü",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Geçmişten Günümüze Emisyonlar",
+    "cards": [
+      {
+        "card_title": "Düşüş Trendi",
+        "card_body": "ABD'nin net sera gazı emisyonları 2007 yılında yaklaşık 6,58 milyar metrik tondan, 2025 yılında yaklaşık 5,35 milyar metrik tona gerilemiştir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Gelecek Planları ve Fosil Yakıtlar",
+    "cards": [
+      {
+        "card_title": "Beklenmedik Artış",
+        "card_body": "Environmental Defense Fund raporuna göre ABD, son on yılda planladığından daha fazla fosil yakıt kapasitesi inşa etmeyi planlamaktadır."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}
