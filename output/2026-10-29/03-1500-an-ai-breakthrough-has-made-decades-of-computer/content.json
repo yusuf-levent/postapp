@@ -1,57 +1,66 @@
 {
   "cover": {
     "category_label": "YAPAY ZEKA VE BİLİM",
-    "title": "Üstel Zaman Hipotezi İddiası",
+    "title": "Üstel Zaman Hipotezi Çürüdü mü?",
     "highlight_words": [
       "Üstel",
-      "Zaman"
+      "Zaman",
+      "Hipotezi"
     ],
     "highlight_color": "yellow",
-    "subtitle": "OpenAI ve Anthropic üstel zaman hipotezini çürüttüklerini iddia etti.",
+    "subtitle": "OpenAI ve Anthropic, bilgisayar bilimlerinin temelini sarsan çalışmalarını paylaştı.",
     "source_tags": [
       "WIRED",
       "OPENAI NEWS"
     ]
   },
   "context": {
-    "heading": "GitHub Üzerinde Yayınlanan Kanıtlar",
+    "heading": "GitHub'da Yayınlanan Dev Arşiv",
     "cards": [
       {
-        "card_title": "Doğal Dil ve Lean Formatı",
-        "card_body": "OpenAI, yapay zeka tarafından üretilen kanıtları doğal dil ve Lean formatında GitHub üzerinde yayınladı."
+        "card_title": "722 El Yazması",
+        "card_body": "OpenAI, bu ayin başında 400 probleme ait 722 el yazmasını GitHub üzerinde paylaştı."
       },
       {
-        "card_title": "Yüzlerce Problem",
-        "card_body": "OpenAI bu ayın başında 400 problem üzerine 722 taslak metni GitHub'a yükledi."
+        "card_title": "Doğal Dil ve Lean Formatı",
+        "card_body": "OpenAI ve Anthropic, yapay zeka tarafından üretilen kanıtları doğal dil ve Lean formatında yayınladı."
       }
     ]
   },
   "stat": {
-    "big_stat": "60 SAYFA",
-    "stat_caption": "OpenAI'ın üstel zaman hipotezi üzerine hazırladığı makalenin yaklaşık uzunluğu.",
-    "stat_quote": "OpenAI'ın hazırladığı makale yaklaşık 60 sayfa uzunluğunda."
+    "big_stat": "722",
+    "stat_caption": "GitHub'da paylaşılan el yazması ve 400 farklı problem.",
+    "stat_quote": "OpenAI ve Anthropic, üstel zaman hipotezini çürüttüklerini iddia ediyor."
   },
   "details": {
     "heading": "Bilim Dünyasında Yankıları",
     "cards": [
       {
+        "card_title": "60 Sayfalık Makale",
+        "card_body": "OpenAI, üstel zaman hipotezi üzerine yaklaşık 60 sayfalık kapsamlı bir makale yayınladı."
+      },
+      {
         "card_title": "IEEE Sempozyumu",
-        "card_body": "Linkoping Üniversitesi profesörü Peter Jonsson'un çalışması iki hafta içinde IEEE Bilgisayar Bilimleri Temelleri Sempozyumu'nda sunulacak."
+        "card_body": "Linkoping Üniversitesi profesörü Peter Jonsson'un çalışması iki hafta sonra IEEE sempozyumunda sunulacak."
       }
     ]
   },
   "impact": {
-    "heading": "Akademik Çalışmalar Üzerindeki Etkisi",
+    "heading": "Akademik Dünyaya Etkisi",
     "cards": [
       {
-        "card_title": "Bilimsel Makaleler",
-        "card_body": "Daniel Lokshtanov, sonuç doğrulanırsa yayınlanan yaklaşık 50 makalesinin anlamsız hale geleceğini veya yeniden ele alınması gerekeceğini tahmin ediyor."
+        "card_title": "Yeniden Yazılacak Makaleler",
+        "card_body": "UC Santa Barbara profesörü Daniel Lokshtanov, yaklaşık 50 yayınlanmış makalesinin anlamsızlaşacağını veya gözden geçirilmesi gerekeceğini tahmin ediyor."
+      },
+      {
+        "card_title": "Temel Kabul Edilen Teoriler",
+        "card_body": "Yapay zekanın ürettiği bu kanıtlar, bilgisayar bilimlerindeki uzun süreli kabullerin yeniden tartışılmasına yol açıyor."
       }
     ]
   },
   "cta": {
-    "question": "Yapay zekanın matematiksel kanıt üretebilmesi bilimsel araştırmaların geleceğini nasıl değiştirecek?",
-    "reminder_line": "Teknoloji ve bilim dünyasındaki gelişmeler için takipte kalın."
+    "question": "Yapay zekanın akademik araştırmalardaki bu hızı hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

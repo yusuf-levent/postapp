@@ -7,7 +7,7 @@
     "TechCrunch",
     "OpenAI News"
   ],
-  "checked_at": "2026-10-29T14:41:57+03:00",
+  "checked_at": "2026-10-29T14:47:12+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "claim": "OpenAI published AI-produced proofs on GitHub in natural language and Lean format.",
+      "claim": "OpenAI and Anthropic published the AI-produced proofs on GitHub in natural language and Lean format.",
       "verdict": "supported",
       "evidence": [
         {
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "claim": "Daniel Lokshtanov estimates that around 50 of his published papers are rendered pointless or need a revisit if the result is confirmed.",
+      "claim": "UC Santa Barbara professor Daniel Lokshtanov estimates that the result will render around 50 of his published papers pointless or in need of a revisit.",
       "verdict": "supported",
       "evidence": [
         {
@@ -62,11 +62,15 @@
         {
           "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
           "quote": "OpenAI has directly contributed to this; earlier this month, it dumped 722 manuscripts on 400 problems on GitHub, to the annoyance of academics, who complain this makes it difficult to digest the results."
+        },
+        {
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+          "quote": "OpenAI has directly contributed to this; earlier this month, it dumped 722 manuscripts on 400 problems on GitHub, to the annoyance of academics..."
         }
       ]
     },
     {
-      "claim": "OpenAI's paper on the exponential time hypothesis is approximately 60 pages long.",
+      "claim": "OpenAI published a 60-odd-page paper on the exponential time hypothesis.",
       "verdict": "supported",
       "evidence": [
         {
@@ -102,7 +106,7 @@
       ]
     },
     {
-      "claim": "OpenAI published AI-produced proofs on GitHub in natural language and Lean format.",
+      "claim": "OpenAI and Anthropic published the AI-produced proofs on GitHub in natural language and Lean format.",
       "verdict": "supported",
       "evidence": [
         {
@@ -112,7 +116,7 @@
       ]
     },
     {
-      "claim": "Daniel Lokshtanov estimates that around 50 of his published papers are rendered pointless or need a revisit if the result is confirmed.",
+      "claim": "UC Santa Barbara professor Daniel Lokshtanov estimates that the result will render around 50 of his published papers pointless or in need of a revisit.",
       "verdict": "supported",
       "evidence": [
         {
@@ -128,11 +132,15 @@
         {
           "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
           "quote": "OpenAI has directly contributed to this; earlier this month, it dumped 722 manuscripts on 400 problems on GitHub, to the annoyance of academics, who complain this makes it difficult to digest the results."
+        },
+        {
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+          "quote": "OpenAI has directly contributed to this; earlier this month, it dumped 722 manuscripts on 400 problems on GitHub, to the annoyance of academics..."
         }
       ]
     },
     {
-      "claim": "OpenAI's paper on the exponential time hypothesis is approximately 60 pages long.",
+      "claim": "OpenAI published a 60-odd-page paper on the exponential time hypothesis.",
       "verdict": "supported",
       "evidence": [
         {
@@ -168,7 +176,7 @@
       ]
     },
     {
-      "claim": "OpenAI published AI-produced proofs on GitHub in natural language and Lean format.",
+      "claim": "OpenAI and Anthropic published the AI-produced proofs on GitHub in natural language and Lean format.",
       "verdict": "supported",
       "evidence": [
         {
@@ -178,7 +186,7 @@
       ]
     },
     {
-      "claim": "Daniel Lokshtanov estimates that around 50 of his published papers are rendered pointless or need a revisit if the result is confirmed.",
+      "claim": "UC Santa Barbara professor Daniel Lokshtanov estimates that the result will render around 50 of his published papers pointless or in need of a revisit.",
       "verdict": "supported",
       "evidence": [
         {
@@ -194,11 +202,15 @@
         {
           "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
           "quote": "OpenAI has directly contributed to this; earlier this month, it dumped 722 manuscripts on 400 problems on GitHub, to the annoyance of academics, who complain this makes it difficult to digest the results."
+        },
+        {
+          "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+          "quote": "OpenAI has directly contributed to this; earlier this month, it dumped 722 manuscripts on 400 problems on GitHub, to the annoyance of academics..."
         }
       ]
     },
     {
-      "claim": "OpenAI's paper on the exponential time hypothesis is approximately 60 pages long.",
+      "claim": "OpenAI published a 60-odd-page paper on the exponential time hypothesis.",
       "verdict": "supported",
       "evidence": [
         {

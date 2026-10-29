@@ -3,7 +3,7 @@
 **Haber:** An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’
 **Canonical URL:** https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/
 **Kaynaklar:** Wired, MIT Technology Review, TechCrunch, OpenAI News
-**Kontrol zamanı:** 2026-10-29T14:41:57+03:00
+**Kontrol zamanı:** 2026-10-29T14:47:12+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
@@ -24,13 +24,13 @@
   - [https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/](https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/)
     > Both OpenAI and Anthropic claimed this week to have disproved the exponential time hypothesis (ETH).
 
-### 3. OpenAI published AI-produced proofs on GitHub in natural language and Lean format.
+### 3. OpenAI and Anthropic published the AI-produced proofs on GitHub in natural language and Lean format.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/](https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/)
     > Researchers haven’t independently verified, let alone had time to fully understand, the AI-produced proofs, which both firms have published on GitHub in both natural language and its machine-checkable Lean format.
 
-### 4. Daniel Lokshtanov estimates that around 50 of his published papers are rendered pointless or need a revisit if the result is confirmed.
+### 4. UC Santa Barbara professor Daniel Lokshtanov estimates that the result will render around 50 of his published papers pointless or in need of a revisit.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/](https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/)
@@ -41,8 +41,10 @@
 - **Kanıtlar:**
   - [https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/](https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/)
     > OpenAI has directly contributed to this; earlier this month, it dumped 722 manuscripts on 400 problems on GitHub, to the annoyance of academics, who complain this makes it difficult to digest the results.
+  - [https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/](https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/)
+    > OpenAI has directly contributed to this; earlier this month, it dumped 722 manuscripts on 400 problems on GitHub, to the annoyance of academics...
 
-### 6. OpenAI's paper on the exponential time hypothesis is approximately 60 pages long.
+### 6. OpenAI published a 60-odd-page paper on the exponential time hypothesis.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/](https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/)
@@ -56,10 +58,10 @@
 |-------|--------|--------|-------|
 | Linkoping University professor Peter Jonsson will have his w | supported | supported | supported |
 | OpenAI and Anthropic claimed to have disproved the exponenti | supported | supported | supported |
-| OpenAI published AI-produced proofs on GitHub in natural lan | supported | supported | supported |
-| Daniel Lokshtanov estimates that around 50 of his published  | supported | supported | supported |
+| OpenAI and Anthropic published the AI-produced proofs on Git | supported | supported | supported |
+| UC Santa Barbara professor Daniel Lokshtanov estimates that  | supported | supported | supported |
 | OpenAI dumped 722 manuscripts on 400 problems on GitHub earl | supported | supported | supported |
-| OpenAI's paper on the exponential time hypothesis is approxi | supported | supported | supported |
+| OpenAI published a 60-odd-page paper on the exponential time | supported | supported | supported |
 
 ## Kaynak Metinleri
 

@@ -2,36 +2,66 @@
 
 ## INSTAGRAM
 
-OpenAI ve Anthropic, yapay zeka dünyasında tartışma yaratan üstel zaman hipotezini çürüttüklerini duyurdu. GitHub'da yayınlanan 60 sayfalık makale ve yüzlerce kanıt bilim dünyasında şimdiden büyük yankı uyandırdı. Sonuçlar doğrulanırsa yüzlerce akademik makalenin yeniden ele alınması gerekebilir. Yapay zekanın matematiksel kanıt üretebilmesi bilimsel araştırmaların geleceğini nasıl değiştirecek? Kaynak: Wired
+Üstel zaman hipotezi çürüdü mü? Bilgisayar bilimlerinin temellerini sarsan bu gelişme günün en sıcak konusu.
 
-#YapayZeka #OpenAI #Bilim #Teknoloji #Wired #ArtificialIntelligence #TechNews #Science
+OpenAI ve Anthropic, GitHub üzerinde 400 probleme ait 722 el yazması paylaştı. Yapay zekanın ürettiği kanıtlar akademik dünyayı sallıyor.
+
+UC Santa Barbara'dan Daniel Lokshtanov, onlarca makalenin gözden geçirilmesi gerekeceğini belirtiyor. Bilim dünyasında uzun süreli kabuller yeniden tartışılıyor.
+
+Yapay zekanın akademik araştırmalardaki bu hızı hakkında ne düşünüyorsunuz?
+
+Kaynak: Wired
+
+#YapayZeka #ArtificialIntelligence #OpenAI #Anthropic #Bilim #Teknoloji #GitHub #Academic
 
 ## TIKTOK
 
-OpenAI üstel zaman hipotezini çürüttü mü? GitHub'da yayınlanan 60 sayfalık kanıtlar bilim dünyasını salladı! Kaynak: Wired
+Yapay zeka bilgisayar bilimlerinin temelini sarstı! OpenAI ve Anthropic üstel zaman hipotezini çürüttü mü? 722 el yazması GitHub'da yayınlandı! Kaynak: Wired
 
-#yapayzeka #openai #bilim #teknoloji #wired
+#YapayZeka #OpenAI #Teknoloji #Bilim
 
 ## X
 
-OpenAI ve Anthropic, üstel zaman hipotezini çürüttüklerini iddia etti. GitHub'da yayınlanan 60 sayfalık kanıtlar bilim dünyasında geniş yankı uyandırdı. Yapay zekanın matematiksel kanıt üretmesi araştırmaları nasıl etkiler? Kaynak: Wired
+OpenAI ve Anthropic, bilgisayar bilimlerinin temelini sarsan çalışmasıyla üstel zaman hipotezini sarstı. GitHub'da 722 el yazması paylaşıldı. Akademik dünyadaki bu hız hakkında ne düşünüyorsunuz? Kaynak: Wired
 
 #YapayZeka #OpenAI
 
 ## THREADS
 
-OpenAI ve Anthropic'ten büyük iddia: Üstel zaman hipotezi çürütüldü mü? GitHub üzerinde yayınlanan 60 sayfalık kanıtlar bilim dünyasını ikiye böldü. Sonuçlar teyit edilirse pek çok akademik makalenin yeniden yazılması gerekecek. 💭 Yapay zekanın matematiksel kanıt üretebilmesi bilimsel araştırmaların geleceğini nasıl değiştirecek? Kaynak: Wired
+Üstel Zaman Hipotezi Çürüdü mü? 💭
+
+OpenAI ve Anthropic, bilgisayar bilimlerinin temelini sarsan 722 el yazmasını GitHub'da yayınladı. Yapay zekanın ürettiği bu kanıtlar akademik dünyadaki pek çok makalenin yeniden yazılmasına yol açabilir.
+
+Yapay zekanın bu hızı hakkında ne düşünüyorsunuz?
+
+Kaynak: Wired
 
 #YapayZeka
 
 ## LINKEDIN
 
-Yapay zeka ve bilim dünyasında çığır açabilecek bir gelişme yaşandı. OpenAI ve Anthropic, üstel zaman hipotezini çürüttüklerini iddia ederek GitHub üzerinden 60 sayfalık kanıt ve yüzlerce problem yayınladı. Bilim insanları, bu gelişmenin akademik literatür üzerinde köklü değişiklikler yaratabileceğini belirtiyor. Sektörel olarak bu adımı nasıl değerlendiriyorsunuz? Kaynak: Wired
+Bilgisayar bilimlerinin en temel kabullerinden biri sarsılıyor mu?
 
-#YapayZeka #OpenAI #Teknoloji #Bilim #Inovasyon
+OpenAI ve Anthropic ortaklaşa yürüttükleri çalışmada, üstel zaman hipotezini hedef alan 400 probleme ait 722 el yazmasını GitHub'da paylaştı. 60 sayfalık kapsamlı makale ve Lean formatındaki yapay zeka kanıtları akademik dünyada geniş yankı uyandırdı.
+
+Uzmanlar, bu gelişmenin halihazırda yayınlanmış pek çok akademik yayının gözden geçirilmesine neden olacağını öngörüyor. Teknolojik gelişmelerin akademik süreçleri dönüştürme hızı iş dünyasını ve bilim camiasını yeniden yapılandırıyor.
+
+Yapay zekanın araştırmalardaki bu dönüştürücü gücünü nasıl değerlendiriyorsunuz?
+
+Kaynak: Wired
+
+#YapayZeka #Teknoloji #OpenAI #Bilim #Inovasyon
 
 ## FACEBOOK
 
-OpenAI ve Anthropic, üstel zaman hipotezini çürüttüklerini iddia etti! GitHub'da yayınlanan 60 sayfalık makale ve yüzlerce kanıt bilim dünyasında büyük yankı uyandırdı. Yapay zekanın matematiksel kanıt üretebilmesi bilimsel araştırmaların geleceğini nasıl değiştirecek? Kaynak: Wired
+Üstel zaman hipotezi çürüdü mü? Bilgisayar bilimlerinin temelini sarsan büyük gelişme duyuruldu.
 
-#YapayZeka #OpenAI #Bilim #Teknoloji #Wired
+OpenAI ve Anthropic, 400 probleme ait 722 el yazmasını GitHub'da paylaştı. Yapay zeka tarafından üretilen kanıtlar, akademik dünyadaki uzun süreli kabullerin yeniden tartışılmasına yol açıyor.
+
+UC Santa Barbara'dan profesörler, yayınlanmış pek çok makalenin anlamsızlaşabileceğini belirtiyor.
+
+Yapay zekanın akademik araştırmalardaki bu hızı hakkında ne düşünüyorsunuz?
+
+Kaynak: Wired
+
+#YapayZeka #OpenAI #Teknoloji #Bilim
