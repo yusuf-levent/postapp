@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "SİBER GÜVENLİK",
+    "title": "Büyük Sızıntı: 41 Bin Personelin Kayıtları Yayınlandı",
+    "highlight_words": [
+      "Büyük",
+      "Sızıntı"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "İç Güvenlik Bakanlığı personeline ait hassas veriler internete sızdırıldı.",
+    "source_tags": [
+      "ENGADGET",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Olayın Arka Planı",
+    "cards": [
+      {
+        "card_title": "Department of Peace",
+        "card_body": "Kendine Department of Peace adını veren hacktivist grup, 41.000'den fazla İç Güvenlik personelinin kayıtlarını çaldı."
+      },
+      {
+        "card_title": "Okta Üzerinden Sızıntı",
+        "card_body": "Hacktivist grup verileri Okta aracılığıyla ele geçirdiğini belirtti. Okta ise sistemlerinde tehlike olmadığını açıkladı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "41.000+",
+    "stat_caption": "İç Güvenlik personelinin kayıtları sızdırıldı.",
+    "stat_quote": "Sızdırılan kayıtlar arasında e-posta adresleri, telefon numaraları ve ofis adresleri yer alıyor."
+  },
+  "details": {
+    "heading": "Veriler Kimleri Kapsıyor?",
+    "cards": [
+      {
+        "card_title": "Sınır Muhafaza Birimleri",
+        "card_body": "Sızdırılan kayıtların 21.000'i ABD Gümrük ve Sınır Muhafaza biriminde çalışan kişileri tanımlıyor."
+      },
+      {
+        "card_title": "ICE Personeli",
+        "card_body": "Kayıtların 10.000'i Göçmenlik ve Gümrük Muhafaza (ICE) personeline ait bilgiler içeriyor."
+      },
+      {
+        "card_title": "Veri Tabanı: Icepick",
+        "card_body": "Distributed Denial of Secrets, sızdırılan verilerden oluşan veri tabanına Icepick adını verdi."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektör ve Güvenlik Etkisi",
+    "cards": [
+      {
+        "card_title": "Şeffaflık Örgütleri ile Paylaşım",
+        "card_body": "Hackerlar verileri Distributed Denial of Secrets ve İsviçreli araştırmacı maia arson crimew ile paylaştı."
+      },
+      {
+        "card_title": "Platform Güvenliği Tartışmaları",
+        "card_body": "Okta'nın güvenlik iddialarına rağmen yaşanan bu olay, kurumsal kimlik ve erişim yönetimini yeniden gündeme taşıdı."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce kurumların kullandığı kimlik doğrulama sistemleri bu tür sızıntıları önlemek için yeterince güvenli mi?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

@@ -1,0 +1,301 @@
+{
+  "title": "Hackers leaked details of more than 41,000 Homeland Security personnel",
+  "canonical_url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+  "source_names": [
+    "Engadget",
+    "Wired",
+    "BBC News – Technology",
+    "TechCrunch"
+  ],
+  "checked_at": "2026-10-29T11:41:49+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Bir hacktivist grup, 41.000'den fazla İç Güvenlik personelinin kayıtlarını çaldı ve internette yayınladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "A hacktivist group stole records for more than 41,000 Homeland Security personnel and got help to release it on the web, according to Wired, the Washington Post and NPR."
+        },
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "A hacktivist group stole records for more than 41,000 Homeland Security personnel and got help to release it on the web"
+        }
+      ]
+    },
+    {
+      "claim": "Sızdırılan kayıtlar, ICE ajanları ve sınır polisinin e-posta adresleri, telefon numaraları ile ofis adreslerini içeriyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "The leaked records contain email addresses, phone numbers and office addresses of the personnel, but they also include sensitive information about the agency's undercover and surveillance programs."
+        },
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "They include email addresses and phone numbers of ICE agents and border police."
+        },
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "The leaked records contain email addresses, phone numbers and office addresses of the personnel"
+        }
+      ]
+    },
+    {
+      "claim": "Sızdırılan kayıtların 21.000'i ABD Gümrük ve Sınır Muhafaza biriminde çalışan kişileri tanımlıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "Of the records that were leaked, 21,000 identify people working with the US Customs and Border Protection"
+        }
+      ]
+    },
+    {
+      "claim": "Sızdırılan kayıtların 10.000'i Göçmenlik ve Gümrük Muhafaza (ICE) personeline ait.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "while 10,000 records belong to Immigration and Customs Enforcement (ICE) personnel."
+        }
+      ]
+    },
+    {
+      "claim": "Department of Peace adını kullanan hacktivist grup verileri Okta aracılığıyla çaldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "The group apparently stole the data via Okta, the single sign-on service used by the DHS."
+        }
+      ]
+    },
+    {
+      "claim": "Okta, veri veya sistemlerinin tehlikeye girdiğine dair hiçbir kanıt bulunmadığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "Okta told Wired that it has found no evidence that its \"data or systems were compromised.\""
+        }
+      ]
+    },
+    {
+      "claim": "Hackers verileri kâr amacı gütmeyen şeffaflık örgütü Distributed Denial of Secrets ve maia arson crimew adlı İsviçreli siber güvenlik araştırmacısıyla paylaştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "The hackers shared the data with transparency nonprofit Distributed Denial of Secrets and a Swiss cybersecurity researcher called maia arson crimew."
+        }
+      ]
+    },
+    {
+      "claim": "Distributed Denial of Secrets, sızdırılan verilerden oluşan veri tabanına Icepick adını verdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "The Distributed Denial of Secrets is calling the database \"Icepick.\""
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Bir hacktivist grup, 41.000'den fazla İç Güvenlik personelinin kayıtlarını çaldı ve internette yayınladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "A hacktivist group stole records for more than 41,000 Homeland Security personnel and got help to release it on the web, according to Wired, the Washington Post and NPR."
+        },
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "A hacktivist group stole records for more than 41,000 Homeland Security personnel and got help to release it on the web"
+        }
+      ]
+    },
+    {
+      "claim": "Sızdırılan kayıtlar, ICE ajanları ve sınır polisinin e-posta adresleri, telefon numaraları ile ofis adreslerini içeriyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "The leaked records contain email addresses, phone numbers and office addresses of the personnel, but they also include sensitive information about the agency's undercover and surveillance programs."
+        },
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "They include email addresses and phone numbers of ICE agents and border police."
+        },
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "The leaked records contain email addresses, phone numbers and office addresses of the personnel"
+        }
+      ]
+    },
+    {
+      "claim": "Sızdırılan kayıtların 21.000'i ABD Gümrük ve Sınır Muhafaza biriminde çalışan kişileri tanımlıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "Of the records that were leaked, 21,000 identify people working with the US Customs and Border Protection"
+        }
+      ]
+    },
+    {
+      "claim": "Sızdırılan kayıtların 10.000'i Göçmenlik ve Gümrük Muhafaza (ICE) personeline ait.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "while 10,000 records belong to Immigration and Customs Enforcement (ICE) personnel."
+        }
+      ]
+    },
+    {
+      "claim": "Department of Peace adını kullanan hacktivist grup verileri Okta aracılığıyla çaldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "The group apparently stole the data via Okta, the single sign-on service used by the DHS."
+        }
+      ]
+    },
+    {
+      "claim": "Okta, veri veya sistemlerinin tehlikeye girdiğine dair hiçbir kanıt bulunmadığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "Okta told Wired that it has found no evidence that its \"data or systems were compromised.\""
+        }
+      ]
+    },
+    {
+      "claim": "Hackers verileri kâr amacı gütmeyen şeffaflık örgütü Distributed Denial of Secrets ve maia arson crimew adlı İsviçreli siber güvenlik araştırmacısıyla paylaştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "The hackers shared the data with transparency nonprofit Distributed Denial of Secrets and a Swiss cybersecurity researcher called maia arson crimew."
+        }
+      ]
+    },
+    {
+      "claim": "Distributed Denial of Secrets, sızdırılan verilerden oluşan veri tabanına Icepick adını verdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "The Distributed Denial of Secrets is calling the database \"Icepick.\""
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Bir hacktivist grup, 41.000'den fazla İç Güvenlik personelinin kayıtlarını çaldı ve internette yayınladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "A hacktivist group stole records for more than 41,000 Homeland Security personnel and got help to release it on the web, according to Wired, the Washington Post and NPR."
+        },
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "A hacktivist group stole records for more than 41,000 Homeland Security personnel and got help to release it on the web"
+        }
+      ]
+    },
+    {
+      "claim": "Sızdırılan kayıtlar, ICE ajanları ve sınır polisinin e-posta adresleri, telefon numaraları ile ofis adreslerini içeriyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "The leaked records contain email addresses, phone numbers and office addresses of the personnel, but they also include sensitive information about the agency's undercover and surveillance programs."
+        },
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "They include email addresses and phone numbers of ICE agents and border police."
+        },
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "The leaked records contain email addresses, phone numbers and office addresses of the personnel"
+        }
+      ]
+    },
+    {
+      "claim": "Sızdırılan kayıtların 21.000'i ABD Gümrük ve Sınır Muhafaza biriminde çalışan kişileri tanımlıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "Of the records that were leaked, 21,000 identify people working with the US Customs and Border Protection"
+        }
+      ]
+    },
+    {
+      "claim": "Sızdırılan kayıtların 10.000'i Göçmenlik ve Gümrük Muhafaza (ICE) personeline ait.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "while 10,000 records belong to Immigration and Customs Enforcement (ICE) personnel."
+        }
+      ]
+    },
+    {
+      "claim": "Department of Peace adını kullanan hacktivist grup verileri Okta aracılığıyla çaldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "The group apparently stole the data via Okta, the single sign-on service used by the DHS."
+        }
+      ]
+    },
+    {
+      "claim": "Okta, veri veya sistemlerinin tehlikeye girdiğine dair hiçbir kanıt bulunmadığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "Okta told Wired that it has found no evidence that its \"data or systems were compromised.\""
+        }
+      ]
+    },
+    {
+      "claim": "Hackers verileri kâr amacı gütmeyen şeffaflık örgütü Distributed Denial of Secrets ve maia arson crimew adlı İsviçreli siber güvenlik araştırmacısıyla paylaştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "The hackers shared the data with transparency nonprofit Distributed Denial of Secrets and a Swiss cybersecurity researcher called maia arson crimew."
+        }
+      ]
+    },
+    {
+      "claim": "Distributed Denial of Secrets, sızdırılan verilerden oluşan veri tabanına Icepick adını verdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+          "quote": "The Distributed Denial of Secrets is calling the database \"Icepick.\""
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/": 2911,
+    "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/": 3889,
+    "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss": 4825,
+    "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/": 2437
+  }
+}
