@@ -1,0 +1,10 @@
+{
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 107.7,
+  "candidates_tried": 1,
+  "gemini_calls": 17,
+  "canonical_url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+  "generated_at": "2026-10-29T21:43:31+03:00"
+}

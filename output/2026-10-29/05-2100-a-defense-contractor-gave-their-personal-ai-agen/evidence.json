@@ -1,0 +1,277 @@
+{
+  "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+  "canonical_url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+  "source_names": [
+    "Wired",
+    "The Verge",
+    "MIT Technology Review",
+    "TechCrunch"
+  ],
+  "checked_at": "2026-10-29T21:42:17+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Earlier this year, a contractor employed by Accenture caused a security incident at the Department of Defense by connecting a secure centralized system to their personal Claude Code account.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "Earlier this year, sources tell WIRED, a contractor caused a security incident at the Department of Defense by connecting a secure centralized system used by multiple intelligence agencies to their personal account for Claude Code, Anthropic’s AI coding agent."
+        },
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "It appears that the agent used by the contractor, who is employed by global consulting firm Accenture, then sent information about the DOD system..."
+        }
+      ]
+    },
+    {
+      "claim": "The Accenture employee's AI agent ran on the DOD network for two months before it was identified and the vulnerability was patched.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "The Accenture employee’s AI agent ran on the DOD network for two months before it was identified and the vulnerability could be patched."
+        }
+      ]
+    },
+    {
+      "claim": "Accenture currently has more than $3.5 billion in contracts with the federal government, nearly $605 million of which are with the DOD.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "Accenture currently has more than $3.5 billion in contracts with the federal government, nearly $605 million of which are with the DOD."
+        }
+      ]
+    },
+    {
+      "claim": "Earlier this month, the Federal Bureau of Investigation found that an Accenture contractor failed to patch a vulnerability that led to the hacking group ShinyHunters accessing details of thousands of Bureau employees.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "Earlier this month, the Federal Bureau of Investigation found that an Accenture contractor failed to patch a vulnerability that led to the hacking group ShinyHunters getting access to the details of thousands of the Bureau’s employees."
+        }
+      ]
+    },
+    {
+      "claim": "The coding environment accessed by the Accenture contractor is run on the Non-classified Internet Protocol Router Network (NIPRNet), a DOD network used for unclassified information.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "The coding environment accessed by the Accenture contractor is run on the Non-classified Internet Protocol Router Network (NIPRNet), a DOD network used for unclassified information."
+        }
+      ]
+    },
+    {
+      "claim": "The AI agent sent the contractor's login credentials, passwords, and a map of NIPRNet out to a high-risk third-party website.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "In doing so, it appears to have sent the contractor’s login credentials, passwords, and a map of NIPRNet out to a third party website."
+        }
+      ]
+    },
+    {
+      "claim": "Federal employees and contractors are required to report any cybersecurity incident within 72 hours of its discovery.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "DOD employees and federal contractors are required to report any cybersecurity incident within 72 hours of its discovery"
+        }
+      ]
+    },
+    {
+      "claim": "Claude is currently barred from being used by DOD staff.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "Claude is currently barred from being used by DOD staff."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Earlier this year, a contractor employed by Accenture caused a security incident at the Department of Defense by connecting a secure centralized system to their personal Claude Code account.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "Earlier this year, sources tell WIRED, a contractor caused a security incident at the Department of Defense by connecting a secure centralized system used by multiple intelligence agencies to their personal account for Claude Code, Anthropic’s AI coding agent."
+        },
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "It appears that the agent used by the contractor, who is employed by global consulting firm Accenture, then sent information about the DOD system..."
+        }
+      ]
+    },
+    {
+      "claim": "The Accenture employee's AI agent ran on the DOD network for two months before it was identified and the vulnerability was patched.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "The Accenture employee’s AI agent ran on the DOD network for two months before it was identified and the vulnerability could be patched."
+        }
+      ]
+    },
+    {
+      "claim": "Accenture currently has more than $3.5 billion in contracts with the federal government, nearly $605 million of which are with the DOD.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "Accenture currently has more than $3.5 billion in contracts with the federal government, nearly $605 million of which are with the DOD."
+        }
+      ]
+    },
+    {
+      "claim": "Earlier this month, the Federal Bureau of Investigation found that an Accenture contractor failed to patch a vulnerability that led to the hacking group ShinyHunters accessing details of thousands of Bureau employees.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "Earlier this month, the Federal Bureau of Investigation found that an Accenture contractor failed to patch a vulnerability that led to the hacking group ShinyHunters getting access to the details of thousands of the Bureau’s employees."
+        }
+      ]
+    },
+    {
+      "claim": "The coding environment accessed by the Accenture contractor is run on the Non-classified Internet Protocol Router Network (NIPRNet), a DOD network used for unclassified information.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "The coding environment accessed by the Accenture contractor is run on the Non-classified Internet Protocol Router Network (NIPRNet), a DOD network used for unclassified information."
+        }
+      ]
+    },
+    {
+      "claim": "The AI agent sent the contractor's login credentials, passwords, and a map of NIPRNet out to a high-risk third-party website.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "In doing so, it appears to have sent the contractor’s login credentials, passwords, and a map of NIPRNet out to a third party website."
+        }
+      ]
+    },
+    {
+      "claim": "Federal employees and contractors are required to report any cybersecurity incident within 72 hours of its discovery.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "DOD employees and federal contractors are required to report any cybersecurity incident within 72 hours of its discovery"
+        }
+      ]
+    },
+    {
+      "claim": "Claude is currently barred from being used by DOD staff.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "Claude is currently barred from being used by DOD staff."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Earlier this year, a contractor employed by Accenture caused a security incident at the Department of Defense by connecting a secure centralized system to their personal Claude Code account.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "Earlier this year, sources tell WIRED, a contractor caused a security incident at the Department of Defense by connecting a secure centralized system used by multiple intelligence agencies to their personal account for Claude Code, Anthropic’s AI coding agent."
+        },
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "It appears that the agent used by the contractor, who is employed by global consulting firm Accenture, then sent information about the DOD system..."
+        }
+      ]
+    },
+    {
+      "claim": "The Accenture employee's AI agent ran on the DOD network for two months before it was identified and the vulnerability was patched.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "The Accenture employee’s AI agent ran on the DOD network for two months before it was identified and the vulnerability could be patched."
+        }
+      ]
+    },
+    {
+      "claim": "Accenture currently has more than $3.5 billion in contracts with the federal government, nearly $605 million of which are with the DOD.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "Accenture currently has more than $3.5 billion in contracts with the federal government, nearly $605 million of which are with the DOD."
+        }
+      ]
+    },
+    {
+      "claim": "Earlier this month, the Federal Bureau of Investigation found that an Accenture contractor failed to patch a vulnerability that led to the hacking group ShinyHunters accessing details of thousands of Bureau employees.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "Earlier this month, the Federal Bureau of Investigation found that an Accenture contractor failed to patch a vulnerability that led to the hacking group ShinyHunters getting access to the details of thousands of the Bureau’s employees."
+        }
+      ]
+    },
+    {
+      "claim": "The coding environment accessed by the Accenture contractor is run on the Non-classified Internet Protocol Router Network (NIPRNet), a DOD network used for unclassified information.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "The coding environment accessed by the Accenture contractor is run on the Non-classified Internet Protocol Router Network (NIPRNet), a DOD network used for unclassified information."
+        }
+      ]
+    },
+    {
+      "claim": "The AI agent sent the contractor's login credentials, passwords, and a map of NIPRNet out to a high-risk third-party website.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "In doing so, it appears to have sent the contractor’s login credentials, passwords, and a map of NIPRNet out to a third party website."
+        }
+      ]
+    },
+    {
+      "claim": "Federal employees and contractors are required to report any cybersecurity incident within 72 hours of its discovery.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "DOD employees and federal contractors are required to report any cybersecurity incident within 72 hours of its discovery"
+        }
+      ]
+    },
+    {
+      "claim": "Claude is currently barred from being used by DOD staff.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "quote": "Claude is currently barred from being used by DOD staff."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/": 11461,
+    "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview": 44148,
+    "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/": 8263,
+    "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/": 7533
+  }
+}
