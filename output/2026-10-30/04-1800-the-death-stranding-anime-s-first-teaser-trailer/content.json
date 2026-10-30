@@ -1,120 +1,121 @@
 {
   "cover": {
-    "category_label": "YAPAY ZEKA VE TEKNOLOJİ",
-    "title": "Death Stranding Evreni Genişliyor",
+    "category_label": "TEKNOLOJİ VE OYUN",
+    "title": "Death Stranding Animesi Geliyor!",
     "highlight_words": [
-      "Death Stranding"
+      "Animesi"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Yeni animeler, filmler ve projeler yolda.",
+    "subtitle": "Death Stranding Isolations hakkında bilinen tüm doğrulanmış detaylar.",
     "source_tags": [
       "Engadget",
-      "IEEE Spectrum"
+      "IEEE Spectrum",
+      "OpenAI News"
     ]
   },
   "problem": {
-    "heading": "Death Stranding Evrenindeki Yeni Projeler Neler?",
+    "heading": "Yeni Yapım Hakkında Bilmeniz Gerekenler",
     "cards": [
       {
-        "card_title": "Animasyon Dünyası",
-        "card_body": "Death Stranding Isolations adlı anime dizisi duyuruldu."
+        "card_title": "Isolations Adı ve Yayın Yeri",
+        "card_body": "Death Stranding animesinin adı Death Stranding Isolations olarak açıklandı ve yapım önümüzdeki yıl Disney+ platformunda yayınlanacak."
       },
       {
-        "card_title": "Yayın Platformu",
-        "card_body": "Bu yeni anime gelecek yıl Disney+ platformunda izleyiciyle buluşacak."
+        "card_title": "Resmi Slogan ve Teaser",
+        "card_body": "Yapımın ilk teaser fragmanı yayınlandı ve animenin resmi sloganı \"My mom became a crater\" olarak duyuruldu."
       }
     ],
     "code_block": ""
   },
   "steps": [
     {
-      "heading": "Anime Detayları ve Ekip",
+      "heading": "Yaratıcı Ekip ve Yönetmen",
       "cards": [
         {
-          "card_title": "Çarpıcı Slogan",
-          "card_body": "Animenin resmi sloganı My mom became a crater olarak açıklandı."
+          "card_title": "Hideo Kojima'nın Rolü",
+          "card_body": "Hideo Kojima, animenin yapımcıları arasında yer alıyor. Kojima aynı zamanda oyunların co-writer, designer ve direktörüdür."
         },
         {
-          "card_title": "Yönetici Yapımcı",
-          "card_body": "Hideo Kojima, Death Stranding animesinde yönetici yapımcı olarak görev yapıyor."
+          "card_title": "Yönetmen Kim?",
+          "card_body": "Death Stranding Isolations animesinin yönetmenliğini Takayuki Sano yapmaktadır."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "Yönetmen ve Diğer Animasyon Projeleri",
+      "heading": "Diğer Film Projeleri",
       "cards": [
-        {
-          "card_title": "Yönetmen Koltuğu",
-          "card_body": "Animenin yönetmenliğini Takayuki Sano üstleniyor."
-        },
         {
           "card_title": "Death Stranding Mosquito",
-          "card_body": "Death Stranding Mosquito adında bir animasyon film de şu anda geliştirme aşamasında."
+          "card_body": "Animenin yanı sıra Death Stranding Mosquito adında animasyon bir film de şu anda geliştirilme aşamasındadır."
+        },
+        {
+          "card_title": "Live-Action Film Projesi",
+          "card_body": "Popüler yapımcı şirket A24'ün dahil olduğu bir live-action film projesi de ayrıca bulunmaktadır."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "Live-Action Film Projesi",
+      "heading": "Özet ve Takip",
       "cards": [
         {
-          "card_title": "Sinema Uyarlaması",
-          "card_body": "Canlı aksiyon (live-action) formatında bir Death Stranding filmi de hazırlık aşamasında."
+          "card_title": "Proje Çeşitliliği",
+          "card_body": "Evren hem animasyon diziler hem de live-action sinema filmleriyle genişliyor."
         },
         {
-          "card_title": "A24 Ortaklığı",
-          "card_body": "Bu live-action film projesinde A24 firmasının da katılımı ve dahil olması yer alıyor."
+          "card_title": "Yayın Takvimi",
+          "card_body": "Disney+ üzerindeki yayın için gelecek yıl bekleniyor."
         }
       ],
       "code_block": ""
     }
   ],
   "cta": {
-    "question": "Death Stranding evreninin anime ve film uyarlamalarından seni en çok heyecanlandıran hangisi?",
-    "reminder_line": "Teknoloji ve oyun dünyasındaki gelişmeleri kaçırmamak için takipte kal!"
+    "question": "Death Stranding evreninin dizi ve filmlere uyarlanması hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji ve oyun dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
   },
   "context": {
-    "heading": "Death Stranding Evrenindeki Yeni Projeler Neler?",
+    "heading": "Yeni Yapım Hakkında Bilmeniz Gerekenler",
     "cards": [
       {
-        "card_title": "Animasyon Dünyası",
-        "card_body": "Death Stranding Isolations adlı anime dizisi duyuruldu."
+        "card_title": "Isolations Adı ve Yayın Yeri",
+        "card_body": "Death Stranding animesinin adı Death Stranding Isolations olarak açıklandı ve yapım önümüzdeki yıl Disney+ platformunda yayınlanacak."
       },
       {
-        "card_title": "Yayın Platformu",
-        "card_body": "Bu yeni anime gelecek yıl Disney+ platformunda izleyiciyle buluşacak."
+        "card_title": "Resmi Slogan ve Teaser",
+        "card_body": "Yapımın ilk teaser fragmanı yayınlandı ve animenin resmi sloganı \"My mom became a crater\" olarak duyuruldu."
       }
     ]
   },
   "stat": {
     "big_stat": "💡",
-    "stat_caption": "Anime Detayları ve Ekip",
+    "stat_caption": "Yaratıcı Ekip ve Yönetmen",
     "stat_quote": ""
   },
   "details": {
-    "heading": "Yönetmen ve Diğer Animasyon Projeleri",
+    "heading": "Diğer Film Projeleri",
     "cards": [
       {
-        "card_title": "Yönetmen Koltuğu",
-        "card_body": "Animenin yönetmenliğini Takayuki Sano üstleniyor."
+        "card_title": "Death Stranding Mosquito",
+        "card_body": "Animenin yanı sıra Death Stranding Mosquito adında animasyon bir film de şu anda geliştirilme aşamasındadır."
       },
       {
-        "card_title": "Death Stranding Mosquito",
-        "card_body": "Death Stranding Mosquito adında bir animasyon film de şu anda geliştirme aşamasında."
+        "card_title": "Live-Action Film Projesi",
+        "card_body": "Popüler yapımcı şirket A24'ün dahil olduğu bir live-action film projesi de ayrıca bulunmaktadır."
       }
     ]
   },
   "impact": {
-    "heading": "Live-Action Film Projesi",
+    "heading": "Özet ve Takip",
     "cards": [
       {
-        "card_title": "Sinema Uyarlaması",
-        "card_body": "Canlı aksiyon (live-action) formatında bir Death Stranding filmi de hazırlık aşamasında."
+        "card_title": "Proje Çeşitliliği",
+        "card_body": "Evren hem animasyon diziler hem de live-action sinema filmleriyle genişliyor."
       },
       {
-        "card_title": "A24 Ortaklığı",
-        "card_body": "Bu live-action film projesinde A24 firmasının da katılımı ve dahil olması yer alıyor."
+        "card_title": "Yayın Takvimi",
+        "card_body": "Disney+ üzerindeki yayın için gelecek yıl bekleniyor."
       }
     ]
   },

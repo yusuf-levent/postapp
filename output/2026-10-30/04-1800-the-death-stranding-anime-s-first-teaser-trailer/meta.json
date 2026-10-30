@@ -2,9 +2,9 @@
   "slot": "18:00",
   "type": "edu",
   "model": "gemini-3.5-flash-lite",
-  "duration_seconds": 240.9,
+  "duration_seconds": 149.0,
   "candidates_tried": 1,
-  "gemini_calls": 15,
+  "gemini_calls": 13,
   "canonical_url": "https://www.engadget.com/2302296/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/",
-  "generated_at": "2026-10-30T18:15:55+03:00"
+  "generated_at": "2026-10-30T18:25:00+03:00"
 }

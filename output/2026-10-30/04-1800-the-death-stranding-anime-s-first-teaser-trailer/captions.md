@@ -2,36 +2,68 @@
 
 ## INSTAGRAM
 
-Death Stranding evreni sinema ve televizyona genişliyor! Hideo Kojima'nın yönetici yapımcılığında hazırlanan Death Stranding Isolations anime dizisi gelecek yıl Disney+ platformunda izleyiciyle buluşacak. Ayrıca Death Stranding Mosquito animasyon filmi ve A24 ortaklığıyla geliştirilen live-action film projesi de yolda. Sence seni en çok heyecanlandıran hangisi? Kaynak: Engadget, IEEE Spectrum
+Death Stranding evreni genişliyor! Death Stranding Isolations adını taşıyan yeni anime, önümüzdeki yıl Disney+ platformunda yayınlanacak. Hideo Kojima'nın yapımcıları arasında yer aldığı bu heyecan verici yapımın yönetmenliğini Takayuki Sano üstleniyor. Ayrıca 'My mom became a crater' sloganıyla yayınlanan ilk teaser büyük merak uyandırdı.
 
-#DeathStranding #HideoKojima #DisneyPlus #Anime #Oyun #Teknoloji #Sinema #A24 #Gaming #TeknolojiHaberleri
+Animenin yanı sıra Death Stranding Mosquito animasyon filmi ve A24 ortaklığıyla geliştirilen bir live-action film projesi de yolda.
+
+Siz bu uyarlamalar hakkında ne düşünüyorsunuz?
+
+Kaynak: Engadget, IEEE Spectrum
+
+#DeathStranding #DeathStrandingIsolations #DisneyPlus #HideoKojima #Anime #Teknoloji #Oyun #Gaming #Geek #Haber
 
 ## TIKTOK
 
-Death Stranding evreni büyüyor! Anime dizisi, animasyon filmi ve A24 ortaklı live-action film geliyor! Hideo Kojima iş başında. Kaynak: Engadget
+Death Stranding animesi geliyor! Adı Death Stranding Isolations ve önümüzdeki yıl Disney+'ta yayınlanacak. Hideo Kojima yapımcılar arasında, yönetmen ise Takayuki Sano. Slogan ise çok iddialı: "My mom became a crater!" Ayrıca A24'ten live-action film de yolda. Detaylar için takipte kalın!
 
-#DeathStranding #Kojima #Anime #Gaming #Teknoloji
+Kaynak: Engadget
+
+#DeathStranding #DisneyPlus #HideoKojima #Anime #Oyun
 
 ## X
 
-Death Stranding evreni genişliyor! 'Death Stranding Isolations' anime dizisi gelecek yıl Disney+'ta yayınlanacak. Ayrıca bir animasyon film ve A24 ortaklı live-action film de yolda. Hideo Kojima projede yönetici yapımcı. Kaynak: Engadget, IEEE Spectrum
+Death Stranding animesi Death Stranding Isolations, önümüzdeki yıl Disney+'ta yayınlanacak! Hideo Kojima'nın yapımcıları arasında olduğu projenin yönetmeni Takayuki Sano. Ayrıca Mosquito animasyonu ve A24 live-action filmi de yolda.
 
-#DeathStranding #Gaming
+Kaynak: Engadget
+
+#DeathStranding #DisneyPlus
+
+#DeathStranding #DisneyPlus
 
 ## THREADS
 
-Death Stranding evreni sinema ve ekranlara taşınıyor! Death Stranding Isolations anime dizisi gelecek yıl Disney+ platformunda yayınlanacak. Ayrıca bir animasyon film ve A24 ortaklı live-action sinema filmi de hazırlık aşamasında. Hideo Kojima projelerin başında yer alıyor. Sence en heyecan verici olan hangisi? 💭 Kaynak: Engadget
+Death Stranding evreni büyüyor! 🎮
+
+Death Stranding Isolations animesi önümüzdeki yıl Disney+ platformunda yayınlanacak. Hideo Kojima'nın yapımcıları arasında yer aldığı projenin yönetmenliğini Takayuki Sano yapıyor. Ayrıca A24 iş birliğiyle bir live-action film de geliştiriliyor.
+
+Death Stranding evreninin bu uyarlamaları hakkında ne düşünüyorsunuz?
+
+💭 Kaynak: Engadget
 
 #DeathStranding
 
 ## LINKEDIN
 
-Oyun ve eğlence sektöründe büyük gelişmeler yaşanmaya devam ediyor. Hideo Kojima'nın yaratıcısı olduğu Death Stranding evreni; anime dizisi, animasyon film ve A24 iş birliğiyle hayata geçirilecek live-action sinema uyarlaması ile genişliyor. Kültür, sanat ve teknoloji entegrasyonunun en yeni örneklerini yakından takip ediyoruz. Kaynak: Engadget, IEEE Spectrum
+Oyun ve eğlence sektöründe transmedya hikaye anlatımı genişlemeye devam ediyor. Popüler yapım Death Stranding, animasyon diziler ve sinema filmleriyle evrenini büyütüyor.
 
-#DeathStranding #HideoKojima #Teknoloji #EğlenceSektörü #Sinema
+Death Stranding Isolations adlı anime dizisi önümüzdeki yıl Disney+ ekranlarında izleyiciyle buluşacak. Hideo Kojima'nın yapımcıları arasında yer aldığı projede yönetmen koltuğunda Takayuki Sano oturuyor. Temel animasyon dizisinin yanı sıra, A24 iş birliğiyle geliştirilen live-action sinema filmi de sektördeki projeler arasında yer alıyor.
+
+Dijital içerik evrenlerinin farklı medya formatlarına uyarlanması hakkındaki stratejik öngörüleriniz nelerdir?
+
+Kaynak: Engadget, IEEE Spectrum
+
+#Teknoloji #OyunSektörü #Medya #Eğlence #İnovasyon
 
 ## FACEBOOK
 
-Death Stranding evreni sinema ve ekranlara genişliyor! Death Stranding Isolations anime dizisi gelecek yıl Disney+ platformunda izleyiciyle buluşacak. Hideo Kojima'nın yönetici yapımcılığını üstlendiği projeler arasında animasyon filmler ve A24 ortaklı live-action film de yer alıyor. Sen bu evrenin hangi uyarlamasını daha çok merak ediyorsun? Kaynak: Engadget, IEEE Spectrum
+Death Stranding hayranlarına müjde! Evren hem animasyon diziler hem de sinema filmleriyle genişliyor.
 
-#DeathStranding #HideoKojima #DisneyPlus #Teknoloji #Oyun
+Death Stranding Isolations animesi, önümüzdeki yıl Disney+ platformunda yayınlanacak. Hideo Kojima'nın yapımcıları arasında olduğu yapımın yönetmenliğini Takayuki Sano üstleniyor. İlk teaser'da dikkat çeken "My mom became a crater" sloganı ise şimdiden büyük merak uyandırdı.
+
+Ayrıca Death Stranding Mosquito animasyon filmi ve A24'ün dahil olduğu live-action film projesi de geliştirilme aşamasında.
+
+Bu yeni projeler hakkında ne düşünüyorsunuz?
+
+Kaynak: Engadget, IEEE Spectrum
+
+#DeathStranding #DisneyPlus #HideoKojima #Anime #Film
