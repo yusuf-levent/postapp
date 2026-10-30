@@ -1,0 +1,10 @@
+{
+  "slot": "15:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 161.7,
+  "candidates_tried": 1,
+  "gemini_calls": 20,
+  "canonical_url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+  "generated_at": "2026-10-30T14:44:12+03:00"
+}

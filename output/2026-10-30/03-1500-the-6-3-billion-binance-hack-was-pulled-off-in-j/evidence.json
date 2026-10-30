@@ -1,0 +1,289 @@
+{
+  "title": "The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes",
+  "canonical_url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+  "source_names": [
+    "Wired",
+    "BBC News – Technology",
+    "Engadget",
+    "TechCrunch"
+  ],
+  "checked_at": "2026-10-30T14:42:16+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Binance borsasına ait cüzdanlardan yaklaşık 6,3 milyar dolar değerinde kripto para çalındı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "On Thursday, starting at around 4pm ET, hackers started quickly siphoning around $6.3 billion in cryptocurrencies, spread across multiple blockchains, from wallets belonging to crypto exchange Binance."
+        }
+      ]
+    },
+    {
+      "claim": "Saldırı, 29 Ekim tarihinde yaklaşık 20 dakikalık bir süre zarfında gerçekleşti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "The majority of the stolen crypto was taken in a period of around 20 minutes on October 29, according to analysis by crypto tracing firm TRM Labs."
+        }
+      ]
+    },
+    {
+      "claim": "TRM Labs analizine göre, saldırganlar Binance'in en az on farklı blok zincirindeki cüzdanlarını hedef aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "Wallets belonging to Binance across at least ten blockchains—including Ethereum, Bitcoin, Tron and Solana—were drained and sent to multiple addresses controlled by a single attacker, according to TRM’s analysis."
+        }
+      ]
+    },
+    {
+      "claim": "Elliptic'in baş bilim insanı Tom Robinson, çalınan fonların yaklaşık 2,8 milyar dolarının veya toplam miktarın yüzde 44'ünün dondurulduğunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "Elliptic’s Robinson says that around $2.8 billion, or around 44 percent of the total amount stolen, has been frozen by crypto companies and exchanges so far, with almost all of this being stablecoins."
+        },
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "Elliptic’s Robinson says that around $2.8 billion, or around 44 percent of the total amount stolen, has been frozen by crypto companies and exchanges so far"
+        }
+      ]
+    },
+    {
+      "claim": "TRM Labs, saldırganın hazırlık aşamasının hırsızlıktan en az 36 saat önce başladığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "“Preparation began at least 36 hours before the theft,” TRM says in a blog post."
+        }
+      ]
+    },
+    {
+      "claim": "Chainalysis araştırmacıları, Binance'ten çalınan fonların, Kuzey Koreli aktörlere atfedilen Bitget saldırısından çalınan fonlarla karıştığını gözlemledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "“The strongest evidence emerged when Chainalysis investigators observed, in real time, funds stolen from Binance commingling with funds stolen in last month’s Bitget exploit, which had been attributed to North Korean actors,” a research blog from Chainalysis says."
+        }
+      ]
+    },
+    {
+      "claim": "Binance, güvenlik ihlalinin başlangıçta bir mühendisin dizüstü bilgisayarının ele geçirilmesini içerdiğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/",
+          "quote": "\"The exchange's initial investigation suggests that a compromised DevOps engineer's laptop may have enabled an attacker to access a service container and submit unauthorized withdrawal transactions,\" Binance wrote."
+        },
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "“Binance says the attack began with a compromised engineer’s laptop."
+        }
+      ]
+    },
+    {
+      "claim": "FBI, geçen yıl gerçekleşen 1,5 milyar dolarlık Bybit borsası hack saldırısından TraderTraitor grubunu sorumlu tuttu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "Last year, the FBI named TraderTraitor as being responsible for the $1.5 billion hack against crypto exchange Bybit."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Binance borsasına ait cüzdanlardan yaklaşık 6,3 milyar dolar değerinde kripto para çalındı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "On Thursday, starting at around 4pm ET, hackers started quickly siphoning around $6.3 billion in cryptocurrencies, spread across multiple blockchains, from wallets belonging to crypto exchange Binance."
+        }
+      ]
+    },
+    {
+      "claim": "Saldırı, 29 Ekim tarihinde yaklaşık 20 dakikalık bir süre zarfında gerçekleşti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "The majority of the stolen crypto was taken in a period of around 20 minutes on October 29, according to analysis by crypto tracing firm TRM Labs."
+        }
+      ]
+    },
+    {
+      "claim": "TRM Labs analizine göre, saldırganlar Binance'in en az on farklı blok zincirindeki cüzdanlarını hedef aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "Wallets belonging to Binance across at least ten blockchains—including Ethereum, Bitcoin, Tron and Solana—were drained and sent to multiple addresses controlled by a single attacker, according to TRM’s analysis."
+        }
+      ]
+    },
+    {
+      "claim": "Elliptic'in baş bilim insanı Tom Robinson, çalınan fonların yaklaşık 2,8 milyar dolarının veya toplam miktarın yüzde 44'ünün dondurulduğunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "Elliptic’s Robinson says that around $2.8 billion, or around 44 percent of the total amount stolen, has been frozen by crypto companies and exchanges so far, with almost all of this being stablecoins."
+        },
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "Elliptic’s Robinson says that around $2.8 billion, or around 44 percent of the total amount stolen, has been frozen by crypto companies and exchanges so far"
+        }
+      ]
+    },
+    {
+      "claim": "TRM Labs, saldırganın hazırlık aşamasının hırsızlıktan en az 36 saat önce başladığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "“Preparation began at least 36 hours before the theft,” TRM says in a blog post."
+        }
+      ]
+    },
+    {
+      "claim": "Chainalysis araştırmacıları, Binance'ten çalınan fonların, Kuzey Koreli aktörlere atfedilen Bitget saldırısından çalınan fonlarla karıştığını gözlemledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "“The strongest evidence emerged when Chainalysis investigators observed, in real time, funds stolen from Binance commingling with funds stolen in last month’s Bitget exploit, which had been attributed to North Korean actors,” a research blog from Chainalysis says."
+        }
+      ]
+    },
+    {
+      "claim": "Binance, güvenlik ihlalinin başlangıçta bir mühendisin dizüstü bilgisayarının ele geçirilmesini içerdiğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/",
+          "quote": "\"The exchange's initial investigation suggests that a compromised DevOps engineer's laptop may have enabled an attacker to access a service container and submit unauthorized withdrawal transactions,\" Binance wrote."
+        },
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "“Binance says the attack began with a compromised engineer’s laptop."
+        }
+      ]
+    },
+    {
+      "claim": "FBI, geçen yıl gerçekleşen 1,5 milyar dolarlık Bybit borsası hack saldırısından TraderTraitor grubunu sorumlu tuttu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "Last year, the FBI named TraderTraitor as being responsible for the $1.5 billion hack against crypto exchange Bybit."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Binance borsasına ait cüzdanlardan yaklaşık 6,3 milyar dolar değerinde kripto para çalındı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "On Thursday, starting at around 4pm ET, hackers started quickly siphoning around $6.3 billion in cryptocurrencies, spread across multiple blockchains, from wallets belonging to crypto exchange Binance."
+        }
+      ]
+    },
+    {
+      "claim": "Saldırı, 29 Ekim tarihinde yaklaşık 20 dakikalık bir süre zarfında gerçekleşti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "The majority of the stolen crypto was taken in a period of around 20 minutes on October 29, according to analysis by crypto tracing firm TRM Labs."
+        }
+      ]
+    },
+    {
+      "claim": "TRM Labs analizine göre, saldırganlar Binance'in en az on farklı blok zincirindeki cüzdanlarını hedef aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "Wallets belonging to Binance across at least ten blockchains—including Ethereum, Bitcoin, Tron and Solana—were drained and sent to multiple addresses controlled by a single attacker, according to TRM’s analysis."
+        }
+      ]
+    },
+    {
+      "claim": "Elliptic'in baş bilim insanı Tom Robinson, çalınan fonların yaklaşık 2,8 milyar dolarının veya toplam miktarın yüzde 44'ünün dondurulduğunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "Elliptic’s Robinson says that around $2.8 billion, or around 44 percent of the total amount stolen, has been frozen by crypto companies and exchanges so far, with almost all of this being stablecoins."
+        },
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "Elliptic’s Robinson says that around $2.8 billion, or around 44 percent of the total amount stolen, has been frozen by crypto companies and exchanges so far"
+        }
+      ]
+    },
+    {
+      "claim": "TRM Labs, saldırganın hazırlık aşamasının hırsızlıktan en az 36 saat önce başladığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "“Preparation began at least 36 hours before the theft,” TRM says in a blog post."
+        }
+      ]
+    },
+    {
+      "claim": "Chainalysis araştırmacıları, Binance'ten çalınan fonların, Kuzey Koreli aktörlere atfedilen Bitget saldırısından çalınan fonlarla karıştığını gözlemledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "“The strongest evidence emerged when Chainalysis investigators observed, in real time, funds stolen from Binance commingling with funds stolen in last month’s Bitget exploit, which had been attributed to North Korean actors,” a research blog from Chainalysis says."
+        }
+      ]
+    },
+    {
+      "claim": "Binance, güvenlik ihlalinin başlangıçta bir mühendisin dizüstü bilgisayarının ele geçirilmesini içerdiğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/",
+          "quote": "\"The exchange's initial investigation suggests that a compromised DevOps engineer's laptop may have enabled an attacker to access a service container and submit unauthorized withdrawal transactions,\" Binance wrote."
+        },
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "“Binance says the attack began with a compromised engineer’s laptop."
+        }
+      ]
+    },
+    {
+      "claim": "FBI, geçen yıl gerçekleşen 1,5 milyar dolarlık Bybit borsası hack saldırısından TraderTraitor grubunu sorumlu tuttu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "quote": "Last year, the FBI named TraderTraitor as being responsible for the $1.5 billion hack against crypto exchange Bybit."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/": 6156,
+    "https://www.bbc.co.uk/news/articles/cy5w2k5k5ylo?at_medium=RSS&at_campaign=rss": 7485,
+    "https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/": 2631,
+    "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/": 2543
+  }
+}
