@@ -7,22 +7,22 @@
     "TechCrunch",
     "Google Blog"
   ],
-  "checked_at": "2026-10-30T22:07:50+03:00",
+  "checked_at": "2026-10-30T22:37:37+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Google and its hardware partners officially launched Googlebooks earlier this month.",
+      "claim": "Google, dizüstü bilgisayar işletim sistemini ChromeOS'ten Android'e taşıyacağını yaklaşık iki buçuk yıl önce duyurdu.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2302681/everything-you-need-to-know-about-googlebooks/",
-          "quote": "Google and its hardware partners officially launched Googlebooks earlier this month with the promise of tight integration between your Android phone and this new, Android-powered laptop OS, plenty of AI-powered tricks and premium hardware."
+          "quote": "It's somehow been almost two and a half years since Google said it would migrate its laptop operating system from ChromeOS to Android"
         }
       ]
     },
     {
-      "claim": "ASUS Googlebook 14 costs $1,299, weighs 2.2 pounds, features an Intel Core Ultra 5 chip, 16GB of RAM, and 512GB of storage.",
+      "claim": "ASUS Googlebook 14 modeli 1.299 dolar fiyat etiketine, 2,2 pound ağırlığa, Intel Core Ultra 5 işlemciye, 16GB RAM'e ve 512GB depolama alanına sahiptir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "claim": "Acer's Googlebook 14 starts at $899 as the only Googlebook under $1,000.",
+      "claim": "Acer Googlebook 14, 899 dolarlık başlangıç fiyatıyla piyasadaki en ucuz Googlebook modelidir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "claim": "HP's Googlebook 14 runs on the Snapdragon X Elite X1E-80-100 processor.",
+      "claim": "HP Googlebook 14 modeli, Snapdragon X Elite X1E-80-100 işlemci ile çalışmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -52,24 +52,53 @@
       ]
     },
     {
-      "claim": "Googlebooks come with a year of GeForce Now Fast Pass access providing up to 50 hours of gaming per month.",
+      "claim": "Google, Pixel Tablet'i 2023 yılında piyasaya sürerek temel uygulamalarını büyük ekranlar için yeniden tasarladı.",
       "verdict": "not_found",
       "evidence": []
+    },
+    {
+      "claim": "Googlebook kullanıcılarına bir yıl boyunca aylık 50 saate kadar oyun oynama imkanı sunan GeForce Now 'Fast Pass' erişimi verilmektedir.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Googlebook işletim sisteminde Chrome tarayıcıdaki sekme gruplarının senkronizasyonu henüz desteklenmemektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302681/everything-you-need-to-know-about-googlebooks/",
+          "quote": "Even though you can sync tab groups across the desktop, Android and iOS versions of Chrome, those groups don't show up on a Googlebook."
+        },
+        {
+          "url": "https://www.engadget.com/2302681/everything-you-need-to-know-about-googlebooks/",
+          "quote": "Even though you can sync tab groups across the desktop, Android and iOS versions of Chrome, those groups don't show up on a Googlebook. I find it hard to put into words how bad it is to have such a baseline, crucial feature missing from a brand-new product that's ostensibly meant to replace Chromebooks."
+        }
+      ]
+    },
+    {
+      "claim": "Google, Googlebook cihazlarını bu ayın başlarında resmi olarak piyasaya sürdü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302681/everything-you-need-to-know-about-googlebooks/",
+          "quote": "Google and its hardware partners officially launched Googlebooks earlier this month"
+        }
+      ]
     }
   ],
   "round1": [
     {
-      "claim": "Google and its hardware partners officially launched Googlebooks earlier this month.",
+      "claim": "Google, dizüstü bilgisayar işletim sistemini ChromeOS'ten Android'e taşıyacağını yaklaşık iki buçuk yıl önce duyurdu.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2302681/everything-you-need-to-know-about-googlebooks/",
-          "quote": "Google and its hardware partners officially launched Googlebooks earlier this month with the promise of tight integration between your Android phone and this new, Android-powered laptop OS, plenty of AI-powered tricks and premium hardware."
+          "quote": "It's somehow been almost two and a half years since Google said it would migrate its laptop operating system from ChromeOS to Android"
         }
       ]
     },
     {
-      "claim": "ASUS Googlebook 14 costs $1,299, weighs 2.2 pounds, features an Intel Core Ultra 5 chip, 16GB of RAM, and 512GB of storage.",
+      "claim": "ASUS Googlebook 14 modeli 1.299 dolar fiyat etiketine, 2,2 pound ağırlığa, Intel Core Ultra 5 işlemciye, 16GB RAM'e ve 512GB depolama alanına sahiptir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -79,7 +108,7 @@
       ]
     },
     {
-      "claim": "Acer's Googlebook 14 starts at $899 as the only Googlebook under $1,000.",
+      "claim": "Acer Googlebook 14, 899 dolarlık başlangıç fiyatıyla piyasadaki en ucuz Googlebook modelidir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -89,7 +118,7 @@
       ]
     },
     {
-      "claim": "HP's Googlebook 14 runs on the Snapdragon X Elite X1E-80-100 processor.",
+      "claim": "HP Googlebook 14 modeli, Snapdragon X Elite X1E-80-100 işlemci ile çalışmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -99,24 +128,53 @@
       ]
     },
     {
-      "claim": "Googlebooks come with a year of GeForce Now Fast Pass access providing up to 50 hours of gaming per month.",
+      "claim": "Google, Pixel Tablet'i 2023 yılında piyasaya sürerek temel uygulamalarını büyük ekranlar için yeniden tasarladı.",
       "verdict": "not_found",
       "evidence": []
+    },
+    {
+      "claim": "Googlebook kullanıcılarına bir yıl boyunca aylık 50 saate kadar oyun oynama imkanı sunan GeForce Now 'Fast Pass' erişimi verilmektedir.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Googlebook işletim sisteminde Chrome tarayıcıdaki sekme gruplarının senkronizasyonu henüz desteklenmemektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302681/everything-you-need-to-know-about-googlebooks/",
+          "quote": "Even though you can sync tab groups across the desktop, Android and iOS versions of Chrome, those groups don't show up on a Googlebook."
+        },
+        {
+          "url": "https://www.engadget.com/2302681/everything-you-need-to-know-about-googlebooks/",
+          "quote": "Even though you can sync tab groups across the desktop, Android and iOS versions of Chrome, those groups don't show up on a Googlebook. I find it hard to put into words how bad it is to have such a baseline, crucial feature missing from a brand-new product that's ostensibly meant to replace Chromebooks."
+        }
+      ]
+    },
+    {
+      "claim": "Google, Googlebook cihazlarını bu ayın başlarında resmi olarak piyasaya sürdü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302681/everything-you-need-to-know-about-googlebooks/",
+          "quote": "Google and its hardware partners officially launched Googlebooks earlier this month"
+        }
+      ]
     }
   ],
   "round2": [
     {
-      "claim": "Google and its hardware partners officially launched Googlebooks earlier this month.",
+      "claim": "Google, dizüstü bilgisayar işletim sistemini ChromeOS'ten Android'e taşıyacağını yaklaşık iki buçuk yıl önce duyurdu.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2302681/everything-you-need-to-know-about-googlebooks/",
-          "quote": "Google and its hardware partners officially launched Googlebooks earlier this month with the promise of tight integration between your Android phone and this new, Android-powered laptop OS, plenty of AI-powered tricks and premium hardware."
+          "quote": "It's somehow been almost two and a half years since Google said it would migrate its laptop operating system from ChromeOS to Android"
         }
       ]
     },
     {
-      "claim": "ASUS Googlebook 14 costs $1,299, weighs 2.2 pounds, features an Intel Core Ultra 5 chip, 16GB of RAM, and 512GB of storage.",
+      "claim": "ASUS Googlebook 14 modeli 1.299 dolar fiyat etiketine, 2,2 pound ağırlığa, Intel Core Ultra 5 işlemciye, 16GB RAM'e ve 512GB depolama alanına sahiptir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -126,7 +184,7 @@
       ]
     },
     {
-      "claim": "Acer's Googlebook 14 starts at $899 as the only Googlebook under $1,000.",
+      "claim": "Acer Googlebook 14, 899 dolarlık başlangıç fiyatıyla piyasadaki en ucuz Googlebook modelidir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -136,7 +194,7 @@
       ]
     },
     {
-      "claim": "HP's Googlebook 14 runs on the Snapdragon X Elite X1E-80-100 processor.",
+      "claim": "HP Googlebook 14 modeli, Snapdragon X Elite X1E-80-100 işlemci ile çalışmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -146,9 +204,38 @@
       ]
     },
     {
-      "claim": "Googlebooks come with a year of GeForce Now Fast Pass access providing up to 50 hours of gaming per month.",
+      "claim": "Google, Pixel Tablet'i 2023 yılında piyasaya sürerek temel uygulamalarını büyük ekranlar için yeniden tasarladı.",
       "verdict": "not_found",
       "evidence": []
+    },
+    {
+      "claim": "Googlebook kullanıcılarına bir yıl boyunca aylık 50 saate kadar oyun oynama imkanı sunan GeForce Now 'Fast Pass' erişimi verilmektedir.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Googlebook işletim sisteminde Chrome tarayıcıdaki sekme gruplarının senkronizasyonu henüz desteklenmemektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302681/everything-you-need-to-know-about-googlebooks/",
+          "quote": "Even though you can sync tab groups across the desktop, Android and iOS versions of Chrome, those groups don't show up on a Googlebook."
+        },
+        {
+          "url": "https://www.engadget.com/2302681/everything-you-need-to-know-about-googlebooks/",
+          "quote": "Even though you can sync tab groups across the desktop, Android and iOS versions of Chrome, those groups don't show up on a Googlebook. I find it hard to put into words how bad it is to have such a baseline, crucial feature missing from a brand-new product that's ostensibly meant to replace Chromebooks."
+        }
+      ]
+    },
+    {
+      "claim": "Google, Googlebook cihazlarını bu ayın başlarında resmi olarak piyasaya sürdü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302681/everything-you-need-to-know-about-googlebooks/",
+          "quote": "Google and its hardware partners officially launched Googlebooks earlier this month"
+        }
+      ]
     }
   ],
   "source_texts": {

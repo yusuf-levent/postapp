@@ -1,5 +1,5 @@
 URL: https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/
-Erişim zamanı: 2026-10-30T22:07:50+03:00
+Erişim zamanı: 2026-10-30T22:37:37+03:00
 
 Google Suncatcher’s prototype space data center is online and communicating with the ground after launching earlier this month alongside more than 100 other spacecraft on a SpaceX Falcon 9 rocket.
 The satellite, which carries four Google Tensor Processing Units (TPUs) and generates up to 1 kW of electricity, is intended to pave the way for future networks of close-flying satellites performing large inference workloads in orbit. However, the power demands of the TPU mean it can only turn one on for about 20 minutes at a time, complicating the already tricky business of space-to-ground communications.

@@ -1,68 +1,64 @@
 {
   "cover": {
-    "category_label": "YENİ NESİL TEKNOLOJİ",
-    "title": "Google ve Donanım Ortaklarından Googlebook Hamlesi",
+    "category_label": "TEKNOLOJİ DÜNYASI",
+    "title": "Google'ın Yeni Dönemi: Googlebook",
     "highlight_words": [
       "Googlebook"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Google ve ortakları yeni Googlebook modellerini bu ay resmi olarak piyasaya sürdü.",
+    "subtitle": "Google, dizüstü bilgisayar dünyasında yeni bir sayfa açıyor.",
     "source_tags": [
-      "ENGADGET",
-      "GOOGLE BLOG"
+      "GOOGLE BLOG",
+      "THE VERGE"
     ]
   },
   "context": {
-    "heading": "Googlebook Dönemi Başlıyor",
+    "heading": "Googlebook Nedir?",
     "cards": [
       {
-        "card_title": "Resmi Çıkış",
-        "card_body": "Google ve donanım ortakları, bu ayın başında Googlebook cihazlarını resmi olarak kullanıcılarla buluşturdu."
+        "card_title": "İşletim Sistemi Değişimi",
+        "card_body": "Google, dizüstü bilgisayar işletim sistemini ChromeOS'ten Android'e taşıyacağını yaklaşık iki buçuk yıl önce duyurmuştu."
       },
       {
-        "card_title": "Çeşitli Modeller",
-        "card_body": "Farklı donanım seçenekleri ve markalarla yeni cihazlar pazardaki yerini almaya başladı."
+        "card_title": "Resmi Çıkış",
+        "card_body": "Google, uzun süredir beklenen Googlebook cihazlarını bu ayın başlarında resmi olarak piyasaya sürdü."
       }
     ]
   },
   "stat": {
-    "big_stat": "$899",
-    "stat_caption": "1000 Doların Altındaki Tek Model",
-    "stat_quote": "Acer's Googlebook 14 starts at $899 as the only Googlebook under $1,000."
+    "big_stat": "899$",
+    "stat_caption": "Piyasadaki en uygun fiyatlı Googlebook modeli olan Acer Googlebook 14'ün başlangıç fiyatı.",
+    "stat_quote": "Acer Googlebook 14, 899 dolarlık başlangıç fiyatıyla piyasadaki en ucuz Googlebook modelidir. - TechCrunch"
   },
   "details": {
-    "heading": "Model Detayları",
+    "heading": "Donanım Seçenekleri",
     "cards": [
       {
         "card_title": "ASUS Googlebook 14",
-        "card_body": "1.299 dolar fiyat etiketine sahip cihaz, 2.2 pound ağırlığında, Intel Core Ultra 5 çip, 16GB RAM ve 512GB depolama sunuyor."
-      },
-      {
-        "card_title": "Acer Googlebook 14",
-        "card_body": "899 dolardan başlayan fiyatıyla 1.000 doların altındaki tek Googlebook modeli olarak öne çıkıyor."
+        "card_body": "1.299 dolar fiyat etiketine sahip cihaz; Intel Core Ultra 5 işlemci, 16GB RAM ve 512GB depolama ile geliyor. Ağırlığı 2,2 pound."
       },
       {
         "card_title": "HP Googlebook 14",
-        "card_body": "HP'nin bu modeli gücünü Snapdragon X Elite X1E-80-100 işlemcisinden alıyor."
+        "card_body": "HP'nin bu modeli, gücünü Snapdragon X Elite X1E-80-100 işlemciden alıyor."
       }
     ]
   },
   "impact": {
-    "heading": "Pazar ve Kullanıcı Etkisi",
+    "heading": "Kullanıcı Deneyimi",
     "cards": [
       {
-        "card_title": "Donanım Çeşitliliği",
-        "card_body": "Intel ve Snapdragon işlemci seçenekleriyle kullanıcılara farklı performans alternatifleri sunuluyor."
+        "card_title": "Senkronizasyon Durumu",
+        "card_body": "Googlebook işletim sisteminde Chrome tarayıcıdaki sekme gruplarının senkronizasyonu henüz desteklenmemektedir."
       },
       {
-        "card_title": "Fiyat Aralığı",
-        "card_body": "Farklı bütçelere hitap eden 899 dolar ve 1.299 dolar gibi fiyat seviyeleri mevcut."
+        "card_title": "Piyasa Çeşitliliği",
+        "card_body": "Farklı işlemci mimarileri ve fiyat segmentleri ile kullanıcılar için geniş bir yelpaze sunuluyor."
       }
     ]
   },
   "cta": {
-    "question": "Yeni Googlebook modelleri arasında sizin favoriniz hangisi oldu?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeler için takipte kalın!"
+    "question": "Sizce Android tabanlı bir dizüstü bilgisayar, geleneksel ChromeOS deneyiminin yerini alabilir mi?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeler için Tekno Pusula'yı takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
