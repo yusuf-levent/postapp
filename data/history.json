@@ -2352,5 +2352,80 @@
     ],
     "created_at": "2026-10-29T21:45:19+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-10-30-0900",
+    "date": "2026-10-30",
+    "slot": "09:00",
+    "type": "news",
+    "title_tr": "Binance Sistemlerinde Büyük Hack Olayı",
+    "original_title": "Crypto giant Binance hit by 'largest hack in history'",
+    "source_urls": [
+      "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+    ],
+    "canonical_url": "https://bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=rss&at_campaign=rss",
+    "entities": [
+      "Binance",
+      "Bybit",
+      "TraderTraitor",
+      "TRM Labs",
+      "Ari Redbord",
+      "Chainalysis",
+      "Eric Jardine"
+    ],
+    "event_type": "cyberattack",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae42e6b56e01b97638b2201",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae42e82a83a7fb63c97ae24",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae42e996385db216a285518",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2116043394191392905",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18016900943985513",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfG3CESFnXd",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae42eba4b8768bfb2e0513e",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae42ed0a83a7fb63c97b53f",
+        "permalink": "https://facebook.com/1351036918092059_122119600509484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-30T08:45:02+03:00",
+    "verified_claims_count": 8
   }
 ]
