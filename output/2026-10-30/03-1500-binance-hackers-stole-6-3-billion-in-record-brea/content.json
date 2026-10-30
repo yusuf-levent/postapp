@@ -1,70 +1,69 @@
 {
   "cover": {
     "category_label": "GÜVENLİK",
-    "title": "BİNANCE PLATFORMUNDAN DEV KRİPTO SOYGUNU",
+    "title": "Binance'den 6.3 Milyar Dolarlık Fon Çalındı",
     "highlight_words": [
-      "DEV",
-      "KRİPTO",
-      "SOYGUNU"
+      "6.3 Milyar",
+      "Çalındı"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Kripto para tarihinin en büyük soygunu gerçekleşti.",
+    "subtitle": "Kripto dünyasının en büyük siber saldırılarından biri gerçekleşti.",
     "source_tags": [
       "THE VERGE",
       "WIRED"
     ]
   },
   "context": {
-    "heading": "OLAYIN ARKA PLANI",
+    "heading": "Saldırının Arka Planı",
     "cards": [
       {
-        "card_title": "Çalınan Tutar",
-        "card_body": "Binance platformundan 6.3 milyar dolar değerinde kripto fonu çalındı."
+        "card_title": "Nasıl Gerçekleşti?",
+        "card_body": "Binance, bir DevOps mühendisinin ele geçirilen dizüstü bilgisayarının saldırganın bir servis konteynerine erişmesine izin verdiğini açıkladı."
       },
       {
-        "card_title": "Güvenlik İhlali",
-        "card_body": "Binance, bir DevOps mühendisinin ele geçirilen dizüstü bilgisayarının saldırıda rol oynadığını bildirdi."
+        "card_title": "Şüpheli Grup",
+        "card_body": "Blokzincir analiz firmaları TRM ve Chainalysis saldırıyı Kuzey Koreli siber suç grubu TraderTraitor'a atfediyor."
       }
     ]
   },
   "stat": {
     "big_stat": "6.3 MİLYAR $",
-    "stat_caption": "Tarihin en büyük kripto soygunu olarak kayıtlara geçti.",
-    "stat_quote": "Geçen yıl Bybit'ten 1.46 milyar dolar çalınmıştı ve bu olay ondan dört kat daha büyük tarihin en büyük kripto soygunudur."
+    "stat_caption": "Binance platformundan çalınan toplam kripto fonu değeri.",
+    "stat_quote": "Bu hack olayı, geçen yıl Bybit'ten çalınan 1.46 milyar dolarlık rekorun dört katı büyüklüğündedir."
   },
   "details": {
-    "heading": "MÜDAHALE VE SORUMLULAR",
+    "heading": "Alınan Önlemler ve Rezervler",
     "cards": [
       {
         "card_title": "Dondurulan Varlıklar",
-        "card_body": "Çalınan varlıkların yaklaşık 3 milyar dolarlık kısmı şu ana kadar donduruldu."
+        "card_body": "Etkilenen varlıkların yaklaşık 3 milyar doları şu ana kadar donduruldu."
       },
       {
-        "card_title": "Saldırının Arkasındaki Grup",
-        "card_body": "Blokzincir analiz firmaları TRM ve Chainalysis, saldırıyı Kuzey Koreli siber suç grubu TraderTraitor'a atfetti."
+        "card_title": "Acil Durum Rezervi",
+        "card_body": "Binance, kullanıcı varlıklarını korumak için yaklaşık 1.3 milyar dolarlık acil durum rezerv fonuna sahip."
       },
       {
         "card_title": "Şirket Fonları",
-        "card_body": "Binance, olayı karşılamak için 6.34 milyar dolardan fazla şirket fonu ayırdığını açıkladı."
+        "card_body": "Binance, bu olayı karşılamak için 6.34 milyar dolardan fazla şirket fonu ayırdı ve bunun 5 milyar doları etkilenen token varlıkları olarak tutuluyor."
       }
     ]
   },
   "impact": {
-    "heading": "REZERVLER VE ÖNLEMLER",
+    "heading": "Sektördeki Etkiler",
     "cards": [
       {
-        "card_title": "Acil Durum Rezervi",
-        "card_body": "Binance, kullanıcı varlıklarını korumak için yaklaşık 1.3 milyar dolarlık acil durum rezerv fonuna sahip olduğunu belirtti."
+        "card_title": "Rekor Büyüklük",
+        "card_body": "Yaşanan bu olay, kripto tarihinde şimdiye kadar görülen en büyük fon kaybı olarak kayıtlara geçti."
       },
       {
-        "card_title": "Geçmiş Olaylar",
-        "card_body": "Binance, 2019 yılında 40 milyon dolar değerinde kripto varlığın çalındığı bir güvenlik ihlali yaşamıştı."
+        "card_title": "Geçmişteki İhlaller",
+        "card_body": "Binance 2019 yılında da bir güvenlik ihlali yaşamış ve o dönemki değerle 40 milyon dolar değerinde kripto varlık çalınmıştı."
       }
     ]
   },
   "cta": {
-    "question": "Büyük borsalardaki güvenlik açıkları hakkında ne düşünüyorsunuz?",
-    "reminder_line": "Teknoloji ve yapay zeka gündemi için takipte kalın."
+    "question": "Büyük borsalarda saklanan kripto varlıkların güvenliği hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
