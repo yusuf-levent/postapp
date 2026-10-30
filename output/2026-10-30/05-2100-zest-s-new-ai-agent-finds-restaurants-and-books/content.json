@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE TEKNOLOJI",
+    "title": "Zest'ten Kişisel Yapay Zeka Restoran Asistanı",
+    "highlight_words": [
+      "Yapay Zeka",
+      "Asistanı"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Metin mesajlarıyla çalışan yeni nesil restoran konsiyerj hizmeti duyuruldu.",
+    "source_tags": [
+      "TECHCRUNCH",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Zest Nedir ve Ne Zaman Kuruldu?",
+    "cards": [
+      {
+        "card_title": "Şirketin Kuruluşu",
+        "card_body": "Zest, Kasım 2024 tarihinde kuruldu ve Perşembe günü yeni bir özellik tanıttı."
+      },
+      {
+        "card_title": "Kurucu ve CEO",
+        "card_body": "Şirketin kurucusu ve CEO'su Mario Gomez-Hall olarak görev yapıyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "1.8 MİLYON $",
+    "stat_caption": "Şirketin aldığı pre-seed yatırım miktarı",
+    "stat_quote": "Zest, 776'dan Alexis Ohanian ve Kindred Ventures'tan Steve Jang'ın katılımıyla 1.8 milyon dolar yatırım aldı."
+  },
+  "details": {
+    "heading": "Asistan Nasıl Çalışıyor?",
+    "cards": [
+      {
+        "card_title": "Kredi Kartı Entegrasyonu",
+        "card_body": "Uygulama, kullanıcıların nerede yemek yediğini takip etmek için kredi kartlarına bağlanıyor."
+      },
+      {
+        "card_title": "Plaid Desteği",
+        "card_body": "Zest uygulamasının kullandığı kredi kartı verileri Plaid finansal hizmetler şirketi aracılığıyla içe aktarılıyor."
+      },
+      {
+        "card_title": "Rezervasyon Servisleri",
+        "card_body": "Zest; OpenTable, Resy ve SevenRooms gibi bağlı servisler üzerinden rezervasyon gerçekleştiriyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcılar İçin Yeni Deneyim",
+    "cards": [
+      {
+        "card_title": "Metin Mesajı İletişimi",
+        "card_body": "Kullanıcılar, Zest konsiyerj hizmetine doğrudan (212) 470-6067 numarası üzerinden mesaj gönderebiliyor."
+      },
+      {
+        "card_title": "Kolay Konsiyerj",
+        "card_body": "Yapay zeka destekli bu kişisel restoran asistanı, kullanıcıların yemek ve rezervasyon süreçlerini kolaylaştırıyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Metin mesajlarıyla çalışan bir yapay zeka asistanı restoran seçim alışkanlıklarınızı nasıl değiştirirdi?",
+    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

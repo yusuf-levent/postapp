@@ -1,0 +1,301 @@
+{
+  "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+  "canonical_url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+  "source_names": [
+    "TechCrunch",
+    "Wired",
+    "OpenAI News",
+    "Engadget"
+  ],
+  "checked_at": "2026-10-30T20:53:19+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Zest introduced a new feature on Thursday: a personal AI-powered restaurant concierge that lives in text messages.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "On Thursday, the startup introduced a new feature: a personal AI-powered “restaurant concierge” that lives in your text messages, similar to other popular AI agents like Instinct or Poke."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "On Thursday, the startup introduced a new feature: a personal AI-powered “restaurant concierge” that lives in your text messages"
+        }
+      ]
+    },
+    {
+      "claim": "Zest founder and CEO is Mario Gomez-Hall.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "“The agent is the product now,” explains Zest founder and CEO Mario Gomez-Hall."
+        }
+      ]
+    },
+    {
+      "claim": "The company was originally founded in November 2024.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "Originally founded in November 2024, with $1.8 million in pre-seed backing from Alexis Ohanian at 776 and Steve Jang at Kindred Ventures, the app’s unique feature is that it links up with users’ credit cards to track where they’re actually eating out to get a sense of their tastes and interests."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "Originally founded in November 2024"
+        }
+      ]
+    },
+    {
+      "claim": "Zest received $1.8 million in pre-seed backing from Alexis Ohanian at 776 and Steve Jang at Kindred Ventures.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "Originally founded in November 2024, with $1.8 million in pre-seed backing from Alexis Ohanian at 776 and Steve Jang at Kindred Ventures, the app’s unique feature is that it links up with users’ credit cards to track where they’re actually eating out to get a sense of their tastes and interests."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "with $1.8 million in pre-seed backing from Alexis Ohanian at 776 and Steve Jang at Kindred Ventures"
+        }
+      ]
+    },
+    {
+      "claim": "The app links up with users’ credit cards to track where they are eating out.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "the app’s unique feature is that it links up with users’ credit cards to track where they’re actually eating out to get a sense of their tastes and interests."
+        }
+      ]
+    },
+    {
+      "claim": "The credit card data used by Zest’s app is imported via the financial services company Plaid.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "The credit card data used by Zest’s app is imported via the financial services company Plaid, which is used by banks and other fintech and budgeting apps."
+        }
+      ]
+    },
+    {
+      "claim": "Users can text the Zest concierge at (212) 470-6067.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "To work, users will text the Zest concierge at (212) 470-6067."
+        }
+      ]
+    },
+    {
+      "claim": "Zest makes reservations through connected services like OpenTable, Resy, and SevenRooms.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "It will now make its suggestions from inside a text message thread and can turn to AI to do things like check availability and make the reservation for you through connected services like OpenTable, Resy, and SevenRooms."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Zest introduced a new feature on Thursday: a personal AI-powered restaurant concierge that lives in text messages.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "On Thursday, the startup introduced a new feature: a personal AI-powered “restaurant concierge” that lives in your text messages, similar to other popular AI agents like Instinct or Poke."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "On Thursday, the startup introduced a new feature: a personal AI-powered “restaurant concierge” that lives in your text messages"
+        }
+      ]
+    },
+    {
+      "claim": "Zest founder and CEO is Mario Gomez-Hall.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "“The agent is the product now,” explains Zest founder and CEO Mario Gomez-Hall."
+        }
+      ]
+    },
+    {
+      "claim": "The company was originally founded in November 2024.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "Originally founded in November 2024, with $1.8 million in pre-seed backing from Alexis Ohanian at 776 and Steve Jang at Kindred Ventures, the app’s unique feature is that it links up with users’ credit cards to track where they’re actually eating out to get a sense of their tastes and interests."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "Originally founded in November 2024"
+        }
+      ]
+    },
+    {
+      "claim": "Zest received $1.8 million in pre-seed backing from Alexis Ohanian at 776 and Steve Jang at Kindred Ventures.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "Originally founded in November 2024, with $1.8 million in pre-seed backing from Alexis Ohanian at 776 and Steve Jang at Kindred Ventures, the app’s unique feature is that it links up with users’ credit cards to track where they’re actually eating out to get a sense of their tastes and interests."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "with $1.8 million in pre-seed backing from Alexis Ohanian at 776 and Steve Jang at Kindred Ventures"
+        }
+      ]
+    },
+    {
+      "claim": "The app links up with users’ credit cards to track where they are eating out.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "the app’s unique feature is that it links up with users’ credit cards to track where they’re actually eating out to get a sense of their tastes and interests."
+        }
+      ]
+    },
+    {
+      "claim": "The credit card data used by Zest’s app is imported via the financial services company Plaid.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "The credit card data used by Zest’s app is imported via the financial services company Plaid, which is used by banks and other fintech and budgeting apps."
+        }
+      ]
+    },
+    {
+      "claim": "Users can text the Zest concierge at (212) 470-6067.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "To work, users will text the Zest concierge at (212) 470-6067."
+        }
+      ]
+    },
+    {
+      "claim": "Zest makes reservations through connected services like OpenTable, Resy, and SevenRooms.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "It will now make its suggestions from inside a text message thread and can turn to AI to do things like check availability and make the reservation for you through connected services like OpenTable, Resy, and SevenRooms."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Zest introduced a new feature on Thursday: a personal AI-powered restaurant concierge that lives in text messages.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "On Thursday, the startup introduced a new feature: a personal AI-powered “restaurant concierge” that lives in your text messages, similar to other popular AI agents like Instinct or Poke."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "On Thursday, the startup introduced a new feature: a personal AI-powered “restaurant concierge” that lives in your text messages"
+        }
+      ]
+    },
+    {
+      "claim": "Zest founder and CEO is Mario Gomez-Hall.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "“The agent is the product now,” explains Zest founder and CEO Mario Gomez-Hall."
+        }
+      ]
+    },
+    {
+      "claim": "The company was originally founded in November 2024.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "Originally founded in November 2024, with $1.8 million in pre-seed backing from Alexis Ohanian at 776 and Steve Jang at Kindred Ventures, the app’s unique feature is that it links up with users’ credit cards to track where they’re actually eating out to get a sense of their tastes and interests."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "Originally founded in November 2024"
+        }
+      ]
+    },
+    {
+      "claim": "Zest received $1.8 million in pre-seed backing from Alexis Ohanian at 776 and Steve Jang at Kindred Ventures.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "Originally founded in November 2024, with $1.8 million in pre-seed backing from Alexis Ohanian at 776 and Steve Jang at Kindred Ventures, the app’s unique feature is that it links up with users’ credit cards to track where they’re actually eating out to get a sense of their tastes and interests."
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "with $1.8 million in pre-seed backing from Alexis Ohanian at 776 and Steve Jang at Kindred Ventures"
+        }
+      ]
+    },
+    {
+      "claim": "The app links up with users’ credit cards to track where they are eating out.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "the app’s unique feature is that it links up with users’ credit cards to track where they’re actually eating out to get a sense of their tastes and interests."
+        }
+      ]
+    },
+    {
+      "claim": "The credit card data used by Zest’s app is imported via the financial services company Plaid.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "The credit card data used by Zest’s app is imported via the financial services company Plaid, which is used by banks and other fintech and budgeting apps."
+        }
+      ]
+    },
+    {
+      "claim": "Users can text the Zest concierge at (212) 470-6067.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "To work, users will text the Zest concierge at (212) 470-6067."
+        }
+      ]
+    },
+    {
+      "claim": "Zest makes reservations through connected services like OpenTable, Resy, and SevenRooms.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "quote": "It will now make its suggestions from inside a text message thread and can turn to AI to do things like check availability and make the reservation for you through connected services like OpenTable, Resy, and SevenRooms."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/": 3964,
+    "https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business/": 6743,
+    "https://openai.com/index/community-safety-report-and-new-protections-for-teens": 7224,
+    "https://www.engadget.com/2301500/hacker-may-have-stolen-millions-in-a-malware-attack-against-online-poker-players/": 1955
+  }
+}
