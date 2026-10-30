@@ -4,3 +4,4 @@
 - ✅ `12:00` [news] Binance Yaklaşık 6,3 Milyar Dolar SİBER SALDIRIYA Uğradı — 6/6 platform
 - ✅ `15:00` [news] Binance'den 6.3 Milyar Dolarlık Fon Çalındı — 6/6 platform
 - ✅ `18:00` [edu] Death Stranding Evreni Genişliyor — 6/6 platform
+- ✅ `21:00` [news] Yapay Zeka Girişimi Crosby'den Büyük Hamle — 6/6 platform

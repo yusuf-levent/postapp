@@ -2644,5 +2644,85 @@
     ],
     "created_at": "2026-10-30T18:30:19+03:00",
     "verified_claims_count": 7
+  },
+  {
+    "id": "2026-10-30-2100",
+    "date": "2026-10-30",
+    "slot": "21:00",
+    "type": "news",
+    "title_tr": "Yapay Zeka Girişimi Crosby'den Büyük Hamle",
+    "original_title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+    "source_urls": [
+      "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/"
+    ],
+    "canonical_url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal",
+    "entities": [
+      "Crosby",
+      "Weil Gotshal & Manges",
+      "Willkie Farr & Gallagher",
+      "TechCrunch",
+      "The New York Times",
+      "The Information",
+      "Lux",
+      "Index",
+      "Sequoia",
+      "Elad Gil",
+      "01 Advisors",
+      "Bain Capital Ventures"
+    ],
+    "event_type": "acquisition_bid",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae4f6d8a11457434967b17c",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae4f6ef406ab8a0187cd7fb",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae4f6f1a11457434967b60e",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2116258512875516078",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18157425874515787",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfIY3QSnb6z",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae4f716fc1ac02b6ed98c1d",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae4f72da11457434967c284",
+        "permalink": "https://facebook.com/1351036918092059_122119758813484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-30T22:59:51+03:00",
+    "verified_claims_count": 5
   }
 ]
