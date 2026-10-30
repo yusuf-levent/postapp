@@ -2571,5 +2571,78 @@
     ],
     "created_at": "2026-10-30T15:01:04+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-10-30-1800",
+    "date": "2026-10-30",
+    "slot": "18:00",
+    "type": "edu",
+    "title_tr": "Death Stranding Evreni Genişliyor",
+    "original_title": "The Death Stranding anime's first teaser trailer arrives ahead of its Disney+ debut",
+    "source_urls": [
+      "https://www.engadget.com/2302296/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/"
+    ],
+    "canonical_url": "https://engadget.com/2302296/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut",
+    "entities": [
+      "Death Stranding",
+      "Disney+",
+      "Kojima Productions",
+      "Death Stranding Isolations",
+      "Sam Porter Bridges"
+    ],
+    "event_type": "trailer_release",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae4b7969394ea34c12042b5",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae4b7ad3faa32d97824044c",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae4b7c479ddf9a28a018f0f",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2116190679437119911",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18153858964485416",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfH6A5OmzIT",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae4b7e979ddf9a28a01a111",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae4b8019394ea34c1206d10",
+        "permalink": "https://facebook.com/1351036918092059_122119704531484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-30T18:30:19+03:00",
+    "verified_claims_count": 7
   }
 ]
