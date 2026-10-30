@@ -1,0 +1,70 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE UZAY",
+    "title": "Uyduları Veri Ağlarına Dönüştüren Girişim",
+    "highlight_words": [
+      "Uyduları",
+      "Veri",
+      "Ağlarına"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Satlyt, uyduları veri işleme ağlarına dönüştüren yazılımlar geliştiriyor.",
+    "source_tags": [
+      "TECHCRUNCH",
+      "ARS TECHNICA"
+    ]
+  },
+  "context": {
+    "heading": "Şirketin Arka Planı",
+    "cards": [
+      {
+        "card_title": "Kuruluş ve Kurucu",
+        "card_body": "Satlyt, daha önce Google ve SpaceX şirketlerinde çalışmış olan Rama Afullo tarafından 2024 yılında kurulmuştur."
+      },
+      {
+        "card_title": "NASA Projesi",
+        "card_body": "Şirket, NASA tarafından finanse edilen bir araştırma projesinde Houston Üniversitesi ile birlikte çalışmıştır."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "3",
+    "stat_caption": "Yazılımın halihazırda yörüngede bulunduğu uydu sayısı.",
+    "stat_quote": "Satlyt'in yazılımı yörüngedeki üç uyduda bulunuyor."
+  },
+  "details": {
+    "heading": "Son Test Sonuçları",
+    "cards": [
+      {
+        "card_title": "Test Senaryosu",
+        "card_body": "Gerçekleştirilen son testte simüle edilmiş bir ağ için dört bilgisayar, dört kullanıcı ve sekiz hizmet oluşturulmuştur."
+      },
+      {
+        "card_title": "Fiziksel Donanım",
+        "card_body": "Test sırasında yörüngedeki bir uzay aracında bulunan yalnızca bir fiziksel bilgisayar yazılımı çalıştırmıştır."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Yarışma Başarısı",
+    "cards": [
+      {
+        "card_title": "TechCrunch Disrupt",
+        "card_body": "Satlyt bu yıl TechCrunch Disrupt Battle yarışmasında ilk beş arasına girmiştir."
+      },
+      {
+        "card_title": "Yazılım Gücü",
+        "card_body": "Geliştirilen yazılımlar uyduları işlevsel veri işleme ağlarına dönüştürmektedir."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Uyduların birer veri işleme ağına dönüşmesi uzay teknolojilerini nasıl etkiler?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için bizi takip edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

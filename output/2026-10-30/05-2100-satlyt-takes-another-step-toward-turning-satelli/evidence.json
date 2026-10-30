@@ -1,0 +1,265 @@
+{
+  "title": "Satlyt takes another step toward turning satellites into space data centers",
+  "canonical_url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+  "source_names": [
+    "TechCrunch",
+    "Ars Technica",
+    "Engadget",
+    "BBC News – Technology"
+  ],
+  "checked_at": "2026-10-30T21:09:05+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Satlyt, uyduları veri işleme ağlarına dönüştüren yazılımlar geliştiren bir şirkettir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "quote": "His company, Satlyt, is building software to turn existing satellites into data processing networks, similar to the orbital data center concept."
+        }
+      ]
+    },
+    {
+      "claim": "Şirket, NASA tarafından finanse edilen bir araştırma projesinde Houston Üniversitesi ile birlikte çalışmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "quote": "Working with the University of Houston on a NASA-funded research project, the test showed how the startup’s software can spread out tasks among computers while in orbit based on communication and available compute."
+        }
+      ]
+    },
+    {
+      "claim": "Satlyt'in yazılımı halihazırda yörüngedeki üç uyduda bulunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "quote": "Its software is already on three satellites in orbit and the first step to that vision was this test."
+        }
+      ]
+    },
+    {
+      "claim": "Gerçekleştirilen son testte simüle edilmiş bir ağ için dört bilgisayar, dört kullanıcı ve sekiz hizmet oluşturulmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "quote": "In this test, the company created a simulated network with four computers, four users, and eight services."
+        }
+      ]
+    },
+    {
+      "claim": "Test sırasında yörüngedeki bir uzay aracında bulunan yalnızca bir fiziksel bilgisayar yazılımı çalıştırmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "quote": "Only one physical computer on a spacecraft in orbit ran the software — the other three were just simulations — eventually sending the results back to Earth."
+        }
+      ]
+    },
+    {
+      "claim": "Satlyt bu yıl TechCrunch Disrupt Battle yarışmasında ilk beş arasına girmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "quote": "Still, Satlyt which was in the top five of TechCrunch Disrupt Battle this year calls this a win."
+        }
+      ]
+    },
+    {
+      "claim": "Rama Afullo daha önce Google ve SpaceX şirketlerinde çalışmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "quote": "Afullo, who previously worked at Google and SpaceX, founded Satlyt in 2024 to turn spacecraft into virtual data centers."
+        }
+      ]
+    },
+    {
+      "claim": "Satlyt, Rama Afullo tarafından 2024 yılında kurulmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "quote": "Afullo, who previously worked at Google and SpaceX, founded Satlyt in 2024 to turn spacecraft into virtual data centers."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Satlyt, uyduları veri işleme ağlarına dönüştüren yazılımlar geliştiren bir şirkettir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "quote": "His company, Satlyt, is building software to turn existing satellites into data processing networks, similar to the orbital data center concept."
+        }
+      ]
+    },
+    {
+      "claim": "Şirket, NASA tarafından finanse edilen bir araştırma projesinde Houston Üniversitesi ile birlikte çalışmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "quote": "Working with the University of Houston on a NASA-funded research project, the test showed how the startup’s software can spread out tasks among computers while in orbit based on communication and available compute."
+        }
+      ]
+    },
+    {
+      "claim": "Satlyt'in yazılımı halihazırda yörüngedeki üç uyduda bulunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "quote": "Its software is already on three satellites in orbit and the first step to that vision was this test."
+        }
+      ]
+    },
+    {
+      "claim": "Gerçekleştirilen son testte simüle edilmiş bir ağ için dört bilgisayar, dört kullanıcı ve sekiz hizmet oluşturulmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "quote": "In this test, the company created a simulated network with four computers, four users, and eight services."
+        }
+      ]
+    },
+    {
+      "claim": "Test sırasında yörüngedeki bir uzay aracında bulunan yalnızca bir fiziksel bilgisayar yazılımı çalıştırmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "quote": "Only one physical computer on a spacecraft in orbit ran the software — the other three were just simulations — eventually sending the results back to Earth."
+        }
+      ]
+    },
+    {
+      "claim": "Satlyt bu yıl TechCrunch Disrupt Battle yarışmasında ilk beş arasına girmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "quote": "Still, Satlyt which was in the top five of TechCrunch Disrupt Battle this year calls this a win."
+        }
+      ]
+    },
+    {
+      "claim": "Rama Afullo daha önce Google ve SpaceX şirketlerinde çalışmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "quote": "Afullo, who previously worked at Google and SpaceX, founded Satlyt in 2024 to turn spacecraft into virtual data centers."
+        }
+      ]
+    },
+    {
+      "claim": "Satlyt, Rama Afullo tarafından 2024 yılında kurulmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "quote": "Afullo, who previously worked at Google and SpaceX, founded Satlyt in 2024 to turn spacecraft into virtual data centers."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Satlyt, uyduları veri işleme ağlarına dönüştüren yazılımlar geliştiren bir şirkettir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "quote": "His company, Satlyt, is building software to turn existing satellites into data processing networks, similar to the orbital data center concept."
+        }
+      ]
+    },
+    {
+      "claim": "Şirket, NASA tarafından finanse edilen bir araştırma projesinde Houston Üniversitesi ile birlikte çalışmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "quote": "Working with the University of Houston on a NASA-funded research project, the test showed how the startup’s software can spread out tasks among computers while in orbit based on communication and available compute."
+        }
+      ]
+    },
+    {
+      "claim": "Satlyt'in yazılımı halihazırda yörüngedeki üç uyduda bulunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "quote": "Its software is already on three satellites in orbit and the first step to that vision was this test."
+        }
+      ]
+    },
+    {
+      "claim": "Gerçekleştirilen son testte simüle edilmiş bir ağ için dört bilgisayar, dört kullanıcı ve sekiz hizmet oluşturulmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "quote": "In this test, the company created a simulated network with four computers, four users, and eight services."
+        }
+      ]
+    },
+    {
+      "claim": "Test sırasında yörüngedeki bir uzay aracında bulunan yalnızca bir fiziksel bilgisayar yazılımı çalıştırmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "quote": "Only one physical computer on a spacecraft in orbit ran the software — the other three were just simulations — eventually sending the results back to Earth."
+        }
+      ]
+    },
+    {
+      "claim": "Satlyt bu yıl TechCrunch Disrupt Battle yarışmasında ilk beş arasına girmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "quote": "Still, Satlyt which was in the top five of TechCrunch Disrupt Battle this year calls this a win."
+        }
+      ]
+    },
+    {
+      "claim": "Rama Afullo daha önce Google ve SpaceX şirketlerinde çalışmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "quote": "Afullo, who previously worked at Google and SpaceX, founded Satlyt in 2024 to turn spacecraft into virtual data centers."
+        }
+      ]
+    },
+    {
+      "claim": "Satlyt, Rama Afullo tarafından 2024 yılında kurulmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "quote": "Afullo, who previously worked at Google and SpaceX, founded Satlyt in 2024 to turn spacecraft into virtual data centers."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/": 4209,
+    "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/": 12576,
+    "https://www.engadget.com/2301934/general-motors-220-million-settle-multi-state-data-privacy-lawsuit/": 2770,
+    "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss": 2638
+  }
+}
