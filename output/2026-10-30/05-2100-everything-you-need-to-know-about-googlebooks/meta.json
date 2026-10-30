@@ -1,0 +1,10 @@
+{
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 195.7,
+  "candidates_tried": 1,
+  "gemini_calls": 17,
+  "canonical_url": "https://www.engadget.com/2302681/everything-you-need-to-know-about-googlebooks/",
+  "generated_at": "2026-10-30T22:10:35+03:00"
+}
