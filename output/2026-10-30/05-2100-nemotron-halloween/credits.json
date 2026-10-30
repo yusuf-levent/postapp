@@ -1,0 +1,16 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://cdn-uploads.huggingface.co/production/uploads/6ab2a746c7d0655b3d8dfbb9/fownH6rn05tSp1jDBTz8m.png",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-30/05-2100-nemotron-halloween/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "width": 1200,
+      "height": 648,
+      "alt_text": ""
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}

@@ -1,0 +1,68 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE TEKNOLOJİ",
+    "title": "MonsterHouse Sesli Asistan Sistemi",
+    "highlight_words": [
+      "MonsterHouse"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "NVIDIA teknolojileriyle güçlendirilen yeni nesil sesli asistan ve animasyon sistemi.",
+    "source_tags": [
+      "WIRED",
+      "GOOGLE BLOG"
+    ]
+  },
+  "context": {
+    "heading": "Sistemin Temel Bileşenleri",
+    "cards": [
+      {
+        "card_title": "Kullanılan Teknolojiler",
+        "card_body": "MonsterHouse, NVIDIA Nemotron Voice Agent, Nemotron ASR, Nemotron 3.5 Bolt E4B 4GB, Magpie TTS Zeroshot ve Audio2Face-3D kullanılarak tek bir iş istasyonunda çalıştırılmaktadır."
+      },
+      {
+        "card_title": "Konuşma Tanıma",
+        "card_body": "Sistemde konuşma tanıma işlemi için NVIDIA Nemotron Speech ASR kullanılmaktadır."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "1.70 SN",
+    "stat_caption": "Konuşma sonundan ses çıkışına kadar geçen ortalama süre",
+    "stat_quote": "Bolt Q4 ve TTS ile ortalama konuşma sonundan ses çıkışına kadar geçen süre 1.70 saniyedir."
+  },
+  "details": {
+    "heading": "Teknik Detaylar ve Animasyon",
+    "cards": [
+      {
+        "card_title": "Yüz Animasyonu",
+        "card_body": "Karakterin yüz animasyonu Unreal Engine 5 içinde NVIDIA Audio2Face-3D ile oluşturulmaktadır."
+      },
+      {
+        "card_title": "Ziyaretçi Takibi",
+        "card_body": "Ziyaretçileri saymak ve takip etmek için YOLO ve ByteTrack modelleri kullanılmaktadır."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etki",
+    "cards": [
+      {
+        "card_title": "Gerçek Zamanlı Performans",
+        "card_body": "Tek iş istasyonunda çalışan bu entegre sistem, sesli asistan teknolojilerinde hız ve verimlilik sunuyor."
+      },
+      {
+        "card_title": "Gelişmiş Etkileşim",
+        "card_body": "Unreal Engine 5 ve Audio2Face-3D entegrasyonu ile karakter animasyonlarında gerçekçilik artırılıyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Tek iş istasyonunda çalışan bu tarz yapay zeka asistanları gelecekte nerelerde kullanılabilir?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

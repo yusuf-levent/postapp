@@ -1,0 +1,218 @@
+{
+  "title": "nemotron-halloween",
+  "canonical_url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+  "source_names": [
+    "Hugging Face Blog",
+    "Wired",
+    "Google Blog"
+  ],
+  "checked_at": "2026-10-30T20:57:37+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "MonsterHouse, NVIDIA Nemotron Voice Agent, Nemotron ASR, Nemotron 3.5 Bolt E4B 4GB, Magpie TTS Zeroshot ve Audio2Face-3D kullanılarak tek bir iş istasyonunda çalıştırılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "quote": "He is built on the NVIDIA Nemotron Voice Agent with NVIDIA Nemotron ASR, Nemotron 3.5 Bolt E4B 4GB, Magpie TTS Zeroshot and Audio2Face-3D, and he runs on a single workstation."
+        }
+      ]
+    },
+    {
+      "claim": "Sistemde konuşma tanıma için NVIDIA Nemotron Speech ASR kullanılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "quote": "Listening: NVIDIA Nemotron Speech ASR turns visitor speech into text."
+        }
+      ]
+    },
+    {
+      "claim": "Karakterin yüz animasyonu Unreal Engine 5 içinde NVIDIA Audio2Face-3D ile oluşturulmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "quote": "Animating: NVIDIA Audio2Face-3D turns clean speech into mouth animation in Unreal Engine 5."
+        }
+      ]
+    },
+    {
+      "claim": "Görsel bağlam sağlamak ve kostümleri tanımlamak için NVIDIA Nemotron 3 Nano Omni VLM kullanılmaktadır.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Ziyaretçileri saymak ve takip etmek için YOLO ve ByteTrack modelleri kullanılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "quote": "Seeing: NVIDIA Nemotron 3 Nano Omni describes costumes, while YOLO and ByteTrack count and track visitors."
+        }
+      ]
+    },
+    {
+      "claim": "Dil ve ses modeli pipeline'ı bir NVIDIA RTX PRO 6000 Blackwell Max-Q üzerinde çalışmaktadır.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Unreal Engine grafikleri ve Audio2Face-3D bir NVIDIA RTX PRO 4000 Blackwell üzerinde çalışmaktadır.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Bolt Q4 ve TTS ile ortalama konuşma sonundan ses çıkışına kadar geçen süre 1.70 saniyedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "quote": "median end-of-speech-to-audio with Bolt Q4 & TTS = 1.70 seconds"
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "MonsterHouse, NVIDIA Nemotron Voice Agent, Nemotron ASR, Nemotron 3.5 Bolt E4B 4GB, Magpie TTS Zeroshot ve Audio2Face-3D kullanılarak tek bir iş istasyonunda çalıştırılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "quote": "He is built on the NVIDIA Nemotron Voice Agent with NVIDIA Nemotron ASR, Nemotron 3.5 Bolt E4B 4GB, Magpie TTS Zeroshot and Audio2Face-3D, and he runs on a single workstation."
+        }
+      ]
+    },
+    {
+      "claim": "Sistemde konuşma tanıma için NVIDIA Nemotron Speech ASR kullanılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "quote": "Listening: NVIDIA Nemotron Speech ASR turns visitor speech into text."
+        }
+      ]
+    },
+    {
+      "claim": "Karakterin yüz animasyonu Unreal Engine 5 içinde NVIDIA Audio2Face-3D ile oluşturulmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "quote": "Animating: NVIDIA Audio2Face-3D turns clean speech into mouth animation in Unreal Engine 5."
+        }
+      ]
+    },
+    {
+      "claim": "Görsel bağlam sağlamak ve kostümleri tanımlamak için NVIDIA Nemotron 3 Nano Omni VLM kullanılmaktadır.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Ziyaretçileri saymak ve takip etmek için YOLO ve ByteTrack modelleri kullanılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "quote": "Seeing: NVIDIA Nemotron 3 Nano Omni describes costumes, while YOLO and ByteTrack count and track visitors."
+        }
+      ]
+    },
+    {
+      "claim": "Dil ve ses modeli pipeline'ı bir NVIDIA RTX PRO 6000 Blackwell Max-Q üzerinde çalışmaktadır.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Unreal Engine grafikleri ve Audio2Face-3D bir NVIDIA RTX PRO 4000 Blackwell üzerinde çalışmaktadır.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Bolt Q4 ve TTS ile ortalama konuşma sonundan ses çıkışına kadar geçen süre 1.70 saniyedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "quote": "median end-of-speech-to-audio with Bolt Q4 & TTS = 1.70 seconds"
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "MonsterHouse, NVIDIA Nemotron Voice Agent, Nemotron ASR, Nemotron 3.5 Bolt E4B 4GB, Magpie TTS Zeroshot ve Audio2Face-3D kullanılarak tek bir iş istasyonunda çalıştırılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "quote": "He is built on the NVIDIA Nemotron Voice Agent with NVIDIA Nemotron ASR, Nemotron 3.5 Bolt E4B 4GB, Magpie TTS Zeroshot and Audio2Face-3D, and he runs on a single workstation."
+        }
+      ]
+    },
+    {
+      "claim": "Sistemde konuşma tanıma için NVIDIA Nemotron Speech ASR kullanılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "quote": "Listening: NVIDIA Nemotron Speech ASR turns visitor speech into text."
+        }
+      ]
+    },
+    {
+      "claim": "Karakterin yüz animasyonu Unreal Engine 5 içinde NVIDIA Audio2Face-3D ile oluşturulmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "quote": "Animating: NVIDIA Audio2Face-3D turns clean speech into mouth animation in Unreal Engine 5."
+        }
+      ]
+    },
+    {
+      "claim": "Görsel bağlam sağlamak ve kostümleri tanımlamak için NVIDIA Nemotron 3 Nano Omni VLM kullanılmaktadır.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Ziyaretçileri saymak ve takip etmek için YOLO ve ByteTrack modelleri kullanılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "quote": "Seeing: NVIDIA Nemotron 3 Nano Omni describes costumes, while YOLO and ByteTrack count and track visitors."
+        }
+      ]
+    },
+    {
+      "claim": "Dil ve ses modeli pipeline'ı bir NVIDIA RTX PRO 6000 Blackwell Max-Q üzerinde çalışmaktadır.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Unreal Engine grafikleri ve Audio2Face-3D bir NVIDIA RTX PRO 4000 Blackwell üzerinde çalışmaktadır.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Bolt Q4 ve TTS ile ortalama konuşma sonundan ses çıkışına kadar geçen süre 1.70 saniyedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "quote": "median end-of-speech-to-audio with Bolt Q4 & TTS = 1.70 seconds"
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://huggingface.co/blog/nvidia/nemotron-halloween": 14109,
+    "https://www.wired.com/story/ego-blower-sale-tp-cannon-october-2026/": 3827,
+    "https://blog.google/products-and-platforms/products/photos/halloween-tricks-2026/": 978
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 160.8,
+  "candidates_tried": 1,
+  "gemini_calls": 10,
+  "canonical_url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+  "generated_at": "2026-10-30T20:59:49+03:00"
+}
