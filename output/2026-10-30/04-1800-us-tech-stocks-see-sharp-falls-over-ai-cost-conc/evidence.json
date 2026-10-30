@@ -3,30 +3,16 @@
   "canonical_url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
   "source_names": [
     "BBC News – Technology",
+    "NVIDIA Newsroom",
     "The Verge",
-    "Engadget",
-    "TechCrunch"
+    "Engadget"
   ],
-  "checked_at": "2026-10-30T17:52:43+03:00",
+  "checked_at": "2026-10-30T18:08:11+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "ABD teknoloji hisseleri, yapay zeka yatırım maliyetlerindeki artış endişeleri nedeniyle keskin düşüşler yaşadı.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-          "quote": "US tech stocks see sharp falls over AI cost concerns"
-        },
-        {
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-          "quote": "US stocks have continued to slide as concerns continue to intensify over the increasing costs of the artificial intelligence (AI) build out."
-        }
-      ]
-    },
-    {
-      "claim": "Intel hisseleri, zayıf bilgisayar pazarı uyarısı ve yapay zeka harcamalarını artırma planı sonrasında %30'a varan oranda düştü.",
+      "claim": "Intel shares fell as much as 30% after the chip maker warned of a weaker computer market and increased spending on AI.",
       "verdict": "supported",
       "evidence": [
         {
@@ -36,7 +22,7 @@
       ]
     },
     {
-      "claim": "Amazon hisseleri, Perşembe akşamı açıklanan kazançların yatırımcı beklentilerinin altında kalmasıyla %6'ya kadar geriledi.",
+      "claim": "Amazon shares fell as far as 6% after its reported earnings on Thursday evening fell short of investors' expectations.",
       "verdict": "supported",
       "evidence": [
         {
@@ -46,7 +32,7 @@
       ]
     },
     {
-      "claim": "Teknoloji ağırlıklı Nasdaq borsa endeksi Cuma günü %2,5 düşüşle iki ayın en düşük seviyesinden açıldı.",
+      "claim": "The tech-heavy Nasdaq stock exchange opened on Friday down 2.5% at its lowest level in more than two months.",
       "verdict": "supported",
       "evidence": [
         {
@@ -60,43 +46,59 @@
       ]
     },
     {
-      "claim": "Reddit ve Roblox gibi diğer teknoloji hisseleri de düşüş kaydetti.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-          "quote": "as other tech stocks including Reddit and Roblox continued to fall."
-        }
-      ]
-    },
-    {
-      "claim": "Google'ın sahibi Alphabet'in piyasa değeri, yapay zeka özetlerinin arama reklamı gelirini etkilediğini açıklamasının ardından Perşembe günü 500 milyar dolardan fazla düştü.",
+      "claim": "Google owner Alphabet plunged by more than $500bn in value on Thursday after revealing AI summaries affected its core search advertising revenue.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
           "quote": "The losses follow the value of Google owner Alphabet plunging by more than $500bn on Thursday after it revealed its own AI summaries were affecting its core search advertising revenue."
+        }
+      ]
+    },
+    {
+      "claim": "Alphabet stock continued to fall in early trading on Friday, down 1%.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "quote": "Alphabet stock continued to fall in early trading, down 1% after Thursday's massive slide."
+        }
+      ]
+    },
+    {
+      "claim": "Intel was on track to lose more than $130bn in value following its earnings update.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "quote": "The bigger losses on Friday were elsewhere, with Intel on track to lose more than $130bn in value after its earnings update rattled investors."
+        }
+      ]
+    },
+    {
+      "claim": "Intel's finance chief David Zinsner stated on Thursday that the firm did not expect positive cash flow this year and forecast lower-than-expected revenue for the fourth quarter.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "quote": "On Thursday, Intel's finance chief David Zinsner said the firm did not expect positive cash flow this year, and forecast lower-than-expected revenue for its fourth quarter."
+        }
+      ]
+    },
+    {
+      "claim": "David Zinsner stated that the PC slowdown is expected to continue at least through the first half of next year.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "quote": "\"Looking ahead, we see the PC slowdown continuing at least through the first half of next year,\" he said in the chip maker's third quarter earnings report."
         }
       ]
     }
   ],
   "round1": [
     {
-      "claim": "ABD teknoloji hisseleri, yapay zeka yatırım maliyetlerindeki artış endişeleri nedeniyle keskin düşüşler yaşadı.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-          "quote": "US tech stocks see sharp falls over AI cost concerns"
-        },
-        {
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-          "quote": "US stocks have continued to slide as concerns continue to intensify over the increasing costs of the artificial intelligence (AI) build out."
-        }
-      ]
-    },
-    {
-      "claim": "Intel hisseleri, zayıf bilgisayar pazarı uyarısı ve yapay zeka harcamalarını artırma planı sonrasında %30'a varan oranda düştü.",
+      "claim": "Intel shares fell as much as 30% after the chip maker warned of a weaker computer market and increased spending on AI.",
       "verdict": "supported",
       "evidence": [
         {
@@ -106,7 +108,7 @@
       ]
     },
     {
-      "claim": "Amazon hisseleri, Perşembe akşamı açıklanan kazançların yatırımcı beklentilerinin altında kalmasıyla %6'ya kadar geriledi.",
+      "claim": "Amazon shares fell as far as 6% after its reported earnings on Thursday evening fell short of investors' expectations.",
       "verdict": "supported",
       "evidence": [
         {
@@ -116,7 +118,7 @@
       ]
     },
     {
-      "claim": "Teknoloji ağırlıklı Nasdaq borsa endeksi Cuma günü %2,5 düşüşle iki ayın en düşük seviyesinden açıldı.",
+      "claim": "The tech-heavy Nasdaq stock exchange opened on Friday down 2.5% at its lowest level in more than two months.",
       "verdict": "supported",
       "evidence": [
         {
@@ -130,43 +132,59 @@
       ]
     },
     {
-      "claim": "Reddit ve Roblox gibi diğer teknoloji hisseleri de düşüş kaydetti.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-          "quote": "as other tech stocks including Reddit and Roblox continued to fall."
-        }
-      ]
-    },
-    {
-      "claim": "Google'ın sahibi Alphabet'in piyasa değeri, yapay zeka özetlerinin arama reklamı gelirini etkilediğini açıklamasının ardından Perşembe günü 500 milyar dolardan fazla düştü.",
+      "claim": "Google owner Alphabet plunged by more than $500bn in value on Thursday after revealing AI summaries affected its core search advertising revenue.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
           "quote": "The losses follow the value of Google owner Alphabet plunging by more than $500bn on Thursday after it revealed its own AI summaries were affecting its core search advertising revenue."
+        }
+      ]
+    },
+    {
+      "claim": "Alphabet stock continued to fall in early trading on Friday, down 1%.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "quote": "Alphabet stock continued to fall in early trading, down 1% after Thursday's massive slide."
+        }
+      ]
+    },
+    {
+      "claim": "Intel was on track to lose more than $130bn in value following its earnings update.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "quote": "The bigger losses on Friday were elsewhere, with Intel on track to lose more than $130bn in value after its earnings update rattled investors."
+        }
+      ]
+    },
+    {
+      "claim": "Intel's finance chief David Zinsner stated on Thursday that the firm did not expect positive cash flow this year and forecast lower-than-expected revenue for the fourth quarter.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "quote": "On Thursday, Intel's finance chief David Zinsner said the firm did not expect positive cash flow this year, and forecast lower-than-expected revenue for its fourth quarter."
+        }
+      ]
+    },
+    {
+      "claim": "David Zinsner stated that the PC slowdown is expected to continue at least through the first half of next year.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "quote": "\"Looking ahead, we see the PC slowdown continuing at least through the first half of next year,\" he said in the chip maker's third quarter earnings report."
         }
       ]
     }
   ],
   "round2": [
     {
-      "claim": "ABD teknoloji hisseleri, yapay zeka yatırım maliyetlerindeki artış endişeleri nedeniyle keskin düşüşler yaşadı.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-          "quote": "US tech stocks see sharp falls over AI cost concerns"
-        },
-        {
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-          "quote": "US stocks have continued to slide as concerns continue to intensify over the increasing costs of the artificial intelligence (AI) build out."
-        }
-      ]
-    },
-    {
-      "claim": "Intel hisseleri, zayıf bilgisayar pazarı uyarısı ve yapay zeka harcamalarını artırma planı sonrasında %30'a varan oranda düştü.",
+      "claim": "Intel shares fell as much as 30% after the chip maker warned of a weaker computer market and increased spending on AI.",
       "verdict": "supported",
       "evidence": [
         {
@@ -176,7 +194,7 @@
       ]
     },
     {
-      "claim": "Amazon hisseleri, Perşembe akşamı açıklanan kazançların yatırımcı beklentilerinin altında kalmasıyla %6'ya kadar geriledi.",
+      "claim": "Amazon shares fell as far as 6% after its reported earnings on Thursday evening fell short of investors' expectations.",
       "verdict": "supported",
       "evidence": [
         {
@@ -186,7 +204,7 @@
       ]
     },
     {
-      "claim": "Teknoloji ağırlıklı Nasdaq borsa endeksi Cuma günü %2,5 düşüşle iki ayın en düşük seviyesinden açıldı.",
+      "claim": "The tech-heavy Nasdaq stock exchange opened on Friday down 2.5% at its lowest level in more than two months.",
       "verdict": "supported",
       "evidence": [
         {
@@ -200,17 +218,7 @@
       ]
     },
     {
-      "claim": "Reddit ve Roblox gibi diğer teknoloji hisseleri de düşüş kaydetti.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-          "quote": "as other tech stocks including Reddit and Roblox continued to fall."
-        }
-      ]
-    },
-    {
-      "claim": "Google'ın sahibi Alphabet'in piyasa değeri, yapay zeka özetlerinin arama reklamı gelirini etkilediğini açıklamasının ardından Perşembe günü 500 milyar dolardan fazla düştü.",
+      "claim": "Google owner Alphabet plunged by more than $500bn in value on Thursday after revealing AI summaries affected its core search advertising revenue.",
       "verdict": "supported",
       "evidence": [
         {
@@ -218,12 +226,52 @@
           "quote": "The losses follow the value of Google owner Alphabet plunging by more than $500bn on Thursday after it revealed its own AI summaries were affecting its core search advertising revenue."
         }
       ]
+    },
+    {
+      "claim": "Alphabet stock continued to fall in early trading on Friday, down 1%.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "quote": "Alphabet stock continued to fall in early trading, down 1% after Thursday's massive slide."
+        }
+      ]
+    },
+    {
+      "claim": "Intel was on track to lose more than $130bn in value following its earnings update.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "quote": "The bigger losses on Friday were elsewhere, with Intel on track to lose more than $130bn in value after its earnings update rattled investors."
+        }
+      ]
+    },
+    {
+      "claim": "Intel's finance chief David Zinsner stated on Thursday that the firm did not expect positive cash flow this year and forecast lower-than-expected revenue for the fourth quarter.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "quote": "On Thursday, Intel's finance chief David Zinsner said the firm did not expect positive cash flow this year, and forecast lower-than-expected revenue for its fourth quarter."
+        }
+      ]
+    },
+    {
+      "claim": "David Zinsner stated that the PC slowdown is expected to continue at least through the first half of next year.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "quote": "\"Looking ahead, we see the PC slowdown continuing at least through the first half of next year,\" he said in the chip maker's third quarter earnings report."
+        }
+      ]
     }
   ],
   "source_texts": {
-    "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss": 907,
+    "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss": 1661,
+    "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/": 3249,
     "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer": 6163,
-    "https://www.engadget.com/2301498/lenovo-googlebook-15-review/": 11971,
-    "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/": 2092
+    "https://www.engadget.com/2301498/lenovo-googlebook-15-review/": 11971
   }
 }

@@ -1,123 +1,122 @@
 {
   "cover": {
-    "category_label": "TEKNOLOJİ PİYASALARI",
-    "title": "Yapay Zeka Maliyetleri Teknoloji Hisselerini Nasıl Vurdu?",
+    "category_label": "TEKNOLOJİ GÜNDEMİ",
+    "title": "Teknoloji Devlerinde Büyük Düşüş",
     "highlight_words": [
-      "Yapay Zeka",
-      "Maliyetleri"
+      "Büyük",
+      "Düşüş"
     ],
     "highlight_color": "yellow",
-    "subtitle": "ABD teknoloji piyasalarındaki son düşüşlerin arkasındaki doğrulanmış gelişmeler.",
+    "subtitle": "Intel, Amazon ve Alphabet hisselerindeki son gelişmeler.",
     "source_tags": [
       "BBC News",
       "The Verge",
-      "Engadget",
-      "TechCrunch"
+      "Engadget"
     ]
   },
   "problem": {
-    "heading": "Piyasalarda Yapay Zeka Endişesi",
+    "heading": "Piyasalar Neden Sarsıldı?",
     "cards": [
       {
-        "card_title": "Yatırım Maliyetleri",
-        "card_body": "ABD teknoloji hisseleri, yapay zeka yatırım maliyetlerindeki artış endişeleri nedeniyle keskin düşüşler yaşadı."
+        "card_title": "Nasdaq Düşüşte",
+        "card_body": "Teknoloji ağırlıklı Nasdaq borsa endeksi Cuma günü yüzde 2.5 düşüşle iki ayı aşkın sürenin en düşük seviyesinden açıldı."
       },
       {
-        "card_title": "Nasdaq Endeksi",
-        "card_body": "Teknoloji ağırlıklı Nasdaq borsa endeksi Cuma günü %2,5 düşüşle iki ayın en düşük seviyesinden açıldı."
+        "card_title": "Yatırımcı Beklentileri",
+        "card_body": "Şirketlerin bilançoları ve geleceğe yönelik öngörüleri yatırımcı beklentilerinin altında kaldı."
       }
     ],
     "code_block": ""
   },
   "steps": [
     {
-      "heading": "Intel ve Amazon'daki Düşüşler",
+      "heading": "Intel'de Zayıf Pazar ve Yapay Zeka Giderleri",
       "cards": [
         {
-          "card_title": "Intel",
-          "card_body": "Intel hisseleri, zayıf bilgisayar pazarı uyarısı ve yapay zeka harcamalarını artırma planı sonrasında %30'a varan oranda düştü."
+          "card_title": "Yüzde 30'a Varan Düşüş",
+          "card_body": "Bilgisayar pazarının zayıflayacağı ve yapay zeka harcamalarının artacağı uyarısının ardından Intel hisseleri yüzde 30'a varan oranda düştü."
         },
         {
-          "card_title": "Amazon",
-          "card_body": "Amazon hisseleri, Perşembe akşamı açıklanan kazançların yatırımcı beklentilerinin altında kalmasıyla %6'ya kadar geriledi."
+          "card_title": "Değer Kaybı",
+          "card_body": "Çip üreticisi Intel, kazanç güncellemesinin ardından 130 milyar doların üzerinde değer kaybetme yoluna girdi."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "Alphabet ve Diğer Şirketler",
+      "heading": "Intel Finans Direktörünün Açıklamaları",
       "cards": [
         {
-          "card_title": "Alphabet (Google)",
-          "card_body": "Alphabet'in piyasa değeri, yapay zeka özetlerinin arama reklamı gelirini etkilediğini açıklamasının ardından Perşembe günü 500 milyar dolardan fazla düştü."
+          "card_title": "Nakit Akışı ve Beklentiler",
+          "card_body": "Intel finans şefi David Zinsner, Perşembe günü şirketin bu yıl pozitif nakit akışı beklemediğini ve dördüncü çeyrek için beklenenden düşük gelir öngördüğünü belirtti."
         },
         {
-          "card_title": "Diğer Hisseler",
-          "card_body": "Reddit ve Roblox gibi diğer teknoloji hisseleri de bu süreçte düşüş kaydetti."
+          "card_title": "PC Pazarındaki Yavaşlama",
+          "card_body": "David Zinsner, bilgisayar pazarındaki yavaşlamanın gelecek yılın ilk yarısının sonuna kadar devam etmesinin beklendiğini ifade etti."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "Piyasa Takibi ve Özet",
+      "heading": "Alphabet ve Amazon'daki Son Durum",
       "cards": [
         {
-          "card_title": "Maliyet Dengesi",
-          "card_body": "Yapay zeka teknolojilerine yapılan yüksek harcamalar ve altyapı maliyetleri, şirketlerin finansal raporlarına doğrudan yansıyor."
+          "card_title": "Alphabet Değer Kaybı",
+          "card_body": "Google'ın sahibi Alphabet, yapay zeka özetlerinin temel arama reklamcılığı gelirini etkilediğini açıklamasının ardından Perşembe günü 500 milyar dolardan fazla değer kaybetti."
         },
         {
-          "card_title": "Yatırımcı Beklentileri",
-          "card_body": "Beklentilerin altında kalan kazanç raporları ve reklam gelirlerindeki değişimler piyasalarda dalgalanma yaratıyor."
+          "card_title": "Amazon Bilançosu",
+          "card_body": "Perşembe akşamı açıkladığı kazançların yatırımcı beklentilerinin altında kalmasının ardından Amazon hisseleri yüzde 6'ya varan oranda düştü."
         }
       ],
       "code_block": ""
     }
   ],
   "cta": {
-    "question": "Sizce yapay zeka yatırımlarının maliyeti kısa vadede teknolojideki bu dalgalanmayı nasıl etkileyecek?",
-    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki tarafsız gelişmeler için Tekno Pusula'yı takipte kalın!"
+    "question": "Teknoloji devlerinin yapay zeka odaklı harcamaları hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Doğrulanmış teknoloji haberleri için Tekno Pusula'yı takipte kalın!"
   },
   "context": {
-    "heading": "Piyasalarda Yapay Zeka Endişesi",
+    "heading": "Piyasalar Neden Sarsıldı?",
     "cards": [
       {
-        "card_title": "Yatırım Maliyetleri",
-        "card_body": "ABD teknoloji hisseleri, yapay zeka yatırım maliyetlerindeki artış endişeleri nedeniyle keskin düşüşler yaşadı."
+        "card_title": "Nasdaq Düşüşte",
+        "card_body": "Teknoloji ağırlıklı Nasdaq borsa endeksi Cuma günü yüzde 2.5 düşüşle iki ayı aşkın sürenin en düşük seviyesinden açıldı."
       },
       {
-        "card_title": "Nasdaq Endeksi",
-        "card_body": "Teknoloji ağırlıklı Nasdaq borsa endeksi Cuma günü %2,5 düşüşle iki ayın en düşük seviyesinden açıldı."
+        "card_title": "Yatırımcı Beklentileri",
+        "card_body": "Şirketlerin bilançoları ve geleceğe yönelik öngörüleri yatırımcı beklentilerinin altında kaldı."
       }
     ]
   },
   "stat": {
     "big_stat": "💡",
-    "stat_caption": "Intel ve Amazon'daki Düşüşler",
+    "stat_caption": "Intel'de Zayıf Pazar ve Yapay Zeka Giderleri",
     "stat_quote": ""
   },
   "details": {
-    "heading": "Alphabet ve Diğer Şirketler",
+    "heading": "Intel Finans Direktörünün Açıklamaları",
     "cards": [
       {
-        "card_title": "Alphabet (Google)",
-        "card_body": "Alphabet'in piyasa değeri, yapay zeka özetlerinin arama reklamı gelirini etkilediğini açıklamasının ardından Perşembe günü 500 milyar dolardan fazla düştü."
+        "card_title": "Nakit Akışı ve Beklentiler",
+        "card_body": "Intel finans şefi David Zinsner, Perşembe günü şirketin bu yıl pozitif nakit akışı beklemediğini ve dördüncü çeyrek için beklenenden düşük gelir öngördüğünü belirtti."
       },
       {
-        "card_title": "Diğer Hisseler",
-        "card_body": "Reddit ve Roblox gibi diğer teknoloji hisseleri de bu süreçte düşüş kaydetti."
+        "card_title": "PC Pazarındaki Yavaşlama",
+        "card_body": "David Zinsner, bilgisayar pazarındaki yavaşlamanın gelecek yılın ilk yarısının sonuna kadar devam etmesinin beklendiğini ifade etti."
       }
     ]
   },
   "impact": {
-    "heading": "Piyasa Takibi ve Özet",
+    "heading": "Alphabet ve Amazon'daki Son Durum",
     "cards": [
       {
-        "card_title": "Maliyet Dengesi",
-        "card_body": "Yapay zeka teknolojilerine yapılan yüksek harcamalar ve altyapı maliyetleri, şirketlerin finansal raporlarına doğrudan yansıyor."
+        "card_title": "Alphabet Değer Kaybı",
+        "card_body": "Google'ın sahibi Alphabet, yapay zeka özetlerinin temel arama reklamcılığı gelirini etkilediğini açıklamasının ardından Perşembe günü 500 milyar dolardan fazla değer kaybetti."
       },
       {
-        "card_title": "Yatırımcı Beklentileri",
-        "card_body": "Beklentilerin altında kalan kazanç raporları ve reklam gelirlerindeki değişimler piyasalarda dalgalanma yaratıyor."
+        "card_title": "Amazon Bilançosu",
+        "card_body": "Perşembe akşamı açıkladığı kazançların yatırımcı beklentilerinin altında kalmasının ardından Amazon hisseleri yüzde 6'ya varan oranda düştü."
       }
     ]
   },

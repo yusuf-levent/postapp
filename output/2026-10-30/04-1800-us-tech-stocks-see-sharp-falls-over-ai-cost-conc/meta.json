@@ -2,9 +2,9 @@
   "slot": "18:00",
   "type": "edu",
   "model": "gemini-3.5-flash-lite",
-  "duration_seconds": 230.4,
+  "duration_seconds": 179.1,
   "candidates_tried": 1,
-  "gemini_calls": 11,
+  "gemini_calls": 12,
   "canonical_url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-  "generated_at": "2026-10-30T17:55:51+03:00"
+  "generated_at": "2026-10-30T18:09:42+03:00"
 }
