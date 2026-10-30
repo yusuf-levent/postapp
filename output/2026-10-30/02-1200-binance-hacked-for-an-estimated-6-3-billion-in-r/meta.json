@@ -1,0 +1,10 @@
+{
+  "slot": "12:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 110.2,
+  "candidates_tried": 1,
+  "gemini_calls": 18,
+  "canonical_url": "https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/",
+  "generated_at": "2026-10-30T11:43:08+03:00"
+}
