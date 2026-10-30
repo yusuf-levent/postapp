@@ -1,0 +1,10 @@
+{
+  "slot": "15:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 133.5,
+  "candidates_tried": 1,
+  "gemini_calls": 17,
+  "canonical_url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+  "generated_at": "2026-10-30T14:50:36+03:00"
+}

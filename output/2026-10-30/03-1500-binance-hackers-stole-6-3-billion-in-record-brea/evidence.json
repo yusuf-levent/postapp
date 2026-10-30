@@ -1,0 +1,301 @@
+{
+  "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
+  "canonical_url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+  "source_names": [
+    "The Verge",
+    "Wired",
+    "BBC News – Technology",
+    "Engadget"
+  ],
+  "checked_at": "2026-10-30T14:48:52+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Binance platformundan 6.3 milyar dolar değerinde kripto fonu çalındı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what’s believed to be the biggest cryptocurrency hack on record."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform"
+        }
+      ]
+    },
+    {
+      "claim": "Çalınan varlıkların yaklaşık 3 milyar dolarlık kısmı şu ana kadar donduruldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "In a series of updates posted to X, the crypto exchange said that user funds are safe, and that around $3 billion of the impacted assets have been frozen so far."
+        }
+      ]
+    },
+    {
+      "claim": "Binance, kullanıcı varlıklarını korumak için yaklaşık 1.3 milyar dolarlık acil durum rezerv fonuna sahip olduğunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "The company has an emergency reserve fund of around $1.3 billion (at last valuation) to protect user assets in these situations"
+        }
+      ]
+    },
+    {
+      "claim": "Binance, olayı karşılamak için 6.34 milyar dolardan fazla şirket fonu ayırdığını ve bunun 5 milyar dolarının etkilenen token varlıkları olarak tutulduğunu açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "and said it has also reserved over $6.34 billion of company funds to cover this incident — $5 billion of which is “already held in the exact token assets that were impacted.”"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "said it has also reserved over $6.34 billion of company funds to cover this incident — $5 billion of which is “already held in the exact token assets that were impacted.”"
+        }
+      ]
+    },
+    {
+      "claim": "Binance, bir DevOps mühendisinin ele geçirilen dizüstü bilgisayarının saldırıda rol oynadığını bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "The company shared details about the compromised laptop that belongs to one of its DevOps engineers in a prior update, saying it allowed an attacker to access a service container and submit unauthorized withdrawal transactions."
+        }
+      ]
+    },
+    {
+      "claim": "Blokzincir analiz firmaları TRM ve Chainalysis, saldırıyı Kuzey Koreli siber suç grubu TraderTraitor'a atfetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "blockchain analysis firms TRM and Chainalysis both attribute it to TraderTraitor, a North Korean cybercrime hacking group"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "Binance may not be pointing fingers at who’s behind the attack, but blockchain analysis firms TRM and Chainalysis both attribute it to TraderTraitor, a North Korean cybercrime hacking group"
+        }
+      ]
+    },
+    {
+      "claim": "Geçen yıl Bybit'ten 1.46 milyar dolar çalınmıştı ve bu olay ondan dört kat daha büyük tarihin en büyük kripto soygunudur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "This is the largest known cryptocurrency heist in history— four times higher than the previous record, when $1.46 billion was stolen from Bybit last year"
+        }
+      ]
+    },
+    {
+      "claim": "Binance, 2019 yılında 40 milyon dolar değerinde kripto varlığın çalındığı bir güvenlik ihlali yaşamıştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "This isn’t the first time Binance has been hacked, having suffered a previous security breach in 2019 in which $40 million worth of crypto assets (valued at the time) were stolen."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Binance platformundan 6.3 milyar dolar değerinde kripto fonu çalındı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what’s believed to be the biggest cryptocurrency hack on record."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform"
+        }
+      ]
+    },
+    {
+      "claim": "Çalınan varlıkların yaklaşık 3 milyar dolarlık kısmı şu ana kadar donduruldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "In a series of updates posted to X, the crypto exchange said that user funds are safe, and that around $3 billion of the impacted assets have been frozen so far."
+        }
+      ]
+    },
+    {
+      "claim": "Binance, kullanıcı varlıklarını korumak için yaklaşık 1.3 milyar dolarlık acil durum rezerv fonuna sahip olduğunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "The company has an emergency reserve fund of around $1.3 billion (at last valuation) to protect user assets in these situations"
+        }
+      ]
+    },
+    {
+      "claim": "Binance, olayı karşılamak için 6.34 milyar dolardan fazla şirket fonu ayırdığını ve bunun 5 milyar dolarının etkilenen token varlıkları olarak tutulduğunu açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "and said it has also reserved over $6.34 billion of company funds to cover this incident — $5 billion of which is “already held in the exact token assets that were impacted.”"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "said it has also reserved over $6.34 billion of company funds to cover this incident — $5 billion of which is “already held in the exact token assets that were impacted.”"
+        }
+      ]
+    },
+    {
+      "claim": "Binance, bir DevOps mühendisinin ele geçirilen dizüstü bilgisayarının saldırıda rol oynadığını bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "The company shared details about the compromised laptop that belongs to one of its DevOps engineers in a prior update, saying it allowed an attacker to access a service container and submit unauthorized withdrawal transactions."
+        }
+      ]
+    },
+    {
+      "claim": "Blokzincir analiz firmaları TRM ve Chainalysis, saldırıyı Kuzey Koreli siber suç grubu TraderTraitor'a atfetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "blockchain analysis firms TRM and Chainalysis both attribute it to TraderTraitor, a North Korean cybercrime hacking group"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "Binance may not be pointing fingers at who’s behind the attack, but blockchain analysis firms TRM and Chainalysis both attribute it to TraderTraitor, a North Korean cybercrime hacking group"
+        }
+      ]
+    },
+    {
+      "claim": "Geçen yıl Bybit'ten 1.46 milyar dolar çalınmıştı ve bu olay ondan dört kat daha büyük tarihin en büyük kripto soygunudur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "This is the largest known cryptocurrency heist in history— four times higher than the previous record, when $1.46 billion was stolen from Bybit last year"
+        }
+      ]
+    },
+    {
+      "claim": "Binance, 2019 yılında 40 milyon dolar değerinde kripto varlığın çalındığı bir güvenlik ihlali yaşamıştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "This isn’t the first time Binance has been hacked, having suffered a previous security breach in 2019 in which $40 million worth of crypto assets (valued at the time) were stolen."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Binance platformundan 6.3 milyar dolar değerinde kripto fonu çalındı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what’s believed to be the biggest cryptocurrency hack on record."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform"
+        }
+      ]
+    },
+    {
+      "claim": "Çalınan varlıkların yaklaşık 3 milyar dolarlık kısmı şu ana kadar donduruldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "In a series of updates posted to X, the crypto exchange said that user funds are safe, and that around $3 billion of the impacted assets have been frozen so far."
+        }
+      ]
+    },
+    {
+      "claim": "Binance, kullanıcı varlıklarını korumak için yaklaşık 1.3 milyar dolarlık acil durum rezerv fonuna sahip olduğunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "The company has an emergency reserve fund of around $1.3 billion (at last valuation) to protect user assets in these situations"
+        }
+      ]
+    },
+    {
+      "claim": "Binance, olayı karşılamak için 6.34 milyar dolardan fazla şirket fonu ayırdığını ve bunun 5 milyar dolarının etkilenen token varlıkları olarak tutulduğunu açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "and said it has also reserved over $6.34 billion of company funds to cover this incident — $5 billion of which is “already held in the exact token assets that were impacted.”"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "said it has also reserved over $6.34 billion of company funds to cover this incident — $5 billion of which is “already held in the exact token assets that were impacted.”"
+        }
+      ]
+    },
+    {
+      "claim": "Binance, bir DevOps mühendisinin ele geçirilen dizüstü bilgisayarının saldırıda rol oynadığını bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "The company shared details about the compromised laptop that belongs to one of its DevOps engineers in a prior update, saying it allowed an attacker to access a service container and submit unauthorized withdrawal transactions."
+        }
+      ]
+    },
+    {
+      "claim": "Blokzincir analiz firmaları TRM ve Chainalysis, saldırıyı Kuzey Koreli siber suç grubu TraderTraitor'a atfetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "blockchain analysis firms TRM and Chainalysis both attribute it to TraderTraitor, a North Korean cybercrime hacking group"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "Binance may not be pointing fingers at who’s behind the attack, but blockchain analysis firms TRM and Chainalysis both attribute it to TraderTraitor, a North Korean cybercrime hacking group"
+        }
+      ]
+    },
+    {
+      "claim": "Geçen yıl Bybit'ten 1.46 milyar dolar çalınmıştı ve bu olay ondan dört kat daha büyük tarihin en büyük kripto soygunudur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "This is the largest known cryptocurrency heist in history— four times higher than the previous record, when $1.46 billion was stolen from Bybit last year"
+        }
+      ]
+    },
+    {
+      "claim": "Binance, 2019 yılında 40 milyon dolar değerinde kripto varlığın çalındığı bir güvenlik ihlali yaşamıştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "quote": "This isn’t the first time Binance has been hacked, having suffered a previous security breach in 2019 in which $40 million worth of crypto assets (valued at the time) were stolen."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist": 3277,
+    "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/": 6156,
+    "https://www.bbc.co.uk/news/articles/cy5w2k5k5ylo?at_medium=RSS&at_campaign=rss": 7485,
+    "https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/": 2631
+  }
+}
