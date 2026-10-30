@@ -1,0 +1,10 @@
+{
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 243.5,
+  "candidates_tried": 1,
+  "gemini_calls": 21,
+  "canonical_url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+  "generated_at": "2026-10-30T21:51:15+03:00"
+}

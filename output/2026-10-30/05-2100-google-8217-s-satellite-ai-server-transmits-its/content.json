@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE UZAY",
+    "title": "Google'ın Yapay Zeka Uydu Hamlesi",
+    "highlight_words": [
+      "Yapay Zeka",
+      "Uydu"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Google yapay zeka çipi donanımlı uydusundan uzayda ilk yanıtı aldı.",
+    "source_tags": [
+      "GOOGLE BLOG",
+      "THE VERGE"
+    ]
+  },
+  "context": {
+    "heading": "Proje Suncatcher Yörüngede",
+    "cards": [
+      {
+        "card_title": "Uydu Fırlatıldı",
+        "card_body": "Google, Project Suncatcher uydusunu bu ayın başlarında yörüngeye fırlattı."
+      },
+      {
+        "card_title": "İlk Blog Yazısı",
+        "card_body": "Google bu gelişmeyi cuma günü yayımladığı bir blog yazısıyla duyurdu."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "Gemma 4",
+    "stat_caption": "Uydu üzerindeki Tensor İşleme Birimleri (TPU) başarıyla çalıştırıldı ve Gemma 4 modeli çalıştırıldı.",
+    "stat_quote": "Project Suncatcher uydusu uzayda olmaktan bahseden bir haiku üretti."
+  },
+  "details": {
+    "heading": "Uzayda TPU Performansı",
+    "cards": [
+      {
+        "card_title": "Sistem Başlatma",
+        "card_body": "Uydu başarıyla TPU'larını başlattı ve ilk yanıtını uzaydan üretti."
+      },
+      {
+        "card_title": "Test Süreci",
+        "card_body": "Google, TPU'ların yörüngedeki ısıl stres ve radyasyon maruziyeti altında nasıl performans gösterdiğini değerlendirmeyi planlıyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Gelecek Hedefler",
+    "cards": [
+      {
+        "card_title": "Yeni Kilometre Taşı",
+        "card_body": "Google'ın bir sonraki kilometre taşı 2027 yılında ikiz birbirine bağlı uyduları içeriyor."
+      },
+      {
+        "card_title": "Uzay Teknolojileri",
+        "card_body": "Yapay zeka çipten güç alan sistemlerin uzay ortamındaki dayanıklılığı test ediliyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce yapay zeka çipten güç alan uydular uzay araştırmalarının geleceğini nasıl şekillendirecek?",
+    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
