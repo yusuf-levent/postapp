@@ -2427,5 +2427,80 @@
     ],
     "created_at": "2026-10-30T08:45:02+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-10-30-1200",
+    "date": "2026-10-30",
+    "slot": "12:00",
+    "type": "news",
+    "title_tr": "Binance Yaklaşık 6,3 Milyar Dolar SİBER SALDIRIYA Uğradı",
+    "original_title": "Binance hacked for an estimated $6.3 billion in record crypto theft",
+    "source_urls": [
+      "https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/"
+    ],
+    "canonical_url": "https://engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft",
+    "entities": [
+      "Binance",
+      "The New York Times",
+      "Bybit",
+      "SAFU",
+      "Tether",
+      "Circle",
+      "CZ"
+    ],
+    "event_type": "cyber_attack",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae458a036e83ed16366366b",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae458b736e83ed163663a9f",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae458ceceb12661efd699bc",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2116088714803761339",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "17911825158479394",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfHLo9mFfyD",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae458efceb12661efd6a4ab",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae45906d518fcaf80a7a085",
+        "permalink": "https://facebook.com/1351036918092059_122119627539484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-30T11:45:04+03:00",
+    "verified_claims_count": 8
   }
 ]
