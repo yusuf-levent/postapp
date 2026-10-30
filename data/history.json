@@ -2502,5 +2502,74 @@
     ],
     "created_at": "2026-10-30T11:45:04+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-10-30-1500",
+    "date": "2026-10-30",
+    "slot": "15:00",
+    "type": "news",
+    "title_tr": "Binance'den 6.3 Milyar Dolarlık Fon Çalındı",
+    "original_title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
+    "source_urls": [
+      "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist"
+    ],
+    "canonical_url": "https://theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+    "entities": [
+      "Binance"
+    ],
+    "event_type": "security_breach",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae48686c56bf7afb3b1cc5d",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae4869cc56bf7afb3b1d057",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae486b314812ff5967b2e40",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2116137993861804208",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18100142882105913",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfHiC_SnDXx",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae486d4e9727055055a2ada",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae486eb14812ff5967b7682",
+        "permalink": "https://facebook.com/1351036918092059_122119664643484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-30T15:01:04+03:00",
+    "verified_claims_count": 8
   }
 ]
