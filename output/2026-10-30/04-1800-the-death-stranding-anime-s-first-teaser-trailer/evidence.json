@@ -7,22 +7,22 @@
     "OpenAI News",
     "Meta Newsroom (resmi alternatif)"
   ],
-  "checked_at": "2026-10-30T18:23:15+03:00",
+  "checked_at": "2026-10-30T18:27:20+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Death Stranding animesinin ilk teaser fragmanı yayınlandı ve yapımın adı Death Stranding Isolations'dır.",
+      "claim": "Death Stranding anime series is titled Death Stranding Isolations.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2302296/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/",
-          "quote": "Kojima Productions has offered the first proper peek at the Death Stranding anime with a teaser trailer. The brief look at Death Stranding Isolations has a few motifs from the game"
+          "quote": "The brief look at Death Stranding Isolations has a few motifs from the game"
         }
       ]
     },
     {
-      "claim": "Death Stranding Isolations, Disney+ platformunda gelecek yıl yayınlanacak.",
+      "claim": "Death Stranding Isolations will debut on Disney+ sometime next year.",
       "verdict": "supported",
       "evidence": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "claim": "Animenin resmi sloganı \"My mom became a crater\" şeklindedir.",
+      "claim": "The tagline of the anime is \"My mom became a crater.\"",
       "verdict": "supported",
       "evidence": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "claim": "Hideo Kojima, animenin yapımcıları arasında yer almakta olup aynı zamanda oyunların co-writer, designer ve direktörüdür.",
+      "claim": "Hideo Kojima is an executive producer on the anime.",
       "verdict": "supported",
       "evidence": [
         {
@@ -52,13 +52,9 @@
       ]
     },
     {
-      "claim": "Animenin yönetmenliğini Takayuki Sano yapmaktadır.",
+      "claim": "The anime is directed by Takayuki Sano.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://www.engadget.com/2302296/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/",
-          "quote": "the anime, which is directed by Takayuki Sano."
-        },
         {
           "url": "https://www.engadget.com/2302296/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/",
           "quote": "which is directed by Takayuki Sano."
@@ -66,7 +62,7 @@
       ]
     },
     {
-      "claim": "Death Stranding Mosquito adında animasyon bir film de geliştirilme aşamasındadır.",
+      "claim": "An animated film dubbed Death Stranding Mosquito is in development.",
       "verdict": "supported",
       "evidence": [
         {
@@ -76,29 +72,33 @@
       ]
     },
     {
-      "claim": "A24 şirketinin dahil olduğu bir live-action film projesi de bulunmaktadır.",
+      "claim": "A live-action movie adaptation is in development with the involvement of A24.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2302296/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/",
           "quote": "as is a live-action movie that A24 is involved with."
+        },
+        {
+          "url": "https://www.engadget.com/2302296/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/",
+          "quote": "An animated film dubbed Death Stranding Mosquito is in development, as is a live-action movie that A24 is involved with."
         }
       ]
     }
   ],
   "round1": [
     {
-      "claim": "Death Stranding animesinin ilk teaser fragmanı yayınlandı ve yapımın adı Death Stranding Isolations'dır.",
+      "claim": "Death Stranding anime series is titled Death Stranding Isolations.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2302296/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/",
-          "quote": "Kojima Productions has offered the first proper peek at the Death Stranding anime with a teaser trailer. The brief look at Death Stranding Isolations has a few motifs from the game"
+          "quote": "The brief look at Death Stranding Isolations has a few motifs from the game"
         }
       ]
     },
     {
-      "claim": "Death Stranding Isolations, Disney+ platformunda gelecek yıl yayınlanacak.",
+      "claim": "Death Stranding Isolations will debut on Disney+ sometime next year.",
       "verdict": "supported",
       "evidence": [
         {
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "claim": "Animenin resmi sloganı \"My mom became a crater\" şeklindedir.",
+      "claim": "The tagline of the anime is \"My mom became a crater.\"",
       "verdict": "supported",
       "evidence": [
         {
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "claim": "Hideo Kojima, animenin yapımcıları arasında yer almakta olup aynı zamanda oyunların co-writer, designer ve direktörüdür.",
+      "claim": "Hideo Kojima is an executive producer on the anime.",
       "verdict": "supported",
       "evidence": [
         {
@@ -128,13 +128,9 @@
       ]
     },
     {
-      "claim": "Animenin yönetmenliğini Takayuki Sano yapmaktadır.",
+      "claim": "The anime is directed by Takayuki Sano.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://www.engadget.com/2302296/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/",
-          "quote": "the anime, which is directed by Takayuki Sano."
-        },
         {
           "url": "https://www.engadget.com/2302296/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/",
           "quote": "which is directed by Takayuki Sano."
@@ -142,7 +138,7 @@
       ]
     },
     {
-      "claim": "Death Stranding Mosquito adında animasyon bir film de geliştirilme aşamasındadır.",
+      "claim": "An animated film dubbed Death Stranding Mosquito is in development.",
       "verdict": "supported",
       "evidence": [
         {
@@ -152,29 +148,33 @@
       ]
     },
     {
-      "claim": "A24 şirketinin dahil olduğu bir live-action film projesi de bulunmaktadır.",
+      "claim": "A live-action movie adaptation is in development with the involvement of A24.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2302296/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/",
           "quote": "as is a live-action movie that A24 is involved with."
+        },
+        {
+          "url": "https://www.engadget.com/2302296/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/",
+          "quote": "An animated film dubbed Death Stranding Mosquito is in development, as is a live-action movie that A24 is involved with."
         }
       ]
     }
   ],
   "round2": [
     {
-      "claim": "Death Stranding animesinin ilk teaser fragmanı yayınlandı ve yapımın adı Death Stranding Isolations'dır.",
+      "claim": "Death Stranding anime series is titled Death Stranding Isolations.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2302296/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/",
-          "quote": "Kojima Productions has offered the first proper peek at the Death Stranding anime with a teaser trailer. The brief look at Death Stranding Isolations has a few motifs from the game"
+          "quote": "The brief look at Death Stranding Isolations has a few motifs from the game"
         }
       ]
     },
     {
-      "claim": "Death Stranding Isolations, Disney+ platformunda gelecek yıl yayınlanacak.",
+      "claim": "Death Stranding Isolations will debut on Disney+ sometime next year.",
       "verdict": "supported",
       "evidence": [
         {
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "claim": "Animenin resmi sloganı \"My mom became a crater\" şeklindedir.",
+      "claim": "The tagline of the anime is \"My mom became a crater.\"",
       "verdict": "supported",
       "evidence": [
         {
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "claim": "Hideo Kojima, animenin yapımcıları arasında yer almakta olup aynı zamanda oyunların co-writer, designer ve direktörüdür.",
+      "claim": "Hideo Kojima is an executive producer on the anime.",
       "verdict": "supported",
       "evidence": [
         {
@@ -204,13 +204,9 @@
       ]
     },
     {
-      "claim": "Animenin yönetmenliğini Takayuki Sano yapmaktadır.",
+      "claim": "The anime is directed by Takayuki Sano.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://www.engadget.com/2302296/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/",
-          "quote": "the anime, which is directed by Takayuki Sano."
-        },
         {
           "url": "https://www.engadget.com/2302296/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/",
           "quote": "which is directed by Takayuki Sano."
@@ -218,7 +214,7 @@
       ]
     },
     {
-      "claim": "Death Stranding Mosquito adında animasyon bir film de geliştirilme aşamasındadır.",
+      "claim": "An animated film dubbed Death Stranding Mosquito is in development.",
       "verdict": "supported",
       "evidence": [
         {
@@ -228,12 +224,16 @@
       ]
     },
     {
-      "claim": "A24 şirketinin dahil olduğu bir live-action film projesi de bulunmaktadır.",
+      "claim": "A live-action movie adaptation is in development with the involvement of A24.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2302296/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/",
           "quote": "as is a live-action movie that A24 is involved with."
+        },
+        {
+          "url": "https://www.engadget.com/2302296/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/",
+          "quote": "An animated film dubbed Death Stranding Mosquito is in development, as is a live-action movie that A24 is involved with."
         }
       ]
     }
