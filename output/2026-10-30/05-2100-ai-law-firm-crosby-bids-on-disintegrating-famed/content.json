@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE HUKUK",
+    "title": "Yapay Zeka Girişimi Crosby'den Büyük Hamle",
+    "highlight_words": [
+      "Crosby",
+      "Büyük"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Yapay zeka odaklı hukuk firması Crosby varlık satın almak için teklifte bulundu.",
+    "source_tags": [
+      "TECHCRUNCH",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Hukuk Sektöründe Yapay Zeka Dönemi",
+    "cards": [
+      {
+        "card_title": "Crosby'nin Teklifi",
+        "card_body": "İki yıllık yapay zeka odaklı hukuk firması Crosby, Weil Gotshal'ın markası, ticari unvanı ve bazı varlıkları için teklif yaptı."
+      },
+      {
+        "card_title": "Fesih Süreci",
+        "card_body": "Weil Gotshal, önümüzdeki günlerde fesih oylaması yapmaya hazırlandığını bu hafta doğruladı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "85 MİLYON $",
+    "stat_caption": "Crosby'nin topladığı yaklaşık toplam yatırım miktarı.",
+    "stat_quote": "Mart ayında Lux ve Index liderliğinde 60 milyon dolarlık Seri B turu gerçekleştirildi."
+  },
+  "details": {
+    "heading": "Satın Alma ve Yatırım Detayları",
+    "cards": [
+      {
+        "card_title": "Avukat Transferi",
+        "card_body": "Crosby, Weil Gotshal'ın 1.200 avukatından bazılarını işe almak için de çalışmalar yürütüyor."
+      },
+      {
+        "card_title": "Yatırım Geçmişi",
+        "card_body": "Girişim, 5.8 milyon dolarlık tohum sermayesi ile 2025 yılında gizlilik modundan çıktı."
+      },
+      {
+        "card_title": "Destekçiler",
+        "card_body": "Yatırım turuna Sequoia, Elad Gil, 01 Advisors ve Bain Capital Ventures gibi önemli isimler katıldı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etkiler",
+    "cards": [
+      {
+        "card_title": "Marka ve Varlık Devri",
+        "card_body": "Weil Gotshal'ın markası, ticari unvanı ve bazı dahili verileri dahil olmak üzere varlıkları hedef alınıyor."
+      },
+      {
+        "card_title": "İnsan Kaynağı",
+        "card_body": "Mevcut 1.200 avukattan bazılarının yapay zeka odaklı yeni yapıya geçiş ihtimali bulunuyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Yapay zeka odaklı girişimlerin köklü hukuk firmalarını devralması sektörü nasıl değiştirecek?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

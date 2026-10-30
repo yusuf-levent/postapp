@@ -1,0 +1,10 @@
+{
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 97.1,
+  "candidates_tried": 1,
+  "gemini_calls": 13,
+  "canonical_url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+  "generated_at": "2026-10-30T22:58:12+03:00"
+}
