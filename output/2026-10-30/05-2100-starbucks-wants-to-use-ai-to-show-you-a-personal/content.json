@@ -1,0 +1,68 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE KAHVE",
+    "title": "Starbucks'tan Yeni Yapay Zeka Adımları",
+    "highlight_words": [
+      "Yapay Zeka"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Starbucks CEO'su Brian Niccol dijital menüler ve yapay zeka planlarını açıkladı.",
+    "source_tags": [
+      "THE VERGE",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Yeni Dijital Deneyimler",
+    "cards": [
+      {
+        "card_title": "Kişiselleştirilmiş Menüler",
+        "card_body": "Starbucks CEO'su Brian Niccol, kazanç çağrısında kişiselleştirilmiş dijital menüler gibi deneyimleri keşfedeceklerini belirtti."
+      },
+      {
+        "card_title": "ChatGPT Entegrasyonu",
+        "card_body": "Starbucks, müşterilerin ChatGPT üzerinden sipariş vermesine halihazırda izin vermeye başladı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "2027",
+    "stat_caption": "Arabaya servis noktalarında arka plan yapay zeka testlerinin başlayacağı yıl.",
+    "stat_quote": "Starbucks, baristaların siparişleri daha doğru girmesine yardımcı olmak için yapay zeka test edecek."
+  },
+  "details": {
+    "heading": "Operasyonel Yenilikler",
+    "cards": [
+      {
+        "card_title": "Green Dot Assist",
+        "card_body": "Starbucks, çalışanların tarifler ve hizmet standartları hakkında sorular sorması için bu sistemi kullanıma sundu."
+      },
+      {
+        "card_title": "Arabaya Servis Testleri",
+        "card_body": "2027'den itibaren arabaya servis noktalarında arka plan yapay zeka modelleri test edilmeye başlanacak."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektör ve Çalışan Etkisi",
+    "cards": [
+      {
+        "card_title": "Daha Verimli Süreçler",
+        "card_body": "Yapay zeka modelleri, baristaların siparişleri daha doğru ve verimli girmesine yardımcı olacak."
+      },
+      {
+        "card_title": "Hızlı Bilgi Erişimi",
+        "card_body": "Green Dot Assist sayesinde çalışanlar tarifler ve hizmet standartları hakkında hızlıca bilgi alabilecek."
+      }
+    ]
+  },
+  "cta": {
+    "question": "ChatGPT üzerinden kahve siparişi verme deneyimini denediniz mi?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

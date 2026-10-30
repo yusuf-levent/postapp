@@ -1,0 +1,10 @@
+{
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 82.8,
+  "candidates_tried": 1,
+  "gemini_calls": 13,
+  "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+  "generated_at": "2026-10-30T20:43:49+03:00"
+}

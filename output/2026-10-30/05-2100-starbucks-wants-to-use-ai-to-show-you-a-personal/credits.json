@@ -1,0 +1,27 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.727816900681%2C100%2C78.544366198639&amp;w=1200",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-30/05-2100-starbucks-wants-to-use-ai-to-show-you-a-personal/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "width": 3800,
+      "height": 2533,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/29576175/pexels-photo-29576175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-30/05-2100-starbucks-wants-to-use-ai-to-show-you-a-personal/images/img-2.png",
+      "license": "Pexels License — Conrado Jacinto",
+      "author": "Conrado Jacinto",
+      "credit_url": "https://www.pexels.com/photo/smiling-barista-serving-coffee-at-drive-thru-29576175/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "Barista wearing a mask serves coffee through a drive-thru window with a friendly smile."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}
