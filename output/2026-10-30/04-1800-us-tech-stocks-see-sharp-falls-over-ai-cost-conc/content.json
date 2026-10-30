@@ -1,0 +1,129 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ PİYASALARI",
+    "title": "Yapay Zeka Maliyetleri Teknoloji Hisselerini Nasıl Vurdu?",
+    "highlight_words": [
+      "Yapay Zeka",
+      "Maliyetleri"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "ABD teknoloji piyasalarındaki son düşüşlerin arkasındaki doğrulanmış gelişmeler.",
+    "source_tags": [
+      "BBC News",
+      "The Verge",
+      "Engadget",
+      "TechCrunch"
+    ]
+  },
+  "problem": {
+    "heading": "Piyasalarda Yapay Zeka Endişesi",
+    "cards": [
+      {
+        "card_title": "Yatırım Maliyetleri",
+        "card_body": "ABD teknoloji hisseleri, yapay zeka yatırım maliyetlerindeki artış endişeleri nedeniyle keskin düşüşler yaşadı."
+      },
+      {
+        "card_title": "Nasdaq Endeksi",
+        "card_body": "Teknoloji ağırlıklı Nasdaq borsa endeksi Cuma günü %2,5 düşüşle iki ayın en düşük seviyesinden açıldı."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Intel ve Amazon'daki Düşüşler",
+      "cards": [
+        {
+          "card_title": "Intel",
+          "card_body": "Intel hisseleri, zayıf bilgisayar pazarı uyarısı ve yapay zeka harcamalarını artırma planı sonrasında %30'a varan oranda düştü."
+        },
+        {
+          "card_title": "Amazon",
+          "card_body": "Amazon hisseleri, Perşembe akşamı açıklanan kazançların yatırımcı beklentilerinin altında kalmasıyla %6'ya kadar geriledi."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Alphabet ve Diğer Şirketler",
+      "cards": [
+        {
+          "card_title": "Alphabet (Google)",
+          "card_body": "Alphabet'in piyasa değeri, yapay zeka özetlerinin arama reklamı gelirini etkilediğini açıklamasının ardından Perşembe günü 500 milyar dolardan fazla düştü."
+        },
+        {
+          "card_title": "Diğer Hisseler",
+          "card_body": "Reddit ve Roblox gibi diğer teknoloji hisseleri de bu süreçte düşüş kaydetti."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Piyasa Takibi ve Özet",
+      "cards": [
+        {
+          "card_title": "Maliyet Dengesi",
+          "card_body": "Yapay zeka teknolojilerine yapılan yüksek harcamalar ve altyapı maliyetleri, şirketlerin finansal raporlarına doğrudan yansıyor."
+        },
+        {
+          "card_title": "Yatırımcı Beklentileri",
+          "card_body": "Beklentilerin altında kalan kazanç raporları ve reklam gelirlerindeki değişimler piyasalarda dalgalanma yaratıyor."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Sizce yapay zeka yatırımlarının maliyeti kısa vadede teknolojideki bu dalgalanmayı nasıl etkileyecek?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki tarafsız gelişmeler için Tekno Pusula'yı takipte kalın!"
+  },
+  "context": {
+    "heading": "Piyasalarda Yapay Zeka Endişesi",
+    "cards": [
+      {
+        "card_title": "Yatırım Maliyetleri",
+        "card_body": "ABD teknoloji hisseleri, yapay zeka yatırım maliyetlerindeki artış endişeleri nedeniyle keskin düşüşler yaşadı."
+      },
+      {
+        "card_title": "Nasdaq Endeksi",
+        "card_body": "Teknoloji ağırlıklı Nasdaq borsa endeksi Cuma günü %2,5 düşüşle iki ayın en düşük seviyesinden açıldı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Intel ve Amazon'daki Düşüşler",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Alphabet ve Diğer Şirketler",
+    "cards": [
+      {
+        "card_title": "Alphabet (Google)",
+        "card_body": "Alphabet'in piyasa değeri, yapay zeka özetlerinin arama reklamı gelirini etkilediğini açıklamasının ardından Perşembe günü 500 milyar dolardan fazla düştü."
+      },
+      {
+        "card_title": "Diğer Hisseler",
+        "card_body": "Reddit ve Roblox gibi diğer teknoloji hisseleri de bu süreçte düşüş kaydetti."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Piyasa Takibi ve Özet",
+    "cards": [
+      {
+        "card_title": "Maliyet Dengesi",
+        "card_body": "Yapay zeka teknolojilerine yapılan yüksek harcamalar ve altyapı maliyetleri, şirketlerin finansal raporlarına doğrudan yansıyor."
+      },
+      {
+        "card_title": "Yatırımcı Beklentileri",
+        "card_body": "Beklentilerin altında kalan kazanç raporları ve reklam gelirlerindeki değişimler piyasalarda dalgalanma yaratıyor."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}
