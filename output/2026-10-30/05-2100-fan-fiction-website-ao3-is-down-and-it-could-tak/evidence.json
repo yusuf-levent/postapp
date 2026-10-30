@@ -1,0 +1,313 @@
+{
+  "title": "Fan fiction website AO3 is down, and it could take weeks to recover",
+  "canonical_url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+  "source_names": [
+    "Engadget",
+    "Wired",
+    "Ars Technica",
+    "OpenAI News"
+  ],
+  "checked_at": "2026-10-30T21:22:31+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Archive of Our Own (AO3) is down for maintenance.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "Archive of Our Own (AO3), one of the best-known homes for people who read and write fan fiction online, is currently down for maintenance."
+        }
+      ]
+    },
+    {
+      "claim": "The Organization for Transformative Works (OTW) took the site offline just after 3AM ET.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "The Organization for Transformative Works (OTW), the nonprofit that founded AO3, took the site offline just after 3AM ET"
+        },
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "The Organization for Transformative Works (OTW), the nonprofit that founded AO3, took the site offline just after 3AM ET and originally planned to keep it down for only 12 hours"
+        }
+      ]
+    },
+    {
+      "claim": "The OTW estimates that service restoration for AO3 will take around 2 weeks but it could be up to 4 weeks.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "\"We estimate that service restoration for #AO3 will take around 2 weeks but it could be up to 4 weeks,\""
+        },
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "\"We estimate that service restoration for #AO3 will take around 2 weeks but it could be up to 4 weeks,\" the OTW says."
+        }
+      ]
+    },
+    {
+      "claim": "The OTW has stated that the site's data is intact.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "The OTW has said the site's data is intact"
+        },
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "The OTW has said the site's data is intact, according to a former AO3 volunteer who moderates r/AO3, which should mean those stories are safe."
+        }
+      ]
+    },
+    {
+      "claim": "The OTW logged problems with email notifications, search, history and listings between October 23 and 24.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "The OTW logged problems with email notifications, search, history and listings between October 23 and 24"
+        },
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "The OTW logged problems with email notifications, search, history and listings between October 23 and 24, but hasn't elaborated on what issues it's dealing with now."
+        }
+      ]
+    },
+    {
+      "claim": "Another OTW site, Fanlore, was briefly shut down to deal with a PHP flaw.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "That includes another OTW site, Fanlore, which was briefly shut down to deal with the PHP flaw."
+        }
+      ]
+    },
+    {
+      "claim": "AO3 claimed in a blog post on October 30, 2026, that no data has been deleted and none has been exfiltrated.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "Update October 30, 2026, 1:56pm ET: AO3 has detailed the current state of the outage in a blog post. It claims no data has been deleted and does not believe any has been exfiltrated."
+        }
+      ]
+    },
+    {
+      "claim": "AO3 states that it does not collect real names and donor information is held in an entirely separate system.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "Additionally, the site notes it \"does not collect real names, so none could be exposed\" and that \"donor information is held in an entirely separate system and is never linked to AO3, so that data has also not been exposed.\""
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Archive of Our Own (AO3) is down for maintenance.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "Archive of Our Own (AO3), one of the best-known homes for people who read and write fan fiction online, is currently down for maintenance."
+        }
+      ]
+    },
+    {
+      "claim": "The Organization for Transformative Works (OTW) took the site offline just after 3AM ET.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "The Organization for Transformative Works (OTW), the nonprofit that founded AO3, took the site offline just after 3AM ET"
+        },
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "The Organization for Transformative Works (OTW), the nonprofit that founded AO3, took the site offline just after 3AM ET and originally planned to keep it down for only 12 hours"
+        }
+      ]
+    },
+    {
+      "claim": "The OTW estimates that service restoration for AO3 will take around 2 weeks but it could be up to 4 weeks.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "\"We estimate that service restoration for #AO3 will take around 2 weeks but it could be up to 4 weeks,\""
+        },
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "\"We estimate that service restoration for #AO3 will take around 2 weeks but it could be up to 4 weeks,\" the OTW says."
+        }
+      ]
+    },
+    {
+      "claim": "The OTW has stated that the site's data is intact.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "The OTW has said the site's data is intact"
+        },
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "The OTW has said the site's data is intact, according to a former AO3 volunteer who moderates r/AO3, which should mean those stories are safe."
+        }
+      ]
+    },
+    {
+      "claim": "The OTW logged problems with email notifications, search, history and listings between October 23 and 24.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "The OTW logged problems with email notifications, search, history and listings between October 23 and 24"
+        },
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "The OTW logged problems with email notifications, search, history and listings between October 23 and 24, but hasn't elaborated on what issues it's dealing with now."
+        }
+      ]
+    },
+    {
+      "claim": "Another OTW site, Fanlore, was briefly shut down to deal with a PHP flaw.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "That includes another OTW site, Fanlore, which was briefly shut down to deal with the PHP flaw."
+        }
+      ]
+    },
+    {
+      "claim": "AO3 claimed in a blog post on October 30, 2026, that no data has been deleted and none has been exfiltrated.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "Update October 30, 2026, 1:56pm ET: AO3 has detailed the current state of the outage in a blog post. It claims no data has been deleted and does not believe any has been exfiltrated."
+        }
+      ]
+    },
+    {
+      "claim": "AO3 states that it does not collect real names and donor information is held in an entirely separate system.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "Additionally, the site notes it \"does not collect real names, so none could be exposed\" and that \"donor information is held in an entirely separate system and is never linked to AO3, so that data has also not been exposed.\""
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Archive of Our Own (AO3) is down for maintenance.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "Archive of Our Own (AO3), one of the best-known homes for people who read and write fan fiction online, is currently down for maintenance."
+        }
+      ]
+    },
+    {
+      "claim": "The Organization for Transformative Works (OTW) took the site offline just after 3AM ET.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "The Organization for Transformative Works (OTW), the nonprofit that founded AO3, took the site offline just after 3AM ET"
+        },
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "The Organization for Transformative Works (OTW), the nonprofit that founded AO3, took the site offline just after 3AM ET and originally planned to keep it down for only 12 hours"
+        }
+      ]
+    },
+    {
+      "claim": "The OTW estimates that service restoration for AO3 will take around 2 weeks but it could be up to 4 weeks.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "\"We estimate that service restoration for #AO3 will take around 2 weeks but it could be up to 4 weeks,\""
+        },
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "\"We estimate that service restoration for #AO3 will take around 2 weeks but it could be up to 4 weeks,\" the OTW says."
+        }
+      ]
+    },
+    {
+      "claim": "The OTW has stated that the site's data is intact.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "The OTW has said the site's data is intact"
+        },
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "The OTW has said the site's data is intact, according to a former AO3 volunteer who moderates r/AO3, which should mean those stories are safe."
+        }
+      ]
+    },
+    {
+      "claim": "The OTW logged problems with email notifications, search, history and listings between October 23 and 24.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "The OTW logged problems with email notifications, search, history and listings between October 23 and 24"
+        },
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "The OTW logged problems with email notifications, search, history and listings between October 23 and 24, but hasn't elaborated on what issues it's dealing with now."
+        }
+      ]
+    },
+    {
+      "claim": "Another OTW site, Fanlore, was briefly shut down to deal with a PHP flaw.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "That includes another OTW site, Fanlore, which was briefly shut down to deal with the PHP flaw."
+        }
+      ]
+    },
+    {
+      "claim": "AO3 claimed in a blog post on October 30, 2026, that no data has been deleted and none has been exfiltrated.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "Update October 30, 2026, 1:56pm ET: AO3 has detailed the current state of the outage in a blog post. It claims no data has been deleted and does not believe any has been exfiltrated."
+        }
+      ]
+    },
+    {
+      "claim": "AO3 states that it does not collect real names and donor information is held in an entirely separate system.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+          "quote": "Additionally, the site notes it \"does not collect real names, so none could be exposed\" and that \"donor information is held in an entirely separate system and is never linked to AO3, so that data has also not been exposed.\""
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/": 2608,
+    "https://www.wired.com/story/people-are-creating-survival-guides-to-cope-with-the-ao3-apocalypse/": 2976,
+    "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/": 12576,
+    "https://openai.com/index/helping-websites-express-ai-training-preferences": 1904
+  }
+}

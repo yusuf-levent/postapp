@@ -1,0 +1,10 @@
+{
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 200.9,
+  "candidates_tried": 1,
+  "gemini_calls": 16,
+  "canonical_url": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
+  "generated_at": "2026-10-30T21:25:23+03:00"
+}

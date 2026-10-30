@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJI GUNDEMI",
+    "title": "AO3 Bakim Icin Kapatildi",
+    "highlight_words": [
+      "AO3",
+      "Bakim"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Archive of Our Own planli bakim calismasi nedeniyle cevrimdisi kaldi.",
+    "source_tags": [
+      "ENGADGET",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Bakim Sureci",
+    "cards": [
+      {
+        "card_title": "Zamanlama",
+        "card_body": "The Organization for Transformative Works tarafindan site 3AM ET sonrasi kapatildi."
+      },
+      {
+        "card_title": "Veri Guvenligi",
+        "card_body": "OTW, sitenin verilerinin tamamen saglam oldugunu bildirdi."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "2-4 HAFTA",
+    "stat_caption": "Sitenin yeniden acilmasi icin tahmin edilen sure.",
+    "stat_quote": "OTW, hizmetin yeniden baslatilmasinin yaklasik 2 ila 4 hafta alacagini tahmin ediyor."
+  },
+  "details": {
+    "heading": "Detaylar ve Sorunlar",
+    "cards": [
+      {
+        "card_title": "Teknik Sorunlar",
+        "card_body": "23-24 Ekim tarihleri arasinda e-posta bildirimleri, arama, gecmis ve listelemelerde problemler kaydedildi."
+      },
+      {
+        "card_title": "Fanlore Durumu",
+        "card_body": "Diger bir OTW sitesi olan Fanlore, bir PHP acigini gidermek icin kisa sureligine kapatildi."
+      },
+      {
+        "card_title": "Veri Durumu",
+        "card_body": "AO3 tarafindan yapilan aciklamada hicbir verinin silinmedigi ve sizdirilmadigi belirtildi."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanici ve Guvenlik Etkisi",
+    "cards": [
+      {
+        "card_title": "Kullanici Bilgileri",
+        "card_body": "AO3, gercek isimleri toplamadigini ve bagisci bilgilerinin ayri bir sistemde tutuldugunu belirtiyor."
+      },
+      {
+        "card_title": "Erisim Kesintisi",
+        "card_body": "Planli bakim ve duzenlemeler nedeniyle platforma erisim gecici olarak saglanamiyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "AO3 erisiminin haftalarca kapali kalacak olmasi hakkinda ne dusunuyorsunuz?",
+    "reminder_line": "Teknoloji ve yapay zeka dunyasindaki gelismeler icin takipte kalin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

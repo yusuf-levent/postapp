@@ -1,0 +1,27 @@
+{
+  "images": [
+    {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Ao3-screenshot.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-30/05-2100-fan-fiction-website-ao3-is-down-and-it-could-tak/images/img-1.png",
+      "license": "",
+      "author": "",
+      "credit_url": "https://en.wikipedia.org/wiki/Archive%20of%20Our%20Own",
+      "width": 1898,
+      "height": 867,
+      "alt_text": "Archive of Our Own"
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/17051657/pexels-photo-17051657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-10-30/05-2100-fan-fiction-website-ao3-is-down-and-it-could-tak/images/img-2.png",
+      "license": "Pexels License — Never Dull Studio",
+      "author": "Never Dull Studio",
+      "credit_url": "https://www.pexels.com/photo/man-in-gloves-sitting-with-hands-on-face-over-laptop-17051657/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "A rockstar with leather gloves appears stressed, covering their face at a laptop on a table."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}
