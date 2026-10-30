@@ -1,0 +1,285 @@
+{
+  "title": "Crypto giant Binance hit by 'largest hack in history'",
+  "canonical_url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+  "source_names": [
+    "BBC News – Technology",
+    "TechCrunch"
+  ],
+  "checked_at": "2026-10-30T08:41:44+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Binance said on Thursday that $6.3bn of digital assets have been impacted by a hack.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "Cryptocurrency giant Binance said on Thursday that $6.3bn (Â£4.7bn) of digital assets have been impacted by what has been described as the \"largest hack in history\"."
+        }
+      ]
+    },
+    {
+      "claim": "Binance stated that about half of the impacted assets have been frozen with the help of other platforms.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "The world's biggest crypto exchange said about half of those assets have been frozen with the help of other platforms"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "The world's biggest crypto exchange said about half of those assets have been frozen with the help of other platforms, adding that it will \"cover all losses\"."
+        }
+      ]
+    },
+    {
+      "claim": "Early checks show the incident may have involved a compromised engineer's laptop.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "Early checks show the incident may have involved an engineer's laptop that had been compromised"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "Early checks show the incident may have involved an engineer's laptop that had been compromised, which allowed an attacker to make unauthorised withdrawals, Binance said."
+        }
+      ]
+    },
+    {
+      "claim": "Analytics firms attributed the incident to a North Korean hacking unit called TraderTraitor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "Two analytics firms have attributed the incident, which eclipses a record-setting $1.5bn hack on the Bybit exchange in 2025, to a North Korean hacking unit called TraderTraitor."
+        }
+      ]
+    },
+    {
+      "claim": "Binance.US stated that its platform is not affected by the issue.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "The incident concerns Binance.com - while much smaller crypto platform Binance.US, which provides trading services specifically for American residents - said its platform is not affected by the issue."
+        }
+      ]
+    },
+    {
+      "claim": "Tether and Circle said they have frozen a total of about $2.4bn of assets in response to the Binance hack.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "Two other major crypto platforms, Tether and Circle, said they have frozen a total of about $2.4bn of assets in response to the potential Binance hack."
+        }
+      ]
+    },
+    {
+      "claim": "Binance was founded in China in 2017 and has more than 300 million registered users worldwide.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "Binance, which was founded in China in 2017, allows users to trade digital assets and is estimated to have more than 300 million registered users worldwide."
+        }
+      ]
+    },
+    {
+      "claim": "Bitcoin dropped by more than 4% following the alerts about the hack.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "Bitcoin dropped by more than 4% following the alerts."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Binance said on Thursday that $6.3bn of digital assets have been impacted by a hack.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "Cryptocurrency giant Binance said on Thursday that $6.3bn (Â£4.7bn) of digital assets have been impacted by what has been described as the \"largest hack in history\"."
+        }
+      ]
+    },
+    {
+      "claim": "Binance stated that about half of the impacted assets have been frozen with the help of other platforms.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "The world's biggest crypto exchange said about half of those assets have been frozen with the help of other platforms"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "The world's biggest crypto exchange said about half of those assets have been frozen with the help of other platforms, adding that it will \"cover all losses\"."
+        }
+      ]
+    },
+    {
+      "claim": "Early checks show the incident may have involved a compromised engineer's laptop.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "Early checks show the incident may have involved an engineer's laptop that had been compromised"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "Early checks show the incident may have involved an engineer's laptop that had been compromised, which allowed an attacker to make unauthorised withdrawals, Binance said."
+        }
+      ]
+    },
+    {
+      "claim": "Analytics firms attributed the incident to a North Korean hacking unit called TraderTraitor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "Two analytics firms have attributed the incident, which eclipses a record-setting $1.5bn hack on the Bybit exchange in 2025, to a North Korean hacking unit called TraderTraitor."
+        }
+      ]
+    },
+    {
+      "claim": "Binance.US stated that its platform is not affected by the issue.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "The incident concerns Binance.com - while much smaller crypto platform Binance.US, which provides trading services specifically for American residents - said its platform is not affected by the issue."
+        }
+      ]
+    },
+    {
+      "claim": "Tether and Circle said they have frozen a total of about $2.4bn of assets in response to the Binance hack.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "Two other major crypto platforms, Tether and Circle, said they have frozen a total of about $2.4bn of assets in response to the potential Binance hack."
+        }
+      ]
+    },
+    {
+      "claim": "Binance was founded in China in 2017 and has more than 300 million registered users worldwide.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "Binance, which was founded in China in 2017, allows users to trade digital assets and is estimated to have more than 300 million registered users worldwide."
+        }
+      ]
+    },
+    {
+      "claim": "Bitcoin dropped by more than 4% following the alerts about the hack.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "Bitcoin dropped by more than 4% following the alerts."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Binance said on Thursday that $6.3bn of digital assets have been impacted by a hack.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "Cryptocurrency giant Binance said on Thursday that $6.3bn (Â£4.7bn) of digital assets have been impacted by what has been described as the \"largest hack in history\"."
+        }
+      ]
+    },
+    {
+      "claim": "Binance stated that about half of the impacted assets have been frozen with the help of other platforms.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "The world's biggest crypto exchange said about half of those assets have been frozen with the help of other platforms"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "The world's biggest crypto exchange said about half of those assets have been frozen with the help of other platforms, adding that it will \"cover all losses\"."
+        }
+      ]
+    },
+    {
+      "claim": "Early checks show the incident may have involved a compromised engineer's laptop.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "Early checks show the incident may have involved an engineer's laptop that had been compromised"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "Early checks show the incident may have involved an engineer's laptop that had been compromised, which allowed an attacker to make unauthorised withdrawals, Binance said."
+        }
+      ]
+    },
+    {
+      "claim": "Analytics firms attributed the incident to a North Korean hacking unit called TraderTraitor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "Two analytics firms have attributed the incident, which eclipses a record-setting $1.5bn hack on the Bybit exchange in 2025, to a North Korean hacking unit called TraderTraitor."
+        }
+      ]
+    },
+    {
+      "claim": "Binance.US stated that its platform is not affected by the issue.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "The incident concerns Binance.com - while much smaller crypto platform Binance.US, which provides trading services specifically for American residents - said its platform is not affected by the issue."
+        }
+      ]
+    },
+    {
+      "claim": "Tether and Circle said they have frozen a total of about $2.4bn of assets in response to the Binance hack.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "Two other major crypto platforms, Tether and Circle, said they have frozen a total of about $2.4bn of assets in response to the potential Binance hack."
+        }
+      ]
+    },
+    {
+      "claim": "Binance was founded in China in 2017 and has more than 300 million registered users worldwide.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "Binance, which was founded in China in 2017, allows users to trade digital assets and is estimated to have more than 300 million registered users worldwide."
+        }
+      ]
+    },
+    {
+      "claim": "Bitcoin dropped by more than 4% following the alerts about the hack.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "quote": "Bitcoin dropped by more than 4% following the alerts."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss": 3777,
+    "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/": 2552
+  }
+}

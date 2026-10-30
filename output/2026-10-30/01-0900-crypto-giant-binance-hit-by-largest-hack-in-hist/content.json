@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "SİBER GÜVENLİK",
+    "title": "Binance Sistemlerinde Büyük Hack Olayı",
+    "highlight_words": [
+      "Büyük",
+      "Hack"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Dijital varlıkları etkileyen olay siber güvenlik gündeminde.",
+    "source_tags": [
+      "BBC NEWS",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Olayın Arka Planı",
+    "cards": [
+      {
+        "card_title": "Etkilenen Varlıklar",
+        "card_body": "Binance, yaptığı açıklamada 6.3 milyar dolar değerindeki dijital varlığın bir hack olayından etkilendiğini bildirdi."
+      },
+      {
+        "card_title": "Mühendis İddiası",
+        "card_body": "Yapılan erken incelemeler, olayın mühendisin ele geçirilen dizüstü bilgisayarı ile ilgili olabileceğini gösteriyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "6.3 MİLYAR $",
+    "stat_caption": "Hack olayından etkilenen toplam dijital varlık büyüklüğü.",
+    "stat_quote": "Binance, yaklaşık 6.3 milyar dolarlık dijital varlığın etkilendiğini açıkladı."
+  },
+  "details": {
+    "heading": "Alınan Önlemler",
+    "cards": [
+      {
+        "card_title": "Varlıkların Dondurulması",
+        "card_body": "Diğer platformların yardımıyla etkilenen varlıkların yaklaşık yarısı donduruldu."
+      },
+      {
+        "card_title": "Tether ve Circle Hamlesi",
+        "card_body": "Tether ve Circle, Binance hack olayı sonrasında yaklaşık 2.4 milyar dolarlık varlığı dondurduklarını belirtti."
+      },
+      {
+        "card_title": "Kuzey Kore İddiası",
+        "card_body": "Analitik firmaları, olayın TraderTraitor adı verilen Kuzey Koreli bir hack birimi tarafından gerçekleştirildiğini belirtti."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Piyasa ve Platform Etkisi",
+    "cards": [
+      {
+        "card_title": "Bitcoin Fiyatı",
+        "card_body": "Hack uyarılarının ardından Bitcoin fiyatı yüzde 4'ten fazla düşüş yaşadı."
+      },
+      {
+        "card_title": "Binance.US Durumu",
+        "card_body": "Binance.US platformu, yaşanan bu sorundan etkilenmediğini açıkladı."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Büyük borsalarda siber güvenlik önlemleri sizce yeterince güçlü mü?",
+    "reminder_line": "Teknoloji ve yapay zeka gündemi için Tekno Pusula'yı takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
