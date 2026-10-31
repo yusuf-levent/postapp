@@ -1,0 +1,247 @@
+{
+  "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+  "canonical_url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+  "source_names": [
+    "BBC News – Technology",
+    "Ars Technica",
+    "The Verge",
+    "TechCrunch"
+  ],
+  "checked_at": "2026-10-31T11:43:29+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Two major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6.3bn hack of Binance.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Two major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6.3bn (Â£4.7bn) hack of Binance, the world's largest cryptocurrency exchange."
+        }
+      ]
+    },
+    {
+      "claim": "The Lazarus Group, also known as TraderTraitor, was identified with high confidence by TRM Labs and Chainalysis as the likely culprit in the Binance hack.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "The Lazarus Group, a North Korean hacking unit also known as TraderTraitor, was identified \"with high confidence\" by TRM Labs, as well as Chainalysis."
+        }
+      ]
+    },
+    {
+      "claim": "In 2014, Sony Pictures was targeted in a suspected North Korean hack following the Hollywood film The Interview, which involved a plot to assassinate Kim Jong Un.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Though not financial, the nation's most spectacular suspected hack took place in 2014. The target: Sony Pictures, which had made the Hollywood film The Interview. The film involves a plot to assassinate Kim."
+        }
+      ]
+    },
+    {
+      "claim": "The FBI said last year that North Korea was responsible for the theft of $1.5bn on the Bybit exchange.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Last year, the Federal Bureau of Investigation (FBI) said North Korea was responsible for the theft of $1.5bn on the Bybit exchange."
+        }
+      ]
+    },
+    {
+      "claim": "North Korean hackers are suspected in the theft of $620m worth of cryptocurrency in 2022.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "North Korean hackers are also suspected in the theft of $620m worth of cryptocurrency in 2022."
+        }
+      ]
+    },
+    {
+      "claim": "Binance's co-CEO Richard Teng said subsequent investigations uncovered additional points of breach in the cyberattack.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "\"Our subsequent investigation has uncovered additional points of breach,\" Binance's co-CEO Richard Teng said."
+        }
+      ]
+    },
+    {
+      "claim": "A Binance spokesperson said on Friday that some 80% of stolen assets have been secured, while the rest remains unaccounted for.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Some 80% of stolen assets have been secured, a Binance spokesperson said on Friday, but the rest remains unaccounted for."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "\"Some 80% of stolen assets have been secured, a Binance spokesperson said on Friday, but the rest remains unaccounted for.\""
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Two major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6.3bn hack of Binance.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Two major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6.3bn (Â£4.7bn) hack of Binance, the world's largest cryptocurrency exchange."
+        }
+      ]
+    },
+    {
+      "claim": "The Lazarus Group, also known as TraderTraitor, was identified with high confidence by TRM Labs and Chainalysis as the likely culprit in the Binance hack.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "The Lazarus Group, a North Korean hacking unit also known as TraderTraitor, was identified \"with high confidence\" by TRM Labs, as well as Chainalysis."
+        }
+      ]
+    },
+    {
+      "claim": "In 2014, Sony Pictures was targeted in a suspected North Korean hack following the Hollywood film The Interview, which involved a plot to assassinate Kim Jong Un.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Though not financial, the nation's most spectacular suspected hack took place in 2014. The target: Sony Pictures, which had made the Hollywood film The Interview. The film involves a plot to assassinate Kim."
+        }
+      ]
+    },
+    {
+      "claim": "The FBI said last year that North Korea was responsible for the theft of $1.5bn on the Bybit exchange.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Last year, the Federal Bureau of Investigation (FBI) said North Korea was responsible for the theft of $1.5bn on the Bybit exchange."
+        }
+      ]
+    },
+    {
+      "claim": "North Korean hackers are suspected in the theft of $620m worth of cryptocurrency in 2022.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "North Korean hackers are also suspected in the theft of $620m worth of cryptocurrency in 2022."
+        }
+      ]
+    },
+    {
+      "claim": "Binance's co-CEO Richard Teng said subsequent investigations uncovered additional points of breach in the cyberattack.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "\"Our subsequent investigation has uncovered additional points of breach,\" Binance's co-CEO Richard Teng said."
+        }
+      ]
+    },
+    {
+      "claim": "A Binance spokesperson said on Friday that some 80% of stolen assets have been secured, while the rest remains unaccounted for.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Some 80% of stolen assets have been secured, a Binance spokesperson said on Friday, but the rest remains unaccounted for."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "\"Some 80% of stolen assets have been secured, a Binance spokesperson said on Friday, but the rest remains unaccounted for.\""
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Two major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6.3bn hack of Binance.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Two major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6.3bn (Â£4.7bn) hack of Binance, the world's largest cryptocurrency exchange."
+        }
+      ]
+    },
+    {
+      "claim": "The Lazarus Group, also known as TraderTraitor, was identified with high confidence by TRM Labs and Chainalysis as the likely culprit in the Binance hack.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "The Lazarus Group, a North Korean hacking unit also known as TraderTraitor, was identified \"with high confidence\" by TRM Labs, as well as Chainalysis."
+        }
+      ]
+    },
+    {
+      "claim": "In 2014, Sony Pictures was targeted in a suspected North Korean hack following the Hollywood film The Interview, which involved a plot to assassinate Kim Jong Un.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Though not financial, the nation's most spectacular suspected hack took place in 2014. The target: Sony Pictures, which had made the Hollywood film The Interview. The film involves a plot to assassinate Kim."
+        }
+      ]
+    },
+    {
+      "claim": "The FBI said last year that North Korea was responsible for the theft of $1.5bn on the Bybit exchange.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Last year, the Federal Bureau of Investigation (FBI) said North Korea was responsible for the theft of $1.5bn on the Bybit exchange."
+        }
+      ]
+    },
+    {
+      "claim": "North Korean hackers are suspected in the theft of $620m worth of cryptocurrency in 2022.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "North Korean hackers are also suspected in the theft of $620m worth of cryptocurrency in 2022."
+        }
+      ]
+    },
+    {
+      "claim": "Binance's co-CEO Richard Teng said subsequent investigations uncovered additional points of breach in the cyberattack.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "\"Our subsequent investigation has uncovered additional points of breach,\" Binance's co-CEO Richard Teng said."
+        }
+      ]
+    },
+    {
+      "claim": "A Binance spokesperson said on Friday that some 80% of stolen assets have been secured, while the rest remains unaccounted for.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Some 80% of stolen assets have been secured, a Binance spokesperson said on Friday, but the rest remains unaccounted for."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "\"Some 80% of stolen assets have been secured, a Binance spokesperson said on Friday, but the rest remains unaccounted for.\""
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss": 3568,
+    "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/": 1948,
+    "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out": 2580,
+    "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/": 4312
+  }
+}
