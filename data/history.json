@@ -2876,5 +2876,78 @@
     ],
     "created_at": "2026-10-31T11:49:57+03:00",
     "verified_claims_count": 7
+  },
+  {
+    "id": "2026-10-31-1500",
+    "date": "2026-10-31",
+    "slot": "15:00",
+    "type": "news",
+    "title_tr": "Maison Lineti: Viski Üretiminde Yeni Bir Dönem",
+    "original_title": "There’s a Completely New Type of Whisky. It’s French and Made in Concrete Eggs",
+    "source_urls": [
+      "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/"
+    ],
+    "canonical_url": "https://wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs",
+    "entities": [
+      "Maison Lineti",
+      "Magali Picard",
+      "Alex Cosculluela",
+      "Xavier Payan",
+      "World Whisky Forum"
+    ],
+    "event_type": "product_innovation",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae5d474b84259308bd3b7f6",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae5d48bceb491e585f3bd66",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae5d48da114574349a13dd7",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2116496464520081910",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18132889165688444",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfKFD-6lP_e",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae5d4ad1891472093cda3b5",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae5d4c4a114574349a15468",
+        "permalink": "https://facebook.com/1351036918092059_122119929867484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-31T14:45:28+03:00",
+    "verified_claims_count": 7
   }
 ]
