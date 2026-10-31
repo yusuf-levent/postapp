@@ -2949,5 +2949,83 @@
     ],
     "created_at": "2026-10-31T14:45:28+03:00",
     "verified_claims_count": 7
+  },
+  {
+    "id": "2026-10-31-1800",
+    "date": "2026-10-31",
+    "slot": "18:00",
+    "type": "edu",
+    "title_tr": "Samsung ve One UI Dünyasına Yakından Bakış",
+    "original_title": "5 Samsung One UI features you won't get with other Android phones",
+    "source_urls": [
+      "https://www.engadget.com/2299207/one-ui-features-not-on-other-androids/"
+    ],
+    "canonical_url": "https://engadget.com/2299207/one-ui-features-not-on-other-androids",
+    "entities": [
+      "Samsung",
+      "One UI",
+      "One UI 9",
+      "One UI 8.5",
+      "One UI 8",
+      "Android",
+      "Android 17",
+      "Harmon Kardon",
+      "Denon",
+      "JBL"
+    ],
+    "event_type": "software_features",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae5fe71ab019b90870a890b",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae5fe88f0984eef33144aca",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae5fe9f1ee172cd6da83458",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2116541636100448340",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "17980475735916150",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfKZnLukask",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae5fec537c1acd2a0b45c22",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae5fedcab019b90870a9e65",
+        "permalink": "https://facebook.com/1351036918092059_122119970787484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-31T17:44:57+03:00",
+    "verified_claims_count": 7
   }
 ]
