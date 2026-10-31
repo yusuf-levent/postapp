@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA EKOSİSTEMİ",
+    "title": "Yapay Zeka Yatırımlarında Hızlı Yükseliş",
+    "highlight_words": [
+      "Hızlı",
+      "Yükseliş"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Sektördeki değerlemeler ve yatırım dinamikleri değişiyor.",
+    "source_tags": [
+      "TECHCRUNCH",
+      "THE VERGE"
+    ]
+  },
+  "context": {
+    "heading": "Yatırım Dünyasında Neler Değişiyor?",
+    "cards": [
+      {
+        "card_title": "Değerlemeler Artıyor",
+        "card_body": "OpenAI ve Anthropic gibi devlerin şirket değerlemeleri oldukça hızlı bir şekilde yükseliş gösterdi."
+      },
+      {
+        "card_title": "Yatırım Turu Büyüklükleri",
+        "card_body": "Yatırım ekosisteminde tohum yatırımı turu büyüklükleri neredeyse iki katına çıkmış durumda."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "2 KAT",
+    "stat_caption": "Tohum yatırımı turu büyüklüklerindeki artış oranı.",
+    "stat_quote": "Sektördeki fonların olgunlaşması ve büyük çıkışlar, yatırımcıların stratejilerini yeniden şekillendiriyor."
+  },
+  "details": {
+    "heading": "Önemli Gelişmeler ve İsimler",
+    "cards": [
+      {
+        "card_title": "Stratejik İsimler",
+        "card_body": "Beezer Clarkson LGT Capital Partners'ta, Amit Bhatti ise TrueBridge firmasında görev alarak süreci yönetiyor."
+      },
+      {
+        "card_title": "Başarılı Çıkışlar",
+        "card_body": "Cerebras bu yıl büyük bir çıkış gerçekleştirirken, Cursor ile 60 milyar dolarlık bir birleşme ve satın alma yaşandı."
+      },
+      {
+        "card_title": "Fonların Durumu",
+        "card_body": "2021 yılı fonları artık beş yılını doldurmuş durumda, bu da yeni yatırım döngülerini tetikliyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etkiler",
+    "cards": [
+      {
+        "card_title": "Sektörel Hareketlilik",
+        "card_body": "Büyük ölçekli çıkışlar ve artan değerlemeler, yapay zeka girişimlerine olan ilgiyi daha da artırıyor."
+      },
+      {
+        "card_title": "Yatırımcı Stratejisi",
+        "card_body": "Olgunlaşan fonlar ve yeni birleşmeler, ekosistemin finansal yapısını daha dinamik hale getiriyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce yapay zeka şirketlerinin bu hızlı değerleme artışı sürdürülebilir mi?",
+    "reminder_line": "Tekno Pusula ile teknolojinin nabzını tutmaya devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

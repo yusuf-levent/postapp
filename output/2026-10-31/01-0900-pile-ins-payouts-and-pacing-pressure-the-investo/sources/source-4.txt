@@ -1,0 +1,10 @@
+URL: https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers
+Erişim zamanı: 2026-10-31T09:07:25+03:00
+
+Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it’s “terrible” to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI’s impact on math, Altman said:
+Sam Altman says it’s better for RAM to be in a data center than on your desk
+As OpenAI’s buying spree squeezes the world’s supply of RAM, its CEO explains why he needs so much.
+“A lot of people want local inference. And somehow, they assume that the problem is solved now because we are going to have open-source models, we’re going to be able to run them on our computers, and so we’re not going to need all the stuff in the data center.
+But from a global allocation perspective, actually, it’s quite terrible to have everybody have a bunch of the world’s limited supply of DRAM sitting in their own computer and being used five percent of the time.
+You want maximum utilization in the cloud if you’re trying to deal with this very supply constrained environment. And somehow everyone’s— many people’s intuition is the opposite of that.”
+Whether Altman meant your gaming PC or developers working with something like the Surface RTX Spark Dev Box or the new touchscreen MacBook Pro, the outcome is the same. Right now, memory companies Samsung and SK Hynix have long term deals with cloud service operators and projects like OpenAI’s Stargate that have reserved much of the world’s RAM output over the next few years. And the billions they’re willing to lay out for chips is why the laptops, phones, and other tech you use are getting more expensive right now.

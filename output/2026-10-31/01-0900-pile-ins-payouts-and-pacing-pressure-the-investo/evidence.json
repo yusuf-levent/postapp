@@ -1,0 +1,274 @@
+{
+  "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+  "canonical_url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+  "source_names": [
+    "TechCrunch",
+    "Wired",
+    "Ars Technica",
+    "The Verge"
+  ],
+  "checked_at": "2026-10-31T09:07:25+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "OpenAI ve Anthropic'in şirket değerlemeleri çok hızlı bir şekilde yükselmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "OpenAI and Anthropic’s valuations have shot up so quickly that nearly everyone has piled into the same two companies on the way up"
+        }
+      ]
+    },
+    {
+      "claim": "Beezer Clarkson, Zürih merkezli bir varlık yönetim şirketi olan LGT Capital Partners'ta görev yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "I talked about all of it recently with Beezer Clarkson of LGT Capital Partners, a Zurich-based diversified asset manager"
+        }
+      ]
+    },
+    {
+      "claim": "Amit Bhatti, Chapel Hill merkezli ve sadece girişim sermayesine odaklanan TrueBridge firmasında çalışmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "and Amit Bhatti of TrueBridge, a Chapel Hill firm that focuses solely on venture."
+        }
+      ]
+    },
+    {
+      "claim": "Tohum yatırımı turu büyüklükleri neredeyse iki katına çıkmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "Seed round sizes have gone up almost 2x, too"
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "Seed round sizes have gone up almost 2x, too, so if you want to lead, you’re writing 2x the check."
+        }
+      ]
+    },
+    {
+      "claim": "2021 yılı fonları beş yılını doldurmuş durumdadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "The 2021 vintages are still early, five years in"
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "The 2021 vintages are still early, five years in, but they argue against doing one-year funds."
+        }
+      ]
+    },
+    {
+      "claim": "Cerebras bu yıl büyük bir çıkış (exit) gerçekleştirmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "Cerebras was a big exit this year"
+        }
+      ]
+    },
+    {
+      "claim": "Cursor ile 60 milyar dolarlık bir birleşme ve satın alma çıkışı gerçekleşmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "We’re seeing $10 billion-plus M&A exits, a $60 billion one [with Cursor]."
+        }
+      ]
+    },
+    {
+      "claim": "Girişim sermayesi fonlarına yatırılan paranın yüzde ellisi büyük fonlara gitmektedir.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "round1": [
+    {
+      "claim": "OpenAI ve Anthropic'in şirket değerlemeleri çok hızlı bir şekilde yükselmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "OpenAI and Anthropic’s valuations have shot up so quickly that nearly everyone has piled into the same two companies on the way up"
+        }
+      ]
+    },
+    {
+      "claim": "Beezer Clarkson, Zürih merkezli bir varlık yönetim şirketi olan LGT Capital Partners'ta görev yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "I talked about all of it recently with Beezer Clarkson of LGT Capital Partners, a Zurich-based diversified asset manager"
+        }
+      ]
+    },
+    {
+      "claim": "Amit Bhatti, Chapel Hill merkezli ve sadece girişim sermayesine odaklanan TrueBridge firmasında çalışmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "and Amit Bhatti of TrueBridge, a Chapel Hill firm that focuses solely on venture."
+        }
+      ]
+    },
+    {
+      "claim": "Tohum yatırımı turu büyüklükleri neredeyse iki katına çıkmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "Seed round sizes have gone up almost 2x, too"
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "Seed round sizes have gone up almost 2x, too, so if you want to lead, you’re writing 2x the check."
+        }
+      ]
+    },
+    {
+      "claim": "2021 yılı fonları beş yılını doldurmuş durumdadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "The 2021 vintages are still early, five years in"
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "The 2021 vintages are still early, five years in, but they argue against doing one-year funds."
+        }
+      ]
+    },
+    {
+      "claim": "Cerebras bu yıl büyük bir çıkış (exit) gerçekleştirmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "Cerebras was a big exit this year"
+        }
+      ]
+    },
+    {
+      "claim": "Cursor ile 60 milyar dolarlık bir birleşme ve satın alma çıkışı gerçekleşmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "We’re seeing $10 billion-plus M&A exits, a $60 billion one [with Cursor]."
+        }
+      ]
+    },
+    {
+      "claim": "Girişim sermayesi fonlarına yatırılan paranın yüzde ellisi büyük fonlara gitmektedir.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "round2": [
+    {
+      "claim": "OpenAI ve Anthropic'in şirket değerlemeleri çok hızlı bir şekilde yükselmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "OpenAI and Anthropic’s valuations have shot up so quickly that nearly everyone has piled into the same two companies on the way up"
+        }
+      ]
+    },
+    {
+      "claim": "Beezer Clarkson, Zürih merkezli bir varlık yönetim şirketi olan LGT Capital Partners'ta görev yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "I talked about all of it recently with Beezer Clarkson of LGT Capital Partners, a Zurich-based diversified asset manager"
+        }
+      ]
+    },
+    {
+      "claim": "Amit Bhatti, Chapel Hill merkezli ve sadece girişim sermayesine odaklanan TrueBridge firmasında çalışmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "and Amit Bhatti of TrueBridge, a Chapel Hill firm that focuses solely on venture."
+        }
+      ]
+    },
+    {
+      "claim": "Tohum yatırımı turu büyüklükleri neredeyse iki katına çıkmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "Seed round sizes have gone up almost 2x, too"
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "Seed round sizes have gone up almost 2x, too, so if you want to lead, you’re writing 2x the check."
+        }
+      ]
+    },
+    {
+      "claim": "2021 yılı fonları beş yılını doldurmuş durumdadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "The 2021 vintages are still early, five years in"
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "The 2021 vintages are still early, five years in, but they argue against doing one-year funds."
+        }
+      ]
+    },
+    {
+      "claim": "Cerebras bu yıl büyük bir çıkış (exit) gerçekleştirmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "Cerebras was a big exit this year"
+        }
+      ]
+    },
+    {
+      "claim": "Cursor ile 60 milyar dolarlık bir birleşme ve satın alma çıkışı gerçekleşmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "quote": "We’re seeing $10 billion-plus M&A exits, a $60 billion one [with Cursor]."
+        }
+      ]
+    },
+    {
+      "claim": "Girişim sermayesi fonlarına yatırılan paranın yüzde ellisi büyük fonlara gitmektedir.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/": 14585,
+    "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/": 32585,
+    "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/": 1918,
+    "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers": 1655
+  }
+}
