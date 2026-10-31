@@ -1,0 +1,133 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ REHBERİ",
+    "title": "Samsung ve One UI Dünyasına Yakından Bakış",
+    "highlight_words": [
+      "Samsung",
+      "One UI"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Galaxy telefonlar ve One UI özellikleri hakkında bilmeniz gerekenler.",
+    "source_tags": [
+      "Engadget",
+      "Wired",
+      "Apple Newsroom"
+    ]
+  },
+  "problem": {
+    "heading": "Samsung ve One UI Gerçekleri",
+    "cards": [
+      {
+        "card_title": "Popüler Akıllı Telefonlar",
+        "card_body": "Samsung Galaxy akıllı telefonlar, dünyadaki en popüler Android akıllı telefonlardır."
+      },
+      {
+        "card_title": "Ses Markaları",
+        "card_body": "Samsung, Harman Kardon, Denon ve JBL gibi ses markalarının sahibidir."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "One UI 9 ve Özellikleri",
+      "cards": [
+        {
+          "card_title": "One UI 9 Sürümü",
+          "card_body": "One UI 9, Android 17 üzerine kurulmuş en güncel Samsung arayüz sürümüdür."
+        },
+        {
+          "card_title": "Özellik Uyumluluğu",
+          "card_body": "Bahsedilen tüm bu özellikler One UI 8 sürümünde de mevcuttur."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Good Lock ve Eklentiler",
+      "cards": [
+        {
+          "card_title": "Good Lock Yapısı",
+          "card_body": "Good Lock, indirilebilir eklentileri barındıran bir konteynerdir."
+        },
+        {
+          "card_title": "Eklenti Sayısı",
+          "card_body": "Yazının yazıldığı an itibarıyla Good Lock bünyesinde 23 adet eklenti bulunmaktadır."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Bağlantı ve Çoklu Kontrol",
+      "cards": [
+        {
+          "card_title": "Music Share Ayarı",
+          "card_body": "Music Share, bağlı bir cihazdan varsayılan olarak 10 dakika boyunca ses oynatılmazsa bağlantıyı keser."
+        },
+        {
+          "card_title": "Multi Control Desteği",
+          "card_body": "Multi Control özelliği, yazının yazıldığı tarih itibarıyla herhangi bir PC ile çalışabilmektedir."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "",
+      "cards": [],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Bu özelliklerden hangisini günlük hayatınızda daha aktif kullanıyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
+  },
+  "context": {
+    "heading": "Samsung ve One UI Gerçekleri",
+    "cards": [
+      {
+        "card_title": "Popüler Akıllı Telefonlar",
+        "card_body": "Samsung Galaxy akıllı telefonlar, dünyadaki en popüler Android akıllı telefonlardır."
+      },
+      {
+        "card_title": "Ses Markaları",
+        "card_body": "Samsung, Harman Kardon, Denon ve JBL gibi ses markalarının sahibidir."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "One UI 9 ve Özellikleri",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Good Lock ve Eklentiler",
+    "cards": [
+      {
+        "card_title": "Good Lock Yapısı",
+        "card_body": "Good Lock, indirilebilir eklentileri barındıran bir konteynerdir."
+      },
+      {
+        "card_title": "Eklenti Sayısı",
+        "card_body": "Yazının yazıldığı an itibarıyla Good Lock bünyesinde 23 adet eklenti bulunmaktadır."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Bağlantı ve Çoklu Kontrol",
+    "cards": [
+      {
+        "card_title": "Music Share Ayarı",
+        "card_body": "Music Share, bağlı bir cihazdan varsayılan olarak 10 dakika boyunca ses oynatılmazsa bağlantıyı keser."
+      },
+      {
+        "card_title": "Multi Control Desteği",
+        "card_body": "Multi Control özelliği, yazının yazıldığı tarih itibarıyla herhangi bir PC ile çalışabilmektedir."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}

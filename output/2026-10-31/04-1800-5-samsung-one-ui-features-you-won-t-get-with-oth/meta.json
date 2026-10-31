@@ -1,0 +1,10 @@
+{
+  "slot": "18:00",
+  "type": "edu",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 95.2,
+  "candidates_tried": 1,
+  "gemini_calls": 15,
+  "canonical_url": "https://www.engadget.com/2299207/one-ui-features-not-on-other-androids/",
+  "generated_at": "2026-10-31T17:42:51+03:00"
+}
