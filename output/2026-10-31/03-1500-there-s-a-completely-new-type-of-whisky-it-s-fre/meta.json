@@ -1,0 +1,10 @@
+{
+  "slot": "15:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 136.2,
+  "candidates_tried": 1,
+  "gemini_calls": 13,
+  "canonical_url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+  "generated_at": "2026-10-31T14:43:42+03:00"
+}

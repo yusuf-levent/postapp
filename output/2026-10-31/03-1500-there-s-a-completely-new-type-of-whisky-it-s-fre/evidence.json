@@ -1,0 +1,262 @@
+{
+  "title": "There’s a Completely New Type of Whisky. It’s French and Made in Concrete Eggs",
+  "canonical_url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+  "source_names": [
+    "Wired",
+    "BBC News – Technology",
+    "The Verge",
+    "OpenAI News"
+  ],
+  "checked_at": "2026-10-31T14:42:09+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Maison Lineti, 2018 yılında Magali Picard, Alex Cosculluela ve Xavier Payan tarafından kurulmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+          "quote": "The company launched in 2018 with their friend Xavier Payan, who studied wine and spirits management alongside Cosculluela."
+        },
+        {
+          "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+          "quote": "The masterminds behind Maison Lineti's wine-made whisky are Magali Picard, a chemical engineer who holds a doctorate in oenology from the University of Bordeaux, and her partner and cofounder, Alex Cosculluela. The company launched in 2018 with their friend Xavier Payan"
+        }
+      ]
+    },
+    {
+      "claim": "Maison Lineti, Haziran 2025'te World Whisky Forum'a ev sahipliği yapmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+          "quote": "After the producer hosted the prestigious World Whisky Forum in June 2025, its methods have set the industry all aflutter."
+        }
+      ]
+    },
+    {
+      "claim": "Maison Lineti'nin üretim sürecinde fermantasyon süresi yedi gündür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+          "quote": "Then there’s a long, seven-day fermentation that builds flavor (compared with a typical two or three days for scotch)."
+        }
+      ]
+    },
+    {
+      "claim": "Maison Lineti'nin Calibre No1 adlı viskisi yüzde 47,7 alkol oranına (ABV) sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+          "quote": "At 47.7 percent ABV, Calibre No1 single malt is WIRED's clear favorite"
+        }
+      ]
+    },
+    {
+      "claim": "Calibre No1 viskisi Birleşik Krallık'ta 50 sterlin fiyatla satışa sunulmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+          "quote": "At 47.7 percent ABV, Calibre No1 single malt is WIRED's clear favorite, and the most accessible at £50 (about $67) for 70 cl (about 23.7 fluid ounces)."
+        }
+      ]
+    },
+    {
+      "claim": "Complication No1 viskisi 850 şişe, Complication No2 viskisi ise 750 şişe ile sınırlı üretilmiştir.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Maison Lineti, viskilerini 2028 yılında ABD pazarına sunmayı planlamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+          "quote": "The intention, Cosculluela says, is to bring the spirit to the US in 2028."
+        }
+      ]
+    },
+    {
+      "claim": "Magali Picard, Bordeaux Üniversitesi'nden oenoloji alanında doktora derecesine sahip bir kimya mühendisidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+          "quote": "The masterminds behind Maison Lineti's wine-made whisky are Magali Picard, a chemical engineer who holds a doctorate in oenology from the University of Bordeaux"
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Maison Lineti, 2018 yılında Magali Picard, Alex Cosculluela ve Xavier Payan tarafından kurulmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+          "quote": "The company launched in 2018 with their friend Xavier Payan, who studied wine and spirits management alongside Cosculluela."
+        },
+        {
+          "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+          "quote": "The masterminds behind Maison Lineti's wine-made whisky are Magali Picard, a chemical engineer who holds a doctorate in oenology from the University of Bordeaux, and her partner and cofounder, Alex Cosculluela. The company launched in 2018 with their friend Xavier Payan"
+        }
+      ]
+    },
+    {
+      "claim": "Maison Lineti, Haziran 2025'te World Whisky Forum'a ev sahipliği yapmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+          "quote": "After the producer hosted the prestigious World Whisky Forum in June 2025, its methods have set the industry all aflutter."
+        }
+      ]
+    },
+    {
+      "claim": "Maison Lineti'nin üretim sürecinde fermantasyon süresi yedi gündür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+          "quote": "Then there’s a long, seven-day fermentation that builds flavor (compared with a typical two or three days for scotch)."
+        }
+      ]
+    },
+    {
+      "claim": "Maison Lineti'nin Calibre No1 adlı viskisi yüzde 47,7 alkol oranına (ABV) sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+          "quote": "At 47.7 percent ABV, Calibre No1 single malt is WIRED's clear favorite"
+        }
+      ]
+    },
+    {
+      "claim": "Calibre No1 viskisi Birleşik Krallık'ta 50 sterlin fiyatla satışa sunulmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+          "quote": "At 47.7 percent ABV, Calibre No1 single malt is WIRED's clear favorite, and the most accessible at £50 (about $67) for 70 cl (about 23.7 fluid ounces)."
+        }
+      ]
+    },
+    {
+      "claim": "Complication No1 viskisi 850 şişe, Complication No2 viskisi ise 750 şişe ile sınırlı üretilmiştir.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Maison Lineti, viskilerini 2028 yılında ABD pazarına sunmayı planlamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+          "quote": "The intention, Cosculluela says, is to bring the spirit to the US in 2028."
+        }
+      ]
+    },
+    {
+      "claim": "Magali Picard, Bordeaux Üniversitesi'nden oenoloji alanında doktora derecesine sahip bir kimya mühendisidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+          "quote": "The masterminds behind Maison Lineti's wine-made whisky are Magali Picard, a chemical engineer who holds a doctorate in oenology from the University of Bordeaux"
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Maison Lineti, 2018 yılında Magali Picard, Alex Cosculluela ve Xavier Payan tarafından kurulmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+          "quote": "The company launched in 2018 with their friend Xavier Payan, who studied wine and spirits management alongside Cosculluela."
+        },
+        {
+          "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+          "quote": "The masterminds behind Maison Lineti's wine-made whisky are Magali Picard, a chemical engineer who holds a doctorate in oenology from the University of Bordeaux, and her partner and cofounder, Alex Cosculluela. The company launched in 2018 with their friend Xavier Payan"
+        }
+      ]
+    },
+    {
+      "claim": "Maison Lineti, Haziran 2025'te World Whisky Forum'a ev sahipliği yapmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+          "quote": "After the producer hosted the prestigious World Whisky Forum in June 2025, its methods have set the industry all aflutter."
+        }
+      ]
+    },
+    {
+      "claim": "Maison Lineti'nin üretim sürecinde fermantasyon süresi yedi gündür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+          "quote": "Then there’s a long, seven-day fermentation that builds flavor (compared with a typical two or three days for scotch)."
+        }
+      ]
+    },
+    {
+      "claim": "Maison Lineti'nin Calibre No1 adlı viskisi yüzde 47,7 alkol oranına (ABV) sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+          "quote": "At 47.7 percent ABV, Calibre No1 single malt is WIRED's clear favorite"
+        }
+      ]
+    },
+    {
+      "claim": "Calibre No1 viskisi Birleşik Krallık'ta 50 sterlin fiyatla satışa sunulmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+          "quote": "At 47.7 percent ABV, Calibre No1 single malt is WIRED's clear favorite, and the most accessible at £50 (about $67) for 70 cl (about 23.7 fluid ounces)."
+        }
+      ]
+    },
+    {
+      "claim": "Complication No1 viskisi 850 şişe, Complication No2 viskisi ise 750 şişe ile sınırlı üretilmiştir.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Maison Lineti, viskilerini 2028 yılında ABD pazarına sunmayı planlamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+          "quote": "The intention, Cosculluela says, is to bring the spirit to the US in 2028."
+        }
+      ]
+    },
+    {
+      "claim": "Magali Picard, Bordeaux Üniversitesi'nden oenoloji alanında doktora derecesine sahip bir kimya mühendisidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+          "quote": "The masterminds behind Maison Lineti's wine-made whisky are Magali Picard, a chemical engineer who holds a doctorate in oenology from the University of Bordeaux"
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/": 9534,
+    "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss": 3568,
+    "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers": 1655,
+    "https://openai.com/index/community-safety-report-and-new-protections-for-teens": 7224
+  }
+}
