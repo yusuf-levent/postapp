@@ -3027,5 +3027,80 @@
     ],
     "created_at": "2026-10-31T17:44:57+03:00",
     "verified_claims_count": 7
+  },
+  {
+    "id": "2026-10-31-2100",
+    "date": "2026-10-31",
+    "slot": "21:00",
+    "type": "news",
+    "title_tr": "AirPods Özellikleri ve Güncelleme Rehberi",
+    "original_title": "Why your AirPods keep disconnecting without warning: These settings can fix it",
+    "source_urls": [
+      "https://www.engadget.com/2298547/why-mac-keeps-disconnecting-airpods/"
+    ],
+    "canonical_url": "https://engadget.com/2298547/why-mac-keeps-disconnecting-airpods",
+    "entities": [
+      "AirPods",
+      "AirPods Pro",
+      "AirPods Max",
+      "iPhone",
+      "iPad",
+      "Mac",
+      "Apple"
+    ],
+    "event_type": "technical_troubleshooting",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae63a4a21c807e9d57d6097",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae63a6137c1acd2a0c5bd27",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae63a781ee172cd6dba0624",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2116605900408381546",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "17988634152087251",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfK22WlgezZ",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae63aa7f0984eef33269f54",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae63ac01ee172cd6dba2757",
+        "permalink": "https://facebook.com/1351036918092059_122120024037484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-31T22:00:26+03:00",
+    "verified_claims_count": 4
   }
 ]
