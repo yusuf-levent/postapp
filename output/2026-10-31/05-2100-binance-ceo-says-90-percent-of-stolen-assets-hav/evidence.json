@@ -4,10 +4,10 @@
   "source_names": [
     "The Verge",
     "BBC News – Technology",
-    "Wired",
-    "TechCrunch"
+    "TechCrunch",
+    "Ars Technica"
   ],
-  "checked_at": "2026-10-31T21:42:16+03:00",
+  "checked_at": "2026-10-31T21:47:13+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
@@ -18,10 +18,6 @@
         {
           "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
           "quote": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist"
-        },
-        {
-          "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-          "quote": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist..."
         }
       ]
     },
@@ -35,40 +31,26 @@
         },
         {
           "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-          "quote": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company’s CEO says that 90 percent of the funds have been replaced..."
+          "quote": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company’s CEO says that 90 percent of the funds have been replaced"
         }
       ]
     },
     {
-      "claim": "Binance plans to cover the remaining 10 percent of the stolen funds.",
+      "claim": "The company plans to cover the remaining 10 percent of the stolen funds, which consist of less liquid tokens.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-          "quote": "the company plans to cover the remaining 10 percent as well."
+          "quote": "the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of “less liquid” tokens"
         },
         {
           "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-          "quote": "...and the company plans to cover the remaining 10 percent as well."
+          "quote": "the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of “less liquid” tokens, which the company says may take longer to acquire."
         }
       ]
     },
     {
-      "claim": "The remaining 10 percent consists of less liquid tokens which may take longer to acquire.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-          "quote": "the remaining 10 percent consists of “less liquid” tokens, which the company says may take longer to acquire."
-        },
-        {
-          "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-          "quote": "Binance is covering the stolen funds directly, and the remaining 10 percent consists of “less liquid” tokens, which the company says may take longer to acquire."
-        }
-      ]
-    },
-    {
-      "claim": "Withdrawals on Binance remain paused following the incident.",
+      "claim": "Binance withdrawals remain temporarily paused following the incident.",
       "verdict": "supported",
       "evidence": [
         {
@@ -82,17 +64,7 @@
       ]
     },
     {
-      "claim": "Binance stated in a post on X that withdrawals are on track to be enabled on Sunday.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-          "quote": "The company also said in a post on X that, while withdrawals remain paused, they’re on track to be enabled on Sunday."
-        }
-      ]
-    },
-    {
-      "claim": "Binance scheduled the reopening of withdrawals for Sunday, 2026-11-01.",
+      "claim": "Binance is on track to enable withdrawals again on Sunday, 2026-11-01.",
       "verdict": "supported",
       "evidence": [
         {
@@ -114,10 +86,6 @@
         {
           "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
           "quote": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist"
-        },
-        {
-          "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-          "quote": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist..."
         }
       ]
     },
@@ -131,40 +99,26 @@
         },
         {
           "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-          "quote": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company’s CEO says that 90 percent of the funds have been replaced..."
+          "quote": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company’s CEO says that 90 percent of the funds have been replaced"
         }
       ]
     },
     {
-      "claim": "Binance plans to cover the remaining 10 percent of the stolen funds.",
+      "claim": "The company plans to cover the remaining 10 percent of the stolen funds, which consist of less liquid tokens.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-          "quote": "the company plans to cover the remaining 10 percent as well."
+          "quote": "the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of “less liquid” tokens"
         },
         {
           "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-          "quote": "...and the company plans to cover the remaining 10 percent as well."
+          "quote": "the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of “less liquid” tokens, which the company says may take longer to acquire."
         }
       ]
     },
     {
-      "claim": "The remaining 10 percent consists of less liquid tokens which may take longer to acquire.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-          "quote": "the remaining 10 percent consists of “less liquid” tokens, which the company says may take longer to acquire."
-        },
-        {
-          "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-          "quote": "Binance is covering the stolen funds directly, and the remaining 10 percent consists of “less liquid” tokens, which the company says may take longer to acquire."
-        }
-      ]
-    },
-    {
-      "claim": "Withdrawals on Binance remain paused following the incident.",
+      "claim": "Binance withdrawals remain temporarily paused following the incident.",
       "verdict": "supported",
       "evidence": [
         {
@@ -178,17 +132,7 @@
       ]
     },
     {
-      "claim": "Binance stated in a post on X that withdrawals are on track to be enabled on Sunday.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-          "quote": "The company also said in a post on X that, while withdrawals remain paused, they’re on track to be enabled on Sunday."
-        }
-      ]
-    },
-    {
-      "claim": "Binance scheduled the reopening of withdrawals for Sunday, 2026-11-01.",
+      "claim": "Binance is on track to enable withdrawals again on Sunday, 2026-11-01.",
       "verdict": "supported",
       "evidence": [
         {
@@ -210,10 +154,6 @@
         {
           "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
           "quote": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist"
-        },
-        {
-          "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-          "quote": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist..."
         }
       ]
     },
@@ -227,40 +167,26 @@
         },
         {
           "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-          "quote": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company’s CEO says that 90 percent of the funds have been replaced..."
+          "quote": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company’s CEO says that 90 percent of the funds have been replaced"
         }
       ]
     },
     {
-      "claim": "Binance plans to cover the remaining 10 percent of the stolen funds.",
+      "claim": "The company plans to cover the remaining 10 percent of the stolen funds, which consist of less liquid tokens.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-          "quote": "the company plans to cover the remaining 10 percent as well."
+          "quote": "the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of “less liquid” tokens"
         },
         {
           "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-          "quote": "...and the company plans to cover the remaining 10 percent as well."
+          "quote": "the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of “less liquid” tokens, which the company says may take longer to acquire."
         }
       ]
     },
     {
-      "claim": "The remaining 10 percent consists of less liquid tokens which may take longer to acquire.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-          "quote": "the remaining 10 percent consists of “less liquid” tokens, which the company says may take longer to acquire."
-        },
-        {
-          "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-          "quote": "Binance is covering the stolen funds directly, and the remaining 10 percent consists of “less liquid” tokens, which the company says may take longer to acquire."
-        }
-      ]
-    },
-    {
-      "claim": "Withdrawals on Binance remain paused following the incident.",
+      "claim": "Binance withdrawals remain temporarily paused following the incident.",
       "verdict": "supported",
       "evidence": [
         {
@@ -274,17 +200,7 @@
       ]
     },
     {
-      "claim": "Binance stated in a post on X that withdrawals are on track to be enabled on Sunday.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-          "quote": "The company also said in a post on X that, while withdrawals remain paused, they’re on track to be enabled on Sunday."
-        }
-      ]
-    },
-    {
-      "claim": "Binance scheduled the reopening of withdrawals for Sunday, 2026-11-01.",
+      "claim": "Binance is on track to enable withdrawals again on Sunday, 2026-11-01.",
       "verdict": "supported",
       "evidence": [
         {
@@ -301,7 +217,7 @@
   "source_texts": {
     "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto": 1152,
     "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss": 3565,
-    "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/": 7640,
-    "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/": 4312
+    "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/": 4312,
+    "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/": 1976
   }
 }
