@@ -1,65 +1,65 @@
 {
   "cover": {
-    "category_label": "TEKNOLOJİ VE GÜVENLİK",
-    "title": "Binance Hack Olayında Lazarus Grubu İddiası",
+    "category_label": "BLOKZİNCİR GÜVENLİĞİ",
+    "title": "Binance Soygununda Kuzey Kore İzi",
     "highlight_words": [
-      "Lazarus Grubu",
+      "Kuzey Kore",
       "Binance"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Blokzincir analiz firmaları büyük siber saldırının arkasındaki şüphelileri açıkladı.",
+    "subtitle": "Blokzincir analitik firmaları soygunun arkasındaki grubu tespit etti.",
     "source_tags": [
       "BBC NEWS",
-      "THE VERGE"
+      "ARS TECHNICA"
     ]
   },
   "context": {
-    "heading": "Saldırının Arkasındaki Şüpheliler",
+    "heading": "Olayın Arka Planı",
     "cards": [
       {
-        "card_title": "Blokzincir Analizi",
-        "card_body": "İki büyük blokzincir analiz firması, Binance saldırısında Kuzey Kore bağlantılı bir gruba işaret eden istihbarata sahip."
+        "card_title": "Büyük Soygun",
+        "card_body": "Dünyanın en büyük kripto para borsası Binance, 6.3 milyar dolarlık bir soygunla sarsıldı."
       },
       {
-        "card_title": "Yüksek Güvenilirlik",
-        "card_body": "TRM Labs ve Chainalysis, TraderTraitor olarak da bilinen Lazarus Grubunu sorumlu olarak tanımladı."
+        "card_title": "Analitik Bulguları",
+        "card_body": "İki büyük blokzincir analitik firması olayda Kuzey Kore devlet destekli bir grubun parmağı olduğunu belirtti."
       }
     ]
   },
   "stat": {
-    "big_stat": "6.3 MİLYAR $",
-    "stat_caption": "Binance hack olayında çalınan tahmini varlık büyüklüğü.",
-    "stat_quote": "Binance sözcüsü, çalınan varlıkların yaklaşık yüzde 80'inin güvence altına alındığını, kalanın ise kayıp olduğunu belirtti."
+    "big_stat": "%80",
+    "stat_caption": "Çalıntı varlıkların güvence altına alınan kısmı.",
+    "stat_quote": "Binance sözcüsü, çalıntı varlıkların yaklaşık %80'inin güvence altına alındığını, geri kalanın henüz bulunamadığını belirtti."
   },
   "details": {
-    "heading": "Soruşturma ve Açıklamalar",
+    "heading": "Teknik İncelemeler",
     "cards": [
       {
-        "card_title": "Güvenlik Açıkları",
-        "card_body": "Binance Eş-CEO'su Richard Teng, sonraki incelemelerin siber saldırıda ek ihlal noktaları ortaya çıkardığını ifade etti."
+        "card_title": "Yüksek Güvenli Tespit",
+        "card_body": "TRM Labs ve Chainalysis, Binance hack olayının arkasında Lazarus Group olduğunu yüksek güvenle tespit etti."
       },
       {
-        "card_title": "Varlıkların Durumu",
-        "card_body": "Cuma günü yapılan açıklamaya göre çalınan fonların önemli bir kısmı kurtarılırken, kalan kısım henüz bulunamadı."
+        "card_title": "Ek İhlaller",
+        "card_body": "Binance co-CEO'su Richard Teng, sonraki incelemelerinde ek ihlal noktaları ortaya çıkardıklarını söyledi."
       }
     ]
   },
   "impact": {
-    "heading": "Siber Tehdit Geçmişi",
+    "heading": "Geçmişten Günümüze Tehdit",
     "cards": [
       {
-        "card_title": "Geçmiş Olaylar",
-        "card_body": "FBI geçen yıl Kuzey Korea'nın Bybit borsasından 1.5 milyar dolar hırsızlıktan sorumlu olduğunu açıklamıştı."
+        "card_title": "Siber Saldırı Geçmişi",
+        "card_body": "Kuzey Koreli hackerlar daha önce 2022 yılında 620 milyon dolar değerinde kripto para hırsızlığıyla suçlanmıştı."
       },
       {
-        "card_title": "Kripto Soygunları",
-        "card_body": "2022 yılında da 620 milyon dolar değerinde kripto para hırsızlığında Kuzey Koreli hackerlar şüphelenilmişti."
+        "card_title": "FBI Açıklamaları",
+        "card_body": "FBI, geçen yıl Kuzey Kore'nin Bybit borsasından 1.5 milyar dolar çalınmasından sorumlu olduğunu açıklamıştı."
       }
     ]
   },
   "cta": {
-    "question": "Kripto borsalarında siber güvenlik önlemleri sence yeterince hızlı gelişiyor mu?",
-    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için Tekno Pusula'yı takipte kal!"
+    "question": "Kripto para borsalarında merkeziyetçilik güvenlik açıklarını artırıyor mu?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

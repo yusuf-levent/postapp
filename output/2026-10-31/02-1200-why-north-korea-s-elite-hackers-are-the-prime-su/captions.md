@@ -2,42 +2,36 @@
 
 ## INSTAGRAM
 
-Binance hack olayının arkasında kim var? Blokzincir analiz firmaları TRM Labs ve Chainalysis, büyük siber saldırının arkasında Kuzey Kore bağlantılı Lazarus Grubunun olduğunu açıkladı. 6.3 milyar dolarlık tahmini varlık büyüklüğünü hedef alan bu olayda, Binance sözcüsü çalınan varlıkların yaklaşık yüzde 80'inin güvence altına alındığını belirtti. Güvenlik önlemleri her geçen gün daha kritik hale geliyor. Kripto borsalarında siber güvenlik önlemleri sence yeterince hızlı gelişiyor mu? Kaynak: BBC News – Technology.
+Binance 6.3 milyar dolarlık dev bir soygunla sarsıldı! Blokzincir analitik firmaları, olayın arkasında Kuzey Kore destekli Lazarus Group'un olduğunu açıkladı. Çalıntı varlıkların yaklaşık yüzde 80'i güvence altına alınırken, kalan kısım için çalışmalar sürüyor. Kripto para borsalarında merkeziyetçilik güvenlik açıklarını artırıyor mu? Kaynak: BBC News ve Ars Technica
 
-#Binance #LazarusGrubu #Kripto #SiberGüvenlik #Teknoloji #Blokzincir #Haber #TeknoPusula
+#Binance #KuzeyKore #KriptoGüvenliği #Blokzincir #SiberGüvenlik #Teknoloji #Haber #CryptoSecurity #Blockchain
 
 ## TIKTOK
 
-Binance hack olayında şok iddia! 6.3 milyar dolarlık devasa vurgunun arkasında Kuzey Kore bağlantılı Lazarus Grubu mu var? Detaylar için kaydır! Kaynak: The Verge.
+Binance soygununda Kuzey Kore izi! 6.3 milyar dolarlık dev vurgunun arkasındaki grup tespit edildi. Kaynak: BBC News
 
-#Binance #Lazarus #SiberGüvenlik #Kripto #Teknoloji
+#Binance #KuzeyKore #Kripto #SiberGüvenlik
 
 ## X
 
-Binance hack olayında Lazarus Grubu şüphesi! TRM Labs ve Chainalysis raporuna göre büyük siber saldırının arkasında Kuzey Kore bağlantılı grup var. Fonların %80'i kurtarıldı. Kripto güvenliği hakkında ne düşünüyorsunuz? Kaynak: BBC News – Technology.
+Binance'i sarsan 6.3 milyar dolarlık soygunun arkasında Kuzey Kore bağlantılı Lazarus Group'un olduğu tespit edildi. Varlıkların yüzde 80'i güvence altına alındı. Kaynak: BBC News
 
-#Binance #SiberGüvenlik
+#Binance #Kripto
 
 ## THREADS
 
-Binance Hack Olayında Lazarus Grubu İddiası
-
-Blokzincir analiz firmaları TRM Labs ve Chainalysis, büyük siber saldırının arkasında Kuzey Kore bağlantılı Lazarus Grubunun olduğunu açıkladı. 6.3 milyar dolarlık tahmini varlık büyüklüğünü hedef alan olayda fonların yüzde 80'i güvenceye alındı.
-
-Kripto borsalarında siber güvenlik önlemleri sence yeterince hızlı gelişiyor mu? 💭
-
-Kaynak: BBC News – Technology.
+Binance 6.3 milyar dolarlık soygunla sarsıldı! Analitik firmaları olayın arkasında Kuzey Kore destekli grubun olduğunu doğruladı. Çalıntı varlıkların yüzde 80'i kurtarıldı. 💭 Kripto borsalarında güvenlik sence yeterli mi? Kaynak: BBC News
 
 #Binance
 
 ## LINKEDIN
 
-Kripto para ekosisteminde siber güvenlik ve risk yönetimi bir kez daha odak noktasında. Binance hack olayını inceleyen TRM Labs ve Chainalysis gibi önde gelen blokzincir analiz firmaları, saldırının arkasında Kuzey Kore bağlantılı Lazarus Grubunun bulunduğunu bildirdi. 6.3 milyar dolarlık devasa büyüklükteki olayda, fonların yaklaşık yüzde 80'inin başarılı bir şekilde güvence altına alındığı ifade edilirken, kalan kısmın tespiti için çalışmalar sürüyor. Bu durum, finansal teknolojilerde proaktif güvenlik altyapılarının ve denetim mekanizmalarının ne denli hayati olduğunu bir kez daha kanıtlıyor. Sektördeki güvenlik standartlarının geleceğini nasıl değerlendiriyorsunuz? Kaynak: TechCrunch.
+Dünyanın en büyük kripto para borsası Binance, 6.3 milyar dolarlık bir siber saldırıyla karşı karşıya kaldı. TRM Labs ve Chainalysis raporlarına göre, saldırının arkasında Kuzey Kore devlet destekli Lazarus Group yer alıyor. Olay sonrasında varlıkların yüzde 80'i güvence altına alınırken, merkezi borsalardaki güvenlik protokollerinin önemi bir kez daha gündeme geldi. Kaynak: BBC News ve Ars Technica
 
-#SiberGüvenlik #Blokzincir #Fintech #KriptoPara #RiskYönetimi
+#SiberGüvenlik #Blokzincir #KriptoPara #Teknoloji #BilgiGüvenliği
 
 ## FACEBOOK
 
-Binance hack olayının arkasındaki gizem aralanıyor! Blokzincir analiz firmaları TRM Labs ve Chainalysis, büyük siber saldırının arkasında Kuzey Kore bağlantılı Lazarus Grubunun yer aldığını açıkladı. 6.3 milyar dolarlık tahmini varlık büyüklüğünü hedef alan bu olayda, Binance sözcüsü çalınan varlıkların yaklaşık yüzde 80'inin güvence altına alındığını duyurdu. Kripto borsalarında siber güvenlik önlemleri sence yeterince hızlı gelişiyor mu? Kaynak: Ars Technica.
+Binance 6.3 milyar dolarlık büyük bir soygunla sarsıldı. Blokzincir analitik firmaları, olayın arkasında Kuzey Kore destekli bir grubun olduğunu tespit etti. Çalıntı varlıkların yaklaşık yüzde 80'i güvence altına alınırken, incelemeler devam ediyor. Kripto para borsalarında güvenlik açık hakkında ne düşünüyorsunuz? Kaynak: BBC News
 
-#Binance #SiberGüvenlik #Kripto #Teknoloji #Haber
+#Binance #KriptoGüvenliği #Teknoloji #Haber
