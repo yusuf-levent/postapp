@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "KRİPTO GÜVENLİĞİ",
+    "title": "Binance'den 6.3 Milyar Dolarlık Vurgun",
+    "highlight_words": [
+      "6.3 Milyar",
+      "Binance"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Kripto para borsası Binance'de gerçekleşen büyük siber soygunun detayları ve son durum.",
+    "source_tags": [
+      "THE VERGE",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Olayın Arka Planı",
+    "cards": [
+      {
+        "card_title": "Büyük Soygun",
+        "card_body": "Siber saldırganlar, bir kripto soygununda Binance müşterilerinden 6.3 milyar dolar çaldı."
+      },
+      {
+        "card_title": "Para Çekme İşlemleri",
+        "card_body": "Yaşanan bu siber güvenlik olayının ardından Binance platformundaki para çekme işlemleri geçici olarak durduruldu."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "%90",
+    "stat_caption": "Çalınan fonların yerine konulan miktar oranı.",
+    "stat_quote": "Binance CEO'su, çalınan fonların yüzde 90'ının yerine konulduğunu açıkladı."
+  },
+  "details": {
+    "heading": "Kalan Fonlar ve Süreç",
+    "cards": [
+      {
+        "card_title": "Kalan Yüzde 10",
+        "card_body": "Binance, çalınan fonların kalan yüzde 10'luk kısmını da karşılamayı planlıyor."
+      },
+      {
+        "card_title": "Likidite Durumu",
+        "card_body": "Kalan yüzde 10'luk kısım, temin edilmesi daha uzun sürebilecek daha az likit tokenlerden oluşuyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcılar İçin Son Durum",
+    "cards": [
+      {
+        "card_title": "İşlem Takvimi",
+        "card_body": "Binance, X üzerinde yaptığı bir paylaşımda para çekme işlemlerinin Pazar günü yeniden açılmasının planlandığını belirtti."
+      },
+      {
+        "card_title": "Yeniden Açılış",
+        "card_body": "Para çekme işlemlerinin yeniden açılması 2026-11-01 tarihine, yani Pazar gününe planlandı."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Kripto borsalarındaki bu tarz büyük çaplı güvenlik açıklarının önüne sizce nasıl geçilebilir?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

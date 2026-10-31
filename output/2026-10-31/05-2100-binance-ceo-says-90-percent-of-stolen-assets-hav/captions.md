@@ -1,0 +1,43 @@
+# Platform Açıklamaları
+
+## INSTAGRAM
+
+Binance'de 6.3 milyar dolarlık dev siber soygun yaşandı! Çekimler geçici olarak durduruldu ancak fonların %90'ı yerine konuldu. Kalan kısım için çalışmalar sürüyor ve işlemlerin Pazar günü açılması planlanıyor. Kripto borsalarındaki güvenlik açıklarının önüne sizce nasıl geçilebilir? Kaynak: The Verge, Wired
+
+#KriptoGüvenliği #Binance #SiberGüvenlik #Teknoloji #KriptoPara #Haber #Blockchain #TeknoPusula
+
+## TIKTOK
+
+Binance'den 6.3 milyar dolarlık dev vurgun! Çekimler durduruldu ama fonların %90'ı geri getirildi. Pazar günü işlemler açılıyor. Kaynak: Wired
+
+#binance #kripto #sibergüvenlik #teknopusula
+
+## X
+
+Binance'de yaşanan 6.3 milyar dolarlık siber soygunun ardından çekimler durduruldu. CEO, fonların %90'ının yerine konulduğunu ve işlemlerin Pazar günü yeniden açılmasının planlandığını açıkladı. Kaynak: The Verge
+
+#Binance #Kripto
+
+## THREADS
+
+Binance'de 6.3 Milyar Dolarlık Vurgun 🚨
+
+Binance'de gerçekleşen büyük siber soygunun ardından para çekme işlemlerine ara verildi. CEO, çalınan fonların yüzde 90'ının yerine konulduğunu ve işlemlerin Pazar günü açılacağını duyurdu.
+
+Kripto borsalarındaki bu tarz güvenlik açıklarının önüne sizce nasıl geçilebilir? 💭
+
+Kaynak: The Verge, Wired
+
+#Binance
+
+## LINKEDIN
+
+Kripto para ekosisteminde siber güvenlik bir kez daha en kritik gündem maddesi haline geldi. Binance borsasında yaşanan 6.3 milyar dolarlık güvenlik ihlali, platformun hızlı müdahalesiyle kısmen kontrol altına alındı. Fonların %90'ı yerine konulurken, kalan kısım için süreç devam ediyor ve Pazar günü itibarıyla para çekme işlemlerinin yeniden başlaması planlanıyor. Bu olay, kurumsal güvenlik protokollerinin ve likidite yönetiminin önemini bir kez daha gözler önüne serdi. Kaynak: The Verge, Wired
+
+#KriptoGüvenliği #SiberGüvenlik #Binance #Blockchain #TeknolojiYonetimi
+
+## FACEBOOK
+
+Binance'de 6.3 milyar dolarlık büyük siber soygun! Yaşanan güvenlik olayının ardından para çekme işlemleri geçici olarak durduruldu. Binance CEO'su, çalınan fonların yüzde 90'ının yerine konulduğunu açıkladı. İşlemlerin Pazar günü yeniden açılması planlanıyor. Sizce bu tarz güvenlik açıklarının önüne nasıl geçilebilir? Kaynak: The Verge, Wired
+
+#KriptoGüvenliği #Binance #SiberGüvenlik #Teknoloji
