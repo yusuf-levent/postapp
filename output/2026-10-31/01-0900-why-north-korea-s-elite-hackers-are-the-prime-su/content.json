@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "BLOKZİNCİRİ GÜVENLİĞİ",
+    "title": "Binance Hack Olayında Kuzey Kore İzi",
+    "highlight_words": [
+      "Kuzey Kore",
+      "Hack"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Analitik firmaları, 6,3 milyar dolarlık saldırının arkasında Lazarus Group'u işaret ediyor.",
+    "source_tags": [
+      "BBC NEWS",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Saldırının Arka Planı",
+    "cards": [
+      {
+        "card_title": "Saldırının Kapsamı",
+        "card_body": "Binance, başlangıçta bir mühendisin dizüstü bilgisayarının ele geçirildiğini ancak saldırının daha geniş olduğunu belirtti."
+      },
+      {
+        "card_title": "İstihbarat Sonuçları",
+        "card_body": "TRM Labs ve Chainalysis, saldırıdan Kuzey Kore destekli Lazarus Group'un sorumlu olduğunu yüksek güvenle tanımladı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "6,3 MİLYAR $",
+    "stat_caption": "Binance borsasında gerçekleşen hack olayının toplam boyutu.",
+    "stat_quote": "Binance sözcüsü, çalınan varlıkların %80'inin güvence altına alındığını, geri kalanının ise henüz bulunamadığını açıkladı."
+  },
+  "details": {
+    "heading": "Siber Saldırı Geçmişi",
+    "cards": [
+      {
+        "card_title": "Kuzey Kore'nin Geçmişi",
+        "card_body": "Kuzey Koreli hackerlar 2022'de 620 milyon dolar çalmakla suçlanıyor. En bilinen olayları ise 2014 Sony Pictures saldırısı."
+      },
+      {
+        "card_title": "Diğer Borsalar",
+        "card_body": "FBI, Kuzey Kore'nin geçtiğimiz yıl Bybit borsasından 1,5 milyar dolar çalınmasından sorumlu olduğunu belirtti."
+      },
+      {
+        "card_title": "Yeni İncelemeler",
+        "card_body": "Binance eş CEO'su Richard Teng, yapılan detaylı incelemelerde sistemde ek ihlal noktalarının ortaya çıkarıldığını duyurdu."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etki",
+    "cards": [
+      {
+        "card_title": "Güvenlik Standartları",
+        "card_body": "Büyük borsalardaki bu çapta ihlaller, blokzinciri güvenliği ve varlık koruma protokollerinin önemini tekrar hatırlatıyor."
+      },
+      {
+        "card_title": "Kullanıcı Güvenliği",
+        "card_body": "Varlıkların %80'inin kurtarılması olumlu olsa da, geri kalan kısmın bulunamaması dijital varlık güvenliğinde risklerin sürdüğünü gösteriyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce kripto borsaları, devlet destekli siber saldırılara karşı nasıl daha dirençli hale gelebilir?",
+    "reminder_line": "Tekno Pusula ile teknolojinin nabzını tutmaya devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

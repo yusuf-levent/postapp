@@ -1,0 +1,289 @@
+{
+  "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+  "canonical_url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+  "source_names": [
+    "BBC News – Technology",
+    "Ars Technica",
+    "The Verge",
+    "TechCrunch"
+  ],
+  "checked_at": "2026-10-31T08:43:50+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "İki büyük blokzinciri analitik firması, Binance borsasındaki 6,3 milyar dolarlık hack olayından Kuzey Kore destekli bir grubun sorumlu olduğuna dair istihbarat bulunduğunu açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Two major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6.3bn (£4.7bn) hack of Binance, the world's largest cryptocurrency exchange."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Two major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6.3bn (Â£4.7bn) hack of Binance, the world's largest cryptocurrency exchange."
+        }
+      ]
+    },
+    {
+      "claim": "TRM Labs ve Chainalysis, Binance hack olayının arkasında yüksek güvenle Lazarus Group'un (TraderTraitor) olduğunu tanımladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "The Lazarus Group, a North Korean hacking unit also known as TraderTraitor, was identified \"with high confidence\" by TRM Labs, as well as Chainalysis."
+        }
+      ]
+    },
+    {
+      "claim": "FBI, geçen yıl Kuzey Kore'nin Bybit borsasından 1,5 milyar dolar çalınmasından sorumlu olduğunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Last year, the Federal Bureau of Investigation (FBI) said North Korea was responsible for the theft of $1.5bn on the Bybit exchange."
+        }
+      ]
+    },
+    {
+      "claim": "Kuzey Koreli hackerlar, 2022 yılında 620 milyon dolar değerinde kripto para çalmakla suçlanıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "North Korean hackers are also suspected in the theft of $620m worth of cryptocurrency in 2022."
+        }
+      ]
+    },
+    {
+      "claim": "Binance eş CEO'su Richard Teng, yapılan incelemelerde ek ihlal noktalarının ortaya çıkarıldığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "\"Our subsequent investigation has uncovered additional points of breach,\" Binance's co-CEO Richard Teng said."
+        }
+      ]
+    },
+    {
+      "claim": "Binance sözcüsü, çalınan varlıkların %80'inin güvence altına alındığını, geri kalanının ise henüz bulunamadığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Some 80% of stolen assets have been secured, a Binance spokesperson said on Friday, but the rest remains unaccounted for."
+        }
+      ]
+    },
+    {
+      "claim": "Kuzey Kore'nin en dikkat çeken hack olayı 2014 yılında Sony Pictures'a karşı gerçekleştirildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Though not financial, the nation's most spectacular suspected hack took place in 2014. The target: Sony Pictures"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Though not financial, the nation's most spectacular suspected hack took place in 2014. The target: Sony Pictures, which had made the Hollywood film The Interview."
+        }
+      ]
+    },
+    {
+      "claim": "Binance, başlangıçta bir mühendisin dizüstü bilgisayarının ele geçirildiğini ancak daha sonra saldırının daha geniş kapsamlı olduğunu açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "The company had initially said it thought an engineer's laptop had been compromised, allowing unauthorised withdrawals, but later said the attack was wider."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "İki büyük blokzinciri analitik firması, Binance borsasındaki 6,3 milyar dolarlık hack olayından Kuzey Kore destekli bir grubun sorumlu olduğuna dair istihbarat bulunduğunu açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Two major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6.3bn (£4.7bn) hack of Binance, the world's largest cryptocurrency exchange."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Two major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6.3bn (Â£4.7bn) hack of Binance, the world's largest cryptocurrency exchange."
+        }
+      ]
+    },
+    {
+      "claim": "TRM Labs ve Chainalysis, Binance hack olayının arkasında yüksek güvenle Lazarus Group'un (TraderTraitor) olduğunu tanımladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "The Lazarus Group, a North Korean hacking unit also known as TraderTraitor, was identified \"with high confidence\" by TRM Labs, as well as Chainalysis."
+        }
+      ]
+    },
+    {
+      "claim": "FBI, geçen yıl Kuzey Kore'nin Bybit borsasından 1,5 milyar dolar çalınmasından sorumlu olduğunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Last year, the Federal Bureau of Investigation (FBI) said North Korea was responsible for the theft of $1.5bn on the Bybit exchange."
+        }
+      ]
+    },
+    {
+      "claim": "Kuzey Koreli hackerlar, 2022 yılında 620 milyon dolar değerinde kripto para çalmakla suçlanıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "North Korean hackers are also suspected in the theft of $620m worth of cryptocurrency in 2022."
+        }
+      ]
+    },
+    {
+      "claim": "Binance eş CEO'su Richard Teng, yapılan incelemelerde ek ihlal noktalarının ortaya çıkarıldığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "\"Our subsequent investigation has uncovered additional points of breach,\" Binance's co-CEO Richard Teng said."
+        }
+      ]
+    },
+    {
+      "claim": "Binance sözcüsü, çalınan varlıkların %80'inin güvence altına alındığını, geri kalanının ise henüz bulunamadığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Some 80% of stolen assets have been secured, a Binance spokesperson said on Friday, but the rest remains unaccounted for."
+        }
+      ]
+    },
+    {
+      "claim": "Kuzey Kore'nin en dikkat çeken hack olayı 2014 yılında Sony Pictures'a karşı gerçekleştirildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Though not financial, the nation's most spectacular suspected hack took place in 2014. The target: Sony Pictures"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Though not financial, the nation's most spectacular suspected hack took place in 2014. The target: Sony Pictures, which had made the Hollywood film The Interview."
+        }
+      ]
+    },
+    {
+      "claim": "Binance, başlangıçta bir mühendisin dizüstü bilgisayarının ele geçirildiğini ancak daha sonra saldırının daha geniş kapsamlı olduğunu açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "The company had initially said it thought an engineer's laptop had been compromised, allowing unauthorised withdrawals, but later said the attack was wider."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "İki büyük blokzinciri analitik firması, Binance borsasındaki 6,3 milyar dolarlık hack olayından Kuzey Kore destekli bir grubun sorumlu olduğuna dair istihbarat bulunduğunu açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Two major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6.3bn (£4.7bn) hack of Binance, the world's largest cryptocurrency exchange."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Two major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6.3bn (Â£4.7bn) hack of Binance, the world's largest cryptocurrency exchange."
+        }
+      ]
+    },
+    {
+      "claim": "TRM Labs ve Chainalysis, Binance hack olayının arkasında yüksek güvenle Lazarus Group'un (TraderTraitor) olduğunu tanımladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "The Lazarus Group, a North Korean hacking unit also known as TraderTraitor, was identified \"with high confidence\" by TRM Labs, as well as Chainalysis."
+        }
+      ]
+    },
+    {
+      "claim": "FBI, geçen yıl Kuzey Kore'nin Bybit borsasından 1,5 milyar dolar çalınmasından sorumlu olduğunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Last year, the Federal Bureau of Investigation (FBI) said North Korea was responsible for the theft of $1.5bn on the Bybit exchange."
+        }
+      ]
+    },
+    {
+      "claim": "Kuzey Koreli hackerlar, 2022 yılında 620 milyon dolar değerinde kripto para çalmakla suçlanıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "North Korean hackers are also suspected in the theft of $620m worth of cryptocurrency in 2022."
+        }
+      ]
+    },
+    {
+      "claim": "Binance eş CEO'su Richard Teng, yapılan incelemelerde ek ihlal noktalarının ortaya çıkarıldığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "\"Our subsequent investigation has uncovered additional points of breach,\" Binance's co-CEO Richard Teng said."
+        }
+      ]
+    },
+    {
+      "claim": "Binance sözcüsü, çalınan varlıkların %80'inin güvence altına alındığını, geri kalanının ise henüz bulunamadığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Some 80% of stolen assets have been secured, a Binance spokesperson said on Friday, but the rest remains unaccounted for."
+        }
+      ]
+    },
+    {
+      "claim": "Kuzey Kore'nin en dikkat çeken hack olayı 2014 yılında Sony Pictures'a karşı gerçekleştirildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Though not financial, the nation's most spectacular suspected hack took place in 2014. The target: Sony Pictures"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Though not financial, the nation's most spectacular suspected hack took place in 2014. The target: Sony Pictures, which had made the Hollywood film The Interview."
+        }
+      ]
+    },
+    {
+      "claim": "Binance, başlangıçta bir mühendisin dizüstü bilgisayarının ele geçirildiğini ancak daha sonra saldırının daha geniş kapsamlı olduğunu açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "quote": "The company had initially said it thought an engineer's laptop had been compromised, allowing unauthorised withdrawals, but later said the attack was wider."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss": 3568,
+    "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/": 1948,
+    "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out": 2580,
+    "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/": 4312
+  }
+}
