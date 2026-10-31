@@ -3,50 +3,54 @@
 **Haber:** Binance CEO says 90 percent of stolen assets have been ‘replenished’
 **Canonical URL:** https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto
 **Kaynaklar:** The Verge, BBC News – Technology, TechCrunch, Ars Technica
-**Kontrol zamanı:** 2026-10-31T21:47:13+03:00
+**Kontrol zamanı:** 2026-10-31T21:53:19+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
 
 ## İddia Bazlı Sonuçlar
 
-### 1. Hackers stole $6.3 billion from Binance customers in a crypto heist.
+### 1. Hackerlar Binance müşterilerinden 6,3 milyar dolar değerinde kripto para çaldı.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto](https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto)
     > After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist
 
-### 2. Binance CEO stated that 90 percent of the stolen funds have been replaced.
+### 2. Binance CEO'su çalınan fonların yüzde 90'ının yerine konulduğunu açıkladı.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
+  - [https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto](https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto)
+    > Binance CEO says 90 percent of stolen assets have been ‘replenished’
   - [https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto](https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto)
     > the company’s CEO says that 90 percent of the funds have been replaced
-  - [https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto](https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto)
-    > After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company’s CEO says that 90 percent of the funds have been replaced
 
-### 3. The company plans to cover the remaining 10 percent of the stolen funds, which consist of less liquid tokens.
+### 3. Binance kalan yüzde 10'luk kısmı da karşılamayı planlıyor.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto](https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto)
-    > the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of “less liquid” tokens
-  - [https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto](https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto)
-    > the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of “less liquid” tokens, which the company says may take longer to acquire.
+    > the company plans to cover the remaining 10 percent as well.
 
-### 4. Binance withdrawals remain temporarily paused following the incident.
+### 4. Kalan yüzde 10'luk kısım daha az likit tokenlerden oluşuyor.
+- **Karar:** ✅ `supported`
+- **Kanıtlar:**
+  - [https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto](https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto)
+    > the remaining 10 percent consists of “less liquid” tokens
+  - [https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto](https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto)
+    > the remaining 10 percent consists of “less liquid” tokens, which the company says may take longer to acquire.
+
+### 5. Binance kullanıcıların para çekme işlemlerinin geçici olarak durdurulduğunu açıkladı.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto](https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto)
     > while withdrawals remain paused
-  - [https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto](https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto)
-    > The company also said in a post on X that, while withdrawals remain paused, they’re on track to be enabled on Sunday.
+  - [https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/](https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/)
+    > The crypto exchange — the world’s largest — said it has now suspended all deposits and withdrawals while its investigation into the breach continues.
 
-### 5. Binance is on track to enable withdrawals again on Sunday, 2026-11-01.
+### 6. Binance para çekme işlemlerinin 2026-11-01 Pazar günü yeniden açılması için çalışıyor.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto](https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto)
     > We remain on track to reopen withdrawals within our previously stated timeframe (on Sunday, 2026-11-01)
-  - [https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto](https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto)
-    > We remain on track to reopen withdrawals within our previously stated timeframe (on Sunday, 2026-11-01) and will provide a further update as soon as details are confirmed.
 
 ---
 
@@ -54,11 +58,12 @@
 
 | İddia | 1. Tur | 2. Tur | Nihai |
 |-------|--------|--------|-------|
-| Hackers stole $6.3 billion from Binance customers in a crypt | supported | supported | supported |
-| Binance CEO stated that 90 percent of the stolen funds have  | supported | supported | supported |
-| The company plans to cover the remaining 10 percent of the s | supported | supported | supported |
-| Binance withdrawals remain temporarily paused following the  | supported | supported | supported |
-| Binance is on track to enable withdrawals again on Sunday, 2 | supported | supported | supported |
+| Hackerlar Binance müşterilerinden 6,3 milyar dolar değerinde | supported | supported | supported |
+| Binance CEO'su çalınan fonların yüzde 90'ının yerine konuldu | supported | supported | supported |
+| Binance kalan yüzde 10'luk kısmı da karşılamayı planlıyor. | supported | supported | supported |
+| Kalan yüzde 10'luk kısım daha az likit tokenlerden oluşuyor. | supported | supported | supported |
+| Binance kullanıcıların para çekme işlemlerinin geçici olarak | supported | supported | supported |
+| Binance para çekme işlemlerinin 2026-11-01 Pazar günü yenide | supported | supported | supported |
 
 ## Kaynak Metinleri
 

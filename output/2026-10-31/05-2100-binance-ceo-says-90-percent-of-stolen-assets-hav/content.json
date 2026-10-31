@@ -1,64 +1,64 @@
 {
   "cover": {
-    "category_label": "KRİPTO GÜVENLİĞİ",
-    "title": "Binance Sisteminde Büyük Hack Vakası",
+    "category_label": "SİBER GÜVENLİK",
+    "title": "Binance Müşterilerinden 6,3 Milyar Dolar Çalındı",
     "highlight_words": [
-      "Büyük",
-      "Hack"
+      "6,3 Milyar Dolar",
+      "Binance"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Kripto dünyasını sarsan olay hakkında bilinenler.",
+    "subtitle": "Hacker saldırısı sonrası yaşanan gelişmeler ve alınan önlemler.",
     "source_tags": [
       "THE VERGE",
-      "TECHCRUNCH"
+      "BBC NEWS"
     ]
   },
   "context": {
-    "heading": "Olayın Arka Planı",
+    "heading": "Saldırı ve Durum Tespiti",
     "cards": [
       {
-        "card_title": "Çalınan Tutar",
-        "card_body": "Saldırganlar Binance müşterilerinden toplam 6.3 milyar dolar değerinde kripto varlık çaldı."
+        "card_title": "Büyük Vurgun",
+        "card_body": "Hackerlar Binance müşterilerinden 6,3 milyar dolar değerinde kripto para çaldı."
       },
       {
-        "card_title": "İşlemler Durduruldu",
-        "card_body": "Yaşanan bu siber saldırı olayının ardından Binance para çekme işlemlerini geçici olarak askıya aldı."
+        "card_title": "Para Çekme İşlemleri",
+        "card_body": "Binance kullanıcıların para çekme işlemlerinin geçici olarak durdurulduğunu açıkladı."
       }
     ]
   },
   "stat": {
     "big_stat": "%90",
-    "stat_caption": "Çalınan fonların yerine konulan oran",
-    "stat_quote": "Binance CEO'su, çalınan fonların yüzde 90 oranında yerine konulduğunu açıkladı."
+    "stat_caption": "Çalınan fonların yerine konulan oranı",
+    "stat_quote": "Binance CEO'su çalınan fonların yüzde 90'ının yerine konulduğunu açıkladı."
   },
   "details": {
-    "heading": "Kalan Fonlar ve Süreç",
+    "heading": "Kalan Fonlar ve Planlar",
     "cards": [
       {
-        "card_title": "Kalan Yüzde Onluk Kısım",
-        "card_body": "Şirket, daha az likit tokenlerden oluşan kalan yüzde 10'luk kısmı da karşılamayı planlıyor."
+        "card_title": "Kalan Kısım",
+        "card_body": "Binance kalan yüzde 10'luk kısmı da karşılamayı planlıyor."
       },
       {
-        "card_title": "Para Çekme Tarihi",
-        "card_body": "Binance, para çekme işlemlerini 2026-11-01 Pazar günü yeniden aktif hale getirmeyi hedefliyor."
+        "card_title": "Likit Olmayan Tokenler",
+        "card_body": "Kalan yüzde 10'luk kısım daha az likit tokenlerden oluşuyor."
       }
     ]
   },
   "impact": {
-    "heading": "Kullanıcı ve Sektör Etkisi",
+    "heading": "Kullanıcı Etkisi ve Takvim",
     "cards": [
       {
-        "card_title": "Kullanıcı Erişimi",
-        "card_body": "Geçici durdurma nedeniyle kullanıcılar fonlarına bir süreliğine erişemiyor."
+        "card_title": "Erişim Kısıtı",
+        "card_body": "Müşteriler geçici olarak varlıklarına erişemiyor ve çekim yapamıyor."
       },
       {
-        "card_title": "Şirket Müdahalesi",
-        "card_body": "Binance yönetimi fonların büyük kısmını hızla telafi ederek süreci yönetmeye çalışıyor."
+        "card_title": "Yeniden Açılış",
+        "card_body": "Binance para çekme işlemlerinin 2026-11-01 Pazar günü yeniden açılması için çalışıyor."
       }
     ]
   },
   "cta": {
-    "question": "Büyük borsalarda güvenlik önlemleri sizce yeterli mi?",
+    "question": "Büyük borsalarda saklanan kripto varlıkların güvenliği hakkında ne düşünüyorsunuz?",
     "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın."
   },
   "tag_label_2": "BAĞLAM",

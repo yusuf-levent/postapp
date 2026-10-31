@@ -2,78 +2,42 @@
 
 ## INSTAGRAM
 
-Binance sisteminde büyük hack vakası yaşandı ve 6.3 milyar dolar çalındı! Kripto dünyasını sarsan bu olay sonrası işlemler geçici olarak durduruldu.
+Binance müşterilerinden 6,3 milyar dolar çalındı! Hacker saldırısı sonrasında yaşananlar ve alınan önlemler merak ediliyor. Binance CEO'su çalınan fonların yüzde 90'ının yerine konulduğunu ve kalan yüzde 10'luk kısmın da karşılanacağını açıkladı. Müşteriler geçici olarak varlıklarına erişemezken, para çekme işlemlerinin 1 Kasım 2026 Pazar günü yeniden açılması planlanıyor. Büyük borsalarda saklanan kripto varlıkların güvenliği hakkında ne düşünüyorsunuz? Kaynak: The Verge, BBC News – Technology.
 
-Saldırganlar Binance müşterilerinden toplam 6.3 milyar dolar değerinde kripto varlık çaldı. Olayın ardından Binance para çekme işlemlerini askıya aldı.
-
-CEO, çalınan fonların %90 oranında yerine konulduğunu açıkladı. Kalan %10'luk kısım için de çalışmalar sürüyor.
-
-Para çekme işlemlerinin 1 Kasım 2026 Pazar günü yeniden açılması hedefleniyor.
-
-Büyük borsalarda güvenlik önlemleri sizce yeterli mi? Tekno Pusula'yı takipte kalın.
-
-Kaynak: The Verge, TechCrunch
-
-#Binance #KriptoGüvenliği #SiberSaldırı #Teknoloji #KriptoPara #Blockchain #Haber #TeknoPusula #Crypto #Security
+#sibergüvenlik #binance #kriptopara #hack #teknoloji #teknopusula #cybersecurity #crypto #news
 
 ## TIKTOK
 
-Binance'te büyük hack vakası! 6.3 milyar dolar çalındı, işlemler durduruldu. CEO %90'ının geri konulduğunu açıkladı. Para çekme işlemleri 1 Kasım 2026'da açılacak. Detaylar Tekno Pusula'da!
+Binance'ten 6,3 milyar dolar çalındı! Fonların yüzde 90'ı geri konuldu ama çekimler durduruldu. Detaylar videoda! Kaynak: The Verge, BBC News – Technology.
 
-Kaynak: The Verge
-
-#Binance #Kripto #Haber #TeknoPusula
+#binance #kripto #sibergüvenlik #haber
 
 ## X
 
-Binance sisteminde büyük hack vakası! Müşterilerden 6.3 milyar dolar çalındı, işlemler durduruldu. CEO fonların %90'ının yerine konulduğunu açıkladı. Para çekme işlemleri 1 Kasım 2026'da açılacak.
-
-Kaynak: The Verge
-
-#Binance #Kripto
+Binance müşterilerinden 6,3 milyar dolar çalındı. CEO, fonların yüzde 90'ının yerine konulduğunu, kalan kısmın da karşılanacağını açıkladı. Çekimler geçici olarak durduruldu. Büyük borsaların güvenliği hakkında ne düşünüyorsunuz? Kaynak: The Verge, BBC News – Technology.
 
 #Binance #Kripto
 
 ## THREADS
 
-Binance'te Büyük Hack Vakası
+Binance'te Büyük Vurgun: 6,3 Milyar Dolar Çalındı
 
-Binance sisteminde yaşanan siber saldırıda 6.3 milyar dolar değerinde kripto varlık çalındı. Şirket para çekme işlemlerini geçici olarak durdurdu.
+Hacker saldırısı sonrası Binance müşterilerinin varlıklarına erişim kısıtlandı. CEO, fonların yüzde 90'ının yerine konulduğunu ve kalan kısmın da ödeneceğini belirtti. Çekimlerin 1 Kasım 2026'da açılması planlanıyor.
 
-CEO, çalınan fonların %90 oranında yerine konulduğunu ve işlemlerin 1 Kasım 2026 Pazar günü yeniden açılmasının hedeflendiğini açıkladı.
+Büyük borsalarda kripto saklamak hala güvenli mi?
 
-Büyük borsalarda güvenlik önlemleri sizce yeterli mi? 💭
-
-Kaynak: The Verge
-
-#Binance
+💭 Kaynak: The Verge, BBC News – Technology.
 
 #Binance
 
 ## LINKEDIN
 
-Kripto para sektörünün en büyük oyuncularından Binance, büyük bir siber saldırıyla karşı karşıya kaldı.
+Siber güvenlik dünyası büyük bir olayla sarsıldı. Binance müşterilerinden 6,3 milyar dolar değerinde kripto para çalındı. Yaşanan bu olay, merkezi borsalardaki varlık güvenliği ve risk yönetimi konularını yeniden gündeme taşıdı. Binance yönetimi çalınan fonların yüzde 90'ının yerine konulduğunu, kalan kısmın da telafi edileceğini ve para çekme işlemlerinin 1 Kasım 2026 tarihinde yeniden açılmasının planlandığını duyurdu. Sektörün geleceği ve merkeziyetsiz saklama çözümleri hakkında görüşleriniz nelerdir? Kaynak: The Verge, BBC News – Technology.
 
-Saldırganlar müşterilerden toplam 6.3 milyar dolar değerinde kripto varlık çaldı. Güvenlik önlemleri kapsamında para çekme işlemler geçici olarak askıya alındı.
-
-Binance yönetimi hızlı bir müdahale ile fonların %90 oranında yerine konulduğunu duyurdu. Kalan kısım için çalışmalar devam ederken, işlemlerin 1 Kasım 2026 tarihinde yeniden aktif hale gelmesi planlanıyor.
-
-Bu olay, merkezi borsalarda siber güvenlik yatırımlarının ve risk yönetiminin önemini bir kez daha gözler önüne seriyor.
-
-Kaynak: The Verge, TechCrunch
-
-#SiberGüvenlik #KriptoPara #Binance #Blockchain #Teknoloji
+#SiberGüvenlik #Binance #KriptoPara #Teknoloji #RiskYönetimi
 
 ## FACEBOOK
 
-Kripto dünyasını sarsan büyük hack vakası! Binance sisteminde yaşanan olayda 6.3 milyar dolar çalındı.
+Binance müşterilerinden 6,3 milyar dolar çalındı! Hacker saldırısı sonrası para çekme işlemleri geçici olarak durduruldu. Binance CEO'su çalınan fonların yüzde 90'ının yerine konulduğunu ve kalan kısmın da karşılanacağını açıkladı. Müşteriler varlıklarına geçici olarak erişemezken, işlemlerin 1 Kasım 2026'da açılması bekleniyor. Büyük borsalarda saklanan kripto varlıkların güvenliği hakkında ne düşünüyorsunuz? Kaynak: The Verge, BBC News – Technology.
 
-Yaşanan siber saldırının ardından para çekme işlemler geçici olarak durduruldu. Kullanıcılar şu an fonlarına erişemiyor.
-
-CEO, çalınan fonların %90 oranında yerine konulduğunu açıkladı. Kalan %10'luk kısmın da karşılanmasıyla işlemlerin 1 Kasım 2026 Pazar günü yeniden açılması hedefleniyor.
-
-Büyük borsalarda güvenlik önlemleri sizce yeterli mi? Teknoloji ve yapay zeka dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın.
-
-Kaynak: The Verge, TechCrunch
-
-#Binance #KriptoGüvenliği #SiberSaldırı #TeknoPusula
+#SiberGüvenlik #Binance #KriptoPara #Teknoloji
