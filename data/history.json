@@ -2798,5 +2798,83 @@
     ],
     "created_at": "2026-10-31T09:19:56+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-10-31-1200",
+    "date": "2026-10-31",
+    "slot": "12:00",
+    "type": "news",
+    "title_tr": "Binance Soygununda Kuzey Kore İzi",
+    "original_title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+    "source_urls": [
+      "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss"
+    ],
+    "canonical_url": "https://bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=rss&at_campaign=rss",
+    "entities": [
+      "Binance",
+      "North Korea",
+      "Lazarus Group",
+      "TraderTraitor",
+      "TRM Labs",
+      "Chainalysis",
+      "Kim Jong Un",
+      "Sony Pictures",
+      "Federal Bureau of Investigation",
+      "Bybit"
+    ],
+    "event_type": "cyberattack",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae5ab581891472093c17016",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae5ab6f406ab8a018a9e012",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae5ab70a1145743499536cd",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2116452318912577799",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18144207544588828",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfJw_VzFmRG",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae5ab95406ab8a018a9e9d3",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae5ababa1145743499548f9",
+        "permalink": "https://facebook.com/1351036918092059_122119893339484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-10-31T11:49:57+03:00",
+    "verified_claims_count": 7
   }
 ]
