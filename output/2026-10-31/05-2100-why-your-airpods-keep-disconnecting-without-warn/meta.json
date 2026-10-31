@@ -1,0 +1,10 @@
+{
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 93.5,
+  "candidates_tried": 1,
+  "gemini_calls": 13,
+  "canonical_url": "https://www.engadget.com/2298547/why-mac-keeps-disconnecting-airpods/",
+  "generated_at": "2026-10-31T21:58:12+03:00"
+}
