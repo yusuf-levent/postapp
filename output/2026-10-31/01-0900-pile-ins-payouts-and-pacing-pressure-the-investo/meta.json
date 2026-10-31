@@ -2,9 +2,9 @@
   "slot": "09:00",
   "type": "news",
   "model": "gemini-3.1-flash-lite",
-  "duration_seconds": 122.3,
+  "duration_seconds": 104.7,
   "candidates_tried": 1,
   "gemini_calls": 11,
   "canonical_url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
-  "generated_at": "2026-10-31T09:08:44+03:00"
+  "generated_at": "2026-10-31T09:18:23+03:00"
 }

@@ -1,69 +1,69 @@
 {
   "cover": {
-    "category_label": "YAPAY ZEKA EKOSİSTEMİ",
-    "title": "Yapay Zeka Yatırımlarında Hızlı Yükseliş",
+    "category_label": "GİRİŞİM SERMAYESİ",
+    "title": "Girişim Sermayesinde Hızlanan Döngüler",
     "highlight_words": [
-      "Hızlı",
-      "Yükseliş"
+      "Hızlanan",
+      "Döngüler"
     ],
-    "highlight_color": "yellow",
-    "subtitle": "Sektördeki değerlemeler ve yatırım dinamikleri değişiyor.",
+    "highlight_color": "cyan",
+    "subtitle": "Yatırım dünyasında ezberler bozuluyor: Süreler kısalıyor, stratejiler değişiyor.",
     "source_tags": [
       "TECHCRUNCH",
-      "THE VERGE"
+      "WIRED"
     ]
   },
   "context": {
-    "heading": "Yatırım Dünyasında Neler Değişiyor?",
+    "heading": "Değişen Yatırım Dinamikleri",
     "cards": [
       {
-        "card_title": "Değerlemeler Artıyor",
-        "card_body": "OpenAI ve Anthropic gibi devlerin şirket değerlemeleri oldukça hızlı bir şekilde yükseliş gösterdi."
+        "card_title": "Kurumsal Oyuncular",
+        "card_body": "Zürih merkezli LGT Capital Partners ve Chapel Hill merkezli, sadece girişim sermayesine odaklanan TrueBridge gibi firmalar süreci yönetiyor."
       },
       {
-        "card_title": "Yatırım Turu Büyüklükleri",
-        "card_body": "Yatırım ekosisteminde tohum yatırımı turu büyüklükleri neredeyse iki katına çıkmış durumda."
+        "card_title": "Süreçler Hızlanıyor",
+        "card_body": "Normalde iki ile iki buçuk yıl süren yatırım döngüleri, bazı fonlarda 18 aya kadar düşmüş durumda."
       }
     ]
   },
   "stat": {
-    "big_stat": "2 KAT",
-    "stat_caption": "Tohum yatırımı turu büyüklüklerindeki artış oranı.",
-    "stat_quote": "Sektördeki fonların olgunlaşması ve büyük çıkışlar, yatırımcıların stratejilerini yeniden şekillendiriyor."
+    "big_stat": "18 AY",
+    "stat_caption": "Bazı fonların yatırım döngülerini indirdiği yeni süre.",
+    "stat_quote": "Yatırım döngülerinin dört yıldan 18 aya kadar düşmesi, sektördeki hız arayışının en somut göstergesi."
   },
   "details": {
-    "heading": "Önemli Gelişmeler ve İsimler",
+    "heading": "Sektördeki Yeni Eğilimler",
     "cards": [
       {
-        "card_title": "Stratejik İsimler",
-        "card_body": "Beezer Clarkson LGT Capital Partners'ta, Amit Bhatti ise TrueBridge firmasında görev alarak süreci yönetiyor."
+        "card_title": "Tohum Yatırımları",
+        "card_body": "Tohum yatırımı turu büyüklükleri yaklaşık iki katına çıkmış durumda."
       },
       {
-        "card_title": "Başarılı Çıkışlar",
-        "card_body": "Cerebras bu yıl büyük bir çıkış gerçekleştirirken, Cursor ile 60 milyar dolarlık bir birleşme ve satın alma yaşandı."
+        "card_title": "Fon Büyüklükleri",
+        "card_body": "Bazı fonlar, yatırım döngüsü ortasında fon büyüklüklerini artırma yoluna gidiyor."
       },
       {
-        "card_title": "Fonların Durumu",
-        "card_body": "2021 yılı fonları artık beş yılını doldurmuş durumda, bu da yeni yatırım döngülerini tetikliyor."
+        "card_title": "2021 Fonları",
+        "card_body": "2021 yılında kurulan fonlar şu an itibarıyla beşinci yılına girmiş bulunuyor."
       }
     ]
   },
   "impact": {
-    "heading": "Sektörel Etkiler",
+    "heading": "Piyasa Yansımaları",
     "cards": [
       {
-        "card_title": "Sektörel Hareketlilik",
-        "card_body": "Büyük ölçekli çıkışlar ve artan değerlemeler, yapay zeka girişimlerine olan ilgiyi daha da artırıyor."
+        "card_title": "Başarılı Çıkışlar",
+        "card_body": "Cerebras gibi şirketlerin bu yıl gerçekleştirdiği büyük çıkışlar, ekosistemin canlılığını koruduğunu gösteriyor."
       },
       {
-        "card_title": "Yatırımcı Stratejisi",
-        "card_body": "Olgunlaşan fonlar ve yeni birleşmeler, ekosistemin finansal yapısını daha dinamik hale getiriyor."
+        "card_title": "Stratejik Dönüşüm",
+        "card_body": "Döngülerin kısalması, sermayenin daha hızlı hareket etmesini ve girişimlerin daha erken aşamada desteklenmesini sağlıyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce yapay zeka şirketlerinin bu hızlı değerleme artışı sürdürülebilir mi?",
-    "reminder_line": "Tekno Pusula ile teknolojinin nabzını tutmaya devam edin."
+    "question": "Sizce yatırım döngülerinin bu kadar kısalması, girişimlerin uzun vadeli başarısını nasıl etkiler?",
+    "reminder_line": "Tekno Pusula ile teknoloji dünyasındaki değişimleri takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

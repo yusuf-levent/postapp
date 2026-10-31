@@ -1,5 +1,5 @@
 URL: https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/
-Erişim zamanı: 2026-10-31T09:07:25+03:00
+Erişim zamanı: 2026-10-31T09:17:18+03:00
 
 An official extension for Anthropic’s Claude model was backdoored and threatened as many as 5,000 developers’ machines, multiple sources reported Friday. Anthropic so far has yet to warn customers of the incident.
 The compromised package was a VS Code extension available in the marketplace of Cursor, a maker of AI-assisted developer tools, the company said Friday. The malicious version, 2.1.313, subsequently affected “at most 5,000 users,” presumably when they either downloaded it or their systems automatically fetched and installed it. Anthropic pushed version 2.1.314 several hours after the previous version became available on Cursor, according to independent researcher Kevin Beaumont. Both Beaumont and the CTO and co-founder of security firm Phorian said that version 2.1.313 was distributed through Anthropic’s official account on Cursor. So far, neither Cursor nor Anthropic has explained how the attackers gained control of the account.
