@@ -5,115 +5,241 @@
     "Wired",
     "NVIDIA Newsroom"
   ],
-  "checked_at": "2026-11-01T14:57:18+03:00",
+  "checked_at": "2026-11-01T15:02:26+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Bazı üreticiler 2026 yılında başlangıç konfigürasyonu olarak üç yıldan eski RTX 4050 ekran kartına sahip yeni oyun dizüstü bilgisayarları piyasaya sürdü.",
+      "claim": "Bazı üreticiler 2026 yılında RTX 4050 ekran kartını başlangıç konfigürasyonu olarak kullanan yeni oyun dizüstü bilgisayarları piyasaya sürmektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
-          "quote": "Some manufacturers have even resorted to launching “new\" gaming laptops in 2026 with the RTX 4050 as the starting configuration—and that graphics card is more than three years old."
+          "quote": "Some manufacturers have even resorted to launching “new"
         },
         {
           "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
-          "quote": "Some manufacturers have even resorted to launching “new"
+          "quote": "Some manufacturers have even resorted to launching “new\" gaming laptops in 2026 with the RTX 4050 as the starting configuration"
         }
       ]
     },
     {
-      "claim": "Lenovo LOQ 15 oyun dizüstü bilgisayarı 2026 yılının ilk birkaç ayında 1.000 dolardan daha düşük bir fiyata satılıyordu.",
-      "verdict": "not_found",
-      "evidence": []
+      "claim": "Lenovo LOQ 15, 1.500 doların altındaki fiyatıyla önerilen tek oyun dizüstü bilgisayarıdır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+          "quote": "there's really only one gaming laptop under $1,500 that I feel comfortable recommending. That's the Lenovo LOQ 15."
+        },
+        {
+          "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+          "quote": "Given this landscape, there's really only one gaming laptop under $1,500 that I feel comfortable recommending. That's the Lenovo LOQ 15."
+        }
+      ]
     },
     {
-      "claim": "RTX 5060 ekran kartına, 16 GB RAM'e ve 512 GB depolamaya sahip Lenovo LOQ 15 modeli Amazon'da 1.300 dolara satılmaktadır.",
-      "verdict": "not_found",
-      "evidence": []
+      "claim": "Lenovo LOQ 15, 2026 yılının ilk birkaç ayında 1.000 doların altında bir fiyatla satılıyordu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+          "quote": "For the first few months of 2026—the good old days—it was selling for less than $1,000."
+        }
+      ]
     },
     {
-      "claim": "Lenovo, RTX 5050 ekran kartı ve aynı diğer özelliklere sahip LOQ 15 konfigürasyonunu 999 dolardan satışa sunmaktadır.",
-      "verdict": "not_found",
-      "evidence": []
+      "claim": "RTX 5060 ekran kartına sahip Lenovo LOQ 15 modelini şu anda 1.300 dolara satın almak mümkündür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+          "quote": "you can buy the LOQ 15 with an RTX 5060 for just $1,300."
+        },
+        {
+          "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+          "quote": "Also significant is the fact that, right now, you can buy the LOQ 15 with an RTX 5060 for just $1,300."
+        }
+      ]
     },
     {
-      "claim": "Lenovo LOQ 15 sisteminin sağlayabildiği 100 watt güç ile test edilen Black Myth Wukong ve Monster Hunter Wilds dahil her oyun orta ayarlarda saniyede 60 kareden fazla hızda çalıştı.",
-      "verdict": "not_found",
-      "evidence": []
+      "claim": "Amazon'daki RTX 5060 konfigürasyonu 16 GB RAM ve 512 GB depolama alanı ile birlikte 1.300 dolara satılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+          "quote": "Amazon has the RTX 5060 configuration, which also comes with 16 GB of RAM and 512 GB of storage, for $1,300"
+        }
+      ]
+    },
+    {
+      "claim": "Lenovo, RTX 5050 konfigürasyonuna sahip LOQ 15 modelini 999 dolardan satışa sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+          "quote": "Lenovo also has a killer deal on the RTX 5050 configuration that's about as cheap as it gets: $999 for an RTX 5050"
+        },
+        {
+          "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+          "quote": "Lenovo also has a killer deal on the RTX 5050 configuration that's about as cheap as it gets: $999 for an RTX 5050 (and otherwise identical specs)."
+        }
+      ]
     }
   ],
   "round1": [
     {
-      "claim": "Bazı üreticiler 2026 yılında başlangıç konfigürasyonu olarak üç yıldan eski RTX 4050 ekran kartına sahip yeni oyun dizüstü bilgisayarları piyasaya sürdü.",
+      "claim": "Bazı üreticiler 2026 yılında RTX 4050 ekran kartını başlangıç konfigürasyonu olarak kullanan yeni oyun dizüstü bilgisayarları piyasaya sürmektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
-          "quote": "Some manufacturers have even resorted to launching “new\" gaming laptops in 2026 with the RTX 4050 as the starting configuration—and that graphics card is more than three years old."
+          "quote": "Some manufacturers have even resorted to launching “new"
         },
         {
           "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
-          "quote": "Some manufacturers have even resorted to launching “new"
+          "quote": "Some manufacturers have even resorted to launching “new\" gaming laptops in 2026 with the RTX 4050 as the starting configuration"
         }
       ]
     },
     {
-      "claim": "Lenovo LOQ 15 oyun dizüstü bilgisayarı 2026 yılının ilk birkaç ayında 1.000 dolardan daha düşük bir fiyata satılıyordu.",
-      "verdict": "not_found",
-      "evidence": []
+      "claim": "Lenovo LOQ 15, 1.500 doların altındaki fiyatıyla önerilen tek oyun dizüstü bilgisayarıdır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+          "quote": "there's really only one gaming laptop under $1,500 that I feel comfortable recommending. That's the Lenovo LOQ 15."
+        },
+        {
+          "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+          "quote": "Given this landscape, there's really only one gaming laptop under $1,500 that I feel comfortable recommending. That's the Lenovo LOQ 15."
+        }
+      ]
     },
     {
-      "claim": "RTX 5060 ekran kartına, 16 GB RAM'e ve 512 GB depolamaya sahip Lenovo LOQ 15 modeli Amazon'da 1.300 dolara satılmaktadır.",
-      "verdict": "not_found",
-      "evidence": []
+      "claim": "Lenovo LOQ 15, 2026 yılının ilk birkaç ayında 1.000 doların altında bir fiyatla satılıyordu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+          "quote": "For the first few months of 2026—the good old days—it was selling for less than $1,000."
+        }
+      ]
     },
     {
-      "claim": "Lenovo, RTX 5050 ekran kartı ve aynı diğer özelliklere sahip LOQ 15 konfigürasyonunu 999 dolardan satışa sunmaktadır.",
-      "verdict": "not_found",
-      "evidence": []
+      "claim": "RTX 5060 ekran kartına sahip Lenovo LOQ 15 modelini şu anda 1.300 dolara satın almak mümkündür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+          "quote": "you can buy the LOQ 15 with an RTX 5060 for just $1,300."
+        },
+        {
+          "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+          "quote": "Also significant is the fact that, right now, you can buy the LOQ 15 with an RTX 5060 for just $1,300."
+        }
+      ]
     },
     {
-      "claim": "Lenovo LOQ 15 sisteminin sağlayabildiği 100 watt güç ile test edilen Black Myth Wukong ve Monster Hunter Wilds dahil her oyun orta ayarlarda saniyede 60 kareden fazla hızda çalıştı.",
-      "verdict": "not_found",
-      "evidence": []
+      "claim": "Amazon'daki RTX 5060 konfigürasyonu 16 GB RAM ve 512 GB depolama alanı ile birlikte 1.300 dolara satılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+          "quote": "Amazon has the RTX 5060 configuration, which also comes with 16 GB of RAM and 512 GB of storage, for $1,300"
+        }
+      ]
+    },
+    {
+      "claim": "Lenovo, RTX 5050 konfigürasyonuna sahip LOQ 15 modelini 999 dolardan satışa sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+          "quote": "Lenovo also has a killer deal on the RTX 5050 configuration that's about as cheap as it gets: $999 for an RTX 5050"
+        },
+        {
+          "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+          "quote": "Lenovo also has a killer deal on the RTX 5050 configuration that's about as cheap as it gets: $999 for an RTX 5050 (and otherwise identical specs)."
+        }
+      ]
     }
   ],
   "round2": [
     {
-      "claim": "Bazı üreticiler 2026 yılında başlangıç konfigürasyonu olarak üç yıldan eski RTX 4050 ekran kartına sahip yeni oyun dizüstü bilgisayarları piyasaya sürdü.",
+      "claim": "Bazı üreticiler 2026 yılında RTX 4050 ekran kartını başlangıç konfigürasyonu olarak kullanan yeni oyun dizüstü bilgisayarları piyasaya sürmektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
-          "quote": "Some manufacturers have even resorted to launching “new\" gaming laptops in 2026 with the RTX 4050 as the starting configuration—and that graphics card is more than three years old."
+          "quote": "Some manufacturers have even resorted to launching “new"
         },
         {
           "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
-          "quote": "Some manufacturers have even resorted to launching “new"
+          "quote": "Some manufacturers have even resorted to launching “new\" gaming laptops in 2026 with the RTX 4050 as the starting configuration"
         }
       ]
     },
     {
-      "claim": "Lenovo LOQ 15 oyun dizüstü bilgisayarı 2026 yılının ilk birkaç ayında 1.000 dolardan daha düşük bir fiyata satılıyordu.",
-      "verdict": "not_found",
-      "evidence": []
+      "claim": "Lenovo LOQ 15, 1.500 doların altındaki fiyatıyla önerilen tek oyun dizüstü bilgisayarıdır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+          "quote": "there's really only one gaming laptop under $1,500 that I feel comfortable recommending. That's the Lenovo LOQ 15."
+        },
+        {
+          "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+          "quote": "Given this landscape, there's really only one gaming laptop under $1,500 that I feel comfortable recommending. That's the Lenovo LOQ 15."
+        }
+      ]
     },
     {
-      "claim": "RTX 5060 ekran kartına, 16 GB RAM'e ve 512 GB depolamaya sahip Lenovo LOQ 15 modeli Amazon'da 1.300 dolara satılmaktadır.",
-      "verdict": "not_found",
-      "evidence": []
+      "claim": "Lenovo LOQ 15, 2026 yılının ilk birkaç ayında 1.000 doların altında bir fiyatla satılıyordu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+          "quote": "For the first few months of 2026—the good old days—it was selling for less than $1,000."
+        }
+      ]
     },
     {
-      "claim": "Lenovo, RTX 5050 ekran kartı ve aynı diğer özelliklere sahip LOQ 15 konfigürasyonunu 999 dolardan satışa sunmaktadır.",
-      "verdict": "not_found",
-      "evidence": []
+      "claim": "RTX 5060 ekran kartına sahip Lenovo LOQ 15 modelini şu anda 1.300 dolara satın almak mümkündür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+          "quote": "you can buy the LOQ 15 with an RTX 5060 for just $1,300."
+        },
+        {
+          "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+          "quote": "Also significant is the fact that, right now, you can buy the LOQ 15 with an RTX 5060 for just $1,300."
+        }
+      ]
     },
     {
-      "claim": "Lenovo LOQ 15 sisteminin sağlayabildiği 100 watt güç ile test edilen Black Myth Wukong ve Monster Hunter Wilds dahil her oyun orta ayarlarda saniyede 60 kareden fazla hızda çalıştı.",
-      "verdict": "not_found",
-      "evidence": []
+      "claim": "Amazon'daki RTX 5060 konfigürasyonu 16 GB RAM ve 512 GB depolama alanı ile birlikte 1.300 dolara satılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+          "quote": "Amazon has the RTX 5060 configuration, which also comes with 16 GB of RAM and 512 GB of storage, for $1,300"
+        }
+      ]
+    },
+    {
+      "claim": "Lenovo, RTX 5050 konfigürasyonuna sahip LOQ 15 modelini 999 dolardan satışa sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+          "quote": "Lenovo also has a killer deal on the RTX 5050 configuration that's about as cheap as it gets: $999 for an RTX 5050"
+        },
+        {
+          "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+          "quote": "Lenovo also has a killer deal on the RTX 5050 configuration that's about as cheap as it gets: $999 for an RTX 5050 (and otherwise identical specs)."
+        }
+      ]
     }
   ],
   "source_texts": {

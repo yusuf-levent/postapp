@@ -1,65 +1,69 @@
 {
   "cover": {
-    "category_label": "DONANIM GÜNDEMİ",
-    "title": "2026 Yılında Eski Teknoloji Tercihi",
+    "category_label": "TEKNOLOJİ DÜNYASI",
+    "title": "2026 Yılında Yeni Oyun Dizüstü Bilgisayarları",
     "highlight_words": [
-      "RTX 4050",
-      "2026"
+      "2026",
+      "Oyun"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Yeni oyun dizüstü bilgisayarlarında şaşırtan ekran kartı tercihi.",
+    "subtitle": "RTX 4050 ve yeni ekran kartı seçenekleriyle piyasaya çıkan modeller inceleniyor.",
     "source_tags": [
       "WIRED",
       "NVIDIA NEWSROOM"
     ]
   },
   "context": {
-    "heading": "Piyasaya Sürülen Yeni Modeller",
+    "heading": "Piyasadaki Yeni Modeller",
     "cards": [
       {
-        "card_title": "Başlangıç Konfigürasyonu",
-        "card_body": "Bazı üreticiler yeni oyun dizüstü bilgisayarlarını belirli donanımlarla piyasaya sürüyor."
+        "card_title": "Başlangıç Konfigürasyonları",
+        "card_body": "Bazı üreticiler 2026 yılında RTX 4050 ekran kartını başlangıç konfigürasyonu olarak kullanan yeni oyun dizüstü bilgisayarları piyasaya sürmektedir."
       },
       {
-        "card_title": "Tercih Edilen Donanım",
-        "card_body": "Yeni çıkan cihazlarda başlangıç donanımı olarak eski ekran kartları yer alıyor."
+        "card_title": "Lenovo LOQ 15 Öne Çıkıyor",
+        "card_body": "Lenovo LOQ 15, 1.500 doların altındaki fiyatıyla önerilen tek oyun dizüstü bilgisayarı olarak dikkat çekiyor."
       }
     ]
   },
   "stat": {
-    "big_stat": "3 YIL",
-    "stat_caption": "Ekran kartının piyasaya çıkış tarihi üzerinden geçen süre.",
-    "stat_quote": "Üç yıldan eski donanımlar yeni cihazlarda kendine yer buluyor."
+    "big_stat": "999 $",
+    "stat_caption": "Lenovo LOQ 15 modelinin RTX 5050 konfigürasyonunun başlangıç fiyatı.",
+    "stat_quote": "Lenovo, RTX 5050 konfigürasyonuna sahip LOQ 15 modelini 999 dolardan satışa sunmaktadır."
   },
   "details": {
-    "heading": "Teknik Tercihin Detayları",
+    "heading": "Fiyat ve Donanım Seçenekleri",
     "cards": [
       {
-        "card_title": "RTX 4050 Durumu",
-        "card_body": "Üç yıldan eski RTX 4050 ekran kartı yeni modellerde kullanılıyor."
+        "card_title": "Yılın İlk Ayları",
+        "card_body": "Lenovo LOQ 15, 2026 yılının ilk birkaç ayında 1.000 doların altında bir fiyatla satılıyordu."
       },
       {
-        "card_title": "Üretici Hamlesi",
-        "card_body": "Bazı üreticiler bu kartı başlangıç konfigürasyonu olarak seçti."
+        "card_title": "RTX 5060 Seçeneği",
+        "card_body": "RTX 5060 ekran kartına sahip Lenovo LOQ 15 modelini şu anda 1.300 dolara satın almak mümkündür."
+      },
+      {
+        "card_title": "Amazon Fiyatlandırması",
+        "card_body": "Amazon'daki RTX 5060 konfigürasyonu 16 GB RAM ve 512 GB depolama alanı ile birlikte 1.300 dolara satılmaktadır."
       }
     ]
   },
   "impact": {
-    "heading": "Sektör ve Kullanıcı Etkisi",
+    "heading": "Sektörel Etkiler",
     "cards": [
       {
-        "card_title": "Sektörel Yaklaşım",
-        "card_body": "Üreticilerin yeni oyun dizüstü bilgisayarlarında eski nesil kartlara yönelmesi dikkat çekiyor."
+        "card_title": "Donanım Tercihleri",
+        "card_body": "Üreticilerin 2026 yılında RTX 4050 ekran kartını başlangıç konfigürasyonu olarak seçmesi pazarın yönünü belirliyor."
       },
       {
-        "card_title": "Kullanıcı Deneyimi",
-        "card_body": "Oyuncular başlangıç konfigürasyonlarında eski nesil ekran kartlarıyla karşılaşıyor."
+        "card_title": "Kullanıcı Bütçeleri",
+        "card_body": "1.500 doların altındaki fiyat seçenekleri, oyuncuların güncel donanımlara daha erişilebilir fiyatlarla ulaşmasını sağlıyor."
       }
     ]
   },
   "cta": {
-    "question": "Yeni oyun dizüstü bilgisayarlarında eski nesil ekran kartı kullanılmasını nasıl buluyorsunuz?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın."
+    "question": "Sizce yeni nesil dizüstü bilgisayarlarda hangi ekran kartı fiyat/performans açısından daha avantajlı?",
+    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
