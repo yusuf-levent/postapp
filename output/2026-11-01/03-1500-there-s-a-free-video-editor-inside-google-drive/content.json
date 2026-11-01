@@ -1,14 +1,14 @@
 {
   "cover": {
     "category_label": "YAPAY ZEKA VE TEKNOLOJI",
-    "title": "Google Vids Artık Herkese Açık!",
+    "title": "Google Vids Herkese Açılıyor",
     "highlight_words": [
       "Google Vids"
     ],
-    "highlight_color": "yellow",
-    "subtitle": "Tarayıcı tabanlı video düzenleme uygulaması bireysel kullanıcılara sunuldu.",
+    "highlight_color": "cyan",
+    "subtitle": "Tarayıcı tabanlı video düzenleme aracı artık bireysel kullanıcılarla buluşuyor.",
     "source_tags": [
-      "WIRED",
+      "GOOGLE BLOG",
       "TECHCRUNCH"
     ]
   },
@@ -16,48 +16,48 @@
     "heading": "Google Vids Nedir?",
     "cards": [
       {
-        "card_title": "Workspace Parçası",
-        "card_body": "Google Vids, Google Workspace paketinin bir parçası olarak sunulan çevrimiçi bir video düzenleme uygulamasıdır."
+        "card_title": "Çevrimiçi Paket",
+        "card_body": "Google Vids, Google Workspace bünyesinde yer alan çevrimiçi bir video düzenleme paketidir."
       },
       {
-        "card_title": "Tarayıcı Desteği",
-        "card_body": "Google Vids kullanımı ücretsizdir ve bir web tarayıcısında çalışacak şekilde tasarlanmıştır."
+        "card_title": "Tamamen Ücretsiz",
+        "card_body": "Kullanımı ücretsiz olan bu araç, doğrudan bir web tarayıcısında çalışacak şekilde tasarlanmıştır."
       }
     ]
   },
   "stat": {
     "big_stat": "2026",
     "stat_caption": "Bireysel kullanıcılara sunulduğu yıl",
-    "stat_quote": "Google Vids uygulaması 2026 yılında bireysel kullanıcılara da sunulmuştur."
+    "stat_quote": "Google Vids ilk olarak 2024 yılında işletme ve kurumsal kullanıcılar için piyasaya sürülmüştür."
   },
   "details": {
-    "heading": "Uygulama Detayları",
+    "heading": "Yapay Zeka Destekli",
     "cards": [
       {
-        "card_title": "Kurumsal Çıkış",
-        "card_body": "Google Vids, ilk olarak 2024 yılında iş ve kurumsal kullanıcılar için piyasaya sürülmüştür."
+        "card_title": "Veo 3.1 Modeli",
+        "card_body": "Google Vids arayüzünde Veo 3.1 modeli ile yapay zeka videoları kolayca oluşturulabilir."
       },
       {
-        "card_title": "Yapay Zeka Gücü",
-        "card_body": "Google Vids içerisinde Veo 3.1 modeli kullanılarak yapay zeka videoları oluşturulabilir."
+        "card_title": "Kolay Erişim",
+        "card_body": "Herhangi bir ek kurulum gerektirmeden tarayıcı üzerinden hızlıca erişim sağlayabilirsiniz."
       }
     ]
   },
   "impact": {
-    "heading": "Kullanım Alanı",
+    "heading": "Kullanıcıya Etkisi",
     "cards": [
       {
-        "card_title": "Bireysel Erişim",
-        "card_body": "Uygulamanın bireysel kullanıcılara açılmasıyla geniş bir kitle ücretsiz video düzenleme araçlarına erişiyor."
+        "card_title": "Bireysel Kullanım",
+        "card_body": "2026 yılında bireysel kullanıcılara sunulmasıyla geniş bir kitleye hitap etmeye başladı."
       },
       {
-        "card_title": "Yapay Zeka Üretimi",
-        "card_body": "Veo 3.1 modeli ile kullanıcılar tarayıcı üzerinden kolayca yapay zeka videoları üretebiliyor."
+        "card_title": "Pratik Çözümler",
+        "card_body": "Workspace ekosistemi içinde video oluşturma sürecini herkes için erişilebilir kılıyor."
       }
     ]
   },
   "cta": {
-    "question": "Google Vids ile tarayıcı üzerinden video oluşturmayı deneyecek misiniz?",
+    "question": "Tarayıcı üzerinden yapay zeka ile video oluşturma fikrini nasıl buluyorsunuz?",
     "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
