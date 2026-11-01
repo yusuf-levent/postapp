@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ DÜNYASI",
+    "title": "GİRİŞİMLER VE VERİ MERKEZLERİ",
+    "highlight_words": [
+      "GİRİŞİMLER",
+      "VERİ"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Teknoloji dünyasından son gelişmeler, yeni girişimler ve güncel raporlar.",
+    "source_tags": [
+      "TECHCRUNCH",
+      "ARS TECHNICA"
+    ]
+  },
+  "context": {
+    "heading": "YENİ GİRİŞİMLER VE PROJELER",
+    "cards": [
+      {
+        "card_title": "Medya ve Odaklanma",
+        "card_body": "Jack Brewster eski Forbes ve Newsweek muhabiri olarak Newsreel adlı medya şirketini kurdu. Kenneth Schlenker ise Opal odaklanma uygulamasının kurucu ortağıdır."
+      },
+      {
+        "card_title": "Yazılım ve Yapay Zeka",
+        "card_body": "Aryan Banjan, Barza kampanya yönetim yazılımını inşa etti. İki teknoloji kurucusu, yapay zeka asistanı girişimi Instinct'i bu yıl gördükleri en çılgın şey olarak belirtti."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "200 MİLYAR",
+    "stat_caption": "2026 yılının ilk yarısında geciken, durdurulan veya engellenen veri merkezi projelerinin yaklaşık maliyeti.",
+    "stat_quote": "Data Center Watch raporuna göre neredeyse 200 milyar dolar değerindeki veri merkezi projeleri aksadı."
+  },
+  "details": {
+    "heading": "SEKTÖRDEN DİĞER GELİŞMELER",
+    "cards": [
+      {
+        "card_title": "Seçimler ve Siyaset",
+        "card_body": "Ara dönem seçimleri 3 Kasım tarihinde gerçekleştirilmek üzere planlandı. New York City Konseyi üyesi Chi Ossé kendini demokratik sosyalist olarak tanımladı."
+      },
+      {
+        "card_title": "Kampanya ve Tasarım",
+        "card_body": "Prada'nın tatil kampanyası el çizimi illüstrasyonlara yer veriyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "ETKİLER VE YANSIMALAR",
+    "cards": [
+      {
+        "card_title": "Altyapı Projeleri",
+        "card_body": "Milyarlarca dolarlık veri merkezi projelerinin ertelenmesi veya durdurulması, teknoloji altyapısının büyüme hızını etkiliyor."
+      },
+      {
+        "card_title": "Yenilikçi Girişimler",
+        "card_body": "Yeni yazılımlar, medya oluşumları ve yapay zeka asistanları teknoloji ekosisteminde dikkat çekmeye devam ediyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce veri merkezi projelerindeki bu büyük gecikmeler teknoloji sektörünün geleceğini nasıl etkileyecek?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
