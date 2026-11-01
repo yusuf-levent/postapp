@@ -1,0 +1,277 @@
+{
+  "title": "Meta reportedly built a humanoid robot prototype that can do household chores",
+  "canonical_url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+  "source_names": [
+    "Engadget",
+    "TechCrunch",
+    "Wired",
+    "Meta Newsroom (resmi alternatif)"
+  ],
+  "checked_at": "2026-11-01T20:43:45+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Meta, ev işlerine yardımcı olması amacıyla Max kod adlı bir insansı robot prototipi geliştirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "As part of its push into robotics, Meta has built a prototype humanoid robot that's meant to help out around people's homes, according to The Information. The report said that the robot, internally codenamed Max"
+        }
+      ]
+    },
+    {
+      "claim": "Max kod adlı robot, Çinli robotik şirketi Fourier'in yardımıyla yaklaşık üç ayda inşa edildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "The report said that the robot, internally codenamed Max, was built with the help of a Chinese robotics company called Fourier in roughly three months."
+        }
+      ]
+    },
+    {
+      "claim": "Max kod adlı robot yaklaşık 106 pound (yaklaşık 48 kg) ağırlığında ve 1,5 metre boyundadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "According to The Information's sources, the robot weighs roughly 106 lbs and is about 1.5 meters tall, or approximately five feet tall."
+        },
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "According to The Information's sources, the robot weighs roughly 106 lbs and is about 1.5 meters tall"
+        }
+      ]
+    },
+    {
+      "claim": "Meta, robotun işlem gücü için NVIDIA'nın Jetson Thor çiplerini kullanmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "Internally, Meta went with NVIDIA's Jetson Thor chips to power the robot, according to the report."
+        }
+      ]
+    },
+    {
+      "claim": "Meta, Eylül ayından bu yana Max 2 kod adlı ikinci bir prototip üzerinde çalışmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "Meta has already been working on a second prototype, codenamed Max 2, since September."
+        }
+      ]
+    },
+    {
+      "claim": "Max 2 prototipinde gövde ve el tasarımında güncellemeler ile merdivenleri daha iyi çıkabilmesi için projektör ve ek sensörler eklenmesi planlanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "The report added that the tech giant is including updates to the design of the robot's torso and hands, as well as adding a projector and additional sensors to help it handle stairs better."
+        }
+      ]
+    },
+    {
+      "claim": "Bloomberg'in geçen yılki haberine göre, Meta robot donanımı geliştirmek için yeni bir ekip kurmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "Meta's efforts to break into humanoid robots began as early as last year after Bloomberg reported that the company created a new team tasked with building robot hardware with the eventual goal of being able to do household chores."
+        }
+      ]
+    },
+    {
+      "claim": "Meta, bu yılın başlarında robotlar için yapay zeka geliştiren bir girişimi satın almıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "Following that report, Meta acquired a startup that's known for building artificial intelligence specifically for robots, earlier this year."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Meta, ev işlerine yardımcı olması amacıyla Max kod adlı bir insansı robot prototipi geliştirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "As part of its push into robotics, Meta has built a prototype humanoid robot that's meant to help out around people's homes, according to The Information. The report said that the robot, internally codenamed Max"
+        }
+      ]
+    },
+    {
+      "claim": "Max kod adlı robot, Çinli robotik şirketi Fourier'in yardımıyla yaklaşık üç ayda inşa edildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "The report said that the robot, internally codenamed Max, was built with the help of a Chinese robotics company called Fourier in roughly three months."
+        }
+      ]
+    },
+    {
+      "claim": "Max kod adlı robot yaklaşık 106 pound (yaklaşık 48 kg) ağırlığında ve 1,5 metre boyundadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "According to The Information's sources, the robot weighs roughly 106 lbs and is about 1.5 meters tall, or approximately five feet tall."
+        },
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "According to The Information's sources, the robot weighs roughly 106 lbs and is about 1.5 meters tall"
+        }
+      ]
+    },
+    {
+      "claim": "Meta, robotun işlem gücü için NVIDIA'nın Jetson Thor çiplerini kullanmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "Internally, Meta went with NVIDIA's Jetson Thor chips to power the robot, according to the report."
+        }
+      ]
+    },
+    {
+      "claim": "Meta, Eylül ayından bu yana Max 2 kod adlı ikinci bir prototip üzerinde çalışmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "Meta has already been working on a second prototype, codenamed Max 2, since September."
+        }
+      ]
+    },
+    {
+      "claim": "Max 2 prototipinde gövde ve el tasarımında güncellemeler ile merdivenleri daha iyi çıkabilmesi için projektör ve ek sensörler eklenmesi planlanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "The report added that the tech giant is including updates to the design of the robot's torso and hands, as well as adding a projector and additional sensors to help it handle stairs better."
+        }
+      ]
+    },
+    {
+      "claim": "Bloomberg'in geçen yılki haberine göre, Meta robot donanımı geliştirmek için yeni bir ekip kurmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "Meta's efforts to break into humanoid robots began as early as last year after Bloomberg reported that the company created a new team tasked with building robot hardware with the eventual goal of being able to do household chores."
+        }
+      ]
+    },
+    {
+      "claim": "Meta, bu yılın başlarında robotlar için yapay zeka geliştiren bir girişimi satın almıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "Following that report, Meta acquired a startup that's known for building artificial intelligence specifically for robots, earlier this year."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Meta, ev işlerine yardımcı olması amacıyla Max kod adlı bir insansı robot prototipi geliştirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "As part of its push into robotics, Meta has built a prototype humanoid robot that's meant to help out around people's homes, according to The Information. The report said that the robot, internally codenamed Max"
+        }
+      ]
+    },
+    {
+      "claim": "Max kod adlı robot, Çinli robotik şirketi Fourier'in yardımıyla yaklaşık üç ayda inşa edildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "The report said that the robot, internally codenamed Max, was built with the help of a Chinese robotics company called Fourier in roughly three months."
+        }
+      ]
+    },
+    {
+      "claim": "Max kod adlı robot yaklaşık 106 pound (yaklaşık 48 kg) ağırlığında ve 1,5 metre boyundadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "According to The Information's sources, the robot weighs roughly 106 lbs and is about 1.5 meters tall, or approximately five feet tall."
+        },
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "According to The Information's sources, the robot weighs roughly 106 lbs and is about 1.5 meters tall"
+        }
+      ]
+    },
+    {
+      "claim": "Meta, robotun işlem gücü için NVIDIA'nın Jetson Thor çiplerini kullanmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "Internally, Meta went with NVIDIA's Jetson Thor chips to power the robot, according to the report."
+        }
+      ]
+    },
+    {
+      "claim": "Meta, Eylül ayından bu yana Max 2 kod adlı ikinci bir prototip üzerinde çalışmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "Meta has already been working on a second prototype, codenamed Max 2, since September."
+        }
+      ]
+    },
+    {
+      "claim": "Max 2 prototipinde gövde ve el tasarımında güncellemeler ile merdivenleri daha iyi çıkabilmesi için projektör ve ek sensörler eklenmesi planlanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "The report added that the tech giant is including updates to the design of the robot's torso and hands, as well as adding a projector and additional sensors to help it handle stairs better."
+        }
+      ]
+    },
+    {
+      "claim": "Bloomberg'in geçen yılki haberine göre, Meta robot donanımı geliştirmek için yeni bir ekip kurmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "Meta's efforts to break into humanoid robots began as early as last year after Bloomberg reported that the company created a new team tasked with building robot hardware with the eventual goal of being able to do household chores."
+        }
+      ]
+    },
+    {
+      "claim": "Meta, bu yılın başlarında robotlar için yapay zeka geliştiren bir girişimi satın almıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+          "quote": "Following that report, Meta acquired a startup that's known for building artificial intelligence specifically for robots, earlier this year."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/": 1612,
+    "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/": 1174,
+    "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/": 4634,
+    "https://about.fb.com/news/2026/10/lavenir-appartient-a-tous-meta-et-inca-sassocient-pour-soutenir-les-personnes-aveugles-sourdes-et-aveugles-ou-ayant-une-basse-vision-au-canada/": 4243
+  }
+}

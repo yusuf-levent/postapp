@@ -1,0 +1,10 @@
+{
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 136.5,
+  "candidates_tried": 1,
+  "gemini_calls": 21,
+  "canonical_url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+  "generated_at": "2026-11-01T20:45:17+03:00"
+}

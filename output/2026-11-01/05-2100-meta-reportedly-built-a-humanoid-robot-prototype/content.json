@@ -1,0 +1,72 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE ROBOTİK",
+    "title": "Meta'nın Yeni İnsansı Robotu: Max",
+    "highlight_words": [
+      "Max"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Meta, ev işlerine yardımcı olması planlanan insansı robot projesi Max'i geliştiriyor.",
+    "source_tags": [
+      "ENGADGET",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Max Projesi Nedir?",
+    "cards": [
+      {
+        "card_title": "Ev İşlerine Yardımcı",
+        "card_body": "Meta, ev işlerinde destek sağlamak amacıyla Max kod adlı insansı bir robot prototipi geliştirdi."
+      },
+      {
+        "card_title": "Hızlı Geliştirme Süreci",
+        "card_body": "Max, Çinli robotik şirketi Fourier'in desteğiyle yaklaşık üç aylık bir sürede inşa edildi."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "48 KG",
+    "stat_caption": "Max'in fiziksel özellikleri",
+    "stat_quote": "Yaklaşık 106 pound (48 kg) ağırlığında ve 1,5 metre boyunda olan Max, NVIDIA'nın Jetson Thor çiplerinden güç alıyor."
+  },
+  "details": {
+    "heading": "Teknik Detaylar ve Gelecek",
+    "cards": [
+      {
+        "card_title": "Donanım ve İşlem Gücü",
+        "card_body": "Meta, robotun işlem gücü için NVIDIA'nın Jetson Thor çiplerini tercih etti."
+      },
+      {
+        "card_title": "Max 2 Yolda",
+        "card_body": "Eylül ayından bu yana Max 2 kod adlı ikinci bir prototip üzerinde çalışmalar devam ediyor."
+      },
+      {
+        "card_title": "Yeni Özellikler",
+        "card_body": "Max 2'de gövde ve el tasarımları güncelleniyor; merdiven çıkabilmesi için projektör ve ek sensörler ekleniyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Meta'nın Robotik Vizyonu",
+    "cards": [
+      {
+        "card_title": "Stratejik Yatırımlar",
+        "card_body": "Bloomberg'in haberine göre Meta, robot donanımı geliştirmek için özel bir ekip kurdu."
+      },
+      {
+        "card_title": "Yapay Zeka Odaklı Büyüme",
+        "card_body": "Şirket, bu yılın başlarında robotlar için yapay zeka geliştiren bir girişimi satın alarak yetkinliklerini artırdı."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce insansı robotlar ev işlerinde ne kadar başarılı olabilir?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için Tekno Pusula'yı takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
