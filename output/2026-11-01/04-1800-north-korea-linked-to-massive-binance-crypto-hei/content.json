@@ -1,0 +1,129 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ GÜNDEMİ",
+    "title": "FBI'dan Kuzey Kore Açıklaması: 6.3 Milyar Dolarlık Kripto Vurgunu",
+    "highlight_words": [
+      "Kuzey Kore",
+      "6.3 Milyar Dolar"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Binance borsasındaki büyük hırsızlığın arkasındaki isimler açıklandı.",
+    "source_tags": [
+      "The Verge",
+      "TechCrunch",
+      "BBC News",
+      "Ars Technica"
+    ]
+  },
+  "problem": {
+    "heading": "Saldırının Arka Planı",
+    "cards": [
+      {
+        "card_title": "FBI Açıklaması",
+        "card_body": "FBI, 29 Ekim tarihinde Binance borsasından gerçekleştirilen 6.3 milyar dolar değerindeki kripto para hırsızlığının arkasında Kuzey Kore'nin olduğunu duyurdu."
+      },
+      {
+        "card_title": "Saldırgan Grubu",
+        "card_body": "FBI, Kuzey Kore bağlantılı bu siber saldırı faaliyetini TraderTraitor olarak adlandırdı."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Saldırının Yöntemi",
+      "cards": [
+        {
+          "card_title": "Ortak Operasyon",
+          "card_body": "FBI, USSS ve IRS-CI kurumlarının ortaklığıyla yürütülen çalışmalarda saldırganların izi sürüldü."
+        },
+        {
+          "card_title": "Varlık Dönüşümü",
+          "card_body": "Yetkililer, saldırganların çalınan varlıkları öncelikle Ethereum (ETH) ağındaki varlıklara dönüştürdüğünü gözlemledi."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Binance Borsasının Adımları",
+      "cards": [
+        {
+          "card_title": "İşlemlerin Durdurulması",
+          "card_body": "Binance, hack olayının hemen ardından güvenlik önlemi olarak müşteri çekim işlemlerini geçici olarak dondurdu."
+        },
+        {
+          "card_title": "Yeniden Açılış",
+          "card_body": "Borsada dondurulan müşteri çekim işlemlerinin bugün itibarıyla yeniden açıldığı bildirildi."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Güvenlik ve Takip",
+      "cards": [
+        {
+          "card_title": "Uluslararası İş Birliği",
+          "card_body": "FBI ve diğer güvenlik kurumları, çalınan fonların takibi için kripto borsalarıyla koordineli şekilde çalışmaya devam ediyor."
+        },
+        {
+          "card_title": "Kullanıcı Güvenliği",
+          "card_body": "Borsalar ve kullanıcılar için bu tür büyük ölçekli saldırılara karşı iki aşamalı doğrulama ve gelişmiş güvenlik önlemleri kritik önem taşıyor."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Kripto para borsalarında güvenliği artırmak için sizce hangi adımlar atılmalı?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki güncel gelişmeler için Tekno Pusula'yı takipte kalın!"
+  },
+  "context": {
+    "heading": "Saldırının Arka Planı",
+    "cards": [
+      {
+        "card_title": "FBI Açıklaması",
+        "card_body": "FBI, 29 Ekim tarihinde Binance borsasından gerçekleştirilen 6.3 milyar dolar değerindeki kripto para hırsızlığının arkasında Kuzey Kore'nin olduğunu duyurdu."
+      },
+      {
+        "card_title": "Saldırgan Grubu",
+        "card_body": "FBI, Kuzey Kore bağlantılı bu siber saldırı faaliyetini TraderTraitor olarak adlandırdı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Saldırının Yöntemi",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Binance Borsasının Adımları",
+    "cards": [
+      {
+        "card_title": "İşlemlerin Durdurulması",
+        "card_body": "Binance, hack olayının hemen ardından güvenlik önlemi olarak müşteri çekim işlemlerini geçici olarak dondurdu."
+      },
+      {
+        "card_title": "Yeniden Açılış",
+        "card_body": "Borsada dondurulan müşteri çekim işlemlerinin bugün itibarıyla yeniden açıldığı bildirildi."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Güvenlik ve Takip",
+    "cards": [
+      {
+        "card_title": "Uluslararası İş Birliği",
+        "card_body": "FBI ve diğer güvenlik kurumları, çalınan fonların takibi için kripto borsalarıyla koordineli şekilde çalışmaya devam ediyor."
+      },
+      {
+        "card_title": "Kullanıcı Güvenliği",
+        "card_body": "Borsalar ve kullanıcılar için bu tür büyük ölçekli saldırılara karşı iki aşamalı doğrulama ve gelişmiş güvenlik önlemleri kritik önem taşıyor."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}
