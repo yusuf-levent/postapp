@@ -3328,5 +3328,80 @@
     ],
     "created_at": "2026-11-01T16:14:52+03:00",
     "verified_claims_count": 7
+  },
+  {
+    "id": "2026-11-01-1800",
+    "date": "2026-11-01",
+    "slot": "18:00",
+    "type": "edu",
+    "title_tr": "FBI'dan Binance Soygunu Açıklaması",
+    "original_title": "North Korea linked to massive Binance crypto heist",
+    "source_urls": [
+      "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist"
+    ],
+    "canonical_url": "https://theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+    "entities": [
+      "FBI",
+      "North Korea",
+      "Binance",
+      "TraderTraitor",
+      "USSS",
+      "IRS-CI",
+      "Ethereum"
+    ],
+    "event_type": "crypto_heist",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae7511ffa39ab5d4d7d488f",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae75136354a6ae7df83cdff",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae751378755094b828b31b4",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2116905201080705078",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18096583568661085",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfM-7w0limx",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae75158fa39ab5d4d7d5908",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae7516fcd0d0de2bf7fe959",
+        "permalink": "https://facebook.com/1351036918092059_122120252769484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-11-01T17:49:39+03:00",
+    "verified_claims_count": 4
   }
 ]
