@@ -3403,5 +3403,79 @@
     ],
     "created_at": "2026-11-01T17:49:39+03:00",
     "verified_claims_count": 4
+  },
+  {
+    "id": "2026-11-01-2100",
+    "date": "2026-11-01",
+    "slot": "21:00",
+    "type": "news",
+    "title_tr": "Xbox Kontrolcüsünde Neden AA Pil Kullanılıyor?",
+    "original_title": "The reason why your Xbox controller still uses AA batteries",
+    "source_urls": [
+      "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/"
+    ],
+    "canonical_url": "https://engadget.com/2300298/reason-xbox-controller-uses-aa-batteries",
+    "entities": [
+      "Xbox",
+      "Microsoft",
+      "Xbox Series X",
+      "Xbox 360",
+      "Nintendo Wii",
+      "PlayStation 3"
+    ],
+    "event_type": "product_design_choice",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae77c80142f545151f26ec6",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae77c98a9b1b4ba58f6f409",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae77caf7c4e5559266a8624",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2116951873236213986",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18115629113594545",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfNUKEAlKmQ",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae77cd07c4e5559266a90c3",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae77ce77c4e5559266a9882",
+        "permalink": "https://facebook.com/1351036918092059_122120290953484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-11-01T20:55:00+03:00",
+    "verified_claims_count": 8
   }
 ]
