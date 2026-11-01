@@ -4,15 +4,15 @@
   "source_names": [
     "Wired",
     "Ars Technica",
-    "Google Blog",
-    "TechCrunch"
+    "TechCrunch",
+    "MIT Technology Review"
   ],
-  "checked_at": "2026-11-01T15:42:04+03:00",
+  "checked_at": "2026-11-01T15:48:00+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Google Vids, Google Workspace bünyesindeki çevrimiçi bir video düzenleme paketidir.",
+      "claim": "Google Vids, Google Workspace kapsamında sunulan çevrimiçi bir video düzenleme paketidir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "claim": "Google Vids uygulaması 2026 yılında bireysel kullanıcılara sunulmuştur.",
+      "claim": "Google Vids, 2026 yılında bireysel kullanıcılara da sunulmuştur.",
       "verdict": "supported",
       "evidence": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "claim": "Google Vids uygulaması kullanımı ücretsizdir ve bir web tarayıcısında çalışmak üzere tasarlanmıştır.",
+      "claim": "Google Vids, web tarayıcısında çalışacak şekilde tasarlanmıştır ve kullanımı ücretsizdir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -52,19 +52,23 @@
       ]
     },
     {
-      "claim": "Google Vids, Veo 3.1 modeli ile yapay zeka videoları oluşturulmasına olanak tanır.",
+      "claim": "Kullanıcılar, Veo 3.1 modelini kullanarak Google Vids'te yapay zeka videoları üretebilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
           "quote": "You can generate AI videos with the Veo 3.1 model, turn a slideshow into a video, work from a template, upload an existing video as a starting point, create an AI music track, record a video using your camera, produce a video with an AI avatar, or create a storyboard outline."
+        },
+        {
+          "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
+          "quote": "You can generate AI videos with the Veo 3.1 model, turn a slideshow into a video, work from a template..."
         }
       ]
     }
   ],
   "round1": [
     {
-      "claim": "Google Vids, Google Workspace bünyesindeki çevrimiçi bir video düzenleme paketidir.",
+      "claim": "Google Vids, Google Workspace kapsamında sunulan çevrimiçi bir video düzenleme paketidir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -84,7 +88,7 @@
       ]
     },
     {
-      "claim": "Google Vids uygulaması 2026 yılında bireysel kullanıcılara sunulmuştur.",
+      "claim": "Google Vids, 2026 yılında bireysel kullanıcılara da sunulmuştur.",
       "verdict": "supported",
       "evidence": [
         {
@@ -94,7 +98,7 @@
       ]
     },
     {
-      "claim": "Google Vids uygulaması kullanımı ücretsizdir ve bir web tarayıcısında çalışmak üzere tasarlanmıştır.",
+      "claim": "Google Vids, web tarayıcısında çalışacak şekilde tasarlanmıştır ve kullanımı ücretsizdir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -104,19 +108,23 @@
       ]
     },
     {
-      "claim": "Google Vids, Veo 3.1 modeli ile yapay zeka videoları oluşturulmasına olanak tanır.",
+      "claim": "Kullanıcılar, Veo 3.1 modelini kullanarak Google Vids'te yapay zeka videoları üretebilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
           "quote": "You can generate AI videos with the Veo 3.1 model, turn a slideshow into a video, work from a template, upload an existing video as a starting point, create an AI music track, record a video using your camera, produce a video with an AI avatar, or create a storyboard outline."
+        },
+        {
+          "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
+          "quote": "You can generate AI videos with the Veo 3.1 model, turn a slideshow into a video, work from a template..."
         }
       ]
     }
   ],
   "round2": [
     {
-      "claim": "Google Vids, Google Workspace bünyesindeki çevrimiçi bir video düzenleme paketidir.",
+      "claim": "Google Vids, Google Workspace kapsamında sunulan çevrimiçi bir video düzenleme paketidir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -136,7 +144,7 @@
       ]
     },
     {
-      "claim": "Google Vids uygulaması 2026 yılında bireysel kullanıcılara sunulmuştur.",
+      "claim": "Google Vids, 2026 yılında bireysel kullanıcılara da sunulmuştur.",
       "verdict": "supported",
       "evidence": [
         {
@@ -146,7 +154,7 @@
       ]
     },
     {
-      "claim": "Google Vids uygulaması kullanımı ücretsizdir ve bir web tarayıcısında çalışmak üzere tasarlanmıştır.",
+      "claim": "Google Vids, web tarayıcısında çalışacak şekilde tasarlanmıştır ve kullanımı ücretsizdir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -156,12 +164,16 @@
       ]
     },
     {
-      "claim": "Google Vids, Veo 3.1 modeli ile yapay zeka videoları oluşturulmasına olanak tanır.",
+      "claim": "Kullanıcılar, Veo 3.1 modelini kullanarak Google Vids'te yapay zeka videoları üretebilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
           "quote": "You can generate AI videos with the Veo 3.1 model, turn a slideshow into a video, work from a template, upload an existing video as a starting point, create an AI music track, record a video using your camera, produce a video with an AI avatar, or create a storyboard outline."
+        },
+        {
+          "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
+          "quote": "You can generate AI videos with the Veo 3.1 model, turn a slideshow into a video, work from a template..."
         }
       ]
     }
@@ -169,7 +181,7 @@
   "source_texts": {
     "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/": 5553,
     "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/": 2177,
-    "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/": 377,
-    "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/": 3736
+    "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/": 3736,
+    "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/": 7195
   }
 }
