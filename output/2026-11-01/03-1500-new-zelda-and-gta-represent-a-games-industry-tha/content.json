@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "OYUN DÜNYASI",
+    "title": "GTA VI ve Kasım Sürprizleri Yolda",
+    "highlight_words": [
+      "GTA VI",
+      "Kasım"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Oyun sektöründe yaşanan son gelişmeler ve satış rakamları açıklandı.",
+    "source_tags": [
+      "THE VERGE",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Beklenen Oyunlar ve Çıkış Tarihi",
+    "cards": [
+      {
+        "card_title": "Kasım Ayı Çıkışları",
+        "card_body": "Grand Theft Auto VI ve The Legend of Zelda: Ocarina of Time yeniden yapımı Kasım ayında piyasaya çıkacak."
+      },
+      {
+        "card_title": "GTA V Başarısı",
+        "card_body": "GTA V, 2013 yılında piyasaya sürülmesinden bu yana 230 milyon kopya sattı ve ABD'de üst üste 13 yıl en çok satanlar arasında yer aldı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "%29",
+    "stat_caption": "ABD'deki oyuncuların GTA VI satın alma planı",
+    "stat_quote": "Circana'nın tahminine göre ABD'deki oyuncuların yüzde 29'u Grand Theft Auto VI satın almayı planlıyor."
+  },
+  "details": {
+    "heading": "Sektörde Yaşanan Zorluklar",
+    "cards": [
+      {
+        "card_title": "Epic ve İş Çıkarmaları",
+        "card_body": "Fortnite geliştiricisi Epic, canlı servis oyunları alanındaki düşüş nedeniyle 1.000'den fazla iş çıkardı."
+      },
+      {
+        "card_title": "EA ve BioWare Kararı",
+        "card_body": "EA, BioWare stüdyosunu kapattı ve yeni Mass Effect oyununu iptal etti."
+      },
+      {
+        "card_title": "Sucker Punch Personel Azaltma",
+        "card_body": "Sony stüdyosu Sucker Punch, Ghost of Yōtei'nin başarısına rağmen personel azalttı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etkiler ve Satışlar",
+    "cards": [
+      {
+        "card_title": "Canlı Servis Düşüşü",
+        "card_body": "Canlı servis oyunlarındaki düşüş, stüdyolarda işten çıkarmalara ve yeniden yapılandırmalara yol açtı."
+      },
+      {
+        "card_title": "Oyuncu İlgi Odakları",
+        "card_body": "GTA V gibi köklü yapımlar uzun yıllar boyunca yüksek satış rakamlarına ulaşmaya devam ediyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Kasım ayında çıkacak yeni oyunları oynamak için heyecanlı mısınız?",
+    "reminder_line": "Teknoloji ve oyun dünyasındaki gelişmeler için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
