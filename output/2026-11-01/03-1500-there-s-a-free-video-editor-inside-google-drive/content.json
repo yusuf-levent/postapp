@@ -1,12 +1,13 @@
 {
   "cover": {
-    "category_label": "YAPAY ZEKA VE TEKNOLOJI",
-    "title": "Google Vids Herkese Açılıyor",
+    "category_label": "YAPAY ZEKA VE ÜRETKENLİK",
+    "title": "Google Vids ile Video Düzenleme Dönemi",
     "highlight_words": [
-      "Google Vids"
+      "Google Vids",
+      "Video Düzenleme"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Google'ın yeni video düzenleme aracı bireysel kullanıcılara sunuldu.",
+    "subtitle": "Google Workspace'in yeni yapay zeka destekli video aracı artık herkes için erişilebilir.",
     "source_tags": [
       "GOOGLE BLOG",
       "TECHCRUNCH"
@@ -16,49 +17,53 @@
     "heading": "Google Vids Nedir?",
     "cards": [
       {
-        "card_title": "Çevrimiçi Paket",
-        "card_body": "Google Vids, Google Workspace kapsamında sunulan çevrimiçi bir video düzenleme paketidir."
+        "card_title": "Workspace'in Yeni Üyesi",
+        "card_body": "Google Vids, Google Workspace ekosistemine dahil olan, web tarayıcısı üzerinden çalışan çevrimiçi bir video düzenleme aracıdır."
       },
       {
-        "card_title": "Kurumsal Başlangıç",
-        "card_body": "Uygulama ilk olarak 2024 yılında işletme ve kurumsal kullanıcılar için piyasaya sürüldü."
+        "card_title": "Genişleyen Erişim",
+        "card_body": "2024 yılında kurumsal kullanıcılar için piyasaya sürülen uygulama, 2026 itibarıyla bireysel kullanıcıların da erişimine açıldı."
       }
     ]
   },
   "stat": {
     "big_stat": "2026",
-    "stat_caption": "Bireysel kullanıcılara sunulduğu yıl",
-    "stat_quote": "Google Vids, 2026 yılında bireysel kullanıcılara da sunuldu."
+    "stat_caption": "Google Vids'in bireysel kullanıcılarla buluştuğu yıl.",
+    "stat_quote": "Google Vids, web tarayıcısı üzerinden ücretsiz olarak kullanılabilmektedir. - Google Blog"
   },
   "details": {
-    "heading": "Yapay Zeka Gücü",
+    "heading": "Öne Çıkan Özellikler",
     "cards": [
       {
-        "card_title": "Veo 3.1 Desteği",
-        "card_body": "Google Vids uygulamasında yapay zeka videoları Veo 3.1 modeli ile oluşturulabilmektedir."
+        "card_title": "Yapay Zeka Desteği",
+        "card_body": "Uygulama içerisinde video oluşturma süreçlerinde yapay zeka destekli Veo 3.1 modeli aktif olarak kullanılabiliyor."
       },
       {
-        "card_title": "Workspace Entegrasyonu",
-        "card_body": "Google Workspace ekosisteminin bir parçası olarak pratik bir kullanım sunar."
+        "card_title": "Kolay İçerik Yönetimi",
+        "card_body": "Kullanıcılar webcam kliplerini kaydedebilir, Google Drive ve Google Photos üzerinden görüntüleri kolayca içe aktarabilirler."
+      },
+      {
+        "card_title": "Otomatik Kayıt",
+        "card_body": "Google Vids, çalışma akışını kesintisiz kılmak için yapılan tüm düzenlemeleri otomatik olarak kaydeder."
       }
     ]
   },
   "impact": {
-    "heading": "Kullanıcı Etkisi",
+    "heading": "Kullanıcı Deneyimine Etkisi",
     "cards": [
       {
-        "card_title": "Bireysel Erişim",
-        "card_body": "2026 itibarıyla bireysel kullanıcılar da bu video düzenleme aracından faydalanabiliyor."
+        "card_title": "İş Akışında Verimlilik",
+        "card_body": "Workspace paketiyle entegre çalışması, video düzenleme süreçlerini Drive ve diğer Google uygulamalarıyla uyumlu hale getiriyor."
       },
       {
-        "card_title": "Yapay Zeka Üretimi",
-        "card_body": "Veo 3.1 modeli sayesinde kullanıcılar yapay zeka destekli videolar oluşturabiliyor."
+        "card_title": "Erişilebilirlik",
+        "card_body": "Ücretsiz ve tarayıcı tabanlı olması, profesyonel video düzenleme araçlarına olan ihtiyacı bireysel kullanıcılar için kolaylaştırıyor."
       }
     ]
   },
   "cta": {
-    "question": "Google Vids'in bireysel kullanıma açılması hakkında ne düşünüyorsunuz?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için bizi takip edin."
+    "question": "Google Vids'in sunduğu yapay zeka destekli video düzenleme imkanlarını denemeyi düşünüyor musunuz?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeler için Tekno Pusula'yı takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
