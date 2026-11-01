@@ -2,69 +2,42 @@
 
 ## INSTAGRAM
 
-California'dan çevre ve teknoloji projelerini hızlandıracak kritik hamle! Prop 45 tasarısı neler getiriyor?
+California'dan yeni tasarı: Prop 45 gündemde! Eyalet genelinde çevresel değerlendirme sürelerini kısaltmayı amaçlayan bu tasarı, teknoloji dünyasında büyük yankı uyandırıyor. Tasarı, çevresel etki raporunu tamamlamak üzere ajanslara 365 günlük bir son tarih getirirken, yasal itirazların da 270 gün içinde karara bağlanmasını şart koşuyor. Sizce bu tür yasal düzenlemeler teknoloji yatırımlarını hızlandırmak için yeterli mi? Kaynak: The Verge, TechCrunch
 
-Uygun projeler için çevresel etki raporu tamamlama süresi 365 gün olarak belirleniyor. Yasal itirazların ise 270 gün içinde karara bağlanması şart koşuluyor.
-
-Konut, temiz enerji ve geniş bant internet gibi kritik projeleri kapsayan bu tasarı hakkında siz ne düşünüyorsunuz?
-
-Sizce çevresel değerlendirme sürelerinin kısaltılması projeleri nasıl etkiler? Teknoloji ve yapay zeka dünyasındaki gelişmeler için takipte kalın.
-
-Kaynak: The Verge, TechCrunch
-
-#California #Teknoloji #Çevre #Prop45 #TemizEnerji #TheVerge #TechCrunch #Haber #Gündem #Technology #Environment
+#Prop45 #YapayZeka #Teknoloji #California #VeriMerkezi #Gündem #Haber #TechNews #AI #Infrastucture
 
 ## TIKTOK
 
-California'dan çevre ve teknoloji dünyasını sarsacak Prop 45 hamlesi! Çevresel etki raporları artık 365 günde tamamlanacak. Sizce bu durum projeleri hızlandırır mı?
+California'nın yeni tasarı Prop 45 ile çevresel değerlendirme süreleri kısaltılıyor! 365 günlük rapor süresi ve 270 günlük itiraz sınırı getiriliyor. Kaynak: The Verge
 
-Kaynak: The Verge, TechCrunch
-
-#California #Teknoloji #Çevre #Prop45 #Haber
+#Prop45 #Teknoloji #Haber #California
 
 ## X
 
-California'nın yeni Prop 45 tasarısı, konut ve temiz enerji gibi projelerde çevresel etki raporu süresini 365 güne sabitliyor. Yasal itirazlar için ise 270 gün süre tanınıyor.
+California'nın yeni tasarısı Prop 45, çevresel değerlendirme sürelerini kısaltmayı amaçlıyor. Ajanslara rapor için 365 gün, itirazlar için ise 270 gün süre tanınıyor. Kaynak: The Verge, TechCrunch
 
-Sizce bu hamle süreci nasıl etkiler?
-
-Kaynak: The Verge
-
-#California #Teknoloji
+#Prop45 #Teknoloji
 
 ## THREADS
 
-California'dan Kritik Çevresel Değerlendirme Hamlesi
+California'dan Yeni Tasarı: Prop 45
 
-Prop 45 tasarısı, uygun projeler için çevresel etki raporu süresini 365 güne indiriyor. Konut ve temiz enerji projelerini hızlandırması hedefleniyor.
+Eyalet genelinde çevresel değerlendirme sürelerini kısaltmayı amaçlayan tasarı gündemde. Ajanslara 365 günlük rapor süresi veriliyor.
 
-Sizce bu süre kısıtlaması projelerin kalitesini etkiler mi?
-💭
+Sizce bu tür yasal düzenlemeler teknoloji yatırımlarını hızlandırmak için yeterli mi? 💭
 
 Kaynak: The Verge
 
-#California
+#Prop45
 
 ## LINKEDIN
 
-California'dan çevre ve teknoloji sektörlerini yakından ilgilendiren önemli bir adım geldi. Prop 45 tasarısı, konut, temiz enerji ve geniş bant internet erişimi gibi temel projelerde süreçleri hızlandırmayı amaçlıyor.
+California'da gündeme gelen Prop 45 tasarısı, altyapı ve teknoloji yatırımları açısından kritik bir dönüm noktası oluşturuyor. Eyalet genelinde çevresel değerlendirme sürelerini kısaltmayı amaçlayan düzenleme, uygun projelere hızlı inceleme avantajı sunarken; çevresel etki raporu için ajanslara 365 gün, yasal itirazlar için ise 270 gün süre tanıyor. Veri merkezi geliştiricilerinin bu süreçten nasıl etkileneceği ise sektörde tartışılmaya devam ediyor. Kaynak: The Verge, TechCrunch
 
-Tasarı kapsamında çevresel etki raporu tamamlama süresi 365 gün, yasal itirazların karara bağlanma süresi ise 270 gün olarak belirlendi. Kamuoyu yorumu için ise 45 günlük bir süre tanınıyor.
-
-Bu düzenleme, altyapı ve teknoloji yatırımlarının öngörülebilirliğini artırabilir. Sizce çevresel değerlendirme sürelerinin kısaltılması projeleri nasıl etkiler?
-
-Kaynak: The Verge, TechCrunch
-
-#Teknoloji #Çevre #İnovasyon #Enerji #Hukuk
+#Prop45 #TeknolojiYatırımları #Altyapı #VeriMerkezi #İşDünyası
 
 ## FACEBOOK
 
-California'dan çevre ve teknoloji alanında kritik bir değerlendirme hamlesi geldi! Prop 45 tasarısı, uygun projeler için süreleri kısaltmayı amaçlıyor.
+California'dan yeni tasarı: Prop 45! Eyalet genelinde çevresel değerlendirme sürelerini kısaltmayı amaçlayan tasarı gündemde. Çevresel etki raporunu tamamlamak üzere ajanslara 365 günlük bir son tarih getirilirken, yasal itirazların 270 gün içinde karara bağlanması şart koşuluyor. Sizce bu düzenlemeler yeterli mi? Kaynak: The Verge, TechCrunch
 
-Çevresel etki raporunun 365 gün içinde tamamlanmasını öngören tasarı; konut, temiz enerji ve geniş bant internet erişimi gibi dokuz temel projeyi kapsıyor. Yasal itirazlar ise 270 gün içinde karara bağlanacak.
-
-Sizce çevresel değerlendirme sürelerinin kısaltılması projeleri nasıl etkiler? Teknoloji dünyasındaki gelişmeler için takipte kalın.
-
-Kaynak: The Verge, TechCrunch
-
-#California #Teknoloji #Çevre #Prop45 #Haber
+#Prop45 #Teknoloji #California #Haber

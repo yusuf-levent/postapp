@@ -1,69 +1,68 @@
 {
   "cover": {
-    "category_label": "ÇEVRE VE TEKNOLOJİ",
-    "title": "California'dan Kritik Çevresel Değerlendirme Hamlesi",
+    "category_label": "YAPAY ZEKA VE ALTYAPI",
+    "title": "California'dan Yeni Tasarı: Prop 45",
     "highlight_words": [
-      "Çevresel",
-      "Değerlendirme"
+      "Prop 45"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Prop 45 tasarısı, uygun projeler için süreleri kısaltmayı amaçlıyor.",
+    "subtitle": "Eyalet genelinde çevresel değerlendirme sürelerini kısaltmayı amaçlayan tasarı gündemde.",
     "source_tags": [
       "THE VERGE",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Prop 45 Tasarısı Nedir?",
+    "heading": "Prop 45 Nedir?",
     "cards": [
       {
-        "card_title": "Süre Kısıtlaması",
-        "card_body": "Tasarım, ajansların bir projenin çevresel etki raporunu tamamlaması için 365 günlük bir son tarih belirleyecek."
+        "card_title": "Çevresel Süreçler",
+        "card_body": "California'daki Prop 45 tasarısı, uygun projeler için eyalet zorunlu çevresel değerlendirme sürelerini kısaltmayı amaçlamaktadır."
       },
       {
-        "card_title": "Yasal Süreçler",
-        "card_body": "Prop 45, herhangi bir yasal itirazın 270 gün içinde karara bağlanmasını şart koşmaktadır."
+        "card_title": "Süre Sınırları",
+        "card_body": "Tasarı, çevresel etki raporunu tamamlamak üzere ajanslara 365 günlük bir son tarih getirmektedir."
       }
     ]
   },
   "stat": {
-    "big_stat": "365 GÜN",
-    "stat_caption": "Çevresel Etki Raporu Tamamlama Süresi",
-    "stat_quote": "Prop 45, ajansların raporu tamamlaması için 365 günlük bir son tarih belirleyecektir."
+    "big_stat": "365",
+    "stat_caption": "Çevresel etki raporunu tamamlamak için ajanslara tanınan gün sınırı.",
+    "stat_quote": "Prop 45 yasal itirazların 270 gün içinde karara bağlanmasını şart koşmaktadır."
   },
   "details": {
     "heading": "Tasarının Detayları",
     "cards": [
       {
-        "card_title": "Kamuoyu Yorumu",
-        "card_body": "Prop 45 kamuoyu yorumu için yalnızca 45 güne izin verecektir."
+        "card_title": "Yasal İtirazlar",
+        "card_body": "Prop 45 yasal itirazların 270 gün içinde karara bağlanmasını şart koşmaktadır."
       },
       {
-        "card_title": "Kabile Danışmanlığı",
-        "card_body": "Yalnızca federal olarak tanınan Kızılderili kabileleriyle danışma yapılmasını gerektirecektir."
+        "card_title": "Kamuoyu Görüşü",
+        "card_body": "Prop 45 kamuoyu görüşü için yalnızca 45 gün süre tanımaktadır."
       },
       {
-        "card_title": "Kapsamdaki Projeler",
-        "card_body": "Konut, temiz enerji ve geniş bant internet erişimi dahil olmak üzere dokuz tür temel projeyi listelemektedir."
+        "card_title": "Kapsam Dışı Alanlar",
+        "card_body": "Tasarı nükleer enerji ve çevirmeli internet erişim hizmetini hariç tutarken veri merkezlerini açıkça yasaklamamaktadır."
       }
     ]
   },
   "impact": {
-    "heading": "Kimler Destekliyor?",
+    "heading": "Sektör ve Kampanya Etkileri",
     "cards": [
       {
-        "card_title": "NAACP Desteği",
-        "card_body": "California ve Hawaii NAACP şubesi Prop 45'e destek vermiştir."
+        "card_title": "Veri Merkezleri Riski",
+        "card_body": "Veri merkezi geliştiricilerinin projelerini esaslı proje tanımına sokarak hızlı inceleme avantajından yararlanabileceği uyarısı yapılıyor."
       },
       {
-        "card_title": "Resmi Açıklama",
-        "card_body": "NAACP California/Hawaii Eyalet Konferansı başkanı Rick Callender, desteği 9 Eylül tarihli bir basın açıklamasında duyurmuştur."
+        "card_title": "Finansman Desteği",
+        "card_body": "Veri merkezi geliştiren şirketlerin Prop 45'i desteklemek için kampanyaya yüz binlerce dolar akıttığına dikkat çekiliyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce çevresel değerlendirme sürelerinin kısaltılması projeleri nasıl etkiler?",
-    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için takipte kalın."
+    "question": "Sizce bu tür yasal düzenlemeler teknoloji yatırımlarını hızlandırmak için yeterli mi?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
