@@ -1,0 +1,68 @@
+{
+  "cover": {
+    "category_label": "OYUN DÜNYASI",
+    "title": "Xbox Kontrolcüsünde Neden AA Pil Kullanılıyor?",
+    "highlight_words": [
+      "AA Pil"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Microsoft'un ikonik kontrolcü tercihinin arkasındaki gerçek sebepler.",
+    "source_tags": [
+      "MICROSOFT BLOG",
+      "BBC NEWS"
+    ]
+  },
+  "context": {
+    "heading": "Geçmişten Günümüze Xbox Kontrolleri",
+    "cards": [
+      {
+        "card_title": "Kablolu Başlangıç",
+        "card_body": "Orijinal Xbox konsolu piyasaya sürüldüğünde kablolu bir kontrolcüye sahipti."
+      },
+      {
+        "card_title": "Kablosuz Dönem",
+        "card_body": "Xbox 360 ile birlikte bir çift AA pil ile çalışan kablosuz kontrolcülere geçildi."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "24.99 $",
+    "stat_caption": "Microsoft tarafından ayrı olarak satılan şarj edilebilir pil paketinin fiyatı.",
+    "stat_quote": "Duracell ile Xbox arasında sürekli bir ortaklık ve anlaşma bulunmaktadır."
+  },
+  "details": {
+    "heading": "Pil Tercihinin Detayları",
+    "cards": [
+      {
+        "card_title": "Oyuncu Tercihleri",
+        "card_body": "Jason Ronald, oyuncular arasında AA pil kullanımı konusunda bir kutuplaşma olduğunu belirtiyor."
+      },
+      {
+        "card_title": "Şarj Edilebilir Alternatifler",
+        "card_body": "Nintendo Wii U ise 2012 yılında şarj edilebilir piller kullanmaya başlamıştı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektör ve Kullanıcı Etkisi",
+    "cards": [
+      {
+        "card_title": "Kullanıcı Esnekliği",
+        "card_body": "AA pil kullanımı, oyunculara diledikleri zaman pili değiştirme özgürlüğü tanıyor."
+      },
+      {
+        "card_title": "Marka Ortaklıkları",
+        "card_body": "Duracell ve Xbox arasındaki anlaşma, endüstrideki aksesuar iş birliklerini şekillendiriyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce oyun kontrolcülerinde dahili batarya mı yoksa AA pil mi daha avantajlı?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

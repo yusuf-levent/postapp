@@ -1,0 +1,289 @@
+{
+  "title": "The reason why your Xbox controller still uses AA batteries",
+  "canonical_url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+  "source_names": [
+    "Engadget",
+    "BBC News – Technology",
+    "Microsoft Blog",
+    "NVIDIA Newsroom"
+  ],
+  "checked_at": "2026-11-01T20:52:05+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Microsoft, Xbox Series X oyun konsolunu 12 Aralık 2019 tarihinde The Game Awards sırasında tanıttı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "On December 12, 2019, during The Game Awards, Microsoft revealed its shiny new gaming console, the Xbox Series X."
+        }
+      ]
+    },
+    {
+      "claim": "Xbox Series X kontrolcüsü çalışmak için bir çift AA pile ihtiyaç duymaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "and a brand-new controller that still needed a pair of AA batteries to operate."
+        }
+      ]
+    },
+    {
+      "claim": "Nintendo Wii U, 2012 yılında şarj edilebilir piller kullanmaya başladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "Nintendo eventually moved to rechargeable batteries with the Wii U in 2012"
+        }
+      ]
+    },
+    {
+      "claim": "Xbox program yönetimi ortak direktörü Jason Ronald, oyuncular arasında AA pil tercihi konusunda kutupkleşme olduğunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "Jason Ronald, partner director of program management at Xbox, told Digital Foundry that the split almost perfectly mirrored what the company hears from customers. \"What it comes down to is when actually talking to gamers, it's kind of polarising and there is a strong camp that really want AAs,\""
+        },
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "Jason Ronald, partner director of program management at Xbox, told Digital Foundry that the split almost perfectly mirrored what the company hears from customers. \"What it comes down to is when actually talking to gamers, it's kind of polarising and there is a strong camp that really want AAs,\" Ronald told Digital Foundry."
+        }
+      ]
+    },
+    {
+      "claim": "Microsoft, ayrı olarak satılan şarj edilebilir pil paketini 24.99 dolar fiyata sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "To that end, Microsoft sells a rechargeable pack separately for $24.99"
+        }
+      ]
+    },
+    {
+      "claim": "Duracell UK pazarlama müdürü Luke Anderson, Duracell ile Xbox arasında sürekli bir ortaklık ve anlaşma olduğunu ifade etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "Duracell UK marketing manager Luke Anderson said there has \"always been this partnership with Duracell and Xbox,\" describing it as a \"constant agreement.\""
+        }
+      ]
+    },
+    {
+      "claim": "Orijinal Xbox konsolu kablolu bir kontrolcü ile piyasaya sürüldü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "If you are not a gamer or have never owned an Xbox, you might not know that the original Xbox console shipped with a wired controller."
+        },
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "you might not know that the original Xbox console shipped with a wired controller."
+        }
+      ]
+    },
+    {
+      "claim": "Xbox 360, bir çift AA pil ile çalışan kablosuz bir kontrolcü ile birlikte gönderildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "And when the Xbox 360 arrived, it shipped premium units with a wireless one that ran on a pair of AA batteries."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Microsoft, Xbox Series X oyun konsolunu 12 Aralık 2019 tarihinde The Game Awards sırasında tanıttı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "On December 12, 2019, during The Game Awards, Microsoft revealed its shiny new gaming console, the Xbox Series X."
+        }
+      ]
+    },
+    {
+      "claim": "Xbox Series X kontrolcüsü çalışmak için bir çift AA pile ihtiyaç duymaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "and a brand-new controller that still needed a pair of AA batteries to operate."
+        }
+      ]
+    },
+    {
+      "claim": "Nintendo Wii U, 2012 yılında şarj edilebilir piller kullanmaya başladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "Nintendo eventually moved to rechargeable batteries with the Wii U in 2012"
+        }
+      ]
+    },
+    {
+      "claim": "Xbox program yönetimi ortak direktörü Jason Ronald, oyuncular arasında AA pil tercihi konusunda kutupkleşme olduğunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "Jason Ronald, partner director of program management at Xbox, told Digital Foundry that the split almost perfectly mirrored what the company hears from customers. \"What it comes down to is when actually talking to gamers, it's kind of polarising and there is a strong camp that really want AAs,\""
+        },
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "Jason Ronald, partner director of program management at Xbox, told Digital Foundry that the split almost perfectly mirrored what the company hears from customers. \"What it comes down to is when actually talking to gamers, it's kind of polarising and there is a strong camp that really want AAs,\" Ronald told Digital Foundry."
+        }
+      ]
+    },
+    {
+      "claim": "Microsoft, ayrı olarak satılan şarj edilebilir pil paketini 24.99 dolar fiyata sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "To that end, Microsoft sells a rechargeable pack separately for $24.99"
+        }
+      ]
+    },
+    {
+      "claim": "Duracell UK pazarlama müdürü Luke Anderson, Duracell ile Xbox arasında sürekli bir ortaklık ve anlaşma olduğunu ifade etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "Duracell UK marketing manager Luke Anderson said there has \"always been this partnership with Duracell and Xbox,\" describing it as a \"constant agreement.\""
+        }
+      ]
+    },
+    {
+      "claim": "Orijinal Xbox konsolu kablolu bir kontrolcü ile piyasaya sürüldü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "If you are not a gamer or have never owned an Xbox, you might not know that the original Xbox console shipped with a wired controller."
+        },
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "you might not know that the original Xbox console shipped with a wired controller."
+        }
+      ]
+    },
+    {
+      "claim": "Xbox 360, bir çift AA pil ile çalışan kablosuz bir kontrolcü ile birlikte gönderildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "And when the Xbox 360 arrived, it shipped premium units with a wireless one that ran on a pair of AA batteries."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Microsoft, Xbox Series X oyun konsolunu 12 Aralık 2019 tarihinde The Game Awards sırasında tanıttı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "On December 12, 2019, during The Game Awards, Microsoft revealed its shiny new gaming console, the Xbox Series X."
+        }
+      ]
+    },
+    {
+      "claim": "Xbox Series X kontrolcüsü çalışmak için bir çift AA pile ihtiyaç duymaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "and a brand-new controller that still needed a pair of AA batteries to operate."
+        }
+      ]
+    },
+    {
+      "claim": "Nintendo Wii U, 2012 yılında şarj edilebilir piller kullanmaya başladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "Nintendo eventually moved to rechargeable batteries with the Wii U in 2012"
+        }
+      ]
+    },
+    {
+      "claim": "Xbox program yönetimi ortak direktörü Jason Ronald, oyuncular arasında AA pil tercihi konusunda kutupkleşme olduğunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "Jason Ronald, partner director of program management at Xbox, told Digital Foundry that the split almost perfectly mirrored what the company hears from customers. \"What it comes down to is when actually talking to gamers, it's kind of polarising and there is a strong camp that really want AAs,\""
+        },
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "Jason Ronald, partner director of program management at Xbox, told Digital Foundry that the split almost perfectly mirrored what the company hears from customers. \"What it comes down to is when actually talking to gamers, it's kind of polarising and there is a strong camp that really want AAs,\" Ronald told Digital Foundry."
+        }
+      ]
+    },
+    {
+      "claim": "Microsoft, ayrı olarak satılan şarj edilebilir pil paketini 24.99 dolar fiyata sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "To that end, Microsoft sells a rechargeable pack separately for $24.99"
+        }
+      ]
+    },
+    {
+      "claim": "Duracell UK pazarlama müdürü Luke Anderson, Duracell ile Xbox arasında sürekli bir ortaklık ve anlaşma olduğunu ifade etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "Duracell UK marketing manager Luke Anderson said there has \"always been this partnership with Duracell and Xbox,\" describing it as a \"constant agreement.\""
+        }
+      ]
+    },
+    {
+      "claim": "Orijinal Xbox konsolu kablolu bir kontrolcü ile piyasaya sürüldü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "If you are not a gamer or have never owned an Xbox, you might not know that the original Xbox console shipped with a wired controller."
+        },
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "you might not know that the original Xbox console shipped with a wired controller."
+        }
+      ]
+    },
+    {
+      "claim": "Xbox 360, bir çift AA pil ile çalışan kablosuz bir kontrolcü ile birlikte gönderildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
+          "quote": "And when the Xbox 360 arrived, it shipped premium units with a wireless one that ran on a pair of AA batteries."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/": 4319,
+    "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss": 2309,
+    "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/": 4224,
+    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/": 9877
+  }
+}
