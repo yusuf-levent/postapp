@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "ÇEVRE VE TEKNOLOJİ",
+    "title": "California'dan Kritik Çevresel Değerlendirme Hamlesi",
+    "highlight_words": [
+      "Çevresel",
+      "Değerlendirme"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Prop 45 tasarısı, uygun projeler için süreleri kısaltmayı amaçlıyor.",
+    "source_tags": [
+      "THE VERGE",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Prop 45 Tasarısı Nedir?",
+    "cards": [
+      {
+        "card_title": "Süre Kısıtlaması",
+        "card_body": "Tasarım, ajansların bir projenin çevresel etki raporunu tamamlaması için 365 günlük bir son tarih belirleyecek."
+      },
+      {
+        "card_title": "Yasal Süreçler",
+        "card_body": "Prop 45, herhangi bir yasal itirazın 270 gün içinde karara bağlanmasını şart koşmaktadır."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "365 GÜN",
+    "stat_caption": "Çevresel Etki Raporu Tamamlama Süresi",
+    "stat_quote": "Prop 45, ajansların raporu tamamlaması için 365 günlük bir son tarih belirleyecektir."
+  },
+  "details": {
+    "heading": "Tasarının Detayları",
+    "cards": [
+      {
+        "card_title": "Kamuoyu Yorumu",
+        "card_body": "Prop 45 kamuoyu yorumu için yalnızca 45 güne izin verecektir."
+      },
+      {
+        "card_title": "Kabile Danışmanlığı",
+        "card_body": "Yalnızca federal olarak tanınan Kızılderili kabileleriyle danışma yapılmasını gerektirecektir."
+      },
+      {
+        "card_title": "Kapsamdaki Projeler",
+        "card_body": "Konut, temiz enerji ve geniş bant internet erişimi dahil olmak üzere dokuz tür temel projeyi listelemektedir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kimler Destekliyor?",
+    "cards": [
+      {
+        "card_title": "NAACP Desteği",
+        "card_body": "California ve Hawaii NAACP şubesi Prop 45'e destek vermiştir."
+      },
+      {
+        "card_title": "Resmi Açıklama",
+        "card_body": "NAACP California/Hawaii Eyalet Konferansı başkanı Rick Callender, desteği 9 Eylül tarihli bir basın açıklamasında duyurmuştur."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce çevresel değerlendirme sürelerinin kısaltılması projeleri nasıl etkiler?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

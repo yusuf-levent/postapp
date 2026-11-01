@@ -1,0 +1,10 @@
+{
+  "slot": "15:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 150.6,
+  "candidates_tried": 1,
+  "gemini_calls": 12,
+  "canonical_url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+  "generated_at": "2026-11-01T16:04:38+03:00"
+}

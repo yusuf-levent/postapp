@@ -1,0 +1,27 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-01/03-1500-prop-45-in-california-could-be-hiding-a-loophole/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+      "width": 2040,
+      "height": 1360,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/17336006/pexels-photo-17336006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-01/03-1500-prop-45-in-california-could-be-hiding-a-loophole/images/img-2.png",
+      "license": "Pexels License — Emanuel  Prado",
+      "author": "Emanuel  Prado",
+      "credit_url": "https://www.pexels.com/photo/empty-road-in-countryside-17336006/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "A foggy rural road in California with visible transmission towers and a lone cyclist."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}

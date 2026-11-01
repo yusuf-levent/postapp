@@ -1,0 +1,275 @@
+{
+  "title": "Prop 45 in California could be hiding a loophole for data centers",
+  "canonical_url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+  "source_names": [
+    "The Verge",
+    "TechCrunch",
+    "Ars Technica"
+  ],
+  "checked_at": "2026-11-01T16:03:04+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "California'daki Prop 45 tasarısı, uygun projeler için eyalet zorunlu çevresel değerlendirme sürelerini kısaltmayı amaçlamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "Proposition 45 would shorten timelines for state-mandated environmental assessments for eligible projects"
+        }
+      ]
+    },
+    {
+      "claim": "Prop 45, ajansların bir projenin çevresel etki raporunu tamamlaması için 365 günlük bir son tarih belirleyecektir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "Specifically, Prop 45 would create a 365-day deadline for agencies to complete the environmental impact report for a project."
+        }
+      ]
+    },
+    {
+      "claim": "Prop 45 tasarı ile herhangi bir yasal itirazın 270 gün içinde karara bağlanmasını şart koşmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "It also stipulates that any legal challenges would need to be settled within 270 days."
+        }
+      ]
+    },
+    {
+      "claim": "Prop 45 kamuoyu yorumu için yalnızca 45 güne izin verecektir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "It would only allow for 45 days of public comment"
+        }
+      ]
+    },
+    {
+      "claim": "Prop 45, yalnızca federal olarak tanınan Kızılderili kabileleriyle danışma yapılmasını gerektirecektir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "it would only require state agencies and developers to consult with Native American tribes that have been federally recognized."
+        },
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "It would only require state agencies and developers to consult with Native American tribes that have been federally recognized."
+        }
+      ]
+    },
+    {
+      "claim": "Prop 45 tasarısı konut, temiz enerji ve geniş bant internet erişimi dahil olmak üzere dokuz tür temel projeyi listelemektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "The proposition lists nine types of “essential” projects that would be eligible for streamlined review, including housing, clean energy, and “broadband Internet access.”"
+        }
+      ]
+    },
+    {
+      "claim": "California ve Hawaii NAACP şubesi Prop 45'e destek vermiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "Prop 45 has managed to garner support from the California and Hawaii chapter of the NAACP"
+        }
+      ]
+    },
+    {
+      "claim": "NAACP California/Hawaii Eyalet Konferansı başkanı Rick Callender, desteği 9 Eylül tarihli bir basın açıklamasında duyurmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "“Working families and communities of color pay the highest price when essential projects like housing, clean energy, water, health care facilities, and transportation take years longer and cost millions more than they should,” Rick Callender, president of NAACP California/Hawaii State Conference, said in a September 9th press release."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "California'daki Prop 45 tasarısı, uygun projeler için eyalet zorunlu çevresel değerlendirme sürelerini kısaltmayı amaçlamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "Proposition 45 would shorten timelines for state-mandated environmental assessments for eligible projects"
+        }
+      ]
+    },
+    {
+      "claim": "Prop 45, ajansların bir projenin çevresel etki raporunu tamamlaması için 365 günlük bir son tarih belirleyecektir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "Specifically, Prop 45 would create a 365-day deadline for agencies to complete the environmental impact report for a project."
+        }
+      ]
+    },
+    {
+      "claim": "Prop 45 tasarı ile herhangi bir yasal itirazın 270 gün içinde karara bağlanmasını şart koşmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "It also stipulates that any legal challenges would need to be settled within 270 days."
+        }
+      ]
+    },
+    {
+      "claim": "Prop 45 kamuoyu yorumu için yalnızca 45 güne izin verecektir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "It would only allow for 45 days of public comment"
+        }
+      ]
+    },
+    {
+      "claim": "Prop 45, yalnızca federal olarak tanınan Kızılderili kabileleriyle danışma yapılmasını gerektirecektir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "it would only require state agencies and developers to consult with Native American tribes that have been federally recognized."
+        },
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "It would only require state agencies and developers to consult with Native American tribes that have been federally recognized."
+        }
+      ]
+    },
+    {
+      "claim": "Prop 45 tasarısı konut, temiz enerji ve geniş bant internet erişimi dahil olmak üzere dokuz tür temel projeyi listelemektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "The proposition lists nine types of “essential” projects that would be eligible for streamlined review, including housing, clean energy, and “broadband Internet access.”"
+        }
+      ]
+    },
+    {
+      "claim": "California ve Hawaii NAACP şubesi Prop 45'e destek vermiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "Prop 45 has managed to garner support from the California and Hawaii chapter of the NAACP"
+        }
+      ]
+    },
+    {
+      "claim": "NAACP California/Hawaii Eyalet Konferansı başkanı Rick Callender, desteği 9 Eylül tarihli bir basın açıklamasında duyurmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "“Working families and communities of color pay the highest price when essential projects like housing, clean energy, water, health care facilities, and transportation take years longer and cost millions more than they should,” Rick Callender, president of NAACP California/Hawaii State Conference, said in a September 9th press release."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "California'daki Prop 45 tasarısı, uygun projeler için eyalet zorunlu çevresel değerlendirme sürelerini kısaltmayı amaçlamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "Proposition 45 would shorten timelines for state-mandated environmental assessments for eligible projects"
+        }
+      ]
+    },
+    {
+      "claim": "Prop 45, ajansların bir projenin çevresel etki raporunu tamamlaması için 365 günlük bir son tarih belirleyecektir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "Specifically, Prop 45 would create a 365-day deadline for agencies to complete the environmental impact report for a project."
+        }
+      ]
+    },
+    {
+      "claim": "Prop 45 tasarı ile herhangi bir yasal itirazın 270 gün içinde karara bağlanmasını şart koşmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "It also stipulates that any legal challenges would need to be settled within 270 days."
+        }
+      ]
+    },
+    {
+      "claim": "Prop 45 kamuoyu yorumu için yalnızca 45 güne izin verecektir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "It would only allow for 45 days of public comment"
+        }
+      ]
+    },
+    {
+      "claim": "Prop 45, yalnızca federal olarak tanınan Kızılderili kabileleriyle danışma yapılmasını gerektirecektir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "it would only require state agencies and developers to consult with Native American tribes that have been federally recognized."
+        },
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "It would only require state agencies and developers to consult with Native American tribes that have been federally recognized."
+        }
+      ]
+    },
+    {
+      "claim": "Prop 45 tasarısı konut, temiz enerji ve geniş bant internet erişimi dahil olmak üzere dokuz tür temel projeyi listelemektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "The proposition lists nine types of “essential” projects that would be eligible for streamlined review, including housing, clean energy, and “broadband Internet access.”"
+        }
+      ]
+    },
+    {
+      "claim": "California ve Hawaii NAACP şubesi Prop 45'e destek vermiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "Prop 45 has managed to garner support from the California and Hawaii chapter of the NAACP"
+        }
+      ]
+    },
+    {
+      "claim": "NAACP California/Hawaii Eyalet Konferansı başkanı Rick Callender, desteği 9 Eylül tarihli bir basın açıklamasında duyurmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "quote": "“Working families and communities of color pay the highest price when essential projects like housing, clean energy, water, health care facilities, and transportation take years longer and cost millions more than they should,” Rick Callender, president of NAACP California/Hawaii State Conference, said in a September 9th press release."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy": 6451,
+    "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/": 7433,
+    "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/": 1948
+  }
+}
