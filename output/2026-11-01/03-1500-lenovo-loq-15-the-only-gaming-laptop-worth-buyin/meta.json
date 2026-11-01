@@ -1,0 +1,10 @@
+{
+  "slot": "15:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 163.7,
+  "candidates_tried": 1,
+  "gemini_calls": 17,
+  "canonical_url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+  "generated_at": "2026-11-01T14:44:22+03:00"
+}

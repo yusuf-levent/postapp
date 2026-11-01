@@ -1,0 +1,68 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJI DÜNYASI",
+    "title": "2026 Yılında RTX 4050 Sürprizi",
+    "highlight_words": [
+      "RTX 4050"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Yeni dizüstü bilgisayarlarda eski ekran kartı tercih ediliyor.",
+    "source_tags": [
+      "WIRED",
+      "NVIDIA NEWSROOM"
+    ]
+  },
+  "context": {
+    "heading": "2026 Yılında Eski Kartlar",
+    "cards": [
+      {
+        "card_title": "Üç Yıldan Eski Kartlar",
+        "card_body": "Bazı üreticiler 2026 yılında üç yıldan eski RTX 4050 ekran kartını başlangıç konfigürasyonu olarak kullanan yeni oyun dizüstü bilgisayarları piyasaya sürdü."
+      },
+      {
+        "card_title": "Piyasa Durumu",
+        "card_body": "2026 yılının ilk birkaç ayında farklı fiyat seçenekleriyle yeni dizüstü bilgisayar modelleri kullanıcıların karşısına çıktı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "1.300 $",
+    "stat_caption": "Lenovo LOQ 15'in RTX 5060 versiyonunun güncel satış fiyatı.",
+    "stat_quote": "Lenovo LOQ 15, RTX 5060 ekran kartına sahip versiyonuyla şu anda 1.300 dolara satın alınabilmektedir."
+  },
+  "details": {
+    "heading": "Lenovo LOQ 15 Fiyatları",
+    "cards": [
+      {
+        "card_title": "1.000 Doların Altı",
+        "card_body": "Lenovo LOQ 15, 2026 yılının ilk birkaç ayında 1.000 doların altında bir fiyatla satılıyordu."
+      },
+      {
+        "card_title": "RTX 5050 Seçeneği",
+        "card_body": "Lenovo, RTX 5050 ve aynı diğer özelliklere sahip LOQ 15 konfigürasyonunu 999 dolara sunmaktadır."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektör ve Kullanıcı Etkisi",
+    "cards": [
+      {
+        "card_title": "Üretici Tercihleri",
+        "card_body": "Üreticilerin üç yıldan eski ekran kartlarını yeni modellerde başlangıç konfigürasyonu olarak kullanması dikkat çekiyor."
+      },
+      {
+        "card_title": "Fiyat Seçenekleri",
+        "card_body": "Kullanıcılar 999 dolar ve 1.300 dolar gibi farklı fiyat etiketleriyle yeni konfigürasyonlara ulaşabiliyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Yeni bir oyun dizüstü bilgisayarı alırken ekran kartı seçiminde bütçe mi yoksa yeni nesil teknolojiler mi sizin için daha öncelikli?",
+    "reminder_line": "Tekno Pusula ile en güncel teknolojilerden haberdar olun."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
