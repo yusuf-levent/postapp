@@ -1,0 +1,262 @@
+{
+  "title": "What Democrats Can Learn From New York’s Data Center Moratorium",
+  "canonical_url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+  "source_names": [
+    "Wired",
+    "Ars Technica",
+    "TechCrunch",
+    "BBC News – Technology"
+  ],
+  "checked_at": "2026-11-01T14:54:27+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "New York, veri merkezi gelişimine moratorium uygulayan ülkenin ilk eyaleti oldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+          "quote": "When New York became the first state in the country to enact a moratorium on data center development, Adrienne Yocina was excited."
+        },
+        {
+          "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+          "quote": "When New York became the first state in the country to enact a moratorium on data center development"
+        }
+      ]
+    },
+    {
+      "claim": "Adrienne Yocina, batı Genesee County'de Tonawanda Seneca Nation rezervasyonuna ve federal yaban hayatı sığınağına yakın bir bölgeye 600 megavatlık bir veri merkezinin gelmesini durdurmak için örgütleniyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+          "quote": "For the past two years, the mom of three has been organizing in western Genesee County to stop a 600-megawatt data center from coming to a site close to the Tonawanda Seneca Nation’s reservation and a federal wildlife refuge."
+        }
+      ]
+    },
+    {
+      "claim": "Temmuz ayında Vali Kathy Hochul, gelişimi durdurmak için ulusun ilk yürütme emrini imzaladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+          "quote": "In July, just two months after dismissing the idea of a data center moratorium, Hochul signed the nation’s first executive order to put a pause on development."
+        }
+      ]
+    },
+    {
+      "claim": "Bir Quinnipiac anketine göre seçmenlerin yüzde 53'ü yapay zeka ve veri merkezlerini ele almada Kathy Hochul'a güvendiğini belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+          "quote": "In a recent Quinnipiac poll of New York voters, 53 percent of respondents said they trusted Hochul to do a better job in handling AI and data centers"
+        }
+      ]
+    },
+    {
+      "claim": "Aynı ankette seçmenlerin sadece yüzde 31'i Bruce Blakeman'a güvendiğini ifade etti.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Eylül ayında yapılan bir Siena anketine göre New Yorkluların yüzde 63'ü moratorium sona erdikten sonra bile bölgelerinde veri merkezi inşa edilmesine karşı çıkacağını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+          "quote": "A Siena poll from September found that 63 percent of New Yorkers would oppose data centers being built in their area even after Hochul’s moratorium expires."
+        }
+      ]
+    },
+    {
+      "claim": "Hükümet ilişkileri şirketi MultiState'in araştırmasına göre en az 20 valilik adayı veri merkezi moratoriumu veya durdurma sözü verdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+          "quote": "At least 20 gubernatorial candidates have promised a data center moratorium or pause, according to research compiled by government relations company MultiState."
+        }
+      ]
+    },
+    {
+      "claim": "Pew Research Center'ın bulgularına göre reklam verenler, ara seçimlere giden 90 günlük dönemde veri merkezlerinden bahseden siyasi reklamlara 12 milyon dolar harcadı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+          "quote": "New findings from Pew Research Center show that advertisers spent $12 million on political ads mentioning data centers in a 90-day period leading up to the midterms."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "New York, veri merkezi gelişimine moratorium uygulayan ülkenin ilk eyaleti oldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+          "quote": "When New York became the first state in the country to enact a moratorium on data center development, Adrienne Yocina was excited."
+        },
+        {
+          "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+          "quote": "When New York became the first state in the country to enact a moratorium on data center development"
+        }
+      ]
+    },
+    {
+      "claim": "Adrienne Yocina, batı Genesee County'de Tonawanda Seneca Nation rezervasyonuna ve federal yaban hayatı sığınağına yakın bir bölgeye 600 megavatlık bir veri merkezinin gelmesini durdurmak için örgütleniyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+          "quote": "For the past two years, the mom of three has been organizing in western Genesee County to stop a 600-megawatt data center from coming to a site close to the Tonawanda Seneca Nation’s reservation and a federal wildlife refuge."
+        }
+      ]
+    },
+    {
+      "claim": "Temmuz ayında Vali Kathy Hochul, gelişimi durdurmak için ulusun ilk yürütme emrini imzaladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+          "quote": "In July, just two months after dismissing the idea of a data center moratorium, Hochul signed the nation’s first executive order to put a pause on development."
+        }
+      ]
+    },
+    {
+      "claim": "Bir Quinnipiac anketine göre seçmenlerin yüzde 53'ü yapay zeka ve veri merkezlerini ele almada Kathy Hochul'a güvendiğini belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+          "quote": "In a recent Quinnipiac poll of New York voters, 53 percent of respondents said they trusted Hochul to do a better job in handling AI and data centers"
+        }
+      ]
+    },
+    {
+      "claim": "Aynı ankette seçmenlerin sadece yüzde 31'i Bruce Blakeman'a güvendiğini ifade etti.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Eylül ayında yapılan bir Siena anketine göre New Yorkluların yüzde 63'ü moratorium sona erdikten sonra bile bölgelerinde veri merkezi inşa edilmesine karşı çıkacağını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+          "quote": "A Siena poll from September found that 63 percent of New Yorkers would oppose data centers being built in their area even after Hochul’s moratorium expires."
+        }
+      ]
+    },
+    {
+      "claim": "Hükümet ilişkileri şirketi MultiState'in araştırmasına göre en az 20 valilik adayı veri merkezi moratoriumu veya durdurma sözü verdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+          "quote": "At least 20 gubernatorial candidates have promised a data center moratorium or pause, according to research compiled by government relations company MultiState."
+        }
+      ]
+    },
+    {
+      "claim": "Pew Research Center'ın bulgularına göre reklam verenler, ara seçimlere giden 90 günlük dönemde veri merkezlerinden bahseden siyasi reklamlara 12 milyon dolar harcadı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+          "quote": "New findings from Pew Research Center show that advertisers spent $12 million on political ads mentioning data centers in a 90-day period leading up to the midterms."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "New York, veri merkezi gelişimine moratorium uygulayan ülkenin ilk eyaleti oldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+          "quote": "When New York became the first state in the country to enact a moratorium on data center development, Adrienne Yocina was excited."
+        },
+        {
+          "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+          "quote": "When New York became the first state in the country to enact a moratorium on data center development"
+        }
+      ]
+    },
+    {
+      "claim": "Adrienne Yocina, batı Genesee County'de Tonawanda Seneca Nation rezervasyonuna ve federal yaban hayatı sığınağına yakın bir bölgeye 600 megavatlık bir veri merkezinin gelmesini durdurmak için örgütleniyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+          "quote": "For the past two years, the mom of three has been organizing in western Genesee County to stop a 600-megawatt data center from coming to a site close to the Tonawanda Seneca Nation’s reservation and a federal wildlife refuge."
+        }
+      ]
+    },
+    {
+      "claim": "Temmuz ayında Vali Kathy Hochul, gelişimi durdurmak için ulusun ilk yürütme emrini imzaladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+          "quote": "In July, just two months after dismissing the idea of a data center moratorium, Hochul signed the nation’s first executive order to put a pause on development."
+        }
+      ]
+    },
+    {
+      "claim": "Bir Quinnipiac anketine göre seçmenlerin yüzde 53'ü yapay zeka ve veri merkezlerini ele almada Kathy Hochul'a güvendiğini belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+          "quote": "In a recent Quinnipiac poll of New York voters, 53 percent of respondents said they trusted Hochul to do a better job in handling AI and data centers"
+        }
+      ]
+    },
+    {
+      "claim": "Aynı ankette seçmenlerin sadece yüzde 31'i Bruce Blakeman'a güvendiğini ifade etti.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Eylül ayında yapılan bir Siena anketine göre New Yorkluların yüzde 63'ü moratorium sona erdikten sonra bile bölgelerinde veri merkezi inşa edilmesine karşı çıkacağını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+          "quote": "A Siena poll from September found that 63 percent of New Yorkers would oppose data centers being built in their area even after Hochul’s moratorium expires."
+        }
+      ]
+    },
+    {
+      "claim": "Hükümet ilişkileri şirketi MultiState'in araştırmasına göre en az 20 valilik adayı veri merkezi moratoriumu veya durdurma sözü verdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+          "quote": "At least 20 gubernatorial candidates have promised a data center moratorium or pause, according to research compiled by government relations company MultiState."
+        }
+      ]
+    },
+    {
+      "claim": "Pew Research Center'ın bulgularına göre reklam verenler, ara seçimlere giden 90 günlük dönemde veri merkezlerinden bahseden siyasi reklamlara 12 milyon dolar harcadı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+          "quote": "New findings from Pew Research Center show that advertisers spent $12 million on political ads mentioning data centers in a 90-day period leading up to the midterms."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/": 7710,
+    "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/": 7522,
+    "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/": 3736,
+    "https://www.bbc.co.uk/news/articles/cy5w2k5k5ylo?at_medium=RSS&at_campaign=rss": 7485
+  }
+}

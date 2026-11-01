@@ -1,0 +1,10 @@
+{
+  "slot": "15:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 213.2,
+  "candidates_tried": 2,
+  "gemini_calls": 16,
+  "canonical_url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+  "generated_at": "2026-11-01T14:55:09+03:00"
+}

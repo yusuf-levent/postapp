@@ -1,0 +1,68 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE ALTYAPI",
+    "title": "New York'ta veri merkezi hamlesi",
+    "highlight_words": [
+      "veri merkezi"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "New York veri merkezi gelişimine moratorium uygulayan ilk eyalet oldu.",
+    "source_tags": [
+      "WIRED",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "New York'ta Neler Yaşanıyor?",
+    "cards": [
+      {
+        "card_title": "İlk Yürütme Emri",
+        "card_body": "Temmuz ayında Vali Kathy Hochul, veri merkezi gelişimini durdurmak için ulusun ilk yürütme emrini imzaladı."
+      },
+      {
+        "card_title": "Bölgesel Tepki",
+        "card_body": "Adrienne Yocina, batı Genesee County'de 600 megavatlık bir veri merkezinin gelmesini durdurmak için örgütleniyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "%63",
+    "stat_caption": "Moratorium sona erdikten sonra karşı çıkanlar",
+    "stat_quote": "Siena anketine göre New Yorkluların yüzde 63'ü moratorium sona erdikten sonra bile veri merkezi inşa edilmesine karşı çıkacak."
+  },
+  "details": {
+    "heading": "Anketler ve Siyasi Yansımalar",
+    "cards": [
+      {
+        "card_title": "Quinnipiac Anketi",
+        "card_body": "Seçmenlerin yüzde 53'ü yapay zeka ve veri merkezlerini ele almada Kathy Hochul'a güvendiğini belirtti."
+      },
+      {
+        "card_title": "Valilik Adayları",
+        "card_body": "MultiState araştırmasına göre en az 20 valilik adayı veri merkezi moratoriumu veya durdurma sözü verdi."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Siyasi Reklamlar ve Harcamalar",
+    "cards": [
+      {
+        "card_title": "Reklam Harcamaları",
+        "card_body": "Pew Research Center'a göre reklam verenler, ara seçimlere giden dönemde veri merkezlerinden bahseden reklamlara 12 milyon dolar harcadı."
+      },
+      {
+        "card_title": "Yerel Koruma",
+        "card_body": "Tonawanda Seneca Nation rezervasyonuna ve federal yaban hayatı sığınağına yakın bölgeler korunmaya çalışılıyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce veri merkezi projeleri yerel halkın endişeleriyle nasıl dengelenmeli?",
+    "reminder_line": "Teknoloji gündemini kaçırmamak için takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
