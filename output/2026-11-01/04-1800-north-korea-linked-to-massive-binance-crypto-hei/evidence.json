@@ -7,36 +7,32 @@
     "BBC News – Technology",
     "Ars Technica"
   ],
-  "checked_at": "2026-11-01T17:43:10+03:00",
+  "checked_at": "2026-11-01T17:47:09+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "FBI, Binance borsasından 29 Ekim tarihinde 6.3 milyar dolar değerinde kripto para hırsızlığının arkasında Kuzey Kore'nin olduğunu açıkladı.",
+      "claim": "FBI, Binance borsasından 29 Ekim 2026 tarihinde gerçekleştirilen 6,3 milyar dolarlık kripto soygununun arkasında Kuzey Kore'nin olduğunu açıkladı.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
-          "quote": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th."
+          "quote": "The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026."
         }
       ]
     },
     {
-      "claim": "FBI, Kuzey Kore bağlantılı siber saldırı faaliyetini TraderTraitor olarak adlandırdı.",
+      "claim": "FBI, Kuzey Kore bağlantılı siber saldırı faaliyetini TraderTraitor olarak adlandırmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
-          "quote": "The FBI labeled the activity “TraderTraitor”"
-        },
-        {
-          "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
-          "quote": "The FBI labeled the activity “TraderTraitor” and said that it had observed actors it has connected to hack converting the tokens to Ethereum"
+          "quote": "The FBI refers to this specific North Korean malicious cyber activity as “TraderTraitor.”"
         }
       ]
     },
     {
-      "claim": "FBI, USSS ve IRS-CI ortaklığıyla saldırganların çalınan varlıkları öncelikle Ethereum'a (ETH) dönüştürdüğünü gözlemledi.",
+      "claim": "FBI, USSS ve IRS-CI ortaklığında TraderTraitor aktörlerinin çalınan varlıkları öncelikle Ethereum'a dönüştürdüğünü gözlemlemiştir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -46,7 +42,7 @@
       ]
     },
     {
-      "claim": "Binance, hack olayının hemen ardından dondurduğu müşteri çekim işlemlerini bugün yeniden açtı.",
+      "claim": "Binance, siber saldırının hemen ardından dondurduğu müşteri çekim işlemlerini bugün yeniden açmıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -58,31 +54,27 @@
   ],
   "round1": [
     {
-      "claim": "FBI, Binance borsasından 29 Ekim tarihinde 6.3 milyar dolar değerinde kripto para hırsızlığının arkasında Kuzey Kore'nin olduğunu açıkladı.",
+      "claim": "FBI, Binance borsasından 29 Ekim 2026 tarihinde gerçekleştirilen 6,3 milyar dolarlık kripto soygununun arkasında Kuzey Kore'nin olduğunu açıkladı.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
-          "quote": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th."
+          "quote": "The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026."
         }
       ]
     },
     {
-      "claim": "FBI, Kuzey Kore bağlantılı siber saldırı faaliyetini TraderTraitor olarak adlandırdı.",
+      "claim": "FBI, Kuzey Kore bağlantılı siber saldırı faaliyetini TraderTraitor olarak adlandırmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
-          "quote": "The FBI labeled the activity “TraderTraitor”"
-        },
-        {
-          "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
-          "quote": "The FBI labeled the activity “TraderTraitor” and said that it had observed actors it has connected to hack converting the tokens to Ethereum"
+          "quote": "The FBI refers to this specific North Korean malicious cyber activity as “TraderTraitor.”"
         }
       ]
     },
     {
-      "claim": "FBI, USSS ve IRS-CI ortaklığıyla saldırganların çalınan varlıkları öncelikle Ethereum'a (ETH) dönüştürdüğünü gözlemledi.",
+      "claim": "FBI, USSS ve IRS-CI ortaklığında TraderTraitor aktörlerinin çalınan varlıkları öncelikle Ethereum'a dönüştürdüğünü gözlemlemiştir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -92,7 +84,7 @@
       ]
     },
     {
-      "claim": "Binance, hack olayının hemen ardından dondurduğu müşteri çekim işlemlerini bugün yeniden açtı.",
+      "claim": "Binance, siber saldırının hemen ardından dondurduğu müşteri çekim işlemlerini bugün yeniden açmıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -104,31 +96,27 @@
   ],
   "round2": [
     {
-      "claim": "FBI, Binance borsasından 29 Ekim tarihinde 6.3 milyar dolar değerinde kripto para hırsızlığının arkasında Kuzey Kore'nin olduğunu açıkladı.",
+      "claim": "FBI, Binance borsasından 29 Ekim 2026 tarihinde gerçekleştirilen 6,3 milyar dolarlık kripto soygununun arkasında Kuzey Kore'nin olduğunu açıkladı.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
-          "quote": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th."
+          "quote": "The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026."
         }
       ]
     },
     {
-      "claim": "FBI, Kuzey Kore bağlantılı siber saldırı faaliyetini TraderTraitor olarak adlandırdı.",
+      "claim": "FBI, Kuzey Kore bağlantılı siber saldırı faaliyetini TraderTraitor olarak adlandırmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
-          "quote": "The FBI labeled the activity “TraderTraitor”"
-        },
-        {
-          "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
-          "quote": "The FBI labeled the activity “TraderTraitor” and said that it had observed actors it has connected to hack converting the tokens to Ethereum"
+          "quote": "The FBI refers to this specific North Korean malicious cyber activity as “TraderTraitor.”"
         }
       ]
     },
     {
-      "claim": "FBI, USSS ve IRS-CI ortaklığıyla saldırganların çalınan varlıkları öncelikle Ethereum'a (ETH) dönüştürdüğünü gözlemledi.",
+      "claim": "FBI, USSS ve IRS-CI ortaklığında TraderTraitor aktörlerinin çalınan varlıkları öncelikle Ethereum'a dönüştürdüğünü gözlemlemiştir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -138,7 +126,7 @@
       ]
     },
     {
-      "claim": "Binance, hack olayının hemen ardından dondurduğu müşteri çekim işlemlerini bugün yeniden açtı.",
+      "claim": "Binance, siber saldırının hemen ardından dondurduğu müşteri çekim işlemlerini bugün yeniden açmıştır.",
       "verdict": "supported",
       "evidence": [
         {

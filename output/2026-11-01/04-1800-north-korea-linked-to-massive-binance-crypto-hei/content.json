@@ -1,13 +1,13 @@
 {
   "cover": {
-    "category_label": "TEKNOLOJİ GÜNDEMİ",
-    "title": "FBI'dan Kuzey Kore Açıklaması: 6.3 Milyar Dolarlık Kripto Vurgunu",
+    "category_label": "SİBER GÜVENLİK",
+    "title": "FBI'dan Binance Soygunu Açıklaması",
     "highlight_words": [
-      "Kuzey Kore",
-      "6.3 Milyar Dolar"
+      "Binance",
+      "Soygunu"
     ],
-    "highlight_color": "yellow",
-    "subtitle": "Binance borsasındaki büyük hırsızlığın arkasındaki isimler açıklandı.",
+    "highlight_color": "cyan",
+    "subtitle": "29 Ekim 2026 tarihinde gerçekleşen 6,3 milyar dolarlık soygunun arkasında Kuzey Kore olduğu açıklandı.",
     "source_tags": [
       "The Verge",
       "TechCrunch",
@@ -16,108 +16,108 @@
     ]
   },
   "problem": {
-    "heading": "Saldırının Arka Planı",
+    "heading": "Büyük Kripto Soygununun Arka Planı",
     "cards": [
       {
-        "card_title": "FBI Açıklaması",
-        "card_body": "FBI, 29 Ekim tarihinde Binance borsasından gerçekleştirilen 6.3 milyar dolar değerindeki kripto para hırsızlığının arkasında Kuzey Kore'nin olduğunu duyurdu."
+        "card_title": "Soygun Detayı",
+        "card_body": "Binance borsasından 29 Ekim 2026 tarihinde 6,3 milyar dolarlık kripto soygunu gerçekleştirildi."
       },
       {
-        "card_title": "Saldırgan Grubu",
-        "card_body": "FBI, Kuzey Kore bağlantılı bu siber saldırı faaliyetini TraderTraitor olarak adlandırdı."
+        "card_title": "FBI Açıklaması",
+        "card_body": "FBI, bu büyük siber saldırının arkasında Kuzey Kore'nin olduğunu duyurdu."
       }
     ],
     "code_block": ""
   },
   "steps": [
     {
-      "heading": "Saldırının Yöntemi",
+      "heading": "TraderTraitor Grubu",
       "cards": [
+        {
+          "card_title": "Tehdit Aktörü",
+          "card_body": "FBI, Kuzey Kore bağlantılı siber saldırı faaliyetini TraderTraitor olarak adlandırmaktadır."
+        },
         {
           "card_title": "Ortak Operasyon",
-          "card_body": "FBI, USSS ve IRS-CI kurumlarının ortaklığıyla yürütülen çalışmalarda saldırganların izi sürüldü."
-        },
+          "card_body": "FBI, USSS ve IRS-CI kurumları ortaklaşa soruşturma yürütmektedir."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Çalınan Varlıkların Akıbeti",
+      "cards": [
         {
           "card_title": "Varlık Dönüşümü",
-          "card_body": "Yetkililer, saldırganların çalınan varlıkları öncelikle Ethereum (ETH) ağındaki varlıklara dönüştürdüğünü gözlemledi."
+          "card_body": "Yapılan gözlemlere göre TraderTraitor aktörleri çalınan varlıkları öncelikle Ethereum'a dönüştürmektedir."
+        },
+        {
+          "card_title": "İz Sürme",
+          "card_body": "Yetkililer fon hareketlerini yakından takip ediyor."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "Binance Borsasının Adımları",
+      "heading": "Binance Tarafında Son Durum",
       "cards": [
         {
-          "card_title": "İşlemlerin Durdurulması",
-          "card_body": "Binance, hack olayının hemen ardından güvenlik önlemi olarak müşteri çekim işlemlerini geçici olarak dondurdu."
+          "card_title": "İşlemler Yeniden Açıldı",
+          "card_body": "Binance, siber saldırının hemen ardından dondurduğu müşteri çekim işlemlerini bugün yeniden açmıştır."
         },
         {
-          "card_title": "Yeniden Açılış",
-          "card_body": "Borsada dondurulan müşteri çekim işlemlerinin bugün itibarıyla yeniden açıldığı bildirildi."
-        }
-      ],
-      "code_block": ""
-    },
-    {
-      "heading": "Güvenlik ve Takip",
-      "cards": [
-        {
-          "card_title": "Uluslararası İş Birliği",
-          "card_body": "FBI ve diğer güvenlik kurumları, çalınan fonların takibi için kripto borsalarıyla koordineli şekilde çalışmaya devam ediyor."
-        },
-        {
-          "card_title": "Kullanıcı Güvenliği",
-          "card_body": "Borsalar ve kullanıcılar için bu tür büyük ölçekli saldırılara karşı iki aşamalı doğrulama ve gelişmiş güvenlik önlemleri kritik önem taşıyor."
+          "card_title": "Güvenlik Önlemleri",
+          "card_body": "Borsa ekibi güvenlik önlemlerini artırdığını bildirdi."
         }
       ],
       "code_block": ""
     }
   ],
   "cta": {
-    "question": "Kripto para borsalarında güvenliği artırmak için sizce hangi adımlar atılmalı?",
-    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki güncel gelişmeler için Tekno Pusula'yı takipte kalın!"
+    "question": "Kripto varlıkların güvenliği hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için takipte kalın."
   },
   "context": {
-    "heading": "Saldırının Arka Planı",
+    "heading": "Büyük Kripto Soygununun Arka Planı",
     "cards": [
       {
-        "card_title": "FBI Açıklaması",
-        "card_body": "FBI, 29 Ekim tarihinde Binance borsasından gerçekleştirilen 6.3 milyar dolar değerindeki kripto para hırsızlığının arkasında Kuzey Kore'nin olduğunu duyurdu."
+        "card_title": "Soygun Detayı",
+        "card_body": "Binance borsasından 29 Ekim 2026 tarihinde 6,3 milyar dolarlık kripto soygunu gerçekleştirildi."
       },
       {
-        "card_title": "Saldırgan Grubu",
-        "card_body": "FBI, Kuzey Kore bağlantılı bu siber saldırı faaliyetini TraderTraitor olarak adlandırdı."
+        "card_title": "FBI Açıklaması",
+        "card_body": "FBI, bu büyük siber saldırının arkasında Kuzey Kore'nin olduğunu duyurdu."
       }
     ]
   },
   "stat": {
     "big_stat": "💡",
-    "stat_caption": "Saldırının Yöntemi",
+    "stat_caption": "TraderTraitor Grubu",
     "stat_quote": ""
   },
   "details": {
-    "heading": "Binance Borsasının Adımları",
+    "heading": "Çalınan Varlıkların Akıbeti",
     "cards": [
       {
-        "card_title": "İşlemlerin Durdurulması",
-        "card_body": "Binance, hack olayının hemen ardından güvenlik önlemi olarak müşteri çekim işlemlerini geçici olarak dondurdu."
+        "card_title": "Varlık Dönüşümü",
+        "card_body": "Yapılan gözlemlere göre TraderTraitor aktörleri çalınan varlıkları öncelikle Ethereum'a dönüştürmektedir."
       },
       {
-        "card_title": "Yeniden Açılış",
-        "card_body": "Borsada dondurulan müşteri çekim işlemlerinin bugün itibarıyla yeniden açıldığı bildirildi."
+        "card_title": "İz Sürme",
+        "card_body": "Yetkililer fon hareketlerini yakından takip ediyor."
       }
     ]
   },
   "impact": {
-    "heading": "Güvenlik ve Takip",
+    "heading": "Binance Tarafında Son Durum",
     "cards": [
       {
-        "card_title": "Uluslararası İş Birliği",
-        "card_body": "FBI ve diğer güvenlik kurumları, çalınan fonların takibi için kripto borsalarıyla koordineli şekilde çalışmaya devam ediyor."
+        "card_title": "İşlemler Yeniden Açıldı",
+        "card_body": "Binance, siber saldırının hemen ardından dondurduğu müşteri çekim işlemlerini bugün yeniden açmıştır."
       },
       {
-        "card_title": "Kullanıcı Güvenliği",
-        "card_body": "Borsalar ve kullanıcılar için bu tür büyük ölçekli saldırılara karşı iki aşamalı doğrulama ve gelişmiş güvenlik önlemleri kritik önem taşıyor."
+        "card_title": "Güvenlik Önlemleri",
+        "card_body": "Borsa ekibi güvenlik önlemlerini artırdığını bildirdi."
       }
     ]
   },
