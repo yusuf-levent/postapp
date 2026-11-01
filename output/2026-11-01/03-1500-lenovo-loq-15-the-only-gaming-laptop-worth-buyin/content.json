@@ -1,46 +1,46 @@
 {
   "cover": {
-    "category_label": "TEKNOLOJİ DÜNYASI",
-    "title": "2026 Yılında RTX 4050 Gerçeği ve LENOVO LOQ 15",
+    "category_label": "DONANIM GÜNDEMİ",
+    "title": "2026 Yılında Eski Teknoloji Tercihi",
     "highlight_words": [
       "RTX 4050",
-      "LENOVO LOQ 15"
+      "2026"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Yeni oyun dizüstü bilgisayarlarındaki donanım tercihleri ve bütçe dostu seçenekler.",
+    "subtitle": "Yeni oyun dizüstü bilgisayarlarında şaşırtan ekran kartı tercihi.",
     "source_tags": [
       "WIRED",
       "NVIDIA NEWSROOM"
     ]
   },
   "context": {
-    "heading": "2026 Yılında Donanım Tercihleri",
+    "heading": "Piyasaya Sürülen Yeni Modeller",
     "cards": [
       {
-        "card_title": "Eski Kartlar",
-        "card_body": "Bazı üreticiler 2026 yılında, üç yıldan eski olan RTX 4050 grafik kartını başlangıç konfigürasyonu olarak kullanmaktadır."
+        "card_title": "Başlangıç Konfigürasyonu",
+        "card_body": "Bazı üreticiler yeni oyun dizüstü bilgisayarlarını belirli donanımlarla piyasaya sürüyor."
       },
       {
-        "card_title": "Öne Çıkan Model",
-        "card_body": "Lenovo LOQ 15, 1.500 doların altındaki fiyatıyla önerilen tek oyun dizüstü bilgisayarı olarak dikkat çekmektedir."
+        "card_title": "Tercih Edilen Donanım",
+        "card_body": "Yeni çıkan cihazlarda başlangıç donanımı olarak eski ekran kartları yer alıyor."
       }
     ]
   },
   "stat": {
-    "big_stat": "1.300 $",
-    "stat_caption": "RTX 5060 ekran kartına sahip Lenovo LOQ 15 modelinin güncel fiyatı.",
-    "stat_quote": "Amazon, RTX 5060 konfigürasyonunu 16 GB RAM ve 512 GB depolama alanı ile birlikte 1.300 dolara satmaktadır."
+    "big_stat": "3 YIL",
+    "stat_caption": "Ekran kartının piyasaya çıkış tarihi üzerinden geçen süre.",
+    "stat_quote": "Üç yıldan eski donanımlar yeni cihazlarda kendine yer buluyor."
   },
   "details": {
-    "heading": "Fiyat ve Performans Detayları",
+    "heading": "Teknik Tercihin Detayları",
     "cards": [
       {
-        "card_title": "Bütçe Dostu Seçenek",
-        "card_body": "Lenovo LOQ 15, 2026 yılının ilk birkaç ayında 1.000 doların altında satılmaktaydı. Lenovo ayrıca RTX 5050 konfigürasyonunu 999 dolardan satışa sunmaktadır."
+        "card_title": "RTX 4050 Durumu",
+        "card_body": "Üç yıldan eski RTX 4050 ekran kartı yeni modellerde kullanılıyor."
       },
       {
-        "card_title": "Oyun Performansı",
-        "card_body": "Black Myth: Wukong ve Monster Hunter Wilds dahil test edilen her oyun, orta ayarda 60 kare/saniye hızın üzerinde oynanabilmektedir."
+        "card_title": "Üretici Hamlesi",
+        "card_body": "Bazı üreticiler bu kartı başlangıç konfigürasyonu olarak seçti."
       }
     ]
   },
@@ -49,17 +49,17 @@
     "cards": [
       {
         "card_title": "Sektörel Yaklaşım",
-        "card_body": "Üreticilerin eski nesil grafik kartlarını başlangıç seviyesinde tutması, yeni nesil donanımlara geçiş süreçlerini etkilemektedir."
+        "card_body": "Üreticilerin yeni oyun dizüstü bilgisayarlarında eski nesil kartlara yönelmesi dikkat çekiyor."
       },
       {
         "card_title": "Kullanıcı Deneyimi",
-        "card_body": "Uygun fiyatlı modellerde sunulan güncel grafik kartları ve tatmin edici kare hızları, oyuncular için erişilebilirliği artırmaktadır."
+        "card_body": "Oyuncular başlangıç konfigürasyonlarında eski nesil ekran kartlarıyla karşılaşıyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce yeni bir oyun dizüstü bilgisayarı alırken eski nesil kartlar başlangıç için hâlâ yeterli mi?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeler için takipte kalın."
+    "question": "Yeni oyun dizüstü bilgisayarlarında eski nesil ekran kartı kullanılmasını nasıl buluyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

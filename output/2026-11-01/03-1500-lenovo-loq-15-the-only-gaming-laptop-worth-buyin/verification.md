@@ -3,60 +3,36 @@
 **Haber:** Lenovo LOQ 15: The Only Gaming Laptop Worth Buying Below $1,500
 **Canonical URL:** https://www.wired.com/story/lenovo-loq-15-best-deal/
 **Kaynaklar:** Wired, NVIDIA Newsroom
-**Kontrol zamanı:** 2026-11-01T14:47:09+03:00
+**Kontrol zamanı:** 2026-11-01T14:57:18+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
 
 ## İddia Bazlı Sonuçlar
 
-### 1. Bazı üreticiler 2026 yılında, üç yıldan eski olan RTX 4050 grafik kartını başlangıç konfigürasyonu olarak kullanan yeni oyun dizüstü bilgisayarları piyasaya sürmektedir.
+### 1. Bazı üreticiler 2026 yılında başlangıç konfigürasyonu olarak üç yıldan eski RTX 4050 ekran kartına sahip yeni oyun dizüstü bilgisayarları piyasaya sürdü.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
+  - [https://www.wired.com/story/lenovo-loq-15-best-deal/](https://www.wired.com/story/lenovo-loq-15-best-deal/)
+    > Some manufacturers have even resorted to launching “new" gaming laptops in 2026 with the RTX 4050 as the starting configuration—and that graphics card is more than three years old.
   - [https://www.wired.com/story/lenovo-loq-15-best-deal/](https://www.wired.com/story/lenovo-loq-15-best-deal/)
     > Some manufacturers have even resorted to launching “new
 
-### 2. Lenovo LOQ 15, 1.500 doların altındaki fiyatıyla önerilen tek oyun dizüstü bilgisayarıdır.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://www.wired.com/story/lenovo-loq-15-best-deal/](https://www.wired.com/story/lenovo-loq-15-best-deal/)
-    > there's really only one gaming laptop under $1,500 that I feel comfortable recommending. That's the Lenovo LOQ 15.
-  - [https://www.wired.com/story/lenovo-loq-15-best-deal/](https://www.wired.com/story/lenovo-loq-15-best-deal/)
-    > Given this landscape, there's really only one gaming laptop under $1,500 that I feel comfortable recommending. That's the Lenovo LOQ 15.
+### 2. Lenovo LOQ 15 oyun dizüstü bilgisayarı 2026 yılının ilk birkaç ayında 1.000 dolardan daha düşük bir fiyata satılıyordu.
+- **Karar:** ⚠️ `not_found`
+- **Kanıt:** yok
 
-### 3. Lenovo LOQ 15, 2026 yılının ilk birkaç ayında 1.000 doların altında satılmaktaydı.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://www.wired.com/story/lenovo-loq-15-best-deal/](https://www.wired.com/story/lenovo-loq-15-best-deal/)
-    > For the first few months of 2026—the good old days—it was selling for less than $1,000.
+### 3. RTX 5060 ekran kartına, 16 GB RAM'e ve 512 GB depolamaya sahip Lenovo LOQ 15 modeli Amazon'da 1.300 dolara satılmaktadır.
+- **Karar:** ⚠️ `not_found`
+- **Kanıt:** yok
 
-### 4. Lenovo LOQ 15, RTX 5060 ekran kartına sahip versiyonuyla şu anda 1.300 dolara satın alınabilmektedir.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://www.wired.com/story/lenovo-loq-15-best-deal/](https://www.wired.com/story/lenovo-loq-15-best-deal/)
-    > you can buy the LOQ 15 with an RTX 5060 for just $1,300.
-  - [https://www.wired.com/story/lenovo-loq-15-best-deal/](https://www.wired.com/story/lenovo-loq-15-best-deal/)
-    > Also significant is the fact that, right now, you can buy the LOQ 15 with an RTX 5060 for just $1,300.
+### 4. Lenovo, RTX 5050 ekran kartı ve aynı diğer özelliklere sahip LOQ 15 konfigürasyonunu 999 dolardan satışa sunmaktadır.
+- **Karar:** ⚠️ `not_found`
+- **Kanıt:** yok
 
-### 5. Black Myth: Wukong ve Monster Hunter Wilds dahil test edilen her oyun, orta ayarda 60 kare/saniye hızın üzerinde oynanabilmektedir.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://www.wired.com/story/lenovo-loq-15-best-deal/](https://www.wired.com/story/lenovo-loq-15-best-deal/)
-    > Every game I tested could play at well over 60 frames per second at the medium preset, including heavier games like Black Myth: Wukong and Monster Hunter Wilds.
-
-### 6. Amazon, RTX 5060 konfigürasyonunu 16 GB RAM ve 512 GB depolama alanı ile birlikte 1.300 dolara satmaktadır.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://www.wired.com/story/lenovo-loq-15-best-deal/](https://www.wired.com/story/lenovo-loq-15-best-deal/)
-    > Amazon has the RTX 5060 configuration, which also comes with 16 GB of RAM and 512 GB of storage, for $1,300
-
-### 7. Lenovo, RTX 5050 konfigürasyonuna sahip LOQ 15 modelini 999 dolardan satışa sunmaktadır.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://www.wired.com/story/lenovo-loq-15-best-deal/](https://www.wired.com/story/lenovo-loq-15-best-deal/)
-    > Lenovo also has a killer deal on the RTX 5050 configuration that's about as cheap as it gets: $999 for an RTX 5050
-  - [https://www.wired.com/story/lenovo-loq-15-best-deal/](https://www.wired.com/story/lenovo-loq-15-best-deal/)
-    > Lenovo also has a killer deal on the RTX 5050 configuration that's about as cheap as it gets: $999 for an RTX 5050 (and otherwise identical specs).
+### 5. Lenovo LOQ 15 sisteminin sağlayabildiği 100 watt güç ile test edilen Black Myth Wukong ve Monster Hunter Wilds dahil her oyun orta ayarlarda saniyede 60 kareden fazla hızda çalıştı.
+- **Karar:** ⚠️ `not_found`
+- **Kanıt:** yok
 
 ---
 
@@ -64,13 +40,11 @@
 
 | İddia | 1. Tur | 2. Tur | Nihai |
 |-------|--------|--------|-------|
-| Bazı üreticiler 2026 yılında, üç yıldan eski olan RTX 4050 g | supported | supported | supported |
-| Lenovo LOQ 15, 1.500 doların altındaki fiyatıyla önerilen te | supported | supported | supported |
-| Lenovo LOQ 15, 2026 yılının ilk birkaç ayında 1.000 doların  | supported | supported | supported |
-| Lenovo LOQ 15, RTX 5060 ekran kartına sahip versiyonuyla şu  | supported | supported | supported |
-| Black Myth: Wukong ve Monster Hunter Wilds dahil test edilen | supported | supported | supported |
-| Amazon, RTX 5060 konfigürasyonunu 16 GB RAM ve 512 GB depola | supported | supported | supported |
-| Lenovo, RTX 5050 konfigürasyonuna sahip LOQ 15 modelini 999  | supported | supported | supported |
+| Bazı üreticiler 2026 yılında başlangıç konfigürasyonu olarak | supported | supported | supported |
+| Lenovo LOQ 15 oyun dizüstü bilgisayarı 2026 yılının ilk birk | not_found | not_found | not_found |
+| RTX 5060 ekran kartına, 16 GB RAM'e ve 512 GB depolamaya sah | not_found | not_found | not_found |
+| Lenovo, RTX 5050 ekran kartı ve aynı diğer özelliklere sahip | not_found | not_found | not_found |
+| Lenovo LOQ 15 sisteminin sağlayabildiği 100 watt güç ile tes | not_found | not_found | not_found |
 
 ## Kaynak Metinleri
 
