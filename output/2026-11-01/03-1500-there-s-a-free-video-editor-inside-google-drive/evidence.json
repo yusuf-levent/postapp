@@ -7,7 +7,7 @@
     "Google Blog",
     "TechCrunch"
   ],
-  "checked_at": "2026-11-01T15:22:07+03:00",
+  "checked_at": "2026-11-01T15:27:11+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
@@ -22,37 +22,49 @@
       ]
     },
     {
-      "claim": "Google Vids ilk olarak 2024 yılında işletme ve kurumsal kullanıcılar için piyasaya sürülmüştür.",
+      "claim": "Google Vids, 2024 yılında işletmeler ve kurumsal kullanıcılar için piyasaya sürülmüştür.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
           "quote": "Originally launched in 2024 for business and enterprise users, the app was made available to individuals in 2026 and continues to get regular updates from Google."
+        },
+        {
+          "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
+          "quote": "Originally launched in 2024 for business and enterprise users"
         }
       ]
     },
     {
-      "claim": "Google Vids, 2026 yılında bireysel kullanıcılara sunulmuştur.",
+      "claim": "Google Vids uygulaması 2026 yılında bireysel kullanıcılara sunulmuştur.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
           "quote": "Originally launched in 2024 for business and enterprise users, the app was made available to individuals in 2026 and continues to get regular updates from Google."
+        },
+        {
+          "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
+          "quote": "the app was made available to individuals in 2026"
         }
       ]
     },
     {
-      "claim": "Google Vids kullanımı ücretsizdir ve bir web tarayıcısında çalışacak şekilde tasarlanmıştır.",
+      "claim": "Google Vids, bir web tarayıcısında çalışacak şekilde tasarlanmıştır ve kullanımı ücretsizdir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
           "quote": "Since it's both free to use and designed to run in a web browser, it's not capable of pro-level, high-resolution, multitrack video editing."
+        },
+        {
+          "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
+          "quote": "Since it's both free to use and designed to run in a web browser"
         }
       ]
     },
     {
-      "claim": "Google Vids arayüzünde Veo 3.1 modeli ile yapay zeka videoları oluşturulabilir.",
+      "claim": "Google Vids, yapay zeka videoları oluşturmak için Veo 3.1 modelini kullanmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -61,7 +73,7 @@
         },
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "You can generate AI videos with the Veo 3.1 model, turn a slideshow into a video, work from a template..."
+          "quote": "You can generate AI videos with the Veo 3.1 model"
         }
       ]
     }
@@ -78,37 +90,49 @@
       ]
     },
     {
-      "claim": "Google Vids ilk olarak 2024 yılında işletme ve kurumsal kullanıcılar için piyasaya sürülmüştür.",
+      "claim": "Google Vids, 2024 yılında işletmeler ve kurumsal kullanıcılar için piyasaya sürülmüştür.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
           "quote": "Originally launched in 2024 for business and enterprise users, the app was made available to individuals in 2026 and continues to get regular updates from Google."
+        },
+        {
+          "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
+          "quote": "Originally launched in 2024 for business and enterprise users"
         }
       ]
     },
     {
-      "claim": "Google Vids, 2026 yılında bireysel kullanıcılara sunulmuştur.",
+      "claim": "Google Vids uygulaması 2026 yılında bireysel kullanıcılara sunulmuştur.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
           "quote": "Originally launched in 2024 for business and enterprise users, the app was made available to individuals in 2026 and continues to get regular updates from Google."
+        },
+        {
+          "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
+          "quote": "the app was made available to individuals in 2026"
         }
       ]
     },
     {
-      "claim": "Google Vids kullanımı ücretsizdir ve bir web tarayıcısında çalışacak şekilde tasarlanmıştır.",
+      "claim": "Google Vids, bir web tarayıcısında çalışacak şekilde tasarlanmıştır ve kullanımı ücretsizdir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
           "quote": "Since it's both free to use and designed to run in a web browser, it's not capable of pro-level, high-resolution, multitrack video editing."
+        },
+        {
+          "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
+          "quote": "Since it's both free to use and designed to run in a web browser"
         }
       ]
     },
     {
-      "claim": "Google Vids arayüzünde Veo 3.1 modeli ile yapay zeka videoları oluşturulabilir.",
+      "claim": "Google Vids, yapay zeka videoları oluşturmak için Veo 3.1 modelini kullanmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -117,7 +141,7 @@
         },
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "You can generate AI videos with the Veo 3.1 model, turn a slideshow into a video, work from a template..."
+          "quote": "You can generate AI videos with the Veo 3.1 model"
         }
       ]
     }
@@ -134,37 +158,49 @@
       ]
     },
     {
-      "claim": "Google Vids ilk olarak 2024 yılında işletme ve kurumsal kullanıcılar için piyasaya sürülmüştür.",
+      "claim": "Google Vids, 2024 yılında işletmeler ve kurumsal kullanıcılar için piyasaya sürülmüştür.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
           "quote": "Originally launched in 2024 for business and enterprise users, the app was made available to individuals in 2026 and continues to get regular updates from Google."
+        },
+        {
+          "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
+          "quote": "Originally launched in 2024 for business and enterprise users"
         }
       ]
     },
     {
-      "claim": "Google Vids, 2026 yılında bireysel kullanıcılara sunulmuştur.",
+      "claim": "Google Vids uygulaması 2026 yılında bireysel kullanıcılara sunulmuştur.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
           "quote": "Originally launched in 2024 for business and enterprise users, the app was made available to individuals in 2026 and continues to get regular updates from Google."
+        },
+        {
+          "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
+          "quote": "the app was made available to individuals in 2026"
         }
       ]
     },
     {
-      "claim": "Google Vids kullanımı ücretsizdir ve bir web tarayıcısında çalışacak şekilde tasarlanmıştır.",
+      "claim": "Google Vids, bir web tarayıcısında çalışacak şekilde tasarlanmıştır ve kullanımı ücretsizdir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
           "quote": "Since it's both free to use and designed to run in a web browser, it's not capable of pro-level, high-resolution, multitrack video editing."
+        },
+        {
+          "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
+          "quote": "Since it's both free to use and designed to run in a web browser"
         }
       ]
     },
     {
-      "claim": "Google Vids arayüzünde Veo 3.1 modeli ile yapay zeka videoları oluşturulabilir.",
+      "claim": "Google Vids, yapay zeka videoları oluşturmak için Veo 3.1 modelini kullanmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -173,7 +209,7 @@
         },
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "You can generate AI videos with the Veo 3.1 model, turn a slideshow into a video, work from a template..."
+          "quote": "You can generate AI videos with the Veo 3.1 model"
         }
       ]
     }
