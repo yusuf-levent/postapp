@@ -2,54 +2,48 @@
 
 ## INSTAGRAM
 
-Google Workspace ailesinin yeni üyesi Google Vids ile tanışın! Tarayıcı üzerinden çalışan ve Veo 3.1 yapay zeka modelini kullanan bu araç, video üretim süreçlerini kökten değiştiriyor. Kurumsal kullanıcılara 2024 yılında sunulan uygulama, 2026'da bireysel kullanıcılarla buluşuyor. Sizce bu durum video üretim süreçlerini nasıl etkiler?
+Google Vids artık bireysel kullanıcılara açılıyor! Google Workspace ailesinin yeni web tabanlı video düzenleme aracı ile video oluşturmak çok daha kolay. Yapay zeka destekli bu aracı denemeyi düşünüyor musunuz?
 
 Kaynak: Google Blog
 
-#GoogleVids #YapayZeka #Teknoloji #GoogleWorkspace #VideoDüzenleme #Veo31 #Gelecek #İnovasyon #AI #Tech
+#GoogleVids #YapayZeka #Teknoloji #GoogleWorkspace #VideoDuzenleme #AI #TechNews
 
 ## TIKTOK
 
-Google'ın yeni yapay zeka video aracı Google Vids hakkında her şey! Ücretsiz ve tarayıcı tabanlı bu uygulama Veo 3.1 kullanıyor. 2026'da herkese açık! Kaynak: Google Blog
+Google Vids sonunda herkese açık! Yapay zeka ile kolayca video yapın. Kaynak: Google Blog
 
-#GoogleVids #YapayZeka #Teknoloji #Google #AI
+#GoogleVids #Teknoloji #YapayZeka #Google
 
 ## X
 
-Google Workspace'in yeni yapay zeka video düzenleme aracı Google Vids, Veo 3.1 modeliyle geliyor! 2024'te kurumsal kullanıma açılan araç, 2026'da bireysel kullanıcılara sunuluyor. Tarayıcı tabanlı bu yenilik hakkında ne düşünüyorsunuz?
+Google Workspace'in yeni video düzenleme aracı Google Vids, bireysel kullanıcılara açılıyor! Yapay zeka destekli bu aracı denemeyi düşünüyor musunuz? Kaynak: Google Blog
 
-Kaynak: Google Blog
-
-#GoogleVids #YapayZeka
+#GoogleVids #Teknoloji
 
 ## THREADS
 
-Google Vids ile Yapay Zeka Video Dönemi
+Google Vids Artık Herkese Açık!
 
-Google Workspace ailesinin yeni üyesi Google Vids, tarayıcı tabanlı ve ücretsiz bir video düzenleme paketi olarak dikkat çekiyor. Veo 3.1 yapay zeka modelini kullanan uygulama, 2024'teki kurumsal çıkışının ardından 2026'da bireysel kullanıcılara sunuluyor.
+Google Workspace ailesinin yeni web tabanlı video düzenleme aracı bireysel kullanıcılara geliyor. Yapay zeka destekli bu aracı denemeyi düşünüyor musunuz?
 
-Sizce bu araç video üretim süreçlerini nasıl etkiler? 💭
-
-Kaynak: Google Blog
+💭 Kaynak: Google Blog
 
 #GoogleVids
 
 ## LINKEDIN
 
-Google Workspace, yapay zeka destekli video düzenleme pazarına güçlü bir adım atıyor. Google Vids, Veo 3.1 yapay zeka modelini kullanarak tarayıcı üzerinden ücretsiz video oluşturma imkanı sunuyor.
-
-2024 yılında işletmeler ve kurumsal kullanıcılar için piyasaya sürülen platform, 2026 itibarıyla bireysel kullanıcılara da açılarak erişim alanını genişletiyor. Tarayıcı tabanlı ve ücretsiz bu çözümlerin iş dünyasındaki içerik üretimi süreçlerini nasıl dönüştüreceğini hep birlikte göreceğiz.
+Google Workspace bünyesindeki yapay zeka destekli video düzenleme aracı Google Vids, bireysel kullanıcılara sunuluyor. Web tabanlı ve ücretsiz yapısıyla dikkat çeken bu araç, içerik üretim süreçlerini nasıl etkileyecek?
 
 Kaynak: Google Blog
 
-#GoogleVids #YapayZeka #Teknoloji #İşDünyası #GoogleWorkspace
+#GoogleVids #YapayZeka #Teknoloji #GoogleWorkspace #Inovasyon
 
 ## FACEBOOK
 
-Google Workspace ailesinin yeni üyesi Google Vids ile tanışın! Tarayıcı üzerinden çalışan ve Veo 3.1 yapay zeka modelini kullanan bu araç, video üretim süreçlerini dönüştürmeye hazırlanıyor. Kurumsal kullanıcılara 2024'te sunulan uygulama, 2026'da bireysel kullanıcılarla buluşuyor.
+Google Vids artık bireysel kullanıcılara açılıyor! Google Workspace ailesinin yeni web tabanlı video düzenleme aracı ile herkes kolayca video oluşturabilecek.
 
-Sizce Google Vids'in ücretsiz ve tarayıcı tabanlı olması sektörü nasıl etkiler?
+Siz bu aracı denemeyi düşünüyor musunuz?
 
 Kaynak: Google Blog
 
-#GoogleVids #YapayZeka #Teknoloji #Google
+#GoogleVids #Teknoloji #YapayZeka #GoogleWorkspace
