@@ -1,0 +1,68 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE TEKNOLOJI",
+    "title": "Google Vids Herkese Açılıyor",
+    "highlight_words": [
+      "Google Vids"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Google'ın yeni video düzenleme aracı bireysel kullanıcılara sunuldu.",
+    "source_tags": [
+      "GOOGLE BLOG",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Google Vids Nedir?",
+    "cards": [
+      {
+        "card_title": "Çevrimiçi Paket",
+        "card_body": "Google Vids, Google Workspace kapsamında sunulan çevrimiçi bir video düzenleme paketidir."
+      },
+      {
+        "card_title": "Kurumsal Başlangıç",
+        "card_body": "Uygulama ilk olarak 2024 yılında işletme ve kurumsal kullanıcılar için piyasaya sürüldü."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "2026",
+    "stat_caption": "Bireysel kullanıcılara sunulduğu yıl",
+    "stat_quote": "Google Vids, 2026 yılında bireysel kullanıcılara da sunuldu."
+  },
+  "details": {
+    "heading": "Yapay Zeka Gücü",
+    "cards": [
+      {
+        "card_title": "Veo 3.1 Desteği",
+        "card_body": "Google Vids uygulamasında yapay zeka videoları Veo 3.1 modeli ile oluşturulabilmektedir."
+      },
+      {
+        "card_title": "Workspace Entegrasyonu",
+        "card_body": "Google Workspace ekosisteminin bir parçası olarak pratik bir kullanım sunar."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcı Etkisi",
+    "cards": [
+      {
+        "card_title": "Bireysel Erişim",
+        "card_body": "2026 itibarıyla bireysel kullanıcılar da bu video düzenleme aracından faydalanabiliyor."
+      },
+      {
+        "card_title": "Yapay Zeka Üretimi",
+        "card_body": "Veo 3.1 modeli sayesinde kullanıcılar yapay zeka destekli videolar oluşturabiliyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Google Vids'in bireysel kullanıma açılması hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için bizi takip edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
