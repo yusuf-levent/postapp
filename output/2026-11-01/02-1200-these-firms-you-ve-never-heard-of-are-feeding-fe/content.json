@@ -1,0 +1,72 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE TEKNOLOJİ",
+    "title": "NEOCLOUD FİRMALARINDA BÜYÜK DÖNÜŞÜM",
+    "highlight_words": [
+      "NEOCLOUD"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Sektörün öncü isimleri ve neocloud ekosistemindeki son gelişmeler.",
+    "source_tags": [
+      "BBC NEWS",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "NEOCLOUD DÜNYASINDA NELER OLUYOR?",
+    "cards": [
+      {
+        "card_title": "NEBİUS'UN DÖNÜŞÜMÜ",
+        "card_body": "Nebius, Rusya'nın Google'ının bir parçası olan Yandex NV olarak biliniyordu ve 2024 yılında adını değiştirdi."
+      },
+      {
+        "card_title": "İLK KURULUŞ",
+        "card_body": "CoreWeave 2017 yılında Ethereum madenciliğine odaklanarak kurulmuştur."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "%80",
+    "stat_caption": "Gartner analistlerinin 2030 öngörüsü",
+    "stat_quote": "Gartner analistleri, 2030 yılına kadar neocloud firmalarının yüzde 80'inin bağımsız operasyonlarını sonlandıracağını öngörüyor."
+  },
+  "details": {
+    "heading": "FİNANSAL VE STRATEJİK GELİŞMELER",
+    "cards": [
+      {
+        "card_title": "BORÇ YÜKÜ VE HİSSELER",
+        "card_body": "CoreWeave 35.1 milyar dolar borç biriktirmiştir ve hisseleri geçtiğimiz ay değerinin dörtte birini kaybetmiştir."
+      },
+      {
+        "card_title": "İPTAL EDİLEN ANLAŞMALAR",
+        "card_body": "Microsoft, güç kaynağı sorunları nedeniyle İngiliz neocloud firması Nscale ile olan bir anlaşmayı iptal etmiştir."
+      },
+      {
+        "card_title": "EKOSİSTEMDEKİ YERİ",
+        "card_body": "Hazine Bakanı Scott Bessent Perşembe günü CNBC'de neocloud firmalarını genel ekosistemin küçük ve harici bir bileşeni olarak nitelendirdi."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "SEKTÖREL ETKİLER VE BEKLENTİLER",
+    "cards": [
+      {
+        "card_title": "FİRMA SATIN ALMALARI",
+        "card_body": "Forrester uzmanları, maliyetlerin sarsılmasıyla en az üç neocloud firmasısının yakın zamanda satın alınmasını bekliyor."
+      },
+      {
+        "card_title": "BAĞIMSIZ OPERASYONLAR",
+        "card_body": "Gartner'ın öngörülerine göre firmaların büyük kısmı bağımsız operasyonlarına son verecek."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Neocloud firmalarının geleceği hakkında siz ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
