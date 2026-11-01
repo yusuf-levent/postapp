@@ -3176,5 +3176,83 @@
     ],
     "created_at": "2026-11-01T08:44:48+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-11-01-1200",
+    "date": "2026-11-01",
+    "slot": "12:00",
+    "type": "news",
+    "title_tr": "NEOCLOUD FİRMALARINDA BÜYÜK DÖNÜŞÜM",
+    "original_title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+    "source_urls": [
+      "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss"
+    ],
+    "canonical_url": "https://bbc.co.uk/news/articles/cje36degrgv5o?at_medium=rss&at_campaign=rss",
+    "entities": [
+      "CoreWeave",
+      "Nebius",
+      "Anthropic",
+      "OpenAI",
+      "Meta",
+      "Gartner",
+      "Forrester",
+      "Scott Bessent",
+      "Cory Johnson",
+      "The Quiet Period"
+    ],
+    "event_type": "financial_analysis",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae6fb8d21c807e9d5abee1e",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae6fba3ab019b90874bf53d",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae6fbba37c1acd2a0f52417",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2116813408683102451",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "17867463063679117",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfMVMX_FRlV",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae6fbe1cf3a3112f3e9970d",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae6fbf837c1acd2a0f52e87",
+        "permalink": "https://facebook.com/1351036918092059_122120174727484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-11-01T11:44:53+03:00",
+    "verified_claims_count": 8
   }
 ]
