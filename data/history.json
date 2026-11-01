@@ -3254,5 +3254,79 @@
     ],
     "created_at": "2026-11-01T11:44:53+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-11-01-1500",
+    "date": "2026-11-01",
+    "slot": "15:00",
+    "type": "news",
+    "title_tr": "GTA VI ve Kasım Sürprizleri Yolda",
+    "original_title": "New Zelda and GTA represent a games industry that no longer exists",
+    "source_urls": [
+      "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists"
+    ],
+    "canonical_url": "https://theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
+    "entities": [
+      "Grand Theft Auto VI",
+      "GTA V",
+      "Rockstar",
+      "Red Dead Redemption 2",
+      "Circana",
+      "Andrew Webster"
+    ],
+    "event_type": "product_launch",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae73aecab019b90875e1125",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae73b03f0984eef3367f668",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae73b0537c1acd2a00684b6",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2116881367489290678",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18158711311510035",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfM0Gt-kUGj",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae73b2bf0984eef33680119",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae73b4237c1acd2a006a42c",
+        "permalink": "https://facebook.com/1351036918092059_122120229987484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-11-01T16:14:52+03:00",
+    "verified_claims_count": 7
   }
 ]
