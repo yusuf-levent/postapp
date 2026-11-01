@@ -1,15 +1,14 @@
 {
   "cover": {
-    "category_label": "YAPAY ZEKA VE ÜRETKENLİK",
-    "title": "Google Vids ile Video Düzenleme Dönemi",
+    "category_label": "YAPAY ZEKA VE TEKNOLOJI",
+    "title": "Google Vids Artık Herkese Açık!",
     "highlight_words": [
-      "Google Vids",
-      "Video Düzenleme"
+      "Google Vids"
     ],
-    "highlight_color": "cyan",
-    "subtitle": "Google Workspace'in yeni yapay zeka destekli video aracı artık herkes için erişilebilir.",
+    "highlight_color": "yellow",
+    "subtitle": "Tarayıcı tabanlı video düzenleme uygulaması bireysel kullanıcılara sunuldu.",
     "source_tags": [
-      "GOOGLE BLOG",
+      "WIRED",
       "TECHCRUNCH"
     ]
   },
@@ -17,53 +16,49 @@
     "heading": "Google Vids Nedir?",
     "cards": [
       {
-        "card_title": "Workspace'in Yeni Üyesi",
-        "card_body": "Google Vids, Google Workspace ekosistemine dahil olan, web tarayıcısı üzerinden çalışan çevrimiçi bir video düzenleme aracıdır."
+        "card_title": "Workspace Parçası",
+        "card_body": "Google Vids, Google Workspace paketinin bir parçası olarak sunulan çevrimiçi bir video düzenleme uygulamasıdır."
       },
       {
-        "card_title": "Genişleyen Erişim",
-        "card_body": "2024 yılında kurumsal kullanıcılar için piyasaya sürülen uygulama, 2026 itibarıyla bireysel kullanıcıların da erişimine açıldı."
+        "card_title": "Tarayıcı Desteği",
+        "card_body": "Google Vids kullanımı ücretsizdir ve bir web tarayıcısında çalışacak şekilde tasarlanmıştır."
       }
     ]
   },
   "stat": {
     "big_stat": "2026",
-    "stat_caption": "Google Vids'in bireysel kullanıcılarla buluştuğu yıl.",
-    "stat_quote": "Google Vids, web tarayıcısı üzerinden ücretsiz olarak kullanılabilmektedir. - Google Blog"
+    "stat_caption": "Bireysel kullanıcılara sunulduğu yıl",
+    "stat_quote": "Google Vids uygulaması 2026 yılında bireysel kullanıcılara da sunulmuştur."
   },
   "details": {
-    "heading": "Öne Çıkan Özellikler",
+    "heading": "Uygulama Detayları",
     "cards": [
       {
-        "card_title": "Yapay Zeka Desteği",
-        "card_body": "Uygulama içerisinde video oluşturma süreçlerinde yapay zeka destekli Veo 3.1 modeli aktif olarak kullanılabiliyor."
+        "card_title": "Kurumsal Çıkış",
+        "card_body": "Google Vids, ilk olarak 2024 yılında iş ve kurumsal kullanıcılar için piyasaya sürülmüştür."
       },
       {
-        "card_title": "Kolay İçerik Yönetimi",
-        "card_body": "Kullanıcılar webcam kliplerini kaydedebilir, Google Drive ve Google Photos üzerinden görüntüleri kolayca içe aktarabilirler."
-      },
-      {
-        "card_title": "Otomatik Kayıt",
-        "card_body": "Google Vids, çalışma akışını kesintisiz kılmak için yapılan tüm düzenlemeleri otomatik olarak kaydeder."
+        "card_title": "Yapay Zeka Gücü",
+        "card_body": "Google Vids içerisinde Veo 3.1 modeli kullanılarak yapay zeka videoları oluşturulabilir."
       }
     ]
   },
   "impact": {
-    "heading": "Kullanıcı Deneyimine Etkisi",
+    "heading": "Kullanım Alanı",
     "cards": [
       {
-        "card_title": "İş Akışında Verimlilik",
-        "card_body": "Workspace paketiyle entegre çalışması, video düzenleme süreçlerini Drive ve diğer Google uygulamalarıyla uyumlu hale getiriyor."
+        "card_title": "Bireysel Erişim",
+        "card_body": "Uygulamanın bireysel kullanıcılara açılmasıyla geniş bir kitle ücretsiz video düzenleme araçlarına erişiyor."
       },
       {
-        "card_title": "Erişilebilirlik",
-        "card_body": "Ücretsiz ve tarayıcı tabanlı olması, profesyonel video düzenleme araçlarına olan ihtiyacı bireysel kullanıcılar için kolaylaştırıyor."
+        "card_title": "Yapay Zeka Üretimi",
+        "card_body": "Veo 3.1 modeli ile kullanıcılar tarayıcı üzerinden kolayca yapay zeka videoları üretebiliyor."
       }
     ]
   },
   "cta": {
-    "question": "Google Vids'in sunduğu yapay zeka destekli video düzenleme imkanlarını denemeyi düşünüyor musunuz?",
-    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeler için Tekno Pusula'yı takipte kalın."
+    "question": "Google Vids ile tarayıcı üzerinden video oluşturmayı deneyecek misiniz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

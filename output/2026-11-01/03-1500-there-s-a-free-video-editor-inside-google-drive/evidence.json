@@ -4,25 +4,15 @@
   "source_names": [
     "Wired",
     "Ars Technica",
-    "Google Blog",
-    "TechCrunch"
+    "TechCrunch",
+    "MIT Technology Review"
   ],
-  "checked_at": "2026-11-01T15:12:20+03:00",
+  "checked_at": "2026-11-01T15:17:13+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Google Workspace paketi Google Drive, Gmail, Google Docs, Google Sheets ve Google Slides uygulamalarını içerir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "Mention the online apps available as part of Google Workspace, and most people will immediately think of Google Drive, Gmail, Google Docs, Google Sheets, and Google Slides"
-        }
-      ]
-    },
-    {
-      "claim": "Google Vids, Google Workspace bünyesinde yer alan çevrimiçi bir video düzenleme aracıdır.",
+      "claim": "Google Vids, Google Workspace paketinin bir parçası olarak sunulan çevrimiçi bir video düzenleme uygulamasıdır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -32,83 +22,49 @@
       ]
     },
     {
-      "claim": "Google Vids uygulaması 2024 yılında iş ve kurumsal kullanıcılar için piyasaya sürülmüştür.",
+      "claim": "Google Vids, ilk olarak 2024 yılında iş ve kurumsal kullanıcılar için piyasaya sürülmüştür.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "Originally launched in 2024 for business and enterprise users"
+          "quote": "Originally launched in 2024 for business and enterprise users, the app was made available to individuals in 2026 and continues to get regular updates from Google."
         }
       ]
     },
     {
-      "claim": "Google Vids uygulaması 2026 yılında bireysel kullanıcıların erişimine açılmıştır.",
+      "claim": "Google Vids uygulaması 2026 yılında bireysel kullanıcılara da sunulmuştur.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "the app was made available to individuals in 2026"
+          "quote": "Originally launched in 2024 for business and enterprise users, the app was made available to individuals in 2026 and continues to get regular updates from Google."
         }
       ]
     },
     {
-      "claim": "Google Vids, web tarayıcısı üzerinden ücretsiz olarak kullanılabilmektedir.",
+      "claim": "Google Vids kullanımı ücretsizdir ve bir web tarayıcısında çalışacak şekilde tasarlanmıştır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "Since it's both free to use and designed to run in a web browser"
+          "quote": "Since it's both free to use and designed to run in a web browser, it's not capable of pro-level, high-resolution, multitrack video editing."
         }
       ]
     },
     {
-      "claim": "Google Vids içerisinde yapay zeka destekli video oluşturma için Veo 3.1 modeli kullanılabilmektedir.",
+      "claim": "Google Vids içerisinde Veo 3.1 modeli kullanılarak yapay zeka videoları oluşturulabilir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "You can generate AI videos with the Veo 3.1 model"
-        }
-      ]
-    },
-    {
-      "claim": "Google Vids arayüzünde kullanıcılar webcam klipleri kaydedebilir, Google Drive ve Google Photos'tan görüntü içe aktarabilirler.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "You can record webcam clips, create AI videos, import footage from Google Drive and Google Photos"
-        },
-        {
-          "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "Down the right side of the interface you've got all the options for loading in new content. You can record webcam clips, create AI videos, import footage from Google Drive and Google Photos"
-        }
-      ]
-    },
-    {
-      "claim": "Google Vids uygulaması, yapılan düzenlemeleri otomatik olarak kaydetmektedir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "As with the other Google Drive apps, all your edits are saved instantly"
+          "quote": "You can generate AI videos with the Veo 3.1 model, turn a slideshow into a video, work from a template, upload an existing video as a starting point, create an AI music track, record a video using your camera, produce a video with an AI avatar, or create a storyboard outline."
         }
       ]
     }
   ],
   "round1": [
     {
-      "claim": "Google Workspace paketi Google Drive, Gmail, Google Docs, Google Sheets ve Google Slides uygulamalarını içerir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "Mention the online apps available as part of Google Workspace, and most people will immediately think of Google Drive, Gmail, Google Docs, Google Sheets, and Google Slides"
-        }
-      ]
-    },
-    {
-      "claim": "Google Vids, Google Workspace bünyesinde yer alan çevrimiçi bir video düzenleme aracıdır.",
+      "claim": "Google Vids, Google Workspace paketinin bir parçası olarak sunulan çevrimiçi bir video düzenleme uygulamasıdır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -118,83 +74,49 @@
       ]
     },
     {
-      "claim": "Google Vids uygulaması 2024 yılında iş ve kurumsal kullanıcılar için piyasaya sürülmüştür.",
+      "claim": "Google Vids, ilk olarak 2024 yılında iş ve kurumsal kullanıcılar için piyasaya sürülmüştür.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "Originally launched in 2024 for business and enterprise users"
+          "quote": "Originally launched in 2024 for business and enterprise users, the app was made available to individuals in 2026 and continues to get regular updates from Google."
         }
       ]
     },
     {
-      "claim": "Google Vids uygulaması 2026 yılında bireysel kullanıcıların erişimine açılmıştır.",
+      "claim": "Google Vids uygulaması 2026 yılında bireysel kullanıcılara da sunulmuştur.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "the app was made available to individuals in 2026"
+          "quote": "Originally launched in 2024 for business and enterprise users, the app was made available to individuals in 2026 and continues to get regular updates from Google."
         }
       ]
     },
     {
-      "claim": "Google Vids, web tarayıcısı üzerinden ücretsiz olarak kullanılabilmektedir.",
+      "claim": "Google Vids kullanımı ücretsizdir ve bir web tarayıcısında çalışacak şekilde tasarlanmıştır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "Since it's both free to use and designed to run in a web browser"
+          "quote": "Since it's both free to use and designed to run in a web browser, it's not capable of pro-level, high-resolution, multitrack video editing."
         }
       ]
     },
     {
-      "claim": "Google Vids içerisinde yapay zeka destekli video oluşturma için Veo 3.1 modeli kullanılabilmektedir.",
+      "claim": "Google Vids içerisinde Veo 3.1 modeli kullanılarak yapay zeka videoları oluşturulabilir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "You can generate AI videos with the Veo 3.1 model"
-        }
-      ]
-    },
-    {
-      "claim": "Google Vids arayüzünde kullanıcılar webcam klipleri kaydedebilir, Google Drive ve Google Photos'tan görüntü içe aktarabilirler.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "You can record webcam clips, create AI videos, import footage from Google Drive and Google Photos"
-        },
-        {
-          "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "Down the right side of the interface you've got all the options for loading in new content. You can record webcam clips, create AI videos, import footage from Google Drive and Google Photos"
-        }
-      ]
-    },
-    {
-      "claim": "Google Vids uygulaması, yapılan düzenlemeleri otomatik olarak kaydetmektedir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "As with the other Google Drive apps, all your edits are saved instantly"
+          "quote": "You can generate AI videos with the Veo 3.1 model, turn a slideshow into a video, work from a template, upload an existing video as a starting point, create an AI music track, record a video using your camera, produce a video with an AI avatar, or create a storyboard outline."
         }
       ]
     }
   ],
   "round2": [
     {
-      "claim": "Google Workspace paketi Google Drive, Gmail, Google Docs, Google Sheets ve Google Slides uygulamalarını içerir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "Mention the online apps available as part of Google Workspace, and most people will immediately think of Google Drive, Gmail, Google Docs, Google Sheets, and Google Slides"
-        }
-      ]
-    },
-    {
-      "claim": "Google Vids, Google Workspace bünyesinde yer alan çevrimiçi bir video düzenleme aracıdır.",
+      "claim": "Google Vids, Google Workspace paketinin bir parçası olarak sunulan çevrimiçi bir video düzenleme uygulamasıdır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -204,66 +126,42 @@
       ]
     },
     {
-      "claim": "Google Vids uygulaması 2024 yılında iş ve kurumsal kullanıcılar için piyasaya sürülmüştür.",
+      "claim": "Google Vids, ilk olarak 2024 yılında iş ve kurumsal kullanıcılar için piyasaya sürülmüştür.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "Originally launched in 2024 for business and enterprise users"
+          "quote": "Originally launched in 2024 for business and enterprise users, the app was made available to individuals in 2026 and continues to get regular updates from Google."
         }
       ]
     },
     {
-      "claim": "Google Vids uygulaması 2026 yılında bireysel kullanıcıların erişimine açılmıştır.",
+      "claim": "Google Vids uygulaması 2026 yılında bireysel kullanıcılara da sunulmuştur.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "the app was made available to individuals in 2026"
+          "quote": "Originally launched in 2024 for business and enterprise users, the app was made available to individuals in 2026 and continues to get regular updates from Google."
         }
       ]
     },
     {
-      "claim": "Google Vids, web tarayıcısı üzerinden ücretsiz olarak kullanılabilmektedir.",
+      "claim": "Google Vids kullanımı ücretsizdir ve bir web tarayıcısında çalışacak şekilde tasarlanmıştır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "Since it's both free to use and designed to run in a web browser"
+          "quote": "Since it's both free to use and designed to run in a web browser, it's not capable of pro-level, high-resolution, multitrack video editing."
         }
       ]
     },
     {
-      "claim": "Google Vids içerisinde yapay zeka destekli video oluşturma için Veo 3.1 modeli kullanılabilmektedir.",
+      "claim": "Google Vids içerisinde Veo 3.1 modeli kullanılarak yapay zeka videoları oluşturulabilir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "You can generate AI videos with the Veo 3.1 model"
-        }
-      ]
-    },
-    {
-      "claim": "Google Vids arayüzünde kullanıcılar webcam klipleri kaydedebilir, Google Drive ve Google Photos'tan görüntü içe aktarabilirler.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "You can record webcam clips, create AI videos, import footage from Google Drive and Google Photos"
-        },
-        {
-          "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "Down the right side of the interface you've got all the options for loading in new content. You can record webcam clips, create AI videos, import footage from Google Drive and Google Photos"
-        }
-      ]
-    },
-    {
-      "claim": "Google Vids uygulaması, yapılan düzenlemeleri otomatik olarak kaydetmektedir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-          "quote": "As with the other Google Drive apps, all your edits are saved instantly"
+          "quote": "You can generate AI videos with the Veo 3.1 model, turn a slideshow into a video, work from a template, upload an existing video as a starting point, create an AI music track, record a video using your camera, produce a video with an AI avatar, or create a storyboard outline."
         }
       ]
     }
@@ -271,7 +169,7 @@
   "source_texts": {
     "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/": 5553,
     "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/": 2177,
-    "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/": 377,
-    "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/": 3736
+    "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/": 3736,
+    "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/": 7195
   }
 }

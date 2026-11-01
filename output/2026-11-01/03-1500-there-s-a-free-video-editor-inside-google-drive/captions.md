@@ -2,60 +2,62 @@
 
 ## INSTAGRAM
 
-Video düzenlemek artık çok daha kolay! Google Vids, yapay zeka destekli özellikleriyle artık bireysel kullanıcıların erişimine açıldı. Tarayıcı üzerinden çalışan bu araç, Google Workspace ekosistemiyle tam uyumlu çalışıyor.
+Google Vids artık herkese açık! Tarayıcı tabanlı bu müthiş video düzenleme uygulaması sonunda bireysel kullanıcılara da sunuldu.
 
-Veo 3.1 yapay zeka modeli sayesinde video oluşturma süreçleri hızlanırken, otomatik kayıt özelliği ile çalışmalarınız asla yarım kalmıyor. Google Drive ve Photos ile entegre olması ise içerik yönetimini oldukça pratik hale getiriyor.
+Google Workspace paketinin bir parçası olan uygulama, tamamen ücretsiz olarak tarayıcınız üzerinden çalışıyor.
 
-Sizce yapay zeka destekli bu araç, video düzenleme alışkanlıklarımızı tamamen değiştirecek mi? Yorumlarda buluşalım.
+İçerisindeki Veo 3.1 yapay zeka modeli sayesinde zahmetsizce videolar üretebilirsiniz.
 
-Kaynak: Google Blog, TechCrunch
+Google Vids ile tarayıcı üzerinden video oluşturmayı deneyecek misiniz?
 
-#GoogleVids #YapayZeka #VideoDüzenleme #GoogleWorkspace #TeknolojiHaberleri #DijitalÜretim #AI #VideoEditing #ContentCreation #TeknoPusula
+Kaynak: TechCrunch
+
+#GoogleVids #YapayZeka #Teknoloji #VideoDüzenleme #GoogleWorkspace #TechNews #AI #Yazılım
 
 ## TIKTOK
 
-Google Vids artık herkes için erişilebilir! 🚀 Tarayıcı üzerinden çalışan, yapay zeka destekli bu yeni video düzenleme aracıyla tanışın. Veo 3.1 modeliyle videolarınızı kolayca oluşturun, otomatik kayıt özelliğiyle iş akışınızı kesintisiz sürdürün. Denemeye hazır mısınız? Kaynak: Google Blog, TechCrunch
+Google Vids sonunda herkese açık! Tarayıcı üzerinden ücretsiz yapay zeka videoları üretmek artık çok kolay. Kaynak: TechCrunch
 
-#GoogleVids #YapayZeka #VideoDüzenleme #Teknoloji #AI #Google
+#GoogleVids #YapayZeka #Teknoloji #TechTok
 
 ## X
 
-Google Vids artık bireysel kullanıcılar için erişilebilir! 🎥 Tarayıcı tabanlı, yapay zeka destekli bu araçla video düzenlemek çok daha pratik. Veo 3.1 entegrasyonu ve otomatik kayıt özelliğiyle iş akışınız hızlanıyor. Kaynak: Google Blog, TechCrunch #GoogleVids #YapayZeka
+Google Vids artık bireysel kullanıcılara da açık! Tarayıcı tabanlı bu ücretsiz uygulama ve Veo 3.1 yapay zeka desteğiyle kolayca video üretebilirsiniz. Kaynak: TechCrunch
 
 #GoogleVids #YapayZeka
 
 ## THREADS
 
-Google Vids ile Video Düzenleme Dönemi
+Google Vids Artık Herkese Açık! 🚀
 
-Google Workspace'in yapay zeka destekli video aracı Google Vids, artık bireysel kullanıcıların erişimine açıldı. Tarayıcı üzerinden çalışan bu araç, Veo 3.1 modeliyle içerik üretmeyi kolaylaştırıyor.
+Tarayıcı tabanlı video düzenleme uygulaması Google Vids, bireysel kullanıcılara sunuldu. Veo 3.1 yapay zeka desteğiyle artık herkes kolayca video üretebilecek.
 
-Google Drive ve Photos ile entegre çalışan sistem, otomatik kayıt özelliğiyle de iş akışını kesintisiz kılıyor. Sizce bu araç video düzenleme süreçlerini ne kadar hızlandırır? 💭
+Google Vids ile tarayıcı üzerinden video oluşturmayı deneyecek misiniz?
 
-Kaynak: Google Blog, TechCrunch
+💭 Kaynak: TechCrunch
 
 #GoogleVids
 
 ## LINKEDIN
 
-Google, video düzenleme süreçlerini demokratikleştiren yeni aracı Google Vids'i bireysel kullanıcıların erişimine açtı. Web tarayıcısı üzerinden çalışan ve Google Workspace ekosistemiyle entegre olan bu platform, profesyonel video düzenleme araçlarına olan ihtiyacı daha erişilebilir kılıyor.
+Google Workspace ailesinin önemli bir parçası olan Google Vids, artık bireysel kullanıcılara da açıldı. Kurumsal çıkışının ardından gelen bu hamle, içerik üreticileri ve profesyoneller için tarayıcı tabanlı yeni bir dönemi başlatıyor.
 
-Veo 3.1 yapay zeka modeli ile desteklenen Google Vids, özellikle içerik üreticileri ve iş profesyonelleri için verimliliği artırmayı hedefliyor. Otomatik kayıt ve Drive entegrasyonu, çalışma akışını kesintisiz hale getiren kritik özellikler arasında.
+Veo 3.1 yapay zeka modeli ile güçlendirilen uygulama, video üretim süreçlerini demokratkleştiriyor.
 
-Sizce yapay zeka destekli bu tür araçlar, kurumsal video üretim süreçlerinde nasıl bir dönüşüm yaratacak? Görüşlerinizi bekliyorum.
+Google Vids ile tarayıcı üzerinden video oluşturmayı deneyecek misiniz?
 
-Kaynak: Google Blog, TechCrunch
+Kaynak: TechCrunch
 
-#GoogleVids #YapayZeka #DijitalDönüşüm #İşVerimliliği #Teknoloji
+#GoogleVids #YapayZeka #TeknolojiGelişmeleri #GoogleWorkspace #İçerikÜretimi
 
 ## FACEBOOK
 
-Google Vids artık herkes için erişilebilir! 🎥 Google Workspace'in yeni yapay zeka destekli video düzenleme aracı, tarayıcı üzerinden kolayca kullanılabiliyor.
+Google Vids sonunda herkese açık! Tarayıcı tabanlı ve ücretsiz video düzenleme uygulaması artık bireysel kullanıcıların da hizmetinde.
 
-Veo 3.1 modeli ile desteklenen bu araç, Google Drive ve Photos ile entegre çalışarak içerik yönetimini pratikleştiriyor. Otomatik kayıt özelliği sayesinde çalışmalarınız güvende.
+Veo 3.1 yapay zeka modeli ile desteklenen bu araç sayesinde dilediğiniz gibi videolar üretebilirsiniz.
 
-Google Vids'in sunduğu bu imkanları denemeyi düşünüyor musunuz? Teknoloji dünyasındaki güncel gelişmeler için Tekno Pusula'yı takipte kalın.
+Google Vids ile tarayıcı üzerinden video oluşturmayı deneyecek misiniz?
 
-Kaynak: Google Blog, TechCrunch
+Kaynak: TechCrunch
 
-#GoogleVids #YapayZeka #VideoDüzenleme #Teknoloji #Google
+#GoogleVids #YapayZeka #Teknoloji #SosyalMedya
