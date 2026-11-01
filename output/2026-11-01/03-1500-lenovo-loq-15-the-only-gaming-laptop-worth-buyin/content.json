@@ -1,45 +1,46 @@
 {
   "cover": {
-    "category_label": "TEKNOLOJI DÜNYASI",
-    "title": "2026 Yılında RTX 4050 Sürprizi",
+    "category_label": "TEKNOLOJİ DÜNYASI",
+    "title": "2026 Yılında RTX 4050 Gerçeği ve LENOVO LOQ 15",
     "highlight_words": [
-      "RTX 4050"
+      "RTX 4050",
+      "LENOVO LOQ 15"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Yeni dizüstü bilgisayarlarda eski ekran kartı tercih ediliyor.",
+    "subtitle": "Yeni oyun dizüstü bilgisayarlarındaki donanım tercihleri ve bütçe dostu seçenekler.",
     "source_tags": [
       "WIRED",
       "NVIDIA NEWSROOM"
     ]
   },
   "context": {
-    "heading": "2026 Yılında Eski Kartlar",
+    "heading": "2026 Yılında Donanım Tercihleri",
     "cards": [
       {
-        "card_title": "Üç Yıldan Eski Kartlar",
-        "card_body": "Bazı üreticiler 2026 yılında üç yıldan eski RTX 4050 ekran kartını başlangıç konfigürasyonu olarak kullanan yeni oyun dizüstü bilgisayarları piyasaya sürdü."
+        "card_title": "Eski Kartlar",
+        "card_body": "Bazı üreticiler 2026 yılında, üç yıldan eski olan RTX 4050 grafik kartını başlangıç konfigürasyonu olarak kullanmaktadır."
       },
       {
-        "card_title": "Piyasa Durumu",
-        "card_body": "2026 yılının ilk birkaç ayında farklı fiyat seçenekleriyle yeni dizüstü bilgisayar modelleri kullanıcıların karşısına çıktı."
+        "card_title": "Öne Çıkan Model",
+        "card_body": "Lenovo LOQ 15, 1.500 doların altındaki fiyatıyla önerilen tek oyun dizüstü bilgisayarı olarak dikkat çekmektedir."
       }
     ]
   },
   "stat": {
     "big_stat": "1.300 $",
-    "stat_caption": "Lenovo LOQ 15'in RTX 5060 versiyonunun güncel satış fiyatı.",
-    "stat_quote": "Lenovo LOQ 15, RTX 5060 ekran kartına sahip versiyonuyla şu anda 1.300 dolara satın alınabilmektedir."
+    "stat_caption": "RTX 5060 ekran kartına sahip Lenovo LOQ 15 modelinin güncel fiyatı.",
+    "stat_quote": "Amazon, RTX 5060 konfigürasyonunu 16 GB RAM ve 512 GB depolama alanı ile birlikte 1.300 dolara satmaktadır."
   },
   "details": {
-    "heading": "Lenovo LOQ 15 Fiyatları",
+    "heading": "Fiyat ve Performans Detayları",
     "cards": [
       {
-        "card_title": "1.000 Doların Altı",
-        "card_body": "Lenovo LOQ 15, 2026 yılının ilk birkaç ayında 1.000 doların altında bir fiyatla satılıyordu."
+        "card_title": "Bütçe Dostu Seçenek",
+        "card_body": "Lenovo LOQ 15, 2026 yılının ilk birkaç ayında 1.000 doların altında satılmaktaydı. Lenovo ayrıca RTX 5050 konfigürasyonunu 999 dolardan satışa sunmaktadır."
       },
       {
-        "card_title": "RTX 5050 Seçeneği",
-        "card_body": "Lenovo, RTX 5050 ve aynı diğer özelliklere sahip LOQ 15 konfigürasyonunu 999 dolara sunmaktadır."
+        "card_title": "Oyun Performansı",
+        "card_body": "Black Myth: Wukong ve Monster Hunter Wilds dahil test edilen her oyun, orta ayarda 60 kare/saniye hızın üzerinde oynanabilmektedir."
       }
     ]
   },
@@ -47,18 +48,18 @@
     "heading": "Sektör ve Kullanıcı Etkisi",
     "cards": [
       {
-        "card_title": "Üretici Tercihleri",
-        "card_body": "Üreticilerin üç yıldan eski ekran kartlarını yeni modellerde başlangıç konfigürasyonu olarak kullanması dikkat çekiyor."
+        "card_title": "Sektörel Yaklaşım",
+        "card_body": "Üreticilerin eski nesil grafik kartlarını başlangıç seviyesinde tutması, yeni nesil donanımlara geçiş süreçlerini etkilemektedir."
       },
       {
-        "card_title": "Fiyat Seçenekleri",
-        "card_body": "Kullanıcılar 999 dolar ve 1.300 dolar gibi farklı fiyat etiketleriyle yeni konfigürasyonlara ulaşabiliyor."
+        "card_title": "Kullanıcı Deneyimi",
+        "card_body": "Uygun fiyatlı modellerde sunulan güncel grafik kartları ve tatmin edici kare hızları, oyuncular için erişilebilirliği artırmaktadır."
       }
     ]
   },
   "cta": {
-    "question": "Yeni bir oyun dizüstü bilgisayarı alırken ekran kartı seçiminde bütçe mi yoksa yeni nesil teknolojiler mi sizin için daha öncelikli?",
-    "reminder_line": "Tekno Pusula ile en güncel teknolojilerden haberdar olun."
+    "question": "Sizce yeni bir oyun dizüstü bilgisayarı alırken eski nesil kartlar başlangıç için hâlâ yeterli mi?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
