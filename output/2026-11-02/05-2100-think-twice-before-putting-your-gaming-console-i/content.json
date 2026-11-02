@@ -1,0 +1,72 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ REHBERİ",
+    "title": "Oyun Konsolları Neden Havalandırma İster?",
+    "highlight_words": [
+      "Havalandırma"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Konsolunuzu kabinlere koyarken iki kez düşünün.",
+    "source_tags": [
+      "ENGADGET",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Konsol Yerleşimi Neden Önemli?",
+    "cards": [
+      {
+        "card_title": "Performans ve Ömür",
+        "card_body": "Oyun konsollarının kapalı kabinlere konulması performanslarını olumsuz etkileyebilir veya ömürlerini kısaltabilir."
+      },
+      {
+        "card_title": "Üretici Tavsiyeleri",
+        "card_body": "Sony, Microsoft ve Nintendo cihazların havadar alanlara yerleştirilmesi konusunda uyarıyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "220W",
+    "stat_caption": "Standart PlayStation 5 ve Xbox Series X oyun sırasında bu seviyeye kadar enerji tüketebilir.",
+    "stat_quote": "Yüksek enerji tüketimi, cihazların ciddi miktarda ısı üretmesine neden olur."
+  },
+  "details": {
+    "heading": "Üreticiler Ne Öneriyor?",
+    "cards": [
+      {
+        "card_title": "PlayStation 5",
+        "card_body": "Sony, PlayStation etrafında yaklaşık 4 inç yani yaklaşık 10 santimetre boşluk bırakılmasını önermektedir."
+      },
+      {
+        "card_title": "Xbox Series X",
+        "card_body": "Microsoft, Xbox için her tarafta 4 ila 6 inç yani 15 santimetreye kadar boşluk bırakılmasını önermektedir."
+      },
+      {
+        "card_title": "Nintendo Switch 2",
+        "card_body": "Nintendo, Switch 2'nin açık ve havadar bir alana yerleştirilmesini tavsiye etmektedir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Enerji ve Isı Dengesi",
+    "cards": [
+      {
+        "card_title": "Güç Tüketimi Farkları",
+        "card_body": "Panasonic UB820 Blu-ray oynatıcı en fazla 32W, NES konsolu ise 9W güç tüketmektedir."
+      },
+      {
+        "card_title": "Kullanıcı Deneyimi",
+        "card_body": "Modern konsolların yüksek güç tüketimi ve ısı üretimi, doğru havalandırmayı zorunlu kılmaktadır."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Oyun konsolunuzu evde nasıl konumlandırıyorsunuz?",
+    "reminder_line": "Tekno Pusula ile doğru teknolojiyi keşfedin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

@@ -1,0 +1,10 @@
+{
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 160.9,
+  "candidates_tried": 1,
+  "gemini_calls": 20,
+  "canonical_url": "https://www.engadget.com/2302571/think-twice-before-putting-gaming-console-inside-cabinet/",
+  "generated_at": "2026-11-02T21:25:42+03:00"
+}
