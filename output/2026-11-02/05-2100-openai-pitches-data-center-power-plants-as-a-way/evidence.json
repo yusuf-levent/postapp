@@ -1,0 +1,283 @@
+{
+  "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+  "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+  "source_names": [
+    "The Verge",
+    "OpenAI News",
+    "TechCrunch",
+    "Wired"
+  ],
+  "checked_at": "2026-11-02T21:04:47+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "OpenAI, Georgia eyaletinin Effingham İlçesindeki veri merkezinde Grid Protectors Programı'nı pilot olarak uygulayacağını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "In an announcement on Monday, OpenAI says it will pilot its “Grid Protectors Program” at an upcoming data center in Effingham County, Georgia"
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, aşırı hava koşullarında veya acil durumlarda yaklaşık 700.000 evin klimalarını çalıştıracak kadar, 1.000 megavata kadar gücü boşa çıkaracağını vaat ediyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes."
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "In an announcement on Monday, OpenAI says it will pilot its “Grid Protectors Program” at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes."
+        }
+      ]
+    },
+    {
+      "claim": "Utah'taki Box Elder İlçe komiserleri, 2025 yılındaki eyalet zirve elektrik talebinin iki katından fazlasını tüketmesi beklenen bir veri merkezini onayladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "In Utah, residents protested after Box Elder County commissioners signed off on a data center expected to consume more than double the state’s peak electricity demand in 2025"
+        }
+      ]
+    },
+    {
+      "claim": "Tennessee, Florida, Oklahoma ve Oregon dahil olmak üzere birkaç eyalet, yapay zeka şirketlerinin enerji maliyetlerini sakinlere yansıtmasını önleyecek yasalar çıkardı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "Several states like Tennessee, Florida, Oklahoma, Oregon, and others have enacted laws that say they will prevent AI companies from passing energy costs on to residents"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "Several states like Tennessee, Florida, Oklahoma, Oregon, and others have enacted laws that say they will prevent AI companies from passing energy costs on to residents, in addition to moratoriums and other restrictions."
+        }
+      ]
+    },
+    {
+      "claim": "Houston Advanced Research Center (HARC) tarafından yapılan son çalışma, önerilen Teksas veri merkezi projelerinin çalıştırılmasının beş yıl içinde on yılllık hava kalitesi kazanımlarını tersine çevirebileceğini belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "as a recent study by the Houston Advanced Research Center (HARC) said that powering proposed Texas data center projects could undo decades of air quality gains over just five years."
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "This is besides the environmental impacts, as a recent study by the Houston Advanced Research Center (HARC) said that powering proposed Texas data center projects could undo decades of air quality gains over just five years."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, ABD genelinde Stargate veri merkezlerini inşa etmek için Oracle ve SoftBank ile ortaklık kuruyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "Along with its data center in Georgia, OpenAI is also partnering with Oracle and SoftBank to build its “Stargate” data centers across the US"
+        }
+      ]
+    },
+    {
+      "claim": "Stargate veri merkezlerinin kurulacağı yerler arasında Teksas'taki Shackelford İlçesi, New Mexico'daki Doña Ana İlçesi ve Teksas'taki Milam İlçesi yer alıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "including in Shackelford County, Texas; Doña Ana County, New Mexico; and Milam County, Texas."
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "Along with its data center in Georgia, OpenAI is also partnering with Oracle and SoftBank to build its “Stargate” data centers across the US, including in Shackelford County, Texas; Doña Ana County, New Mexico; and Milam County, Texas."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "OpenAI, Georgia eyaletinin Effingham İlçesindeki veri merkezinde Grid Protectors Programı'nı pilot olarak uygulayacağını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "In an announcement on Monday, OpenAI says it will pilot its “Grid Protectors Program” at an upcoming data center in Effingham County, Georgia"
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, aşırı hava koşullarında veya acil durumlarda yaklaşık 700.000 evin klimalarını çalıştıracak kadar, 1.000 megavata kadar gücü boşa çıkaracağını vaat ediyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes."
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "In an announcement on Monday, OpenAI says it will pilot its “Grid Protectors Program” at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes."
+        }
+      ]
+    },
+    {
+      "claim": "Utah'taki Box Elder İlçe komiserleri, 2025 yılındaki eyalet zirve elektrik talebinin iki katından fazlasını tüketmesi beklenen bir veri merkezini onayladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "In Utah, residents protested after Box Elder County commissioners signed off on a data center expected to consume more than double the state’s peak electricity demand in 2025"
+        }
+      ]
+    },
+    {
+      "claim": "Tennessee, Florida, Oklahoma ve Oregon dahil olmak üzere birkaç eyalet, yapay zeka şirketlerinin enerji maliyetlerini sakinlere yansıtmasını önleyecek yasalar çıkardı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "Several states like Tennessee, Florida, Oklahoma, Oregon, and others have enacted laws that say they will prevent AI companies from passing energy costs on to residents"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "Several states like Tennessee, Florida, Oklahoma, Oregon, and others have enacted laws that say they will prevent AI companies from passing energy costs on to residents, in addition to moratoriums and other restrictions."
+        }
+      ]
+    },
+    {
+      "claim": "Houston Advanced Research Center (HARC) tarafından yapılan son çalışma, önerilen Teksas veri merkezi projelerinin çalıştırılmasının beş yıl içinde on yılllık hava kalitesi kazanımlarını tersine çevirebileceğini belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "as a recent study by the Houston Advanced Research Center (HARC) said that powering proposed Texas data center projects could undo decades of air quality gains over just five years."
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "This is besides the environmental impacts, as a recent study by the Houston Advanced Research Center (HARC) said that powering proposed Texas data center projects could undo decades of air quality gains over just five years."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, ABD genelinde Stargate veri merkezlerini inşa etmek için Oracle ve SoftBank ile ortaklık kuruyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "Along with its data center in Georgia, OpenAI is also partnering with Oracle and SoftBank to build its “Stargate” data centers across the US"
+        }
+      ]
+    },
+    {
+      "claim": "Stargate veri merkezlerinin kurulacağı yerler arasında Teksas'taki Shackelford İlçesi, New Mexico'daki Doña Ana İlçesi ve Teksas'taki Milam İlçesi yer alıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "including in Shackelford County, Texas; Doña Ana County, New Mexico; and Milam County, Texas."
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "Along with its data center in Georgia, OpenAI is also partnering with Oracle and SoftBank to build its “Stargate” data centers across the US, including in Shackelford County, Texas; Doña Ana County, New Mexico; and Milam County, Texas."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "OpenAI, Georgia eyaletinin Effingham İlçesindeki veri merkezinde Grid Protectors Programı'nı pilot olarak uygulayacağını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "In an announcement on Monday, OpenAI says it will pilot its “Grid Protectors Program” at an upcoming data center in Effingham County, Georgia"
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, aşırı hava koşullarında veya acil durumlarda yaklaşık 700.000 evin klimalarını çalıştıracak kadar, 1.000 megavata kadar gücü boşa çıkaracağını vaat ediyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes."
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "In an announcement on Monday, OpenAI says it will pilot its “Grid Protectors Program” at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes."
+        }
+      ]
+    },
+    {
+      "claim": "Utah'taki Box Elder İlçe komiserleri, 2025 yılındaki eyalet zirve elektrik talebinin iki katından fazlasını tüketmesi beklenen bir veri merkezini onayladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "In Utah, residents protested after Box Elder County commissioners signed off on a data center expected to consume more than double the state’s peak electricity demand in 2025"
+        }
+      ]
+    },
+    {
+      "claim": "Tennessee, Florida, Oklahoma ve Oregon dahil olmak üzere birkaç eyalet, yapay zeka şirketlerinin enerji maliyetlerini sakinlere yansıtmasını önleyecek yasalar çıkardı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "Several states like Tennessee, Florida, Oklahoma, Oregon, and others have enacted laws that say they will prevent AI companies from passing energy costs on to residents"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "Several states like Tennessee, Florida, Oklahoma, Oregon, and others have enacted laws that say they will prevent AI companies from passing energy costs on to residents, in addition to moratoriums and other restrictions."
+        }
+      ]
+    },
+    {
+      "claim": "Houston Advanced Research Center (HARC) tarafından yapılan son çalışma, önerilen Teksas veri merkezi projelerinin çalıştırılmasının beş yıl içinde on yılllık hava kalitesi kazanımlarını tersine çevirebileceğini belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "as a recent study by the Houston Advanced Research Center (HARC) said that powering proposed Texas data center projects could undo decades of air quality gains over just five years."
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "This is besides the environmental impacts, as a recent study by the Houston Advanced Research Center (HARC) said that powering proposed Texas data center projects could undo decades of air quality gains over just five years."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, ABD genelinde Stargate veri merkezlerini inşa etmek için Oracle ve SoftBank ile ortaklık kuruyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "Along with its data center in Georgia, OpenAI is also partnering with Oracle and SoftBank to build its “Stargate” data centers across the US"
+        }
+      ]
+    },
+    {
+      "claim": "Stargate veri merkezlerinin kurulacağı yerler arasında Teksas'taki Shackelford İlçesi, New Mexico'daki Doña Ana İlçesi ve Teksas'taki Milam İlçesi yer alıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "including in Shackelford County, Texas; Doña Ana County, New Mexico; and Milam County, Texas."
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "quote": "Along with its data center in Georgia, OpenAI is also partnering with Oracle and SoftBank to build its “Stargate” data centers across the US, including in Shackelford County, Texas; Doña Ana County, New Mexico; and Milam County, Texas."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program": 2629,
+    "https://openai.com/index/grid-protectors-program": 5811,
+    "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/": 1251,
+    "https://www.wired.com/story/my-journey-to-the-center-of-americas-political-spam-text-hell/": 8529
+  }
+}

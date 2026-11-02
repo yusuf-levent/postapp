@@ -1,0 +1,72 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE ENERJİ",
+    "title": "OpenAI Veri Merkezleri İçin Enerji Hamlesi",
+    "highlight_words": [
+      "Enerji Hamlesi"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Yapay zeka devinin enerji projeleri ve eyaletlerdeki yeni gelişmeler.",
+    "source_tags": [
+      "THE VERGE",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Grid Protectors Programı",
+    "cards": [
+      {
+        "card_title": "Georgia Pilot Projesi",
+        "card_body": "OpenAI, Georgia eyaletinin Effingham İlçesindeki veri merkezinde Grid Protectors Programı'nı pilot olarak uygulayacak."
+      },
+      {
+        "card_title": "Güç Tasarrufu Vaadi",
+        "card_body": "Aşırı hava koşullarında 700.000 evin klimalarını çalıştıracak kadar, 1.000 megavata kadar gücü boşa çıkaracağını vaat ediyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "1.000 MW",
+    "stat_caption": "Acil durumlarda boşa çıkarılacak güç miktarı.",
+    "stat_quote": "OpenAI, aşırı hava koşullarında yaklaşık 700.000 evin klimasını çalıştıracak gücü serbest bırakmayı vaat ediyor."
+  },
+  "details": {
+    "heading": "Yeni Projeler ve Eyaletler",
+    "cards": [
+      {
+        "card_title": "Utah Veri Merkezi",
+        "card_body": "Utah'taki Box Elder İlçe komiserleri, 2025 eyalet zirve elektrik talebinin iki katından fazlasını tüketmesi beklenen veri merkezini onayladı."
+      },
+      {
+        "card_title": "Stargate Ortaklığı",
+        "card_body": "OpenAI, ABD genelinde Stargate veri merkezlerini inşa etmek için Oracle ve SoftBank ile ortaklık kuruyor."
+      },
+      {
+        "card_title": "Stargate Lokasyonları",
+        "card_body": "Kurulacağı yerler arasında Teksas'taki Shackelford ve Milam ilçeleri ile New Mexico'daki Doña Ana İlçesi yer alıyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Çevresel ve Yasal Etkiler",
+    "cards": [
+      {
+        "card_title": "Maliyet Koruma Yasaları",
+        "card_body": "Tennessee, Florida, Oklahoma ve Oregon yapay zeka şirketlerinin enerji maliyetlerini sakinlere yansıtmasını önleyecek yasalar çıkardı."
+      },
+      {
+        "card_title": "Hava Kalitesi Riski",
+        "card_body": "HARC çalışmasına göre Teksas veri merkezi projeleri, beş yıl içinde on yılllık hava kalitesi kazanımlarını tersine çevirebilir."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Yapay zeka veri merkezlerinin artan enerji ihtiyacı sence yerel halkı nasıl etkileyecek?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kal!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
