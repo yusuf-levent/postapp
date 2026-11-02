@@ -1,0 +1,205 @@
+{
+  "title": "Why some websites are blocking AI agents from accessing the web",
+  "canonical_url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
+  "source_names": [
+    "Engadget",
+    "Ars Technica",
+    "The Verge",
+    "TechCrunch"
+  ],
+  "checked_at": "2026-11-02T22:07:24+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Amazon, rakip alışveriş ajanlarını engellemektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
+          "quote": "Amazon is blocking rival shopping agents, and even websites that welcome AI assistants can stop them with an ordinary CAPTCHA."
+        }
+      ]
+    },
+    {
+      "claim": "Meta'nın Muse adlı yapay zeka asistanı Walmart'ta CAPTCHA doğrulaması ile karşılaşmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
+          "quote": "That's the problem Meta's Muse has encountered at Walmart (one of its retail partners), which says the verification checks weren't intended to stop the assistant."
+        }
+      ]
+    },
+    {
+      "claim": "JPMorgan Chase CFO'su Jeremy Barnum, Ekim ayındaki kazanç çağrısında bazı ajanların fon transferi için ortak giriş bilgileri ve ekran kazıma kullandığını belirtmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
+          "quote": "During JPMorgan Chase's October earnings call, CFO Jeremy Barnum said some agents use shared login credentials and screen scraping to transfer funds, methods he described as \"not secure.\""
+        }
+      ]
+    },
+    {
+      "claim": "Federal bir temyiz mahkemesi, Ağustos 2026'da Perplexity aleyhindeki ön ihtiyati tedbir kararını kaldırmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
+          "quote": "A federal appeals court vacated a preliminary injunction against Perplexity in August 2026, although the underlying dispute remains unresolved."
+        }
+      ]
+    },
+    {
+      "claim": "eBay'in kullanıcı sözleşmesi, şirket izin vermediği sürece yetkisiz satın alma ajanlarını yasaklamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
+          "quote": "eBay's user agreement prohibits unauthorized buy-for-me agents unless the company grants permission."
+        }
+      ]
+    },
+    {
+      "claim": "Cloudflare, 15 Eylül'den itibaren yeni alan adlarında arama tarayıcılarına izin verirken reklam gösterilen sayfalarda yapay zeka eğitim botlarını ve ajanlarını varsayılan olarak engellemektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
+          "quote": "Since September 15, new domains using Cloudflare have defaulted to allowing search crawlers while blocking AI training bots and agents on pages displaying ads."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Amazon, rakip alışveriş ajanlarını engellemektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
+          "quote": "Amazon is blocking rival shopping agents, and even websites that welcome AI assistants can stop them with an ordinary CAPTCHA."
+        }
+      ]
+    },
+    {
+      "claim": "Meta'nın Muse adlı yapay zeka asistanı Walmart'ta CAPTCHA doğrulaması ile karşılaşmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
+          "quote": "That's the problem Meta's Muse has encountered at Walmart (one of its retail partners), which says the verification checks weren't intended to stop the assistant."
+        }
+      ]
+    },
+    {
+      "claim": "JPMorgan Chase CFO'su Jeremy Barnum, Ekim ayındaki kazanç çağrısında bazı ajanların fon transferi için ortak giriş bilgileri ve ekran kazıma kullandığını belirtmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
+          "quote": "During JPMorgan Chase's October earnings call, CFO Jeremy Barnum said some agents use shared login credentials and screen scraping to transfer funds, methods he described as \"not secure.\""
+        }
+      ]
+    },
+    {
+      "claim": "Federal bir temyiz mahkemesi, Ağustos 2026'da Perplexity aleyhindeki ön ihtiyati tedbir kararını kaldırmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
+          "quote": "A federal appeals court vacated a preliminary injunction against Perplexity in August 2026, although the underlying dispute remains unresolved."
+        }
+      ]
+    },
+    {
+      "claim": "eBay'in kullanıcı sözleşmesi, şirket izin vermediği sürece yetkisiz satın alma ajanlarını yasaklamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
+          "quote": "eBay's user agreement prohibits unauthorized buy-for-me agents unless the company grants permission."
+        }
+      ]
+    },
+    {
+      "claim": "Cloudflare, 15 Eylül'den itibaren yeni alan adlarında arama tarayıcılarına izin verirken reklam gösterilen sayfalarda yapay zeka eğitim botlarını ve ajanlarını varsayılan olarak engellemektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
+          "quote": "Since September 15, new domains using Cloudflare have defaulted to allowing search crawlers while blocking AI training bots and agents on pages displaying ads."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Amazon, rakip alışveriş ajanlarını engellemektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
+          "quote": "Amazon is blocking rival shopping agents, and even websites that welcome AI assistants can stop them with an ordinary CAPTCHA."
+        }
+      ]
+    },
+    {
+      "claim": "Meta'nın Muse adlı yapay zeka asistanı Walmart'ta CAPTCHA doğrulaması ile karşılaşmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
+          "quote": "That's the problem Meta's Muse has encountered at Walmart (one of its retail partners), which says the verification checks weren't intended to stop the assistant."
+        }
+      ]
+    },
+    {
+      "claim": "JPMorgan Chase CFO'su Jeremy Barnum, Ekim ayındaki kazanç çağrısında bazı ajanların fon transferi için ortak giriş bilgileri ve ekran kazıma kullandığını belirtmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
+          "quote": "During JPMorgan Chase's October earnings call, CFO Jeremy Barnum said some agents use shared login credentials and screen scraping to transfer funds, methods he described as \"not secure.\""
+        }
+      ]
+    },
+    {
+      "claim": "Federal bir temyiz mahkemesi, Ağustos 2026'da Perplexity aleyhindeki ön ihtiyati tedbir kararını kaldırmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
+          "quote": "A federal appeals court vacated a preliminary injunction against Perplexity in August 2026, although the underlying dispute remains unresolved."
+        }
+      ]
+    },
+    {
+      "claim": "eBay'in kullanıcı sözleşmesi, şirket izin vermediği sürece yetkisiz satın alma ajanlarını yasaklamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
+          "quote": "eBay's user agreement prohibits unauthorized buy-for-me agents unless the company grants permission."
+        }
+      ]
+    },
+    {
+      "claim": "Cloudflare, 15 Eylül'den itibaren yeni alan adlarında arama tarayıcılarına izin verirken reklam gösterilen sayfalarda yapay zeka eğitim botlarını ve ajanlarını varsayılan olarak engellemektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
+          "quote": "Since September 15, new domains using Cloudflare have defaulted to allowing search crawlers while blocking AI training bots and agents on pages displaying ads."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/": 4127,
+    "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/": 1827,
+    "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times": 3075,
+    "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/": 4114
+  }
+}

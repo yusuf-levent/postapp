@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE GÜVENLİK",
+    "title": "Yapay zeka ajanları engellerle karşılaşıyor",
+    "highlight_words": [
+      "ajanları",
+      "engellerle"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Dijital dünyada yapay zeka ajanlarının karşılaştığı yeni engeller ve kısıtlamalar.",
+    "source_tags": [
+      "THE VERGE",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Ajanların Yükselişi ve Engeller",
+    "cards": [
+      {
+        "card_title": "Alışveriş Ajanları",
+        "card_body": "Amazon, rakip alışveriş ajanlarını aktif olarak engellemektedir."
+      },
+      {
+        "card_title": "CAPTCHA Engeli",
+        "card_body": "Meta'nın Muse adlı yapay zeka asistanı Walmart'ta CAPTCHA doğrulaması ile karşılaşmıştır."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "2026",
+    "stat_caption": "Federal mahkeme kararıyla ilgili önemli tarih.",
+    "stat_quote": "Ağustos 2026'da federal bir temyiz mahkemesi Perplexity aleyhindeki ön ihtiyati tedbir kararını kaldırmıştır."
+  },
+  "details": {
+    "heading": "Şirket Politikaları",
+    "cards": [
+      {
+        "card_title": "eBay Kısıtlamaları",
+        "card_body": "eBay'in kullanıcı sözleşmesi, şirket izin vermediği sürece yetkisiz satın alma ajanlarını yasaklamaktadır."
+      },
+      {
+        "card_title": "Finansal Güvenlik",
+        "card_body": "JPMorgan Chase CFO'su Jeremy Barnum, bazı ajanların fon transferi için ortak giriş bilgileri ve ekran kazıma kullandığını belirtmiştir."
+      },
+      {
+        "card_title": "Cloudflare Ayarları",
+        "card_body": "Cloudflare, yeni alan adlarında arama tarayıcılarına izin verirken reklam gösterilen sayfalarda yapay zeka eğitim botlarını ve ajanlarını varsayılan olarak engellemektedir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektör ve Kullanıcı Etkisi",
+    "cards": [
+      {
+        "card_title": "Sektörel Tepkiler",
+        "card_body": "Büyük platformlar yapay zeka ajanlarının izinsiz erişimini sınırlandırmak için katı kurallar getirmektedir."
+      },
+      {
+        "card_title": "Kullanıcı Güvenliği",
+        "card_body": "Fon transferi ve alışveriş süreçlerinde kullanılan ajanlar güvenlik ve doğrulama testleriyle denetlenmektedir."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce yapay zeka ajanları gelecekte alışveriş ve finans işlemlerimizin merkezinde mi olacak?",
+    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
