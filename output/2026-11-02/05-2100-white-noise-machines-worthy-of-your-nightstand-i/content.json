@@ -1,69 +1,65 @@
 {
   "cover": {
-    "category_label": "TEKNOLOJİ VE SAĞLIK",
-    "title": "Çocuklar İçin Ses Makinelerinde Güvenlik",
+    "category_label": "TEKNOLOJİ VE GÜNDEM",
+    "title": "Yapay Zeka ve Siber Tehditler Hakkında Son Gelişmeler",
     "highlight_words": [
-      "Güvenlik",
-      "Ses Makineleri"
+      "Yapay Zeka",
+      "Siber Tehditler"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Beyaz gürültü makineleri için doğru kullanım kriterleri açıklandı.",
+    "subtitle": "Teknoloji dünyasından doğrulanmış en son haberler ve analizler.",
     "source_tags": [
       "WIRED",
-      "ENGADGET"
+      "ARS TECHNICA"
     ]
   },
   "context": {
-    "heading": "Ses Makinelerinin Kullanımı",
+    "heading": "Gündemdeki Önemli Gelişmeler",
     "cards": [
       {
-        "card_title": "Mesafe Kriteri",
-        "card_body": "Bebeğin uyuduğu yerden ses makinesinin uzaklığı önemli bir detay olarak öne çıkıyor."
+        "card_title": "Bağış Mesajları",
+        "card_body": "Yazar, başkası için gönderilen yaklaşık 2.000 kampanya bağış metin mesajı aldığını belirtmektedir."
       },
       {
-        "card_title": "Cihaz Boyutları",
-        "card_body": "Piyasada yer alan farklı modellerin fiziksel boyutları değişiklik gösteriyor."
+        "card_title": "Gizli Grup Desteği",
+        "card_body": "The Capytistas adlı gizli grup, 1.2 milyon dolardan fazla destek aldığını iddia etmektedir."
       }
     ]
   },
   "stat": {
-    "big_stat": "50 DB",
-    "stat_caption": "Çocuklar için ses makinelerinin maksimum ses seviyesi sınırı.",
-    "stat_quote": "Ses seviyesi 50 desibelden fazla olmamalıdır."
+    "big_stat": "2.000",
+    "stat_caption": "Alınan kampanya bağış metin mesajı sayısı.",
+    "stat_quote": "Yazar, başkası için gönderilen yaklaşık 2.000 kampanya bağış metin mesajı aldığını belirtmektedir."
   },
   "details": {
-    "heading": "Model Ölçüleri",
+    "heading": "Kötü Amaçlı Yazılımlar ve Uygulamalar",
     "cards": [
       {
-        "card_title": "Snooz ve Uykuyu Takip Eden Model",
-        "card_body": "Snooz gri ve siyah renk seçenekleriyle gelirken, uykuyu takip eden model farklı ölçülere sahip."
+        "card_title": "Volta-Autodoxer",
+        "card_body": "Yakın zamanda ortaya çıkarılan bu kötü amaçlı yazılım, yapay araçlarını kullanarak kurbanlar hakkında oturum açma bilgileri, kredi kartı numaraları, Discord oturumları ve UberEats fişleri gibi verileri toplar."
       },
       {
-        "card_title": "Hatch 3 ve Diğer Tasarımlar",
-        "card_body": "Hatch 3 ve diğer çocuk odaklı cihazlar farklı boyut alternatifleri sunuyor."
-      },
-      {
-        "card_title": "Restnature ve Taşınabilir Cihazlar",
-        "card_body": "Taşınabilir ses makineleri ve Restnature modeli kompakt boyutlarıyla dikkat çekiyor."
+        "card_title": "Death Clock",
+        "card_body": "Death Clock, kullanıcıların ne zaman öleceğini tahmin etmeyi ve dünyadaki ömürlerini uzatmayı vadeder."
       }
     ]
   },
   "impact": {
-    "heading": "Kullanım ve Güvenlik Etkisi",
+    "heading": "Doğa ve Ekosistem Üzerindeki Etkiler",
     "cards": [
       {
-        "card_title": "Ebeveyn Bilinci",
-        "card_body": "Doğru mesafe ve ses seviyesi seçimi çocuk sağlığı açısından büyük önem taşıyor."
+        "card_title": "Bilinmeyen Türler",
+        "card_body": "Dünya, Kasım 2022'de yayımlanan bir makaleye göre bilinmeyen türlerle doludur."
       },
       {
-        "card_title": "Cihaz Çeşitliliği",
-        "card_body": "Farklı boyutlardaki cihazlar kullanıcılara alternatifler sunuyor."
+        "card_title": "Hızlı Yok Oluş",
+        "card_body": "Bu türler her zamankinden daha hızlı yok olmaktadır."
       }
     ]
   },
   "cta": {
-    "question": "Çocuğunuzun uyku ortamında ses makinelerini kullanıyor musunuz?",
-    "reminder_line": "Teknoloji ve yaşam trendleri için Tekno Pusula'yı takipte kalın."
+    "question": "Sizce bu tür siber tehditlere karşı bireysel olarak nasıl önlemler almalıyız?",
+    "reminder_line": "Tekno Pusula ile güncel kalmaya devam edin."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

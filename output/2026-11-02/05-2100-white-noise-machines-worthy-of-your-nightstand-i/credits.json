@@ -1,19 +1,26 @@
 {
   "images": [
     {
-      "source": "ogimage",
-      "url": "https://media.wired.com/photos/6ae7c5f55d95fb1734aa8438/191:100/w_1280,c_limit/White%20noise%20machines%20112026%20top%20art%20SOURCE%20Amazon.jpg",
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/18071794/pexels-photo-18071794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "local_path": "/home/runner/work/postapp/postapp/output/2026-11-02/05-2100-white-noise-machines-worthy-of-your-nightstand-i/images/img-1.png",
-      "license": "Kaynak makale görseli",
-      "author": "",
-      "credit_url": "https://www.wired.com/story/best-white-noise-machines/",
-      "width": 1146,
-      "height": 600,
-      "alt_text": ""
+      "license": "Pexels License — Jaycee300s",
+      "author": "Jaycee300s",
+      "credit_url": "https://www.pexels.com/photo/furniture-in-bedroom-18071794/",
+      "width": 1161,
+      "height": 1300,
+      "alt_text": "Stylish and modern bedroom featuring a minimalist nightstand with a decorative lamp."
     }
   ],
   "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir.",
   "music": [
+    {
+      "title": "Torley Wong - The Final Selection ::: 230 diverse MP3s",
+      "artist": "Torley Wong",
+      "license": "Creative Commons (ticari kullanıma uygun)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/us/",
+      "source_url": "https://archive.org/details/Torley_Wong_-_The_Final_Selection"
+    },
     {
       "title": "Torley Wong - The Final Selection ::: 230 diverse MP3s",
       "artist": "Torley Wong",

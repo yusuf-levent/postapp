@@ -1,62 +1,44 @@
 # Doğrulama Raporu
 
 **Haber:** White Noise Machines Worthy of Your Nightstand in 2026: Snooz, Hatch, and More
-**Canonical URL:** https://www.wired.com/story/best-white-noise-machines/
-**Kaynaklar:** Wired, Engadget, Google Blog
-**Kontrol zamanı:** 2026-11-02T21:43:04+03:00
+**Canonical URL:** https://www.wired.com/
+**Kaynaklar:** Wired, Ars Technica, Engadget, Google Blog
+**Kontrol zamanı:** 2026-11-02T21:58:14+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
 
 ## İddia Bazlı Sonuçlar
 
-### 1. Çocuklar için ses makinelerinin ses seviyesi 50 desibelden fazla olmamalı ve bebeğin uyuduğu yerden 200 santimetreden daha uzakta tutulmalıdır.
+### 1. Yazar, başkası için gönderilen yaklaşık 2.000 kampanya bağış metin mesajı aldığını belirtmektedir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
-  - [https://www.wired.com/story/best-white-noise-machines/](https://www.wired.com/story/best-white-noise-machines/)
-    > Note: If you're buying for a child, keep sound machines to no more than 50 decibels and farther than 200 centimeters (6.5 feet) from where your baby sleeps.
+  - [https://www.wired.com/](https://www.wired.com/)
+    > I’ve gotten nearly 2,000 campaign fundraising texts that were meant for someone else.
 
-### 2. Snooz beyaz gürültü makinesinin boyutları 5.6 x 5.6 x 3.2 inçtir ve gri ile siyah renk seçenekleri bulunmaktadır.
+### 2. The Capytistas adlı gizli grup, 1.2 milyon dolardan fazla destek aldığını iddia etmektedir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
-  - [https://www.wired.com/story/best-white-noise-machines/](https://www.wired.com/story/best-white-noise-machines/)
-    > Size | 5.6 x 5.6 x 3.2 inches
-  - [https://www.wired.com/story/best-white-noise-machines/](https://www.wired.com/story/best-white-noise-machines/)
-    > Colors | Gray, black
+  - [https://www.wired.com/](https://www.wired.com/)
+    > The Capytistas, a secretive group claiming more than $1.2 million in backing, started with Elon Musk and Tesla’s board.
 
-### 3. Uykuyu takip eden beyaz gürültü makinesinin boyutları 3 x 1.5 x 5.69 inçtir.
+### 3. Volta-Autodoxer adı verilen ve yakın zamanda ortaya çıkarılan kötü amaçlı yazılım, yapay araçlarını kullanarak kurbanlar hakkında oturum açma bilgileri, kredi kartı numaraları, Discord oturumları ve UberEats fişleri gibi verileri toplar.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
-  - [https://www.wired.com/story/best-white-noise-machines/](https://www.wired.com/story/best-white-noise-machines/)
-    > Size | 3 x 1.5 x 5.69 inches
+  - [https://www.wired.com/](https://www.wired.com/)
+    > Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.
 
-### 4. Hatch 3 modelinin boyutları 7.24 x 2.43 x 5.31 inçtir.
+### 4. Death Clock, kullanıcıların ne zaman öleceğini tahmin etmeyi ve dünyadaki ömürlerini uzatmayı vadeder.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
-  - [https://www.wired.com/story/best-white-noise-machines/](https://www.wired.com/story/best-white-noise-machines/)
-    > Size | 7.24 x 2.43 x 5.31 inches
+  - [https://www.wired.com/](https://www.wired.com/)
+    > Death Clock promises to predict when you’re going to die and help you extend your time on Earth.
 
-### 5. Çocuklar için tasarlanan beyaz gürültü makinesinin boyutları 4.2 x 4.2 x 6.61 inçtir.
+### 5. Dünya, Kasım 2022'de yayımlanan bir makaleye göre bilinmeyen türlerle doludur ve bunlar her zamankinden daha hızlı yok olmaktadır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
-  - [https://www.wired.com/story/best-white-noise-machines/](https://www.wired.com/story/best-white-noise-machines/)
-    > Size | 4.2 x 4.2 x 6.61 inches
-
-### 6. Bebekler için taşınabilir ses makinesinin boyutları 4.41 x 4.41 x 3.5 inçtir.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://www.wired.com/story/best-white-noise-machines/](https://www.wired.com/story/best-white-noise-machines/)
-    > Size | 4.41 x 4.41 x 3.5 inches
-
-### 7. Restnature ses makinesinin boyutları 1.8 x 1.8 x 1.9 inçtir.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://www.wired.com/story/best-white-noise-machines/](https://www.wired.com/story/best-white-noise-machines/)
-    > Size | 1.8 x 1.8 x 1.9 inches
-
-### 8. Bahsi geçen klasik beyaz gürültü makinesinin fiyatı 25 dolardır.
-- **Karar:** ⚠️ `not_found`
-- **Kanıt:** yok
+  - [https://www.wired.com/](https://www.wired.com/)
+    > Originally published November 2022: Earth is teeming with unknown species, and they’re dying off faster than ever.
 
 ---
 
@@ -64,17 +46,15 @@
 
 | İddia | 1. Tur | 2. Tur | Nihai |
 |-------|--------|--------|-------|
-| Çocuklar için ses makinelerinin ses seviyesi 50 desibelden f | supported | supported | supported |
-| Snooz beyaz gürültü makinesinin boyutları 5.6 x 5.6 x 3.2 in | supported | supported | supported |
-| Uykuyu takip eden beyaz gürültü makinesinin boyutları 3 x 1. | supported | supported | supported |
-| Hatch 3 modelinin boyutları 7.24 x 2.43 x 5.31 inçtir. | supported | supported | supported |
-| Çocuklar için tasarlanan beyaz gürültü makinesinin boyutları | supported | supported | supported |
-| Bebekler için taşınabilir ses makinesinin boyutları 4.41 x 4 | supported | supported | supported |
-| Restnature ses makinesinin boyutları 1.8 x 1.8 x 1.9 inçtir. | supported | supported | supported |
-| Bahsi geçen klasik beyaz gürültü makinesinin fiyatı 25 dolar | not_found | not_found | not_found |
+| Yazar, başkası için gönderilen yaklaşık 2.000 kampanya bağış | supported | supported | supported |
+| The Capytistas adlı gizli grup, 1.2 milyon dolardan fazla de | supported | supported | supported |
+| Volta-Autodoxer adı verilen ve yakın zamanda ortaya çıkarıla | supported | supported | supported |
+| Death Clock, kullanıcıların ne zaman öleceğini tahmin etmeyi | supported | supported | supported |
+| Dünya, Kasım 2022'de yayımlanan bir makaleye göre bilinmeyen | supported | supported | supported |
 
 ## Kaynak Metinleri
 
-- `sources/source-1.txt` — https://www.wired.com/story/best-white-noise-machines/
-- `sources/source-2.txt` — https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/
-- `sources/source-3.txt` — https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/
+- `sources/source-1.txt` — https://www.wired.com/
+- `sources/source-2.txt` — https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/
+- `sources/source-3.txt` — https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/
+- `sources/source-4.txt` — https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/
