@@ -3549,5 +3549,80 @@
     ],
     "created_at": "2026-11-02T10:50:28+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-11-02-1200",
+    "date": "2026-11-02",
+    "slot": "12:00",
+    "type": "news",
+    "title_tr": "Yapay Zeka Ajanları İçin Yeni Dönem Başlıyor",
+    "original_title": "The agentic web is here",
+    "source_urls": [
+      "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/"
+    ],
+    "canonical_url": "https://technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here",
+    "entities": [
+      "Tim Berners-Lee",
+      "Meta",
+      "Muse",
+      "OpenAI",
+      "Dots",
+      "Anthropic",
+      "Claude Duet"
+    ],
+    "event_type": "product_launch",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae85ed3796ca84be0cc9377",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae85eea55a230dd71a30ec0",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae85f01c100ba337af173af",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2117194885631557779",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18027508055871418",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfPCrgxEZ4o",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae85f27bc7258b27b3d2624",
+        "permalink": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7522960822768361473",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae85f424a24ce7f3633be1a",
+        "permalink": "https://facebook.com/1351036918092059_122120452437484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-11-02T13:00:54+03:00",
+    "verified_claims_count": 5
   }
 ]
