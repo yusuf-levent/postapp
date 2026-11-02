@@ -1,0 +1,10 @@
+{
+  "slot": "15:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 69.7,
+  "candidates_tried": 1,
+  "gemini_calls": 11,
+  "canonical_url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+  "generated_at": "2026-11-02T14:42:50+03:00"
+}

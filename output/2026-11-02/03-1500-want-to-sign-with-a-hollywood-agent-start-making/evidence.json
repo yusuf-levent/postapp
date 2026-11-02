@@ -1,0 +1,313 @@
+{
+  "title": "Want to Sign With a Hollywood Agent? Start Making Fun of AI",
+  "canonical_url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+  "source_names": [
+    "Wired",
+    "Engadget",
+    "TechCrunch",
+    "Ars Technica"
+  ],
+  "checked_at": "2026-11-02T14:42:12+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Graham Raabe is a sales team manager in the fintech space and a comedian who trolls and satirizes AI.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "Actually, in addition to his job as manager of a sales team in the fintech space, he is among a crop of comedians who have recently blown up online—and secured talent representation—by figuring out inventive ways to troll and satirize AI."
+        },
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "in addition to his job as manager of a sales team in the fintech space, he is among a crop of comedians who have recently blown up online—and secured talent representation—by figuring out inventive ways to troll and satirize AI."
+        }
+      ]
+    },
+    {
+      "claim": "Raabe's Instagram audience doubled from around 50,000 to more than 100,000 followers over the past two months.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "one that has doubled his Instagram audience from around 50,000 to more than 100,000 followers over the past two months."
+        }
+      ]
+    },
+    {
+      "claim": "Raabe trained in improv and sketch at the Upright Citizens Brigade theater and started experimenting with office humor videos on Instagram and TikTok in May of this year.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "and trained in improv and sketch at the renowned Upright Citizens Brigade theater. It wasn’t until May of this year, he says, that he started experimenting with office humor videos on Instagram and TikTok."
+        },
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "trained in improv and sketch at the renowned Upright Citizens Brigade theater. It wasn’t until May of this year, he says, that he started experimenting with office humor videos on Instagram and TikTok."
+        }
+      ]
+    },
+    {
+      "claim": "Raabe launched a popular series called How to Fail Your AI Interview using interview agents from the AI research lab Tavus.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "he launched a popular series called “How to Fail Your AI Interview,” in which he derails calls with the avatars with digressive tactics—claiming to have known the bot in college, for example, or insisting on “icebreakers” before the interview begins."
+        },
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "he was aware of the trend and saw potential in the interview agents from the AI research lab Tavus."
+        }
+      ]
+    },
+    {
+      "claim": "Raabe gained representation at Dulcedo Management, a talent agency with clients throughout North America.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "he gained representation at Dulcedo Management, a talent agency with clients throughout North America, including influencers, models, athletes, and creators."
+        }
+      ]
+    },
+    {
+      "claim": "Matt Husk has earned some 2 million followers combined across Instagram, TikTok, and YouTube and signed a deal with the talent agency Unicorn.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "Husk’s content has earned him some 2 million followers combined across Instagram, TikTok, and YouTube, as well as a deal with the talent agency Unicorn"
+        }
+      ]
+    },
+    {
+      "claim": "In April, OpenAI CEO Sam Altman reacted on the Mostly Human podcast to a Husk video in which ChatGPT incorrectly measured a few seconds as lasting around 10 minutes.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "In April, on the tech podcast Mostly Human, OpenAI CEO Sam Altman was prompted to react to a Husk video in which he used ChatGPT as a stopwatch and found that it measured a span of a few seconds as lasting “around 10 minutes.”"
+        }
+      ]
+    },
+    {
+      "claim": "Sam Wassef has more than 860,000 followers as ahh.gpt on Instagram and is signed with talent managers Mikayla Haycock and Adam Loria at Night Media.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "Sam Wassef, who has more than 860,000 followers as @ahh.gpt on Instagram"
+        },
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "Wassef is signed with talent managers Mikayla Haycock and Adam Loria at Night Media"
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Graham Raabe is a sales team manager in the fintech space and a comedian who trolls and satirizes AI.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "Actually, in addition to his job as manager of a sales team in the fintech space, he is among a crop of comedians who have recently blown up online—and secured talent representation—by figuring out inventive ways to troll and satirize AI."
+        },
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "in addition to his job as manager of a sales team in the fintech space, he is among a crop of comedians who have recently blown up online—and secured talent representation—by figuring out inventive ways to troll and satirize AI."
+        }
+      ]
+    },
+    {
+      "claim": "Raabe's Instagram audience doubled from around 50,000 to more than 100,000 followers over the past two months.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "one that has doubled his Instagram audience from around 50,000 to more than 100,000 followers over the past two months."
+        }
+      ]
+    },
+    {
+      "claim": "Raabe trained in improv and sketch at the Upright Citizens Brigade theater and started experimenting with office humor videos on Instagram and TikTok in May of this year.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "and trained in improv and sketch at the renowned Upright Citizens Brigade theater. It wasn’t until May of this year, he says, that he started experimenting with office humor videos on Instagram and TikTok."
+        },
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "trained in improv and sketch at the renowned Upright Citizens Brigade theater. It wasn’t until May of this year, he says, that he started experimenting with office humor videos on Instagram and TikTok."
+        }
+      ]
+    },
+    {
+      "claim": "Raabe launched a popular series called How to Fail Your AI Interview using interview agents from the AI research lab Tavus.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "he launched a popular series called “How to Fail Your AI Interview,” in which he derails calls with the avatars with digressive tactics—claiming to have known the bot in college, for example, or insisting on “icebreakers” before the interview begins."
+        },
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "he was aware of the trend and saw potential in the interview agents from the AI research lab Tavus."
+        }
+      ]
+    },
+    {
+      "claim": "Raabe gained representation at Dulcedo Management, a talent agency with clients throughout North America.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "he gained representation at Dulcedo Management, a talent agency with clients throughout North America, including influencers, models, athletes, and creators."
+        }
+      ]
+    },
+    {
+      "claim": "Matt Husk has earned some 2 million followers combined across Instagram, TikTok, and YouTube and signed a deal with the talent agency Unicorn.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "Husk’s content has earned him some 2 million followers combined across Instagram, TikTok, and YouTube, as well as a deal with the talent agency Unicorn"
+        }
+      ]
+    },
+    {
+      "claim": "In April, OpenAI CEO Sam Altman reacted on the Mostly Human podcast to a Husk video in which ChatGPT incorrectly measured a few seconds as lasting around 10 minutes.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "In April, on the tech podcast Mostly Human, OpenAI CEO Sam Altman was prompted to react to a Husk video in which he used ChatGPT as a stopwatch and found that it measured a span of a few seconds as lasting “around 10 minutes.”"
+        }
+      ]
+    },
+    {
+      "claim": "Sam Wassef has more than 860,000 followers as ahh.gpt on Instagram and is signed with talent managers Mikayla Haycock and Adam Loria at Night Media.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "Sam Wassef, who has more than 860,000 followers as @ahh.gpt on Instagram"
+        },
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "Wassef is signed with talent managers Mikayla Haycock and Adam Loria at Night Media"
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Graham Raabe is a sales team manager in the fintech space and a comedian who trolls and satirizes AI.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "Actually, in addition to his job as manager of a sales team in the fintech space, he is among a crop of comedians who have recently blown up online—and secured talent representation—by figuring out inventive ways to troll and satirize AI."
+        },
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "in addition to his job as manager of a sales team in the fintech space, he is among a crop of comedians who have recently blown up online—and secured talent representation—by figuring out inventive ways to troll and satirize AI."
+        }
+      ]
+    },
+    {
+      "claim": "Raabe's Instagram audience doubled from around 50,000 to more than 100,000 followers over the past two months.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "one that has doubled his Instagram audience from around 50,000 to more than 100,000 followers over the past two months."
+        }
+      ]
+    },
+    {
+      "claim": "Raabe trained in improv and sketch at the Upright Citizens Brigade theater and started experimenting with office humor videos on Instagram and TikTok in May of this year.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "and trained in improv and sketch at the renowned Upright Citizens Brigade theater. It wasn’t until May of this year, he says, that he started experimenting with office humor videos on Instagram and TikTok."
+        },
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "trained in improv and sketch at the renowned Upright Citizens Brigade theater. It wasn’t until May of this year, he says, that he started experimenting with office humor videos on Instagram and TikTok."
+        }
+      ]
+    },
+    {
+      "claim": "Raabe launched a popular series called How to Fail Your AI Interview using interview agents from the AI research lab Tavus.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "he launched a popular series called “How to Fail Your AI Interview,” in which he derails calls with the avatars with digressive tactics—claiming to have known the bot in college, for example, or insisting on “icebreakers” before the interview begins."
+        },
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "he was aware of the trend and saw potential in the interview agents from the AI research lab Tavus."
+        }
+      ]
+    },
+    {
+      "claim": "Raabe gained representation at Dulcedo Management, a talent agency with clients throughout North America.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "he gained representation at Dulcedo Management, a talent agency with clients throughout North America, including influencers, models, athletes, and creators."
+        }
+      ]
+    },
+    {
+      "claim": "Matt Husk has earned some 2 million followers combined across Instagram, TikTok, and YouTube and signed a deal with the talent agency Unicorn.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "Husk’s content has earned him some 2 million followers combined across Instagram, TikTok, and YouTube, as well as a deal with the talent agency Unicorn"
+        }
+      ]
+    },
+    {
+      "claim": "In April, OpenAI CEO Sam Altman reacted on the Mostly Human podcast to a Husk video in which ChatGPT incorrectly measured a few seconds as lasting around 10 minutes.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "In April, on the tech podcast Mostly Human, OpenAI CEO Sam Altman was prompted to react to a Husk video in which he used ChatGPT as a stopwatch and found that it measured a span of a few seconds as lasting “around 10 minutes.”"
+        }
+      ]
+    },
+    {
+      "claim": "Sam Wassef has more than 860,000 followers as ahh.gpt on Instagram and is signed with talent managers Mikayla Haycock and Adam Loria at Night Media.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "Sam Wassef, who has more than 860,000 followers as @ahh.gpt on Instagram"
+        },
+        {
+          "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+          "quote": "Wassef is signed with talent managers Mikayla Haycock and Adam Loria at Night Media"
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.wired.com/story/comedians-making-fun-of-ai/": 8603,
+    "https://www.engadget.com/2300335/how-to-add-rearrange-apps-samsung-smart-tv/": 2684,
+    "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/": 1159,
+    "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/": 9519
+  }
+}
