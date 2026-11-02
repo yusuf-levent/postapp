@@ -1,0 +1,298 @@
+{
+  "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+  "canonical_url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+  "source_names": [
+    "BBC News – Technology",
+    "Engadget",
+    "TechCrunch",
+    "Ars Technica"
+  ],
+  "checked_at": "2026-11-02T21:37:19+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Supermarkets across Europe have been hit by a suspected cyber-attack affecting their fridges and freezers.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "Supermarkets across Europe have been hit by a suspected cyber-attack affecting their fridges and freezers"
+        }
+      ]
+    },
+    {
+      "claim": "In 2015, researchers demonstrated how a vulnerability in a Samsung smart fridge could allow them to intercept internet traffic.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "In 2015, researchers demonstrated how a vulnerability in a Samsung smart fridge could allow them to intercept internet traffic."
+        }
+      ]
+    },
+    {
+      "claim": "Since April 2024, UK law has required manufacturers of certain consumer smart devices to meet minimum cyber security standards.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "Since April 2024, UK law has required manufacturers of certain consumer smart devices to meet minimum cyber security standards"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "Since April 2024, UK law has required manufacturers of certain consumer smart devices to meet minimum cyber security standards, including requirements around passwords and security updates."
+        }
+      ]
+    },
+    {
+      "claim": "Researchers from UK Cyber Defence have identified more than 800 refrigeration and building-control interfaces associated with British retailers that can be accessed over the public internet.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "researchers from UK Cyber Defence have identified more than 800 refrigeration and building-control interfaces associated with British retailers that can be accessed over the public internet."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "However, researchers from UK Cyber Defence have identified more than 800 refrigeration and building-control interfaces associated with British retailers that can be accessed over the public internet."
+        }
+      ]
+    },
+    {
+      "claim": "UK supermarkets M&S and the Co-op were targeted by ransomware hackers in May 2025.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "When UK supermarkets M&S and the Co-op were targeted by ransomware hackers in May 2025"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "When UK supermarkets M&S and the Co-op were targeted by ransomware hackers in May 2025, the retailers struggled to stock some shop shelves with fresh deliveries."
+        }
+      ]
+    },
+    {
+      "claim": "In 2015, researchers remotely hacked a Jeep through its internet-connected entertainment system.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "Ken Munro pointed to a 2015 demonstration in which researchers remotely hacked a Jeep through its internet-connected entertainment system"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "Cyber security expert Ken Munro pointed to a 2015 demonstration in which researchers remotely hacked a Jeep through its internet-connected entertainment system, prompting improvements in vehicle security."
+        }
+      ]
+    },
+    {
+      "claim": "Shop freezers in seven European countries were hit by a cyber-attack.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Binance users withdrew $3.6bn after the largest-ever crypto hack.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "Binance users withdraw $3.6bn after largest-ever crypto hack"
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Supermarkets across Europe have been hit by a suspected cyber-attack affecting their fridges and freezers.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "Supermarkets across Europe have been hit by a suspected cyber-attack affecting their fridges and freezers"
+        }
+      ]
+    },
+    {
+      "claim": "In 2015, researchers demonstrated how a vulnerability in a Samsung smart fridge could allow them to intercept internet traffic.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "In 2015, researchers demonstrated how a vulnerability in a Samsung smart fridge could allow them to intercept internet traffic."
+        }
+      ]
+    },
+    {
+      "claim": "Since April 2024, UK law has required manufacturers of certain consumer smart devices to meet minimum cyber security standards.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "Since April 2024, UK law has required manufacturers of certain consumer smart devices to meet minimum cyber security standards"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "Since April 2024, UK law has required manufacturers of certain consumer smart devices to meet minimum cyber security standards, including requirements around passwords and security updates."
+        }
+      ]
+    },
+    {
+      "claim": "Researchers from UK Cyber Defence have identified more than 800 refrigeration and building-control interfaces associated with British retailers that can be accessed over the public internet.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "researchers from UK Cyber Defence have identified more than 800 refrigeration and building-control interfaces associated with British retailers that can be accessed over the public internet."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "However, researchers from UK Cyber Defence have identified more than 800 refrigeration and building-control interfaces associated with British retailers that can be accessed over the public internet."
+        }
+      ]
+    },
+    {
+      "claim": "UK supermarkets M&S and the Co-op were targeted by ransomware hackers in May 2025.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "When UK supermarkets M&S and the Co-op were targeted by ransomware hackers in May 2025"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "When UK supermarkets M&S and the Co-op were targeted by ransomware hackers in May 2025, the retailers struggled to stock some shop shelves with fresh deliveries."
+        }
+      ]
+    },
+    {
+      "claim": "In 2015, researchers remotely hacked a Jeep through its internet-connected entertainment system.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "Ken Munro pointed to a 2015 demonstration in which researchers remotely hacked a Jeep through its internet-connected entertainment system"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "Cyber security expert Ken Munro pointed to a 2015 demonstration in which researchers remotely hacked a Jeep through its internet-connected entertainment system, prompting improvements in vehicle security."
+        }
+      ]
+    },
+    {
+      "claim": "Shop freezers in seven European countries were hit by a cyber-attack.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Binance users withdrew $3.6bn after the largest-ever crypto hack.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "Binance users withdraw $3.6bn after largest-ever crypto hack"
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Supermarkets across Europe have been hit by a suspected cyber-attack affecting their fridges and freezers.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "Supermarkets across Europe have been hit by a suspected cyber-attack affecting their fridges and freezers"
+        }
+      ]
+    },
+    {
+      "claim": "In 2015, researchers demonstrated how a vulnerability in a Samsung smart fridge could allow them to intercept internet traffic.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "In 2015, researchers demonstrated how a vulnerability in a Samsung smart fridge could allow them to intercept internet traffic."
+        }
+      ]
+    },
+    {
+      "claim": "Since April 2024, UK law has required manufacturers of certain consumer smart devices to meet minimum cyber security standards.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "Since April 2024, UK law has required manufacturers of certain consumer smart devices to meet minimum cyber security standards"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "Since April 2024, UK law has required manufacturers of certain consumer smart devices to meet minimum cyber security standards, including requirements around passwords and security updates."
+        }
+      ]
+    },
+    {
+      "claim": "Researchers from UK Cyber Defence have identified more than 800 refrigeration and building-control interfaces associated with British retailers that can be accessed over the public internet.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "researchers from UK Cyber Defence have identified more than 800 refrigeration and building-control interfaces associated with British retailers that can be accessed over the public internet."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "However, researchers from UK Cyber Defence have identified more than 800 refrigeration and building-control interfaces associated with British retailers that can be accessed over the public internet."
+        }
+      ]
+    },
+    {
+      "claim": "UK supermarkets M&S and the Co-op were targeted by ransomware hackers in May 2025.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "When UK supermarkets M&S and the Co-op were targeted by ransomware hackers in May 2025"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "When UK supermarkets M&S and the Co-op were targeted by ransomware hackers in May 2025, the retailers struggled to stock some shop shelves with fresh deliveries."
+        }
+      ]
+    },
+    {
+      "claim": "In 2015, researchers remotely hacked a Jeep through its internet-connected entertainment system.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "Ken Munro pointed to a 2015 demonstration in which researchers remotely hacked a Jeep through its internet-connected entertainment system"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "Cyber security expert Ken Munro pointed to a 2015 demonstration in which researchers remotely hacked a Jeep through its internet-connected entertainment system, prompting improvements in vehicle security."
+        }
+      ]
+    },
+    {
+      "claim": "Shop freezers in seven European countries were hit by a cyber-attack.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Binance users withdrew $3.6bn after the largest-ever crypto hack.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+          "quote": "Binance users withdraw $3.6bn after largest-ever crypto hack"
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss": 4798,
+    "https://www.engadget.com/2300355/samsung-galaxy-phones-bloatware-problem-easy-fix/": 3861,
+    "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/": 1641,
+    "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/": 2239
+  }
+}

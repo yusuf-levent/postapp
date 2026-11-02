@@ -1,0 +1,58 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db6d/live/6afb9b70-d6cd-11f1-ac20-7783925c811f.jpg",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-02/05-2100-if-hackers-can-take-control-of-a-supermarket-fre/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+      "width": 1200,
+      "height": 675,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/5498223/pexels-photo-5498223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-02/05-2100-if-hackers-can-take-control-of-a-supermarket-fre/images/img-2.png",
+      "license": "Pexels License — Eduardo Soares",
+      "author": "Eduardo Soares",
+      "credit_url": "https://www.pexels.com/photo/clear-glass-display-counter-with-foods-5498223/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "Frozen meats on display in a Brazilian supermarket aisle. Great for commerce and retail themes."
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/5498222/pexels-photo-5498222.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-02/05-2100-if-hackers-can-take-control-of-a-supermarket-fre/images/img-3.png",
+      "license": "Pexels License — Eduardo Soares",
+      "author": "Eduardo Soares",
+      "credit_url": "https://www.pexels.com/photo/refrigerators-in-the-store-5498222/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "Chilled aisle of a Brazilian supermarket with various frozen foods on display."
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/5498226/pexels-photo-5498226.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-02/05-2100-if-hackers-can-take-control-of-a-supermarket-fre/images/img-4.png",
+      "license": "Pexels License — Eduardo Soares",
+      "author": "Eduardo Soares",
+      "credit_url": "https://www.pexels.com/photo/assorted-products-on-refrigerators-5498226/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "A variety of packaged ice creams in a store freezer on display."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir.",
+  "music": [
+    {
+      "title": "Torley Wong - The Final Selection ::: 230 diverse MP3s",
+      "artist": "Torley Wong",
+      "license": "Creative Commons (ticari kullanıma uygun)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/us/",
+      "source_url": "https://archive.org/details/Torley_Wong_-_The_Final_Selection"
+    }
+  ]
+}

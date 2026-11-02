@@ -1,0 +1,72 @@
+{
+  "cover": {
+    "category_label": "SİBER GÜVENLİK",
+    "title": "Avrupa'da Akıllı Soğutuculara SİBER SALDIRI",
+    "highlight_words": [
+      "SİBER SALDIRI"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Süpermarketlerin buzdolapları ve dondurucuları şüpheli bir siber saldırıyla hedef alındı.",
+    "source_tags": [
+      "BBC NEWS – TECHNOLOGY",
+      "ENGADGET"
+    ]
+  },
+  "context": {
+    "heading": "Saldırıların Hedefi: Soğutucular",
+    "cards": [
+      {
+        "card_title": "Avrupa Genelinde Etki",
+        "card_body": "Avrupa genelindeki süpermarketler, buzdolapları ve dondurucularını etkileyen şüpheli bir siber saldırıyla karşı karşıya kaldı."
+      },
+      {
+        "card_title": "İngiltere'deki Riskler",
+        "card_body": "UK Cyber Defence araştırmacıları, İngiliz perakendecilere ait halka açık internet üzerinden erişilebilen 800'den fazla soğutma ve bina kontrol arayüzü belirledi."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "800+",
+    "stat_caption": "İngiltere'de halka açık internet üzerinden erişilebilen soğutma ve bina kontrol arayüzü sayısı.",
+    "stat_quote": "Araştırmacılar, İngiliz perakendecilerle ilişkili 800'den fazla arayüzün erişilebilir olduğunu tespit etti."
+  },
+  "details": {
+    "heading": "Geçmişten Bugüne Güvenlik Açıkları",
+    "cards": [
+      {
+        "card_title": "Samsung Akıllı Buzdolabı",
+        "card_body": "2015 yılında araştırmacılar, bir Samsung akıllı buzdolabındaki açığın internet trafiğini nasıl ele geçirebileceğini göstermişti."
+      },
+      {
+        "card_title": "Jeep Hacklenmesi",
+        "card_body": "Yine 2015 yılında araştırmacılar, internet bağlantılı eğlence sistemi üzerinden bir Jeep'i uzaktan hacklemeyi başarmıştı."
+      },
+      {
+        "card_title": "Yasal Düzenlemeler",
+        "card_body": "Nisan 2024'ten bu yana İngiltere'de belirli tüketici akıllı cihaz üreticilerinin minimum siber güvenlik standartlarını karşılaması zorunlu kılındı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektör Üzerindeki Yansımalar",
+    "cards": [
+      {
+        "card_title": "Süpermarketler Hedefte",
+        "card_body": "Mayıs 2025'te İngiltere'nin büyük süpermarketleri M&S ve Co-op, fidye yazılımı korsanlarının hedefi oldu."
+      },
+      {
+        "card_title": "Kripto Güvenliği",
+        "card_body": "En büyük kripto hacklenmesinin ardından Binance kullanıcıları 3.6 milyar dolar çekmişti."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce akıllı cihazlarımızdaki bu güvenlik açıklarının önüne nasıl geçilebilir?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
