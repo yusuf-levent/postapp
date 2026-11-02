@@ -1,0 +1,27 @@
+{
+  "images": [
+    {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Elon_Musk_-_54820081119_%283x4_cropped%2C_Rule_of_thirds%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-02/05-2100-spacex-is-reportedly-looking-at-buying-boost-mob/images/img-1.png",
+      "license": "",
+      "author": "",
+      "credit_url": "https://en.wikipedia.org/wiki/Elon%20Musk",
+      "width": 2617,
+      "height": 3489,
+      "alt_text": "Elon Musk"
+    },
+    {
+      "source": "ogimage",
+      "url": "https://www.engadget.com/img/gallery/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/l-intro-1793642642.jpg",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-02/05-2100-spacex-is-reportedly-looking-at-buying-boost-mob/images/img-2.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+      "width": 1600,
+      "height": 899,
+      "alt_text": ""
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}

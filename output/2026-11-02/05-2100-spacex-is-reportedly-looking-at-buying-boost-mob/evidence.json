@@ -1,0 +1,223 @@
+{
+  "title": "SpaceX is reportedly looking at buying Boost Mobile or using its cell network",
+  "canonical_url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+  "source_names": [
+    "Engadget",
+    "Wired",
+    "TechCrunch",
+    "The Verge"
+  ],
+  "checked_at": "2026-11-02T21:13:04+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "SpaceX, Boost Mobile'ı satın almak veya hücre ağını kullanmak için görüşmeler gerçekleştiriyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "SpaceX is reportedly looking at buying Boost Mobile or using its cell network"
+        },
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "According to Washington Post's sources, the deal could look like SpaceX acquiring Boost Mobile outright or gaining access to its cell network, which is leased from AT&T and T-Mobile."
+        }
+      ]
+    },
+    {
+      "claim": "Görüşmeler Boost Mobile'ın ana şirketi EchoStar ile son aylarda yapıldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "Elon Musk's company has held talks with Boost Mobile's parent company, EchoStar, in recent months"
+        },
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "As first reported by The Washington Post, Elon Musk's company has held talks with Boost Mobile's parent company, EchoStar, in recent months that could see SpaceX launch \"its own signature wireless service\" through the existing network."
+        }
+      ]
+    },
+    {
+      "claim": "Boost Mobile'ın hücre ağı AT&T ve T-Mobile'dan kiralanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "According to Washington Post's sources, the deal could look like SpaceX acquiring Boost Mobile outright or gaining access to its cell network, which is leased from AT&T and T-Mobile."
+        }
+      ]
+    },
+    {
+      "claim": "AT&T, T-Mobile ve Verizon gibi büyük hücre şirketleri daha önce Musk'ın ayrı bir SpaceX servisi başlatma talebini reddetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "major cell companies, which include AT&T, T-Mobile and Verizon, have already turned down Musk down for access to its cell networks in order to launch a separate SpaceX service."
+        },
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "The Washington Post also reported that major cell companies, which include AT&T, T-Mobile and Verizon, have already turned down Musk down for access to its cell networks in order to launch a separate SpaceX service."
+        }
+      ]
+    },
+    {
+      "claim": "SpaceX geçen yıl EchoStar'dan 2.6 milyar dolar değerinde spektrum lisansı satın aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "Last year SpaceX acquired $2.6 billion worth of spectrum licenses from EchoStar"
+        },
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "Last year SpaceX acquired $2.6 billion worth of spectrum licenses from EchoStar, which would be used to improve its Starlink network's 5G connections."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "SpaceX, Boost Mobile'ı satın almak veya hücre ağını kullanmak için görüşmeler gerçekleştiriyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "SpaceX is reportedly looking at buying Boost Mobile or using its cell network"
+        },
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "According to Washington Post's sources, the deal could look like SpaceX acquiring Boost Mobile outright or gaining access to its cell network, which is leased from AT&T and T-Mobile."
+        }
+      ]
+    },
+    {
+      "claim": "Görüşmeler Boost Mobile'ın ana şirketi EchoStar ile son aylarda yapıldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "Elon Musk's company has held talks with Boost Mobile's parent company, EchoStar, in recent months"
+        },
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "As first reported by The Washington Post, Elon Musk's company has held talks with Boost Mobile's parent company, EchoStar, in recent months that could see SpaceX launch \"its own signature wireless service\" through the existing network."
+        }
+      ]
+    },
+    {
+      "claim": "Boost Mobile'ın hücre ağı AT&T ve T-Mobile'dan kiralanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "According to Washington Post's sources, the deal could look like SpaceX acquiring Boost Mobile outright or gaining access to its cell network, which is leased from AT&T and T-Mobile."
+        }
+      ]
+    },
+    {
+      "claim": "AT&T, T-Mobile ve Verizon gibi büyük hücre şirketleri daha önce Musk'ın ayrı bir SpaceX servisi başlatma talebini reddetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "major cell companies, which include AT&T, T-Mobile and Verizon, have already turned down Musk down for access to its cell networks in order to launch a separate SpaceX service."
+        },
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "The Washington Post also reported that major cell companies, which include AT&T, T-Mobile and Verizon, have already turned down Musk down for access to its cell networks in order to launch a separate SpaceX service."
+        }
+      ]
+    },
+    {
+      "claim": "SpaceX geçen yıl EchoStar'dan 2.6 milyar dolar değerinde spektrum lisansı satın aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "Last year SpaceX acquired $2.6 billion worth of spectrum licenses from EchoStar"
+        },
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "Last year SpaceX acquired $2.6 billion worth of spectrum licenses from EchoStar, which would be used to improve its Starlink network's 5G connections."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "SpaceX, Boost Mobile'ı satın almak veya hücre ağını kullanmak için görüşmeler gerçekleştiriyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "SpaceX is reportedly looking at buying Boost Mobile or using its cell network"
+        },
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "According to Washington Post's sources, the deal could look like SpaceX acquiring Boost Mobile outright or gaining access to its cell network, which is leased from AT&T and T-Mobile."
+        }
+      ]
+    },
+    {
+      "claim": "Görüşmeler Boost Mobile'ın ana şirketi EchoStar ile son aylarda yapıldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "Elon Musk's company has held talks with Boost Mobile's parent company, EchoStar, in recent months"
+        },
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "As first reported by The Washington Post, Elon Musk's company has held talks with Boost Mobile's parent company, EchoStar, in recent months that could see SpaceX launch \"its own signature wireless service\" through the existing network."
+        }
+      ]
+    },
+    {
+      "claim": "Boost Mobile'ın hücre ağı AT&T ve T-Mobile'dan kiralanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "According to Washington Post's sources, the deal could look like SpaceX acquiring Boost Mobile outright or gaining access to its cell network, which is leased from AT&T and T-Mobile."
+        }
+      ]
+    },
+    {
+      "claim": "AT&T, T-Mobile ve Verizon gibi büyük hücre şirketleri daha önce Musk'ın ayrı bir SpaceX servisi başlatma talebini reddetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "major cell companies, which include AT&T, T-Mobile and Verizon, have already turned down Musk down for access to its cell networks in order to launch a separate SpaceX service."
+        },
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "The Washington Post also reported that major cell companies, which include AT&T, T-Mobile and Verizon, have already turned down Musk down for access to its cell networks in order to launch a separate SpaceX service."
+        }
+      ]
+    },
+    {
+      "claim": "SpaceX geçen yıl EchoStar'dan 2.6 milyar dolar değerinde spektrum lisansı satın aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "Last year SpaceX acquired $2.6 billion worth of spectrum licenses from EchoStar"
+        },
+        {
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+          "quote": "Last year SpaceX acquired $2.6 billion worth of spectrum licenses from EchoStar, which would be used to improve its Starlink network's 5G connections."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/": 1562,
+    "https://www.wired.com/story/anti-oligarchy-activists-plan-to-dox-elon-musk-and-hundreds-of-billionaire-linked-homes/": 8771,
+    "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/": 2175,
+    "https://www.theverge.com/science/1024330/spacex-boost-mobile-deal-report": 1375
+  }
+}

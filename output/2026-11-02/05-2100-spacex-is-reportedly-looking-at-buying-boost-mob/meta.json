@@ -1,0 +1,10 @@
+{
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 176.5,
+  "candidates_tried": 1,
+  "gemini_calls": 18,
+  "canonical_url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+  "generated_at": "2026-11-02T21:15:14+03:00"
+}
