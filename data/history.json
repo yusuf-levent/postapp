@@ -3769,5 +3769,80 @@
     ],
     "created_at": "2026-11-02T17:56:21+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-11-02-2100",
+    "date": "2026-11-02",
+    "slot": "21:00",
+    "type": "news",
+    "title_tr": "Yapay zeka ajanları engellerle karşılaşıyor",
+    "original_title": "Why some websites are blocking AI agents from accessing the web",
+    "source_urls": [
+      "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/"
+    ],
+    "canonical_url": "https://engadget.com/2300357/websites-blocking-ai-agents-from-web",
+    "entities": [
+      "Amazon",
+      "Walmart",
+      "Meta",
+      "Muse",
+      "TechCrunch",
+      "JPMorgan Chase",
+      "Jeremy Barnum"
+    ],
+    "event_type": "website_blocking_ai_agents",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae8dfcf8009965bdafa80de",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae8dfe68009965bdafa8c1b",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae8dffd417f5affa9440fd0",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2117333382354833640",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18117810101601684",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfQBpn4FNOC",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae8e01f1a18b06086c5eab3",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae8e0367aa9f7a66fec9d77",
+        "permalink": "https://facebook.com/1351036918092059_122120558667484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-11-02T22:10:56+03:00",
+    "verified_claims_count": 6
   }
 ]
