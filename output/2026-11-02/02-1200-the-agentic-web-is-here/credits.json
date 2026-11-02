@@ -1,0 +1,27 @@
+{
+  "images": [
+    {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Tim_Berners-Lee_at_the_2025_Web_Summit_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-02/02-1200-the-agentic-web-is-here/images/img-1.png",
+      "license": "",
+      "author": "",
+      "credit_url": "https://en.wikipedia.org/wiki/Tim%20Berners-Lee",
+      "width": 3124,
+      "height": 2343,
+      "alt_text": "Tim Berners-Lee"
+    },
+    {
+      "source": "ogimage",
+      "url": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN-top.jpg?resize=1200,600",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-02/02-1200-the-agentic-web-is-here/images/img-2.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "width": 1200,
+      "height": 600,
+      "alt_text": ""
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}

@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE GELECEK",
+    "title": "Yapay Zeka Ajanları İçin Yeni Dönem Başlıyor",
+    "highlight_words": [
+      "Ajanları",
+      "Dönem"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Yapay zeka ajanlarının dünyasında yaşanan son gelişmeleri inceledik.",
+    "source_tags": [
+      "TECHCRUNCH",
+      "MIT TECHNOLOGY REVIEW"
+    ]
+  },
+  "context": {
+    "heading": "Ajanların Yükselişi",
+    "cards": [
+      {
+        "card_title": "Claude Duet",
+        "card_body": "Anthropic, Ekim ayında Claude Duet adlı ajanının araştırma önizlemesini başlattı."
+      },
+      {
+        "card_title": "Akademik İncelemeler",
+        "card_body": "Siva Reddy, 2024 yılında LLM ajanlarını incelemeye başladı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "2024",
+    "stat_caption": "LLM ajanlarının akademik olarak incelenmeye başlandığı yıl.",
+    "stat_quote": "Siva Reddy, 2024 yılında LLM ajanlarını incelemeye başladı."
+  },
+  "details": {
+    "heading": "Geçmişten Bugüne Vizyon",
+    "cards": [
+      {
+        "card_title": "Semantic Web",
+        "card_body": "Tim Berners-Lee, 2001 yılında Scientific American dergisinde Semantic Web vizyonunu anlatan bir makale yayınladı."
+      },
+      {
+        "card_title": "Akademik Çalışmalar",
+        "card_body": "Eni Mustafaraj, Wellesley College'da bilgisayar bilimi doçentidir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Yayıncılıkta Değişim",
+    "cards": [
+      {
+        "card_title": "Yeni Makale Versiyonları",
+        "card_body": "Time dergisi, ajanların kolayca okuyabileceği makale versiyonları yayınlamaya başladı."
+      },
+      {
+        "card_title": "Reklam Modelleri",
+        "card_body": "Yayınlanan yeni makale versiyonlarına yönelik reklamlar satılmaya başlandı."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Yapay zeka ajanlarının içerikleri tüketme biçimi medya sektörünü nasıl dönüştürecek?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
