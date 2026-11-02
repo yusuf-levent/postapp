@@ -1,0 +1,265 @@
+{
+  "title": "Why it's important to use a microSD Express card with your Nintendo Switch 2",
+  "canonical_url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+  "source_names": [
+    "Engadget",
+    "Wired",
+    "Google Blog",
+    "OpenAI News"
+  ],
+  "checked_at": "2026-11-02T17:52:47+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Nintendo Switch 2, sistem yazılımı hesaba katıldığında yaklaşık 249GB kullanılabilir alan sunan 256GB depolama kapasitesiyle gelmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+          "quote": "The Nintendo Switch 2 comes with 256GB of storage, where ~249GB is usable after accounting for system software."
+        }
+      ]
+    },
+    {
+      "claim": "Final Fantasy VII Remake Intergrade oyunu 90.4GB alan kaplamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+          "quote": "For instance, Final Fantasy VII Remake Intergrade comes in at 90.4GB"
+        }
+      ]
+    },
+    {
+      "claim": "Resident Evil Requiem oyunu yaklaşık 29GB boyutundadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+          "quote": "while Resident Evil Requiem is nearly 29GB"
+        }
+      ]
+    },
+    {
+      "claim": "Assassin's Creed Shadows oyunu 69GB depolama alanına ihtiyaç duymaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+          "quote": "and Assassin's Creed Shadows needs 69GB."
+        }
+      ]
+    },
+    {
+      "claim": "Split Fiction oyunu 69.2GB boyutundadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+          "quote": "Say you order a 128GB card and then purchase Split Fiction (69.2GB)."
+        }
+      ]
+    },
+    {
+      "claim": "Switch 2 için desteklenen maksimum kart boyutu 2TB iken, şu anda satışta görülen en yüksek microSD Express kart boyutu 1TB'dır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+          "quote": "while 2TB is the maximum card size for the Switch 2, 1TB is the highest size of microSD Express card you'll currently see on sale."
+        }
+      ]
+    },
+    {
+      "claim": "256GB'lık bir microSD Express kartın fiyatının 60 dolar civarında olması beklenmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+          "quote": "Expect to pay around $60 for a 256GB card and several hundred for 1TB."
+        }
+      ]
+    },
+    {
+      "claim": "Oyun kayıt verileri (save data) Switch 2'nin dahili hafızasında kalır ve bir microSD Express kartına kopyalanamaz veya kaydedilemez.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+          "quote": "Note that game save data stays in the Switch 2's internal memory and can't be copied or saved to a microSD Express card."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Nintendo Switch 2, sistem yazılımı hesaba katıldığında yaklaşık 249GB kullanılabilir alan sunan 256GB depolama kapasitesiyle gelmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+          "quote": "The Nintendo Switch 2 comes with 256GB of storage, where ~249GB is usable after accounting for system software."
+        }
+      ]
+    },
+    {
+      "claim": "Final Fantasy VII Remake Intergrade oyunu 90.4GB alan kaplamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+          "quote": "For instance, Final Fantasy VII Remake Intergrade comes in at 90.4GB"
+        }
+      ]
+    },
+    {
+      "claim": "Resident Evil Requiem oyunu yaklaşık 29GB boyutundadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+          "quote": "while Resident Evil Requiem is nearly 29GB"
+        }
+      ]
+    },
+    {
+      "claim": "Assassin's Creed Shadows oyunu 69GB depolama alanına ihtiyaç duymaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+          "quote": "and Assassin's Creed Shadows needs 69GB."
+        }
+      ]
+    },
+    {
+      "claim": "Split Fiction oyunu 69.2GB boyutundadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+          "quote": "Say you order a 128GB card and then purchase Split Fiction (69.2GB)."
+        }
+      ]
+    },
+    {
+      "claim": "Switch 2 için desteklenen maksimum kart boyutu 2TB iken, şu anda satışta görülen en yüksek microSD Express kart boyutu 1TB'dır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+          "quote": "while 2TB is the maximum card size for the Switch 2, 1TB is the highest size of microSD Express card you'll currently see on sale."
+        }
+      ]
+    },
+    {
+      "claim": "256GB'lık bir microSD Express kartın fiyatının 60 dolar civarında olması beklenmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+          "quote": "Expect to pay around $60 for a 256GB card and several hundred for 1TB."
+        }
+      ]
+    },
+    {
+      "claim": "Oyun kayıt verileri (save data) Switch 2'nin dahili hafızasında kalır ve bir microSD Express kartına kopyalanamaz veya kaydedilemez.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+          "quote": "Note that game save data stays in the Switch 2's internal memory and can't be copied or saved to a microSD Express card."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Nintendo Switch 2, sistem yazılımı hesaba katıldığında yaklaşık 249GB kullanılabilir alan sunan 256GB depolama kapasitesiyle gelmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+          "quote": "The Nintendo Switch 2 comes with 256GB of storage, where ~249GB is usable after accounting for system software."
+        }
+      ]
+    },
+    {
+      "claim": "Final Fantasy VII Remake Intergrade oyunu 90.4GB alan kaplamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+          "quote": "For instance, Final Fantasy VII Remake Intergrade comes in at 90.4GB"
+        }
+      ]
+    },
+    {
+      "claim": "Resident Evil Requiem oyunu yaklaşık 29GB boyutundadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+          "quote": "while Resident Evil Requiem is nearly 29GB"
+        }
+      ]
+    },
+    {
+      "claim": "Assassin's Creed Shadows oyunu 69GB depolama alanına ihtiyaç duymaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+          "quote": "and Assassin's Creed Shadows needs 69GB."
+        }
+      ]
+    },
+    {
+      "claim": "Split Fiction oyunu 69.2GB boyutundadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+          "quote": "Say you order a 128GB card and then purchase Split Fiction (69.2GB)."
+        }
+      ]
+    },
+    {
+      "claim": "Switch 2 için desteklenen maksimum kart boyutu 2TB iken, şu anda satışta görülen en yüksek microSD Express kart boyutu 1TB'dır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+          "quote": "while 2TB is the maximum card size for the Switch 2, 1TB is the highest size of microSD Express card you'll currently see on sale."
+        }
+      ]
+    },
+    {
+      "claim": "256GB'lık bir microSD Express kartın fiyatının 60 dolar civarında olması beklenmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+          "quote": "Expect to pay around $60 for a 256GB card and several hundred for 1TB."
+        }
+      ]
+    },
+    {
+      "claim": "Oyun kayıt verileri (save data) Switch 2'nin dahili hafızasında kalır ve bir microSD Express kartına kopyalanamaz veya kaydedilemez.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+          "quote": "Note that game save data stays in the Switch 2's internal memory and can't be copied or saved to a microSD Express card."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/": 3646,
+    "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/": 5668,
+    "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/": 460,
+    "https://openai.com/index/helping-websites-express-ai-training-preferences": 1904
+  }
+}

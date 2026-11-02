@@ -1,0 +1,127 @@
+{
+  "cover": {
+    "category_label": "DONANIM REHBERİ",
+    "title": "Nintendo Switch 2 Depolama Alanı",
+    "highlight_words": [
+      "Depolama",
+      "Alan"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Cihazın hafızası oyunlar için ne kadar yeterli?",
+    "source_tags": [
+      "Engadget",
+      "Wired"
+    ]
+  },
+  "problem": {
+    "heading": "Switch 2 Depolama Kapasitesi",
+    "cards": [
+      {
+        "card_title": "Dahili Hafıza",
+        "card_body": "Nintendo Switch 2, sistem yazılımı hesaba katıldığında yaklaşık 249GB kullanılabilir alan sunan 256GB depolama kapasitesiyle gelmektedir."
+      },
+      {
+        "card_title": "Kayıt Verileri",
+        "card_body": "Oyun kayıt verileri (save data) Switch 2'nin dahili hafızasında kalır ve bir microSD Express kartına kopyalanamaz veya kaydedilemez."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Popüler Oyunların Boyutları",
+      "cards": [
+        {
+          "card_title": "Final Fantasy VII Remake Intergrade",
+          "card_body": "Bu oyun 90.4GB alan kaplamaktadır."
+        },
+        {
+          "card_title": "Resident Evil Requiem",
+          "card_body": "Resident Evil Requiem oyunu yaklaşık 29GB boyutundadır."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Diğer Oyun Boyutları",
+      "cards": [
+        {
+          "card_title": "Assassin's Creed Shadows",
+          "card_body": "Assassin's Creed Shadows oyunu 69GB depolama alanına ihtiyaç duymaktadır."
+        },
+        {
+          "card_title": "Split Fiction",
+          "card_body": "Split Fiction oyunu 69.2GB boyutundadır."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "MicroSD Express Kart Seçenekleri",
+      "cards": [
+        {
+          "card_title": "Kart Boyutları",
+          "card_body": "Switch 2 için desteklenen maksimum kart boyutu 2TB iken, şu anda satışta görülen en yüksek microSD Express kart boyutu 1TB'dır."
+        },
+        {
+          "card_title": "Fiyatlandırma",
+          "card_body": "256GB'lık bir microSD Express kartın fiyatının 60 dolar civarında olması beklenmektedir."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Nintendo Switch 2'nin dahili depolama alanı sizin için yeterli mi?",
+    "reminder_line": "Tekno Pusula ile güncel kalın."
+  },
+  "context": {
+    "heading": "Switch 2 Depolama Kapasitesi",
+    "cards": [
+      {
+        "card_title": "Dahili Hafıza",
+        "card_body": "Nintendo Switch 2, sistem yazılımı hesaba katıldığında yaklaşık 249GB kullanılabilir alan sunan 256GB depolama kapasitesiyle gelmektedir."
+      },
+      {
+        "card_title": "Kayıt Verileri",
+        "card_body": "Oyun kayıt verileri (save data) Switch 2'nin dahili hafızasında kalır ve bir microSD Express kartına kopyalanamaz veya kaydedilemez."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Popüler Oyunların Boyutları",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Diğer Oyun Boyutları",
+    "cards": [
+      {
+        "card_title": "Assassin's Creed Shadows",
+        "card_body": "Assassin's Creed Shadows oyunu 69GB depolama alanına ihtiyaç duymaktadır."
+      },
+      {
+        "card_title": "Split Fiction",
+        "card_body": "Split Fiction oyunu 69.2GB boyutundadır."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "MicroSD Express Kart Seçenekleri",
+    "cards": [
+      {
+        "card_title": "Kart Boyutları",
+        "card_body": "Switch 2 için desteklenen maksimum kart boyutu 2TB iken, şu anda satışta görülen en yüksek microSD Express kart boyutu 1TB'dır."
+      },
+      {
+        "card_title": "Fiyatlandırma",
+        "card_body": "256GB'lık bir microSD Express kartın fiyatının 60 dolar civarında olması beklenmektedir."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}

@@ -1,0 +1,47 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://www.engadget.com/img/gallery/why-its-important-to-use-a-microsd-card-with-your-nintendo-switch-2/l-intro-1791815329.jpg",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-02/04-1800-why-it-s-important-to-use-a-microsd-express-card/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+      "width": 1600,
+      "height": 899,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/6993180/pexels-photo-6993180.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-02/04-1800-why-it-s-important-to-use-a-microsd-express-card/images/img-2.png",
+      "license": "Pexels License — Michael Adeleye",
+      "author": "Michael Adeleye",
+      "credit_url": "https://www.pexels.com/photo/red-and-blue-nintendo-switch-game-controller-6993180/",
+      "width": 1069,
+      "height": 1300,
+      "alt_text": "Vibrant Nintendo Switch controller displayed against a pink backdrop, highlighting modern gaming aesthetics."
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/31609214/pexels-photo-31609214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-02/04-1800-why-it-s-important-to-use-a-microsd-express-card/images/img-3.png",
+      "license": "Pexels License — Nikolai Lapshin",
+      "author": "Nikolai Lapshin",
+      "credit_url": "https://www.pexels.com/photo/handheld-gaming-console-on-suitcase-indoors-31609214/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "A handheld gaming console rests on a suitcase, ready for travel adventures."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir.",
+  "music": [
+    {
+      "title": "Torley Wong - The Final Selection ::: 230 diverse MP3s",
+      "artist": "Torley Wong",
+      "license": "Creative Commons (ticari kullanıma uygun)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/us/",
+      "source_url": "https://archive.org/details/Torley_Wong_-_The_Final_Selection"
+    }
+  ]
+}
