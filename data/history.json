@@ -3696,5 +3696,78 @@
     ],
     "created_at": "2026-11-02T14:44:57+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-11-02-1800",
+    "date": "2026-11-02",
+    "slot": "18:00",
+    "type": "edu",
+    "title_tr": "Nintendo Switch 2 Depolama Alanı",
+    "original_title": "Why it's important to use a microSD Express card with your Nintendo Switch 2",
+    "source_urls": [
+      "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/"
+    ],
+    "canonical_url": "https://engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use",
+    "entities": [
+      "Nintendo",
+      "Nintendo Switch 2",
+      "Final Fantasy VII Remake Intergrade",
+      "Resident Evil Requiem",
+      "Assassin's Creed Shadows"
+    ],
+    "event_type": "product_specification",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae8a41e2810e4a79d3140b3",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae8a43604fa73faa22bc76d",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae8a44df1669be3eab95176",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2117269292056023272",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18642123412020680",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfPkgzUm7DX",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae8a47404fa73faa22bdc71",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae8a48ba8c7e34921545b86",
+        "permalink": "https://facebook.com/1351036918092059_122120513799484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-11-02T17:56:21+03:00",
+    "verified_claims_count": 8
   }
 ]
