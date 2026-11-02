@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "KRİPTO GÜVENLİĞİ",
+    "title": "Binance Korsanlık Olayı Sonrası Yeniden Açıldı",
+    "highlight_words": [
+      "Korsanlık",
+      "Yeniden"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Tarihin en büyük kripto korsanlığı sonrasında borsada yaşanan hareketlilik.",
+    "source_tags": [
+      "BBC NEWS",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Saldırının Arka Planı",
+    "cards": [
+      {
+        "card_title": "Siber Saldırının Boyutu",
+        "card_body": "Siber saldırı 6,3 milyar dolar değerindeki dijital varlığı etkiledi ve firma olay sonrasında tüm işlemleri askıya aldı."
+      },
+      {
+        "card_title": "Olası Kaynak",
+        "card_body": "Saldırının, bir mühendis ait ele geçirilmiş dizüstü bilgisayardan kaynaklanmış olabileceği belirtildi."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "3,6 MİLYAR $",
+    "stat_caption": "Borsanın Pazar günü yeniden açılmasıyla çekilen varlık tutarı.",
+    "stat_quote": "Pazar günü gerçekleşen net çekimler, Binance'in yönetimindeki 171 milyar dolarlık varlığın yüzde 2'sinden biraz fazlasını oluşturuyor."
+  },
+  "details": {
+    "heading": "Borsa İşlemleri ve Kayıp",
+    "cards": [
+      {
+        "card_title": "Varlık Karşılama",
+        "card_body": "Binance çalınan varlıkların yaklaşık yüzde 95'ini karşıladığını açıkladı."
+      },
+      {
+        "card_title": "Çekim Detayları",
+        "card_body": "Binance, 1 Kasım tarihinde 06:00 ile 15:30 GMT arasında 4,649 milyar dolar çekim ve 1,01 milyar dolar yatırma işlemi gerçekleştirildiğini bildirdi."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektör ve Sorumlular",
+    "cards": [
+      {
+        "card_title": "Sorumlu Gösterilenler",
+        "card_body": "ABD Federal Soruşturma Bürosu dahil büyük kuruluşlar, siber saldırıdan Kuzey Kore'yi sorumlu tuttu."
+      },
+      {
+        "card_title": "Geçmiş Olaylar",
+        "card_body": "Kuzey Koreli siber suç grubu Lazarus Group, 2025 yılında Bybit borsasından 1,5 milyar dolar çalmıştı."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Büyük borsalardaki bu tür siber güvenlik açıkları hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

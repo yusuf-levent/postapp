@@ -1,0 +1,265 @@
+{
+  "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+  "canonical_url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+  "source_names": [
+    "BBC News – Technology",
+    "TechCrunch",
+    "The Verge",
+    "Ars Technica"
+  ],
+  "checked_at": "2026-11-02T10:47:04+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Binance müşterileri, tarihin en büyük kripto korsanlığı olduğu düşünülen olay sonrası borsanın Pazar günü yeniden açılmasıyla 3,6 milyar dolar değerinde varlık çekti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "quote": "Binance customers withdrew $3.6bn (£2.7bn) of assets from the world's biggest cryptocurrency exchange as it reopened on Sunday following what is believed to be the largest hack in history."
+        }
+      ]
+    },
+    {
+      "claim": "Siber saldırı 6,3 milyar dolar değerindeki dijital varlığı etkiledi ve firma olay sonrasında tüm işlemleri askıya aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "quote": "The firm suspended all transactions in the wake of the incident, which impacted $6.3bn worth of digital assets."
+        }
+      ]
+    },
+    {
+      "claim": "ABD Federal Soruşturma Bürosu (FBI) dahil büyük kuruluşlar, siber saldırıdan Kuzey Kore'yi sorumlu tuttu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "quote": "Major organisations, including the US Federal Bureau of Investigation (FBI), have accused North Korea of being responsible for the cyber-attack."
+        }
+      ]
+    },
+    {
+      "claim": "Binance çalınan varlıkların yaklaşık yüzde 95'ini karşıladığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "quote": "The company said it has covered around 95% of the assets stolen in the breach"
+        }
+      ]
+    },
+    {
+      "claim": "Binance, 1 Kasım tarihinde 06:00 ile 15:30 GMT arasında 4,649 milyar dolar çekim ve 1,01 milyar dolar yatırma işlemi gerçekleştirildiğini bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "quote": "Binance said on X: \"Between 06:00 and 15:30 [GMT] on November 1, we processed $4.649 billion in withdrawals and $1.01 billion in deposits, resulting in a net outflow of approximately $3.64 billion.\""
+        }
+      ]
+    },
+    {
+      "claim": "Pazar günü gerçekleşen net çekimler, Binance'in yönetimindeki 171 milyar dolarlık varlığın yüzde 2'sinden biraz fazlasını oluşturuyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "quote": "Sunday's net withdrawals account for just over 2% of the $171bn of assets under its management, said Binance."
+        }
+      ]
+    },
+    {
+      "claim": "Saldırının, bir mühendis ait ele geçirilmiş dizüstü bilgisayardan kaynaklanmış olabileceği belirtildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "quote": "Binance said last week that early checks suggest the incident may have started with a compromised laptop that belonged to an engineer, allowing hackers to find a way to make unauthorised transactions."
+        }
+      ]
+    },
+    {
+      "claim": "Kuzey Koreli siber suç grubu Lazarus Group, 2025 yılında Bybit borsasından 1,5 milyar dolar çalmıştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "quote": "The attack on Binance has been attributed to TraderTraitor, a North Korean cybercrime group also known as the Lazarus Group, which stole a then-record $1.5bn from crypto exchange Bybit in 2025."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Binance müşterileri, tarihin en büyük kripto korsanlığı olduğu düşünülen olay sonrası borsanın Pazar günü yeniden açılmasıyla 3,6 milyar dolar değerinde varlık çekti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "quote": "Binance customers withdrew $3.6bn (£2.7bn) of assets from the world's biggest cryptocurrency exchange as it reopened on Sunday following what is believed to be the largest hack in history."
+        }
+      ]
+    },
+    {
+      "claim": "Siber saldırı 6,3 milyar dolar değerindeki dijital varlığı etkiledi ve firma olay sonrasında tüm işlemleri askıya aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "quote": "The firm suspended all transactions in the wake of the incident, which impacted $6.3bn worth of digital assets."
+        }
+      ]
+    },
+    {
+      "claim": "ABD Federal Soruşturma Bürosu (FBI) dahil büyük kuruluşlar, siber saldırıdan Kuzey Kore'yi sorumlu tuttu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "quote": "Major organisations, including the US Federal Bureau of Investigation (FBI), have accused North Korea of being responsible for the cyber-attack."
+        }
+      ]
+    },
+    {
+      "claim": "Binance çalınan varlıkların yaklaşık yüzde 95'ini karşıladığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "quote": "The company said it has covered around 95% of the assets stolen in the breach"
+        }
+      ]
+    },
+    {
+      "claim": "Binance, 1 Kasım tarihinde 06:00 ile 15:30 GMT arasında 4,649 milyar dolar çekim ve 1,01 milyar dolar yatırma işlemi gerçekleştirildiğini bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "quote": "Binance said on X: \"Between 06:00 and 15:30 [GMT] on November 1, we processed $4.649 billion in withdrawals and $1.01 billion in deposits, resulting in a net outflow of approximately $3.64 billion.\""
+        }
+      ]
+    },
+    {
+      "claim": "Pazar günü gerçekleşen net çekimler, Binance'in yönetimindeki 171 milyar dolarlık varlığın yüzde 2'sinden biraz fazlasını oluşturuyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "quote": "Sunday's net withdrawals account for just over 2% of the $171bn of assets under its management, said Binance."
+        }
+      ]
+    },
+    {
+      "claim": "Saldırının, bir mühendis ait ele geçirilmiş dizüstü bilgisayardan kaynaklanmış olabileceği belirtildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "quote": "Binance said last week that early checks suggest the incident may have started with a compromised laptop that belonged to an engineer, allowing hackers to find a way to make unauthorised transactions."
+        }
+      ]
+    },
+    {
+      "claim": "Kuzey Koreli siber suç grubu Lazarus Group, 2025 yılında Bybit borsasından 1,5 milyar dolar çalmıştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "quote": "The attack on Binance has been attributed to TraderTraitor, a North Korean cybercrime group also known as the Lazarus Group, which stole a then-record $1.5bn from crypto exchange Bybit in 2025."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Binance müşterileri, tarihin en büyük kripto korsanlığı olduğu düşünülen olay sonrası borsanın Pazar günü yeniden açılmasıyla 3,6 milyar dolar değerinde varlık çekti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "quote": "Binance customers withdrew $3.6bn (£2.7bn) of assets from the world's biggest cryptocurrency exchange as it reopened on Sunday following what is believed to be the largest hack in history."
+        }
+      ]
+    },
+    {
+      "claim": "Siber saldırı 6,3 milyar dolar değerindeki dijital varlığı etkiledi ve firma olay sonrasında tüm işlemleri askıya aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "quote": "The firm suspended all transactions in the wake of the incident, which impacted $6.3bn worth of digital assets."
+        }
+      ]
+    },
+    {
+      "claim": "ABD Federal Soruşturma Bürosu (FBI) dahil büyük kuruluşlar, siber saldırıdan Kuzey Kore'yi sorumlu tuttu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "quote": "Major organisations, including the US Federal Bureau of Investigation (FBI), have accused North Korea of being responsible for the cyber-attack."
+        }
+      ]
+    },
+    {
+      "claim": "Binance çalınan varlıkların yaklaşık yüzde 95'ini karşıladığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "quote": "The company said it has covered around 95% of the assets stolen in the breach"
+        }
+      ]
+    },
+    {
+      "claim": "Binance, 1 Kasım tarihinde 06:00 ile 15:30 GMT arasında 4,649 milyar dolar çekim ve 1,01 milyar dolar yatırma işlemi gerçekleştirildiğini bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "quote": "Binance said on X: \"Between 06:00 and 15:30 [GMT] on November 1, we processed $4.649 billion in withdrawals and $1.01 billion in deposits, resulting in a net outflow of approximately $3.64 billion.\""
+        }
+      ]
+    },
+    {
+      "claim": "Pazar günü gerçekleşen net çekimler, Binance'in yönetimindeki 171 milyar dolarlık varlığın yüzde 2'sinden biraz fazlasını oluşturuyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "quote": "Sunday's net withdrawals account for just over 2% of the $171bn of assets under its management, said Binance."
+        }
+      ]
+    },
+    {
+      "claim": "Saldırının, bir mühendis ait ele geçirilmiş dizüstü bilgisayardan kaynaklanmış olabileceği belirtildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "quote": "Binance said last week that early checks suggest the incident may have started with a compromised laptop that belonged to an engineer, allowing hackers to find a way to make unauthorised transactions."
+        }
+      ]
+    },
+    {
+      "claim": "Kuzey Koreli siber suç grubu Lazarus Group, 2025 yılında Bybit borsasından 1,5 milyar dolar çalmıştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "quote": "The attack on Binance has been attributed to TraderTraitor, a North Korean cybercrime group also known as the Lazarus Group, which stole a then-record $1.5bn from crypto exchange Bybit in 2025."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss": 3437,
+    "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/": 2395,
+    "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist": 1382,
+    "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/": 1976
+  }
+}
