@@ -1,0 +1,68 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE OYUN DÜNYASI",
+    "title": "Microsoft'ta Şok Ayrılık",
+    "highlight_words": [
+      "Şok Ayrılık"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Helen Chiang, 21 yıllık Microsoft kariyerinin ardından görevinden ayrıldı.",
+    "source_tags": [
+      "THE VERGE",
+      "ARS TECHNICA"
+    ]
+  },
+  "context": {
+    "heading": "Ayrılığın Arka Planı",
+    "cards": [
+      {
+        "card_title": "Yeni Görev ve Ayrılık",
+        "card_body": "Temmuz ayında operasyon müdürlüğüne terfi eden Helen Chiang, bu pozisyondan iki haftadan kısa bir süre sonra Microsoft'tan ayrıldı."
+      },
+      {
+        "card_title": "Yönetim Notu",
+        "card_body": "Xbox CEO'su Asha Sharma, Chiang'in ayrılışıyla ilgili kısa bir iç memo paylaştı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "21 YIL",
+    "stat_caption": "Helen Chiang'in Microsoft'taki toplam çalışma süresi.",
+    "stat_quote": "Helen Chiang, standartların uygulanış biçimi konusunda ciddi endişeleri olduğunu belirtti."
+  },
+  "details": {
+    "heading": "İddialar ve Açıklamalar",
+    "cards": [
+      {
+        "card_title": "Politika İhlali İddiaları",
+        "card_body": "Geçtiğimiz ay Eurogamer, Chiang'in politika ihlalleri nedeniyle görevine son verildiğini bildirmişti."
+      },
+      {
+        "card_title": "Kesin Reddiyeler",
+        "card_body": "Chiang; gizli bilgi sızdırma, rakip bir şirkete katılma, ayrımcılık, taciz, dolandırıcılık ve içeriden öğrenenlerin ticareti iddialarını reddetti."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etkiler",
+    "cards": [
+      {
+        "card_title": "Yönetim Değişiklikleri",
+        "card_body": "Üst düzey bir ismin kısa süre önceki terfisinin ardından ayrılması, oyun sektöründe geniş yankı uyandırdı."
+      },
+      {
+        "card_title": "Standartlar Tartışması",
+        "card_body": "Süreç boyunca uygulanan kurallar ve standartlar, şirket içi denetim mekanizmaları hakkında soru işaretleri yarattı."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce üst düzey yönetimdeki bu tür ani ayrılıklar büyük şirketlerin geleceğini nasıl etkiler?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
