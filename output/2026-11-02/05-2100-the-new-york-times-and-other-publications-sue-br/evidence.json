@@ -1,0 +1,217 @@
+{
+  "title": "The New York Times and other publications sue Brave web browser for AI scraping and bypassing paywalls",
+  "canonical_url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+  "source_names": [
+    "The Verge",
+    "TechCrunch",
+    "Engadget",
+    "Ars Technica"
+  ],
+  "checked_at": "2026-11-02T20:54:43+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "The New York Times ve bir grup yayıncı, Brave web tarayıcısının üreticisine karşı telifli içeriklerin yapay zeka eğitimi için izinsiz kazındığı ve paywall'ların atılmasına izin verildiği gerekçesiyle dava açtı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "quote": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters."
+        }
+      ]
+    },
+    {
+      "claim": "New York Daily News, Chicago Tribune ve Orlando Sentinel gazetelerini işleten şirketler tarafından sunulan şikayet dilekçesine göre Brave Software, kazınan web sitelerinin endeksini paralı hale getirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "quote": "According to a complaint filed by the companies that run New York Daily News, the Chicago Tribune, and the Orlando Sentinel, Brave Software has monetized its index of scraped websites by, in part, providing AI companies with paid access to “real-time online content from the Brave Index.”"
+        }
+      ]
+    },
+    {
+      "claim": "Brave, Anthropic, Perplexity, Mistral, xAI ve Cohere dahil olmak üzere birçok yapay zeka şirketine çalınan telif haklı içerik sağladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "quote": "Brave has allegedly provided “stolen copyrighted content” to “many” AI companies including Anthropic, Perplexity, Mistral, xAI, and Cohere."
+        }
+      ]
+    },
+    {
+      "claim": "Brave tarayıcısı, kullanıcıların ödeme duvarlarını (paywall) izinsiz olarak atlamasını sağlayan bir Paywall blocker özelliğine sahip.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "quote": "Brave also promotes “hundreds of top publishers” as being accessible through its “Paywall blocker” feature in its browser."
+        }
+      ]
+    },
+    {
+      "claim": "Brave, yayıncılardan web sitelerine erişmek için hiçbir zaman izin istemedi ve içeriklerin kullanımı için tazminat ödemedi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "quote": "“Brave has never asked for the Publishers’ permission to access their websites, much less to copy the material and provide it to users or other AI companies,” the complaint says."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "quote": "“Brave has never compensated the Publishers for the unlawful use, copying, and distribution of the Publishers’ copyrighted content.”"
+        }
+      ]
+    },
+    {
+      "claim": "Perplexity'nin baş iletişim sorumlusu Jesse Dwyer, The Verge'e yaptığı açıklamada The New York Times'ın avukatlarına fazla, gazetecilerine ise az ödeme yaptığını söyledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "quote": "“The New York Times is overpaying its attorneys and underpaying its journalists. (Who could’ve easily identified the disinformation in this suit.)” Jesse Dwyer, Perplexity’s chief communications officer, says in a statement to The Verge."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "The New York Times ve bir grup yayıncı, Brave web tarayıcısının üreticisine karşı telifli içeriklerin yapay zeka eğitimi için izinsiz kazındığı ve paywall'ların atılmasına izin verildiği gerekçesiyle dava açtı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "quote": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters."
+        }
+      ]
+    },
+    {
+      "claim": "New York Daily News, Chicago Tribune ve Orlando Sentinel gazetelerini işleten şirketler tarafından sunulan şikayet dilekçesine göre Brave Software, kazınan web sitelerinin endeksini paralı hale getirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "quote": "According to a complaint filed by the companies that run New York Daily News, the Chicago Tribune, and the Orlando Sentinel, Brave Software has monetized its index of scraped websites by, in part, providing AI companies with paid access to “real-time online content from the Brave Index.”"
+        }
+      ]
+    },
+    {
+      "claim": "Brave, Anthropic, Perplexity, Mistral, xAI ve Cohere dahil olmak üzere birçok yapay zeka şirketine çalınan telif haklı içerik sağladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "quote": "Brave has allegedly provided “stolen copyrighted content” to “many” AI companies including Anthropic, Perplexity, Mistral, xAI, and Cohere."
+        }
+      ]
+    },
+    {
+      "claim": "Brave tarayıcısı, kullanıcıların ödeme duvarlarını (paywall) izinsiz olarak atlamasını sağlayan bir Paywall blocker özelliğine sahip.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "quote": "Brave also promotes “hundreds of top publishers” as being accessible through its “Paywall blocker” feature in its browser."
+        }
+      ]
+    },
+    {
+      "claim": "Brave, yayıncılardan web sitelerine erişmek için hiçbir zaman izin istemedi ve içeriklerin kullanımı için tazminat ödemedi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "quote": "“Brave has never asked for the Publishers’ permission to access their websites, much less to copy the material and provide it to users or other AI companies,” the complaint says."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "quote": "“Brave has never compensated the Publishers for the unlawful use, copying, and distribution of the Publishers’ copyrighted content.”"
+        }
+      ]
+    },
+    {
+      "claim": "Perplexity'nin baş iletişim sorumlusu Jesse Dwyer, The Verge'e yaptığı açıklamada The New York Times'ın avukatlarına fazla, gazetecilerine ise az ödeme yaptığını söyledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "quote": "“The New York Times is overpaying its attorneys and underpaying its journalists. (Who could’ve easily identified the disinformation in this suit.)” Jesse Dwyer, Perplexity’s chief communications officer, says in a statement to The Verge."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "The New York Times ve bir grup yayıncı, Brave web tarayıcısının üreticisine karşı telifli içeriklerin yapay zeka eğitimi için izinsiz kazındığı ve paywall'ların atılmasına izin verildiği gerekçesiyle dava açtı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "quote": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters."
+        }
+      ]
+    },
+    {
+      "claim": "New York Daily News, Chicago Tribune ve Orlando Sentinel gazetelerini işleten şirketler tarafından sunulan şikayet dilekçesine göre Brave Software, kazınan web sitelerinin endeksini paralı hale getirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "quote": "According to a complaint filed by the companies that run New York Daily News, the Chicago Tribune, and the Orlando Sentinel, Brave Software has monetized its index of scraped websites by, in part, providing AI companies with paid access to “real-time online content from the Brave Index.”"
+        }
+      ]
+    },
+    {
+      "claim": "Brave, Anthropic, Perplexity, Mistral, xAI ve Cohere dahil olmak üzere birçok yapay zeka şirketine çalınan telif haklı içerik sağladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "quote": "Brave has allegedly provided “stolen copyrighted content” to “many” AI companies including Anthropic, Perplexity, Mistral, xAI, and Cohere."
+        }
+      ]
+    },
+    {
+      "claim": "Brave tarayıcısı, kullanıcıların ödeme duvarlarını (paywall) izinsiz olarak atlamasını sağlayan bir Paywall blocker özelliğine sahip.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "quote": "Brave also promotes “hundreds of top publishers” as being accessible through its “Paywall blocker” feature in its browser."
+        }
+      ]
+    },
+    {
+      "claim": "Brave, yayıncılardan web sitelerine erişmek için hiçbir zaman izin istemedi ve içeriklerin kullanımı için tazminat ödemedi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "quote": "“Brave has never asked for the Publishers’ permission to access their websites, much less to copy the material and provide it to users or other AI companies,” the complaint says."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "quote": "“Brave has never compensated the Publishers for the unlawful use, copying, and distribution of the Publishers’ copyrighted content.”"
+        }
+      ]
+    },
+    {
+      "claim": "Perplexity'nin baş iletişim sorumlusu Jesse Dwyer, The Verge'e yaptığı açıklamada The New York Times'ın avukatlarına fazla, gazetecilerine ise az ödeme yaptığını söyledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "quote": "“The New York Times is overpaying its attorneys and underpaying its journalists. (Who could’ve easily identified the disinformation in this suit.)” Jesse Dwyer, Perplexity’s chief communications officer, says in a statement to The Verge."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times": 2430,
+    "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/": 4114,
+    "https://www.engadget.com/2301054/using-one-earbud-more-than-other-cause-uneven-wear-and-tear/": 4527,
+    "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/": 1917
+  }
+}

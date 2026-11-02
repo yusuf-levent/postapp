@@ -1,0 +1,27 @@
+{
+  "images": [
+    {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Brave_Browser_Phone_%26_Desktop_screenshot%2C_2025.10.05.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-02/05-2100-the-new-york-times-and-other-publications-sue-br/images/img-1.png",
+      "license": "",
+      "author": "",
+      "credit_url": "https://en.wikipedia.org/wiki/Brave%20Software",
+      "width": 2560,
+      "height": 1600,
+      "alt_text": "Brave Software"
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/18941949/pexels-photo-18941949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-02/05-2100-the-new-york-times-and-other-publications-sue-br/images/img-2.png",
+      "license": "Pexels License — Afif Ramdhasuma",
+      "author": "Afif Ramdhasuma",
+      "credit_url": "https://www.pexels.com/photo/yellow-new-york-taxi-in-front-of-new-york-times-building-18941949/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "Street view of the New York Times Building surrounded by taxis in bustling New York City."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}
