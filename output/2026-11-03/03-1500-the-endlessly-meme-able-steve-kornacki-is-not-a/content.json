@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE TEKNOLOJI",
+    "title": "NBC VERI UZMANI SUBREDDIT KAVRAMINI BILMIYOR",
+    "highlight_words": [
+      "SUBREDDIT",
+      "BILMIYOR"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "NBC'nin başvurduğu veri uzmanı bile bir subreddit'in tam olarak ne olduğundan emin değil.",
+    "source_tags": [
+      "WIRED",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Gündemdeki Şaşırtıcı Detay",
+    "cards": [
+      {
+        "card_title": "Veri Uzmanının Durumu",
+        "card_body": "NBC'nin başvurduğu veri uzmanı, internet kültürünün en bilinen platformlarından biri olan subreddit hakkında emin değil."
+      },
+      {
+        "card_title": "Kaynak Raporları",
+        "card_body": "Teknoloji basını ve haber kaynakları bu ilginç detayı doğrulanan bilgiler arasında paylaştı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "NBC",
+    "stat_caption": "Veri uzmanının internet platformlarına yaklaşımı soru işaretleri yarattı.",
+    "stat_quote": "NBC's go-to data guru also isn’t quite sure what a subreddit is."
+  },
+  "details": {
+    "heading": "Olayın Arka Planı",
+    "cards": [
+      {
+        "card_title": "Uzman Konumu",
+        "card_body": "Medya kuruluşlarının veri analizi için güvendiği isimlerin dijital kültürle ilişkisi tartışılıyor."
+      },
+      {
+        "card_title": "Platform Bilgisi",
+        "card_body": "Milyonlarca kullanıcısı olan subreddit yapıları, uzmanlar tarafından bile bazen tam olarak bilinmeyebiliyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etkiler",
+    "cards": [
+      {
+        "card_title": "Medya ve Veri",
+        "card_body": "Büyük medya kuruluşlarının veri ve internet kültürü okuryazarlığı yeniden masaya yatırılıyor."
+      },
+      {
+        "card_title": "Kullanıcı Algısı",
+        "card_body": "İnternet topluluklarının dinamikleri ile geleneksel medya uzmanları arasındaki boşluk gözler önüne seriliyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce bir veri uzmanının popüler internet platformlarına yabancı olması büyük bir eksiklik mi?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki tarafsız gelişmeler için Tekno Pusula'yı takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

@@ -1,0 +1,10 @@
+{
+  "slot": "15:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 73.8,
+  "candidates_tried": 1,
+  "gemini_calls": 11,
+  "canonical_url": "https://www.wired.com/story/steve-kornacki-user-behavior/",
+  "generated_at": "2026-11-03T14:42:44+03:00"
+}
