@@ -1,0 +1,53 @@
+{
+  "dry_run": false,
+  "platforms": {
+    "instagram": {
+      "platform": "instagram",
+      "state": "published",
+      "external_id": "6aea0e2dce22073f337e0abf",
+      "permalink": "",
+      "attempts": 1,
+      "last_error": ""
+    },
+    "tiktok": {
+      "platform": "tiktok",
+      "state": "published",
+      "external_id": "6aea0e45985f73e5825b0663",
+      "permalink": "",
+      "attempts": 1,
+      "last_error": ""
+    },
+    "x": {
+      "platform": "x",
+      "state": "published",
+      "external_id": "6aea0e5ceeb5512868739b02",
+      "permalink": "https://twitter.com/tekno_pusulatr/status/2117658048458060109",
+      "attempts": 1,
+      "last_error": ""
+    },
+    "threads": {
+      "platform": "threads",
+      "state": "failed",
+      "external_id": "",
+      "permalink": "",
+      "attempts": 1,
+      "last_error": "HTTP 400: {\"error\":{\"message\":\"The requested resource does not exist\",\"type\":\"OAuthException\",\"code\":24,\"error_subcode\":4279009,\"is_transient\":false,\"error_user_title\":\"Media Not Found\",\"error_user_msg\":\"The media with id 18130973443782657 cannot be found.\",\"fbtrace_id\":\"APnPB-PbREYKeWwcHFHpdN9\"}}"
+    },
+    "linkedin": {
+      "platform": "linkedin",
+      "state": "published",
+      "external_id": "6aea0e79b75704f9ac63ef13",
+      "permalink": "",
+      "attempts": 1,
+      "last_error": ""
+    },
+    "facebook": {
+      "platform": "facebook",
+      "state": "published",
+      "external_id": "6aea0e9001362e3aaea68bcf",
+      "permalink": "https://facebook.com/1351036918092059_122120776311484840",
+      "attempts": 1,
+      "last_error": ""
+    }
+  }
+}
