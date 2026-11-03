@@ -1,0 +1,127 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ REHBERİ",
+    "title": "Samsung Telefonlarda H+ Ne Anlama Geliyor?",
+    "highlight_words": [
+      "H+"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Ağ bağlantı hızları ve teknoloji detayları",
+    "source_tags": [
+      "Engadget",
+      "BBC News",
+      "Google DeepMind"
+    ]
+  },
+  "problem": {
+    "heading": "Mobil Ağ Simgeleri ve Gerçekler",
+    "cards": [
+      {
+        "card_title": "H+ Sembolü Nedir?",
+        "card_body": "Samsung telefonlarda H+ sembolü HSPA+ ağ bağlantısına işaret eder."
+      },
+      {
+        "card_title": "HSPA Teknolojisi",
+        "card_body": "HSPA, 21 Mbps'ye kadar veri hızı sağlayan bir ağ teknolojisidir."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "HSPA+ ve LTE Hız Karşılaştırması",
+      "cards": [
+        {
+          "card_title": "Gerçek HSPA+ Hızları",
+          "card_body": "HSPA+ ağı kullanıldığında deneyimlenen gerçek hızlar 3.5 ile 14 Mbps arasındadır."
+        },
+        {
+          "card_title": "Kırsal Bölge Durumu",
+          "card_body": "Kırsal bölgelerde HSPA+ hızları 1.5 Mbps'ye kadar düşebilir."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Modern LTE Ağları",
+      "cards": [
+        {
+          "card_title": "Standart LTE Hızları",
+          "card_body": "LTE hızları 12 ile 40 Mbps arasında değişmektedir."
+        },
+        {
+          "card_title": "LTE Advanced Hızları",
+          "card_body": "LTE Advanced hızları 25 ile 220 Mbps arasındadır."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "VoLTE ve Ağ Kapanışları",
+      "cards": [
+        {
+          "card_title": "VoLTE Desteği",
+          "card_body": "S4 modelinden bu yana neredeyse tüm Samsung Galaxy telefonlar VoLTE'yi desteklemektedir."
+        },
+        {
+          "card_title": "Küresel Gelişmeler",
+          "card_body": "Kanada'daki Bell Mobility, 3G ve HSPA ağını 1 Mart 2027'ye kadar tamamen sonlandırma planlarını duyurmuştur."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Telefonunuzda hangi ağ simgesini görüyorsunuz?",
+    "reminder_line": "Teknoloji gelişmelerini kaçırmamak için bizi takip edin."
+  },
+  "context": {
+    "heading": "Mobil Ağ Simgeleri ve Gerçekler",
+    "cards": [
+      {
+        "card_title": "H+ Sembolü Nedir?",
+        "card_body": "Samsung telefonlarda H+ sembolü HSPA+ ağ bağlantısına işaret eder."
+      },
+      {
+        "card_title": "HSPA Teknolojisi",
+        "card_body": "HSPA, 21 Mbps'ye kadar veri hızı sağlayan bir ağ teknolojisidir."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "HSPA+ ve LTE Hız Karşılaştırması",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Modern LTE Ağları",
+    "cards": [
+      {
+        "card_title": "Standart LTE Hızları",
+        "card_body": "LTE hızları 12 ile 40 Mbps arasında değişmektedir."
+      },
+      {
+        "card_title": "LTE Advanced Hızları",
+        "card_body": "LTE Advanced hızları 25 ile 220 Mbps arasındadır."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "VoLTE ve Ağ Kapanışları",
+    "cards": [
+      {
+        "card_title": "VoLTE Desteği",
+        "card_body": "S4 modelinden bu yana neredeyse tüm Samsung Galaxy telefonlar VoLTE'yi desteklemektedir."
+      },
+      {
+        "card_title": "Küresel Gelişmeler",
+        "card_body": "Kanada'daki Bell Mobility, 3G ve HSPA ağını 1 Mart 2027'ye kadar tamamen sonlandırma planlarını duyurmuştur."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}
