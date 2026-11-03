@@ -1,0 +1,10 @@
+{
+  "slot": "18:00",
+  "type": "edu",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 75.4,
+  "candidates_tried": 1,
+  "gemini_calls": 11,
+  "canonical_url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+  "generated_at": "2026-11-03T19:39:04+03:00"
+}

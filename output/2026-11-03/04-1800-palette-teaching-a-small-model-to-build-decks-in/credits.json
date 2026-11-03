@@ -1,0 +1,16 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://cdn-uploads.huggingface.co/production/uploads/63890e3843d8b0797a0ad606/5pHD09UHuAK-6OyKGKimD.png",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-03/04-1800-palette-teaching-a-small-model-to-build-decks-in/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "width": 2600,
+      "height": 1300,
+      "alt_text": ""
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}

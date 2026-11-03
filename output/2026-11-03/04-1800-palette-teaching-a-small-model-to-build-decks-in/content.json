@@ -1,0 +1,128 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA",
+    "title": "Palette Modelini Keşfedin",
+    "highlight_words": [
+      "Palette"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "IBM Design Language ile Eğitilen 20 Milyar Parametreli Model",
+    "source_tags": [
+      "Hugging Face Blog",
+      "Engadget",
+      "Ars Technica",
+      "MIT Technology Review"
+    ]
+  },
+  "problem": {
+    "heading": "Palette Nedir?",
+    "cards": [
+      {
+        "card_title": "Model Altyapısı",
+        "card_body": "Palette, IBM Design Language'i takip eden 20 milyar parametreli bir modeldir."
+      },
+      {
+        "card_title": "Performans Başarısı",
+        "card_body": "PresentBench üzerinde ölçülen üç domenden ikisinde birinci sırada yer almaktadır."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Eğitim Verileri",
+      "cards": [
+        {
+          "card_title": "Sunum Havuzu",
+          "card_body": "Eğitim verileri için yaklaşık 10.000 slaytı kapsayan yaklaşık 1000 sunum üretilmiştir."
+        },
+        {
+          "card_title": "Veri Tarifler",
+          "card_body": "Veri tarifleri 12 kategoriden direktifler içermektedir."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Kod ve Tasarım",
+      "cards": [
+        {
+          "card_title": "Örnek Uzunlukları",
+          "card_body": "Kodlayıcı örnekleri tasarımcı örneklerinden yaklaşık 5 kat daha uzundur."
+        },
+        {
+          "card_title": "Yapısal Dağılım",
+          "card_body": "Veriler kod ve tasarım odaklı örneklerle zenginleştirilmiştir."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Sonuçlar",
+      "cards": [
+        {
+          "card_title": "Başarı Oranı",
+          "card_body": "Model, benchmark testlerinde üstün başarı göstermiştir."
+        },
+        {
+          "card_title": "Alan Yetkinliği",
+          "card_body": "Üç domenden ikisinde elde edilen birincilik dikkat çekmektedir."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Bu modelin sunduğu yenilikler hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji ve yapay zeka gelişmeleri için takipte kalın!"
+  },
+  "context": {
+    "heading": "Palette Nedir?",
+    "cards": [
+      {
+        "card_title": "Model Altyapısı",
+        "card_body": "Palette, IBM Design Language'i takip eden 20 milyar parametreli bir modeldir."
+      },
+      {
+        "card_title": "Performans Başarısı",
+        "card_body": "PresentBench üzerinde ölçülen üç domenden ikisinde birinci sırada yer almaktadır."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Eğitim Verileri",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Kod ve Tasarım",
+    "cards": [
+      {
+        "card_title": "Örnek Uzunlukları",
+        "card_body": "Kodlayıcı örnekleri tasarımcı örneklerinden yaklaşık 5 kat daha uzundur."
+      },
+      {
+        "card_title": "Yapısal Dağılım",
+        "card_body": "Veriler kod ve tasarım odaklı örneklerle zenginleştirilmiştir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sonuçlar",
+    "cards": [
+      {
+        "card_title": "Başarı Oranı",
+        "card_body": "Model, benchmark testlerinde üstün başarı göstermiştir."
+      },
+      {
+        "card_title": "Alan Yetkinliği",
+        "card_body": "Üç domenden ikisinde elde edilen birincilik dikkat çekmektedir."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}

@@ -1,0 +1,253 @@
+{
+  "title": "Palette: teaching a small model to build decks in your design language",
+  "canonical_url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+  "source_names": [
+    "Hugging Face Blog",
+    "Engadget",
+    "Ars Technica",
+    "MIT Technology Review"
+  ],
+  "checked_at": "2026-11-03T19:38:18+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Palette, IBM Design Language'i takip eden 20 milyar parametreli bir modeli fine-tune etmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "We fine-tuned a 20B model to build decks the way people do: a designer plans the deck and a coder draws each slide. Its training data follows the IBM Design Language, and on PresentBench it ranks first on two of the three domains we measured."
+        },
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "We fine-tuned a 20B model to build decks the way people do: a designer plans the deck and a coder draws each slide. Its training data follows the IBM Design Language..."
+        }
+      ]
+    },
+    {
+      "claim": "Palette, PresentBench üzerinde ölçülen üç domenden ikisinde birinci sırada yer almaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "Its training data follows the IBM Design Language, and on PresentBench it ranks first on two of the three domains we measured."
+        },
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "...and on PresentBench it ranks first on two of the three domains we measured."
+        }
+      ]
+    },
+    {
+      "claim": "Eğitim verileri için yaklaşık 10.000 slaytı kapsayan yaklaşık 1000 sunum üretilmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "We generated around 1000 decks covering roughly 10,000 slides."
+        }
+      ]
+    },
+    {
+      "claim": "Harness, 131 sunum boyunca ortalama 3.5 puan eklemektedir.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Üç domen genelinde Palette, NotebookLM'in 1.1 puan gerisinde 59.7 puanla ikinci sırada yer almaktadır.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Veri tarifleri 12 kategoriden direktifler içermektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "The data recipes include directives from 12 categories, a few of which are shown below, each phrased several different ways, so the model learns the intent rather than a fixed phrase."
+        },
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "The data recipes include directives from 12 categories, a few of which are shown below..."
+        }
+      ]
+    },
+    {
+      "claim": "Kodlayıcı örnekleri tasarımcı örneklerinden yaklaşık 5 kat daha uzundur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "One lesson: coder examples are about 5× longer than designer examples, so a naive mix undertrained the designer until we oversampled its examples 5×."
+        },
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "One lesson: coder examples are about 5× longer than designer examples..."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Palette, IBM Design Language'i takip eden 20 milyar parametreli bir modeli fine-tune etmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "We fine-tuned a 20B model to build decks the way people do: a designer plans the deck and a coder draws each slide. Its training data follows the IBM Design Language, and on PresentBench it ranks first on two of the three domains we measured."
+        },
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "We fine-tuned a 20B model to build decks the way people do: a designer plans the deck and a coder draws each slide. Its training data follows the IBM Design Language..."
+        }
+      ]
+    },
+    {
+      "claim": "Palette, PresentBench üzerinde ölçülen üç domenden ikisinde birinci sırada yer almaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "Its training data follows the IBM Design Language, and on PresentBench it ranks first on two of the three domains we measured."
+        },
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "...and on PresentBench it ranks first on two of the three domains we measured."
+        }
+      ]
+    },
+    {
+      "claim": "Eğitim verileri için yaklaşık 10.000 slaytı kapsayan yaklaşık 1000 sunum üretilmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "We generated around 1000 decks covering roughly 10,000 slides."
+        }
+      ]
+    },
+    {
+      "claim": "Harness, 131 sunum boyunca ortalama 3.5 puan eklemektedir.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Üç domen genelinde Palette, NotebookLM'in 1.1 puan gerisinde 59.7 puanla ikinci sırada yer almaktadır.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Veri tarifleri 12 kategoriden direktifler içermektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "The data recipes include directives from 12 categories, a few of which are shown below, each phrased several different ways, so the model learns the intent rather than a fixed phrase."
+        },
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "The data recipes include directives from 12 categories, a few of which are shown below..."
+        }
+      ]
+    },
+    {
+      "claim": "Kodlayıcı örnekleri tasarımcı örneklerinden yaklaşık 5 kat daha uzundur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "One lesson: coder examples are about 5× longer than designer examples, so a naive mix undertrained the designer until we oversampled its examples 5×."
+        },
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "One lesson: coder examples are about 5× longer than designer examples..."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Palette, IBM Design Language'i takip eden 20 milyar parametreli bir modeli fine-tune etmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "We fine-tuned a 20B model to build decks the way people do: a designer plans the deck and a coder draws each slide. Its training data follows the IBM Design Language, and on PresentBench it ranks first on two of the three domains we measured."
+        },
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "We fine-tuned a 20B model to build decks the way people do: a designer plans the deck and a coder draws each slide. Its training data follows the IBM Design Language..."
+        }
+      ]
+    },
+    {
+      "claim": "Palette, PresentBench üzerinde ölçülen üç domenden ikisinde birinci sırada yer almaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "Its training data follows the IBM Design Language, and on PresentBench it ranks first on two of the three domains we measured."
+        },
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "...and on PresentBench it ranks first on two of the three domains we measured."
+        }
+      ]
+    },
+    {
+      "claim": "Eğitim verileri için yaklaşık 10.000 slaytı kapsayan yaklaşık 1000 sunum üretilmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "We generated around 1000 decks covering roughly 10,000 slides."
+        }
+      ]
+    },
+    {
+      "claim": "Harness, 131 sunum boyunca ortalama 3.5 puan eklemektedir.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Üç domen genelinde Palette, NotebookLM'in 1.1 puan gerisinde 59.7 puanla ikinci sırada yer almaktadır.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Veri tarifleri 12 kategoriden direktifler içermektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "The data recipes include directives from 12 categories, a few of which are shown below, each phrased several different ways, so the model learns the intent rather than a fixed phrase."
+        },
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "The data recipes include directives from 12 categories, a few of which are shown below..."
+        }
+      ]
+    },
+    {
+      "claim": "Kodlayıcı örnekleri tasarımcı örneklerinden yaklaşık 5 kat daha uzundur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "One lesson: coder examples are about 5× longer than designer examples, so a naive mix undertrained the designer until we oversampled its examples 5×."
+        },
+        {
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "quote": "One lesson: coder examples are about 5× longer than designer examples..."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://huggingface.co/blog/ibm-research/palette-deck-building": 11346,
+    "https://www.engadget.com/2303890/easy-way-turn-regular-tv-smart/": 3493,
+    "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/": 13159,
+    "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/": 8362
+  }
+}
