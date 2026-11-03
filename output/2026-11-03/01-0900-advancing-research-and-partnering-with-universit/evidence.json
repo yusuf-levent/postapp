@@ -7,7 +7,7 @@
     "The Verge",
     "Ars Technica"
   ],
-  "checked_at": "2026-11-03T08:52:32+03:00",
+  "checked_at": "2026-11-03T09:07:11+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
@@ -22,49 +22,37 @@
       ]
     },
     {
-      "claim": "NUS, yapay zeka modelleri ve veri bilimi kullanarak nörodejeneratif hastalık araştırmalarında ilerlemeler kaydetmek amacıyla 1,5 milyon dolarlık AI for Science Google.org Etki Yarışması Hibe Ödülü almıştır.",
+      "claim": "NUS, 3.500'den fazla küresel başvuru arasından seçilerek yapay zeka modelleriyle nörodejeneratif hastalık araştırmalarını ilerletmek için 1,5 milyon dolarlık AI for Science Google.org Impact Challenge Grant almaya hak kazanmıştır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
           "quote": "Alzheimer’s research ($1.5 million grant — NUS): Selected from over 3,500 global applications, NUS has been awarded an AI for Science Google.org Impact Challenge Grant to advance breakthroughs in neurodegenerative disease research using AI models and data science."
-        },
-        {
-          "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
-          "quote": "- Alzheimer’s research ($1.5 million grant — NUS): Selected from over 3,500 global applications, NUS has been awarded an AI for Science Google.org Impact Challenge Grant to advance breakthroughs in neurodegenerative disease research using AI models and data science."
         }
       ]
     },
     {
-      "claim": "NUS'a makine öğrenimi verimliliği ve bölgesel dil işleme çalışmaları için 500.000 dolar hibe sağlanmıştır.",
+      "claim": "Google, makine öğrenimi verimliliği ve bölgesel dil işleme çalışmalarını desteklemek için NUS'a 500.000 dolar hibe sağlamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
           "quote": "Computing efficiency and regional languages ($500,000 grant — NUS): This funding supports machine learning efficiency — focusing on sustainable compute and model serving optimization — and regional language processing."
-        },
-        {
-          "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
-          "quote": "- Computing efficiency and regional languages ($500,000 grant — NUS): This funding supports machine learning efficiency — focusing on sustainable compute and model serving optimization — and regional language processing."
         }
       ]
     },
     {
-      "claim": "NTU'da yapay zeka güvenliği çerçeveleri, sağlam değerlendirme metodolojileri, güvenilir çoklu ajan sistemleri ve gizliliği koruyan LLM filigranı üzerine odaklanan dört sponsorlu araştırma çalışması için 340.000 dolar finansman sağlanmaktadır.",
+      "claim": "Google, NTU'da yapay zeka güvenliği, değerlendirme metodolojileri, güvenilir çoklu ajan sistemleri ve gizliliği koruyan LLM filigranı konularına odaklanan dört araştırma çalışmasını 340.000 dolar ile finanse etmektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
           "quote": "AI safety and security ($340,000 grant — NTU): We are funding four sponsored research studies at NTU focused on advancing AI safety frameworks, robust evaluation methodologies, trustworthy multi-agent systems, and privacy-preserving LLM watermarking."
-        },
-        {
-          "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
-          "quote": "- AI safety and security ($340,000 grant — NTU): We are funding four sponsored research studies at NTU focused on advancing AI safety frameworks, robust evaluation methodologies, trustworthy multi-agent systems, and privacy-preserving LLM watermarking."
         }
       ]
     },
     {
-      "claim": "NTU'daki Güneydoğu Asya genelinde kalıcı araştırma yetenekleri oluşturmaya yardımcı olmak amacıyla 750.000 dolarlık AI for Science Kapasite Fonu Hibe Ödülü verilmiştir.",
+      "claim": "NTU'da Güneydoğu Asya'da kalıcı araştırma yetenekleri oluşturmak amacıyla 750.000 dolarlık AI for Science Capacity Fund Grant sağlanmıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -74,7 +62,7 @@
       ]
     },
     {
-      "claim": "Google.org ve Google DeepMind, insanların ve organizasyonların hızlı teknolojik değişimle birlikte nasıl başarılı olabileceğine dair küresel araştırma yapmak üzere Singapur'daki INSEAD'in Thrive Lab laboratuvarına 3 milyon dolar finansman sağlamaktadır.",
+      "claim": "Google.org ve Google DeepMind, insanların ve organizasyonların teknolojik değişimle birlikte gelişmesini araştıran INSEAD'in Singapur'daki Thrive Lab laboratuvarını desteklemek için 3 milyon dolar fon sağlamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -96,49 +84,37 @@
       ]
     },
     {
-      "claim": "NUS, yapay zeka modelleri ve veri bilimi kullanarak nörodejeneratif hastalık araştırmalarında ilerlemeler kaydetmek amacıyla 1,5 milyon dolarlık AI for Science Google.org Etki Yarışması Hibe Ödülü almıştır.",
+      "claim": "NUS, 3.500'den fazla küresel başvuru arasından seçilerek yapay zeka modelleriyle nörodejeneratif hastalık araştırmalarını ilerletmek için 1,5 milyon dolarlık AI for Science Google.org Impact Challenge Grant almaya hak kazanmıştır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
           "quote": "Alzheimer’s research ($1.5 million grant — NUS): Selected from over 3,500 global applications, NUS has been awarded an AI for Science Google.org Impact Challenge Grant to advance breakthroughs in neurodegenerative disease research using AI models and data science."
-        },
-        {
-          "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
-          "quote": "- Alzheimer’s research ($1.5 million grant — NUS): Selected from over 3,500 global applications, NUS has been awarded an AI for Science Google.org Impact Challenge Grant to advance breakthroughs in neurodegenerative disease research using AI models and data science."
         }
       ]
     },
     {
-      "claim": "NUS'a makine öğrenimi verimliliği ve bölgesel dil işleme çalışmaları için 500.000 dolar hibe sağlanmıştır.",
+      "claim": "Google, makine öğrenimi verimliliği ve bölgesel dil işleme çalışmalarını desteklemek için NUS'a 500.000 dolar hibe sağlamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
           "quote": "Computing efficiency and regional languages ($500,000 grant — NUS): This funding supports machine learning efficiency — focusing on sustainable compute and model serving optimization — and regional language processing."
-        },
-        {
-          "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
-          "quote": "- Computing efficiency and regional languages ($500,000 grant — NUS): This funding supports machine learning efficiency — focusing on sustainable compute and model serving optimization — and regional language processing."
         }
       ]
     },
     {
-      "claim": "NTU'da yapay zeka güvenliği çerçeveleri, sağlam değerlendirme metodolojileri, güvenilir çoklu ajan sistemleri ve gizliliği koruyan LLM filigranı üzerine odaklanan dört sponsorlu araştırma çalışması için 340.000 dolar finansman sağlanmaktadır.",
+      "claim": "Google, NTU'da yapay zeka güvenliği, değerlendirme metodolojileri, güvenilir çoklu ajan sistemleri ve gizliliği koruyan LLM filigranı konularına odaklanan dört araştırma çalışmasını 340.000 dolar ile finanse etmektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
           "quote": "AI safety and security ($340,000 grant — NTU): We are funding four sponsored research studies at NTU focused on advancing AI safety frameworks, robust evaluation methodologies, trustworthy multi-agent systems, and privacy-preserving LLM watermarking."
-        },
-        {
-          "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
-          "quote": "- AI safety and security ($340,000 grant — NTU): We are funding four sponsored research studies at NTU focused on advancing AI safety frameworks, robust evaluation methodologies, trustworthy multi-agent systems, and privacy-preserving LLM watermarking."
         }
       ]
     },
     {
-      "claim": "NTU'daki Güneydoğu Asya genelinde kalıcı araştırma yetenekleri oluşturmaya yardımcı olmak amacıyla 750.000 dolarlık AI for Science Kapasite Fonu Hibe Ödülü verilmiştir.",
+      "claim": "NTU'da Güneydoğu Asya'da kalıcı araştırma yetenekleri oluşturmak amacıyla 750.000 dolarlık AI for Science Capacity Fund Grant sağlanmıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -148,7 +124,7 @@
       ]
     },
     {
-      "claim": "Google.org ve Google DeepMind, insanların ve organizasyonların hızlı teknolojik değişimle birlikte nasıl başarılı olabileceğine dair küresel araştırma yapmak üzere Singapur'daki INSEAD'in Thrive Lab laboratuvarına 3 milyon dolar finansman sağlamaktadır.",
+      "claim": "Google.org ve Google DeepMind, insanların ve organizasyonların teknolojik değişimle birlikte gelişmesini araştıran INSEAD'in Singapur'daki Thrive Lab laboratuvarını desteklemek için 3 milyon dolar fon sağlamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -170,49 +146,37 @@
       ]
     },
     {
-      "claim": "NUS, yapay zeka modelleri ve veri bilimi kullanarak nörodejeneratif hastalık araştırmalarında ilerlemeler kaydetmek amacıyla 1,5 milyon dolarlık AI for Science Google.org Etki Yarışması Hibe Ödülü almıştır.",
+      "claim": "NUS, 3.500'den fazla küresel başvuru arasından seçilerek yapay zeka modelleriyle nörodejeneratif hastalık araştırmalarını ilerletmek için 1,5 milyon dolarlık AI for Science Google.org Impact Challenge Grant almaya hak kazanmıştır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
           "quote": "Alzheimer’s research ($1.5 million grant — NUS): Selected from over 3,500 global applications, NUS has been awarded an AI for Science Google.org Impact Challenge Grant to advance breakthroughs in neurodegenerative disease research using AI models and data science."
-        },
-        {
-          "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
-          "quote": "- Alzheimer’s research ($1.5 million grant — NUS): Selected from over 3,500 global applications, NUS has been awarded an AI for Science Google.org Impact Challenge Grant to advance breakthroughs in neurodegenerative disease research using AI models and data science."
         }
       ]
     },
     {
-      "claim": "NUS'a makine öğrenimi verimliliği ve bölgesel dil işleme çalışmaları için 500.000 dolar hibe sağlanmıştır.",
+      "claim": "Google, makine öğrenimi verimliliği ve bölgesel dil işleme çalışmalarını desteklemek için NUS'a 500.000 dolar hibe sağlamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
           "quote": "Computing efficiency and regional languages ($500,000 grant — NUS): This funding supports machine learning efficiency — focusing on sustainable compute and model serving optimization — and regional language processing."
-        },
-        {
-          "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
-          "quote": "- Computing efficiency and regional languages ($500,000 grant — NUS): This funding supports machine learning efficiency — focusing on sustainable compute and model serving optimization — and regional language processing."
         }
       ]
     },
     {
-      "claim": "NTU'da yapay zeka güvenliği çerçeveleri, sağlam değerlendirme metodolojileri, güvenilir çoklu ajan sistemleri ve gizliliği koruyan LLM filigranı üzerine odaklanan dört sponsorlu araştırma çalışması için 340.000 dolar finansman sağlanmaktadır.",
+      "claim": "Google, NTU'da yapay zeka güvenliği, değerlendirme metodolojileri, güvenilir çoklu ajan sistemleri ve gizliliği koruyan LLM filigranı konularına odaklanan dört araştırma çalışmasını 340.000 dolar ile finanse etmektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
           "quote": "AI safety and security ($340,000 grant — NTU): We are funding four sponsored research studies at NTU focused on advancing AI safety frameworks, robust evaluation methodologies, trustworthy multi-agent systems, and privacy-preserving LLM watermarking."
-        },
-        {
-          "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
-          "quote": "- AI safety and security ($340,000 grant — NTU): We are funding four sponsored research studies at NTU focused on advancing AI safety frameworks, robust evaluation methodologies, trustworthy multi-agent systems, and privacy-preserving LLM watermarking."
         }
       ]
     },
     {
-      "claim": "NTU'daki Güneydoğu Asya genelinde kalıcı araştırma yetenekleri oluşturmaya yardımcı olmak amacıyla 750.000 dolarlık AI for Science Kapasite Fonu Hibe Ödülü verilmiştir.",
+      "claim": "NTU'da Güneydoğu Asya'da kalıcı araştırma yetenekleri oluşturmak amacıyla 750.000 dolarlık AI for Science Capacity Fund Grant sağlanmıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -222,7 +186,7 @@
       ]
     },
     {
-      "claim": "Google.org ve Google DeepMind, insanların ve organizasyonların hızlı teknolojik değişimle birlikte nasıl başarılı olabileceğine dair küresel araştırma yapmak üzere Singapur'daki INSEAD'in Thrive Lab laboratuvarına 3 milyon dolar finansman sağlamaktadır.",
+      "claim": "Google.org ve Google DeepMind, insanların ve organizasyonların teknolojik değişimle birlikte gelişmesini araştıran INSEAD'in Singapur'daki Thrive Lab laboratuvarını desteklemek için 3 milyon dolar fon sağlamaktadır.",
       "verdict": "supported",
       "evidence": [
         {

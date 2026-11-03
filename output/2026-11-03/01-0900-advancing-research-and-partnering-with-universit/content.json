@@ -1,14 +1,13 @@
 {
   "cover": {
     "category_label": "YAPAY ZEKA VE ARAŞTIRMA",
-    "title": "Google'dan Singapur'a Büyük Yapay Zeka Yatırımı",
+    "title": "Google'dan Bilime 6 Milyon Dolar Yatırım",
     "highlight_words": [
-      "Büyük",
-      "Yapay",
-      "Zeka"
+      "6 Milyon Dolar",
+      "Yatırım"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Google, NUS ve NTU araştırma hibelerine 6 milyon dolardan fazla yatırım yapıyor.",
+    "subtitle": "Singapur'daki üniversiteler ve araştırma laboratuvarları için yeni hibeler açıklandı.",
     "source_tags": [
       "GOOGLE BLOG",
       "TECHCRUNCH"
@@ -19,52 +18,52 @@
     "cards": [
       {
         "card_title": "Araştırma Hibeleri",
-        "card_body": "Google, National University of Singapore ve Nanyang Technological University bünyesindeki yeni girişimlere 6 milyon dolardan fazla yatırım yapmaktadır."
+        "card_body": "Google, NUS ve NTU bünyesindeki yeni araştırma hibeleri ile kapasite geliştirme girişimlerine 6 milyon dolardan fazla yatırım yapıyor."
       },
       {
-        "card_title": "Stratejik Ortaklıklar",
-        "card_body": "Yatırımlar yapay zeka modelleri, veri bilimi ve kapasite geliştirme projelerini desteklemektedir."
+        "card_title": "Thrive Lab Desteği",
+        "card_body": "Google.org ve Google DeepMind, INSEAD'in Singapur'daki Thrive Lab laboratuvarını desteklemek için 3 milyon dolar fon sağlıyor."
       }
     ]
   },
   "stat": {
     "big_stat": "6 MİLYON $",
-    "stat_caption": "Google'ın Singapur'daki araştırma hibeleri ve kapasite geliştirme girişimlerine yaptığı toplam yatırım.",
+    "stat_caption": "Google'ın Singapur'daki üniversite ve araştırma hibeleri için ayırdığı toplam yatırım miktarı.",
     "stat_quote": "Google, NUS ve NTU bünyesindeki yeni araştırma hibeleri ve kapasite geliştirme girişimlerine 6 milyon dolardan fazla yatırım yapmaktadır."
   },
   "details": {
-    "heading": "Proje Detayları ve Dağılım",
+    "heading": "Hibelerin Dağılımı",
     "cards": [
       {
-        "card_title": "NUS Ödülleri",
-        "card_body": "NUS, nörodejeneratif hastalık araştırmaları için 1,5 milyon dolarlık AI for Science Google.org Etki Yarışması Hibe Ödülü almıştır. Ayrıca 500.000 dolar hibe sağlanmıştır."
+        "card_title": "NUS Araştırmaları",
+        "card_body": "NUS, 3.500'den fazla başvuru arasından seçilerek 1,5 milyon dolarlık AI for Science Google.org Impact Challenge Grant almaya hak kazandı."
       },
       {
-        "card_title": "NTU Çalışmaları",
-        "card_body": "NTU'da yapay zeka güvenliği ve çoklu ajan sistemleri odaklı dört çalışma için 340.000 dolar finansman sağlanmakta ve 750.000 dolarlık Kapasite Fonu verilmektedir."
+        "card_title": "NTU Projeleri",
+        "card_body": "NTU'da yapay zeka güvenliği, çoklu ajan sistemleri ve gizliliği koruyan LLM filigranı konuları dört çalışmayla finanse ediliyor."
       },
       {
-        "card_title": "INSEAD Thrive Lab",
-        "card_body": "Google.org ve Google DeepMind, küresel araştırma yapmak üzere Singapur'daki INSEAD'in Thrive Lab laboratuvarına 3 milyon dolar finansman sağlamaktadır."
+        "card_title": "Kapasite Fonu",
+        "card_body": "NTU'da Güneydoğu Asya'da kalıcı araştırma yetenekleri oluşturmak amacıyla 750.000 dolarlık hibe sağlanıyor."
       }
     ]
   },
   "impact": {
-    "heading": "Bilimsel ve Bölgesel Etki",
+    "heading": "Bilim ve Teknolojiye Etkisi",
     "cards": [
       {
-        "card_title": "Bilimsel İlerleme",
-        "card_body": "Nörodejeneratif hastalık araştırmalarında veri bilimi ve yapay zeka modelleri kullanılarak önemli ilerlemeler kaydedilmesi hedeflenmektedir."
+        "card_title": "Nörodejeneratif Araştırmalar",
+        "card_body": "Yapay zeka modelleri kullanılarak nörodejeneratif hastalık araştırmalarının ilerletilmesi hedefleniyor."
       },
       {
-        "card_title": "Bölgesel Yetenek",
-        "card_body": "Güneydoğu Asya genelinde kalıcı araştırma yetenekleri oluşturulması ve yapay zeka güvenliği çerçevelerinin geliştirilmesi sağlanmaktadır."
+        "card_title": "Teknolojik Gelişim",
+        "card_body": "İnsanların ve organizasyonların teknolojik değişimle birlikte gelişmesi Thrive Lab ile araştırılıyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce bu tür büyük hibe yatırımları yapay zeka güvenliğini ve bilimsel araştırmaları nasıl hızlandırır?",
-    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın."
+    "question": "Yapay zeka odaklı bu tür hibelerin bilimsel araştırmalara hızı nasıl yansır?",
+    "reminder_line": "Teknolojideki güncel gelişmeleri kaçırmamak için bizi takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
