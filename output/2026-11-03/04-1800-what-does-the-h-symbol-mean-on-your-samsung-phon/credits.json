@@ -1,20 +1,31 @@
 {
   "images": [
     {
-      "source": "wikimedia",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/20260227_%EC%82%BC%EC%84%B1_%EA%B0%A4%EB%9F%AD%EC%8B%9C_S26_%EC%8B%9C%EB%A6%AC%EC%A6%88.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "source": "ogimage",
+      "url": "https://www.engadget.com/img/gallery/what-does-the-h-symbol-mean-on-your-samsung-phone/l-intro-1792776714.jpg",
       "local_path": "/home/runner/work/postapp/postapp/output/2026-11-03/04-1800-what-does-the-h-symbol-mean-on-your-samsung-phon/images/img-1.png",
-      "license": "",
+      "license": "Kaynak makale görseli",
       "author": "",
-      "credit_url": "https://en.wikipedia.org/wiki/Samsung%20Galaxy",
-      "width": 4000,
-      "height": 3000,
-      "alt_text": "Samsung Galaxy"
+      "credit_url": "https://www.engadget.com/2300406/what-does-h-plus-symbol-mean-samsung-phone/",
+      "width": 1600,
+      "height": 899,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/11772524/pexels-photo-11772524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-03/04-1800-what-does-the-h-symbol-mean-on-your-samsung-phon/images/img-2.png",
+      "license": "Pexels License — Imad Clicks",
+      "author": "Imad Clicks",
+      "credit_url": "https://www.pexels.com/photo/a-person-holding-a-smartphone-11772524/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "A hand holding a blue smartphone amidst green foliage, showcasing the device's sleek design in natural light."
     },
     {
       "source": "pexels",
       "url": "https://images.pexels.com/photos/7989740/pexels-photo-7989740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-03/04-1800-what-does-the-h-symbol-mean-on-your-samsung-phon/images/img-2.png",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-03/04-1800-what-does-the-h-symbol-mean-on-your-samsung-phon/images/img-3.png",
       "license": "Pexels License — Carlos Jairo",
       "author": "Carlos Jairo",
       "credit_url": "https://www.pexels.com/photo/black-gadgets-on-a-black-surface-7989740/",

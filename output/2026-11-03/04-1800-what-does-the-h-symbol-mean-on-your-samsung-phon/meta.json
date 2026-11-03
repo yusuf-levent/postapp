@@ -2,9 +2,9 @@
   "slot": "18:00",
   "type": "edu",
   "model": "gemini-3.5-flash-lite",
-  "duration_seconds": 123.1,
+  "duration_seconds": 166.4,
   "candidates_tried": 1,
-  "gemini_calls": 12,
+  "gemini_calls": 13,
   "canonical_url": "https://www.engadget.com/2300406/what-does-h-plus-symbol-mean-samsung-phone/",
-  "generated_at": "2026-11-03T18:50:07+03:00"
+  "generated_at": "2026-11-03T18:59:56+03:00"
 }

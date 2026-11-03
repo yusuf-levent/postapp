@@ -6,22 +6,26 @@
     "BBC News – Technology",
     "Google DeepMind"
   ],
-  "checked_at": "2026-11-03T18:48:42+03:00",
+  "checked_at": "2026-11-03T18:58:16+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "H+ sembolü, Samsung telefonlarda HSPA+ ağ bağlantısına işaret eder.",
+      "claim": "Samsung telefon ekranının üst kısmındaki H+ sembolü, HSPA+ ağına bağlı olduğunuzu gösterir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2300406/what-does-h-plus-symbol-mean-samsung-phone/",
           "quote": "This symbol indicates that you are connected to the HSPA+ network."
+        },
+        {
+          "url": "https://www.engadget.com/2300406/what-does-h-plus-symbol-mean-samsung-phone/",
+          "quote": "Another symbol you might see relating to network connectivity is the H+ symbol. This symbol indicates that you are connected to the HSPA+ network."
         }
       ]
     },
     {
-      "claim": "HSPA, 21 Mbps'ye kadar veri hızı sağlayan bir ağ teknolojisidir.",
+      "claim": "HSPA açılımı High-Speed Packet Access olup 21 Mbps'ye kadar veri hızı sağlar.",
       "verdict": "supported",
       "evidence": [
         {
@@ -31,7 +35,17 @@
       ]
     },
     {
-      "claim": "HSPA+ ağı kullanıldığında deneyimlenen gerçek hızlar 3.5 ile 14 Mbps arasındadır.",
+      "claim": "HSPA+ gelişmiş bir ağ teknolojisidir ve HSPA'nın veri hızının iki katını sunar.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300406/what-does-h-plus-symbol-mean-samsung-phone/",
+          "quote": "HSPA+ is an evolved network technology that offers twice the data speeds of HSPA."
+        }
+      ]
+    },
+    {
+      "claim": "HSPA ve HSPA+ ağlarına bağlanıldığında gerçekte deneyimlenen hızlar genellikle 3.5 ile 14 Mbps arasındadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -41,7 +55,7 @@
       ]
     },
     {
-      "claim": "Kırsal bölgelerde HSPA+ hızları 1.5 Mbps'ye kadar düşebilir.",
+      "claim": "Kırsal alanlardaki bazı bölgelerde HSPA hızları 1.5 Mbps'ye kadar düşebilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -51,23 +65,9 @@
       ]
     },
     {
-      "claim": "LTE hızları 12 ile 40 Mbps arasındadır.",
+      "claim": "LTE hızları 12 ile 40 Mbps arasında değişirken, LTE Advanced hızı 220 Mbps'ye kadar çıkabilmektedir.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://www.engadget.com/2300406/what-does-h-plus-symbol-mean-samsung-phone/",
-          "quote": "This is compared to LTE (Long-Term Evolution) speeds that are from 12 to 40 Mbps"
-        }
-      ]
-    },
-    {
-      "claim": "LTE Advanced hızları 25 ile 220 Mbps arasındadır.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2300406/what-does-h-plus-symbol-mean-samsung-phone/",
-          "quote": "and LTE Advanced, which is from 25 up to a blazing fast 220 Mbps."
-        },
         {
           "url": "https://www.engadget.com/2300406/what-does-h-plus-symbol-mean-samsung-phone/",
           "quote": "This is compared to LTE (Long-Term Evolution) speeds that are from 12 to 40 Mbps and LTE Advanced, which is from 25 up to a blazing fast 220 Mbps."
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "claim": "S4 modelinden bu yana neredeyse tüm Samsung Galaxy telefonlar VoLTE'yi desteklemektedir.",
+      "claim": "Samsung S4 modelinden bu yana neredeyse tüm Samsung Galaxy telefonlar VoLTE desteğine sahiptir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "claim": "Kanada'daki Bell Mobility, 3G ve HSPA ağını 1 Mart 2027'ye kadar tamamen sonlandırma planlarını duyurmuştur.",
+      "claim": "Kanada'daki Bell Mobility gibi operatörler, 3G ve HSPA ağlarını 1 Mart 2027 tarihine kadar ülke genelinde tamamen sonlandırma planlarını duyurmuştur.",
       "verdict": "supported",
       "evidence": [
         {
@@ -97,17 +97,21 @@
   ],
   "round1": [
     {
-      "claim": "H+ sembolü, Samsung telefonlarda HSPA+ ağ bağlantısına işaret eder.",
+      "claim": "Samsung telefon ekranının üst kısmındaki H+ sembolü, HSPA+ ağına bağlı olduğunuzu gösterir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2300406/what-does-h-plus-symbol-mean-samsung-phone/",
           "quote": "This symbol indicates that you are connected to the HSPA+ network."
+        },
+        {
+          "url": "https://www.engadget.com/2300406/what-does-h-plus-symbol-mean-samsung-phone/",
+          "quote": "Another symbol you might see relating to network connectivity is the H+ symbol. This symbol indicates that you are connected to the HSPA+ network."
         }
       ]
     },
     {
-      "claim": "HSPA, 21 Mbps'ye kadar veri hızı sağlayan bir ağ teknolojisidir.",
+      "claim": "HSPA açılımı High-Speed Packet Access olup 21 Mbps'ye kadar veri hızı sağlar.",
       "verdict": "supported",
       "evidence": [
         {
@@ -117,7 +121,17 @@
       ]
     },
     {
-      "claim": "HSPA+ ağı kullanıldığında deneyimlenen gerçek hızlar 3.5 ile 14 Mbps arasındadır.",
+      "claim": "HSPA+ gelişmiş bir ağ teknolojisidir ve HSPA'nın veri hızının iki katını sunar.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300406/what-does-h-plus-symbol-mean-samsung-phone/",
+          "quote": "HSPA+ is an evolved network technology that offers twice the data speeds of HSPA."
+        }
+      ]
+    },
+    {
+      "claim": "HSPA ve HSPA+ ağlarına bağlanıldığında gerçekte deneyimlenen hızlar genellikle 3.5 ile 14 Mbps arasındadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -127,7 +141,7 @@
       ]
     },
     {
-      "claim": "Kırsal bölgelerde HSPA+ hızları 1.5 Mbps'ye kadar düşebilir.",
+      "claim": "Kırsal alanlardaki bazı bölgelerde HSPA hızları 1.5 Mbps'ye kadar düşebilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -137,23 +151,9 @@
       ]
     },
     {
-      "claim": "LTE hızları 12 ile 40 Mbps arasındadır.",
+      "claim": "LTE hızları 12 ile 40 Mbps arasında değişirken, LTE Advanced hızı 220 Mbps'ye kadar çıkabilmektedir.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://www.engadget.com/2300406/what-does-h-plus-symbol-mean-samsung-phone/",
-          "quote": "This is compared to LTE (Long-Term Evolution) speeds that are from 12 to 40 Mbps"
-        }
-      ]
-    },
-    {
-      "claim": "LTE Advanced hızları 25 ile 220 Mbps arasındadır.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2300406/what-does-h-plus-symbol-mean-samsung-phone/",
-          "quote": "and LTE Advanced, which is from 25 up to a blazing fast 220 Mbps."
-        },
         {
           "url": "https://www.engadget.com/2300406/what-does-h-plus-symbol-mean-samsung-phone/",
           "quote": "This is compared to LTE (Long-Term Evolution) speeds that are from 12 to 40 Mbps and LTE Advanced, which is from 25 up to a blazing fast 220 Mbps."
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "claim": "S4 modelinden bu yana neredeyse tüm Samsung Galaxy telefonlar VoLTE'yi desteklemektedir.",
+      "claim": "Samsung S4 modelinden bu yana neredeyse tüm Samsung Galaxy telefonlar VoLTE desteğine sahiptir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "claim": "Kanada'daki Bell Mobility, 3G ve HSPA ağını 1 Mart 2027'ye kadar tamamen sonlandırma planlarını duyurmuştur.",
+      "claim": "Kanada'daki Bell Mobility gibi operatörler, 3G ve HSPA ağlarını 1 Mart 2027 tarihine kadar ülke genelinde tamamen sonlandırma planlarını duyurmuştur.",
       "verdict": "supported",
       "evidence": [
         {
@@ -183,17 +183,21 @@
   ],
   "round2": [
     {
-      "claim": "H+ sembolü, Samsung telefonlarda HSPA+ ağ bağlantısına işaret eder.",
+      "claim": "Samsung telefon ekranının üst kısmındaki H+ sembolü, HSPA+ ağına bağlı olduğunuzu gösterir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2300406/what-does-h-plus-symbol-mean-samsung-phone/",
           "quote": "This symbol indicates that you are connected to the HSPA+ network."
+        },
+        {
+          "url": "https://www.engadget.com/2300406/what-does-h-plus-symbol-mean-samsung-phone/",
+          "quote": "Another symbol you might see relating to network connectivity is the H+ symbol. This symbol indicates that you are connected to the HSPA+ network."
         }
       ]
     },
     {
-      "claim": "HSPA, 21 Mbps'ye kadar veri hızı sağlayan bir ağ teknolojisidir.",
+      "claim": "HSPA açılımı High-Speed Packet Access olup 21 Mbps'ye kadar veri hızı sağlar.",
       "verdict": "supported",
       "evidence": [
         {
@@ -203,7 +207,17 @@
       ]
     },
     {
-      "claim": "HSPA+ ağı kullanıldığında deneyimlenen gerçek hızlar 3.5 ile 14 Mbps arasındadır.",
+      "claim": "HSPA+ gelişmiş bir ağ teknolojisidir ve HSPA'nın veri hızının iki katını sunar.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2300406/what-does-h-plus-symbol-mean-samsung-phone/",
+          "quote": "HSPA+ is an evolved network technology that offers twice the data speeds of HSPA."
+        }
+      ]
+    },
+    {
+      "claim": "HSPA ve HSPA+ ağlarına bağlanıldığında gerçekte deneyimlenen hızlar genellikle 3.5 ile 14 Mbps arasındadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -213,7 +227,7 @@
       ]
     },
     {
-      "claim": "Kırsal bölgelerde HSPA+ hızları 1.5 Mbps'ye kadar düşebilir.",
+      "claim": "Kırsal alanlardaki bazı bölgelerde HSPA hızları 1.5 Mbps'ye kadar düşebilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -223,23 +237,9 @@
       ]
     },
     {
-      "claim": "LTE hızları 12 ile 40 Mbps arasındadır.",
+      "claim": "LTE hızları 12 ile 40 Mbps arasında değişirken, LTE Advanced hızı 220 Mbps'ye kadar çıkabilmektedir.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://www.engadget.com/2300406/what-does-h-plus-symbol-mean-samsung-phone/",
-          "quote": "This is compared to LTE (Long-Term Evolution) speeds that are from 12 to 40 Mbps"
-        }
-      ]
-    },
-    {
-      "claim": "LTE Advanced hızları 25 ile 220 Mbps arasındadır.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2300406/what-does-h-plus-symbol-mean-samsung-phone/",
-          "quote": "and LTE Advanced, which is from 25 up to a blazing fast 220 Mbps."
-        },
         {
           "url": "https://www.engadget.com/2300406/what-does-h-plus-symbol-mean-samsung-phone/",
           "quote": "This is compared to LTE (Long-Term Evolution) speeds that are from 12 to 40 Mbps and LTE Advanced, which is from 25 up to a blazing fast 220 Mbps."
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "claim": "S4 modelinden bu yana neredeyse tüm Samsung Galaxy telefonlar VoLTE'yi desteklemektedir.",
+      "claim": "Samsung S4 modelinden bu yana neredeyse tüm Samsung Galaxy telefonlar VoLTE desteğine sahiptir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "claim": "Kanada'daki Bell Mobility, 3G ve HSPA ağını 1 Mart 2027'ye kadar tamamen sonlandırma planlarını duyurmuştur.",
+      "claim": "Kanada'daki Bell Mobility gibi operatörler, 3G ve HSPA ağlarını 1 Mart 2027 tarihine kadar ülke genelinde tamamen sonlandırma planlarını duyurmuştur.",
       "verdict": "supported",
       "evidence": [
         {
