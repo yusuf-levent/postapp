@@ -1,0 +1,247 @@
+{
+  "title": "Apple's latest watchOS 27 beta enables Siri Recap and Live Rewind audio features",
+  "canonical_url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+  "source_names": [
+    "Engadget",
+    "TechCrunch",
+    "BBC News – Technology",
+    "The Verge"
+  ],
+  "checked_at": "2026-11-03T12:32:54+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "watchOS 27.3 beta, Siri Recap ve Live Rewind ses özelliklerini içeriyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+          "quote": "The watchOS 27.3 beta includes Siri Recap and Live Rewind"
+        }
+      ]
+    },
+    {
+      "claim": "Apple, bu özellikleri Eylül ayında Apple Watch Series 12 ve Apple Watch Ultra 4 ile birlikte tanıttı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+          "quote": "which Apple revealed when it unveiled the Apple Watch Series 12 and Apple Watch Ultra 4 back in September."
+        },
+        {
+          "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+          "quote": "The watchOS 27.3 beta includes Siri Recap and Live Rewind, which Apple revealed when it unveiled the Apple Watch Series 12 and Apple Watch Ultra 4 back in September."
+        }
+      ]
+    },
+    {
+      "claim": "Live Recap, bir konuşmanın son 15 saniyesini metne dönüştürebiliyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+          "quote": "As for Live Recap, it can convert the last 15 seconds of a conversation to text if you didn't catch or understand something."
+        }
+      ]
+    },
+    {
+      "claim": "Bu özellikler Apple Watch Series 12 ve Apple Watch Ultra 4 modellerinde kullanılabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+          "quote": "These features are available on Apple Watch Series 12 and Apple Watch Ultra 4."
+        }
+      ]
+    },
+    {
+      "claim": "Apple Watch modellerine güç veren S11 çipi, sesleri cihazın geri kalanından izole bir şekilde işleyip hemen siliyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+          "quote": "The S11 chip that powers these Apple Watch models can process audio in isolation from the rest of the device, then delete it right away."
+        }
+      ]
+    },
+    {
+      "claim": "Siri Recap ve Live Rewind başlangıçta yalnızca İngilizce olarak ve AB dışında sunulacak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+          "quote": "Siri Recap and Live Rewind will initially be available only in English and not in the EU."
+        }
+      ]
+    },
+    {
+      "claim": "Audio Intelligence özelliklerini kullanmak için iPhone 16 veya daha yeni bir uyumlu iPhone gerekiyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+          "quote": "you'll need a compatible iPhone with Apple Intelligence enabled to use Audio Intelligence (i.e., an iPhone 16 or later but not iPhone 16e)."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "watchOS 27.3 beta, Siri Recap ve Live Rewind ses özelliklerini içeriyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+          "quote": "The watchOS 27.3 beta includes Siri Recap and Live Rewind"
+        }
+      ]
+    },
+    {
+      "claim": "Apple, bu özellikleri Eylül ayında Apple Watch Series 12 ve Apple Watch Ultra 4 ile birlikte tanıttı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+          "quote": "which Apple revealed when it unveiled the Apple Watch Series 12 and Apple Watch Ultra 4 back in September."
+        },
+        {
+          "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+          "quote": "The watchOS 27.3 beta includes Siri Recap and Live Rewind, which Apple revealed when it unveiled the Apple Watch Series 12 and Apple Watch Ultra 4 back in September."
+        }
+      ]
+    },
+    {
+      "claim": "Live Recap, bir konuşmanın son 15 saniyesini metne dönüştürebiliyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+          "quote": "As for Live Recap, it can convert the last 15 seconds of a conversation to text if you didn't catch or understand something."
+        }
+      ]
+    },
+    {
+      "claim": "Bu özellikler Apple Watch Series 12 ve Apple Watch Ultra 4 modellerinde kullanılabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+          "quote": "These features are available on Apple Watch Series 12 and Apple Watch Ultra 4."
+        }
+      ]
+    },
+    {
+      "claim": "Apple Watch modellerine güç veren S11 çipi, sesleri cihazın geri kalanından izole bir şekilde işleyip hemen siliyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+          "quote": "The S11 chip that powers these Apple Watch models can process audio in isolation from the rest of the device, then delete it right away."
+        }
+      ]
+    },
+    {
+      "claim": "Siri Recap ve Live Rewind başlangıçta yalnızca İngilizce olarak ve AB dışında sunulacak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+          "quote": "Siri Recap and Live Rewind will initially be available only in English and not in the EU."
+        }
+      ]
+    },
+    {
+      "claim": "Audio Intelligence özelliklerini kullanmak için iPhone 16 veya daha yeni bir uyumlu iPhone gerekiyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+          "quote": "you'll need a compatible iPhone with Apple Intelligence enabled to use Audio Intelligence (i.e., an iPhone 16 or later but not iPhone 16e)."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "watchOS 27.3 beta, Siri Recap ve Live Rewind ses özelliklerini içeriyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+          "quote": "The watchOS 27.3 beta includes Siri Recap and Live Rewind"
+        }
+      ]
+    },
+    {
+      "claim": "Apple, bu özellikleri Eylül ayında Apple Watch Series 12 ve Apple Watch Ultra 4 ile birlikte tanıttı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+          "quote": "which Apple revealed when it unveiled the Apple Watch Series 12 and Apple Watch Ultra 4 back in September."
+        },
+        {
+          "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+          "quote": "The watchOS 27.3 beta includes Siri Recap and Live Rewind, which Apple revealed when it unveiled the Apple Watch Series 12 and Apple Watch Ultra 4 back in September."
+        }
+      ]
+    },
+    {
+      "claim": "Live Recap, bir konuşmanın son 15 saniyesini metne dönüştürebiliyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+          "quote": "As for Live Recap, it can convert the last 15 seconds of a conversation to text if you didn't catch or understand something."
+        }
+      ]
+    },
+    {
+      "claim": "Bu özellikler Apple Watch Series 12 ve Apple Watch Ultra 4 modellerinde kullanılabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+          "quote": "These features are available on Apple Watch Series 12 and Apple Watch Ultra 4."
+        }
+      ]
+    },
+    {
+      "claim": "Apple Watch modellerine güç veren S11 çipi, sesleri cihazın geri kalanından izole bir şekilde işleyip hemen siliyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+          "quote": "The S11 chip that powers these Apple Watch models can process audio in isolation from the rest of the device, then delete it right away."
+        }
+      ]
+    },
+    {
+      "claim": "Siri Recap ve Live Rewind başlangıçta yalnızca İngilizce olarak ve AB dışında sunulacak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+          "quote": "Siri Recap and Live Rewind will initially be available only in English and not in the EU."
+        }
+      ]
+    },
+    {
+      "claim": "Audio Intelligence özelliklerini kullanmak için iPhone 16 veya daha yeni bir uyumlu iPhone gerekiyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+          "quote": "you'll need a compatible iPhone with Apple Intelligence enabled to use Audio Intelligence (i.e., an iPhone 16 or later but not iPhone 16e)."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/": 2632,
+    "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/": 6486,
+    "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss": 3742,
+    "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints": 1595
+  }
+}

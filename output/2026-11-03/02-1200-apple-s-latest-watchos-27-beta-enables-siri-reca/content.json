@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "YENİ TEKNOLOJİLER",
+    "title": "watchOS 27.3 Beta ile Gelen Ses Özellikleri",
+    "highlight_words": [
+      "watchOS 27.3",
+      "Ses"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Apple Watch modelleri için yeni yapay zeka tabanlı ses yetenekleri test ediliyor.",
+    "source_tags": [
+      "ENGADGET",
+      "THE VERGE"
+    ]
+  },
+  "context": {
+    "heading": "watchOS 27.3 Beta Yenilikleri",
+    "cards": [
+      {
+        "card_title": "Yeni Özellikler",
+        "card_body": "watchOS 27.3 beta sürümü Siri Recap ve Live Rewind ses özelliklerini kullanıcılarla buluşturuyor."
+      },
+      {
+        "card_title": "Tanıtım Zamanı",
+        "card_body": "Apple, bu özellikleri Eylül ayında Apple Watch Series 12 ve Apple Watch Ultra 4 ile birlikte tanıttı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "15 SANİYE",
+    "stat_caption": "Live Recap özelliğinin metne dönüştürebildiği konuşma süresi.",
+    "stat_quote": "Live Recap, bir konuşmanın son 15 saniyesini metne dönüştürebiliyor."
+  },
+  "details": {
+    "heading": "Teknik Detaylar ve Donanım",
+    "cards": [
+      {
+        "card_title": "Donanım Desteği",
+        "card_body": "Bu özellikler Apple Watch Series 12 ve Apple Watch Ultra 4 modellerinde kullanılabilir."
+      },
+      {
+        "card_title": "S11 Çipi Gücü",
+        "card_body": "Apple Watch modellerine güç veren S11 çipi, sesleri cihazın geri kalanından izole bir şekilde işleyip hemen siliyor."
+      },
+      {
+        "card_title": "Uyumlu Cihaz Şartı",
+        "card_body": "Audio Intelligence özelliklerini kullanmak için iPhone 16 veya daha yeni bir uyumlu iPhone gerekiyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanım Kısıtlamaları",
+    "cards": [
+      {
+        "card_title": "Dil Desteği",
+        "card_body": "Siri Recap ve Live Rewind başlangıçta yalnızca İngilizce olarak sunulacak."
+      },
+      {
+        "card_title": "Bölgesel Durum",
+        "card_body": "Yeni ses özellikleri başlangıçta AB dışında kullanıma sunulacak."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce bu yeni ses özellikleri günlük akıllı saat kullanımınızı nasıl etkiler?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
