@@ -1,0 +1,74 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE ARAŞTIRMA",
+    "title": "Google'dan Singapur'a Büyük Yapay Zeka Yatırımı",
+    "highlight_words": [
+      "Büyük",
+      "Yapay",
+      "Zeka"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Google, NUS ve NTU araştırma hibelerine 6 milyon dolardan fazla yatırım yapıyor.",
+    "source_tags": [
+      "GOOGLE BLOG",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Singapur'da Yapay Zeka Hamlesi",
+    "cards": [
+      {
+        "card_title": "Araştırma Hibeleri",
+        "card_body": "Google, National University of Singapore ve Nanyang Technological University bünyesindeki yeni girişimlere 6 milyon dolardan fazla yatırım yapmaktadır."
+      },
+      {
+        "card_title": "Stratejik Ortaklıklar",
+        "card_body": "Yatırımlar yapay zeka modelleri, veri bilimi ve kapasite geliştirme projelerini desteklemektedir."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "6 MİLYON $",
+    "stat_caption": "Google'ın Singapur'daki araştırma hibeleri ve kapasite geliştirme girişimlerine yaptığı toplam yatırım.",
+    "stat_quote": "Google, NUS ve NTU bünyesindeki yeni araştırma hibeleri ve kapasite geliştirme girişimlerine 6 milyon dolardan fazla yatırım yapmaktadır."
+  },
+  "details": {
+    "heading": "Proje Detayları ve Dağılım",
+    "cards": [
+      {
+        "card_title": "NUS Ödülleri",
+        "card_body": "NUS, nörodejeneratif hastalık araştırmaları için 1,5 milyon dolarlık AI for Science Google.org Etki Yarışması Hibe Ödülü almıştır. Ayrıca 500.000 dolar hibe sağlanmıştır."
+      },
+      {
+        "card_title": "NTU Çalışmaları",
+        "card_body": "NTU'da yapay zeka güvenliği ve çoklu ajan sistemleri odaklı dört çalışma için 340.000 dolar finansman sağlanmakta ve 750.000 dolarlık Kapasite Fonu verilmektedir."
+      },
+      {
+        "card_title": "INSEAD Thrive Lab",
+        "card_body": "Google.org ve Google DeepMind, küresel araştırma yapmak üzere Singapur'daki INSEAD'in Thrive Lab laboratuvarına 3 milyon dolar finansman sağlamaktadır."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Bilimsel ve Bölgesel Etki",
+    "cards": [
+      {
+        "card_title": "Bilimsel İlerleme",
+        "card_body": "Nörodejeneratif hastalık araştırmalarında veri bilimi ve yapay zeka modelleri kullanılarak önemli ilerlemeler kaydedilmesi hedeflenmektedir."
+      },
+      {
+        "card_title": "Bölgesel Yetenek",
+        "card_body": "Güneydoğu Asya genelinde kalıcı araştırma yetenekleri oluşturulması ve yapay zeka güvenliği çerçevelerinin geliştirilmesi sağlanmaktadır."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce bu tür büyük hibe yatırımları yapay zeka güvenliğini ve bilimsel araştırmaları nasıl hızlandırır?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
