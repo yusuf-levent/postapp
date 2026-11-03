@@ -1,0 +1,273 @@
+{
+  "title": "North Korea denies being behind record $6.3bn Binance hack",
+  "canonical_url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+  "source_names": [
+    "BBC News – Technology",
+    "MIT Technology Review"
+  ],
+  "checked_at": "2026-11-03T09:27:44+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "North Korea denied claims that it was behind the $6.3bn hack of cryptocurrency exchange Binance.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "North Korea has denied claims that it was behind the record $6.3bn (£4.7bn) hack of cryptocurrency exchange Binance"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "North Korea has denied claims that it was behind the record $6.3bn (Â£4.7bn) hack of cryptocurrency exchange Binance"
+        }
+      ]
+    },
+    {
+      "claim": "Kim Yo Jong stated on Tuesday that the accusations are a sinister attempt by the US to damage Pyongyang's public image.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "Kim Yo Jong, a top Democratic People's Republic of Korea official and the sister of leader Kim Jong Un, said on Tuesday that the accusations are another \"sinister attempt\" by the US to damage Pyongyang's public image."
+        }
+      ]
+    },
+    {
+      "claim": "The US Federal Bureau of Investigation, the Secret Service and cyber analysts stated that North Korea orchestrated the hack.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "The US Federal Bureau of Investigation (FBI), the Secret Service and cyber analysts have said North Korea orchestrated the hack, which has been described as the largest in history."
+        }
+      ]
+    },
+    {
+      "claim": "Blockchain analysts and the FBI stated that the attack was led by state-backed hacking group TraderTraitor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "Blockchain analysts and the FBI have said the attack was led by state-backed hacking group TraderTraitor."
+        }
+      ]
+    },
+    {
+      "claim": "The TraderTraitor unit, also known as the Lazarus Group, was blamed for a $1.5bn hack of crypto exchange Bybit in 2025.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "The TraderTraitor unit, which is also known as the Lazarus Group, was blamed for a then-record $1.5bn hack of crypto exchange Bybit in 2025."
+        }
+      ]
+    },
+    {
+      "claim": "Binance stated that initial checks indicated an engineer's laptop had been compromised, enabling unauthorised withdrawals.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "The company said last week that initial checks indicated that an engineer's laptop had been compromised, enabling an attacker to make unauthorised withdrawals."
+        }
+      ]
+    },
+    {
+      "claim": "A net $5.27bn has been withdrawn from Binance since transactions resumed on Sunday, according to data posted on Tuesday by Binance.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "A net $5.27bn has been withdrawn from the exchange since transactions resumed on Sunday, according to data posted on Tuesday by Binance."
+        }
+      ]
+    },
+    {
+      "claim": "Binance stated that it has so far covered around 95% of the assets stolen in the breach.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "The company has repeatedly said it would cover all of the losses linked to the attack and that it has so far covered around 95% of the assets stolen in the breach."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "North Korea denied claims that it was behind the $6.3bn hack of cryptocurrency exchange Binance.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "North Korea has denied claims that it was behind the record $6.3bn (£4.7bn) hack of cryptocurrency exchange Binance"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "North Korea has denied claims that it was behind the record $6.3bn (Â£4.7bn) hack of cryptocurrency exchange Binance"
+        }
+      ]
+    },
+    {
+      "claim": "Kim Yo Jong stated on Tuesday that the accusations are a sinister attempt by the US to damage Pyongyang's public image.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "Kim Yo Jong, a top Democratic People's Republic of Korea official and the sister of leader Kim Jong Un, said on Tuesday that the accusations are another \"sinister attempt\" by the US to damage Pyongyang's public image."
+        }
+      ]
+    },
+    {
+      "claim": "The US Federal Bureau of Investigation, the Secret Service and cyber analysts stated that North Korea orchestrated the hack.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "The US Federal Bureau of Investigation (FBI), the Secret Service and cyber analysts have said North Korea orchestrated the hack, which has been described as the largest in history."
+        }
+      ]
+    },
+    {
+      "claim": "Blockchain analysts and the FBI stated that the attack was led by state-backed hacking group TraderTraitor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "Blockchain analysts and the FBI have said the attack was led by state-backed hacking group TraderTraitor."
+        }
+      ]
+    },
+    {
+      "claim": "The TraderTraitor unit, also known as the Lazarus Group, was blamed for a $1.5bn hack of crypto exchange Bybit in 2025.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "The TraderTraitor unit, which is also known as the Lazarus Group, was blamed for a then-record $1.5bn hack of crypto exchange Bybit in 2025."
+        }
+      ]
+    },
+    {
+      "claim": "Binance stated that initial checks indicated an engineer's laptop had been compromised, enabling unauthorised withdrawals.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "The company said last week that initial checks indicated that an engineer's laptop had been compromised, enabling an attacker to make unauthorised withdrawals."
+        }
+      ]
+    },
+    {
+      "claim": "A net $5.27bn has been withdrawn from Binance since transactions resumed on Sunday, according to data posted on Tuesday by Binance.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "A net $5.27bn has been withdrawn from the exchange since transactions resumed on Sunday, according to data posted on Tuesday by Binance."
+        }
+      ]
+    },
+    {
+      "claim": "Binance stated that it has so far covered around 95% of the assets stolen in the breach.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "The company has repeatedly said it would cover all of the losses linked to the attack and that it has so far covered around 95% of the assets stolen in the breach."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "North Korea denied claims that it was behind the $6.3bn hack of cryptocurrency exchange Binance.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "North Korea has denied claims that it was behind the record $6.3bn (£4.7bn) hack of cryptocurrency exchange Binance"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "North Korea has denied claims that it was behind the record $6.3bn (Â£4.7bn) hack of cryptocurrency exchange Binance"
+        }
+      ]
+    },
+    {
+      "claim": "Kim Yo Jong stated on Tuesday that the accusations are a sinister attempt by the US to damage Pyongyang's public image.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "Kim Yo Jong, a top Democratic People's Republic of Korea official and the sister of leader Kim Jong Un, said on Tuesday that the accusations are another \"sinister attempt\" by the US to damage Pyongyang's public image."
+        }
+      ]
+    },
+    {
+      "claim": "The US Federal Bureau of Investigation, the Secret Service and cyber analysts stated that North Korea orchestrated the hack.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "The US Federal Bureau of Investigation (FBI), the Secret Service and cyber analysts have said North Korea orchestrated the hack, which has been described as the largest in history."
+        }
+      ]
+    },
+    {
+      "claim": "Blockchain analysts and the FBI stated that the attack was led by state-backed hacking group TraderTraitor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "Blockchain analysts and the FBI have said the attack was led by state-backed hacking group TraderTraitor."
+        }
+      ]
+    },
+    {
+      "claim": "The TraderTraitor unit, also known as the Lazarus Group, was blamed for a $1.5bn hack of crypto exchange Bybit in 2025.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "The TraderTraitor unit, which is also known as the Lazarus Group, was blamed for a then-record $1.5bn hack of crypto exchange Bybit in 2025."
+        }
+      ]
+    },
+    {
+      "claim": "Binance stated that initial checks indicated an engineer's laptop had been compromised, enabling unauthorised withdrawals.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "The company said last week that initial checks indicated that an engineer's laptop had been compromised, enabling an attacker to make unauthorised withdrawals."
+        }
+      ]
+    },
+    {
+      "claim": "A net $5.27bn has been withdrawn from Binance since transactions resumed on Sunday, according to data posted on Tuesday by Binance.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "A net $5.27bn has been withdrawn from the exchange since transactions resumed on Sunday, according to data posted on Tuesday by Binance."
+        }
+      ]
+    },
+    {
+      "claim": "Binance stated that it has so far covered around 95% of the assets stolen in the breach.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "quote": "The company has repeatedly said it would cover all of the losses linked to the attack and that it has so far covered around 95% of the assets stolen in the breach."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss": 3190,
+    "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/": 5650
+  }
+}

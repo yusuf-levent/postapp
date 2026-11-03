@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 131.8,
+  "candidates_tried": 1,
+  "gemini_calls": 16,
+  "canonical_url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+  "generated_at": "2026-11-03T09:29:26+03:00"
+}
