@@ -1,0 +1,63 @@
+# Platform Açıklamaları
+
+## INSTAGRAM
+
+Yapay zeka dünyasında rekor kıran bir gelişme yaşandı! San Francisco merkezli girişim Fal, değerlemesini 16 milyar dolara taşıdı.
+
+2021 yılında Burkay Gür ve Görkem Yurtseven tarafından kurulan girişim; yapay zeka video, görsel ve ses modellerini barındırıp çalıştırıyor. Bessemer Venture Partners liderliğinde ve Nvidia'nın da katıldığı turda 1.3 milyar dolar yatırım toplandı.
+
+Sektördeki bu devasa büyüme hakkında ne düşünüyorsunuz?
+
+Kaynak: TechCrunch
+
+Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın!
+
+#YapayZeka #Teknoloji #Girişim #Yatırım #Fal #Nvidia #ArtificialIntelligence #Startup #TechNews #AI
+
+## TIKTOK
+
+Yapay zeka girişimi Fal, değerlemesini 16 milyar dolara çıkardı! Nvidia'nın da desteklediği girişim hakkında her şey videoda. Kaynak: TechCrunch
+
+#YapayZeka #Teknoloji #Girişim #Fal #AI #Tech
+
+## X
+
+San Francisco merkezli yapay zeka girişimi Fal, son yatırım turuyla değerlemesini 16 milyar dolara çıkardı. Nvidia ve Bessemer Venture Partners'ın katıldığı süreçte 1.3 milyar dolar yatırım toplandı. Kaynak: TechCrunch
+
+#YapayZeka #Teknoloji
+
+## THREADS
+
+Fal, 16 Milyar Dolar Değerlemeye Ulaştı! 💭
+
+San Francisco merkezli yapay zeka altyapı sağlayıcısı Fal, Nvidia'nın da katıldığı turda değerlemesini ikiye katlayarak 16 milyar dolara ulaştırdı.
+
+Bu denli yüksek değerlemeler hakkında ne düşünüyorsunuz?
+
+Kaynak: TechCrunch
+
+#YapayZeka
+
+## LINKEDIN
+
+Yapay zeka altyapı sağlayıcıları rekor yatırımlar almaya devam ediyor. San Francisco merkezli Fal, Bessemer Venture Partners liderliğinde ve Nvidia, Sound Ventures gibi devlerin katılımıyla 1.3 milyar dolar yatırım alarak değerlemesini 16 milyar dolara taşıdı.
+
+Eski Coinbase ve Amazon mühendisleri tarafından kurulan girişimin bu başarısı, yapay zeka video, görsel ve ses modellerine olan kurumsal güvenin ve talebin en büyük kanıtı niteliğinde.
+
+Sektörel büyüme ve altyapı yatırımları hakkındaki görüşleriniz nelerdir?
+
+Kaynak: TechCrunch
+
+#YapayZeka #GirişimCermegi #Yatırım #Teknoloji #Inovasyon
+
+## FACEBOOK
+
+Yapay zeka dünyasında rekor kıran bir gelişme! San Francisco merkezli girişim Fal, değerlemesini 16 milyar dolara taşıdı.
+
+2021'de kurulan girişim; yapay zeka video, görsel ve ses modellerini barındırıyor. Nvidia'nın da katıldığı son turda 1.3 milyar dolar yatırım toplandı.
+
+Yapay zeka altyapı girişimlerinin bu başarısı hakkında ne düşünüyorsunuz?
+
+Kaynak: TechCrunch
+
+#YapayZeka #Teknoloji #Girişim #Yatırım #Fal

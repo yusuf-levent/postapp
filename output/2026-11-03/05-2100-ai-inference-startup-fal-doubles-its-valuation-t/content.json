@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA GİRİŞİMLERİ",
+    "title": "Fal, 16 Milyar Dolar Değerlemeye Ulaştı",
+    "highlight_words": [
+      "16 Milyar Dolar",
+      "Fal"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Yapay zeka modellerini barındıran San Francisco merkezli girişim büyük yatırım aldı.",
+    "source_tags": [
+      "TECHCRUNCH",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Fal Nedir ve Ne Yapar?",
+    "cards": [
+      {
+        "card_title": "Yapay Zeka Modelleri",
+        "card_body": "San Francisco merkezli bir girişim olan Fal; yapay zeka video, görsel ve ses modellerini barındırıyor ve çalıştırıyor."
+      },
+      {
+        "card_title": "Kuruluş ve Kurucular",
+        "card_body": "2021 yılında Burkay Gür ve Görkem Yurtseven tarafından ortaklaşa kurulan bir girişimidir."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "16 MİLYAR $",
+    "stat_caption": "Girişimin Nisan ayındaki 8 milyar dolarlık değerlemesini ikiye katlayan yeni değerleme.",
+    "stat_quote": "Fal, son yatırım turuyla değerlemesini 16 milyar dolara taşıdı."
+  },
+  "details": {
+    "heading": "Yatırım ve Finansal Detaylar",
+    "cards": [
+      {
+        "card_title": "Son Yatırım Turu",
+        "card_body": "Bessemer Venture Partners liderliğindeki son turda 1.3 milyar dolar yatırım toplandı."
+      },
+      {
+        "card_title": "Katılımcılar ve Seri Turları",
+        "card_body": "Nvidia, Sound Ventures ve T. Rowe Price tura katıldı. Seri E ve F turlarında toplam 1.65 milyar dolar elde edildiği açıklandı."
+      },
+      {
+        "card_title": "Gelir Başarısı",
+        "card_body": "Girişim, bu yılın başlarında yıllıklandırılmış gelirde 800 milyon doları geride bıraktı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etki ve Ekip Geçmişi",
+    "cards": [
+      {
+        "card_title": "Güçlü Destekçiler",
+        "card_body": "Nvidia gibi devlerin katılımı, yapay zeka altyapı sağlayıcılarına olan sektör güvenini artırıyor."
+      },
+      {
+        "card_title": "Deneyimli Kurucular",
+        "card_body": "Burkay Gür eski bir Coinbase makine öğrenimi lideri ve Oracle mühendisi iken, Görkem Yurtseven Amazon'da geliştiriciydi."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Yapay zeka video ve ses modellerinin altyapısını sunan girişimlerin bu denli yüksek değerlemelere ulaşması hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
