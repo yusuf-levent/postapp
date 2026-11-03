@@ -1,0 +1,27 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://techcrunch.com/wp-content/uploads/2026/11/pokemon-go-to-the-polls.jpg?resize=1200,800",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-03/05-2100-ten-years-later-pok-mon-go-to-the-polls-still-ha/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+      "width": 1200,
+      "height": 800,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/5210981/pexels-photo-5210981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-03/05-2100-ten-years-later-pok-mon-go-to-the-polls-still-ha/images/img-2.png",
+      "license": "Pexels License — Mohammad Khan",
+      "author": "Mohammad Khan",
+      "credit_url": "https://www.pexels.com/photo/a-person-playing-a-mobile-game-on-his-smartphone-5210981/",
+      "width": 1164,
+      "height": 1300,
+      "alt_text": "Close-up of hands with tattoos playing a mobile game outdoors on a smartphone."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}

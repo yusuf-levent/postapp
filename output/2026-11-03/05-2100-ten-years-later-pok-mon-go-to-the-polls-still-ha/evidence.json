@@ -1,0 +1,217 @@
+{
+  "title": "Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
+  "canonical_url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+  "source_names": [
+    "TechCrunch",
+    "Wired",
+    "Ars Technica",
+    "BBC News – Technology"
+  ],
+  "checked_at": "2026-11-03T22:23:05+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Hillary Clinton, Virginia'daki bir mitingde ilk kadın başkan olmak için kampanya yürütmüştür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+          "quote": "Hillary Clinton took the stage at a rally in Virginia as she campaigned to become the first female president."
+        }
+      ]
+    },
+    {
+      "claim": "Pokémon Go oyunu, Suudi Arabistan'ın egemen servet fonunun tamamen sahip olduğu bir şirkete satılmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+          "quote": "Pokémon Go has been sold to a company wholly owned by Saudi Arabia’s sovereign wealth fund."
+        }
+      ]
+    },
+    {
+      "claim": "Spotify, 2016 başlıklarını içeren kullanıcı oluşturduğu çalma listelerinin yılın ilk üç haftasında %790 oranında arttığını bildirmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+          "quote": "Spotify reported that user-generated playlists featuring 2016 in their titles spiked 790% in the first three weeks of the year"
+        }
+      ]
+    },
+    {
+      "claim": "Donald Trump ilk dönemi boyunca Twitter'ı kullanmış ve daha sonra kendi sosyal medya platformunu kurmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+          "quote": "Donald Trump tweeted his way through his first term, then later started his own social media platform"
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk, Trump altında doge memesinin adını taşıyan ve uluslararası yardım programlarını kesen bir danışma grubu kurmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+          "quote": "Elon Musk even spun up his own advisory group under Trump that named itself after the cutesy doge meme and then slashed international aid programs."
+        }
+      ]
+    },
+    {
+      "claim": "Jess Rauchberg, Leeds Üniversitesi'nde iletişim alanında yardımcı doçent olarak görev yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+          "quote": "Jess Rauchberg, an assistant professor of communications at the University of Leeds"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+          "quote": "Jess Rauchberg, an assistant professor of communications at the University of Leeds, told TechCrunch at the time."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Hillary Clinton, Virginia'daki bir mitingde ilk kadın başkan olmak için kampanya yürütmüştür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+          "quote": "Hillary Clinton took the stage at a rally in Virginia as she campaigned to become the first female president."
+        }
+      ]
+    },
+    {
+      "claim": "Pokémon Go oyunu, Suudi Arabistan'ın egemen servet fonunun tamamen sahip olduğu bir şirkete satılmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+          "quote": "Pokémon Go has been sold to a company wholly owned by Saudi Arabia’s sovereign wealth fund."
+        }
+      ]
+    },
+    {
+      "claim": "Spotify, 2016 başlıklarını içeren kullanıcı oluşturduğu çalma listelerinin yılın ilk üç haftasında %790 oranında arttığını bildirmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+          "quote": "Spotify reported that user-generated playlists featuring 2016 in their titles spiked 790% in the first three weeks of the year"
+        }
+      ]
+    },
+    {
+      "claim": "Donald Trump ilk dönemi boyunca Twitter'ı kullanmış ve daha sonra kendi sosyal medya platformunu kurmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+          "quote": "Donald Trump tweeted his way through his first term, then later started his own social media platform"
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk, Trump altında doge memesinin adını taşıyan ve uluslararası yardım programlarını kesen bir danışma grubu kurmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+          "quote": "Elon Musk even spun up his own advisory group under Trump that named itself after the cutesy doge meme and then slashed international aid programs."
+        }
+      ]
+    },
+    {
+      "claim": "Jess Rauchberg, Leeds Üniversitesi'nde iletişim alanında yardımcı doçent olarak görev yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+          "quote": "Jess Rauchberg, an assistant professor of communications at the University of Leeds"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+          "quote": "Jess Rauchberg, an assistant professor of communications at the University of Leeds, told TechCrunch at the time."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Hillary Clinton, Virginia'daki bir mitingde ilk kadın başkan olmak için kampanya yürütmüştür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+          "quote": "Hillary Clinton took the stage at a rally in Virginia as she campaigned to become the first female president."
+        }
+      ]
+    },
+    {
+      "claim": "Pokémon Go oyunu, Suudi Arabistan'ın egemen servet fonunun tamamen sahip olduğu bir şirkete satılmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+          "quote": "Pokémon Go has been sold to a company wholly owned by Saudi Arabia’s sovereign wealth fund."
+        }
+      ]
+    },
+    {
+      "claim": "Spotify, 2016 başlıklarını içeren kullanıcı oluşturduğu çalma listelerinin yılın ilk üç haftasında %790 oranında arttığını bildirmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+          "quote": "Spotify reported that user-generated playlists featuring 2016 in their titles spiked 790% in the first three weeks of the year"
+        }
+      ]
+    },
+    {
+      "claim": "Donald Trump ilk dönemi boyunca Twitter'ı kullanmış ve daha sonra kendi sosyal medya platformunu kurmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+          "quote": "Donald Trump tweeted his way through his first term, then later started his own social media platform"
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk, Trump altında doge memesinin adını taşıyan ve uluslararası yardım programlarını kesen bir danışma grubu kurmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+          "quote": "Elon Musk even spun up his own advisory group under Trump that named itself after the cutesy doge meme and then slashed international aid programs."
+        }
+      ]
+    },
+    {
+      "claim": "Jess Rauchberg, Leeds Üniversitesi'nde iletişim alanında yardımcı doçent olarak görev yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+          "quote": "Jess Rauchberg, an assistant professor of communications at the University of Leeds"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+          "quote": "Jess Rauchberg, an assistant professor of communications at the University of Leeds, told TechCrunch at the time."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/": 5516,
+    "https://www.wired.com/story/opioid-users-sr-17018-drug-to-help-them-quit-dea-ban/": 7067,
+    "https://arstechnica.com/science/2026/11/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money/": 1577,
+    "https://www.bbc.co.uk/news/articles/cy5w2k5k5ylo?at_medium=RSS&at_campaign=rss": 7485
+  }
+}

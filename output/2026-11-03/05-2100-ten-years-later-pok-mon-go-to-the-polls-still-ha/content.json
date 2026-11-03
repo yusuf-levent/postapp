@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ VE MEDYA",
+    "title": "GÜNDEMDEKİ YENİ GELİŞMELER",
+    "highlight_words": [
+      "YENİ",
+      "GELİŞMELER"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Teknoloji dünyasından doğrulanmış güncel başlıklar.",
+    "source_tags": [
+      "TECHCRUNCH",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "GÜNCEL BAŞLIKLAR",
+    "cards": [
+      {
+        "card_title": "SPOTIFY ÇALMA LİSTELERİ",
+        "card_body": "Spotify, 2016 başlıklarını içeren kullanıcı oluşturduğu çalma listelerinin yılın ilk üç haftasında arttığını bildirmiştir."
+      },
+      {
+        "card_title": "POKÉMON GO SATIŞI",
+        "card_body": "Pokémon Go oyunu, Suudi Arabistan'ın egemen servet fonunun tamamen sahip olduğu bir şirkete satılmıştır."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "%790",
+    "stat_caption": "2016 başlıklarını içeren çalma listelerindeki artış oranı.",
+    "stat_quote": "Spotify, yılın ilk üç haftasında büyük bir artış raporladı."
+  },
+  "details": {
+    "heading": "DİĞER GELİŞMELER",
+    "cards": [
+      {
+        "card_title": "SOSYAL MEDYA VE SİYASET",
+        "card_body": "Donald Trump ilk dönemi boyunca Twitter'ı kullanmış ve daha sonra kendi sosyal medya platformunu kurmuştur."
+      },
+      {
+        "card_title": "AKADEMİK ÇALIŞMALAR",
+        "card_body": "Jess Rauchberg, Leeds Üniversitesi'nde iletişim alanında yardımcı doçent olarak görev yapmaktadır."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "SEKTÖREL ETKİLER",
+    "cards": [
+      {
+        "card_title": "YATIRIMLAR",
+        "card_body": "Oyun sektöründeki devasa satışlar egemen servet fonlarının ilgisini artırıyor."
+      },
+      {
+        "card_title": "DANIŞMA GRUPLARI",
+        "card_body": "Elon Musk, Trump altında doge memesinin adını taşıyan ve uluslararası yardım programlarını kesen bir danışma grubu kurmuştur."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Bu teknolojik ve siyasi gelişmeler hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Tekno Pusula ile güncel kalmaya devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
