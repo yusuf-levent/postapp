@@ -3918,5 +3918,82 @@
     ],
     "created_at": "2026-11-03T09:31:30+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-11-03-1200",
+    "date": "2026-11-03",
+    "slot": "12:00",
+    "type": "news",
+    "title_tr": "watchOS 27.3 Beta ile Gelen Ses Özellikleri",
+    "original_title": "Apple's latest watchOS 27 beta enables Siri Recap and Live Rewind audio features",
+    "source_urls": [
+      "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/"
+    ],
+    "canonical_url": "https://engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features",
+    "entities": [
+      "Apple",
+      "watchOS 27",
+      "watchOS 27.3 beta",
+      "Siri Recap",
+      "Live Rewind",
+      "Apple Watch Series 12",
+      "Apple Watch Ultra 4",
+      "Siri",
+      "Apple Intelligence"
+    ],
+    "event_type": "product_feature_release",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae9aa8bb0e17c0fb57164ea",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae9aaa2749426a5a468fb36",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae9aab988eaa32c1641b41a",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2117551063100170638",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18430512367148024",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfRkp5Pkarl",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae9aae4749426a5a4691871",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae9aafbbe1f6ddaea3c7d75",
+        "permalink": "https://facebook.com/1351036918092059_122120697771484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-11-03T12:36:11+03:00",
+    "verified_claims_count": 7
   }
 ]
