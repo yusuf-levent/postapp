@@ -3995,5 +3995,75 @@
     ],
     "created_at": "2026-11-03T12:36:11+03:00",
     "verified_claims_count": 7
+  },
+  {
+    "id": "2026-11-03-1500",
+    "date": "2026-11-03",
+    "slot": "15:00",
+    "type": "news",
+    "title_tr": "NBC VERI UZMANI SUBREDDIT KAVRAMINI BILMIYOR",
+    "original_title": "The Endlessly Meme-able Steve Kornacki Is Not a Meme Person",
+    "source_urls": [
+      "https://www.wired.com/story/steve-kornacki-user-behavior/"
+    ],
+    "canonical_url": "https://wired.com/story/steve-kornacki-user-behavior",
+    "entities": [
+      "Steve Kornacki",
+      "NBC"
+    ],
+    "event_type": "interview",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6ae9c8bae9a91b5943ce021c",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6ae9c8d147205d2c3996b5cf",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6ae9c8e7e9a91b5943ce0e8e",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2117583471488978999",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18427799368152347",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfRzYn8kXrY",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6ae9c90fe9a91b5943ce14a9",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6ae9c9263b7ecdee655c9134",
+        "permalink": "https://facebook.com/1351036918092059_122120721111484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-11-03T14:44:54+03:00",
+    "verified_claims_count": 1
   }
 ]
