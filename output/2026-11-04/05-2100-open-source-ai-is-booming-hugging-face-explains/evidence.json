@@ -1,0 +1,97 @@
+{
+  "title": "Open source AI is booming. Hugging Face explains who profits.",
+  "canonical_url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+  "source_names": [
+    "TechCrunch",
+    "Wired",
+    "The Verge",
+    "OpenAI News"
+  ],
+  "checked_at": "2026-11-04T22:57:57+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Rebecca Bellan, TechCrunch'ın Equity podcast programında Hugging Face Baş Politikalar Sorumlusu ve Strateji Kıdemli Başkan Yardımcısı Irene Solaiman ile bir röportaj gerçekleştirmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+          "quote": "On this episode of TechCrunch’s Equity podcast, Rebecca Bellan caught up with Irene Solaiman, Chief Policy Officer and SVP of Strategy at Hugging Face, about what startups need to know before building on open models"
+        },
+        {
+          "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+          "quote": "On this episode of TechCrunch’s Equity podcast, Rebecca Bellan caught up with Irene Solaiman, Chief Policy Officer and SVP of Strategy at Hugging Face"
+        }
+      ]
+    },
+    {
+      "claim": "Irene Solaiman, Hugging Face şirketinde Baş Politikalar Sorumlusu ve Strateji Kıdemli Başkan Yardımcısı olarak görev yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+          "quote": "Irene Solaiman, Chief Policy Officer and SVP of Strategy at Hugging Face"
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Rebecca Bellan, TechCrunch'ın Equity podcast programında Hugging Face Baş Politikalar Sorumlusu ve Strateji Kıdemli Başkan Yardımcısı Irene Solaiman ile bir röportaj gerçekleştirmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+          "quote": "On this episode of TechCrunch’s Equity podcast, Rebecca Bellan caught up with Irene Solaiman, Chief Policy Officer and SVP of Strategy at Hugging Face, about what startups need to know before building on open models"
+        },
+        {
+          "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+          "quote": "On this episode of TechCrunch’s Equity podcast, Rebecca Bellan caught up with Irene Solaiman, Chief Policy Officer and SVP of Strategy at Hugging Face"
+        }
+      ]
+    },
+    {
+      "claim": "Irene Solaiman, Hugging Face şirketinde Baş Politikalar Sorumlusu ve Strateji Kıdemli Başkan Yardımcısı olarak görev yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+          "quote": "Irene Solaiman, Chief Policy Officer and SVP of Strategy at Hugging Face"
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Rebecca Bellan, TechCrunch'ın Equity podcast programında Hugging Face Baş Politikalar Sorumlusu ve Strateji Kıdemli Başkan Yardımcısı Irene Solaiman ile bir röportaj gerçekleştirmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+          "quote": "On this episode of TechCrunch’s Equity podcast, Rebecca Bellan caught up with Irene Solaiman, Chief Policy Officer and SVP of Strategy at Hugging Face, about what startups need to know before building on open models"
+        },
+        {
+          "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+          "quote": "On this episode of TechCrunch’s Equity podcast, Rebecca Bellan caught up with Irene Solaiman, Chief Policy Officer and SVP of Strategy at Hugging Face"
+        }
+      ]
+    },
+    {
+      "claim": "Irene Solaiman, Hugging Face şirketinde Baş Politikalar Sorumlusu ve Strateji Kıdemli Başkan Yardımcısı olarak görev yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+          "quote": "Irene Solaiman, Chief Policy Officer and SVP of Strategy at Hugging Face"
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/": 809,
+    "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/": 3081,
+    "https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview": 5065,
+    "https://openai.com/index/openai-to-acquire-pierre": 2764
+  }
+}

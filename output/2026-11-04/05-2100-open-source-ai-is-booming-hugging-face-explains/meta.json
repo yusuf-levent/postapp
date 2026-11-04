@@ -1,0 +1,10 @@
+{
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 74.5,
+  "candidates_tried": 1,
+  "gemini_calls": 12,
+  "canonical_url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+  "generated_at": "2026-11-04T22:58:36+03:00"
+}
