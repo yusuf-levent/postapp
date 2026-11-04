@@ -1,69 +1,65 @@
 {
   "cover": {
     "category_label": "SİBER GÜVENLİK",
-    "title": "Büyük Dijital Varlık Hırsızlığı ve Kuzey Kore İddiası",
+    "title": "Binance Sistemine Siber Saldırı",
     "highlight_words": [
-      "Kuzey Kore",
-      "Dijital Varlık"
+      "Siber",
+      "Saldırı"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Binance'te yaşanan büyük siber saldırının arka planı ve detayları netleşiyor.",
+    "subtitle": "29 Ekim tarihinde gerçekleşen büyük siber saldırının detayları netleşiyor.",
     "source_tags": [
-      "ENGADGET",
-      "WIRED"
+      "WIRED",
+      "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Olayın Gelişimi ve Tarihler",
+    "heading": "Saldırının Arka Planı",
     "cards": [
       {
-        "card_title": "Haziran Ayı Gelişmesi",
-        "card_body": "Haziran ayında bir Binance mühendisi yapay zeka kodlama aracı için değiştirilmiş bir kurulum indirdi."
+        "card_title": "Zararlı Yazılım",
+        "card_body": "Haziran ayında bir Binance mühendisi yapay zeka kodlama aracı için değiştirilmiş bir yükleme indirdi."
       },
       {
-        "card_title": "Eylül Ayı Gelişmesi",
-        "card_body": "Eylül ayında Binance'te çalışan bir yazılım mühendisi iş arama platformu üzerinden sahte bir iş görüşmesi teklifi aldı."
+        "card_title": "Sahte İş Teklifi",
+        "card_body": "Eylül ayında ise bir başka yazılımcı sahte bir Proje Direktörü tarafından iş arama platformundan hedef alındı."
       }
     ]
   },
   "stat": {
     "big_stat": "6.34 MİLYAR $",
-    "stat_caption": "Siber saldırı sonucunda kaybedilen toplam dijital varlık değeri.",
-    "stat_quote": "FBI, saldırının arkasında Kuzey Kore'nin olduğunu belirtti."
+    "stat_caption": "Saldırı sonucunda kaybolan dijital varlık miktarı.",
+    "stat_quote": "FBI, saldırının arkasında Kuzey Kore'nin olduğunu açıkladı."
   },
   "details": {
-    "heading": "Saldırı ve Müdahale Süreci",
+    "heading": "Saldırı Nasıl Gelişti?",
     "cards": [
       {
-        "card_title": "Saldırı Tarihi",
-        "card_body": "Hırsızlık olayı 29 Ekim'de gerçekleşti."
+        "card_title": "Erişim Sağlanması",
+        "card_body": "20 Ekim'de saldırganlar, ele geçirdikleri bilgisayar üzerinden diğer mühendislerin bilgisayarlarını kontrol etti."
       },
       {
-        "card_title": "Varlıkların Dondurulması",
-        "card_body": "Etkilenen 6.34 milyar dolarlık dijital varlığın 2.85 milyar doları donduruldu."
-      },
-      {
-        "card_title": "Sistem Yenileme",
-        "card_body": "3 Kasım itibarıyla borsa, etkilenen cüzdan sistemini ve dahili yapay zeka araçlarını yeniden oluşturdu."
+        "card_title": "Sistemlerin Yeniden Kurulumu",
+        "card_body": "3 Kasım itibarıyla etkilenen cüzdan sistemi ve dahili yapay zeka araçları yeniden inşa edildi."
       }
     ]
   },
   "impact": {
-    "heading": "Sektör ve Kullanıcı Etkisi",
+    "heading": "Mali Durum ve Alınan Önlemler",
     "cards": [
       {
-        "card_title": "Token Yenileme Oranı",
-        "card_body": "Binance, etkilenen token varlıklarının yüzde 98'ini yenilediğini açıkladı."
+        "card_title": "Dondurulan Varlıklar",
+        "card_body": "Etkilenen 6.34 milyar dolarlık dijital varlığın 2.85 milyar doları donduruldu."
       },
       {
-        "card_title": "Siber Güvenlik Önlemleri",
-        "card_body": "Borsa, cüzdan sistemini ve dahili yapay zeka araçlarını yeniden oluşturarak güvenlik önlemlerini güncelledi."
+        "card_title": "Güvenlik Güncellemeleri",
+        "card_body": "Borsa altyapısı ve cüzdan sistemleri olayın ardından hızla yenilendi."
       }
     ]
   },
   "cta": {
-    "question": "Yapay zeka araçları ve sahte iş teklifleri gibi sosyal mühendislik yöntemlerine karşı borsalar nasıl daha güvenli hale getirilebilir?",
-    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
+    "question": "Yapay zeka araçları ve sahte iş teklifleri siber güvenliği nasıl tehdit ediyor?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

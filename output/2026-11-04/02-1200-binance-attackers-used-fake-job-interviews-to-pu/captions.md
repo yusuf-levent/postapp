@@ -2,68 +2,44 @@
 
 ## INSTAGRAM
 
-Binance'te yaşanan 6.34 milyar dolarlık siber saldırının arka planı netleşiyor! FBI, saldırının arkasında Kuzey Kore'nin olduğunu belirtiyor.
+Binance sistemine gerçekleşen büyük siber saldırının detayları netleşiyor. 29 Ekim'de yaşanan olayda 6.34 milyar dolarlık dijital varlık hedef alındı. FBI, saldırının arkasında Kuzey Kore'nin olduğunu açıkladı. Yapay zeka kodlama araçları ve sahte iş teklifleri siber güvenliği nasıl tehdit ediyor? Kaynak: Wired, TechCrunch
 
-Haziran ve eylül aylarında yaşanan sosyal mühendislik yöntemleri ve sahte iş teklifleri, dijital varlık güvenliğinin önemini bir kez daha gösterdi.
-
-Olayın ardından 2.85 milyar dolar donduruldu ve cüzdan sistemleri yenilendi.
-
-Yapay zeka araçları ve sahte iş teklifleri gibi sosyal mühendislik yöntemlerine karşı borsalar nasıl daha güvenli hale getirilebilir?
-
-Kaynak: Engadget, Wired
-
-#SiberGüvenlik #Binance #KuzeyKore #Teknoloji #YapayZeka #FBI #DijitalVarlık #Haber #CyberSecurity #TechNews
+#siberguvenlik #binance #teknoloji #yapayzeka #fbi #siberasaldiri #kripto #haber #cybersecurity #tech
 
 ## TIKTOK
 
-Binance'ten 6.34 milyar dolarlık dijital varlık çalındı! FBI, Kuzey Kore'yi işaret ediyor. Sahte iş teklifleri ve yapay zeka tuzaklarının detayları videoda!
+Binance'e büyük siber saldırı! 6.34 milyar dolar kayıp ve arkasındaki şok detaylar. Kaynak: TechCrunch
 
-Kaynak: Wired
-
-#sibergüvenlik #binance #teknoloji #kuzeykore #fbi
+#siberguvenlik #binance #teknoloji #haber
 
 ## X
 
-Binance'te yaşanan 6.34 milyar dolarlık siber saldırının arkasında Kuzey Kore'nin olduğu belirtildi. Sosyal mühendislik ve sahte iş teklifleriyle gerçekleşen olayda varlıkların bir kısmı donduruldu.
+Binance sistemine 29 Ekim'de gerçekleşen siber saldırıda 6.34 milyar dolarlık dijital varlık hedef alındı. FBI, saldırının arkasında Kuzey Kore'nin olduğunu açıkladı. Kaynak: Wired
 
-Kaynak: Engadget, Wired #SiberGüvenlik #Binance
-
-#SiberGüvenlik #Binance
+#siberguvenlik #binance
 
 ## THREADS
 
-Binance'te 6.34 Milyar Dolarlık Siber Saldırı!
+Binance Sistemine Siber Saldırı
 
-FBI, Binance'te yaşanan büyük dijital varlık hırsızlığının arkasında Kuzey Kore'nin olduğunu belirtti. Sahte iş teklifleri ve yapay zeka araçları üzerinden gerçekleşen saldırının detayları netleşiyor.
+29 Ekim'de gerçekleşen büyük saldırıda 6.34 milyar dolarlık dijital varlık hedef alındı. FBI, saldırının arkasında Kuzey Kore'nin olduğunu açıkladı.
 
-Yapay zeka araçları ve sahte iş teklifleri gibi sosyal mühendislik yöntemlerine karşı borsalar nasıl daha güvenli hale getirilebilir?
-
-💭
+Yapay zeka araçları ve sahte iş teklifleri siber güvenliği nasıl tehdit ediyor? 💭
 
 Kaynak: Wired
 
-#SiberGüvenlik
+#siberguvenlik
+
+#siberguvenlik
 
 ## LINKEDIN
 
-Binance'te yaşanan 6.34 milyar dolarlık dijital varlık hırsızlığı, siber güvenlik ve sosyal mühendislik risklerini bir kez daha gözler önüne serdi. FBI, olayın arkasında Kuzey Kore'nin olduğunu belirtiyor.
+Siber güvenlik dünyasında dikkat çeken son gelişmelere göre, Binance sistemine yönelik gerçekleşen büyük siber saldırıda 6.34 milyar dolarlık dijital varlık hedef alındı. Olayın arka planında zararlı yapay zeka kodlama araçları ve sahte iş tekliflerinin olduğu belirtilirken, FBI saldırının arkasında Kuzey Kore'nin bulunduğunu açıkladı. Kurumsal altyapılarda güvenlik önlemlerinin önemi bir kez daha gözler önüne serildi. Kaynak: Wired, TechCrunch
 
-Haziran ve eylül aylarında yapay zeka kodlama araçları ve sahte iş teklifleri üzerinden sızma girişimleri gerçekleştiği raporlandı. Olay sonrasında borsa, etkilenen cüzdan sistemlerini yeniledi ve varlıkların bir kısmını dondurdu.
-
-Teknoloji dünyasında güvenlik protokollerinin güncellenmesi ve çalışan farkındalığı kritik önem taşıyor.
-
-Kaynak: Engadget, Wired
-
-#CyberSecurity #Binance #ArtificialIntelligence #Technology #Business
+#siberguvenlik #yapayzeka #teknoloji #bilgiislem #isgvenligi
 
 ## FACEBOOK
 
-Binance'te yaşanan 6.34 milyar dolarlık siber saldırının arka planı netleşiyor! FBI, saldırının arkasında Kuzey Kore'nin olduğunu açıkladı.
+Binance sistemine gerçekleşen büyük siber saldırının detayları netleşiyor. 29 Ekim'de yaşanan olayda 6.34 milyar dolarlık dijital varlık hedef alındı. FBI, saldırının arkasında Kuzey Kore'nin olduğunu açıkladı. Yapay zeka araçları ve sahte iş teklifleri siber güvenliği nasıl tehdit ediyor? Kaynak: Wired, TechCrunch
 
-Sahte iş teklifleri ve yapay zeka araçları kullanılarak gerçekleştirilen saldırının ardından borsa güvenlik önlemlerini güncelledi.
-
-Yapay zeka araçları ve sahte iş teklifleri gibi sosyal mühendislik yöntemlerine karşı borsalar nasıl daha güvenli hale getirilebilir?
-
-Kaynak: Engadget, Wired
-
-#SiberGüvenlik #Binance #Teknoloji #Haber #FBI
+#siberguvenlik #binance #teknoloji #haber
