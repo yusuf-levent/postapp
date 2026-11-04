@@ -1,0 +1,277 @@
+{
+  "title": "Binance attackers used fake job interviews to pull off $6.3 billion crypto heist",
+  "canonical_url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+  "source_names": [
+    "Engadget",
+    "The Verge",
+    "TechCrunch",
+    "Wired"
+  ],
+  "checked_at": "2026-11-04T12:04:18+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "FBI, saldırının arkasında Kuzey Kore'nin olduğunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "The FBI says North Korea was behind the attack."
+        }
+      ]
+    },
+    {
+      "claim": "Siber saldırı sonucunda 6.34 milyar dolar değerinde dijital varlık kaybı yaşandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "Binance has revealed more details about the cyber attack that resulted in a $6.34 billion loss in digital assets."
+        }
+      ]
+    },
+    {
+      "claim": "Hırsızlık olayı 29 Ekim'de gerçekleşti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "The cryptocurrency exchange's statement linked to the FBI's findings that North Korea was responsible for the attack and the theft that took place on October 29."
+        }
+      ]
+    },
+    {
+      "claim": "Haziran ayında bir Binance mühendisi yapay zeka kodlama aracı için değiştirilmiş bir kurulum indirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "In June, a Wallet DevOps engineer working on Binance's wallet infrastructure downloaded a tampered homebrew installation for a popular AI coding tool that he found through a search engine."
+        }
+      ]
+    },
+    {
+      "claim": "Eylül ayında Binance'te çalışan bir yazılım mühendisi iş arama platformu üzerinden sahte bir iş görüşmesi teklifi aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "Then in September, a software engineer who worked for Binance got a message from a \"Project Director\" through a legitimate job-hunting platform."
+        }
+      ]
+    },
+    {
+      "claim": "Etkilenen 6.34 milyar dolarlık dijital varlığın 2.85 milyar doları donduruldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "Of the $6.34 billion worth of digital assets impacted by the incident, $2.85 billion had been frozen."
+        }
+      ]
+    },
+    {
+      "claim": "3 Kasım itibarıyla borsa, etkilenen cüzdan sistemini ve dahili yapay zeka araçlarını yeniden oluşturdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "As of November 3, the exchange has already rebuilt its affected wallet system and internal AI tools, replaced affected devices, decommissioned compromised credentials and tokens, completed enhanced security scans on employee devices and enhanced its system with AI-powered anomaly detection capabilities."
+        }
+      ]
+    },
+    {
+      "claim": "Binance, etkilenen token varlıklarının yüzde 98'ini yenilediğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "It also said that it has already replenished 98 percent of the affected token assets and \"in the process of purchasing the outstanding, more illiquid assets.\""
+        },
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "It also said that it has already replenished 98 percent of the affected token assets"
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "FBI, saldırının arkasında Kuzey Kore'nin olduğunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "The FBI says North Korea was behind the attack."
+        }
+      ]
+    },
+    {
+      "claim": "Siber saldırı sonucunda 6.34 milyar dolar değerinde dijital varlık kaybı yaşandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "Binance has revealed more details about the cyber attack that resulted in a $6.34 billion loss in digital assets."
+        }
+      ]
+    },
+    {
+      "claim": "Hırsızlık olayı 29 Ekim'de gerçekleşti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "The cryptocurrency exchange's statement linked to the FBI's findings that North Korea was responsible for the attack and the theft that took place on October 29."
+        }
+      ]
+    },
+    {
+      "claim": "Haziran ayında bir Binance mühendisi yapay zeka kodlama aracı için değiştirilmiş bir kurulum indirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "In June, a Wallet DevOps engineer working on Binance's wallet infrastructure downloaded a tampered homebrew installation for a popular AI coding tool that he found through a search engine."
+        }
+      ]
+    },
+    {
+      "claim": "Eylül ayında Binance'te çalışan bir yazılım mühendisi iş arama platformu üzerinden sahte bir iş görüşmesi teklifi aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "Then in September, a software engineer who worked for Binance got a message from a \"Project Director\" through a legitimate job-hunting platform."
+        }
+      ]
+    },
+    {
+      "claim": "Etkilenen 6.34 milyar dolarlık dijital varlığın 2.85 milyar doları donduruldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "Of the $6.34 billion worth of digital assets impacted by the incident, $2.85 billion had been frozen."
+        }
+      ]
+    },
+    {
+      "claim": "3 Kasım itibarıyla borsa, etkilenen cüzdan sistemini ve dahili yapay zeka araçlarını yeniden oluşturdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "As of November 3, the exchange has already rebuilt its affected wallet system and internal AI tools, replaced affected devices, decommissioned compromised credentials and tokens, completed enhanced security scans on employee devices and enhanced its system with AI-powered anomaly detection capabilities."
+        }
+      ]
+    },
+    {
+      "claim": "Binance, etkilenen token varlıklarının yüzde 98'ini yenilediğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "It also said that it has already replenished 98 percent of the affected token assets and \"in the process of purchasing the outstanding, more illiquid assets.\""
+        },
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "It also said that it has already replenished 98 percent of the affected token assets"
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "FBI, saldırının arkasında Kuzey Kore'nin olduğunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "The FBI says North Korea was behind the attack."
+        }
+      ]
+    },
+    {
+      "claim": "Siber saldırı sonucunda 6.34 milyar dolar değerinde dijital varlık kaybı yaşandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "Binance has revealed more details about the cyber attack that resulted in a $6.34 billion loss in digital assets."
+        }
+      ]
+    },
+    {
+      "claim": "Hırsızlık olayı 29 Ekim'de gerçekleşti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "The cryptocurrency exchange's statement linked to the FBI's findings that North Korea was responsible for the attack and the theft that took place on October 29."
+        }
+      ]
+    },
+    {
+      "claim": "Haziran ayında bir Binance mühendisi yapay zeka kodlama aracı için değiştirilmiş bir kurulum indirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "In June, a Wallet DevOps engineer working on Binance's wallet infrastructure downloaded a tampered homebrew installation for a popular AI coding tool that he found through a search engine."
+        }
+      ]
+    },
+    {
+      "claim": "Eylül ayında Binance'te çalışan bir yazılım mühendisi iş arama platformu üzerinden sahte bir iş görüşmesi teklifi aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "Then in September, a software engineer who worked for Binance got a message from a \"Project Director\" through a legitimate job-hunting platform."
+        }
+      ]
+    },
+    {
+      "claim": "Etkilenen 6.34 milyar dolarlık dijital varlığın 2.85 milyar doları donduruldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "Of the $6.34 billion worth of digital assets impacted by the incident, $2.85 billion had been frozen."
+        }
+      ]
+    },
+    {
+      "claim": "3 Kasım itibarıyla borsa, etkilenen cüzdan sistemini ve dahili yapay zeka araçlarını yeniden oluşturdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "As of November 3, the exchange has already rebuilt its affected wallet system and internal AI tools, replaced affected devices, decommissioned compromised credentials and tokens, completed enhanced security scans on employee devices and enhanced its system with AI-powered anomaly detection capabilities."
+        }
+      ]
+    },
+    {
+      "claim": "Binance, etkilenen token varlıklarının yüzde 98'ini yenilediğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "It also said that it has already replenished 98 percent of the affected token assets and \"in the process of purchasing the outstanding, more illiquid assets.\""
+        },
+        {
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "quote": "It also said that it has already replenished 98 percent of the affected token assets"
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/": 2987,
+    "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained": 3082,
+    "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/": 4215,
+    "https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/": 6835
+  }
+}

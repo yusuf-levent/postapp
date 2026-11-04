@@ -1,0 +1,10 @@
+{
+  "slot": "12:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 106.4,
+  "candidates_tried": 1,
+  "gemini_calls": 17,
+  "canonical_url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+  "generated_at": "2026-11-04T12:05:35+03:00"
+}

@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "SİBER GÜVENLİK",
+    "title": "Büyük Dijital Varlık Hırsızlığı ve Kuzey Kore İddiası",
+    "highlight_words": [
+      "Kuzey Kore",
+      "Dijital Varlık"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Binance'te yaşanan büyük siber saldırının arka planı ve detayları netleşiyor.",
+    "source_tags": [
+      "ENGADGET",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Olayın Gelişimi ve Tarihler",
+    "cards": [
+      {
+        "card_title": "Haziran Ayı Gelişmesi",
+        "card_body": "Haziran ayında bir Binance mühendisi yapay zeka kodlama aracı için değiştirilmiş bir kurulum indirdi."
+      },
+      {
+        "card_title": "Eylül Ayı Gelişmesi",
+        "card_body": "Eylül ayında Binance'te çalışan bir yazılım mühendisi iş arama platformu üzerinden sahte bir iş görüşmesi teklifi aldı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "6.34 MİLYAR $",
+    "stat_caption": "Siber saldırı sonucunda kaybedilen toplam dijital varlık değeri.",
+    "stat_quote": "FBI, saldırının arkasında Kuzey Kore'nin olduğunu belirtti."
+  },
+  "details": {
+    "heading": "Saldırı ve Müdahale Süreci",
+    "cards": [
+      {
+        "card_title": "Saldırı Tarihi",
+        "card_body": "Hırsızlık olayı 29 Ekim'de gerçekleşti."
+      },
+      {
+        "card_title": "Varlıkların Dondurulması",
+        "card_body": "Etkilenen 6.34 milyar dolarlık dijital varlığın 2.85 milyar doları donduruldu."
+      },
+      {
+        "card_title": "Sistem Yenileme",
+        "card_body": "3 Kasım itibarıyla borsa, etkilenen cüzdan sistemini ve dahili yapay zeka araçlarını yeniden oluşturdu."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektör ve Kullanıcı Etkisi",
+    "cards": [
+      {
+        "card_title": "Token Yenileme Oranı",
+        "card_body": "Binance, etkilenen token varlıklarının yüzde 98'ini yenilediğini açıkladı."
+      },
+      {
+        "card_title": "Siber Güvenlik Önlemleri",
+        "card_body": "Borsa, cüzdan sistemini ve dahili yapay zeka araçlarını yeniden oluşturarak güvenlik önlemlerini güncelledi."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Yapay zeka araçları ve sahte iş teklifleri gibi sosyal mühendislik yöntemlerine karşı borsalar nasıl daha güvenli hale getirilebilir?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
