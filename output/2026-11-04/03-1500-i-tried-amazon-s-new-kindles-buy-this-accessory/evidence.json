@@ -1,0 +1,257 @@
+{
+  "title": "I Tried Amazon’s New Kindles. Buy This Accessory Instead (2026)",
+  "canonical_url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+  "source_names": [
+    "Wired",
+    "Engadget",
+    "Google Blog"
+  ],
+  "checked_at": "2026-11-04T14:42:07+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Amazon Kindle Click 35 dolar fiyatla satılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "the least expensive offering: the Amazon Kindle Click ($35)."
+        },
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "the Amazon Kindle Click ($35)."
+        }
+      ]
+    },
+    {
+      "claim": "Kindle Click, 2024 ve 2026 yılları arasındaki son iki nesil Kindle ile eşleşen Amazon'un ilk Bluetooth Kindle sayfa çeviricisidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "The Kindle Click is Amazon's first Bluetooth Kindle page turner that will pair with its two latest generations of Kindles, from both 2024 and 2026."
+        }
+      ]
+    },
+    {
+      "claim": "Kindle Click USB-C üzerinden şarj olmaktadır ve bilek kayışıyla birlikte gelmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "It charges via USB-C and comes with a little wrist strap, so if you were to let go of it, you won’t drop it."
+        }
+      ]
+    },
+    {
+      "claim": "Yeni Kindle sayfa çevirici kapağı 80 dolar fiyatla satılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "The Click is nearly half the price of the new Kindle page-turn cover ($80) that I also really like"
+        }
+      ]
+    },
+    {
+      "claim": "Kindle Signature Edition modelleri 250 dolardan başlamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "Those models start at $250"
+        }
+      ]
+    },
+    {
+      "claim": "Kobo Libra Colour 258 dolar fiyatla satılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "go buy a Kobo Libra Colour ($258), which has built-in page-turn buttons, instead"
+        },
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "go buy a Kobo Libra Colour ($258), which has built-in page-turn buttons, instead and save yourself around $75."
+        }
+      ]
+    },
+    {
+      "claim": "Kindle Click geçen hafta piyasaya sürülmüştür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "It's already taking a few weeks to ship after launching last week"
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Amazon Kindle Click 35 dolar fiyatla satılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "the least expensive offering: the Amazon Kindle Click ($35)."
+        },
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "the Amazon Kindle Click ($35)."
+        }
+      ]
+    },
+    {
+      "claim": "Kindle Click, 2024 ve 2026 yılları arasındaki son iki nesil Kindle ile eşleşen Amazon'un ilk Bluetooth Kindle sayfa çeviricisidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "The Kindle Click is Amazon's first Bluetooth Kindle page turner that will pair with its two latest generations of Kindles, from both 2024 and 2026."
+        }
+      ]
+    },
+    {
+      "claim": "Kindle Click USB-C üzerinden şarj olmaktadır ve bilek kayışıyla birlikte gelmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "It charges via USB-C and comes with a little wrist strap, so if you were to let go of it, you won’t drop it."
+        }
+      ]
+    },
+    {
+      "claim": "Yeni Kindle sayfa çevirici kapağı 80 dolar fiyatla satılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "The Click is nearly half the price of the new Kindle page-turn cover ($80) that I also really like"
+        }
+      ]
+    },
+    {
+      "claim": "Kindle Signature Edition modelleri 250 dolardan başlamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "Those models start at $250"
+        }
+      ]
+    },
+    {
+      "claim": "Kobo Libra Colour 258 dolar fiyatla satılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "go buy a Kobo Libra Colour ($258), which has built-in page-turn buttons, instead"
+        },
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "go buy a Kobo Libra Colour ($258), which has built-in page-turn buttons, instead and save yourself around $75."
+        }
+      ]
+    },
+    {
+      "claim": "Kindle Click geçen hafta piyasaya sürülmüştür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "It's already taking a few weeks to ship after launching last week"
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Amazon Kindle Click 35 dolar fiyatla satılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "the least expensive offering: the Amazon Kindle Click ($35)."
+        },
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "the Amazon Kindle Click ($35)."
+        }
+      ]
+    },
+    {
+      "claim": "Kindle Click, 2024 ve 2026 yılları arasındaki son iki nesil Kindle ile eşleşen Amazon'un ilk Bluetooth Kindle sayfa çeviricisidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "The Kindle Click is Amazon's first Bluetooth Kindle page turner that will pair with its two latest generations of Kindles, from both 2024 and 2026."
+        }
+      ]
+    },
+    {
+      "claim": "Kindle Click USB-C üzerinden şarj olmaktadır ve bilek kayışıyla birlikte gelmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "It charges via USB-C and comes with a little wrist strap, so if you were to let go of it, you won’t drop it."
+        }
+      ]
+    },
+    {
+      "claim": "Yeni Kindle sayfa çevirici kapağı 80 dolar fiyatla satılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "The Click is nearly half the price of the new Kindle page-turn cover ($80) that I also really like"
+        }
+      ]
+    },
+    {
+      "claim": "Kindle Signature Edition modelleri 250 dolardan başlamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "Those models start at $250"
+        }
+      ]
+    },
+    {
+      "claim": "Kobo Libra Colour 258 dolar fiyatla satılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "go buy a Kobo Libra Colour ($258), which has built-in page-turn buttons, instead"
+        },
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "go buy a Kobo Libra Colour ($258), which has built-in page-turn buttons, instead and save yourself around $75."
+        }
+      ]
+    },
+    {
+      "claim": "Kindle Click geçen hafta piyasaya sürülmüştür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+          "quote": "It's already taking a few weeks to ship after launching last week"
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.wired.com/story/finally-a-kindle-page-turner/": 4688,
+    "https://www.engadget.com/2305897/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/": 3010,
+    "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/": 8080
+  }
+}
