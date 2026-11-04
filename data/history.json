@@ -4350,5 +4350,76 @@
     ],
     "created_at": "2026-11-04T14:45:38+03:00",
     "verified_claims_count": 7
+  },
+  {
+    "id": "2026-11-04-1800",
+    "date": "2026-11-04",
+    "slot": "18:00",
+    "type": "edu",
+    "title_tr": "ARA SEÇİMLER VE İSTİHBARAT TALEPLERİ",
+    "original_title": "Knives Are Out in the White House",
+    "source_urls": [
+      "https://www.wired.com/story/knives-are-out-in-the-white-house/"
+    ],
+    "canonical_url": "https://wired.com/story/knives-are-out-in-the-white-house",
+    "entities": [
+      "Donald Trump",
+      "George W. Bush",
+      "Donald Rumsfeld"
+    ],
+    "event_type": "political_analysis",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6aeb89d5c6d064586b7c7018",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6aeb89d78ee551b5aa788f8f",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6aeb89ee8ee551b5aa789805",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2118065609002909873",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18206680711375029",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfVOpA8D9wJ",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6aeb8a1723e3db949c15a7e7",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6aeb8a2e6cbba97f5cc017c1",
+        "permalink": "https://facebook.com/1351036918092059_122121049773484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-11-04T22:40:44+03:00",
+    "verified_claims_count": 7
   }
 ]
