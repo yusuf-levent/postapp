@@ -1,0 +1,259 @@
+{
+  "title": "Valve just changed its Steam release rules amid a flood of AI games",
+  "canonical_url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+  "source_names": [
+    "Engadget",
+    "The Verge",
+    "Ars Technica",
+    "BBC News – Technology"
+  ],
+  "checked_at": "2026-11-04T11:33:53+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Valve is updating its game release rules to unclog a backlog of approvals caused by a recent flood of new game titles.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "Valve is updating its game release rules to try to unclog a backlog of approvals due to a recent flood of new game titles"
+        },
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "Valve is updating its game release rules to try to unclog a backlog of approvals due to a recent flood of new game titles, many created with AI, the company announced."
+        }
+      ]
+    },
+    {
+      "claim": "Valve's goal for new title reviews is three to five days, but it is currently taking up to 12 business days.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "Valve's goal for new title reviews is three to five days, but it's currently taking up to 12 business days."
+        }
+      ]
+    },
+    {
+      "claim": "Developers must run their games through Steam for at least five minutes to ensure they work on the platform.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "developers must run their games through Steam for at least five minutes to ensure it works on the platform."
+        },
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "First and foremost, developers must run their games through Steam for at least five minutes to ensure it works on the platform."
+        }
+      ]
+    },
+    {
+      "claim": "Valve is requiring developers to confirm common redistributables like DirectX and Visual C++, check achievements, confirm Steam Cloud save paths, and categorize screenshots.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "Valve is also requiring devs to confirm common redistributables like DirectX and Visual C++, check that achievements are ready, confirm that Steam Cloud save paths are configured correctly, and categorize screenshots as gameplay, menus, concept art or cinematics."
+        }
+      ]
+    },
+    {
+      "claim": "Reddit user u/ploz found that 49.9 percent of games released on Steam in October disclosed AI-generated content.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "That data was confirmed by Reddit user u/ploz, who found that 49.9 percent of games released on Steam in October disclosed AI-generated content."
+        }
+      ]
+    },
+    {
+      "claim": "In June, nearly 20 percent of Next Fest game demos disclosed the use of AI.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "In June, nearly 20 percent of Next Fest game demos disclosed the use of AI."
+        }
+      ]
+    },
+    {
+      "claim": "Cubic Earth developer structmira stated that their game's trailer amassed more than 60,000 views on YouTube and over 6,000 wishlists.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "\"Our game's trailer amassed more than 60,000 views on YouTube, and we had more than 6,000 wishlists,\" Cubic Earth developer structmira told PC Gamer."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Valve is updating its game release rules to unclog a backlog of approvals caused by a recent flood of new game titles.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "Valve is updating its game release rules to try to unclog a backlog of approvals due to a recent flood of new game titles"
+        },
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "Valve is updating its game release rules to try to unclog a backlog of approvals due to a recent flood of new game titles, many created with AI, the company announced."
+        }
+      ]
+    },
+    {
+      "claim": "Valve's goal for new title reviews is three to five days, but it is currently taking up to 12 business days.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "Valve's goal for new title reviews is three to five days, but it's currently taking up to 12 business days."
+        }
+      ]
+    },
+    {
+      "claim": "Developers must run their games through Steam for at least five minutes to ensure they work on the platform.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "developers must run their games through Steam for at least five minutes to ensure it works on the platform."
+        },
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "First and foremost, developers must run their games through Steam for at least five minutes to ensure it works on the platform."
+        }
+      ]
+    },
+    {
+      "claim": "Valve is requiring developers to confirm common redistributables like DirectX and Visual C++, check achievements, confirm Steam Cloud save paths, and categorize screenshots.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "Valve is also requiring devs to confirm common redistributables like DirectX and Visual C++, check that achievements are ready, confirm that Steam Cloud save paths are configured correctly, and categorize screenshots as gameplay, menus, concept art or cinematics."
+        }
+      ]
+    },
+    {
+      "claim": "Reddit user u/ploz found that 49.9 percent of games released on Steam in October disclosed AI-generated content.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "That data was confirmed by Reddit user u/ploz, who found that 49.9 percent of games released on Steam in October disclosed AI-generated content."
+        }
+      ]
+    },
+    {
+      "claim": "In June, nearly 20 percent of Next Fest game demos disclosed the use of AI.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "In June, nearly 20 percent of Next Fest game demos disclosed the use of AI."
+        }
+      ]
+    },
+    {
+      "claim": "Cubic Earth developer structmira stated that their game's trailer amassed more than 60,000 views on YouTube and over 6,000 wishlists.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "\"Our game's trailer amassed more than 60,000 views on YouTube, and we had more than 6,000 wishlists,\" Cubic Earth developer structmira told PC Gamer."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Valve is updating its game release rules to unclog a backlog of approvals caused by a recent flood of new game titles.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "Valve is updating its game release rules to try to unclog a backlog of approvals due to a recent flood of new game titles"
+        },
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "Valve is updating its game release rules to try to unclog a backlog of approvals due to a recent flood of new game titles, many created with AI, the company announced."
+        }
+      ]
+    },
+    {
+      "claim": "Valve's goal for new title reviews is three to five days, but it is currently taking up to 12 business days.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "Valve's goal for new title reviews is three to five days, but it's currently taking up to 12 business days."
+        }
+      ]
+    },
+    {
+      "claim": "Developers must run their games through Steam for at least five minutes to ensure they work on the platform.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "developers must run their games through Steam for at least five minutes to ensure it works on the platform."
+        },
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "First and foremost, developers must run their games through Steam for at least five minutes to ensure it works on the platform."
+        }
+      ]
+    },
+    {
+      "claim": "Valve is requiring developers to confirm common redistributables like DirectX and Visual C++, check achievements, confirm Steam Cloud save paths, and categorize screenshots.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "Valve is also requiring devs to confirm common redistributables like DirectX and Visual C++, check that achievements are ready, confirm that Steam Cloud save paths are configured correctly, and categorize screenshots as gameplay, menus, concept art or cinematics."
+        }
+      ]
+    },
+    {
+      "claim": "Reddit user u/ploz found that 49.9 percent of games released on Steam in October disclosed AI-generated content.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "That data was confirmed by Reddit user u/ploz, who found that 49.9 percent of games released on Steam in October disclosed AI-generated content."
+        }
+      ]
+    },
+    {
+      "claim": "In June, nearly 20 percent of Next Fest game demos disclosed the use of AI.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "In June, nearly 20 percent of Next Fest game demos disclosed the use of AI."
+        }
+      ]
+    },
+    {
+      "claim": "Cubic Earth developer structmira stated that their game's trailer amassed more than 60,000 views on YouTube and over 6,000 wishlists.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "quote": "\"Our game's trailer amassed more than 60,000 views on YouTube, and we had more than 6,000 wishlists,\" Cubic Earth developer structmira told PC Gamer."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/": 2399,
+    "https://www.theverge.com/tech/1025971/canva-changes-layoffs": 1666,
+    "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/": 1827,
+    "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss": 4843
+  }
+}

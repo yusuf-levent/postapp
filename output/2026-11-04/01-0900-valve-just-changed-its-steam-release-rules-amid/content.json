@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "STEAM VE OYUN DÜNYASI",
+    "title": "Valve'dan Steam Kurallarına Yeni Güncelleme",
+    "highlight_words": [
+      "Yeni",
+      "Güncelleme"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Artan oyun yoğunluğu ve onay kuyrukları için yeni kurallar geliyor.",
+    "source_tags": [
+      "ENGADGET",
+      "THE VERGE"
+    ]
+  },
+  "context": {
+    "heading": "Onay Süreçleri Neden Değişiyor?",
+    "cards": [
+      {
+        "card_title": "Yoğunluk ve Kuyruk",
+        "card_body": "Valve, son dönemdeki oyun taşkını nedeniyle oluşan onay birikimini eritmek için oyun yayınlama kurallarını güncelliyor."
+      },
+      {
+        "card_title": "İnceleme Süreleri",
+        "card_body": "Yeni oyun incelemeleri için hedef üç ile beş gün arası olmasına rağmen, süreç şu anda 12 iş gününü bulabiliyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "%49.9",
+    "stat_caption": "Ekim ayında Steam'de çıkan oyunların yapay zeka içerik oranı.",
+    "stat_quote": "Reddit kullanıcısı u/ploz, ekim ayında çıkan oyunların neredeyse yarısının yapay zeka içerdiğini belirtti."
+  },
+  "details": {
+    "heading": "Geliştiriciler İçin Yeni Şartlar",
+    "cards": [
+      {
+        "card_title": "Beş Dakika Kuralı",
+        "card_body": "Geliştiriciler, oyunların platformda çalıştığından emin olmak için onları Steam üzerinden en az beş dakika çalıştırmak zorunda."
+      },
+      {
+        "card_title": "Teknik Kontroller",
+        "card_body": "DirectX ve Visual C++ gibi ortak dağıtılabilgileri onaylama, başarımları kontrol etme ve ekran görüntülerini kategorize etme zorunluluğu getirildi."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektör ve Yapay Zeka Etkisi",
+    "cards": [
+      {
+        "card_title": "Yapay Zeka Artışı",
+        "card_body": "Haziran ayında Next Fest oyun demolarının yüzde 20'ye yakını yapay zeka kullanımı bildirdi."
+      },
+      {
+        "card_title": "Geliştirici Başarıları",
+        "card_body": "Cubic Earth geliştiricisi structmira, oyun fragmanının YouTube'da 60.000'den fazla izlenme ve 6.000'den fazla istek listesi aldığını açıkladı."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce Steam'in getirdiği yeni test kuralları onay süreçlerini hızlandıracak mı?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 160.3,
+  "candidates_tried": 1,
+  "gemini_calls": 14,
+  "canonical_url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+  "generated_at": "2026-11-04T11:35:47+03:00"
+}
