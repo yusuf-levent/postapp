@@ -4136,5 +4136,77 @@
     ],
     "created_at": "2026-11-03T19:41:02+03:00",
     "verified_claims_count": 5
+  },
+  {
+    "id": "2026-11-04-0900",
+    "date": "2026-11-04",
+    "slot": "09:00",
+    "type": "news",
+    "title_tr": "Valve'dan Steam Oyun Çıkış Kurallarında Değişiklik",
+    "original_title": "Valve just changed its Steam release rules amid a flood of AI games",
+    "source_urls": [
+      "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/"
+    ],
+    "canonical_url": "https://engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games",
+    "entities": [
+      "Valve",
+      "Steam",
+      "DirectX",
+      "Visual C++"
+    ],
+    "event_type": "policy_update",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6aeaf042394911f9f1323f39",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6aeaf059dc38f4d7bae62524",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6aeaf071394911f9f1325b34",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2117900802601648329",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "17944982844092411",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfUDshfkaHg",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6aeaf096dc38f4d7bae68661",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6aeaf0addc38f4d7bae68b21",
+        "permalink": "https://facebook.com/1351036918092059_122120919579484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-11-04T11:45:46+03:00",
+    "verified_claims_count": 6
   }
 ]
