@@ -1,65 +1,65 @@
 {
   "cover": {
-    "category_label": "STEAM VE OYUN DÜNYASI",
-    "title": "Valve'dan Steam Kurallarına Yeni Güncelleme",
+    "category_label": "STEAM GÜNCELLEMESİ",
+    "title": "Valve'dan Steam Oyun Çıkış Kurallarında Değişiklik",
     "highlight_words": [
-      "Yeni",
-      "Güncelleme"
+      "Steam",
+      "Kurallarında"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Artan oyun yoğunluğu ve onay kuyrukları için yeni kurallar geliyor.",
+    "subtitle": "Onay birikmesini önlemek amacıyla yeni kurallar duyuruldu.",
     "source_tags": [
       "ENGADGET",
       "THE VERGE"
     ]
   },
   "context": {
-    "heading": "Onay Süreçleri Neden Değişiyor?",
+    "heading": "İnceleme Süreçleri ve Yeni Kurallar",
     "cards": [
       {
-        "card_title": "Yoğunluk ve Kuyruk",
-        "card_body": "Valve, son dönemdeki oyun taşkını nedeniyle oluşan onay birikimini eritmek için oyun yayınlama kurallarını güncelliyor."
+        "card_title": "Onay Birikmesi",
+        "card_body": "Valve, yeni oyun başlıklarındaki onay birikmesini önlemek amacıyla oyun çıkış kurallarını güncellediğini duyurdu."
       },
       {
-        "card_title": "İnceleme Süreleri",
-        "card_body": "Yeni oyun incelemeleri için hedef üç ile beş gün arası olmasına rağmen, süreç şu anda 12 iş gününü bulabiliyor."
+        "card_title": "Beş Dakika Kuralı",
+        "card_body": "Geliştiriciler, platformda çalıştığından emin olmak için oyunlarını Steam üzerinden en az beş dakika çalıştırmak zorundadır."
       }
     ]
   },
   "stat": {
-    "big_stat": "%49.9",
-    "stat_caption": "Ekim ayında Steam'de çıkan oyunların yapay zeka içerik oranı.",
-    "stat_quote": "Reddit kullanıcısı u/ploz, ekim ayında çıkan oyunların neredeyse yarısının yapay zeka içerdiğini belirtti."
+    "big_stat": "12 İŞ GÜNÜ",
+    "stat_caption": "Valve'ın yeni oyun incelemeleri için hedefi üç ila beş gün olmasına rağmen süreç uzadı.",
+    "stat_quote": "Valve'ın yeni oyun incelemeleri için hedefi üç ila beş gün olmasına rağmen, süreç şu anda 12 iş gününe kadar sürmektedir."
   },
   "details": {
-    "heading": "Geliştiriciler İçin Yeni Şartlar",
+    "heading": "Yapay Zeka ve İstatistikler",
     "cards": [
       {
-        "card_title": "Beş Dakika Kuralı",
-        "card_body": "Geliştiriciler, oyunların platformda çalıştığından emin olmak için onları Steam üzerinden en az beş dakika çalıştırmak zorunda."
+        "card_title": "Ekim Ayı Verileri",
+        "card_body": "Reddit kullanıcısı u/ploz'un verilerine göre, Ekim ayında Steam'de yayınlanan oyunların yüzde 49.9'u yapay zeka üreten içerik bildirdi."
       },
       {
-        "card_title": "Teknik Kontroller",
-        "card_body": "DirectX ve Visual C++ gibi ortak dağıtılabilgileri onaylama, başarımları kontrol etme ve ekran görüntülerini kategorize etme zorunluluğu getirildi."
+        "card_title": "Next Fest Demoları",
+        "card_body": "Haziran ayında Next Fest oyun demolarının yüzde 20'ye yakını yapay zeka kullanımını bildirdi."
       }
     ]
   },
   "impact": {
-    "heading": "Sektör ve Yapay Zeka Etkisi",
+    "heading": "Geliştirici Deneyimleri",
     "cards": [
       {
-        "card_title": "Yapay Zeka Artışı",
-        "card_body": "Haziran ayında Next Fest oyun demolarının yüzde 20'ye yakını yapay zeka kullanımı bildirdi."
+        "card_title": "Cubic Earth Örneği",
+        "card_body": "Cubic Earth geliştiricisi structmira, oyunlarının fragmanının YouTube'da 60.000'den fazla izlenme topladığını belirtti."
       },
       {
-        "card_title": "Geliştirici Başarıları",
-        "card_body": "Cubic Earth geliştiricisi structmira, oyun fragmanının YouTube'da 60.000'den fazla izlenme ve 6.000'den fazla istek listesi aldığını açıkladı."
+        "card_title": "İstek Listesi Başarısı",
+        "card_body": "Geliştirici, oyunlarının 6.000'den fazla istek listesine eklendiğini ifade etti."
       }
     ]
   },
   "cta": {
-    "question": "Sizce Steam'in getirdiği yeni test kuralları onay süreçlerini hızlandıracak mı?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
+    "question": "Steam'in yeni oyun çıkış kuralları ve inceleme süreçleri hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

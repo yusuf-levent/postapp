@@ -1,5 +1,5 @@
 URL: https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/
-Erişim zamanı: 2026-11-04T11:33:53+03:00
+Erişim zamanı: 2026-11-04T11:42:58+03:00
 
 Last week, Anthropic introduced a new system prompt designed to stop its Claude models from re-creating specific, existing video games. While that move could help shield Anthropic from some liability, it’s unlikely to slow much of the massive wave of AI-assisted game porting and copying that has emerged in recent months.
 A social media user and AI decompilation enthusiast going by the name “chasm” was among the first to note the prompt change late last week, saying a new rule seemed to be added to the Claude Code prompt on or around October 27. That rule—included in a json file under the name “tengu_heron_brook”—reads as follows:

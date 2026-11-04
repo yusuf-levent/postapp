@@ -3,54 +3,44 @@
 **Haber:** Valve just changed its Steam release rules amid a flood of AI games
 **Canonical URL:** https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/
 **Kaynaklar:** Engadget, The Verge, Ars Technica, BBC News – Technology
-**Kontrol zamanı:** 2026-11-04T11:33:53+03:00
+**Kontrol zamanı:** 2026-11-04T11:42:58+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
 
 ## İddia Bazlı Sonuçlar
 
-### 1. Valve is updating its game release rules to unclog a backlog of approvals caused by a recent flood of new game titles.
+### 1. Valve, yeni oyun başlıklarındaki onay birikmesini önlemek amacıyla oyun çıkış kurallarını güncellediğini duyurdu.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/](https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/)
-    > Valve is updating its game release rules to try to unclog a backlog of approvals due to a recent flood of new game titles
-  - [https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/](https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/)
     > Valve is updating its game release rules to try to unclog a backlog of approvals due to a recent flood of new game titles, many created with AI, the company announced.
 
-### 2. Valve's goal for new title reviews is three to five days, but it is currently taking up to 12 business days.
+### 2. Valve'ın yeni oyun incelemeleri için hedefi üç ila beş gün olmasına rağmen, süreç şu anda 12 iş gününe kadar sürmektedir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/](https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/)
     > Valve's goal for new title reviews is three to five days, but it's currently taking up to 12 business days.
 
-### 3. Developers must run their games through Steam for at least five minutes to ensure they work on the platform.
+### 3. Geliştiriciler, platformda çalıştığından emin olmak için oyunlarını Steam üzerinden en az beş dakika çalıştırmak zorundadır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
-  - [https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/](https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/)
-    > developers must run their games through Steam for at least five minutes to ensure it works on the platform.
   - [https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/](https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/)
     > First and foremost, developers must run their games through Steam for at least five minutes to ensure it works on the platform.
 
-### 4. Valve is requiring developers to confirm common redistributables like DirectX and Visual C++, check achievements, confirm Steam Cloud save paths, and categorize screenshots.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/](https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/)
-    > Valve is also requiring devs to confirm common redistributables like DirectX and Visual C++, check that achievements are ready, confirm that Steam Cloud save paths are configured correctly, and categorize screenshots as gameplay, menus, concept art or cinematics.
-
-### 5. Reddit user u/ploz found that 49.9 percent of games released on Steam in October disclosed AI-generated content.
+### 4. Reddit kullanıcısı u/ploz'un verilerine göre, Ekim ayında Steam'de yayınlanan oyunların yüzde 49.9'u yapay zeka üreten içerik bildirdi.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/](https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/)
     > That data was confirmed by Reddit user u/ploz, who found that 49.9 percent of games released on Steam in October disclosed AI-generated content.
 
-### 6. In June, nearly 20 percent of Next Fest game demos disclosed the use of AI.
+### 5. Haziran ayında Next Fest oyun demolarının yüzde 20'ye yakını yapay zeka kullanımını bildirdi.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/](https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/)
     > In June, nearly 20 percent of Next Fest game demos disclosed the use of AI.
 
-### 7. Cubic Earth developer structmira stated that their game's trailer amassed more than 60,000 views on YouTube and over 6,000 wishlists.
+### 6. Cubic Earth geliştiricisi structmira, oyunlarının fragmanının YouTube'da 60.000'den fazla izlenme topladığını ve 6.000'den fazla istek listesine eklendiğini belirtti.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/](https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/)
@@ -62,13 +52,12 @@
 
 | İddia | 1. Tur | 2. Tur | Nihai |
 |-------|--------|--------|-------|
-| Valve is updating its game release rules to unclog a backlog | supported | supported | supported |
-| Valve's goal for new title reviews is three to five days, bu | supported | supported | supported |
-| Developers must run their games through Steam for at least f | supported | supported | supported |
-| Valve is requiring developers to confirm common redistributa | supported | supported | supported |
-| Reddit user u/ploz found that 49.9 percent of games released | supported | supported | supported |
-| In June, nearly 20 percent of Next Fest game demos disclosed | supported | supported | supported |
-| Cubic Earth developer structmira stated that their game's tr | supported | supported | supported |
+| Valve, yeni oyun başlıklarındaki onay birikmesini önlemek am | supported | supported | supported |
+| Valve'ın yeni oyun incelemeleri için hedefi üç ila beş gün o | supported | supported | supported |
+| Geliştiriciler, platformda çalıştığından emin olmak için oyu | supported | supported | supported |
+| Reddit kullanıcısı u/ploz'un verilerine göre, Ekim ayında St | supported | supported | supported |
+| Haziran ayında Next Fest oyun demolarının yüzde 20'ye yakını | supported | supported | supported |
+| Cubic Earth geliştiricisi structmira, oyunlarının fragmanını | supported | supported | supported |
 
 ## Kaynak Metinleri
 

@@ -2,52 +2,40 @@
 
 ## INSTAGRAM
 
-Valve, Steam'deki oyun yoğunluğunu azaltmak ve onay kuyruklarını eritmek için yeni kurallar getiriyor! Artık geliştiricilerin oyunları en az beş dakika test etmesi ve teknik kontrolleri tamamlaması gerekiyor. Ayrıca ekim ayında çıkan oyunların neredeyse %49.9'unun yapay zeka içerdiği belirtiliyor. Sizce bu yeni kurallar onay süreçlerini hızlandıracak mı?
+Valve, Steam oyun çıkış kurallarında onay birikmesini önlemek için önemli değişiklikler yaptığını duyurdu! Artık geliştiricilerin oyunlarını en az 5 dakika çalıştırması gerekiyor. Süreçlerin 12 iş gününe kadar uzadığı da paylaşılan detaylar arasında. Steam'in bu yeni kuralları hakkında ne düşünüyorsunuz? Kaynak: Engadget
 
-Kaynak: Engadget, The Verge
-
-#Steam #Valve #OyunDünyası #Teknoloji #Geliştirici #YapayZeka #Gaming #PCGaming #TeknoPusula #Haber
+#Steam #Valve #OyunGeliştirme #TeknolojiHaberleri #GamingNews #GameDev #PCGaming #SteamUpdate
 
 ## TIKTOK
 
-Steam kuralları değişiyor! Onay kuyruklarını eritmek için gelen yeni şartlar neler? Kaynak: Engadget, The Verge
+Steam'in yeni oyun çıkış kuralları açıklandı! Geliştiricilere artık beş dakika kuralı geldi. Detaylar videoda! Kaynak: The Verge
 
-#Steam #Valve #Gaming #Teknoloji #Oyun
+#Steam #Gaming #Valve #Teknoloji #Oyun
 
 ## X
 
-Valve, Steam'deki onay kuyruklarını eritmek için yeni kurallar getirdi. Artık oyunların en az beş dakika çalıştırılması zorunlu. Ekim ayındaki oyunların %49.9'u ise yapay zeka içeriyor. Sizce bu süreçleri hızlandırır mı? Kaynak: Engadget, The Verge
+Valve, Steam oyun çıkış kurallarını güncelledi! Onay sürecinin 12 iş gününe çıkması üzerine yeni 'beş dakika kuralı' getirildi. Sizce bu hamle süreci hızlandırır mı? Kaynak: Engadget
 
 #Steam #Valve
 
 ## THREADS
 
-Valve'dan Steam Kurallarına Yeni Güncelleme 🎮
+Valve'dan Steam Oyun Çıkış Kurallarında Değişiklik 🎮
 
-Artan oyun yoğunluğu ve onay kuyrukları nedeniyle Valve, geliştiriciler için yeni şartlar getirdi. Artık oyunların Steam'de en az beş dakika çalıştırılması ve teknik kontrollerin yapılması zorunlu.
+Onay birikmesini önlemek amacıyla geliştiricilere oyunlarını en az beş dakika çalıştırma zorunluluğu getirildi. Süreçlerin 12 iş gününe kadar uzadığı belirtiliyor.
 
-Sizce bu yeni test kuralları süreçleri hızlandıracak mı?
-
-💭 Kaynak: Engadget, The Verge
+Sizce bu yeni kurallar yeterli olacak mı? 💭 Kaynak: The Verge
 
 #Steam
 
 ## LINKEDIN
 
-Valve, artan oyun yoğunluğu ve onay kuyruklarını yönetmek adına Steam yayınlama kurallarında önemli bir güncellemeye gitti. Yeni kurallara göre geliştiriciler, oyunların platformda sorunsuz çalıştığını kanıtlamak için en az beş dakika test etmek ve çeşitli teknik kontrolleri tamamlamak zorunda. Sektördeki yapay zeka içerikli oyun oranının ekim ayında %49.9'a ulaştığı göz önüne alındığında, bu hamlenin platform kalitesini artırması bekleniyor.
+Valve, platformdaki onay birikmelerini önlemek amacıyla Steam oyun çıkış kurallarında güncellemeye gitti. Yeni düzenlemeye göre geliştiricilerin, oyunların çalıştığından emin olmak için platform üzerinden en az beş dakika çalıştırması zorunlu kılundu. İnceleme süreçlerinin 12 iş gününe kadar uzadığı bu dönemde, platform kalitesini artırmaya yönelik hamleler sektörel açıdan yakından takip ediliyor. Sizin bu konudaki değerlendirmeleriniz nelerdir? Kaynak: Engadget
 
-Sizce Steam'in yeni kuralları geliştirici süreçlerini nasıl etkiler?
-
-Kaynak: Engadget, The Verge
-
-#Steam #Valve #OyunGelistirme #Teknoloji #YapayZeka
+#Steam #Valve #GameDevelopment #Teknoloji #Yazılım
 
 ## FACEBOOK
 
-Valve, Steam'deki oyun yoğunluğunu azaltmak ve uzun onay kuyruklarını eritmek için kurallarını güncelledi! Yeni düzenlemeye göre geliştiriciler, oyunlarını en az beş dakika çalıştırmak ve teknik kontrolleri sağlamak zorunda. Ekim ayında çıkan oyunların %49.9'unun yapay zeka içerdiği de raporda yer alıyor.
+Valve, Steam oyun çıkış kurallarında onay birikmesini önlemek için yeni kurallar duyurdu! Geliştiricilere getirilen beş dakika kuralı ve 12 iş gününe uzayan inceleme süreçleri hakkında ne düşünüyorsunuz? Kaynak: Engadget
 
-Sizce bu yeni test kuralları onay süreçlerini hızlandıracak mı?
-
-Kaynak: Engadget, The Verge
-
-#Steam #Valve #Teknoloji #OyunDunyasi #TeknoPusula
+#Steam #Valve #TeknolojiHaberleri #OyunDünyası
