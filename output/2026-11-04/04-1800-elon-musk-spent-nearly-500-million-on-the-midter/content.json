@@ -1,0 +1,122 @@
+{
+  "cover": {
+    "category_label": "Siyasi Teknoloji",
+    "title": "Elon Musk ve Seçim Harcamaları: Rakamlarla Analiz",
+    "highlight_words": [
+      "Elon Musk",
+      "Seçim",
+      "Bağış"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Forbes ve CNBC verilerine göre Musk'ın siyasi bağış stratejisi ve güncel tablo.",
+    "source_tags": [
+      "Engadget",
+      "Wired",
+      "Ars Technica",
+      "The Verge"
+    ]
+  },
+  "problem": {
+    "heading": "Büyük Bağışlar ve Siyasi Etki",
+    "cards": [
+      {
+        "card_title": "Rekor Düzeyde Harcama",
+        "card_body": "Elon Musk, FEC dosyalarına göre Cumhuriyetçi adayları desteklemek amacıyla yaklaşık 500 milyon dolar harcadı."
+      },
+      {
+        "card_title": "En Büyük Bireysel Bağışçı",
+        "card_body": "Musk, seçim sürecinde Dick ve Liz Uihlein çiftinden üç kat daha fazla bağış yaparak listenin zirvesine yerleşti."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Harcamaların Dağılımı",
+      "cards": [
+        {
+          "card_title": "Bölgesel Yatırım",
+          "card_body": "CNBC raporuna göre, bu devasa bütçenin yaklaşık 225 milyon dolarlık kısmı doğrudan Teksas bölgesine aktarıldı."
+        },
+        {
+          "card_title": "Servet ve Oran",
+          "card_body": "Musk'ın mevcut servetinin yaklaşık 898 milyar dolar olduğu belirtiliyor."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Seçim Sonuçları Tablosu",
+      "cards": [
+        {
+          "card_title": "Desteklenen Yarışlar",
+          "card_body": "Musk, toplamda 106 farklı Temsilciler Meclisi ve Senato yarışında Cumhuriyetçi adayların arkasında durdu."
+        },
+        {
+          "card_title": "Kazanma Oranı",
+          "card_body": "Desteklenen adaylardan 18'i seçimi kazandı, 45'i kaybetti. 43 yarışın sonucu ise henüz netleşmedi."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "X Platformu ve İletişim",
+      "cards": [
+        {
+          "card_title": "Sosyal Medya Paylaşımı",
+          "card_body": "4 Kasım 2026 tarihinde Musk, X platformu üzerinden seçimlere müdahale eden uzay lazerleri hakkında bir paylaşımda bulundu."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Sizce teknoloji liderlerinin siyasi süreçlere bu denli büyük bütçeler ayırması, platformların tarafsızlığını nasıl etkiliyor?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri tarafsız ve veriye dayalı takip etmek için Tekno Pusula'yı izlemeye devam edin."
+  },
+  "context": {
+    "heading": "Büyük Bağışlar ve Siyasi Etki",
+    "cards": [
+      {
+        "card_title": "Rekor Düzeyde Harcama",
+        "card_body": "Elon Musk, FEC dosyalarına göre Cumhuriyetçi adayları desteklemek amacıyla yaklaşık 500 milyon dolar harcadı."
+      },
+      {
+        "card_title": "En Büyük Bireysel Bağışçı",
+        "card_body": "Musk, seçim sürecinde Dick ve Liz Uihlein çiftinden üç kat daha fazla bağış yaparak listenin zirvesine yerleşti."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Harcamaların Dağılımı",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Seçim Sonuçları Tablosu",
+    "cards": [
+      {
+        "card_title": "Desteklenen Yarışlar",
+        "card_body": "Musk, toplamda 106 farklı Temsilciler Meclisi ve Senato yarışında Cumhuriyetçi adayların arkasında durdu."
+      },
+      {
+        "card_title": "Kazanma Oranı",
+        "card_body": "Desteklenen adaylardan 18'i seçimi kazandı, 45'i kaybetti. 43 yarışın sonucu ise henüz netleşmedi."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "X Platformu ve İletişim",
+    "cards": [
+      {
+        "card_title": "Sosyal Medya Paylaşımı",
+        "card_body": "4 Kasım 2026 tarihinde Musk, X platformu üzerinden seçimlere müdahale eden uzay lazerleri hakkında bir paylaşımda bulundu."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}

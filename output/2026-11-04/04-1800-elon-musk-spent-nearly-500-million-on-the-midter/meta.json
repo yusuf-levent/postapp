@@ -1,0 +1,10 @@
+{
+  "slot": "18:00",
+  "type": "edu",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 108.8,
+  "candidates_tried": 1,
+  "gemini_calls": 15,
+  "canonical_url": "https://www.engadget.com/2306698/elon-musk-spent-nearly-500-million-on-the-midterms-and-lost-bigtime/",
+  "generated_at": "2026-11-04T20:05:22+03:00"
+}
