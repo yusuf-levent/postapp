@@ -4208,5 +4208,76 @@
     ],
     "created_at": "2026-11-04T11:45:46+03:00",
     "verified_claims_count": 6
+  },
+  {
+    "id": "2026-11-04-1200",
+    "date": "2026-11-04",
+    "slot": "12:00",
+    "type": "news",
+    "title_tr": "Binance Sistemine Siber Saldırı",
+    "original_title": "Binance attackers used fake job interviews to pull off $6.3 billion crypto heist",
+    "source_urls": [
+      "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/"
+    ],
+    "canonical_url": "https://engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist",
+    "entities": [
+      "Binance",
+      "FBI",
+      "North Korea"
+    ],
+    "event_type": "cyber_attack",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6aeaf73b0eea02ace3263572",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6aeaf7511d881477a61456a3",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6aeaf7690eea02ace3266c6d",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2117908284225032276",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18099321002440120",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfUHFsvFo3Y",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6aeaf790961fae078ac1b8a7",
+        "permalink": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7523674225627467776",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6aeaf7a7ce16a24329e62d68",
+        "permalink": "https://facebook.com/1351036918092059_122120926689484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-11-04T12:15:36+03:00",
+    "verified_claims_count": 8
   }
 ]
