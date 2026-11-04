@@ -1,0 +1,10 @@
+{
+  "slot": "18:00",
+  "type": "edu",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 85.3,
+  "candidates_tried": 1,
+  "gemini_calls": 14,
+  "canonical_url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+  "generated_at": "2026-11-04T22:38:56+03:00"
+}

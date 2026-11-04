@@ -1,0 +1,128 @@
+{
+  "cover": {
+    "category_label": "SİYASET VE ANALİZ",
+    "title": "ARA SEÇİMLER VE İSTİHBARAT TALEPLERİ",
+    "highlight_words": [
+      "ARA SEÇİMLER"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Doğrulanmış siyasi gelişmeler ve arka plan analizi.",
+    "source_tags": [
+      "Wired",
+      "MIT Technology Review",
+      "Engadget",
+      "Google Blog"
+    ]
+  },
+  "problem": {
+    "heading": "Seçim Sonuçları ve Siyasi Değişimler",
+    "cards": [
+      {
+        "card_title": "Cumhuriyetçi Kayıplar",
+        "card_body": "Salı gecesi ara seçimlerde Cumhuriyetçiler Kongre'de kayıplar yaşadı."
+      },
+      {
+        "card_title": "Kritik Bölgeler",
+        "card_body": "Yeniden çizilen 14 kritik bölgeden Cumhuriyetçiler sadece Teksas ve Tennessee'de birer yarış kazandı."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Tarihsel Benzerlikler ve Kararlar",
+      "cards": [
+        {
+          "card_title": "2006 Örneği",
+          "card_body": "2006'daki kayıpların ardından George W. Bush, savunma bakanı Donald Rumsfeld'i görevden almıştı."
+        },
+        {
+          "card_title": "Trump'ın Hamleleri",
+          "card_body": "Trump, Teksas'ta Ken Paxton'ı ve Güney Carolina'da Darline Graham'ı Senato yarışları için destekledi."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Kuzey Karolina ve İstihbarat",
+      "cards": [
+        {
+          "card_title": "Kuzey Karolina Yarışı",
+          "card_body": "Trump'ın Thom Tillis'i elemesinden sonra eski RNC başkanı Michael Whatley, Demokrat Roy Cooper'a kaybetti."
+        },
+        {
+          "card_title": "İstihbarat Talepleri",
+          "card_body": "Başkan yardımcısı JD Vance ve dışişleri bakanı Marco Rubio bu baharda kendi istihbarat brifinglerini talep etmeye başladı."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Bülten ve Raporlama",
+      "cards": [
+        {
+          "card_title": "Bilgi Kaynağı",
+          "card_body": "Bu bilgiler Hugo Lowell'ın Inner Loop bülteninden derlenmiştir."
+        },
+        {
+          "card_title": "Doğrulanmış Veriler",
+          "card_body": "Tüm veriler resmi ve doğrulanmış kaynaklara dayanmaktadır."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Bu siyasi gelişmeler hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Daha fazla analiz için Tekno Pusula'yı takipte kalın!"
+  },
+  "context": {
+    "heading": "Seçim Sonuçları ve Siyasi Değişimler",
+    "cards": [
+      {
+        "card_title": "Cumhuriyetçi Kayıplar",
+        "card_body": "Salı gecesi ara seçimlerde Cumhuriyetçiler Kongre'de kayıplar yaşadı."
+      },
+      {
+        "card_title": "Kritik Bölgeler",
+        "card_body": "Yeniden çizilen 14 kritik bölgeden Cumhuriyetçiler sadece Teksas ve Tennessee'de birer yarış kazandı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Tarihsel Benzerlikler ve Kararlar",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Kuzey Karolina ve İstihbarat",
+    "cards": [
+      {
+        "card_title": "Kuzey Karolina Yarışı",
+        "card_body": "Trump'ın Thom Tillis'i elemesinden sonra eski RNC başkanı Michael Whatley, Demokrat Roy Cooper'a kaybetti."
+      },
+      {
+        "card_title": "İstihbarat Talepleri",
+        "card_body": "Başkan yardımcısı JD Vance ve dışişleri bakanı Marco Rubio bu baharda kendi istihbarat brifinglerini talep etmeye başladı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Bülten ve Raporlama",
+    "cards": [
+      {
+        "card_title": "Bilgi Kaynağı",
+        "card_body": "Bu bilgiler Hugo Lowell'ın Inner Loop bülteninden derlenmiştir."
+      },
+      {
+        "card_title": "Doğrulanmış Veriler",
+        "card_body": "Tüm veriler resmi ve doğrulanmış kaynaklara dayanmaktadır."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}

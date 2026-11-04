@@ -1,0 +1,247 @@
+{
+  "title": "Knives Are Out in the White House",
+  "canonical_url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+  "source_names": [
+    "Wired",
+    "MIT Technology Review",
+    "Engadget",
+    "Google Blog"
+  ],
+  "checked_at": "2026-11-04T22:37:59+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Republican losses occurred on Tuesday night in the midterm elections.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+          "quote": "President Donald Trump’s aides were reeling from the scale of Republican losses on Tuesday night"
+        }
+      ]
+    },
+    {
+      "claim": "George W. Bush pushed out defense secretary Donald Rumsfeld after the GOP lost both chambers in 2006.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+          "quote": "Recalling how then-president George W. Bush pushed out defense secretary Donald Rumsfeld after the GOP lost both chambers in 2006"
+        }
+      ]
+    },
+    {
+      "claim": "Vice president JD Vance and secretary of state Marco Rubio started requesting their own intelligence briefings this spring.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+          "quote": "a number of top officials, including vice president JD Vance and secretary of state Marco Rubio this spring started requesting their own intelligence briefings to get a more somber assessment of the situation."
+        },
+        {
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+          "quote": "The presentations had been so glowing, sources say, that a number of top officials, including vice president JD Vance and secretary of state Marco Rubio this spring started requesting their own intelligence briefings"
+        }
+      ]
+    },
+    {
+      "claim": "Out of 14 key districts that got redrawn this cycle, Republicans won just one race in Texas and one race in Tennessee.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+          "quote": "Out of 14 key districts that got redrawn this cycle, Republicans won just one race in Texas and one race in Tennessee"
+        }
+      ]
+    },
+    {
+      "claim": "Trump endorsed Ken Paxton in Texas and Darline Graham in South Carolina for key Senate races.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+          "quote": "Many of the candidates in key Senate races were people that Trump had chosen and endorsed, including the scandal-plagued Republican state attorney general Ken Paxton in Texas and the inexperienced Darline Graham, sister of the late senator Lindsey Graham, in South Carolina."
+        }
+      ]
+    },
+    {
+      "claim": "In North Carolina, former RNC chair Michael Whatley was defeated by Democratic Roy Cooper after Trump primaried Thom Tillis earlier this year.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+          "quote": "And in North Carolina, the former RNC chair Michael Whatley was defeated resoundingly by the Democratic Roy Cooper—but only after Trump primaried the popular incumbent Thom Tillis earlier this year."
+        }
+      ]
+    },
+    {
+      "claim": "The newsletter containing this information is Hugo Lowell’s Inner Loop.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+          "quote": "This is an edition of Hugo Lowell’s Inner Loop newsletter."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Republican losses occurred on Tuesday night in the midterm elections.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+          "quote": "President Donald Trump’s aides were reeling from the scale of Republican losses on Tuesday night"
+        }
+      ]
+    },
+    {
+      "claim": "George W. Bush pushed out defense secretary Donald Rumsfeld after the GOP lost both chambers in 2006.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+          "quote": "Recalling how then-president George W. Bush pushed out defense secretary Donald Rumsfeld after the GOP lost both chambers in 2006"
+        }
+      ]
+    },
+    {
+      "claim": "Vice president JD Vance and secretary of state Marco Rubio started requesting their own intelligence briefings this spring.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+          "quote": "a number of top officials, including vice president JD Vance and secretary of state Marco Rubio this spring started requesting their own intelligence briefings to get a more somber assessment of the situation."
+        },
+        {
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+          "quote": "The presentations had been so glowing, sources say, that a number of top officials, including vice president JD Vance and secretary of state Marco Rubio this spring started requesting their own intelligence briefings"
+        }
+      ]
+    },
+    {
+      "claim": "Out of 14 key districts that got redrawn this cycle, Republicans won just one race in Texas and one race in Tennessee.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+          "quote": "Out of 14 key districts that got redrawn this cycle, Republicans won just one race in Texas and one race in Tennessee"
+        }
+      ]
+    },
+    {
+      "claim": "Trump endorsed Ken Paxton in Texas and Darline Graham in South Carolina for key Senate races.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+          "quote": "Many of the candidates in key Senate races were people that Trump had chosen and endorsed, including the scandal-plagued Republican state attorney general Ken Paxton in Texas and the inexperienced Darline Graham, sister of the late senator Lindsey Graham, in South Carolina."
+        }
+      ]
+    },
+    {
+      "claim": "In North Carolina, former RNC chair Michael Whatley was defeated by Democratic Roy Cooper after Trump primaried Thom Tillis earlier this year.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+          "quote": "And in North Carolina, the former RNC chair Michael Whatley was defeated resoundingly by the Democratic Roy Cooper—but only after Trump primaried the popular incumbent Thom Tillis earlier this year."
+        }
+      ]
+    },
+    {
+      "claim": "The newsletter containing this information is Hugo Lowell’s Inner Loop.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+          "quote": "This is an edition of Hugo Lowell’s Inner Loop newsletter."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Republican losses occurred on Tuesday night in the midterm elections.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+          "quote": "President Donald Trump’s aides were reeling from the scale of Republican losses on Tuesday night"
+        }
+      ]
+    },
+    {
+      "claim": "George W. Bush pushed out defense secretary Donald Rumsfeld after the GOP lost both chambers in 2006.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+          "quote": "Recalling how then-president George W. Bush pushed out defense secretary Donald Rumsfeld after the GOP lost both chambers in 2006"
+        }
+      ]
+    },
+    {
+      "claim": "Vice president JD Vance and secretary of state Marco Rubio started requesting their own intelligence briefings this spring.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+          "quote": "a number of top officials, including vice president JD Vance and secretary of state Marco Rubio this spring started requesting their own intelligence briefings to get a more somber assessment of the situation."
+        },
+        {
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+          "quote": "The presentations had been so glowing, sources say, that a number of top officials, including vice president JD Vance and secretary of state Marco Rubio this spring started requesting their own intelligence briefings"
+        }
+      ]
+    },
+    {
+      "claim": "Out of 14 key districts that got redrawn this cycle, Republicans won just one race in Texas and one race in Tennessee.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+          "quote": "Out of 14 key districts that got redrawn this cycle, Republicans won just one race in Texas and one race in Tennessee"
+        }
+      ]
+    },
+    {
+      "claim": "Trump endorsed Ken Paxton in Texas and Darline Graham in South Carolina for key Senate races.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+          "quote": "Many of the candidates in key Senate races were people that Trump had chosen and endorsed, including the scandal-plagued Republican state attorney general Ken Paxton in Texas and the inexperienced Darline Graham, sister of the late senator Lindsey Graham, in South Carolina."
+        }
+      ]
+    },
+    {
+      "claim": "In North Carolina, former RNC chair Michael Whatley was defeated by Democratic Roy Cooper after Trump primaried Thom Tillis earlier this year.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+          "quote": "And in North Carolina, the former RNC chair Michael Whatley was defeated resoundingly by the Democratic Roy Cooper—but only after Trump primaried the popular incumbent Thom Tillis earlier this year."
+        }
+      ]
+    },
+    {
+      "claim": "The newsletter containing this information is Hugo Lowell’s Inner Loop.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+          "quote": "This is an edition of Hugo Lowell’s Inner Loop newsletter."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.wired.com/story/knives-are-out-in-the-white-house/": 4460,
+    "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/": 5640,
+    "https://www.engadget.com/2303044/slate-battery-type-different-plans-before-debut/": 3844,
+    "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/": 8080
+  }
+}
