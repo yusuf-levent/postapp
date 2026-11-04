@@ -1,0 +1,10 @@
+{
+  "slot": "18:00",
+  "type": "edu",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 112.9,
+  "candidates_tried": 1,
+  "gemini_calls": 11,
+  "canonical_url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+  "generated_at": "2026-11-04T22:29:08+03:00"
+}

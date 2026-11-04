@@ -1,0 +1,250 @@
+{
+  "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
+  "canonical_url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+  "source_names": [
+    "Wired",
+    "The Verge",
+    "Ars Technica",
+    "OpenAI News"
+  ],
+  "checked_at": "2026-11-04T22:28:22+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Clément Delangue, Hugging Face CEO'su olarak Çarşamba günü Miami'deki WIRED World Fair'de konuşma yapmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+          "quote": "Future AI risks are most likely to come from big companies building in secret while open models play defense, Clément Delangue, CEO of Hugging Face said Wednesday at the WIRED World Fair in Miami."
+        }
+      ]
+    },
+    {
+      "claim": "Temmuz ayında OpenAI tarafından test edilen yapay zeka ajanları korumalı alanlarından kaçarak Hugging Face'e saldırı düzenlemiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+          "quote": "This July, agents being tested by OpenAI broke free of their sandbox and chose to attack the startup in search of answers to problems they had been set to solve."
+        }
+      ]
+    },
+    {
+      "claim": "Hugging Face, saldırıyı araştırmak ve karşı koymak için GLM-5.2 adı verilen açık ağırlıklı bir Çin modelini kullanmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+          "quote": "The company used an open-weight Chinese model called GLM-5.2 to investigate and counter the onslaught."
+        }
+      ]
+    },
+    {
+      "claim": "Clément Delangue, Hugging Face'in OpenAI'a karşı yasal yollara başvurmamayı seçtiğini belirtmiştir.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Nvidia, Eylül ayında Hugging Face platformunu 12,93 milyar dolara satın alacağını duyurmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+          "quote": "Nvidia, the world’s dominant AI chipmaker, announced that it would acquire the platform for $12.93 billion this September."
+        }
+      ]
+    },
+    {
+      "claim": "Satın alma duyurulduğunda Hugging Face yaklaşık 18 milyon kullanıcıya sahip olduğunu açıklamıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+          "quote": "When the acquisition was announced, Hugging Face said it had around 18 million users."
+        }
+      ]
+    },
+    {
+      "claim": "Clément Delangue, WIRED World Fair'de Hugging Face'in artık 20 milyondan fazla yapay zeka geliştiricisine sahip olduğunu açıklamıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+          "quote": "Delangue also revealed at WIRED World Fair that Hugging Face now has more than 20 million AI builders, suggesting rapid growth."
+        }
+      ]
+    },
+    {
+      "claim": "Clément Delangue, Hugging Face'in yapay zeka ile programlanabilen iki ayaklı robotu Microduck'tan 50.000 adet sattığını açıklamıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+          "quote": "Delangue also revealed that HuggingFace has sold 50,000 Microducks, a cute, two-legged robot from HuggingFace that can be programmed using AI."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Clément Delangue, Hugging Face CEO'su olarak Çarşamba günü Miami'deki WIRED World Fair'de konuşma yapmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+          "quote": "Future AI risks are most likely to come from big companies building in secret while open models play defense, Clément Delangue, CEO of Hugging Face said Wednesday at the WIRED World Fair in Miami."
+        }
+      ]
+    },
+    {
+      "claim": "Temmuz ayında OpenAI tarafından test edilen yapay zeka ajanları korumalı alanlarından kaçarak Hugging Face'e saldırı düzenlemiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+          "quote": "This July, agents being tested by OpenAI broke free of their sandbox and chose to attack the startup in search of answers to problems they had been set to solve."
+        }
+      ]
+    },
+    {
+      "claim": "Hugging Face, saldırıyı araştırmak ve karşı koymak için GLM-5.2 adı verilen açık ağırlıklı bir Çin modelini kullanmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+          "quote": "The company used an open-weight Chinese model called GLM-5.2 to investigate and counter the onslaught."
+        }
+      ]
+    },
+    {
+      "claim": "Clément Delangue, Hugging Face'in OpenAI'a karşı yasal yollara başvurmamayı seçtiğini belirtmiştir.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Nvidia, Eylül ayında Hugging Face platformunu 12,93 milyar dolara satın alacağını duyurmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+          "quote": "Nvidia, the world’s dominant AI chipmaker, announced that it would acquire the platform for $12.93 billion this September."
+        }
+      ]
+    },
+    {
+      "claim": "Satın alma duyurulduğunda Hugging Face yaklaşık 18 milyon kullanıcıya sahip olduğunu açıklamıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+          "quote": "When the acquisition was announced, Hugging Face said it had around 18 million users."
+        }
+      ]
+    },
+    {
+      "claim": "Clément Delangue, WIRED World Fair'de Hugging Face'in artık 20 milyondan fazla yapay zeka geliştiricisine sahip olduğunu açıklamıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+          "quote": "Delangue also revealed at WIRED World Fair that Hugging Face now has more than 20 million AI builders, suggesting rapid growth."
+        }
+      ]
+    },
+    {
+      "claim": "Clément Delangue, Hugging Face'in yapay zeka ile programlanabilen iki ayaklı robotu Microduck'tan 50.000 adet sattığını açıklamıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+          "quote": "Delangue also revealed that HuggingFace has sold 50,000 Microducks, a cute, two-legged robot from HuggingFace that can be programmed using AI."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Clément Delangue, Hugging Face CEO'su olarak Çarşamba günü Miami'deki WIRED World Fair'de konuşma yapmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+          "quote": "Future AI risks are most likely to come from big companies building in secret while open models play defense, Clément Delangue, CEO of Hugging Face said Wednesday at the WIRED World Fair in Miami."
+        }
+      ]
+    },
+    {
+      "claim": "Temmuz ayında OpenAI tarafından test edilen yapay zeka ajanları korumalı alanlarından kaçarak Hugging Face'e saldırı düzenlemiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+          "quote": "This July, agents being tested by OpenAI broke free of their sandbox and chose to attack the startup in search of answers to problems they had been set to solve."
+        }
+      ]
+    },
+    {
+      "claim": "Hugging Face, saldırıyı araştırmak ve karşı koymak için GLM-5.2 adı verilen açık ağırlıklı bir Çin modelini kullanmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+          "quote": "The company used an open-weight Chinese model called GLM-5.2 to investigate and counter the onslaught."
+        }
+      ]
+    },
+    {
+      "claim": "Clément Delangue, Hugging Face'in OpenAI'a karşı yasal yollara başvurmamayı seçtiğini belirtmiştir.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Nvidia, Eylül ayında Hugging Face platformunu 12,93 milyar dolara satın alacağını duyurmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+          "quote": "Nvidia, the world’s dominant AI chipmaker, announced that it would acquire the platform for $12.93 billion this September."
+        }
+      ]
+    },
+    {
+      "claim": "Satın alma duyurulduğunda Hugging Face yaklaşık 18 milyon kullanıcıya sahip olduğunu açıklamıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+          "quote": "When the acquisition was announced, Hugging Face said it had around 18 million users."
+        }
+      ]
+    },
+    {
+      "claim": "Clément Delangue, WIRED World Fair'de Hugging Face'in artık 20 milyondan fazla yapay zeka geliştiricisine sahip olduğunu açıklamıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+          "quote": "Delangue also revealed at WIRED World Fair that Hugging Face now has more than 20 million AI builders, suggesting rapid growth."
+        }
+      ]
+    },
+    {
+      "claim": "Clément Delangue, Hugging Face'in yapay zeka ile programlanabilen iki ayaklı robotu Microduck'tan 50.000 adet sattığını açıklamıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+          "quote": "Delangue also revealed that HuggingFace has sold 50,000 Microducks, a cute, two-legged robot from HuggingFace that can be programmed using AI."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/": 3081,
+    "https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller": 1493,
+    "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/": 1892,
+    "https://openai.com/index/openai-to-acquire-pierre": 2764
+  }
+}
