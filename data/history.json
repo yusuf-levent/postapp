@@ -4279,5 +4279,76 @@
     ],
     "created_at": "2026-11-04T12:15:36+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-11-04-1500",
+    "date": "2026-11-04",
+    "slot": "15:00",
+    "type": "news",
+    "title_tr": "Amazon'un Yeni Sayfa Çeviricisi Kindle Click Çıktı",
+    "original_title": "I Tried Amazon’s New Kindles. Buy This Accessory Instead (2026)",
+    "source_urls": [
+      "https://www.wired.com/story/finally-a-kindle-page-turner/"
+    ],
+    "canonical_url": "https://wired.com/story/finally-a-kindle-page-turner",
+    "entities": [
+      "Amazon",
+      "Kindle",
+      "Kindle Click"
+    ],
+    "event_type": "product_launch",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6aeb1a78108e302037fd85dc",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6aeb1a799074318735750d08",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6aeb1a909074318735750fec",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2117946031396487261",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18116687660588324",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfUYQxokdic",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6aeb1abadde3f600e592e644",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6aeb1ad16e21919416d74f06",
+        "permalink": "https://facebook.com/1351036918092059_122120952123484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-11-04T14:45:38+03:00",
+    "verified_claims_count": 7
   }
 ]
