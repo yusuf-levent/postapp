@@ -2,3 +2,4 @@
 
 - ✅ `09:00` [news] Ocarina of Time Yeniden Yapımı Yolda — 6/6 platform
 - ✅ `12:00` [news] Birleşik Krallık'ta Yeni Pornografi Yasası — 6/6 platform
+- ✅ `15:00` [news] Discord Masaüstü Uygulamasında Rust Dönemi — 6/6 platform

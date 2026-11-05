@@ -4639,5 +4639,79 @@
     ],
     "created_at": "2026-11-05T11:55:50+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-11-05-1500",
+    "date": "2026-11-05",
+    "slot": "15:00",
+    "type": "news",
+    "title_tr": "Discord Masaüstü Uygulamasında Rust Dönemi",
+    "original_title": "Discord is ditching Electron and its new app uses less RAM",
+    "source_urls": [
+      "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app"
+    ],
+    "canonical_url": "https://theverge.com/news/1027379/discord-ditching-electron-web-app",
+    "entities": [
+      "Discord",
+      "Electron",
+      "Rust",
+      "Stanislav Vishnevskiy",
+      "React Native",
+      "Windows"
+    ],
+    "event_type": "technology_migration",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6aec6d1b9e9fe9dc2c11cead",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6aec6d31507ac1b75df70b6c",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6aec6d48a622b08bbb8439a6",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2118309726660308992",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18039539984907452",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfW9phiG0Jq",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6aec6d6fe5718a454c3e3b25",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6aec6d869e9fe9dc2c11ef8b",
+        "permalink": "https://facebook.com/1351036918092059_122121205917484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-11-05T14:50:44+03:00",
+    "verified_claims_count": 8
   }
 ]
