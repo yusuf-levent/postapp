@@ -6,7 +6,7 @@
     "BBC News – Technology",
     "Google Blog"
   ],
-  "checked_at": "2026-11-05T11:42:12+03:00",
+  "checked_at": "2026-11-05T11:53:01+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
@@ -17,15 +17,11 @@
         {
           "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
           "quote": "As of November 6, amendments to the Crime and Policing Act will outlaw the “possession or publication of pornographic images of strangulation or suffocation”—a law intended to curb violence against women and girls."
-        },
-        {
-          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
-          "quote": "As of November 6, amendments to the Crime and Policing Act will outlaw the “possession or publication of pornographic images of strangulation or suffocation”"
         }
       ]
     },
     {
-      "claim": "Yeni yasa kapsamında, yasaklı içeriği dağıtan veya bulunduran kişiler beş yıla kadar hapis ve para cezası ile karşı karşıya kalabilir.",
+      "claim": "Yeni yasa kapsamında, yasaklı içerikleri dağıtan veya bulunduran kişiler beş yıla kadar hapis ve para cezası ile karşı karşıya kalabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -35,36 +31,12 @@
       ]
     },
     {
-      "claim": "Yeni yasa, kan bağı olmayan aile üyeleri arasındaki simüle edilmiş cinsel ilişkileri konu alan 'fauxcest' türündeki içerikleri de hedef almaktadır.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
-          "quote": "It also takes aim at “fauxcest,” an extremely popular porn niche that depicts simulated sexual relations between family members who are not related by blood, such as stepsiblings or stepparents."
-        }
-      ]
-    },
-    {
-      "claim": "Birleşik Krallık'taki yeni yasal düzenlemeler, Muhafazakar Parti'den Lordlar Kamarası üyesi Baroness Gabby Bertin tarafından hazırlanan bir pornografi incelemesine dayanmaktadır.",
+      "claim": "Yasa değişiklikleri, Birleşik Krallık Lordlar Kamarası'nın Muhafazakar üyesi Baroness Gabby Bertin tarafından hazırlanan bir pornografi incelemesine dayanmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
           "quote": "The new amendments were inspired by a lengthy pornography review authored by Baroness Gabby Bertin, a Conservative member of the UK House of Lords."
-        }
-      ]
-    },
-    {
-      "claim": "Ofcom, yaş doğrulama gerekliliklerine uymayan web sitelerine dünya çapındaki gelirlerinin yüzde 10'una kadar para cezası kesebilmektedir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
-          "quote": "Long before many US states started requiring users to verify their ages before visiting porn sites, for instance, the UK communications regulation agency Ofcom has been slapping websites with fines of up to 10 percent of their worldwide revenue for failing to comply with age-verification requirements."
-        },
-        {
-          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
-          "quote": "the UK communications regulation agency Ofcom has been slapping websites with fines of up to 10 percent of their worldwide revenue for failing to comply with age-verification requirements."
         }
       ]
     },
@@ -79,26 +51,50 @@
       ]
     },
     {
-      "claim": "IWantClips platformu, yeni yasa öncesinde 'breast smothering', 'ass smothering', 'jeans facesitting' gibi kategorileri yasaklayan yeni kurallar yayınlamıştır.",
+      "claim": "IWantClips platformu, yeni yasa öncesinde 'göğüs boğma', 'kot pantolonla yüze oturma' ve 'makas tutuşu' gibi kategorileri yasaklayan yeni kurallar yayınladı.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
           "quote": "The platform IWantClips has already started complying, publishing a new set of guidelines for creators and fans based in the UK and removing clips that could potentially be swept up in the legislation. The laundry list of sexual niches and categories banned now includes “breast smothering,” “ass smothering,” “jeans facesitting,” “BBW facesitting,” “plastic fetish,” “scissorhold,” and “butt drops.”"
-        },
-        {
-          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
-          "quote": "The platform IWantClips has already started complying, publishing a new set of guidelines for creators and fans based in the UK and removing clips that could potentially be swept up in the legislation. The laundry list of sexual niches and categories banned now includes “breast smothering,” “ass smothering,” “jeans facesitting,”"
         }
       ]
     },
     {
-      "claim": "ABD'deki 1996 tarihli İletişim Ahlakı Yasası'nın 230. Bölümü, platformları barındırdıkları içeriklerden dolayı sorumluluktan büyük ölçüde muaf tutmaktadır.",
+      "claim": "Birleşik Krallık iletişim düzenleme kurumu Ofcom, yaş doğrulama gerekliliklerine uymayan web sitelerine dünya çapındaki gelirlerinin yüzde 10'una kadar para cezası kesebilmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
+          "quote": "the UK communications regulation agency Ofcom has been slapping websites with fines of up to 10 percent of their worldwide revenue for failing to comply with age-verification requirements."
+        },
+        {
+          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
+          "quote": "Long before many US states started requiring users to verify their ages before visiting porn sites, for instance, the UK communications regulation agency Ofcom has been slapping websites with fines of up to 10 percent of their worldwide revenue for failing to comply with age-verification requirements."
+        }
+      ]
+    },
+    {
+      "claim": "Ağustos ayında 16 yaşındaki Avustralyalı bir genç kız, cinsel ilişki sırasında rızaya dayalı olarak boğulduktan sonra bilincini kaybederek hayatını kaybetmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
+          "quote": "The death of a 16-year-old Australian girl in August, who authorities say lost consciousness after she was choked consensually during sex, has led to renewed calls for legislation banning depictions of the practice in online porn"
+        }
+      ]
+    },
+    {
+      "claim": "ABD'deki 1996 İletişim Ahlakı Yasası'nın 230. Bölümü, platformları barındırdıkları içeriklerden kaynaklanan sorumluluklardan büyük ölçüde muaf tutmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
           "quote": "statutes like Section 230 of the Communications Decency Act of 1996 largely exempt platforms from liability for hosting objectionable content."
+        },
+        {
+          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
+          "quote": "The UK has a history of imposing stringent restrictions on internet pornography, particularly compared to the United States, where statutes like Section 230 of the Communications Decency Act of 1996 largely exempt platforms from liability for hosting objectionable content."
         }
       ]
     }
@@ -111,15 +107,11 @@
         {
           "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
           "quote": "As of November 6, amendments to the Crime and Policing Act will outlaw the “possession or publication of pornographic images of strangulation or suffocation”—a law intended to curb violence against women and girls."
-        },
-        {
-          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
-          "quote": "As of November 6, amendments to the Crime and Policing Act will outlaw the “possession or publication of pornographic images of strangulation or suffocation”"
         }
       ]
     },
     {
-      "claim": "Yeni yasa kapsamında, yasaklı içeriği dağıtan veya bulunduran kişiler beş yıla kadar hapis ve para cezası ile karşı karşıya kalabilir.",
+      "claim": "Yeni yasa kapsamında, yasaklı içerikleri dağıtan veya bulunduran kişiler beş yıla kadar hapis ve para cezası ile karşı karşıya kalabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -129,36 +121,12 @@
       ]
     },
     {
-      "claim": "Yeni yasa, kan bağı olmayan aile üyeleri arasındaki simüle edilmiş cinsel ilişkileri konu alan 'fauxcest' türündeki içerikleri de hedef almaktadır.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
-          "quote": "It also takes aim at “fauxcest,” an extremely popular porn niche that depicts simulated sexual relations between family members who are not related by blood, such as stepsiblings or stepparents."
-        }
-      ]
-    },
-    {
-      "claim": "Birleşik Krallık'taki yeni yasal düzenlemeler, Muhafazakar Parti'den Lordlar Kamarası üyesi Baroness Gabby Bertin tarafından hazırlanan bir pornografi incelemesine dayanmaktadır.",
+      "claim": "Yasa değişiklikleri, Birleşik Krallık Lordlar Kamarası'nın Muhafazakar üyesi Baroness Gabby Bertin tarafından hazırlanan bir pornografi incelemesine dayanmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
           "quote": "The new amendments were inspired by a lengthy pornography review authored by Baroness Gabby Bertin, a Conservative member of the UK House of Lords."
-        }
-      ]
-    },
-    {
-      "claim": "Ofcom, yaş doğrulama gerekliliklerine uymayan web sitelerine dünya çapındaki gelirlerinin yüzde 10'una kadar para cezası kesebilmektedir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
-          "quote": "Long before many US states started requiring users to verify their ages before visiting porn sites, for instance, the UK communications regulation agency Ofcom has been slapping websites with fines of up to 10 percent of their worldwide revenue for failing to comply with age-verification requirements."
-        },
-        {
-          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
-          "quote": "the UK communications regulation agency Ofcom has been slapping websites with fines of up to 10 percent of their worldwide revenue for failing to comply with age-verification requirements."
         }
       ]
     },
@@ -173,26 +141,50 @@
       ]
     },
     {
-      "claim": "IWantClips platformu, yeni yasa öncesinde 'breast smothering', 'ass smothering', 'jeans facesitting' gibi kategorileri yasaklayan yeni kurallar yayınlamıştır.",
+      "claim": "IWantClips platformu, yeni yasa öncesinde 'göğüs boğma', 'kot pantolonla yüze oturma' ve 'makas tutuşu' gibi kategorileri yasaklayan yeni kurallar yayınladı.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
           "quote": "The platform IWantClips has already started complying, publishing a new set of guidelines for creators and fans based in the UK and removing clips that could potentially be swept up in the legislation. The laundry list of sexual niches and categories banned now includes “breast smothering,” “ass smothering,” “jeans facesitting,” “BBW facesitting,” “plastic fetish,” “scissorhold,” and “butt drops.”"
-        },
-        {
-          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
-          "quote": "The platform IWantClips has already started complying, publishing a new set of guidelines for creators and fans based in the UK and removing clips that could potentially be swept up in the legislation. The laundry list of sexual niches and categories banned now includes “breast smothering,” “ass smothering,” “jeans facesitting,”"
         }
       ]
     },
     {
-      "claim": "ABD'deki 1996 tarihli İletişim Ahlakı Yasası'nın 230. Bölümü, platformları barındırdıkları içeriklerden dolayı sorumluluktan büyük ölçüde muaf tutmaktadır.",
+      "claim": "Birleşik Krallık iletişim düzenleme kurumu Ofcom, yaş doğrulama gerekliliklerine uymayan web sitelerine dünya çapındaki gelirlerinin yüzde 10'una kadar para cezası kesebilmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
+          "quote": "the UK communications regulation agency Ofcom has been slapping websites with fines of up to 10 percent of their worldwide revenue for failing to comply with age-verification requirements."
+        },
+        {
+          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
+          "quote": "Long before many US states started requiring users to verify their ages before visiting porn sites, for instance, the UK communications regulation agency Ofcom has been slapping websites with fines of up to 10 percent of their worldwide revenue for failing to comply with age-verification requirements."
+        }
+      ]
+    },
+    {
+      "claim": "Ağustos ayında 16 yaşındaki Avustralyalı bir genç kız, cinsel ilişki sırasında rızaya dayalı olarak boğulduktan sonra bilincini kaybederek hayatını kaybetmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
+          "quote": "The death of a 16-year-old Australian girl in August, who authorities say lost consciousness after she was choked consensually during sex, has led to renewed calls for legislation banning depictions of the practice in online porn"
+        }
+      ]
+    },
+    {
+      "claim": "ABD'deki 1996 İletişim Ahlakı Yasası'nın 230. Bölümü, platformları barındırdıkları içeriklerden kaynaklanan sorumluluklardan büyük ölçüde muaf tutmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
           "quote": "statutes like Section 230 of the Communications Decency Act of 1996 largely exempt platforms from liability for hosting objectionable content."
+        },
+        {
+          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
+          "quote": "The UK has a history of imposing stringent restrictions on internet pornography, particularly compared to the United States, where statutes like Section 230 of the Communications Decency Act of 1996 largely exempt platforms from liability for hosting objectionable content."
         }
       ]
     }
@@ -205,15 +197,11 @@
         {
           "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
           "quote": "As of November 6, amendments to the Crime and Policing Act will outlaw the “possession or publication of pornographic images of strangulation or suffocation”—a law intended to curb violence against women and girls."
-        },
-        {
-          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
-          "quote": "As of November 6, amendments to the Crime and Policing Act will outlaw the “possession or publication of pornographic images of strangulation or suffocation”"
         }
       ]
     },
     {
-      "claim": "Yeni yasa kapsamında, yasaklı içeriği dağıtan veya bulunduran kişiler beş yıla kadar hapis ve para cezası ile karşı karşıya kalabilir.",
+      "claim": "Yeni yasa kapsamında, yasaklı içerikleri dağıtan veya bulunduran kişiler beş yıla kadar hapis ve para cezası ile karşı karşıya kalabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -223,36 +211,12 @@
       ]
     },
     {
-      "claim": "Yeni yasa, kan bağı olmayan aile üyeleri arasındaki simüle edilmiş cinsel ilişkileri konu alan 'fauxcest' türündeki içerikleri de hedef almaktadır.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
-          "quote": "It also takes aim at “fauxcest,” an extremely popular porn niche that depicts simulated sexual relations between family members who are not related by blood, such as stepsiblings or stepparents."
-        }
-      ]
-    },
-    {
-      "claim": "Birleşik Krallık'taki yeni yasal düzenlemeler, Muhafazakar Parti'den Lordlar Kamarası üyesi Baroness Gabby Bertin tarafından hazırlanan bir pornografi incelemesine dayanmaktadır.",
+      "claim": "Yasa değişiklikleri, Birleşik Krallık Lordlar Kamarası'nın Muhafazakar üyesi Baroness Gabby Bertin tarafından hazırlanan bir pornografi incelemesine dayanmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
           "quote": "The new amendments were inspired by a lengthy pornography review authored by Baroness Gabby Bertin, a Conservative member of the UK House of Lords."
-        }
-      ]
-    },
-    {
-      "claim": "Ofcom, yaş doğrulama gerekliliklerine uymayan web sitelerine dünya çapındaki gelirlerinin yüzde 10'una kadar para cezası kesebilmektedir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
-          "quote": "Long before many US states started requiring users to verify their ages before visiting porn sites, for instance, the UK communications regulation agency Ofcom has been slapping websites with fines of up to 10 percent of their worldwide revenue for failing to comply with age-verification requirements."
-        },
-        {
-          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
-          "quote": "the UK communications regulation agency Ofcom has been slapping websites with fines of up to 10 percent of their worldwide revenue for failing to comply with age-verification requirements."
         }
       ]
     },
@@ -267,26 +231,50 @@
       ]
     },
     {
-      "claim": "IWantClips platformu, yeni yasa öncesinde 'breast smothering', 'ass smothering', 'jeans facesitting' gibi kategorileri yasaklayan yeni kurallar yayınlamıştır.",
+      "claim": "IWantClips platformu, yeni yasa öncesinde 'göğüs boğma', 'kot pantolonla yüze oturma' ve 'makas tutuşu' gibi kategorileri yasaklayan yeni kurallar yayınladı.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
           "quote": "The platform IWantClips has already started complying, publishing a new set of guidelines for creators and fans based in the UK and removing clips that could potentially be swept up in the legislation. The laundry list of sexual niches and categories banned now includes “breast smothering,” “ass smothering,” “jeans facesitting,” “BBW facesitting,” “plastic fetish,” “scissorhold,” and “butt drops.”"
-        },
-        {
-          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
-          "quote": "The platform IWantClips has already started complying, publishing a new set of guidelines for creators and fans based in the UK and removing clips that could potentially be swept up in the legislation. The laundry list of sexual niches and categories banned now includes “breast smothering,” “ass smothering,” “jeans facesitting,”"
         }
       ]
     },
     {
-      "claim": "ABD'deki 1996 tarihli İletişim Ahlakı Yasası'nın 230. Bölümü, platformları barındırdıkları içeriklerden dolayı sorumluluktan büyük ölçüde muaf tutmaktadır.",
+      "claim": "Birleşik Krallık iletişim düzenleme kurumu Ofcom, yaş doğrulama gerekliliklerine uymayan web sitelerine dünya çapındaki gelirlerinin yüzde 10'una kadar para cezası kesebilmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
+          "quote": "the UK communications regulation agency Ofcom has been slapping websites with fines of up to 10 percent of their worldwide revenue for failing to comply with age-verification requirements."
+        },
+        {
+          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
+          "quote": "Long before many US states started requiring users to verify their ages before visiting porn sites, for instance, the UK communications regulation agency Ofcom has been slapping websites with fines of up to 10 percent of their worldwide revenue for failing to comply with age-verification requirements."
+        }
+      ]
+    },
+    {
+      "claim": "Ağustos ayında 16 yaşındaki Avustralyalı bir genç kız, cinsel ilişki sırasında rızaya dayalı olarak boğulduktan sonra bilincini kaybederek hayatını kaybetmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
+          "quote": "The death of a 16-year-old Australian girl in August, who authorities say lost consciousness after she was choked consensually during sex, has led to renewed calls for legislation banning depictions of the practice in online porn"
+        }
+      ]
+    },
+    {
+      "claim": "ABD'deki 1996 İletişim Ahlakı Yasası'nın 230. Bölümü, platformları barındırdıkları içeriklerden kaynaklanan sorumluluklardan büyük ölçüde muaf tutmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
           "quote": "statutes like Section 230 of the Communications Decency Act of 1996 largely exempt platforms from liability for hosting objectionable content."
+        },
+        {
+          "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
+          "quote": "The UK has a history of imposing stringent restrictions on internet pornography, particularly compared to the United States, where statutes like Section 230 of the Communications Decency Act of 1996 largely exempt platforms from liability for hosting objectionable content."
         }
       ]
     }

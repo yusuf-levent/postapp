@@ -1,14 +1,13 @@
 {
   "cover": {
-    "category_label": "DİJİTAL HUKUK VE GÜVENLİK",
+    "category_label": "DİJİTAL GÜVENLİK VE YASALAR",
     "title": "Birleşik Krallık'ta Yeni Pornografi Yasası",
     "highlight_words": [
       "Yeni",
-      "Pornografi",
-      "Yasası"
+      "Yasa"
     ],
     "highlight_color": "yellow",
-    "subtitle": "6 Kasım itibarıyla yürürlüğe giren düzenlemeler neleri değiştiriyor?",
+    "subtitle": "Boğulma içeren içeriklere yönelik yeni düzenlemeler 6 Kasım'da yürürlüğe giriyor.",
     "source_tags": [
       "WIRED",
       "BBC NEWS"
@@ -22,45 +21,49 @@
         "card_body": "Yeni yasa, boğulma veya nefessiz bırakma içeren pornografik görüntülerin bulundurulmasını ve yayınlanmasını yasaklıyor."
       },
       {
-        "card_title": "Fauxcest Kısıtlaması",
-        "card_body": "Düzenleme, kan bağı olmayan aile üyeleri arasındaki simüle edilmiş cinsel ilişkileri konu alan 'fauxcest' türünü de hedef alıyor."
+        "card_title": "Hazırlık Süreci",
+        "card_body": "Değişiklikler, Lordlar Kamarası üyesi Baroness Gabby Bertin tarafından hazırlanan pornografi incelemesine dayanmaktadır."
       }
     ]
   },
   "stat": {
     "big_stat": "5 YIL",
-    "stat_caption": "Yasaklı içeriği dağıtan veya bulunduran kişilere verilebilecek hapis cezası üst sınırı.",
-    "stat_quote": "Ofcom, yaş doğrulama kurallarına uymayan sitelere dünya çapındaki gelirlerinin yüzde 10'una kadar para cezası kesebiliyor."
+    "stat_caption": "Yasaklı içerikleri dağıtan veya bulunduran kişiler için öngörülen hapis cezası süresi.",
+    "stat_quote": "Yasa, ihlal durumunda hapis ve para cezası yaptırımlarını beraberinde getiriyor."
   },
   "details": {
-    "heading": "Süreç ve Hazırlıklar",
+    "heading": "Platformlar Nasıl Etkilenecek?",
     "cards": [
       {
-        "card_title": "Yasal Dayanak",
-        "card_body": "Düzenlemeler, Muhafazakar Parti'den Lordlar Kamarası üyesi Baroness Gabby Bertin tarafından hazırlanan pornografi incelemesine dayanıyor."
+        "card_title": "Platform Önlemleri",
+        "card_body": "IWantClips; göğüs boğma, kot pantolonla yüze oturma ve makas tutuşu gibi kategorileri yasaklayan kurallar yayınladı."
       },
       {
-        "card_title": "Platform Hamleleri",
-        "card_body": "IWantClips, yasa öncesinde 'breast smothering' ve 'ass smothering' gibi kategorileri yasaklayan yeni kurallarını duyurdu."
+        "card_title": "Ofcom Denetimi",
+        "card_body": "Düzenleyici kurum Ofcom, yaş doğrulama kurallarına uymayan sitelere dünya genelindeki gelirlerinin %10'una kadar ceza kesebilir."
+      },
+      {
+        "card_title": "Sorumluluk Farkı",
+        "card_body": "ABD'deki 1996 İletişim Ahlakı Yasası'nın 230. Bölümü platformları içerik sorumluluğundan muaf tutarken, Birleşik Krallık'ta kurallar sıkılaşıyor."
       }
     ]
   },
   "impact": {
-    "heading": "Sektörel Yansımalar",
+    "heading": "Sektörel ve Sosyal Etki",
     "cards": [
       {
-        "card_title": "Platform Sorumluluğu",
-        "card_body": "ABD'deki 1996 tarihli İletişim Ahlakı Yasası'nın 230. Bölümü platformları muaf tutarken, Birleşik Krallık'ta kurallar sıkılaşıyor."
+        "card_title": "Sektörel Merkezler",
+        "card_body": "OnlyFans'in ana şirketi Fenix International Limited'in Birleşik Krallık merkezli olması, düzenlemelerin etkisini artırıyor."
       },
       {
-        "card_title": "Merkez Etkisi",
-        "card_body": "OnlyFans'in ana şirketi Fenix International Limited'in Birleşik Krallık merkezli olması, bu düzenlemelerin önemini artırıyor."
+        "card_title": "Güvenlik Endişeleri",
+        "card_body": "Ağustos ayında yaşanan, rızaya dayalı boğulma sonrası hayatını kaybeden genç kız vakası, bu tür içeriklerin risklerini gündeme taşıdı."
       }
     ]
   },
   "cta": {
-    "question": "Sizce dijital platformlarda içerik denetimi konusunda devletlerin müdahalesi ne kadar etkili olmalı?",
-    "reminder_line": "Teknoloji dünyasındaki yasal gelişmeleri takip etmek için bizi izlemeye devam edin."
+    "question": "Dijital platformlarda içerik denetimi sizce ne kadar sıkı olmalı?",
+    "reminder_line": "Tekno Pusula ile güncel teknoloji gelişmelerini takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

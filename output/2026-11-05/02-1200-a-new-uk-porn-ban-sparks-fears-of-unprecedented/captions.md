@@ -2,42 +2,68 @@
 
 ## INSTAGRAM
 
-Birleşik Krallık'ta dijital içerik kuralları değişti! 6 Kasım itibarıyla yürürlüğe giren yeni pornografi yasası, platformlar için ciddi yaptırımlar getiriyor. Boğulma/nefessiz bırakma içeren içerikler ve "fauxcest" türü artık yasak. Kurallara uymayan sitelere dünya çapındaki gelirlerinin %10'una kadar ceza kesilebilecek. İhlallerde 5 yıla kadar hapis cezası söz konusu. Sizce dijital platformlarda içerik denetimi konusunda devletlerin müdahalesi ne kadar etkili olmalı? Kaynak: Wired, BBC News.
+Birleşik Krallık'ta dijital içerik kuralları değişiyor! 6 Kasım itibarıyla yürürlüğe girecek yeni yasa, boğulma veya nefessiz bırakma içeren pornografik içeriklerin yayınlanmasını ve bulundurulmasını yasaklıyor. 
 
-#DijitalHukuk #TeknolojiHaberleri #İnternetGüvenliği #UKLaw #PornografiYasası #DijitalDünya #Hukuk #Teknoloji #DigitalLaw #OnlineSafety
+Bu düzenleme, ihlal durumunda 5 yıla kadar hapis cezası ve ciddi para cezalarını beraberinde getiriyor. Ofcom, kurallara uymayan platformlara dünya genelindeki gelirlerinin %10'una varan cezalar kesebilecek.
+
+OnlyFans gibi Birleşik Krallık merkezli platformlar için bu durum, içerik denetim süreçlerinin tamamen değişmesi anlamına geliyor. Özellikle rızaya dayalı olsa dahi bu tür içeriklerin yarattığı güvenlik riskleri, yasal düzenlemelerin temelini oluşturuyor.
+
+Dijital platformlarda içerik denetimi sizce ne kadar sıkı olmalı? Yorumlarda buluşalım.
+
+Tekno Pusula ile güncel teknoloji gelişmelerini takipte kalın.
+
+Kaynak: Wired, BBC News
+
+#DijitalGüvenlik #TeknolojiHaberleri #BirleşikKrallık #İnternetYasası #TeknoPusula #DijitalDünya #Ofcom #CyberSafety #TechNews #UKLaw #DigitalRegulation
 
 ## TIKTOK
 
-Birleşik Krallık'ta pornografi yasası değişti! 🚨 6 Kasım'da yürürlüğe giren düzenlemeyle boğulma içerikli videolar ve "fauxcest" yasaklandı. İhlallerde 5 yıla kadar hapis ve devasa para cezaları kapıda. OnlyFans gibi Birleşik Krallık merkezli platformlar için süreç kritik. Sizce devlet denetimi ne kadar olmalı? Kaynak: Wired, BBC News.
+Birleşik Krallık'ta pornografi yasaları değişiyor! 6 Kasım'dan itibaren boğulma içeren içerikler yasaklanıyor. İhlal edenleri 5 yıla kadar hapis cezası bekliyor. Platformlar artık çok daha sıkı denetlenecek. Detaylar için takipte kalın! Kaynak: Wired, BBC News
 
-#TeknolojiHaberleri #DijitalHukuk #UKNews #İnternetGüvenliği #Haberler
+#DijitalGüvenlik #Teknoloji #Haberler #TeknoPusula #İnternet
 
 ## X
 
-Birleşik Krallık'ta yeni pornografi yasası 6 Kasım'da yürürlüğe girdi. Boğulma içerikli videolar ve "fauxcest" yasaklandı. İhlallerde 5 yıla kadar hapis ve dünya genelindeki gelirin %10'una kadar ceza riski var. Kaynak: Wired, BBC News.
+Birleşik Krallık'ta 6 Kasım'da yeni pornografi yasası yürürlüğe giriyor. Boğulma içeren içeriklerin dağıtımı ve bulundurulması yasaklanırken, ihlal durumunda 5 yıla kadar hapis cezası öngörülüyor. Ofcom denetimleri sıkılaşıyor. Kaynak: Wired, BBC News
 
-#DijitalHukuk #UKLaw
+#DijitalGüvenlik #Teknoloji
 
 ## THREADS
 
 Birleşik Krallık'ta Yeni Pornografi Yasası
 
-6 Kasım itibarıyla yürürlüğe giren düzenlemeler, boğulma içerikli videoları ve "fauxcest" türünü yasaklıyor. İhlallerde 5 yıla kadar hapis ve dünya çapındaki gelirin %10'una varan para cezaları söz konusu.
+6 Kasım'da yürürlüğe girecek yeni düzenleme, boğulma içeren içeriklerin yayınlanmasını yasaklıyor. İhlal durumunda 5 yıla kadar hapis cezası ve platformlar için ağır para cezaları gündemde.
 
-Sizce dijital platformlarda içerik denetimi konusunda devletlerin müdahalesi ne kadar etkili olmalı? 💭
+Dijital platformlarda içerik denetimi sizce ne kadar sıkı olmalı? 💭
 
-Kaynak: Wired, BBC News.
+Kaynak: Wired, BBC News
 
-#DijitalHukuk
+#DijitalGüvenlik
 
 ## LINKEDIN
 
-Birleşik Krallık'ta 6 Kasım itibarıyla yürürlüğe giren yeni pornografi yasası, dijital platformların sorumluluklarını yeniden tanımlıyor. Özellikle boğulma içerikli videolar ve "fauxcest" türüne getirilen yasaklar, içerik denetimi süreçlerini sıkılaştırıyor. Ofcom, kurallara uymayan sitelere dünya çapındaki gelirlerinin %10'una kadar ceza kesebilecek. İhlallerde 5 yıla kadar hapis cezası öngörülüyor. OnlyFans gibi Birleşik Krallık merkezli platformlar için bu düzenleme, operasyonel süreçlerde kritik bir döneme işaret ediyor. ABD'deki 230. Bölüm muafiyetinden farklı olarak, Birleşik Krallık'ta yasal çerçeve oldukça katı. Dijital platformlarda içerik denetimi konusunda devletlerin müdahalesi sizce ne kadar etkili olmalı? Kaynak: Wired, BBC News.
+Dijital platformlarda yasal düzenlemeler sıkılaşıyor. Birleşik Krallık, 6 Kasım itibarıyla boğulma veya nefessiz bırakma içeren pornografik içeriklerin yayınlanmasını ve bulundurulmasını yasaklayan yeni bir düzenlemeyi yürürlüğe koyuyor.
 
-#DijitalHukuk #Teknoloji #İnternetGüvenliği #Regülasyon #DijitalDönüşüm
+Bu yasa, sadece içerik üreticilerini değil, platformları da doğrudan etkiliyor. Düzenleyici kurum Ofcom, kurallara uymayan sitelere dünya genelindeki gelirlerinin %10'una kadar ceza kesme yetkisine sahip olacak. Özellikle Birleşik Krallık merkezli platformlar için uyum süreçleri kritik bir öneme sahip.
+
+ABD'deki 1996 İletişim Ahlakı Yasası'nın 230. Bölümü ile kıyaslandığında, Birleşik Krallık'ın bu adımı, dijital platformların içerik sorumluluğu konusundaki yaklaşımının ne kadar değiştiğini gösteriyor.
+
+Tekno Pusula ile güncel teknoloji gelişmelerini takipte kalın.
+
+Kaynak: Wired, BBC News
+
+#DijitalGüvenlik #TeknolojiHaberleri #Regülasyon #İnternetHukuku #TeknoPusula
 
 ## FACEBOOK
 
-Birleşik Krallık'ta dijital içerik kuralları değişti! 6 Kasım itibarıyla yürürlüğe giren yeni pornografi yasası, platformlar için ciddi yaptırımlar getiriyor. Boğulma/nefessiz bırakma içeren içerikler ve "fauxcest" türü artık yasak. Kurallara uymayan sitelere dünya çapındaki gelirlerinin %10'una kadar ceza kesilebilecek. İhlallerde 5 yıla kadar hapis cezası söz konusu. Sizce dijital platformlarda içerik denetimi konusunda devletlerin müdahalesi ne kadar etkili olmalı? Kaynak: Wired, BBC News.
+Birleşik Krallık'ta dijital içerik kuralları değişiyor! 6 Kasım itibarıyla yürürlüğe girecek yeni yasa, boğulma veya nefessiz bırakma içeren pornografik içeriklerin yayınlanmasını ve bulundurulmasını yasaklıyor.
 
-#DijitalHukuk #TeknolojiHaberleri #İnternetGüvenliği #UKLaw #DijitalDünya
+Bu düzenleme, ihlal durumunda 5 yıla kadar hapis cezası ve ciddi para cezalarını beraberinde getiriyor. Ofcom, kurallara uymayan platformlara dünya genelindeki gelirlerinin %10'una varan cezalar kesebilecek.
+
+OnlyFans gibi Birleşik Krallık merkezli platformlar için bu durum, içerik denetim süreçlerinin tamamen değişmesi anlamına geliyor. Dijital platformlarda içerik denetimi sizce ne kadar sıkı olmalı?
+
+Tekno Pusula ile güncel teknoloji gelişmelerini takipte kalın.
+
+Kaynak: Wired, BBC News
+
+#DijitalGüvenlik #TeknolojiHaberleri #BirleşikKrallık #TeknoPusula #İnternetYasası
