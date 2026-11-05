@@ -4713,5 +4713,82 @@
     ],
     "created_at": "2026-11-05T14:50:44+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-11-05-1800",
+    "date": "2026-11-05",
+    "slot": "18:00",
+    "type": "edu",
+    "title_tr": "Dropbox'tan Büyük Hamle: Tigris Data Satın Alımı",
+    "original_title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
+    ],
+    "canonical_url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure",
+    "entities": [
+      "Dropbox",
+      "Tigris Data",
+      "DBX Agent Cloud",
+      "Amazon S3",
+      "ChatGPT",
+      "Claude",
+      "Muse",
+      "TechCrunch",
+      "WSJ"
+    ],
+    "event_type": "acquisition",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6aeca1f42eedef58a9d5000d",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6aeca20c14c42730f5c0ce5e",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6aeca223a3148845e40b1194",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2118366479242432735",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "17890414716689838",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfXXcUWldhr",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6aeca24214c42730f5c0df03",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6aeca259a3148845e40b27fa",
+        "permalink": "https://facebook.com/1351036918092059_122121259551484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-11-05T18:36:13+03:00",
+    "verified_claims_count": 8
   }
 ]
