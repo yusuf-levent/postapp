@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ HABERLERİ",
+    "title": "Discord'da Büyük Değişim: Rust Dönemi Başlıyor",
+    "highlight_words": [
+      "Rust",
+      "Değişim"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Discord, masaüstü uygulamasını Electron'dan Rust'a taşıyarak performans odaklı yenileniyor.",
+    "source_tags": [
+      "THE VERGE",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Neden Rust'a Geçiliyor?",
+    "cards": [
+      {
+        "card_title": "Köklü Bir Geçmiş",
+        "card_body": "Discord, 2018 yılından beri Rust teknolojisini erken benimseyen bir şirket olarak altyapısında bu dili kullanıyordu."
+      },
+      {
+        "card_title": "Stratejik Karar",
+        "card_body": "Discord CTO'su Stanislav Vishnevskiy, Electron ve React Native'in kullanımdan kaldırılacağını resmen açıkladı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "290MB",
+    "stat_caption": "Yeni Rust tabanlı Windows istemcisinin RAM tüketimi.",
+    "stat_quote": "Mevcut uygulama birkaç sunucuda 1GB RAM tüketebilirken, yeni sürüm çok daha verimli çalışacak."
+  },
+  "details": {
+    "heading": "Teknik Detaylar",
+    "cards": [
+      {
+        "card_title": "Hibrit Yapı",
+        "card_body": "Discord, mobil uygulamalarda yerel kullanıcı arayüzünü korurken masaüstü ile kod paylaşımını Rust üzerinden yapacak."
+      },
+      {
+        "card_title": "Kademeli Geçiş",
+        "card_body": "Ses teknolojisi ve mevcut istemcinin bir kısmı halihazırda Rust ile çalışıyor, süreç genişletiliyor."
+      },
+      {
+        "card_title": "Test Süreci",
+        "card_body": "CTO Stanislav Vishnevskiy, yeni uygulamanın yakında kullanıcılarla test edilmeye başlanacağını belirtti."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcıya Etkisi",
+    "cards": [
+      {
+        "card_title": "Daha Hızlı Deneyim",
+        "card_body": "Düşük RAM kullanımı sayesinde özellikle düşük donanımlı bilgisayarlarda daha akıcı bir Discord deneyimi hedefleniyor."
+      },
+      {
+        "card_title": "Sektörel Dönüşüm",
+        "card_body": "Electron tabanlı uygulamaların yerini daha performanslı yerel dillerin alması, yazılım dünyasında yeni bir trend."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce Discord'un bu performans odaklı hamlesi, diğer popüler uygulamalar için de bir örnek teşkil eder mi?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri kaçırmamak için bizi takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
