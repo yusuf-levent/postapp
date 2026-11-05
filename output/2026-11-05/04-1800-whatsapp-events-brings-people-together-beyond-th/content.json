@@ -1,0 +1,121 @@
+{
+  "cover": {
+    "category_label": "WhatsApp Güncellemeleri",
+    "title": "WhatsApp'ta Etkinlik Planlama Dönemi Başladı",
+    "highlight_words": [
+      "Etkinlik",
+      "Planlama",
+      "WhatsApp"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Artık WhatsApp hesabı olmayanları bile etkinliklerinize davet edebilirsiniz. İşte yeni özellikler.",
+    "source_tags": [
+      "Meta",
+      "The Verge",
+      "Engadget"
+    ]
+  },
+  "problem": {
+    "heading": "Etkinlik Yönetimi Artık Daha Kolay",
+    "cards": [
+      {
+        "card_title": "Dağınık Planlara Son",
+        "card_body": "WhatsApp'ta etkinlik oluşturmak için harici uygulamalara ihtiyaç duymadan, doğrudan uygulama içinden davetiye oluşturup RSVP takibi yapabilirsiniz."
+      },
+      {
+        "card_title": "WhatsApp Hesabı Şart Değil",
+        "card_body": "En büyük yenilik: WhatsApp hesabı olmayan kişiler bile etkinlik detaylarını görüntüleyebilir ve RSVP yapabilir."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Etkinlik Oluşturma ve Özelleştirme",
+      "cards": [
+        {
+          "card_title": "Kişiselleştirilmiş Davetler",
+          "card_body": "Yeni 'Events Home' (Etkinlikler Ana Sayfası) üzerinden davetiyelerinizi özelleştirebilir, kapak fotoğrafı ekleyebilir ve etkinlik bağlantısını paylaşabilirsiniz."
+        },
+        {
+          "card_title": "Detaylı Kontrol",
+          "card_body": "Etkinliklerde özel hatırlatıcılar kurabilir ve davetlilerin yanlarında artı bir kişi getirme seçeneğini aktif edebilirsiniz."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Gizlilik ve Güvenlik Önlemleri",
+      "cards": [
+        {
+          "card_title": "Numara Gizliliği",
+          "card_body": "Etkinlikteki tanınmayan misafirler, sizin telefon numaranızı göremez. Gizliliğiniz her zaman ön planda."
+        },
+        {
+          "card_title": "Adres Koruması",
+          "card_body": "WhatsApp hesabı olmayan misafirler, etkinlik adresini yalnızca RSVP yaptıktan sonra görüntüleyebilir."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Etkinlik Takibi",
+      "cards": [
+        {
+          "card_title": "Geçmiş ve Gelecek",
+          "card_body": "Ayarlar menüsü altındaki 'Etkinlikler' bölümüne giderek, planladığınız tüm geçmiş ve gelecek etkinlikleri tek bir yerden yönetebilirsiniz."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Sizce bu özellik WhatsApp'ı bir takvim uygulamasına dönüştürür mü?",
+    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın!"
+  },
+  "context": {
+    "heading": "Etkinlik Yönetimi Artık Daha Kolay",
+    "cards": [
+      {
+        "card_title": "Dağınık Planlara Son",
+        "card_body": "WhatsApp'ta etkinlik oluşturmak için harici uygulamalara ihtiyaç duymadan, doğrudan uygulama içinden davetiye oluşturup RSVP takibi yapabilirsiniz."
+      },
+      {
+        "card_title": "WhatsApp Hesabı Şart Değil",
+        "card_body": "En büyük yenilik: WhatsApp hesabı olmayan kişiler bile etkinlik detaylarını görüntüleyebilir ve RSVP yapabilir."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Etkinlik Oluşturma ve Özelleştirme",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Gizlilik ve Güvenlik Önlemleri",
+    "cards": [
+      {
+        "card_title": "Numara Gizliliği",
+        "card_body": "Etkinlikteki tanınmayan misafirler, sizin telefon numaranızı göremez. Gizliliğiniz her zaman ön planda."
+      },
+      {
+        "card_title": "Adres Koruması",
+        "card_body": "WhatsApp hesabı olmayan misafirler, etkinlik adresini yalnızca RSVP yaptıktan sonra görüntüleyebilir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Etkinlik Takibi",
+    "cards": [
+      {
+        "card_title": "Geçmiş ve Gelecek",
+        "card_body": "Ayarlar menüsü altındaki 'Etkinlikler' bölümüne giderek, planladığınız tüm geçmiş ve gelecek etkinlikleri tek bir yerden yönetebilirsiniz."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM"
+}
