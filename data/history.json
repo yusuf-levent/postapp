@@ -4568,5 +4568,76 @@
     ],
     "created_at": "2026-11-05T08:45:22+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-11-05-1200",
+    "date": "2026-11-05",
+    "slot": "12:00",
+    "type": "news",
+    "title_tr": "Birleşik Krallık'ta Yeni Pornografi Yasası",
+    "original_title": "A New UK Porn Ban Sparks Fears of Unprecedented Sex Censorship",
+    "source_urls": [
+      "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/"
+    ],
+    "canonical_url": "https://wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship",
+    "entities": [
+      "Myles Jackman",
+      "Baroness Gabby Bertin",
+      "Crime and Policing Act"
+    ],
+    "event_type": "legislation",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6aec4423660b2991f16a9c0b",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6aec443a7877e0eab28e4f55",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6aec445180f7fd0537080abc",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2118265740365115591",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18101063132192666",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfWposxlloq",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6aec44716cf2d12918719a30",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6aec44883ddb81d2211f9f8d",
+        "permalink": "https://facebook.com/1351036918092059_122121174333484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-11-05T11:55:50+03:00",
+    "verified_claims_count": 8
   }
 ]
