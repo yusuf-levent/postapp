@@ -4790,5 +4790,83 @@
     ],
     "created_at": "2026-11-05T18:36:13+03:00",
     "verified_claims_count": 8
+  },
+  {
+    "id": "2026-11-05-2100",
+    "date": "2026-11-05",
+    "slot": "21:00",
+    "type": "news",
+    "title_tr": "Wonder Halka Arz İçin Hazırlanıyor",
+    "original_title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/"
+    ],
+    "canonical_url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite",
+    "entities": [
+      "Wonder",
+      "Marc Lore",
+      "Jet.com",
+      "Diapers.com",
+      "Accel",
+      "GV",
+      "AllianceBernstein",
+      "ARK Invest",
+      "Blue Apron",
+      "Grubhub"
+    ],
+    "event_type": "IPO_filing",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6aecc169b09a1f8d3e2948b8",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6aecc180eb7f28c390f7b2df",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6aecc197d7d39142cf522d03",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2118400254219309427",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "17945839494128046",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfXmz_lCcwa",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6aecc1bdb943974e73163db9",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6aecc1d4d7d39142cf523def",
+        "permalink": "https://facebook.com/1351036918092059_122121287463484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-11-05T20:50:26+03:00",
+    "verified_claims_count": 5
   }
 ]
