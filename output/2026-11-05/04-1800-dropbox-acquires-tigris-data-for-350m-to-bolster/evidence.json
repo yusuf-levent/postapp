@@ -7,12 +7,12 @@
     "AWS News Blog",
     "Engadget"
   ],
-  "checked_at": "2026-11-05T18:28:29+03:00",
+  "checked_at": "2026-11-05T18:33:23+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Dropbox, bulut teknolojisi şirketi Tigris Data'yı 350 milyon dolar karşılığında satın alacağını duyurdu.",
+      "claim": "Dropbox, Tigris Data şirketini 350 milyon dolar karşılığında satın alacağını duyurdu.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "claim": "Dropbox, Tigris Data satın alımının 2026 yılının dördüncü çeyreğinde tamamlanmasının beklendiğini açıkladı.",
+      "claim": "Dropbox, Tigris Data satın alım işleminin 2026 yılının dördüncü çeyreğinde tamamlanmasını bekliyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "claim": "Dropbox, geçtiğimiz ay küresel iş gücünün yüzde 9'unu işten çıkardı.",
+      "claim": "Dropbox, geçen ay küresel iş gücünün yüzde 9'unu işten çıkardı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -42,17 +42,7 @@
       ]
     },
     {
-      "claim": "DBX Agent Cloud platformu, Amazon S3 ile uyumlu nesne depolama hizmeti sunacak.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-          "quote": "DBX Agent Cloud will initially offer object storage as a standalone product, allowing businesses to purchase storage independently and use it with existing tools and applications built for Amazon S3 (Simple Storage Service)"
-        }
-      ]
-    },
-    {
-      "claim": "Dropbox'ın güncellenmiş yapay zeka deneyimi halihazırda 70.000'den fazla ekip tarafından kullanılıyor.",
+      "claim": "Dropbox'ın güncellenmiş yapay zeka deneyimi 70.000'den fazla ekibe ulaştı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -62,7 +52,7 @@
       ]
     },
     {
-      "claim": "Dropbox'ın yeni yapay zeka özellikleri şu an ABD, İngiltere ve Avustralya'daki Standard ve Advanced müşterilerine sunuluyor.",
+      "claim": "Dropbox'ın yeni yapay zeka özellikleri şu an ABD, İngiltere ve Avustralya'daki uygun Standard ve Advanced müşterilerine sunuluyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -82,7 +72,17 @@
       ]
     },
     {
-      "claim": "Dropbox daha önce Reclaim.ai, Promoted.ai ve Mobius Labs gibi yapay zeka odaklı şirketleri satın aldı.",
+      "claim": "Tigris Data, Uber'in eski mühendisleri tarafından kuruldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+          "quote": "Tigris Data was founded by former Uber engineers who helped develop the ride-hailing company’s storage infrastructure."
+        }
+      ]
+    },
+    {
+      "claim": "Dropbox daha önce Reclaim.ai, Promoted.ai ve Mobius Labs adlı yapay zeka odaklı şirketleri satın aldı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -94,7 +94,7 @@
   ],
   "round1": [
     {
-      "claim": "Dropbox, bulut teknolojisi şirketi Tigris Data'yı 350 milyon dolar karşılığında satın alacağını duyurdu.",
+      "claim": "Dropbox, Tigris Data şirketini 350 milyon dolar karşılığında satın alacağını duyurdu.",
       "verdict": "supported",
       "evidence": [
         {
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "claim": "Dropbox, Tigris Data satın alımının 2026 yılının dördüncü çeyreğinde tamamlanmasının beklendiğini açıkladı.",
+      "claim": "Dropbox, Tigris Data satın alım işleminin 2026 yılının dördüncü çeyreğinde tamamlanmasını bekliyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "claim": "Dropbox, geçtiğimiz ay küresel iş gücünün yüzde 9'unu işten çıkardı.",
+      "claim": "Dropbox, geçen ay küresel iş gücünün yüzde 9'unu işten çıkardı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -124,17 +124,7 @@
       ]
     },
     {
-      "claim": "DBX Agent Cloud platformu, Amazon S3 ile uyumlu nesne depolama hizmeti sunacak.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-          "quote": "DBX Agent Cloud will initially offer object storage as a standalone product, allowing businesses to purchase storage independently and use it with existing tools and applications built for Amazon S3 (Simple Storage Service)"
-        }
-      ]
-    },
-    {
-      "claim": "Dropbox'ın güncellenmiş yapay zeka deneyimi halihazırda 70.000'den fazla ekip tarafından kullanılıyor.",
+      "claim": "Dropbox'ın güncellenmiş yapay zeka deneyimi 70.000'den fazla ekibe ulaştı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -144,7 +134,7 @@
       ]
     },
     {
-      "claim": "Dropbox'ın yeni yapay zeka özellikleri şu an ABD, İngiltere ve Avustralya'daki Standard ve Advanced müşterilerine sunuluyor.",
+      "claim": "Dropbox'ın yeni yapay zeka özellikleri şu an ABD, İngiltere ve Avustralya'daki uygun Standard ve Advanced müşterilerine sunuluyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -164,7 +154,17 @@
       ]
     },
     {
-      "claim": "Dropbox daha önce Reclaim.ai, Promoted.ai ve Mobius Labs gibi yapay zeka odaklı şirketleri satın aldı.",
+      "claim": "Tigris Data, Uber'in eski mühendisleri tarafından kuruldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+          "quote": "Tigris Data was founded by former Uber engineers who helped develop the ride-hailing company’s storage infrastructure."
+        }
+      ]
+    },
+    {
+      "claim": "Dropbox daha önce Reclaim.ai, Promoted.ai ve Mobius Labs adlı yapay zeka odaklı şirketleri satın aldı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -176,7 +176,7 @@
   ],
   "round2": [
     {
-      "claim": "Dropbox, bulut teknolojisi şirketi Tigris Data'yı 350 milyon dolar karşılığında satın alacağını duyurdu.",
+      "claim": "Dropbox, Tigris Data şirketini 350 milyon dolar karşılığında satın alacağını duyurdu.",
       "verdict": "supported",
       "evidence": [
         {
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "claim": "Dropbox, Tigris Data satın alımının 2026 yılının dördüncü çeyreğinde tamamlanmasının beklendiğini açıkladı.",
+      "claim": "Dropbox, Tigris Data satın alım işleminin 2026 yılının dördüncü çeyreğinde tamamlanmasını bekliyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "claim": "Dropbox, geçtiğimiz ay küresel iş gücünün yüzde 9'unu işten çıkardı.",
+      "claim": "Dropbox, geçen ay küresel iş gücünün yüzde 9'unu işten çıkardı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -206,17 +206,7 @@
       ]
     },
     {
-      "claim": "DBX Agent Cloud platformu, Amazon S3 ile uyumlu nesne depolama hizmeti sunacak.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-          "quote": "DBX Agent Cloud will initially offer object storage as a standalone product, allowing businesses to purchase storage independently and use it with existing tools and applications built for Amazon S3 (Simple Storage Service)"
-        }
-      ]
-    },
-    {
-      "claim": "Dropbox'ın güncellenmiş yapay zeka deneyimi halihazırda 70.000'den fazla ekip tarafından kullanılıyor.",
+      "claim": "Dropbox'ın güncellenmiş yapay zeka deneyimi 70.000'den fazla ekibe ulaştı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -226,7 +216,7 @@
       ]
     },
     {
-      "claim": "Dropbox'ın yeni yapay zeka özellikleri şu an ABD, İngiltere ve Avustralya'daki Standard ve Advanced müşterilerine sunuluyor.",
+      "claim": "Dropbox'ın yeni yapay zeka özellikleri şu an ABD, İngiltere ve Avustralya'daki uygun Standard ve Advanced müşterilerine sunuluyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -246,7 +236,17 @@
       ]
     },
     {
-      "claim": "Dropbox daha önce Reclaim.ai, Promoted.ai ve Mobius Labs gibi yapay zeka odaklı şirketleri satın aldı.",
+      "claim": "Tigris Data, Uber'in eski mühendisleri tarafından kuruldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+          "quote": "Tigris Data was founded by former Uber engineers who helped develop the ride-hailing company’s storage infrastructure."
+        }
+      ]
+    },
+    {
+      "claim": "Dropbox daha önce Reclaim.ai, Promoted.ai ve Mobius Labs adlı yapay zeka odaklı şirketleri satın aldı.",
       "verdict": "supported",
       "evidence": [
         {

@@ -1,14 +1,14 @@
 {
   "cover": {
-    "category_label": "Teknoloji Gündemi",
+    "category_label": "Teknoloji Dünyası",
     "title": "Dropbox'tan Büyük Hamle: Tigris Data Satın Alımı",
     "highlight_words": [
       "Dropbox",
       "Tigris Data",
-      "Satın Alım"
+      "Satın Alma"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Bulut depolama devi stratejisini yapay zeka ve veri yönetimi üzerine kuruyor.",
+    "subtitle": "Dropbox'ın stratejik büyüme adımları ve yapay zeka vizyonu.",
     "source_tags": [
       "TechCrunch",
       "AWS News Blog"
@@ -18,105 +18,105 @@
     "heading": "Dropbox Neden Büyüyor?",
     "cards": [
       {
-        "card_title": "Stratejik Yatırım",
-        "card_body": "Dropbox, bulut teknolojisi şirketi Tigris Data'yı 350 milyon dolar karşılığında satın alacağını duyurdu."
+        "card_title": "Stratejik Satın Alma",
+        "card_body": "Dropbox, Uber'in eski mühendisleri tarafından kurulan Tigris Data şirketini 350 milyon dolar karşılığında satın alacağını duyurdu."
       },
       {
-        "card_title": "Yatırım Geçmişi",
-        "card_body": "Tigris Data, geçen yıl düzenlenen Seri A yatırım turunda 25 milyon dolar fon toplamıştı."
+        "card_title": "Zaman Çizelgesi",
+        "card_body": "Bu satın alım işleminin 2026 yılının dördüncü çeyreğinde tamamlanması bekleniyor."
       }
     ],
     "code_block": ""
   },
   "steps": [
     {
-      "heading": "Satın Alım Süreci ve Hedefler",
+      "heading": "Tigris Data Hakkında",
       "cards": [
         {
-          "card_title": "Zaman Çizelgesi",
-          "card_body": "Dropbox, Tigris Data satın alımının 2026 yılının dördüncü çeyreğinde tamamlanmasının beklendiğini açıkladı."
+          "card_title": "Kurucular",
+          "card_body": "Tigris Data, Uber'in eski mühendisleri tarafından kurulmuş bir girişimdir."
         },
         {
-          "card_title": "Teknoloji Entegrasyonu",
-          "card_body": "DBX Agent Cloud platformu, Tigris Data'nın yetenekleriyle Amazon S3 ile uyumlu nesne depolama hizmeti sunacak."
+          "card_title": "Yatırım Geçmişi",
+          "card_body": "Şirket, geçen yıl düzenlenen Seri A yatırım turunda 25 milyon dolar fon toplamıştı."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "Yapay Zeka Odaklı Büyüme",
+      "heading": "Dropbox'ın Yapay Zeka Vizyonu",
       "cards": [
         {
-          "card_title": "Kullanıcı Verisi",
-          "card_body": "Dropbox'ın güncellenmiş yapay zeka deneyimi halihazırda 70.000'den fazla ekip tarafından kullanılıyor."
+          "card_title": "Genişleyen Ekosistem",
+          "card_body": "Dropbox'ın güncellenmiş yapay zeka deneyimi şu an 70.000'den fazla ekibe ulaşmış durumda."
         },
         {
-          "card_title": "Erişim Kapsamı",
-          "card_body": "Yeni yapay zeka özellikleri şu an ABD, İngiltere ve Avustralya'daki Standard ve Advanced müşterilerine sunuluyor."
+          "card_title": "Önceki Adımlar",
+          "card_body": "Şirket daha önce Reclaim.ai, Promoted.ai ve Mobius Labs gibi yapay zeka odaklı şirketleri bünyesine katmıştı."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "Şirket İçi Değişimler",
+      "heading": "Güncel Özelliklere Erişim",
       "cards": [
         {
-          "card_title": "İş Gücü Düzenlemesi",
-          "card_body": "Dropbox, geçtiğimiz ay küresel iş gücünün yüzde 9'unu işten çıkardı."
+          "card_title": "Kullanılabilirlik",
+          "card_body": "Yeni yapay zeka özellikleri şu an ABD, İngiltere ve Avustralya'daki uygun Standard ve Advanced müşterilerine sunuluyor."
         },
         {
-          "card_title": "Satın Alma Geçmişi",
-          "card_body": "Şirket daha önce Reclaim.ai, Promoted.ai ve Mobius Labs gibi yapay zeka odaklı şirketleri de bünyesine katmıştı."
+          "card_title": "Kurumsal Dönüşüm",
+          "card_body": "Dropbox, geçen ay küresel iş gücünün yüzde 9'unu işten çıkararak operasyonel bir yeniden yapılanma sürecinden geçti."
         }
       ],
       "code_block": ""
     }
   ],
   "cta": {
-    "question": "Dropbox'ın bu stratejik hamlesi hakkında ne düşünüyorsunuz?",
-    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri kaçırmamak için takipte kalın."
+    "question": "Dropbox'ın bu satın alımla yapay zeka alanında nasıl bir fark yaratacağını düşünüyorsun?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri kaçırmamak için takipte kal!"
   },
   "context": {
     "heading": "Dropbox Neden Büyüyor?",
     "cards": [
       {
-        "card_title": "Stratejik Yatırım",
-        "card_body": "Dropbox, bulut teknolojisi şirketi Tigris Data'yı 350 milyon dolar karşılığında satın alacağını duyurdu."
+        "card_title": "Stratejik Satın Alma",
+        "card_body": "Dropbox, Uber'in eski mühendisleri tarafından kurulan Tigris Data şirketini 350 milyon dolar karşılığında satın alacağını duyurdu."
       },
       {
-        "card_title": "Yatırım Geçmişi",
-        "card_body": "Tigris Data, geçen yıl düzenlenen Seri A yatırım turunda 25 milyon dolar fon toplamıştı."
+        "card_title": "Zaman Çizelgesi",
+        "card_body": "Bu satın alım işleminin 2026 yılının dördüncü çeyreğinde tamamlanması bekleniyor."
       }
     ]
   },
   "stat": {
     "big_stat": "💡",
-    "stat_caption": "Satın Alım Süreci ve Hedefler",
+    "stat_caption": "Tigris Data Hakkında",
     "stat_quote": ""
   },
   "details": {
-    "heading": "Yapay Zeka Odaklı Büyüme",
+    "heading": "Dropbox'ın Yapay Zeka Vizyonu",
     "cards": [
       {
-        "card_title": "Kullanıcı Verisi",
-        "card_body": "Dropbox'ın güncellenmiş yapay zeka deneyimi halihazırda 70.000'den fazla ekip tarafından kullanılıyor."
+        "card_title": "Genişleyen Ekosistem",
+        "card_body": "Dropbox'ın güncellenmiş yapay zeka deneyimi şu an 70.000'den fazla ekibe ulaşmış durumda."
       },
       {
-        "card_title": "Erişim Kapsamı",
-        "card_body": "Yeni yapay zeka özellikleri şu an ABD, İngiltere ve Avustralya'daki Standard ve Advanced müşterilerine sunuluyor."
+        "card_title": "Önceki Adımlar",
+        "card_body": "Şirket daha önce Reclaim.ai, Promoted.ai ve Mobius Labs gibi yapay zeka odaklı şirketleri bünyesine katmıştı."
       }
     ]
   },
   "impact": {
-    "heading": "Şirket İçi Değişimler",
+    "heading": "Güncel Özelliklere Erişim",
     "cards": [
       {
-        "card_title": "İş Gücü Düzenlemesi",
-        "card_body": "Dropbox, geçtiğimiz ay küresel iş gücünün yüzde 9'unu işten çıkardı."
+        "card_title": "Kullanılabilirlik",
+        "card_body": "Yeni yapay zeka özellikleri şu an ABD, İngiltere ve Avustralya'daki uygun Standard ve Advanced müşterilerine sunuluyor."
       },
       {
-        "card_title": "Satın Alma Geçmişi",
-        "card_body": "Şirket daha önce Reclaim.ai, Promoted.ai ve Mobius Labs gibi yapay zeka odaklı şirketleri de bünyesine katmıştı."
+        "card_title": "Kurumsal Dönüşüm",
+        "card_body": "Dropbox, geçen ay küresel iş gücünün yüzde 9'unu işten çıkararak operasyonel bir yeniden yapılanma sürecinden geçti."
       }
     ]
   },
