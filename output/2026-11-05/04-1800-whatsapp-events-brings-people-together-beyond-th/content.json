@@ -1,30 +1,29 @@
 {
   "cover": {
     "category_label": "WhatsApp Güncellemeleri",
-    "title": "WhatsApp'ta Etkinlik Planlama Dönemi Başladı",
+    "title": "WhatsApp'ta Etkinlik Planlamak Artık Çok Kolay",
     "highlight_words": [
-      "Etkinlik",
-      "Planlama",
-      "WhatsApp"
+      "Etkinlikler",
+      "Yeni Özellik"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Artık WhatsApp hesabı olmayanları bile etkinliklerinize davet edebilirsiniz. İşte yeni özellikler.",
+    "subtitle": "Uygulama dışındaki kişileri de davet edebileceğiniz yeni etkinlik yönetimini keşfedin.",
     "source_tags": [
-      "Meta",
+      "Meta Newsroom",
       "The Verge",
       "Engadget"
     ]
   },
   "problem": {
-    "heading": "Etkinlik Yönetimi Artık Daha Kolay",
+    "heading": "Etkinlik Yönetimi Karmaşasına Son",
     "cards": [
       {
-        "card_title": "Dağınık Planlara Son",
-        "card_body": "WhatsApp'ta etkinlik oluşturmak için harici uygulamalara ihtiyaç duymadan, doğrudan uygulama içinden davetiye oluşturup RSVP takibi yapabilirsiniz."
+        "card_title": "Dağınık Planlar",
+        "card_body": "Farklı platformlar arasında etkinlik detaylarını paylaşmak ve katılımcı listesini yönetmek genellikle zorlayıcı olabiliyor."
       },
       {
-        "card_title": "WhatsApp Hesabı Şart Değil",
-        "card_body": "En büyük yenilik: WhatsApp hesabı olmayan kişiler bile etkinlik detaylarını görüntüleyebilir ve RSVP yapabilir."
+        "card_title": "Erişim Engeli",
+        "card_body": "WhatsApp hesabı olmayan kişileri etkinliklere dahil etmek, geçmişte uygulama zorunluluğu nedeniyle kısıtlıydı."
       }
     ],
     "code_block": ""
@@ -34,55 +33,59 @@
       "heading": "Etkinlik Oluşturma ve Özelleştirme",
       "cards": [
         {
-          "card_title": "Kişiselleştirilmiş Davetler",
-          "card_body": "Yeni 'Events Home' (Etkinlikler Ana Sayfası) üzerinden davetiyelerinizi özelleştirebilir, kapak fotoğrafı ekleyebilir ve etkinlik bağlantısını paylaşabilirsiniz."
+          "card_title": "Etkinlikler Ana Sayfası",
+          "card_body": "Yeni 'Events Home' üzerinden etkinliklerinizi oluşturabilir, özelleştirilmiş davetiyeler hazırlayabilirsiniz."
         },
         {
-          "card_title": "Detaylı Kontrol",
-          "card_body": "Etkinliklerde özel hatırlatıcılar kurabilir ve davetlilerin yanlarında artı bir kişi getirme seçeneğini aktif edebilirsiniz."
+          "card_title": "Görsel ve Detaylar",
+          "card_body": "Oluşturduğunuz etkinliklere kapak fotoğrafı ekleyebilir, özel hatırlatıcılar kurabilir ve artı bir kişi (plus one) seçeneğini aktif edebilirsiniz."
         }
       ],
       "code_block": ""
     },
     {
-      "heading": "Gizlilik ve Güvenlik Önlemleri",
+      "heading": "Uygulama Dışı Davetliler",
+      "cards": [
+        {
+          "card_title": "WhatsApp Dışı Erişim",
+          "card_body": "WhatsApp hesabı olmayan kişiler, uygulama indirmeden etkinlik detaylarını görüntüleyebilir ve RSVP yanıtı verebilir."
+        },
+        {
+          "card_title": "Güvenlik Önlemi",
+          "card_body": "WhatsApp hesabı olmayan misafirler, etkinlik adresini yalnızca RSVP yanıtı verdikten sonra görebilir."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Gizlilik ve Takip",
       "cards": [
         {
           "card_title": "Numara Gizliliği",
-          "card_body": "Etkinlikteki tanınmayan misafirler, sizin telefon numaranızı göremez. Gizliliğiniz her zaman ön planda."
+          "card_body": "WhatsApp etkinliklerinde, tanınmayan misafirlere kullanıcının telefon numarası kesinlikle gösterilmez."
         },
         {
-          "card_title": "Adres Koruması",
-          "card_body": "WhatsApp hesabı olmayan misafirler, etkinlik adresini yalnızca RSVP yaptıktan sonra görüntüleyebilir."
-        }
-      ],
-      "code_block": ""
-    },
-    {
-      "heading": "Etkinlik Takibi",
-      "cards": [
-        {
-          "card_title": "Geçmiş ve Gelecek",
-          "card_body": "Ayarlar menüsü altındaki 'Etkinlikler' bölümüne giderek, planladığınız tüm geçmiş ve gelecek etkinlikleri tek bir yerden yönetebilirsiniz."
+          "card_title": "Etkinlik Arşivi",
+          "card_body": "Tüm geçmiş ve gelecek etkinliklerinizi Ayarlar menüsü altındaki 'Etkinlikler' sekmesinden kolayca takip edebilirsiniz."
         }
       ],
       "code_block": ""
     }
   ],
   "cta": {
-    "question": "Sizce bu özellik WhatsApp'ı bir takvim uygulamasına dönüştürür mü?",
-    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın!"
+    "question": "Sizce bu özellik grup organizasyonlarını ne kadar kolaylaştıracak?",
+    "reminder_line": "Yeni özellikleri denemeyi ve güncellemeleri kontrol etmeyi unutmayın!"
   },
   "context": {
-    "heading": "Etkinlik Yönetimi Artık Daha Kolay",
+    "heading": "Etkinlik Yönetimi Karmaşasına Son",
     "cards": [
       {
-        "card_title": "Dağınık Planlara Son",
-        "card_body": "WhatsApp'ta etkinlik oluşturmak için harici uygulamalara ihtiyaç duymadan, doğrudan uygulama içinden davetiye oluşturup RSVP takibi yapabilirsiniz."
+        "card_title": "Dağınık Planlar",
+        "card_body": "Farklı platformlar arasında etkinlik detaylarını paylaşmak ve katılımcı listesini yönetmek genellikle zorlayıcı olabiliyor."
       },
       {
-        "card_title": "WhatsApp Hesabı Şart Değil",
-        "card_body": "En büyük yenilik: WhatsApp hesabı olmayan kişiler bile etkinlik detaylarını görüntüleyebilir ve RSVP yapabilir."
+        "card_title": "Erişim Engeli",
+        "card_body": "WhatsApp hesabı olmayan kişileri etkinliklere dahil etmek, geçmişte uygulama zorunluluğu nedeniyle kısıtlıydı."
       }
     ]
   },
@@ -92,24 +95,28 @@
     "stat_quote": ""
   },
   "details": {
-    "heading": "Gizlilik ve Güvenlik Önlemleri",
+    "heading": "Uygulama Dışı Davetliler",
     "cards": [
       {
-        "card_title": "Numara Gizliliği",
-        "card_body": "Etkinlikteki tanınmayan misafirler, sizin telefon numaranızı göremez. Gizliliğiniz her zaman ön planda."
+        "card_title": "WhatsApp Dışı Erişim",
+        "card_body": "WhatsApp hesabı olmayan kişiler, uygulama indirmeden etkinlik detaylarını görüntüleyebilir ve RSVP yanıtı verebilir."
       },
       {
-        "card_title": "Adres Koruması",
-        "card_body": "WhatsApp hesabı olmayan misafirler, etkinlik adresini yalnızca RSVP yaptıktan sonra görüntüleyebilir."
+        "card_title": "Güvenlik Önlemi",
+        "card_body": "WhatsApp hesabı olmayan misafirler, etkinlik adresini yalnızca RSVP yanıtı verdikten sonra görebilir."
       }
     ]
   },
   "impact": {
-    "heading": "Etkinlik Takibi",
+    "heading": "Gizlilik ve Takip",
     "cards": [
       {
-        "card_title": "Geçmiş ve Gelecek",
-        "card_body": "Ayarlar menüsü altındaki 'Etkinlikler' bölümüne giderek, planladığınız tüm geçmiş ve gelecek etkinlikleri tek bir yerden yönetebilirsiniz."
+        "card_title": "Numara Gizliliği",
+        "card_body": "WhatsApp etkinliklerinde, tanınmayan misafirlere kullanıcının telefon numarası kesinlikle gösterilmez."
+      },
+      {
+        "card_title": "Etkinlik Arşivi",
+        "card_body": "Tüm geçmiş ve gelecek etkinliklerinizi Ayarlar menüsü altındaki 'Etkinlikler' sekmesinden kolayca takip edebilirsiniz."
       }
     ]
   },

@@ -7,12 +7,12 @@
     "Engadget",
     "Ars Technica"
   ],
-  "checked_at": "2026-11-05T18:13:20+03:00",
+  "checked_at": "2026-11-05T18:18:20+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "WhatsApp, kullanıcıların uygulama dışındaki kişileri de etkinliklere davet edebileceği yeni bir etkinlik planlama özelliği sunuyor.",
+      "claim": "WhatsApp, kullanıcıların uygulama dışındaki kişileri de etkinliklere davet edebileceği yeni bir özellik yayınlıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "claim": "WhatsApp'taki yeni etkinlik özelliği sayesinde, WhatsApp hesabı olmayan kişiler de etkinlik detaylarını görüntüleyip RSVP yapabiliyor.",
+      "claim": "WhatsApp'taki yeni Etkinlikler özelliği sayesinde, WhatsApp hesabı olmayan kişiler de uygulama indirmeden etkinlik detaylarını görebiliyor ve RSVP (katılım durumu) yanıtı verebiliyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -36,54 +36,74 @@
         {
           "url": "https://www.engadget.com/2307395/whatsapp-is-taking-on-partiful-with-expanded-events-feature/",
           "quote": "those individuals will still be able to see the details and RSVP without needing to create an account or use WhatsApp."
-        },
-        {
-          "url": "https://www.engadget.com/2307395/whatsapp-is-taking-on-partiful-with-expanded-events-feature/",
-          "quote": "Notably, a host will have the option to invite guests who aren't on WhatsApp; those individuals will still be able to see the details and RSVP without needing to create an account or use WhatsApp."
         }
       ]
     },
     {
-      "claim": "WhatsApp'taki yeni etkinlik oluşturma aracı, kapak fotoğrafı ekleme ve etkinlik bağlantısı paylaşma imkanı sunuyor.",
+      "claim": "WhatsApp'ta oluşturulan etkinliklere kapak fotoğrafı eklenebiliyor.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
+          "quote": "Create an event, add a cover photo, share the link"
+        },
+        {
+          "url": "https://www.engadget.com/2307395/whatsapp-is-taking-on-partiful-with-expanded-events-feature/",
+          "quote": "An event can be personalized with a header photo"
+        },
         {
           "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
           "quote": "Create an event, add a cover photo, share the link, and they can see details and RSVP without downloading the app."
         },
         {
           "url": "https://www.engadget.com/2307395/whatsapp-is-taking-on-partiful-with-expanded-events-feature/",
-          "quote": "An event can be personalized with a header photo"
+          "quote": "An event can be personalized with a header photo and custom reminders can be sent to guests."
         }
       ]
     },
     {
-      "claim": "WhatsApp'ta yeni kullanıma sunulan 'Events Home' (Etkinlikler Ana Sayfası) üzerinden davetiyeler özelleştirilebiliyor ve RSVP yönetimi yapılabiliyor.",
+      "claim": "Yeni Etkinlikler Ana Sayfası (Events Home) üzerinden özelleştirilmiş davetiyeler oluşturulabiliyor ve RSVP yanıtları yönetilebiliyor.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
           "quote": "We’re also introducing a new Events Home that will be your one-stop to create and send customized invites and manage RSVPs."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app",
+          "quote": "WhatsApp will let you manage your events through a new Events Home, where you can create and send invites, as well as manage RSVPs."
         }
       ]
     },
     {
-      "claim": "WhatsApp etkinliklerinde özel hatırlatıcılar oluşturma ve davetlilere artı bir kişi ekleme seçeneği bulunuyor.",
+      "claim": "Etkinlikler özelliğinde özel hatırlatıcılar kurma ve artı bir kişi (plus one) ekleme seçeneği bulunuyor.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
           "quote": "Keep everyone on the same page with custom reminders and the option to add a plus one."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app",
+          "quote": "You can use the new hub to send custom reminders and include an option for guests to add a plus-one."
         }
       ]
     },
     {
-      "claim": "WhatsApp'taki 'Ayarlar' menüsü altındaki 'Etkinlikler' bölümünden geçmiş ve gelecek tüm etkinlikler görüntülenebiliyor.",
+      "claim": "WhatsApp'taki tüm geçmiş ve gelecek etkinlikler Ayarlar menüsü altındaki Etkinlikler sekmesinden görüntülenebiliyor.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
+          "quote": "Navigate to Settings and select Events to see a complete list of past and upcoming events"
+        },
+        {
+          "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
           "quote": "Navigate to Settings and select Events to see a complete list of past and upcoming events, including the ones you’ve created or been invited to all in one place."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app",
+          "quote": "WhatsApp says you can view a complete list of past and upcoming events by navigating to your Settings menu and selecting Events."
         }
       ]
     },
@@ -94,23 +114,31 @@
         {
           "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
           "quote": "We built Event invites with privacy in mind: your phone number is not shown to guests you don’t know"
+        },
+        {
+          "url": "https://www.engadget.com/2307395/whatsapp-is-taking-on-partiful-with-expanded-events-feature/",
+          "quote": "On the privacy front, a host's phone number will not be shown to guests they do not know."
         }
       ]
     },
     {
-      "claim": "WhatsApp hesabı olmayan misafirler, etkinlik adresini yalnızca RSVP yaptıktan sonra görebiliyor.",
+      "claim": "WhatsApp hesabı olmayan misafirler, etkinlik adresini yalnızca RSVP yanıtı verdikten sonra görebiliyor.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
           "quote": "guests without a WhatsApp account will only see the event address after they RSVP."
+        },
+        {
+          "url": "https://www.engadget.com/2307395/whatsapp-is-taking-on-partiful-with-expanded-events-feature/",
+          "quote": "Also, guests without a WhatsApp account will not be able to see the event address until they RSVP."
         }
       ]
     }
   ],
   "round1": [
     {
-      "claim": "WhatsApp, kullanıcıların uygulama dışındaki kişileri de etkinliklere davet edebileceği yeni bir etkinlik planlama özelliği sunuyor.",
+      "claim": "WhatsApp, kullanıcıların uygulama dışındaki kişileri de etkinliklere davet edebileceği yeni bir özellik yayınlıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -124,7 +152,7 @@
       ]
     },
     {
-      "claim": "WhatsApp'taki yeni etkinlik özelliği sayesinde, WhatsApp hesabı olmayan kişiler de etkinlik detaylarını görüntüleyip RSVP yapabiliyor.",
+      "claim": "WhatsApp'taki yeni Etkinlikler özelliği sayesinde, WhatsApp hesabı olmayan kişiler de uygulama indirmeden etkinlik detaylarını görebiliyor ve RSVP (katılım durumu) yanıtı verebiliyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -134,54 +162,74 @@
         {
           "url": "https://www.engadget.com/2307395/whatsapp-is-taking-on-partiful-with-expanded-events-feature/",
           "quote": "those individuals will still be able to see the details and RSVP without needing to create an account or use WhatsApp."
-        },
-        {
-          "url": "https://www.engadget.com/2307395/whatsapp-is-taking-on-partiful-with-expanded-events-feature/",
-          "quote": "Notably, a host will have the option to invite guests who aren't on WhatsApp; those individuals will still be able to see the details and RSVP without needing to create an account or use WhatsApp."
         }
       ]
     },
     {
-      "claim": "WhatsApp'taki yeni etkinlik oluşturma aracı, kapak fotoğrafı ekleme ve etkinlik bağlantısı paylaşma imkanı sunuyor.",
+      "claim": "WhatsApp'ta oluşturulan etkinliklere kapak fotoğrafı eklenebiliyor.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
+          "quote": "Create an event, add a cover photo, share the link"
+        },
+        {
+          "url": "https://www.engadget.com/2307395/whatsapp-is-taking-on-partiful-with-expanded-events-feature/",
+          "quote": "An event can be personalized with a header photo"
+        },
         {
           "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
           "quote": "Create an event, add a cover photo, share the link, and they can see details and RSVP without downloading the app."
         },
         {
           "url": "https://www.engadget.com/2307395/whatsapp-is-taking-on-partiful-with-expanded-events-feature/",
-          "quote": "An event can be personalized with a header photo"
+          "quote": "An event can be personalized with a header photo and custom reminders can be sent to guests."
         }
       ]
     },
     {
-      "claim": "WhatsApp'ta yeni kullanıma sunulan 'Events Home' (Etkinlikler Ana Sayfası) üzerinden davetiyeler özelleştirilebiliyor ve RSVP yönetimi yapılabiliyor.",
+      "claim": "Yeni Etkinlikler Ana Sayfası (Events Home) üzerinden özelleştirilmiş davetiyeler oluşturulabiliyor ve RSVP yanıtları yönetilebiliyor.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
           "quote": "We’re also introducing a new Events Home that will be your one-stop to create and send customized invites and manage RSVPs."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app",
+          "quote": "WhatsApp will let you manage your events through a new Events Home, where you can create and send invites, as well as manage RSVPs."
         }
       ]
     },
     {
-      "claim": "WhatsApp etkinliklerinde özel hatırlatıcılar oluşturma ve davetlilere artı bir kişi ekleme seçeneği bulunuyor.",
+      "claim": "Etkinlikler özelliğinde özel hatırlatıcılar kurma ve artı bir kişi (plus one) ekleme seçeneği bulunuyor.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
           "quote": "Keep everyone on the same page with custom reminders and the option to add a plus one."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app",
+          "quote": "You can use the new hub to send custom reminders and include an option for guests to add a plus-one."
         }
       ]
     },
     {
-      "claim": "WhatsApp'taki 'Ayarlar' menüsü altındaki 'Etkinlikler' bölümünden geçmiş ve gelecek tüm etkinlikler görüntülenebiliyor.",
+      "claim": "WhatsApp'taki tüm geçmiş ve gelecek etkinlikler Ayarlar menüsü altındaki Etkinlikler sekmesinden görüntülenebiliyor.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
+          "quote": "Navigate to Settings and select Events to see a complete list of past and upcoming events"
+        },
+        {
+          "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
           "quote": "Navigate to Settings and select Events to see a complete list of past and upcoming events, including the ones you’ve created or been invited to all in one place."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app",
+          "quote": "WhatsApp says you can view a complete list of past and upcoming events by navigating to your Settings menu and selecting Events."
         }
       ]
     },
@@ -192,23 +240,31 @@
         {
           "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
           "quote": "We built Event invites with privacy in mind: your phone number is not shown to guests you don’t know"
+        },
+        {
+          "url": "https://www.engadget.com/2307395/whatsapp-is-taking-on-partiful-with-expanded-events-feature/",
+          "quote": "On the privacy front, a host's phone number will not be shown to guests they do not know."
         }
       ]
     },
     {
-      "claim": "WhatsApp hesabı olmayan misafirler, etkinlik adresini yalnızca RSVP yaptıktan sonra görebiliyor.",
+      "claim": "WhatsApp hesabı olmayan misafirler, etkinlik adresini yalnızca RSVP yanıtı verdikten sonra görebiliyor.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
           "quote": "guests without a WhatsApp account will only see the event address after they RSVP."
+        },
+        {
+          "url": "https://www.engadget.com/2307395/whatsapp-is-taking-on-partiful-with-expanded-events-feature/",
+          "quote": "Also, guests without a WhatsApp account will not be able to see the event address until they RSVP."
         }
       ]
     }
   ],
   "round2": [
     {
-      "claim": "WhatsApp, kullanıcıların uygulama dışındaki kişileri de etkinliklere davet edebileceği yeni bir etkinlik planlama özelliği sunuyor.",
+      "claim": "WhatsApp, kullanıcıların uygulama dışındaki kişileri de etkinliklere davet edebileceği yeni bir özellik yayınlıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -222,7 +278,7 @@
       ]
     },
     {
-      "claim": "WhatsApp'taki yeni etkinlik özelliği sayesinde, WhatsApp hesabı olmayan kişiler de etkinlik detaylarını görüntüleyip RSVP yapabiliyor.",
+      "claim": "WhatsApp'taki yeni Etkinlikler özelliği sayesinde, WhatsApp hesabı olmayan kişiler de uygulama indirmeden etkinlik detaylarını görebiliyor ve RSVP (katılım durumu) yanıtı verebiliyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -232,54 +288,74 @@
         {
           "url": "https://www.engadget.com/2307395/whatsapp-is-taking-on-partiful-with-expanded-events-feature/",
           "quote": "those individuals will still be able to see the details and RSVP without needing to create an account or use WhatsApp."
-        },
-        {
-          "url": "https://www.engadget.com/2307395/whatsapp-is-taking-on-partiful-with-expanded-events-feature/",
-          "quote": "Notably, a host will have the option to invite guests who aren't on WhatsApp; those individuals will still be able to see the details and RSVP without needing to create an account or use WhatsApp."
         }
       ]
     },
     {
-      "claim": "WhatsApp'taki yeni etkinlik oluşturma aracı, kapak fotoğrafı ekleme ve etkinlik bağlantısı paylaşma imkanı sunuyor.",
+      "claim": "WhatsApp'ta oluşturulan etkinliklere kapak fotoğrafı eklenebiliyor.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
+          "quote": "Create an event, add a cover photo, share the link"
+        },
+        {
+          "url": "https://www.engadget.com/2307395/whatsapp-is-taking-on-partiful-with-expanded-events-feature/",
+          "quote": "An event can be personalized with a header photo"
+        },
         {
           "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
           "quote": "Create an event, add a cover photo, share the link, and they can see details and RSVP without downloading the app."
         },
         {
           "url": "https://www.engadget.com/2307395/whatsapp-is-taking-on-partiful-with-expanded-events-feature/",
-          "quote": "An event can be personalized with a header photo"
+          "quote": "An event can be personalized with a header photo and custom reminders can be sent to guests."
         }
       ]
     },
     {
-      "claim": "WhatsApp'ta yeni kullanıma sunulan 'Events Home' (Etkinlikler Ana Sayfası) üzerinden davetiyeler özelleştirilebiliyor ve RSVP yönetimi yapılabiliyor.",
+      "claim": "Yeni Etkinlikler Ana Sayfası (Events Home) üzerinden özelleştirilmiş davetiyeler oluşturulabiliyor ve RSVP yanıtları yönetilebiliyor.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
           "quote": "We’re also introducing a new Events Home that will be your one-stop to create and send customized invites and manage RSVPs."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app",
+          "quote": "WhatsApp will let you manage your events through a new Events Home, where you can create and send invites, as well as manage RSVPs."
         }
       ]
     },
     {
-      "claim": "WhatsApp etkinliklerinde özel hatırlatıcılar oluşturma ve davetlilere artı bir kişi ekleme seçeneği bulunuyor.",
+      "claim": "Etkinlikler özelliğinde özel hatırlatıcılar kurma ve artı bir kişi (plus one) ekleme seçeneği bulunuyor.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
           "quote": "Keep everyone on the same page with custom reminders and the option to add a plus one."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app",
+          "quote": "You can use the new hub to send custom reminders and include an option for guests to add a plus-one."
         }
       ]
     },
     {
-      "claim": "WhatsApp'taki 'Ayarlar' menüsü altındaki 'Etkinlikler' bölümünden geçmiş ve gelecek tüm etkinlikler görüntülenebiliyor.",
+      "claim": "WhatsApp'taki tüm geçmiş ve gelecek etkinlikler Ayarlar menüsü altındaki Etkinlikler sekmesinden görüntülenebiliyor.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
+          "quote": "Navigate to Settings and select Events to see a complete list of past and upcoming events"
+        },
+        {
+          "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
           "quote": "Navigate to Settings and select Events to see a complete list of past and upcoming events, including the ones you’ve created or been invited to all in one place."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app",
+          "quote": "WhatsApp says you can view a complete list of past and upcoming events by navigating to your Settings menu and selecting Events."
         }
       ]
     },
@@ -290,16 +366,24 @@
         {
           "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
           "quote": "We built Event invites with privacy in mind: your phone number is not shown to guests you don’t know"
+        },
+        {
+          "url": "https://www.engadget.com/2307395/whatsapp-is-taking-on-partiful-with-expanded-events-feature/",
+          "quote": "On the privacy front, a host's phone number will not be shown to guests they do not know."
         }
       ]
     },
     {
-      "claim": "WhatsApp hesabı olmayan misafirler, etkinlik adresini yalnızca RSVP yaptıktan sonra görebiliyor.",
+      "claim": "WhatsApp hesabı olmayan misafirler, etkinlik adresini yalnızca RSVP yanıtı verdikten sonra görebiliyor.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
           "quote": "guests without a WhatsApp account will only see the event address after they RSVP."
+        },
+        {
+          "url": "https://www.engadget.com/2307395/whatsapp-is-taking-on-partiful-with-expanded-events-feature/",
+          "quote": "Also, guests without a WhatsApp account will not be able to see the event address until they RSVP."
         }
       ]
     }
