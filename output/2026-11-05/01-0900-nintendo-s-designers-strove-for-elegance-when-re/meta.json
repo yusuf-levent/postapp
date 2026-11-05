@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 95.5,
+  "candidates_tried": 1,
+  "gemini_calls": 14,
+  "canonical_url": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
+  "generated_at": "2026-11-05T08:43:41+03:00"
+}
