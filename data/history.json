@@ -4493,5 +4493,80 @@
     ],
     "created_at": "2026-11-04T23:00:42+03:00",
     "verified_claims_count": 2
+  },
+  {
+    "id": "2026-11-05-0900",
+    "date": "2026-11-05",
+    "slot": "09:00",
+    "type": "news",
+    "title_tr": "Ocarina of Time Yeniden Yapımı Yolda",
+    "original_title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time",
+    "source_urls": [
+      "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi"
+    ],
+    "canonical_url": "https://theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
+    "entities": [
+      "Nintendo",
+      "Ocarina of Time",
+      "Switch 2",
+      "N64",
+      "Eiji Aonuma",
+      "Hidemaro Fujibayashi",
+      "Breath of the Wild"
+    ],
+    "event_type": "product_announcement",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6aec179480f7fd0537f15765",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6aec17953ddb81d22108fa74",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6aec17ad7877e0eab278c864",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2118217806390948179",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18230577982327136",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfWT1voFH6k",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6aec17cd660b2991f1544540",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6aec17e475052a1eb821c3e9",
+        "permalink": "https://facebook.com/1351036918092059_122121142047484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-11-05T08:45:22+03:00",
+    "verified_claims_count": 8
   }
 ]
