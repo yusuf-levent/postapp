@@ -1,0 +1,7 @@
+URL: https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/
+Erişim zamanı: 2026-11-05T20:47:30+03:00
+
+We're sharing our framework for building safer and more helpful AI for health.
+Many of us have turned to AI with a health question or received care from a doctor who’s using it. The adoption of technology for health is accelerating and impacts billions of people every day. But how can we assess if these tools are safe and helpful?
+In partnership with health experts Dr. Elizabeth McGlynn and Dr. Dana Gelb Safran, we published a whitepaper detailing an end-to-end evaluation approach to assess AI use cases for addressing people’s health needs. The framework evaluates models across three areas: accuracy, safety, and usefulness. It combines closed-question benchmarks, autoraters, and expert human review to assess common and high-risk health scenarios.
+We built and continue to utilize this framework to assess whether our models provide useful, accurate responses that promote safe interactions in health contexts. By sharing our methodology, we hope to promote transparency in how we approach this important area, and seek to support the entire health ecosystem — from developers to researchers to clinicians — in building AI tools people can trust.
