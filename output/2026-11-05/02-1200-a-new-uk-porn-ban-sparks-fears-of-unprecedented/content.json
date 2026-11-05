@@ -1,0 +1,70 @@
+{
+  "cover": {
+    "category_label": "DİJİTAL HUKUK VE GÜVENLİK",
+    "title": "Birleşik Krallık'ta Yeni Pornografi Yasası",
+    "highlight_words": [
+      "Yeni",
+      "Pornografi",
+      "Yasası"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "6 Kasım itibarıyla yürürlüğe giren düzenlemeler neleri değiştiriyor?",
+    "source_tags": [
+      "WIRED",
+      "BBC NEWS"
+    ]
+  },
+  "context": {
+    "heading": "Yasal Düzenlemenin Kapsamı",
+    "cards": [
+      {
+        "card_title": "Yasaklanan İçerikler",
+        "card_body": "Yeni yasa, boğulma veya nefessiz bırakma içeren pornografik görüntülerin bulundurulmasını ve yayınlanmasını yasaklıyor."
+      },
+      {
+        "card_title": "Fauxcest Kısıtlaması",
+        "card_body": "Düzenleme, kan bağı olmayan aile üyeleri arasındaki simüle edilmiş cinsel ilişkileri konu alan 'fauxcest' türünü de hedef alıyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "5 YIL",
+    "stat_caption": "Yasaklı içeriği dağıtan veya bulunduran kişilere verilebilecek hapis cezası üst sınırı.",
+    "stat_quote": "Ofcom, yaş doğrulama kurallarına uymayan sitelere dünya çapındaki gelirlerinin yüzde 10'una kadar para cezası kesebiliyor."
+  },
+  "details": {
+    "heading": "Süreç ve Hazırlıklar",
+    "cards": [
+      {
+        "card_title": "Yasal Dayanak",
+        "card_body": "Düzenlemeler, Muhafazakar Parti'den Lordlar Kamarası üyesi Baroness Gabby Bertin tarafından hazırlanan pornografi incelemesine dayanıyor."
+      },
+      {
+        "card_title": "Platform Hamleleri",
+        "card_body": "IWantClips, yasa öncesinde 'breast smothering' ve 'ass smothering' gibi kategorileri yasaklayan yeni kurallarını duyurdu."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Yansımalar",
+    "cards": [
+      {
+        "card_title": "Platform Sorumluluğu",
+        "card_body": "ABD'deki 1996 tarihli İletişim Ahlakı Yasası'nın 230. Bölümü platformları muaf tutarken, Birleşik Krallık'ta kurallar sıkılaşıyor."
+      },
+      {
+        "card_title": "Merkez Etkisi",
+        "card_body": "OnlyFans'in ana şirketi Fenix International Limited'in Birleşik Krallık merkezli olması, bu düzenlemelerin önemini artırıyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce dijital platformlarda içerik denetimi konusunda devletlerin müdahalesi ne kadar etkili olmalı?",
+    "reminder_line": "Teknoloji dünyasındaki yasal gelişmeleri takip etmek için bizi izlemeye devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

@@ -1,0 +1,10 @@
+{
+  "slot": "12:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 226.4,
+  "candidates_tried": 1,
+  "gemini_calls": 17,
+  "canonical_url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
+  "generated_at": "2026-11-05T11:45:22+03:00"
+}
