@@ -1,5 +1,5 @@
 URL: https://www.theverge.com/news/1027379/discord-ditching-electron-web-app
-Erişim zamanı: 2026-11-05T14:43:43+03:00
+Erişim zamanı: 2026-11-05T14:47:43+03:00
 
 Discord is finally giving up on Electron, the cross-platform framework that lets developers build desktop apps using web technologies. Electron web apps are notoriously heavy on system resources, and Discord is now moving its desktop app fully to Rust — a modern programming language designed for speed and memory safety.
 Discord is ditching Electron and its new app uses less RAM

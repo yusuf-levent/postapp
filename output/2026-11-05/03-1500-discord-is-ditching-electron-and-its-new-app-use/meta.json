@@ -2,9 +2,9 @@
   "slot": "15:00",
   "type": "news",
   "model": "gemini-3.1-flash-lite",
-  "duration_seconds": 215.3,
+  "duration_seconds": 108.4,
   "candidates_tried": 1,
-  "gemini_calls": 18,
+  "gemini_calls": 17,
   "canonical_url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
-  "generated_at": "2026-11-05T14:45:03+03:00"
+  "generated_at": "2026-11-05T14:48:39+03:00"
 }
