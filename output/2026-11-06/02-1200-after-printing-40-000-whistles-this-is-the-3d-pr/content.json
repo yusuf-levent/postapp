@@ -1,50 +1,46 @@
 {
   "cover": {
-    "category_label": "3D YAZICI DÜNYASI",
-    "title": "Bambu P2S Combo: Yeni Bir Standart mı?",
+    "category_label": "DONANIM İNCELEME",
+    "title": "Bambu Lab P2S Combo İncelemesi: İndirimli Fırsat",
     "highlight_words": [
-      "Bambu P2S",
-      "Standart"
+      "İndirimli",
+      "Fırsat"
     ],
-    "highlight_color": "cyan",
-    "subtitle": "3D yazıcı dünyasında fiyat ve performans dengesi değişiyor. İşte detaylar.",
+    "highlight_color": "yellow",
+    "subtitle": "1 Aralık tarihine kadar sürecek indirimler ve uzun süreli test sonuçları.",
     "source_tags": [
       "THE VERGE",
       "WIRED"
     ]
   },
   "context": {
-    "heading": "Piyasada Neler Oluyor?",
+    "heading": "Test Süreci ve Veriler",
     "cards": [
       {
-        "card_title": "Fiyatlandırma Detayları",
-        "card_body": "Bambu P2S Combo, 1 Aralık'a kadar 649 dolardan satışta. Normal fiyatı ise 749 dolar seviyesinde."
+        "card_title": "Toplam Baskı Süresi",
+        "card_body": "Yazar, test süreci boyunca dört farklı yazıcı kullanarak toplam 6.770 saatlik baskı gerçekleştirmiştir."
       },
       {
-        "card_title": "Rekabetçi Alternatifler",
-        "card_body": "Piyasada Elegoo Centauri Carbon 2 Combo 369 dolara, Bambu P1S Combo ise 509 dolara bulunabiliyor."
+        "card_title": "Cihaz Bazlı Süreler",
+        "card_body": "Centauri Carbon 2 ile 939 saat, Centauri Carbon ile 1.271 saatlik baskı sürelerine ulaşılmıştır."
       }
     ]
   },
   "stat": {
-    "big_stat": "6.770 Saat",
-    "stat_caption": "Yazarın dört farklı yazıcıda gerçekleştirdiği toplam baskı süresi.",
-    "stat_quote": "Bu süreçte toplam 40.000 adet düdük baskısı başarıyla tamamlandı."
+    "big_stat": "649 Dolar",
+    "stat_caption": "Bambu Lab P2S Combo modelinin 1 Aralık tarihine kadar geçerli indirimli satış fiyatı.",
+    "stat_quote": "Bambu P1S Combo modelinin indirimli satış fiyatı ise 509 dolar olarak belirlenmiş durumda."
   },
   "details": {
-    "heading": "Kullanım ve Bakım Notları",
+    "heading": "Bakım ve Maliyet Analizi",
     "cards": [
       {
-        "card_title": "Bambu P2S Bakımı",
-        "card_body": "1.692 saatlik baskı süresinde nozul iki kez değiştirildi. Aletsiz değiştirilebilen sıcak ucun (hotend) fiyatı 18 dolar."
+        "card_title": "Nozül Değişimi",
+        "card_body": "Bambu P2S yazıcı ile 1.692 saatlik baskı süresi boyunca toplam iki kez nozül değişimi yapılmıştır."
       },
       {
-        "card_title": "Elegoo Yazıcı Maliyetleri",
-        "card_body": "Elegoo cihazlarda sekiz adet nozul 25 dolara, tüm sıcak uç (hotend) ise 30 dolara mal oluyor."
-      },
-      {
-        "card_title": "Uzun Süreli Testler",
-        "card_body": "Yazar, Centauri Carbon ile 1.271 saat, Centauri Carbon 2 ile 939 saat ve P1P modeliyle yaklaşık 3.000 saat baskı yaptı."
+        "card_title": "Parça Maliyeti",
+        "card_body": "Bambu P2S yazıcının hotend parçasının değişim maliyeti 18 dolar seviyesindedir."
       }
     ]
   },
@@ -52,18 +48,18 @@
     "heading": "Kullanıcıya Etkisi",
     "cards": [
       {
-        "card_title": "Bakım Kolaylığı",
-        "card_body": "Bambu P2S modelindeki aletsiz değiştirilebilir sıcak uç tasarımı, bakım süreçlerini daha pratik hale getiriyor."
+        "card_title": "Sektörel Erişilebilirlik",
+        "card_body": "İndirim dönemleri, yüksek performanslı 3D yazıcılara erişimi kolaylaştırarak kullanıcı maliyetlerini düşürüyor."
       },
       {
-        "card_title": "Maliyet Yönetimi",
-        "card_body": "Yedek parça fiyatları ve yazıcıların ilk alım maliyetleri, uzun vadeli kullanımda bütçeyi doğrudan etkiliyor."
+        "card_title": "Bakım Kolaylığı",
+        "card_body": "Düşük parça değişim maliyetleri, uzun süreli kullanımlarda kullanıcı bütçesini koruyan önemli bir faktör."
       }
     ]
   },
   "cta": {
-    "question": "Sizce 3D yazıcı seçiminde en kritik kriter hangisi: İlk satın alma maliyeti mi, yoksa yedek parça fiyatları mı?",
-    "reminder_line": "Tekno Pusula'yı takip et, teknoloji dünyasından geri kalma."
+    "question": "Sizce 3D yazıcı alırken en önemli kriter performans mı yoksa bakım maliyeti mi?",
+    "reminder_line": "Bambu Lab indirimleri için son tarih 1 Aralık, takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
