@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ DÜNYASI",
+    "title": "Teknoloji Piyasalarında Büyük Kayıp",
+    "highlight_words": [
+      "Büyük",
+      "Kayıp"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Piyasalardaki son gelişmeler ve teknoloji hisselerindeki düşüşler.",
+    "source_tags": [
+      "THE VERGE",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Piyasalarda Neler Yaşanıyor?",
+    "cards": [
+      {
+        "card_title": "Hisse Kayıpları",
+        "card_body": "Teknoloji hisselerinden yaklaşık 2,5 trilyon dolar silindiği bildirildi."
+      },
+      {
+        "card_title": "Muhteşem Yedi",
+        "card_body": "Muhteşem Yedi olarak bilinen şirketler 1 trilyon dolardan fazla kaybetti."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "2,5 TRİLYON",
+    "stat_caption": "Teknoloji hisselerinden silinen toplam miktar.",
+    "stat_quote": "Piyasalardaki bu düşüş dikkat çekiyor."
+  },
+  "details": {
+    "heading": "Şirketler ve Projeler",
+    "cards": [
+      {
+        "card_title": "Tesla ve SpaceX",
+        "card_body": "Tesla ve SpaceX toplamda 420 milyar dolardan fazla kaybetti."
+      },
+      {
+        "card_title": "NASA'nın Yeni Aracı",
+        "card_body": "NASA, X-70 adlı yeni deneysel hava aracını tanıttı ve aracın iki yıl içinde uçması bekleniyor."
+      },
+      {
+        "card_title": "Tesla Üretim Planı",
+        "card_body": "Tesla, gelecek yıl Teksas'taki Cybertruck üretimini sonlandırmayı planlıyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Ekonomik ve Sektörel Etkiler",
+    "cards": [
+      {
+        "card_title": "Sağlık ve Ekonomi",
+        "card_body": "Covid aşılarının ekonomik faydalarının değeri 64 trilyon dolara kadar ulaşıyor."
+      },
+      {
+        "card_title": "Uygulama Gelişmeleri",
+        "card_body": "RunPee uygulamasının 7.000 kullanıcısı You Can See Everything için kayıt yaptırdı."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Piyasalar toparlanabilecek mi?",
+    "reminder_line": "Tekno Pusula ile en güncel teknoloji gelişmelerinden haberdar olun."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
