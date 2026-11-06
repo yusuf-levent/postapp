@@ -6,7 +6,7 @@
     "Ars Technica",
     "Google Blog"
   ],
-  "checked_at": "2026-11-06T13:18:05+03:00",
+  "checked_at": "2026-11-06T13:27:40+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "claim": "The robots are currently piloted remotely by humans watching via cameras mounted in the robots' heads and wrists.",
+      "claim": "The robots are piloted remotely by humans who watch via cameras mounted in the robots' heads and wrists.",
       "verdict": "supported",
       "evidence": [
         {
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "claim": "Tau initially offered $30 for an hourlong cleaning with a single robot.",
+      "claim": "Tau offered $30 for an hourlong cleaning with a single robot at the time of booking.",
       "verdict": "supported",
       "evidence": [
         {
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "claim": "Each robot stands four-and-a-half feet tall and is equipped with a 3D-printed head and claw hands.",
+      "claim": "Each Tau robot is four and a half feet tall and equipped with a 3D-printed head with antennae and two 3D-printed claw hands.",
       "verdict": "supported",
       "evidence": [
         {
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "claim": "According to cofounder Cornelia Weinzierl, the robot can already complete tasks like vacuuming and mopping without human help.",
+      "claim": "According to cofounder Cornelia Weinzierl, the robot can already complete tasks such as vacuuming and mopping without human help.",
       "verdict": "supported",
       "evidence": [
         {
@@ -71,16 +71,12 @@
       ]
     },
     {
-      "claim": "The robot arrived at the author's building in a blue minivan.",
+      "claim": "The robot arrived at the author's building in a blue minivan, accompanied by Cornelia Weinzierl and another Tau employee.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
           "quote": "It arrived in a blue minivan, out of which it was helped by Weinzierl and another Tau employee."
-        },
-        {
-          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-          "quote": "The cleaning robot that came to my building last month was already a bit of a spectacle. It arrived in a blue minivan, out of which it was helped by Weinzierl and another Tau employee."
         }
       ]
     },
@@ -88,10 +84,6 @@
       "claim": "Tau Robotics has completed only a couple hundred cleanings so far.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-          "quote": "and the company has completed only a couple hundred cleanings so far."
-        },
         {
           "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
           "quote": "the company has completed only a couple hundred cleanings so far."
@@ -111,7 +103,7 @@
       ]
     },
     {
-      "claim": "The robots are currently piloted remotely by humans watching via cameras mounted in the robots' heads and wrists.",
+      "claim": "The robots are piloted remotely by humans who watch via cameras mounted in the robots' heads and wrists.",
       "verdict": "supported",
       "evidence": [
         {
@@ -121,7 +113,7 @@
       ]
     },
     {
-      "claim": "Tau initially offered $30 for an hourlong cleaning with a single robot.",
+      "claim": "Tau offered $30 for an hourlong cleaning with a single robot at the time of booking.",
       "verdict": "supported",
       "evidence": [
         {
@@ -141,7 +133,7 @@
       ]
     },
     {
-      "claim": "Each robot stands four-and-a-half feet tall and is equipped with a 3D-printed head and claw hands.",
+      "claim": "Each Tau robot is four and a half feet tall and equipped with a 3D-printed head with antennae and two 3D-printed claw hands.",
       "verdict": "supported",
       "evidence": [
         {
@@ -151,7 +143,7 @@
       ]
     },
     {
-      "claim": "According to cofounder Cornelia Weinzierl, the robot can already complete tasks like vacuuming and mopping without human help.",
+      "claim": "According to cofounder Cornelia Weinzierl, the robot can already complete tasks such as vacuuming and mopping without human help.",
       "verdict": "supported",
       "evidence": [
         {
@@ -161,16 +153,12 @@
       ]
     },
     {
-      "claim": "The robot arrived at the author's building in a blue minivan.",
+      "claim": "The robot arrived at the author's building in a blue minivan, accompanied by Cornelia Weinzierl and another Tau employee.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
           "quote": "It arrived in a blue minivan, out of which it was helped by Weinzierl and another Tau employee."
-        },
-        {
-          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-          "quote": "The cleaning robot that came to my building last month was already a bit of a spectacle. It arrived in a blue minivan, out of which it was helped by Weinzierl and another Tau employee."
         }
       ]
     },
@@ -178,10 +166,6 @@
       "claim": "Tau Robotics has completed only a couple hundred cleanings so far.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-          "quote": "and the company has completed only a couple hundred cleanings so far."
-        },
         {
           "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
           "quote": "the company has completed only a couple hundred cleanings so far."
@@ -201,7 +185,7 @@
       ]
     },
     {
-      "claim": "The robots are currently piloted remotely by humans watching via cameras mounted in the robots' heads and wrists.",
+      "claim": "The robots are piloted remotely by humans who watch via cameras mounted in the robots' heads and wrists.",
       "verdict": "supported",
       "evidence": [
         {
@@ -211,7 +195,7 @@
       ]
     },
     {
-      "claim": "Tau initially offered $30 for an hourlong cleaning with a single robot.",
+      "claim": "Tau offered $30 for an hourlong cleaning with a single robot at the time of booking.",
       "verdict": "supported",
       "evidence": [
         {
@@ -231,7 +215,7 @@
       ]
     },
     {
-      "claim": "Each robot stands four-and-a-half feet tall and is equipped with a 3D-printed head and claw hands.",
+      "claim": "Each Tau robot is four and a half feet tall and equipped with a 3D-printed head with antennae and two 3D-printed claw hands.",
       "verdict": "supported",
       "evidence": [
         {
@@ -241,7 +225,7 @@
       ]
     },
     {
-      "claim": "According to cofounder Cornelia Weinzierl, the robot can already complete tasks like vacuuming and mopping without human help.",
+      "claim": "According to cofounder Cornelia Weinzierl, the robot can already complete tasks such as vacuuming and mopping without human help.",
       "verdict": "supported",
       "evidence": [
         {
@@ -251,16 +235,12 @@
       ]
     },
     {
-      "claim": "The robot arrived at the author's building in a blue minivan.",
+      "claim": "The robot arrived at the author's building in a blue minivan, accompanied by Cornelia Weinzierl and another Tau employee.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
           "quote": "It arrived in a blue minivan, out of which it was helped by Weinzierl and another Tau employee."
-        },
-        {
-          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-          "quote": "The cleaning robot that came to my building last month was already a bit of a spectacle. It arrived in a blue minivan, out of which it was helped by Weinzierl and another Tau employee."
         }
       ]
     },
@@ -268,10 +248,6 @@
       "claim": "Tau Robotics has completed only a couple hundred cleanings so far.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-          "quote": "and the company has completed only a couple hundred cleanings so far."
-        },
         {
           "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
           "quote": "the company has completed only a couple hundred cleanings so far."
