@@ -1,65 +1,69 @@
 {
   "cover": {
-    "category_label": "YAPAY ZEKA VE DONANIM",
-    "title": "Underdog'dan 32MB'lık Devrim: Woof Modeli",
+    "category_label": "YAPAY ZEKA",
+    "title": "Sadece 32MB Boyutunda Yeni Ses Modeli: Woof",
     "highlight_words": [
-      "32MB",
-      "Woof"
+      "Woof",
+      "32MB"
     ],
-    "highlight_color": "cyan",
-    "subtitle": "Cihaz üzerinde çalışan kompakt yapay zeka modelleri dönemi başlıyor.",
+    "highlight_color": "yellow",
+    "subtitle": "Underdog tarafından geliştirilen yeni ses modeli internet bağlantısı gerektirmiyor.",
     "source_tags": [
       "TECHCRUNCH",
       "WIRED"
     ]
   },
   "context": {
-    "heading": "Underdog'un Yeni Hamlesi",
+    "heading": "Küçük Boyut, Büyük Yetenek",
     "cards": [
       {
-        "card_title": "Woof Modeli Nedir?",
-        "card_body": "Underdog tarafından yayınlanan, sadece 32MB boyutunda ve 31 milyon parametreye sahip yeni bir ses modeli."
+        "card_title": "Woof Modeli",
+        "card_body": "Underdog, yalnızca 32MB boyutunda olan ve 31 milyon parametreye sahip Woof adlı yeni bir ses modeli geliştirdi."
       },
       {
-        "card_title": "Erişilebilirlik",
-        "card_body": "Bu kompakt model, herkesin kullanımına ve indirmesine açık şekilde yayınlandı."
+        "card_title": "Oyun Deneyimi",
+        "card_body": "Geliştirilen bu yeni ses modeli ile birlikte bir oyun da yayınlandı."
       }
     ]
   },
   "stat": {
-    "big_stat": "31 MİLYON",
-    "stat_caption": "Woof modelinin sahip olduğu parametre sayısı.",
-    "stat_quote": "Kullanıcıların verilerine sahip olmasını sağlayan ve cihazlarında çalışabilen yapay zeka modelleri inşa etmek istiyoruz. - Sigil Wen, Underdog Kurucusu"
+    "big_stat": "32 MB",
+    "stat_caption": "İnternet bağlantısına ihtiyaç duymadan çoğu cihazda çalışabilen ses modelinin boyutu.",
+    "stat_quote": "Kullanıcıların verilerine sahip olabilmesi için cihazlarında çalışabilen AI modelleri geliştirilmek isteniyor."
   },
   "details": {
-    "heading": "Underdog'un Teknoloji Portföyü",
+    "heading": "Teknik Detaylar",
     "cards": [
       {
-        "card_title": "Bark Modeli",
-        "card_body": "Haftalar önce yayınlanan, uç cihazlarda çalışmak üzere tasarlanmış 167 MB boyutunda konuşmadan metne modeli."
+        "card_title": "Herkesin Erişimine Açık",
+        "card_body": "31 milyon parametreye sahip olan Woof modeli, herkesin indirmesine açık durumda."
       },
       {
-        "card_title": "Büyük Ölçekli Modeller",
-        "card_body": "Şirket, sadece küçük modellerle sınırlı kalmayıp dizüstü bilgisayarlarda çalışabilen 27 milyar parametrelik bir model de sundu."
+        "card_title": "Çevrimdışı Çalışma",
+        "card_body": "Model, internet bağlantısına ihtiyaç duymadan çoğu cihazda sorunsuz çalışabiliyor."
+      },
+      {
+        "card_title": "Diğer Projeler",
+        "card_body": "Underdog haftalar önce 167 MB boyutunda Bark modelini ve dizüstü bilgisayarlarda çalışabilen 27 milyar parametrelik bir model yayınlamıştı."
       }
     ]
   },
   "impact": {
-    "heading": "Kullanıcı ve Sektör Etkisi",
+    "heading": "Sektör ve Kullanıcı Etkisi",
     "cards": [
       {
         "card_title": "Veri Gizliliği",
-        "card_body": "Modellerin cihaz üzerinde çalışması, kullanıcı verilerinin buluta gönderilmeden işlenmesine olanak tanıyor."
+        "card_body": "Cihazlarda çalışabilen yapay zeka modelleri sayesinde kullanıcılar kendi verilerine sahip olabiliyor."
       },
       {
-        "card_title": "Donanım Verimliliği",
-        "card_body": "Düşük boyutlu modeller, yüksek donanım gücü gerektirmeden yapay zeka özelliklerinin yaygınlaşmasını sağlıyor."
+        "card_title": "Taşınabilirlik",
+        "card_body": "Küçük boyutlu modeller sayesinde yapay zeka araçları internet bağımlılığı olmadan her yerde kullanılabiliyor."
       }
     ]
   },
   "cta": {
-    "question": "Yapay zeka modellerinin bulut yerine doğrudan cihazınızda çalışması sizin için ne kadar önemli?",
-    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeler için Tekno Pusula'yı takipte kalın."
+    "question": "Sizce gelecekte tüm yapay zeka modelleri tamamen cihaz üzerinde mi çalışacak?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
