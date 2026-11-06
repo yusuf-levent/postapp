@@ -1,0 +1,277 @@
+{
+  "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+  "canonical_url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+  "source_names": [
+    "BBC News – Technology",
+    "Wired",
+    "The Verge",
+    "Engadget"
+  ],
+  "checked_at": "2026-11-06T08:41:54+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Nasdaq composite index, Dow Jones verilerine göre yüzde 5,5'ten fazla düşüşle kapanarak tahmini 2,5 trilyon dolar piyasa değeri kaybetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "The tech-heavy Nasdaq composite index closed down by more than 5.5%, losing an estimated $2.5tn (Â£1.9tn) in market value, according to Dow Jones data"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "The tech-heavy Nasdaq composite index closed down by more than 5.5%, losing an estimated $2.5tn (£1.9tn) in market value, according to Dow Jones data"
+        }
+      ]
+    },
+    {
+      "claim": "Japonya'daki Nikkei 225 endeksi erken işlemlerde yüzde 6 gerilerken, Kioxia hisseleri yüzde 12,6 ve Tokyo Electron hisseleri yüzde 9,5 düştü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "The Nikkei 225 in Japan was 6% lower in early trading as shares in memory chip maker Kioxia lost over 12.6% and rival Tokyo Electron slipped by 9.5%."
+        }
+      ]
+    },
+    {
+      "claim": "Güney Koreli çip üreticisi SK Hynix yüzde 11,5'ten fazla, Samsung ise yüzde 10'a yakın değer kaybetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "South Korean chipmaker SK Hynix fell by more than 11.5%, while Samsung was down by nearly 10%."
+        }
+      ]
+    },
+    {
+      "claim": "Demokratlar, Salı günkü ara seçimlerde ABD Senatosu ve Temsilciler Meclisini kazanarak Kongrenin kontrolünü ele geçirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "They won both the US Senate and House of Representatives in Tuesday's midterms, taking control of Congress for the rest of President Donald Trump's presidency."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia hisseleri yüzde 9'dan fazla düşerek New York işlemlerinde şirketin piyasa değerinden 400 milyar dolardan fazla sildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "Nvidia shares slid more than 9%, knocking more than $400bn off the firm's market value in New York trading."
+        }
+      ]
+    },
+    {
+      "claim": "AMD ve Micron hisselerinin her ikisi de yüzde 17'den fazla değer kaybetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "Other chipmakers also suffered, with AMD and Micron both dropping by more than 17%."
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk'ın şirketleri SpaceX ve Tesla sırasıyla yüzde 8 ve yaklaşık yüzde 11 düşüş yaşayarak Perşembe günü piyasa değerlerinden 300 milyar dolardan fazla kaybetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "Shares in Elon Musk's companies SpaceX and Tesla also plunged, falling 8% and nearly 11% respectively and shaving more than $300bn off the firms' market value on Thursday."
+        }
+      ]
+    },
+    {
+      "claim": "S&P 500 endeksi işlemlerin sonunda yüzde 4,4 oranında düşüş kaydetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "The S&P 500 index fell by 4.4% by the end of trading"
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Nasdaq composite index, Dow Jones verilerine göre yüzde 5,5'ten fazla düşüşle kapanarak tahmini 2,5 trilyon dolar piyasa değeri kaybetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "The tech-heavy Nasdaq composite index closed down by more than 5.5%, losing an estimated $2.5tn (Â£1.9tn) in market value, according to Dow Jones data"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "The tech-heavy Nasdaq composite index closed down by more than 5.5%, losing an estimated $2.5tn (£1.9tn) in market value, according to Dow Jones data"
+        }
+      ]
+    },
+    {
+      "claim": "Japonya'daki Nikkei 225 endeksi erken işlemlerde yüzde 6 gerilerken, Kioxia hisseleri yüzde 12,6 ve Tokyo Electron hisseleri yüzde 9,5 düştü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "The Nikkei 225 in Japan was 6% lower in early trading as shares in memory chip maker Kioxia lost over 12.6% and rival Tokyo Electron slipped by 9.5%."
+        }
+      ]
+    },
+    {
+      "claim": "Güney Koreli çip üreticisi SK Hynix yüzde 11,5'ten fazla, Samsung ise yüzde 10'a yakın değer kaybetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "South Korean chipmaker SK Hynix fell by more than 11.5%, while Samsung was down by nearly 10%."
+        }
+      ]
+    },
+    {
+      "claim": "Demokratlar, Salı günkü ara seçimlerde ABD Senatosu ve Temsilciler Meclisini kazanarak Kongrenin kontrolünü ele geçirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "They won both the US Senate and House of Representatives in Tuesday's midterms, taking control of Congress for the rest of President Donald Trump's presidency."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia hisseleri yüzde 9'dan fazla düşerek New York işlemlerinde şirketin piyasa değerinden 400 milyar dolardan fazla sildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "Nvidia shares slid more than 9%, knocking more than $400bn off the firm's market value in New York trading."
+        }
+      ]
+    },
+    {
+      "claim": "AMD ve Micron hisselerinin her ikisi de yüzde 17'den fazla değer kaybetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "Other chipmakers also suffered, with AMD and Micron both dropping by more than 17%."
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk'ın şirketleri SpaceX ve Tesla sırasıyla yüzde 8 ve yaklaşık yüzde 11 düşüş yaşayarak Perşembe günü piyasa değerlerinden 300 milyar dolardan fazla kaybetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "Shares in Elon Musk's companies SpaceX and Tesla also plunged, falling 8% and nearly 11% respectively and shaving more than $300bn off the firms' market value on Thursday."
+        }
+      ]
+    },
+    {
+      "claim": "S&P 500 endeksi işlemlerin sonunda yüzde 4,4 oranında düşüş kaydetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "The S&P 500 index fell by 4.4% by the end of trading"
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Nasdaq composite index, Dow Jones verilerine göre yüzde 5,5'ten fazla düşüşle kapanarak tahmini 2,5 trilyon dolar piyasa değeri kaybetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "The tech-heavy Nasdaq composite index closed down by more than 5.5%, losing an estimated $2.5tn (Â£1.9tn) in market value, according to Dow Jones data"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "The tech-heavy Nasdaq composite index closed down by more than 5.5%, losing an estimated $2.5tn (£1.9tn) in market value, according to Dow Jones data"
+        }
+      ]
+    },
+    {
+      "claim": "Japonya'daki Nikkei 225 endeksi erken işlemlerde yüzde 6 gerilerken, Kioxia hisseleri yüzde 12,6 ve Tokyo Electron hisseleri yüzde 9,5 düştü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "The Nikkei 225 in Japan was 6% lower in early trading as shares in memory chip maker Kioxia lost over 12.6% and rival Tokyo Electron slipped by 9.5%."
+        }
+      ]
+    },
+    {
+      "claim": "Güney Koreli çip üreticisi SK Hynix yüzde 11,5'ten fazla, Samsung ise yüzde 10'a yakın değer kaybetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "South Korean chipmaker SK Hynix fell by more than 11.5%, while Samsung was down by nearly 10%."
+        }
+      ]
+    },
+    {
+      "claim": "Demokratlar, Salı günkü ara seçimlerde ABD Senatosu ve Temsilciler Meclisini kazanarak Kongrenin kontrolünü ele geçirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "They won both the US Senate and House of Representatives in Tuesday's midterms, taking control of Congress for the rest of President Donald Trump's presidency."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia hisseleri yüzde 9'dan fazla düşerek New York işlemlerinde şirketin piyasa değerinden 400 milyar dolardan fazla sildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "Nvidia shares slid more than 9%, knocking more than $400bn off the firm's market value in New York trading."
+        }
+      ]
+    },
+    {
+      "claim": "AMD ve Micron hisselerinin her ikisi de yüzde 17'den fazla değer kaybetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "Other chipmakers also suffered, with AMD and Micron both dropping by more than 17%."
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk'ın şirketleri SpaceX ve Tesla sırasıyla yüzde 8 ve yaklaşık yüzde 11 düşüş yaşayarak Perşembe günü piyasa değerlerinden 300 milyar dolardan fazla kaybetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "Shares in Elon Musk's companies SpaceX and Tesla also plunged, falling 8% and nearly 11% respectively and shaving more than $300bn off the firms' market value on Thursday."
+        }
+      ]
+    },
+    {
+      "claim": "S&P 500 endeksi işlemlerin sonunda yüzde 4,4 oranında düşüş kaydetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "quote": "The S&P 500 index fell by 4.4% by the end of trading"
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss": 6693,
+    "https://www.wired.com/story/uncanny-valley-podcast-how-elon-musk-and-big-tech-poured-millions-into-the-midterms-and-lost/": 31174,
+    "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes": 7612,
+    "https://www.engadget.com/2308541/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/": 3398
+  }
+}

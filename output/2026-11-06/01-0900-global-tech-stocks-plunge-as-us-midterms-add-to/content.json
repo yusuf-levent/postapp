@@ -1,0 +1,72 @@
+{
+  "cover": {
+    "category_label": "PİYASA ANALİZİ",
+    "title": "Piyasalarda Büyük Düşüş",
+    "highlight_words": [
+      "Büyük Düşüş"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Nasdaq ve küresel borsalarda yaşanan sert kayıpların detayları.",
+    "source_tags": [
+      "BBC NEWS – TECHNOLOGY",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Piyasalarda Son Durum",
+    "cards": [
+      {
+        "card_title": "ABD Piyasaları",
+        "card_body": "Nasdaq composite index, Dow Jones verilerine göre yüzde 5,5'ten fazla düşüşle kapandı."
+      },
+      {
+        "card_title": "Asya Piyasaları",
+        "card_body": "Japonya'daki Nikkei 225 endeksi erken işlemlerde yüzde 6 geriledi."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "2,5 TRİLYON",
+    "stat_caption": "Piyasa Değeri Kaybı",
+    "stat_quote": "Nasdaq composite index ve Dow Jones verilerine göre tahmini 2,5 trilyon dolar piyasa değeri kaybetti."
+  },
+  "details": {
+    "heading": "Teknoloji Hisselerindeki Kayıplar",
+    "cards": [
+      {
+        "card_title": "Nvidia ve Çip Üreticileri",
+        "card_body": "Nvidia hisseleri yüzde 9'dan fazla düşerek 400 milyar dolardan fazla sildi, AMD ve Micron ise yüzde 17'den fazla değer kaybetti."
+      },
+      {
+        "card_title": "Asya Çip Devleri",
+        "card_body": "Güney Koreli SK Hynix yüzde 11,5'ten fazla, Samsung yüzde 10'a yakın değer kaybetti."
+      },
+      {
+        "card_title": "Diğer Şirketler",
+        "card_body": "SpaceX ve Tesla sırasıyla yüzde 8 ve yaklaşık yüzde 11 düşüş yaşadı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etkiler",
+    "cards": [
+      {
+        "card_title": "Çip ve Donanım",
+        "card_body": "Kioxia hisseleri yüzde 12,6 ve Tokyo Electron hisseleri yüzde 9,5 düştü."
+      },
+      {
+        "card_title": "Piyasa Geneli",
+        "card_body": "S&P 500 endeksi işlemlerin sonunda yüzde 4,4 oranında düşüş kaydetti."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Küresel piyasalardaki bu sert düşüşler hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji ve ekonomi dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
