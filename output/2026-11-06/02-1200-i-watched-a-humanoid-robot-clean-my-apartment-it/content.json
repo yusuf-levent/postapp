@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE ROBOTİK",
+    "title": "Evleri Temizleyen İnsansı Robotlar",
+    "highlight_words": [
+      "İnsansı",
+      "Robotlar"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "San Francisco'da ev temizliği yapan Tau Robotics girişimini inceliyoruz.",
+    "source_tags": [
+      "MIT TECHNOLOGY REVIEW",
+      "ARS TECHNICA"
+    ]
+  },
+  "context": {
+    "heading": "Tau Robotics Nasıl Çalışıyor?",
+    "cards": [
+      {
+        "card_title": "Uzaktan Kontrol",
+        "card_body": "Robotlar şu anda baş ve bileklerine monte edilen kameralar aracılığıyla insanlar tarafından uzaktan pilotlanıyor."
+      },
+      {
+        "card_title": "Girişim ve Kapsam",
+        "card_body": "Tau Robotics, San Francisco'daki evleri temizlemek için insansı robotlar gönderen yeni bir girişim."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "$60",
+    "stat_caption": "Haftalık iki robotla temizlik hizmetinin mevcut ücreti",
+    "stat_quote": "Tau Robotics, tek seferlik ziyaret için 100 dolar veya haftalık iki robotla temizlik için 60 dolar ücret alıyor."
+  },
+  "details": {
+    "heading": "Robotların Teknik Özellikleri",
+    "cards": [
+      {
+        "card_title": "Boyut ve Tasarım",
+        "card_body": "Her bir robot dört buçuk fit boyunda ve 3D baskı kafa ile kıskaç ellere sahip."
+      },
+      {
+        "card_title": "Otonom Yetenekler",
+        "card_body": "Kurucu ortak Cornelia Weinzierl'e göre robot, süpürme ve paspaslama gibi görevleri insan yardımı olmadan tamamlayabiliyor."
+      },
+      {
+        "card_title": "Ulaşım ve Deneyim",
+        "card_body": "Robot binaya mavi bir minivanla geldi ve şirket şimdiye kadar sadece birkaç yüz temizlik tamamladı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektör ve Kullanıcı Etkisi",
+    "cards": [
+      {
+        "card_title": "Ev Temizliğinde Dönüşüm",
+        "card_body": "İnsansı robotların günlük ev işlerinde kullanılmaya başlaması robotik teknolojilerinin ev yaşamına entegrasyonunu hızlandırıyor."
+      },
+      {
+        "card_title": "Hibrit Kontrol Modeli",
+        "card_body": "Uzaktan insan kontrolü ve otonom yeteneklerin bir arada kullanılması, geçiş sürecindeki pratik çözümleri gösteriyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce evinizde uzaktan kontrollü insansı bir robotun temizlik yapmasını ister misiniz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

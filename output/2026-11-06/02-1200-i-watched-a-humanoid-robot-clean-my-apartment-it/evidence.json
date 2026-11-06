@@ -1,0 +1,287 @@
+{
+  "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+  "canonical_url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+  "source_names": [
+    "MIT Technology Review",
+    "Ars Technica",
+    "Google Blog"
+  ],
+  "checked_at": "2026-11-06T13:18:05+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Tau Robotics is a startup that sends humanoid robots to clean San Francisco homes.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "The startup Tau Robotics is sending humanoid robots to clean San Francisco homes."
+        }
+      ]
+    },
+    {
+      "claim": "The robots are currently piloted remotely by humans watching via cameras mounted in the robots' heads and wrists.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "For now, the robots are piloted remotely by humans, who watch what’s going on via cameras mounted in the robots’ heads and wrists."
+        }
+      ]
+    },
+    {
+      "claim": "Tau initially offered $30 for an hourlong cleaning with a single robot.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "At the time I booked, Tau was offering $30 for an hourlong cleaning with a single robot"
+        }
+      ]
+    },
+    {
+      "claim": "Tau's current charges are $60 per weekly cleaning with two robots or $100 for a one-time visit.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "now the charge is $60 per weekly cleaning with two robots, or $100 for a one-time visit."
+        }
+      ]
+    },
+    {
+      "claim": "Each robot stands four-and-a-half feet tall and is equipped with a 3D-printed head and claw hands.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "Tau has armed each four-and-a-half-foot-tall robot with a 3D-printed “head” with antennae that allow it to communicate with Tau’s headquarters, as well as two 3D-printed claw “hands”"
+        }
+      ]
+    },
+    {
+      "claim": "According to cofounder Cornelia Weinzierl, the robot can already complete tasks like vacuuming and mopping without human help.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "But according to Tau cofounder Cornelia Weinzierl, to whom I came clean as a journalist a few weeks after the cleaning, the robot can already complete some other tasks—such as vacuuming and mopping—without any human help."
+        }
+      ]
+    },
+    {
+      "claim": "The robot arrived at the author's building in a blue minivan.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "It arrived in a blue minivan, out of which it was helped by Weinzierl and another Tau employee."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "The cleaning robot that came to my building last month was already a bit of a spectacle. It arrived in a blue minivan, out of which it was helped by Weinzierl and another Tau employee."
+        }
+      ]
+    },
+    {
+      "claim": "Tau Robotics has completed only a couple hundred cleanings so far.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "and the company has completed only a couple hundred cleanings so far."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "the company has completed only a couple hundred cleanings so far."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Tau Robotics is a startup that sends humanoid robots to clean San Francisco homes.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "The startup Tau Robotics is sending humanoid robots to clean San Francisco homes."
+        }
+      ]
+    },
+    {
+      "claim": "The robots are currently piloted remotely by humans watching via cameras mounted in the robots' heads and wrists.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "For now, the robots are piloted remotely by humans, who watch what’s going on via cameras mounted in the robots’ heads and wrists."
+        }
+      ]
+    },
+    {
+      "claim": "Tau initially offered $30 for an hourlong cleaning with a single robot.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "At the time I booked, Tau was offering $30 for an hourlong cleaning with a single robot"
+        }
+      ]
+    },
+    {
+      "claim": "Tau's current charges are $60 per weekly cleaning with two robots or $100 for a one-time visit.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "now the charge is $60 per weekly cleaning with two robots, or $100 for a one-time visit."
+        }
+      ]
+    },
+    {
+      "claim": "Each robot stands four-and-a-half feet tall and is equipped with a 3D-printed head and claw hands.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "Tau has armed each four-and-a-half-foot-tall robot with a 3D-printed “head” with antennae that allow it to communicate with Tau’s headquarters, as well as two 3D-printed claw “hands”"
+        }
+      ]
+    },
+    {
+      "claim": "According to cofounder Cornelia Weinzierl, the robot can already complete tasks like vacuuming and mopping without human help.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "But according to Tau cofounder Cornelia Weinzierl, to whom I came clean as a journalist a few weeks after the cleaning, the robot can already complete some other tasks—such as vacuuming and mopping—without any human help."
+        }
+      ]
+    },
+    {
+      "claim": "The robot arrived at the author's building in a blue minivan.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "It arrived in a blue minivan, out of which it was helped by Weinzierl and another Tau employee."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "The cleaning robot that came to my building last month was already a bit of a spectacle. It arrived in a blue minivan, out of which it was helped by Weinzierl and another Tau employee."
+        }
+      ]
+    },
+    {
+      "claim": "Tau Robotics has completed only a couple hundred cleanings so far.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "and the company has completed only a couple hundred cleanings so far."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "the company has completed only a couple hundred cleanings so far."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Tau Robotics is a startup that sends humanoid robots to clean San Francisco homes.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "The startup Tau Robotics is sending humanoid robots to clean San Francisco homes."
+        }
+      ]
+    },
+    {
+      "claim": "The robots are currently piloted remotely by humans watching via cameras mounted in the robots' heads and wrists.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "For now, the robots are piloted remotely by humans, who watch what’s going on via cameras mounted in the robots’ heads and wrists."
+        }
+      ]
+    },
+    {
+      "claim": "Tau initially offered $30 for an hourlong cleaning with a single robot.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "At the time I booked, Tau was offering $30 for an hourlong cleaning with a single robot"
+        }
+      ]
+    },
+    {
+      "claim": "Tau's current charges are $60 per weekly cleaning with two robots or $100 for a one-time visit.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "now the charge is $60 per weekly cleaning with two robots, or $100 for a one-time visit."
+        }
+      ]
+    },
+    {
+      "claim": "Each robot stands four-and-a-half feet tall and is equipped with a 3D-printed head and claw hands.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "Tau has armed each four-and-a-half-foot-tall robot with a 3D-printed “head” with antennae that allow it to communicate with Tau’s headquarters, as well as two 3D-printed claw “hands”"
+        }
+      ]
+    },
+    {
+      "claim": "According to cofounder Cornelia Weinzierl, the robot can already complete tasks like vacuuming and mopping without human help.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "But according to Tau cofounder Cornelia Weinzierl, to whom I came clean as a journalist a few weeks after the cleaning, the robot can already complete some other tasks—such as vacuuming and mopping—without any human help."
+        }
+      ]
+    },
+    {
+      "claim": "The robot arrived at the author's building in a blue minivan.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "It arrived in a blue minivan, out of which it was helped by Weinzierl and another Tau employee."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "The cleaning robot that came to my building last month was already a bit of a spectacle. It arrived in a blue minivan, out of which it was helped by Weinzierl and another Tau employee."
+        }
+      ]
+    },
+    {
+      "claim": "Tau Robotics has completed only a couple hundred cleanings so far.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "and the company has completed only a couple hundred cleanings so far."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "quote": "the company has completed only a couple hundred cleanings so far."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/": 8647,
+    "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/": 9598,
+    "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/": 2656
+  }
+}
