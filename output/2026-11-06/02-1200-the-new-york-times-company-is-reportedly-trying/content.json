@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "MEDYA VE TEKNOLOJİ",
+    "title": "The New York Times ve Letterboxd Görüşmeleri",
+    "highlight_words": [
+      "New York Times",
+      "Letterboxd"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Sinema dünyasının popüler platformu Letterboxd için dev satın alma iddiası.",
+    "source_tags": [
+      "TECHCRUNCH",
+      "THE VERGE"
+    ]
+  },
+  "context": {
+    "heading": "Görüşmelerin Detayları",
+    "cards": [
+      {
+        "card_title": "Satın Alma İddiası",
+        "card_body": "The New York Times Company, sinema tutkunlarının buluşma noktası Letterboxd'ı 330 milyon dolar karşılığında almak için görüşüyor."
+      },
+      {
+        "card_title": "Bağımsızlık Vurgusu",
+        "card_body": "Görüşmeler sürse de, Letterboxd'ın öngörülebilir gelecekte bağımsız bir site olarak faaliyetlerine devam edeceği belirtiliyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "330 MİLYON $",
+    "stat_caption": "The New York Times'ın Letterboxd için masaya koyduğu satın alma bedeli.",
+    "stat_quote": "Letterboxd, 2023 yılında Kanadalı yatırım grubu Tiny tarafından çoğunluk hissesiyle satın alınmıştı. - Engadget"
+  },
+  "details": {
+    "heading": "Platformun Mevcut Durumu",
+    "cards": [
+      {
+        "card_title": "Kullanıcı Gücü",
+        "card_body": "Letterboxd, güncel verilerle 30 milyon üyeye ulaşmış durumda. Bu geniş kitle, platformun sinema dünyasındaki etkisini kanıtlıyor."
+      },
+      {
+        "card_title": "Finansal Beklentiler",
+        "card_body": "Platformun büyüme ivmesi devam ediyor. Letterboxd'ın 2026 yılı için 15 milyon dolar gelir elde etmesi öngörülüyor."
+      },
+      {
+        "card_title": "NYT'nin Abone Sayısı",
+        "card_body": "The New York Times web sitesi, halihazırda 13,8 milyon abonesiyle dijital yayıncılıkta dev bir güce sahip."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Yansımalar",
+    "cards": [
+      {
+        "card_title": "Medya ve Sinema Birleşimi",
+        "card_body": "Bu satın alma, köklü bir medya kuruluşunun, sinema odaklı bir sosyal toplulukla birleşerek dijital etkileşimini artırmasını sağlayabilir."
+      },
+      {
+        "card_title": "Kullanıcı Deneyimi",
+        "card_body": "Bağımsız kalacağı belirtilen platformun, mevcut kullanıcı kitlesini koruyarak nasıl bir entegrasyon süreci izleyeceği merak konusu."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce The New York Times'ın Letterboxd'ı alması, platformun ruhunu nasıl etkiler?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri kaçırmamak için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

@@ -1,0 +1,10 @@
+{
+  "slot": "12:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 113.6,
+  "candidates_tried": 1,
+  "gemini_calls": 13,
+  "canonical_url": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+  "generated_at": "2026-11-06T13:34:30+03:00"
+}

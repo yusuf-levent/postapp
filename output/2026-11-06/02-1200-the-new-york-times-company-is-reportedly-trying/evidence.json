@@ -1,0 +1,217 @@
+{
+  "title": "The New York Times Company is reportedly trying to buy Letterboxd for $330 million",
+  "canonical_url": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+  "source_names": [
+    "Engadget",
+    "BBC News – Technology",
+    "TechCrunch",
+    "The Verge"
+  ],
+  "checked_at": "2026-11-06T13:33:12+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "The New York Times Company, Letterboxd'ı 330 milyon dolar karşılığında satın almak için özel görüşmeler yürütmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+          "quote": "The company that owns The New York Times is in \"exclusive negotiations\" to purchase the cinephile online platform Letterboxd, anonymous sources told... The New York Times. The price being discussed is reportedly around $330 million"
+        }
+      ]
+    },
+    {
+      "claim": "Letterboxd, öngörülebilir gelecekte bağımsız bir site olarak faaliyetlerine devam edecektir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+          "quote": "Letterboxd would reportedly continue operations as a standalone site for the \"foreseeable future,\" the NYT reported."
+        }
+      ]
+    },
+    {
+      "claim": "Letterboxd platformunun 30 milyon üyesi bulunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+          "quote": "Though relatively small with 30 million members, Letterboxd is an influential online film site"
+        }
+      ]
+    },
+    {
+      "claim": "Letterboxd'ın 2026 yılı için 15 milyon dolar gelir elde etmesi öngörülmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+          "quote": "The site is projected to have $15 million in revenue for 2026."
+        }
+      ]
+    },
+    {
+      "claim": "Kanadalı yatırım grubu Tiny, 2023 yılında Letterboxd'ın yüzde 60'ını satın almıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+          "quote": "The Canadian investment group Tiny purchased 60 percent of Letterboxd in 2023"
+        }
+      ]
+    },
+    {
+      "claim": "The New York Times web sitesinin şu anda 13,8 milyon abonesi bulunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+          "quote": "The NYT website currently has 13.8 million subscribers"
+        },
+        {
+          "url": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+          "quote": "The NYT website currently has 13.8 million subscribers, with a goal to hit 15 million by the end of next year."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "The New York Times Company, Letterboxd'ı 330 milyon dolar karşılığında satın almak için özel görüşmeler yürütmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+          "quote": "The company that owns The New York Times is in \"exclusive negotiations\" to purchase the cinephile online platform Letterboxd, anonymous sources told... The New York Times. The price being discussed is reportedly around $330 million"
+        }
+      ]
+    },
+    {
+      "claim": "Letterboxd, öngörülebilir gelecekte bağımsız bir site olarak faaliyetlerine devam edecektir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+          "quote": "Letterboxd would reportedly continue operations as a standalone site for the \"foreseeable future,\" the NYT reported."
+        }
+      ]
+    },
+    {
+      "claim": "Letterboxd platformunun 30 milyon üyesi bulunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+          "quote": "Though relatively small with 30 million members, Letterboxd is an influential online film site"
+        }
+      ]
+    },
+    {
+      "claim": "Letterboxd'ın 2026 yılı için 15 milyon dolar gelir elde etmesi öngörülmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+          "quote": "The site is projected to have $15 million in revenue for 2026."
+        }
+      ]
+    },
+    {
+      "claim": "Kanadalı yatırım grubu Tiny, 2023 yılında Letterboxd'ın yüzde 60'ını satın almıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+          "quote": "The Canadian investment group Tiny purchased 60 percent of Letterboxd in 2023"
+        }
+      ]
+    },
+    {
+      "claim": "The New York Times web sitesinin şu anda 13,8 milyon abonesi bulunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+          "quote": "The NYT website currently has 13.8 million subscribers"
+        },
+        {
+          "url": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+          "quote": "The NYT website currently has 13.8 million subscribers, with a goal to hit 15 million by the end of next year."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "The New York Times Company, Letterboxd'ı 330 milyon dolar karşılığında satın almak için özel görüşmeler yürütmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+          "quote": "The company that owns The New York Times is in \"exclusive negotiations\" to purchase the cinephile online platform Letterboxd, anonymous sources told... The New York Times. The price being discussed is reportedly around $330 million"
+        }
+      ]
+    },
+    {
+      "claim": "Letterboxd, öngörülebilir gelecekte bağımsız bir site olarak faaliyetlerine devam edecektir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+          "quote": "Letterboxd would reportedly continue operations as a standalone site for the \"foreseeable future,\" the NYT reported."
+        }
+      ]
+    },
+    {
+      "claim": "Letterboxd platformunun 30 milyon üyesi bulunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+          "quote": "Though relatively small with 30 million members, Letterboxd is an influential online film site"
+        }
+      ]
+    },
+    {
+      "claim": "Letterboxd'ın 2026 yılı için 15 milyon dolar gelir elde etmesi öngörülmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+          "quote": "The site is projected to have $15 million in revenue for 2026."
+        }
+      ]
+    },
+    {
+      "claim": "Kanadalı yatırım grubu Tiny, 2023 yılında Letterboxd'ın yüzde 60'ını satın almıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+          "quote": "The Canadian investment group Tiny purchased 60 percent of Letterboxd in 2023"
+        }
+      ]
+    },
+    {
+      "claim": "The New York Times web sitesinin şu anda 13,8 milyon abonesi bulunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+          "quote": "The NYT website currently has 13.8 million subscribers"
+        },
+        {
+          "url": "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/",
+          "quote": "The NYT website currently has 13.8 million subscribers, with a goal to hit 15 million by the end of next year."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/": 2232,
+    "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss": 5123,
+    "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/": 2284,
+    "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda": 1352
+  }
+}
