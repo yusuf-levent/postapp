@@ -7,12 +7,12 @@
     "The Verge",
     "Wired"
   ],
-  "checked_at": "2026-11-06T16:28:08+03:00",
+  "checked_at": "2026-11-06T16:48:21+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Teknoloji hisselerinden yaklaşık 2,5 trilyon dolar silindi.",
+      "claim": "Teknoloji hisselerinden yaklaşık 2,5 trilyon dolar değer silindi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -26,17 +26,27 @@
       ]
     },
     {
-      "claim": "Muhteşem Yedi (Magnificent Seven) 1 trilyon dolardan fazla değer kaybetti.",
+      "claim": "Samsung, Güney Kore'nin Pyeongtaek şehrinde yeni bir yarı iletken üretim kampüsü inşa ediyor.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "The Magnificent Seven lost over $1 trillion."
+          "quote": "To meet soaring demand, Samsung is building a vast new semiconductor manufacturing campus in Pyeongtaek, South Korea."
         }
       ]
     },
     {
-      "claim": "Tesla ve SpaceX toplamda 420 milyar dolardan fazla kaybetti.",
+      "claim": "Nasdaq borsası, yapay zeka yavaşlaması korkuları nedeniyle Nisan 2025'ten bu yana en kötü gününü yaşadı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+          "quote": "The Nasdaq suffered its worst day since April 2025 amid fears of an AI slowdown."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla ve SpaceX toplamda 420 milyar dolardan fazla değer kaybetti.",
       "verdict": "supported",
       "evidence": [
         {
@@ -46,7 +56,31 @@
       ]
     },
     {
-      "claim": "NASA, X-70 adı verilen yeni deneysel hava aracını tanıttı ve aracın iki yıl içinde uçması bekleniyor.",
+      "claim": "ABD, ticari donduruculara yönelik devam eden bir siber tehdit konusunda uyarıda bulundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+          "quote": "The US has warned of an “ongoing cyber threat” to fridges\nA spate of hacks has hit commercial freezers."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+          "quote": "The US has warned of an “ongoing cyber threat” to fridges. A spate of hacks has hit commercial freezers."
+        }
+      ]
+    },
+    {
+      "claim": "Bilim insanları Mars'ta aktif yanardağların olduğuna dair yeni kanıtlar buldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+          "quote": "Scientists have new evidence of active volcanoes on Mars"
+        }
+      ]
+    },
+    {
+      "claim": "NASA, X-70 adlı yeni deneysel uçağını tanıttı ve uçağın iki yıl içinde uçuşa geçmesi bekleniyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -55,66 +89,24 @@
         },
         {
           "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "NASA has unveiled a mysterious new experimental aircraft The X-70 is expected to take flight within two years."
+          "quote": "NASA has unveiled a mysterious new experimental aircraft. The X-70 is expected to take flight within two years."
         }
       ]
     },
     {
-      "claim": "Tesla, gelecek yıl Teksas'taki Cybertruck üretimini sonlandırıyor.",
+      "claim": "Arizona'daki Chiricahua, ABD'nin yeni milli parkı olarak ilan edildi.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "Elon Musk has signaled the end for the Cybertruck\nTesla is winding down production in Texas next year."
-        },
-        {
-          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "Tesla is winding down production in Texas next year."
-        }
-      ]
-    },
-    {
-      "claim": "Covid aşılarının ekonomik faydalarının değeri 64 trilyon dolara kadar ulaşıyor.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "Covid vaccines’ economic benefits may be double what we thought\nNew analysis places their value at up to $64 trillion."
-        },
-        {
-          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "New analysis places their value at up to $64 trillion."
-        }
-      ]
-    },
-    {
-      "claim": "7.000 RunPee kullanıcısı You Can See Everything uygulamasına kaydoldu.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "Three-hour movies have sent viewers rushing to a pee break app\n7,000 RunPee users signed up for You Can See Everything."
-        },
-        {
-          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "7,000 RunPee users signed up for You Can See Everything."
-        }
-      ]
-    },
-    {
-      "claim": "Rusya, ticari dondurucuları hedef alan siber saldırıların arkasında olduğu iddialarını reddetti.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "Russia has denied claims it’s behind the attacks."
+          "quote": "The US has a new national park: Arizona's otherworldly Chiricahua."
         }
       ]
     }
   ],
   "round1": [
     {
-      "claim": "Teknoloji hisselerinden yaklaşık 2,5 trilyon dolar silindi.",
+      "claim": "Teknoloji hisselerinden yaklaşık 2,5 trilyon dolar değer silindi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -128,17 +120,27 @@
       ]
     },
     {
-      "claim": "Muhteşem Yedi (Magnificent Seven) 1 trilyon dolardan fazla değer kaybetti.",
+      "claim": "Samsung, Güney Kore'nin Pyeongtaek şehrinde yeni bir yarı iletken üretim kampüsü inşa ediyor.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "The Magnificent Seven lost over $1 trillion."
+          "quote": "To meet soaring demand, Samsung is building a vast new semiconductor manufacturing campus in Pyeongtaek, South Korea."
         }
       ]
     },
     {
-      "claim": "Tesla ve SpaceX toplamda 420 milyar dolardan fazla kaybetti.",
+      "claim": "Nasdaq borsası, yapay zeka yavaşlaması korkuları nedeniyle Nisan 2025'ten bu yana en kötü gününü yaşadı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+          "quote": "The Nasdaq suffered its worst day since April 2025 amid fears of an AI slowdown."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla ve SpaceX toplamda 420 milyar dolardan fazla değer kaybetti.",
       "verdict": "supported",
       "evidence": [
         {
@@ -148,7 +150,31 @@
       ]
     },
     {
-      "claim": "NASA, X-70 adı verilen yeni deneysel hava aracını tanıttı ve aracın iki yıl içinde uçması bekleniyor.",
+      "claim": "ABD, ticari donduruculara yönelik devam eden bir siber tehdit konusunda uyarıda bulundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+          "quote": "The US has warned of an “ongoing cyber threat” to fridges\nA spate of hacks has hit commercial freezers."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+          "quote": "The US has warned of an “ongoing cyber threat” to fridges. A spate of hacks has hit commercial freezers."
+        }
+      ]
+    },
+    {
+      "claim": "Bilim insanları Mars'ta aktif yanardağların olduğuna dair yeni kanıtlar buldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+          "quote": "Scientists have new evidence of active volcanoes on Mars"
+        }
+      ]
+    },
+    {
+      "claim": "NASA, X-70 adlı yeni deneysel uçağını tanıttı ve uçağın iki yıl içinde uçuşa geçmesi bekleniyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -157,66 +183,24 @@
         },
         {
           "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "NASA has unveiled a mysterious new experimental aircraft The X-70 is expected to take flight within two years."
+          "quote": "NASA has unveiled a mysterious new experimental aircraft. The X-70 is expected to take flight within two years."
         }
       ]
     },
     {
-      "claim": "Tesla, gelecek yıl Teksas'taki Cybertruck üretimini sonlandırıyor.",
+      "claim": "Arizona'daki Chiricahua, ABD'nin yeni milli parkı olarak ilan edildi.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "Elon Musk has signaled the end for the Cybertruck\nTesla is winding down production in Texas next year."
-        },
-        {
-          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "Tesla is winding down production in Texas next year."
-        }
-      ]
-    },
-    {
-      "claim": "Covid aşılarının ekonomik faydalarının değeri 64 trilyon dolara kadar ulaşıyor.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "Covid vaccines’ economic benefits may be double what we thought\nNew analysis places their value at up to $64 trillion."
-        },
-        {
-          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "New analysis places their value at up to $64 trillion."
-        }
-      ]
-    },
-    {
-      "claim": "7.000 RunPee kullanıcısı You Can See Everything uygulamasına kaydoldu.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "Three-hour movies have sent viewers rushing to a pee break app\n7,000 RunPee users signed up for You Can See Everything."
-        },
-        {
-          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "7,000 RunPee users signed up for You Can See Everything."
-        }
-      ]
-    },
-    {
-      "claim": "Rusya, ticari dondurucuları hedef alan siber saldırıların arkasında olduğu iddialarını reddetti.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "Russia has denied claims it’s behind the attacks."
+          "quote": "The US has a new national park: Arizona's otherworldly Chiricahua."
         }
       ]
     }
   ],
   "round2": [
     {
-      "claim": "Teknoloji hisselerinden yaklaşık 2,5 trilyon dolar silindi.",
+      "claim": "Teknoloji hisselerinden yaklaşık 2,5 trilyon dolar değer silindi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -230,17 +214,27 @@
       ]
     },
     {
-      "claim": "Muhteşem Yedi (Magnificent Seven) 1 trilyon dolardan fazla değer kaybetti.",
+      "claim": "Samsung, Güney Kore'nin Pyeongtaek şehrinde yeni bir yarı iletken üretim kampüsü inşa ediyor.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "The Magnificent Seven lost over $1 trillion."
+          "quote": "To meet soaring demand, Samsung is building a vast new semiconductor manufacturing campus in Pyeongtaek, South Korea."
         }
       ]
     },
     {
-      "claim": "Tesla ve SpaceX toplamda 420 milyar dolardan fazla kaybetti.",
+      "claim": "Nasdaq borsası, yapay zeka yavaşlaması korkuları nedeniyle Nisan 2025'ten bu yana en kötü gününü yaşadı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+          "quote": "The Nasdaq suffered its worst day since April 2025 amid fears of an AI slowdown."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla ve SpaceX toplamda 420 milyar dolardan fazla değer kaybetti.",
       "verdict": "supported",
       "evidence": [
         {
@@ -250,7 +244,31 @@
       ]
     },
     {
-      "claim": "NASA, X-70 adı verilen yeni deneysel hava aracını tanıttı ve aracın iki yıl içinde uçması bekleniyor.",
+      "claim": "ABD, ticari donduruculara yönelik devam eden bir siber tehdit konusunda uyarıda bulundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+          "quote": "The US has warned of an “ongoing cyber threat” to fridges\nA spate of hacks has hit commercial freezers."
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+          "quote": "The US has warned of an “ongoing cyber threat” to fridges. A spate of hacks has hit commercial freezers."
+        }
+      ]
+    },
+    {
+      "claim": "Bilim insanları Mars'ta aktif yanardağların olduğuna dair yeni kanıtlar buldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+          "quote": "Scientists have new evidence of active volcanoes on Mars"
+        }
+      ]
+    },
+    {
+      "claim": "NASA, X-70 adlı yeni deneysel uçağını tanıttı ve uçağın iki yıl içinde uçuşa geçmesi bekleniyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -259,59 +277,17 @@
         },
         {
           "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "NASA has unveiled a mysterious new experimental aircraft The X-70 is expected to take flight within two years."
+          "quote": "NASA has unveiled a mysterious new experimental aircraft. The X-70 is expected to take flight within two years."
         }
       ]
     },
     {
-      "claim": "Tesla, gelecek yıl Teksas'taki Cybertruck üretimini sonlandırıyor.",
+      "claim": "Arizona'daki Chiricahua, ABD'nin yeni milli parkı olarak ilan edildi.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "Elon Musk has signaled the end for the Cybertruck\nTesla is winding down production in Texas next year."
-        },
-        {
-          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "Tesla is winding down production in Texas next year."
-        }
-      ]
-    },
-    {
-      "claim": "Covid aşılarının ekonomik faydalarının değeri 64 trilyon dolara kadar ulaşıyor.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "Covid vaccines’ economic benefits may be double what we thought\nNew analysis places their value at up to $64 trillion."
-        },
-        {
-          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "New analysis places their value at up to $64 trillion."
-        }
-      ]
-    },
-    {
-      "claim": "7.000 RunPee kullanıcısı You Can See Everything uygulamasına kaydoldu.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "Three-hour movies have sent viewers rushing to a pee break app\n7,000 RunPee users signed up for You Can See Everything."
-        },
-        {
-          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "7,000 RunPee users signed up for You Can See Everything."
-        }
-      ]
-    },
-    {
-      "claim": "Rusya, ticari dondurucuları hedef alan siber saldırıların arkasında olduğu iddialarını reddetti.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-          "quote": "Russia has denied claims it’s behind the attacks."
+          "quote": "The US has a new national park: Arizona's otherworldly Chiricahua."
         }
       ]
     }
