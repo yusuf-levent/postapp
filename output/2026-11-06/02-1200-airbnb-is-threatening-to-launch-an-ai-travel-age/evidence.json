@@ -7,12 +7,12 @@
     "TechCrunch",
     "OpenAI News"
   ],
-  "checked_at": "2026-11-06T12:23:21+03:00",
+  "checked_at": "2026-11-06T12:27:16+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Airbnb, Q3 2026 kazançları ile birlikte yayınladığı hissedar mektubunda yeni bir yapay zeka seyahat acendası geliştirdiğini açıkladı.",
+      "claim": "Airbnb is developing a new kind of AI agent designed to serve as a travel agent, as revealed in its Q3 2026 earnings shareholder letter.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "claim": "Airbnb, yeni yapay zeka deneyimini 2027 yılının ilk yarısında kullanıcıların kullanımına sunmaya başlayacak.",
+      "claim": "Airbnb plans to start rolling out the new AI travel agent experience to users in the first half of 2027.",
       "verdict": "supported",
       "evidence": [
         {
@@ -32,9 +32,23 @@
       ]
     },
     {
-      "claim": "Airbnb, birkaç ay önce doğal dil kullanarak arama yapmanızı sağlayan yapay zeka destekli aramayı başlattı.",
+      "claim": "The AI travel agent will be able to add maps, photos, itineraries, and comparisons to the interface in real time.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
+          "quote": "The AI travel agent will be able to add maps, photos and even itineraries and comparisons to the interface in real time."
+        }
+      ]
+    },
+    {
+      "claim": "Airbnb launched AI search a couple of months ago, allowing users to make inquiries using natural language.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
+          "quote": "Just a couple of months ago, it launched AI search, which lets you make inquiries using natural language"
+        },
         {
           "url": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
           "quote": "Just a couple of months ago, it launched AI search, which lets you make inquiries using natural language, as well as AI descriptions for listings."
@@ -42,7 +56,21 @@
       ]
     },
     {
-      "claim": "Airbnb geçmiş yıllarda uygulama içinde market teslimatı, araç kiralama, tekne ve kayak ekipmanı gibi hizmetler başlattı.",
+      "claim": "Airbnb recently launched AI descriptions for its listings.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
+          "quote": "as well as AI descriptions for listings."
+        },
+        {
+          "url": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
+          "quote": "Just a couple of months ago, it launched AI search, which lets you make inquiries using natural language, as well as AI descriptions for listings."
+        }
+      ]
+    },
+    {
+      "claim": "Over the years, Airbnb has launched other services within its app including grocery deliveries, car rentals, boats, and ski gear.",
       "verdict": "supported",
       "evidence": [
         {
@@ -54,7 +82,7 @@
   ],
   "round1": [
     {
-      "claim": "Airbnb, Q3 2026 kazançları ile birlikte yayınladığı hissedar mektubunda yeni bir yapay zeka seyahat acendası geliştirdiğini açıkladı.",
+      "claim": "Airbnb is developing a new kind of AI agent designed to serve as a travel agent, as revealed in its Q3 2026 earnings shareholder letter.",
       "verdict": "supported",
       "evidence": [
         {
@@ -64,7 +92,7 @@
       ]
     },
     {
-      "claim": "Airbnb, yeni yapay zeka deneyimini 2027 yılının ilk yarısında kullanıcıların kullanımına sunmaya başlayacak.",
+      "claim": "Airbnb plans to start rolling out the new AI travel agent experience to users in the first half of 2027.",
       "verdict": "supported",
       "evidence": [
         {
@@ -74,9 +102,23 @@
       ]
     },
     {
-      "claim": "Airbnb, birkaç ay önce doğal dil kullanarak arama yapmanızı sağlayan yapay zeka destekli aramayı başlattı.",
+      "claim": "The AI travel agent will be able to add maps, photos, itineraries, and comparisons to the interface in real time.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
+          "quote": "The AI travel agent will be able to add maps, photos and even itineraries and comparisons to the interface in real time."
+        }
+      ]
+    },
+    {
+      "claim": "Airbnb launched AI search a couple of months ago, allowing users to make inquiries using natural language.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
+          "quote": "Just a couple of months ago, it launched AI search, which lets you make inquiries using natural language"
+        },
         {
           "url": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
           "quote": "Just a couple of months ago, it launched AI search, which lets you make inquiries using natural language, as well as AI descriptions for listings."
@@ -84,7 +126,21 @@
       ]
     },
     {
-      "claim": "Airbnb geçmiş yıllarda uygulama içinde market teslimatı, araç kiralama, tekne ve kayak ekipmanı gibi hizmetler başlattı.",
+      "claim": "Airbnb recently launched AI descriptions for its listings.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
+          "quote": "as well as AI descriptions for listings."
+        },
+        {
+          "url": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
+          "quote": "Just a couple of months ago, it launched AI search, which lets you make inquiries using natural language, as well as AI descriptions for listings."
+        }
+      ]
+    },
+    {
+      "claim": "Over the years, Airbnb has launched other services within its app including grocery deliveries, car rentals, boats, and ski gear.",
       "verdict": "supported",
       "evidence": [
         {
@@ -96,7 +152,7 @@
   ],
   "round2": [
     {
-      "claim": "Airbnb, Q3 2026 kazançları ile birlikte yayınladığı hissedar mektubunda yeni bir yapay zeka seyahat acendası geliştirdiğini açıkladı.",
+      "claim": "Airbnb is developing a new kind of AI agent designed to serve as a travel agent, as revealed in its Q3 2026 earnings shareholder letter.",
       "verdict": "supported",
       "evidence": [
         {
@@ -106,7 +162,7 @@
       ]
     },
     {
-      "claim": "Airbnb, yeni yapay zeka deneyimini 2027 yılının ilk yarısında kullanıcıların kullanımına sunmaya başlayacak.",
+      "claim": "Airbnb plans to start rolling out the new AI travel agent experience to users in the first half of 2027.",
       "verdict": "supported",
       "evidence": [
         {
@@ -116,9 +172,23 @@
       ]
     },
     {
-      "claim": "Airbnb, birkaç ay önce doğal dil kullanarak arama yapmanızı sağlayan yapay zeka destekli aramayı başlattı.",
+      "claim": "The AI travel agent will be able to add maps, photos, itineraries, and comparisons to the interface in real time.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
+          "quote": "The AI travel agent will be able to add maps, photos and even itineraries and comparisons to the interface in real time."
+        }
+      ]
+    },
+    {
+      "claim": "Airbnb launched AI search a couple of months ago, allowing users to make inquiries using natural language.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
+          "quote": "Just a couple of months ago, it launched AI search, which lets you make inquiries using natural language"
+        },
         {
           "url": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
           "quote": "Just a couple of months ago, it launched AI search, which lets you make inquiries using natural language, as well as AI descriptions for listings."
@@ -126,7 +196,21 @@
       ]
     },
     {
-      "claim": "Airbnb geçmiş yıllarda uygulama içinde market teslimatı, araç kiralama, tekne ve kayak ekipmanı gibi hizmetler başlattı.",
+      "claim": "Airbnb recently launched AI descriptions for its listings.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
+          "quote": "as well as AI descriptions for listings."
+        },
+        {
+          "url": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
+          "quote": "Just a couple of months ago, it launched AI search, which lets you make inquiries using natural language, as well as AI descriptions for listings."
+        }
+      ]
+    },
+    {
+      "claim": "Over the years, Airbnb has launched other services within its app including grocery deliveries, car rentals, boats, and ski gear.",
       "verdict": "supported",
       "evidence": [
         {
