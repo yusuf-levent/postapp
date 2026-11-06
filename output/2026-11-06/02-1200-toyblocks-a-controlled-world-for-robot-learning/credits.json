@@ -1,0 +1,16 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/OAJMu2jr7i5jVAbmsKdZW.jpeg",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-06/02-1200-toyblocks-a-controlled-world-for-robot-learning/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://huggingface.co/blog/allenai/toyblocks",
+      "width": 1512,
+      "height": 1080,
+      "alt_text": ""
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}

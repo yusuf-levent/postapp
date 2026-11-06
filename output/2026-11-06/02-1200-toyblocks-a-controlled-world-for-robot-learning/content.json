@@ -1,0 +1,74 @@
+{
+  "cover": {
+    "category_label": "ROBOTİK VE YAPAY ZEKA",
+    "title": "Robot Öğreniminde Yeni Dönem: ToyBlocks",
+    "highlight_words": [
+      "Robot",
+      "Öğreniminde",
+      "ToyBlocks"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Robotların öğrenme sürecini hızlandıran yeni simülasyon çerçevesi ile tanışın.",
+    "source_tags": [
+      "HUGGING FACE BLOG",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "ToyBlocks Nedir?",
+    "cards": [
+      {
+        "card_title": "Yeni Bir Simülasyon Çerçevesi",
+        "card_body": "ToyBlocks, robot öğrenimi ve değerlendirmesi için geliştirilmiş, FoundationWorlds yapısının ilk örneği olan bir simülasyon çerçevesidir."
+      },
+      {
+        "card_title": "Teknoloji Altyapısı",
+        "card_body": "Bu sistem, Nvidia'nın açık kaynaklı çerçevesi olan Isaac Lab üzerine inşa edilmiştir ve robot öğrenimi için güçlü bir temel sunar."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "24 KAT",
+    "stat_caption": "Tek bir GPU üzerinde veri üretimi ile ulaşılan gerçek zamanlı performans artışı.",
+    "stat_quote": "ToyBlocks, veri üretimini paralel gerçekleştirerek gerçek zamanlı performansın 24 katına kadar çıkabiliyor. - Hugging Face Blog"
+  },
+  "details": {
+    "heading": "Nasıl Çalışıyor?",
+    "cards": [
+      {
+        "card_title": "Öğrenme Yöntemleri",
+        "card_body": "Kısa süreli görevlerde beceri kazanmak için pekiştirmeli öğrenme (RL) ve hareket planlama yöntemlerini bir arada kullanır."
+      },
+      {
+        "card_title": "Dört Temel Gereksinim",
+        "card_body": "Gerçekçi fizik, otomatik görev üretimi, muhakeme ve el becerisi gerektiren zorluklar üzerine tasarlanmıştır."
+      },
+      {
+        "card_title": "Gelişim Süreci",
+        "card_body": "MolmoAct 2, MolmoBot ve MolmoSpaces gibi önceki robot öğrenme çalışmalarının üzerine inşa edilmiştir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etki",
+    "cards": [
+      {
+        "card_title": "Geniş Görev Çeşitliliği",
+        "card_body": "Geniş kapsamlı görev çeşitliliği sunarak robotların farklı senaryolarda daha yetenekli hale gelmesini sağlar."
+      },
+      {
+        "card_title": "Hızlı Değerlendirme",
+        "card_body": "Robot öğrenimi ve değerlendirme süreçlerini hızlandırarak, araştırmacıların daha verimli çalışmasına olanak tanır."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce robotların bu kadar hızlı öğrenmesi, günlük hayattaki kullanım alanlarını nasıl değiştirecek?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri kaçırmamak için Tekno Pusula'yı takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

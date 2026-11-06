@@ -1,0 +1,262 @@
+{
+  "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+  "canonical_url": "https://huggingface.co/blog/allenai/toyblocks",
+  "source_names": [
+    "Hugging Face Blog",
+    "Wired",
+    "GitHub Blog",
+    "Google Blog"
+  ],
+  "checked_at": "2026-11-06T17:03:40+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "ToyBlocks, robot öğrenimi ve değerlendirmesi için geliştirilmiş bir simülasyon çerçevesidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "quote": "ToyBlocks: A controlled world for robot learning and evaluation"
+        }
+      ]
+    },
+    {
+      "claim": "ToyBlocks, FoundationWorlds olarak adlandırılan yeni çerçeve yapısının ilk örneğidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "quote": "Starting with ToyBlocks as our first FoundationWorld, we aim to extend the approach to increasingly complex environments."
+        },
+        {
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "quote": "Our first foundation world is ToyBlocks: an open simulation framework built around a robot arm and blocks on a tabletop."
+        }
+      ]
+    },
+    {
+      "claim": "ToyBlocks, simülasyonda robot öğrenimi için Nvidia'nın açık kaynaklı çerçevesi olan Isaac Lab'i kullanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "quote": "Skill training takes place in Isaac Lab, Nvidia's open-source framework for robot learning in simulation."
+        }
+      ]
+    },
+    {
+      "claim": "ToyBlocks, veri üretimini tek bir grafik işlem birimi (GPU) üzerinde paralel olarak gerçekleştirerek gerçek zamanlı performansın 24 katına kadar ulaşabilmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "quote": "ToyBlocks scales data generation through generating and executing hundreds of such plans in parallel on a single graphics processing unit (GPU), reaching up to 24 times real-time performance."
+        }
+      ]
+    },
+    {
+      "claim": "ToyBlocks, kısa süreli görevler için beceri oluşturmak amacıyla pekiştirmeli öğrenme (RL) ve hareket planlama yöntemlerini kullanır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "quote": "ToyBlocks uses reinforcement learning (RL) and motion planning, which computes how the robot should move, to generate skills for short-horizon tasks, which involve brief sequences of actions."
+        }
+      ]
+    },
+    {
+      "claim": "ToyBlocks çerçevesi; MolmoAct 2, MolmoBot ve MolmoSpaces gibi önceki robot öğrenme çalışmaları üzerine inşa edilmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "quote": "Building on our earlier work in open robot learning, including MolmoAct 2, MolmoBot, and MolmoSpaces, ToyBlocks gives researchers a way to study robotics questions in a deliberately constrained domain."
+        }
+      ]
+    },
+    {
+      "claim": "ToyBlocks; gerçekçi fizik, otomatik görev üretimi, muhakeme ve el becerisi gerektiren zorluklar ile geniş kapsamlı görev çeşitliliği olmak üzere dört temel gereksinim üzerine tasarlanmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "quote": "As a FoundationWorld, ToyBlocks is designed around four requirements: (1) realistic physics and appearance, (2) automatic generation of tasks and demonstrations at scale, (3) challenges that combine reasoning with dexterity, and (4) broad coverage of the tasks possible within a domain."
+        }
+      ]
+    },
+    {
+      "claim": "ToyBlocks çerçevesi, ajan sistem deneylerinde Claude Opus 5.5 modelini desteklemektedir.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "round1": [
+    {
+      "claim": "ToyBlocks, robot öğrenimi ve değerlendirmesi için geliştirilmiş bir simülasyon çerçevesidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "quote": "ToyBlocks: A controlled world for robot learning and evaluation"
+        }
+      ]
+    },
+    {
+      "claim": "ToyBlocks, FoundationWorlds olarak adlandırılan yeni çerçeve yapısının ilk örneğidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "quote": "Starting with ToyBlocks as our first FoundationWorld, we aim to extend the approach to increasingly complex environments."
+        },
+        {
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "quote": "Our first foundation world is ToyBlocks: an open simulation framework built around a robot arm and blocks on a tabletop."
+        }
+      ]
+    },
+    {
+      "claim": "ToyBlocks, simülasyonda robot öğrenimi için Nvidia'nın açık kaynaklı çerçevesi olan Isaac Lab'i kullanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "quote": "Skill training takes place in Isaac Lab, Nvidia's open-source framework for robot learning in simulation."
+        }
+      ]
+    },
+    {
+      "claim": "ToyBlocks, veri üretimini tek bir grafik işlem birimi (GPU) üzerinde paralel olarak gerçekleştirerek gerçek zamanlı performansın 24 katına kadar ulaşabilmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "quote": "ToyBlocks scales data generation through generating and executing hundreds of such plans in parallel on a single graphics processing unit (GPU), reaching up to 24 times real-time performance."
+        }
+      ]
+    },
+    {
+      "claim": "ToyBlocks, kısa süreli görevler için beceri oluşturmak amacıyla pekiştirmeli öğrenme (RL) ve hareket planlama yöntemlerini kullanır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "quote": "ToyBlocks uses reinforcement learning (RL) and motion planning, which computes how the robot should move, to generate skills for short-horizon tasks, which involve brief sequences of actions."
+        }
+      ]
+    },
+    {
+      "claim": "ToyBlocks çerçevesi; MolmoAct 2, MolmoBot ve MolmoSpaces gibi önceki robot öğrenme çalışmaları üzerine inşa edilmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "quote": "Building on our earlier work in open robot learning, including MolmoAct 2, MolmoBot, and MolmoSpaces, ToyBlocks gives researchers a way to study robotics questions in a deliberately constrained domain."
+        }
+      ]
+    },
+    {
+      "claim": "ToyBlocks; gerçekçi fizik, otomatik görev üretimi, muhakeme ve el becerisi gerektiren zorluklar ile geniş kapsamlı görev çeşitliliği olmak üzere dört temel gereksinim üzerine tasarlanmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "quote": "As a FoundationWorld, ToyBlocks is designed around four requirements: (1) realistic physics and appearance, (2) automatic generation of tasks and demonstrations at scale, (3) challenges that combine reasoning with dexterity, and (4) broad coverage of the tasks possible within a domain."
+        }
+      ]
+    },
+    {
+      "claim": "ToyBlocks çerçevesi, ajan sistem deneylerinde Claude Opus 5.5 modelini desteklemektedir.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "round2": [
+    {
+      "claim": "ToyBlocks, robot öğrenimi ve değerlendirmesi için geliştirilmiş bir simülasyon çerçevesidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "quote": "ToyBlocks: A controlled world for robot learning and evaluation"
+        }
+      ]
+    },
+    {
+      "claim": "ToyBlocks, FoundationWorlds olarak adlandırılan yeni çerçeve yapısının ilk örneğidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "quote": "Starting with ToyBlocks as our first FoundationWorld, we aim to extend the approach to increasingly complex environments."
+        },
+        {
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "quote": "Our first foundation world is ToyBlocks: an open simulation framework built around a robot arm and blocks on a tabletop."
+        }
+      ]
+    },
+    {
+      "claim": "ToyBlocks, simülasyonda robot öğrenimi için Nvidia'nın açık kaynaklı çerçevesi olan Isaac Lab'i kullanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "quote": "Skill training takes place in Isaac Lab, Nvidia's open-source framework for robot learning in simulation."
+        }
+      ]
+    },
+    {
+      "claim": "ToyBlocks, veri üretimini tek bir grafik işlem birimi (GPU) üzerinde paralel olarak gerçekleştirerek gerçek zamanlı performansın 24 katına kadar ulaşabilmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "quote": "ToyBlocks scales data generation through generating and executing hundreds of such plans in parallel on a single graphics processing unit (GPU), reaching up to 24 times real-time performance."
+        }
+      ]
+    },
+    {
+      "claim": "ToyBlocks, kısa süreli görevler için beceri oluşturmak amacıyla pekiştirmeli öğrenme (RL) ve hareket planlama yöntemlerini kullanır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "quote": "ToyBlocks uses reinforcement learning (RL) and motion planning, which computes how the robot should move, to generate skills for short-horizon tasks, which involve brief sequences of actions."
+        }
+      ]
+    },
+    {
+      "claim": "ToyBlocks çerçevesi; MolmoAct 2, MolmoBot ve MolmoSpaces gibi önceki robot öğrenme çalışmaları üzerine inşa edilmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "quote": "Building on our earlier work in open robot learning, including MolmoAct 2, MolmoBot, and MolmoSpaces, ToyBlocks gives researchers a way to study robotics questions in a deliberately constrained domain."
+        }
+      ]
+    },
+    {
+      "claim": "ToyBlocks; gerçekçi fizik, otomatik görev üretimi, muhakeme ve el becerisi gerektiren zorluklar ile geniş kapsamlı görev çeşitliliği olmak üzere dört temel gereksinim üzerine tasarlanmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "quote": "As a FoundationWorld, ToyBlocks is designed around four requirements: (1) realistic physics and appearance, (2) automatic generation of tasks and demonstrations at scale, (3) challenges that combine reasoning with dexterity, and (4) broad coverage of the tasks possible within a domain."
+        }
+      ]
+    },
+    {
+      "claim": "ToyBlocks çerçevesi, ajan sistem deneylerinde Claude Opus 5.5 modelini desteklemektedir.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "source_texts": {
+    "https://huggingface.co/blog/allenai/toyblocks": 24815,
+    "https://www.wired.com/story/aina-smart-ring/": 5023,
+    "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/": 6437,
+    "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/": 602
+  }
+}
