@@ -1,46 +1,46 @@
 {
   "cover": {
-    "category_label": "OTOMOTİV TEKNOLOJİLERİ",
-    "title": "Tesla Cybertruck İçin Yolun Sonu Mu?",
+    "category_label": "TEKNOLOJİ DÜNYASI",
+    "title": "Tesla Cybertruck üretimi sona eriyor",
     "highlight_words": [
       "Cybertruck",
-      "Sonu"
+      "üretimi"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Tesla'nın fütüristik kamyoneti hakkında dikkat çeken yeni gelişmeler yaşanıyor.",
+    "subtitle": "Tesla, Teksas fabrikasındaki üretim hakkında önemli adımlar atıyor.",
     "source_tags": [
       "BBC NEWS",
       "THE VERGE"
     ]
   },
   "context": {
-    "heading": "Cybertruck'ın Kısa Hikayesi",
+    "heading": "Süreç Nasıl İlerledi?",
     "cards": [
       {
-        "card_title": "Uzun Bir Bekleyiş",
-        "card_body": "2019 yılında geliştirme aşamasındayken büyük ilgi gören Cybertruck, uzun gecikmelerin ardından 2023 yılında piyasaya sürüldü."
+        "card_title": "Piyasaya Çıkış",
+        "card_body": "Cybertruck, yaşanan gecikmelerin ardından 2023 yılında piyasaya sürüldü."
       },
       {
-        "card_title": "Üretim Kararı",
-        "card_body": "Gelen son bilgilere göre Tesla, gelecek yıl Teksas fabrikasındaki Cybertruck üretimini sonlandırma kararı aldı."
+        "card_title": "İlk Siparişler",
+        "card_body": "Elon Musk, 2019 yılında geliştirme aşamasındayken 146.000 sipariş aldığını duyurmuştu."
       }
     ]
   },
   "stat": {
-    "big_stat": "150.000",
-    "stat_caption": "Lansman sürecindeki tüm teknik aksaklıklara rağmen alınan toplam sipariş sayısı.",
-    "stat_quote": "Projenin baş mühendisi Wes Morrill, Cybertruck'ın üretimden kaldırıldığını X üzerinden ima etti."
+    "big_stat": "46.000+",
+    "stat_caption": "2025 yılındaki geri çağırma operasyonundan etkilenen araç sayısı.",
+    "stat_quote": "Trim parçasının düşme riski nedeniyle 46.000'den fazla araç etkilendi."
   },
   "details": {
-    "heading": "Süreçte Neler Yaşandı?",
+    "heading": "Fiyatlandırma ve Gelişmeler",
     "cards": [
       {
-        "card_title": "Fiyatlandırma",
-        "card_body": "Cybertruck'ın tüm özelliklere sahip versiyonu 61.000 dolardan satışa sunulmuştu. 2026 yılında ise Cyberbeast modeli 102.000 dolar fiyatla piyasada."
+        "card_title": "Satış Fiyatları",
+        "card_body": "Tüm özelliklere sahip versiyonu 61,000 dolardan satışa sunulurken, 2026 yılındaki Cyberbeast modelinin fiyatı 102,000 dolar olarak belirlendi."
       },
       {
-        "card_title": "Teknik Sorunlar",
-        "card_body": "2025 yılındaki bir geri çağırma, trim parçasının düşme riski nedeniyle 46.000'den fazla aracı etkiledi."
+        "card_title": "Üretimin Sonu",
+        "card_body": "Tesla, gelecek yıl Teksas fabrikasındaki Cybertruck üretimini sonlandıracak."
       }
     ]
   },
@@ -48,18 +48,18 @@
     "heading": "Sektörel Yansımalar",
     "cards": [
       {
-        "card_title": "Üretim Stratejisi",
-        "card_body": "Tesla'nın bu radikal kararı, şirketin Teksas fabrikasındaki üretim önceliklerini yeniden şekillendirdiğini gösteriyor."
+        "card_title": "Mühendislik Açıklaması",
+        "card_body": "Projenin baş mühendisi Wes Morrill, X üzerinden aracın üretimden kaldırıldığını ima etti."
       },
       {
-        "card_title": "Kullanıcı Deneyimi",
-        "card_body": "Yaşanan geri çağırmalar ve üretim sonlandırma kararı, fütüristik tasarımların seri üretimdeki zorluklarını bir kez daha kanıtladı."
+        "card_title": "Gelecek Planları",
+        "card_body": "Teksas fabrikasında yaşanan bu üretim değişikliği otomotiv sektöründe yankı uyandırdı."
       }
     ]
   },
   "cta": {
-    "question": "Sizce Cybertruck, otomotiv dünyasında kalıcı bir iz bırakabildi mi?",
-    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeler için Tekno Pusula'yı takipte kalın."
+    "question": "Cybertruck'ın üretiminin sonlandırılması hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

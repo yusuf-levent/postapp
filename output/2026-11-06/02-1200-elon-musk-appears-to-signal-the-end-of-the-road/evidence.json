@@ -6,7 +6,7 @@
     "The Verge",
     "Wired"
   ],
-  "checked_at": "2026-11-06T12:58:18+03:00",
+  "checked_at": "2026-11-06T13:03:22+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
@@ -21,17 +21,7 @@
       ]
     },
     {
-      "claim": "Projenin baş mühendisi Wes Morrill, Cybertruck'ın üretimden kaldırıldığını X üzerinden ima etti.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-          "quote": "But the project's lead engineer, Wes Morrill, appeared to suggest the vehicle was being discontinued, writing on X: \"Cybertruck was an incredible technology development platform and lives on through Cybercab.\""
-        }
-      ]
-    },
-    {
-      "claim": "Cybertruck, uzun gecikmelerin ardından 2023 yılında piyasaya sürüldü.",
+      "claim": "Cybertruck, gecikmelerin ardından 2023 yılında piyasaya sürüldü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -65,13 +55,9 @@
       ]
     },
     {
-      "claim": "Cybertruck'ın tüm özelliklere sahip versiyonu 61.000 dolardan satıldı.",
+      "claim": "Cybertruck'ın tüm özelliklere sahip versiyonu 61,000 dolardan satışa sunuldu.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-          "quote": "- which ended up being $61,000 (then Â£48,000) for all the \"bells and whistles\"."
-        },
         {
           "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
           "quote": "\"We need to make it at a price that people can afford,\" Musk told Wall Street analysts that year - which ended up being $61,000 (then Â£48,000) for all the \"bells and whistles\"."
@@ -79,7 +65,7 @@
       ]
     },
     {
-      "claim": "2026 yılında Cyberbeast modeli 102.000 dolar fiyatla satışa sunuluyor.",
+      "claim": "2026 yılında Cyberbeast modelinin fiyatı 102,000 dolar olarak belirlendi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -89,12 +75,12 @@
       ]
     },
     {
-      "claim": "Tesla'nın kamyoneti, lansman hatasına rağmen 150.000 sipariş aldı.",
+      "claim": "Projenin baş mühendisi Wes Morrill, X üzerinden aracın üretimden kaldırıldığını ima etti.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-          "quote": "Tesla truck has 150,000 orders despite launch gaffe"
+          "quote": "But the project's lead engineer, Wes Morrill, appeared to suggest the vehicle was being discontinued, writing on X: \"Cybertruck was an incredible technology development platform and lives on through Cybercab.\""
         }
       ]
     }
@@ -111,17 +97,7 @@
       ]
     },
     {
-      "claim": "Projenin baş mühendisi Wes Morrill, Cybertruck'ın üretimden kaldırıldığını X üzerinden ima etti.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-          "quote": "But the project's lead engineer, Wes Morrill, appeared to suggest the vehicle was being discontinued, writing on X: \"Cybertruck was an incredible technology development platform and lives on through Cybercab.\""
-        }
-      ]
-    },
-    {
-      "claim": "Cybertruck, uzun gecikmelerin ardından 2023 yılında piyasaya sürüldü.",
+      "claim": "Cybertruck, gecikmelerin ardından 2023 yılında piyasaya sürüldü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -155,13 +131,9 @@
       ]
     },
     {
-      "claim": "Cybertruck'ın tüm özelliklere sahip versiyonu 61.000 dolardan satıldı.",
+      "claim": "Cybertruck'ın tüm özelliklere sahip versiyonu 61,000 dolardan satışa sunuldu.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-          "quote": "- which ended up being $61,000 (then Â£48,000) for all the \"bells and whistles\"."
-        },
         {
           "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
           "quote": "\"We need to make it at a price that people can afford,\" Musk told Wall Street analysts that year - which ended up being $61,000 (then Â£48,000) for all the \"bells and whistles\"."
@@ -169,7 +141,7 @@
       ]
     },
     {
-      "claim": "2026 yılında Cyberbeast modeli 102.000 dolar fiyatla satışa sunuluyor.",
+      "claim": "2026 yılında Cyberbeast modelinin fiyatı 102,000 dolar olarak belirlendi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -179,12 +151,12 @@
       ]
     },
     {
-      "claim": "Tesla'nın kamyoneti, lansman hatasına rağmen 150.000 sipariş aldı.",
+      "claim": "Projenin baş mühendisi Wes Morrill, X üzerinden aracın üretimden kaldırıldığını ima etti.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-          "quote": "Tesla truck has 150,000 orders despite launch gaffe"
+          "quote": "But the project's lead engineer, Wes Morrill, appeared to suggest the vehicle was being discontinued, writing on X: \"Cybertruck was an incredible technology development platform and lives on through Cybercab.\""
         }
       ]
     }
@@ -201,17 +173,7 @@
       ]
     },
     {
-      "claim": "Projenin baş mühendisi Wes Morrill, Cybertruck'ın üretimden kaldırıldığını X üzerinden ima etti.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-          "quote": "But the project's lead engineer, Wes Morrill, appeared to suggest the vehicle was being discontinued, writing on X: \"Cybertruck was an incredible technology development platform and lives on through Cybercab.\""
-        }
-      ]
-    },
-    {
-      "claim": "Cybertruck, uzun gecikmelerin ardından 2023 yılında piyasaya sürüldü.",
+      "claim": "Cybertruck, gecikmelerin ardından 2023 yılında piyasaya sürüldü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -245,13 +207,9 @@
       ]
     },
     {
-      "claim": "Cybertruck'ın tüm özelliklere sahip versiyonu 61.000 dolardan satıldı.",
+      "claim": "Cybertruck'ın tüm özelliklere sahip versiyonu 61,000 dolardan satışa sunuldu.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-          "quote": "- which ended up being $61,000 (then Â£48,000) for all the \"bells and whistles\"."
-        },
         {
           "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
           "quote": "\"We need to make it at a price that people can afford,\" Musk told Wall Street analysts that year - which ended up being $61,000 (then Â£48,000) for all the \"bells and whistles\"."
@@ -259,7 +217,7 @@
       ]
     },
     {
-      "claim": "2026 yılında Cyberbeast modeli 102.000 dolar fiyatla satışa sunuluyor.",
+      "claim": "2026 yılında Cyberbeast modelinin fiyatı 102,000 dolar olarak belirlendi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -269,12 +227,12 @@
       ]
     },
     {
-      "claim": "Tesla'nın kamyoneti, lansman hatasına rağmen 150.000 sipariş aldı.",
+      "claim": "Projenin baş mühendisi Wes Morrill, X üzerinden aracın üretimden kaldırıldığını ima etti.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-          "quote": "Tesla truck has 150,000 orders despite launch gaffe"
+          "quote": "But the project's lead engineer, Wes Morrill, appeared to suggest the vehicle was being discontinued, writing on X: \"Cybertruck was an incredible technology development platform and lives on through Cybercab.\""
         }
       ]
     }
