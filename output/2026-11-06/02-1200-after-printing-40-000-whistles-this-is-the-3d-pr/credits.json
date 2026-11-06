@@ -1,0 +1,47 @@
+{
+  "images": [
+    {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1%E5%8D%80_Nanshan_%E6%B7%B1%E5%9C%B3%E7%81%A3_Shenzhen_Bay_MixC_mall_Zone_A_shop_Bambu_Lab_3D_Printers_2026_N13P_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-06/02-1200-after-printing-40-000-whistles-this-is-the-3d-pr/images/img-1.png",
+      "license": "",
+      "author": "",
+      "credit_url": "https://en.wikipedia.org/wiki/Bambu%20Lab",
+      "width": 4080,
+      "height": 3060,
+      "alt_text": "Bambu Lab"
+    },
+    {
+      "source": "ogimage",
+      "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bambu-p2s.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.741906587151%2C100%2C78.516186825698&amp;w=1200",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-06/02-1200-after-printing-40-000-whistles-this-is-the-3d-pr/images/img-2.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
+      "width": 2200,
+      "height": 1467,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/17716911/pexels-photo-17716911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-06/02-1200-after-printing-40-000-whistles-this-is-the-3d-pr/images/img-3.png",
+      "license": "Pexels License — FOX ^.ᆽ.^= ∫",
+      "author": "FOX ^.ᆽ.^= ∫",
+      "credit_url": "https://www.pexels.com/photo/a-3d-printer-with-blue-lights-and-a-blue-light-17716911/",
+      "width": 1023,
+      "height": 1300,
+      "alt_text": "A close-up shot of a modern 3D printer operating in an industrial setting."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir.",
+  "music": [
+    {
+      "title": "Torley Wong - The Final Selection ::: 230 diverse MP3s",
+      "artist": "Torley Wong",
+      "license": "Creative Commons (ticari kullanıma uygun)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/us/",
+      "source_url": "https://archive.org/details/Torley_Wong_-_The_Final_Selection"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "3D YAZICI DÜNYASI",
+    "title": "Bambu P2S Combo: Yeni Bir Standart mı?",
+    "highlight_words": [
+      "Bambu P2S",
+      "Standart"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "3D yazıcı dünyasında fiyat ve performans dengesi değişiyor. İşte detaylar.",
+    "source_tags": [
+      "THE VERGE",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Piyasada Neler Oluyor?",
+    "cards": [
+      {
+        "card_title": "Fiyatlandırma Detayları",
+        "card_body": "Bambu P2S Combo, 1 Aralık'a kadar 649 dolardan satışta. Normal fiyatı ise 749 dolar seviyesinde."
+      },
+      {
+        "card_title": "Rekabetçi Alternatifler",
+        "card_body": "Piyasada Elegoo Centauri Carbon 2 Combo 369 dolara, Bambu P1S Combo ise 509 dolara bulunabiliyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "6.770 Saat",
+    "stat_caption": "Yazarın dört farklı yazıcıda gerçekleştirdiği toplam baskı süresi.",
+    "stat_quote": "Bu süreçte toplam 40.000 adet düdük baskısı başarıyla tamamlandı."
+  },
+  "details": {
+    "heading": "Kullanım ve Bakım Notları",
+    "cards": [
+      {
+        "card_title": "Bambu P2S Bakımı",
+        "card_body": "1.692 saatlik baskı süresinde nozul iki kez değiştirildi. Aletsiz değiştirilebilen sıcak ucun (hotend) fiyatı 18 dolar."
+      },
+      {
+        "card_title": "Elegoo Yazıcı Maliyetleri",
+        "card_body": "Elegoo cihazlarda sekiz adet nozul 25 dolara, tüm sıcak uç (hotend) ise 30 dolara mal oluyor."
+      },
+      {
+        "card_title": "Uzun Süreli Testler",
+        "card_body": "Yazar, Centauri Carbon ile 1.271 saat, Centauri Carbon 2 ile 939 saat ve P1P modeliyle yaklaşık 3.000 saat baskı yaptı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcıya Etkisi",
+    "cards": [
+      {
+        "card_title": "Bakım Kolaylığı",
+        "card_body": "Bambu P2S modelindeki aletsiz değiştirilebilir sıcak uç tasarımı, bakım süreçlerini daha pratik hale getiriyor."
+      },
+      {
+        "card_title": "Maliyet Yönetimi",
+        "card_body": "Yedek parça fiyatları ve yazıcıların ilk alım maliyetleri, uzun vadeli kullanımda bütçeyi doğrudan etkiliyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce 3D yazıcı seçiminde en kritik kriter hangisi: İlk satın alma maliyeti mi, yoksa yedek parça fiyatları mı?",
+    "reminder_line": "Tekno Pusula'yı takip et, teknoloji dünyasından geri kalma."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
