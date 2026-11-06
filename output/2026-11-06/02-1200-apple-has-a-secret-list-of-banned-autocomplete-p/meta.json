@@ -2,9 +2,9 @@
   "slot": "12:00",
   "type": "news",
   "model": "gemini-3.1-flash-lite",
-  "duration_seconds": 88.9,
+  "duration_seconds": 92.9,
   "candidates_tried": 1,
-  "gemini_calls": 15,
+  "gemini_calls": 14,
   "canonical_url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
-  "generated_at": "2026-11-06T18:14:39+03:00"
+  "generated_at": "2026-11-06T18:24:07+03:00"
 }
