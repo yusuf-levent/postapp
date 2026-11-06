@@ -1,0 +1,10 @@
+{
+  "slot": "12:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 190.7,
+  "candidates_tried": 1,
+  "gemini_calls": 36,
+  "canonical_url": "https://www.wired.com/story/greenlight-hub-black-friday-deal-2026/",
+  "generated_at": "2026-11-06T13:46:02+03:00"
+}
