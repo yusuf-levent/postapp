@@ -1,69 +1,61 @@
 {
   "cover": {
-    "category_label": "YENİ NESİL TEKNOLOJİ",
-    "title": "Karşınızda iPhone Duo: Katlanabilir Gelecek",
+    "category_label": "YENİ TEKNOLOJİ",
+    "title": "İPHONE DUO TANITILDI",
     "highlight_words": [
-      "iPhone Duo",
-      "Katlanabilir"
+      "İPHONE",
+      "DUO"
     ],
-    "highlight_color": "cyan",
-    "subtitle": "Apple'ın yeni katlanabilir cihazı, iddialı özellikleriyle teknoloji dünyasında.",
+    "highlight_color": "yellow",
+    "subtitle": "Apple ailesinin yeni üyesi hakkındaki tüm doğrulanmış detaylar.",
     "source_tags": [
       "THE VERGE",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "iPhone Duo Neler Sunuyor?",
+    "heading": "Öne Çıkan Temel Özellikler",
     "cards": [
       {
-        "card_title": "Ekran Teknolojisi",
-        "card_body": "iPhone Duo'nun iç ekranında, yansımaları azaltan ve daha net bir görüntü sunan özel nano-texture mat kaplama bulunuyor."
+        "card_title": "DAYANIKLILIK",
+        "card_body": "iPhone Duo modeli IP68 derecesine sahiptir."
       },
       {
-        "card_title": "Dayanıklılık",
-        "card_body": "Cihaz, günlük kullanımda güven veren IP68 suya ve toza dayanıklılık derecesine sahip."
+        "card_title": "KALEM DESTEĞİ",
+        "card_body": "Merkezi ekranda USB-C Apple Pencil ile kalem desteği sunmaktadır."
       }
     ]
   },
   "stat": {
     "big_stat": "2.000 $",
-    "stat_caption": "iPhone Duo'nun piyasaya giriş fiyatı olarak belirlenen etiket değeri.",
-    "stat_quote": "Yüksek performans ve premium özellikler, bu fiyat seviyesinde kullanıcılarla buluşuyor. - Ars Technica"
+    "stat_caption": "Yeni iPhone Duo modelinin belirlenen satış fiyatı.",
+    "stat_quote": "iPhone Duo fiyatı 2.000 dolardır."
   },
   "details": {
-    "heading": "Teknik Detaylar",
+    "heading": "Kamera ve Donanım Detayları",
     "cards": [
       {
-        "card_title": "Kamera Sistemi",
-        "card_body": "Arka tarafta yer alan iki adet 48 megapiksel lens, yüksek çözünürlüklü fotoğraf ve video çekimleri için optimize edildi."
-      },
-      {
-        "card_title": "Stylus Desteği",
-        "card_body": "Cihaz, USB-C Apple Pencil desteği sayesinde yaratıcı işler ve not alma süreçleri için oldukça elverişli."
-      },
-      {
-        "card_title": "Batarya Gücü",
-        "card_body": "iPhone Duo, Samsung'un katlanabilir telefon modellerine kıyasla daha yüksek bir batarya kapasitesi sunuyor."
+        "card_title": "KAMERA SİSTEMİ",
+        "card_body": "Biri ana diğeri ultra geniş olmak üzere 48 megapiksellik bir çift arka merceğe sahiptir."
       }
     ]
   },
   "impact": {
-    "heading": "Sektörel Etki",
+    "heading": "Sektör ve Kullanıcı Etkisi",
     "cards": [
       {
-        "card_title": "Rekabet Kızışıyor",
-        "card_body": "Yüksek batarya kapasitesi ve özel ekran kaplamasıyla iPhone Duo, katlanabilir telefon pazarındaki rekabeti bir üst seviyeye taşıyor."
+        "card_title": "KULLANIM DENEYİMİ",
+        "card_body": "USB-C Apple Pencil desteği ile merkezi ekranda yeni bir çalışma alanı sunuyor."
       },
       {
-        "card_title": "Kullanıcı Deneyimi",
-        "card_body": "Stylus desteği ve gelişmiş kamera sistemi, profesyonel kullanıcıların mobil cihazlardan beklentilerini yeniden şekillendiriyor."
+        "card_title": "FİYAT KONUMLANDIRMASI",
+        "card_body": "2.000 dolar seviyesindeki fiyat etiketiyle dikkat çekiyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce 2.000 dolarlık fiyat etiketi, sunduğu özellikler için makul mü?",
-    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın."
+    "question": "iPhone Duo'nun 2.000 dolarlık fiyatı ve özellikleri hakkında ne düşünüyorsunuz?",
+    "reminder_line": "En güncel teknoloji içerikleri için Tekno Pusula'yı takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

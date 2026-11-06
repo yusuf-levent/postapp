@@ -1,10 +1,10 @@
 {
   "slot": "12:00",
   "type": "news",
-  "model": "gemini-3.5-flash-lite",
-  "duration_seconds": 157.7,
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 108.2,
   "candidates_tried": 1,
-  "gemini_calls": 18,
+  "gemini_calls": 17,
   "canonical_url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
-  "generated_at": "2026-11-06T15:45:07+03:00"
+  "generated_at": "2026-11-06T15:50:29+03:00"
 }

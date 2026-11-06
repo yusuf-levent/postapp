@@ -24,19 +24,8 @@
     },
     {
       "source": "pexels",
-      "url": "https://images.pexels.com/photos/19281806/pexels-photo-19281806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-06/02-1200-i-ve-reviewed-almost-every-android-foldable-this/images/img-3.png",
-      "license": "Pexels License — Rohit Sharma",
-      "author": "Rohit Sharma",
-      "credit_url": "https://www.pexels.com/photo/foldable-oppo-phone-19281806/",
-      "width": 1040,
-      "height": 1300,
-      "alt_text": "Close-up of a luxury foldable smartphone with a sleek design against a vibrant pink background."
-    },
-    {
-      "source": "pexels",
       "url": "https://images.pexels.com/photos/19281810/pexels-photo-19281810.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-06/02-1200-i-ve-reviewed-almost-every-android-foldable-this/images/img-4.png",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-06/02-1200-i-ve-reviewed-almost-every-android-foldable-this/images/img-3.png",
       "license": "Pexels License — Rohit Sharma",
       "author": "Rohit Sharma",
       "credit_url": "https://www.pexels.com/photo/oppo-find-n3-flip-smartphone-on-a-pile-of-stones-19281810/",
@@ -47,13 +36,24 @@
     {
       "source": "pexels",
       "url": "https://images.pexels.com/photos/19281807/pexels-photo-19281807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-06/02-1200-i-ve-reviewed-almost-every-android-foldable-this/images/img-5.png",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-06/02-1200-i-ve-reviewed-almost-every-android-foldable-this/images/img-4.png",
       "license": "Pexels License — Rohit Sharma",
       "author": "Rohit Sharma",
       "credit_url": "https://www.pexels.com/photo/oppo-find-n3-flip-smartphone-on-a-box-19281807/",
       "width": 1040,
       "height": 1300,
       "alt_text": "A stylish and sleek smartphone displayed on stacked boxes, embodying modern technology and design."
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/14486283/pexels-photo-14486283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-06/02-1200-i-ve-reviewed-almost-every-android-foldable-this/images/img-5.png",
+      "license": "Pexels License — I'm Zion",
+      "author": "I'm Zion",
+      "credit_url": "https://www.pexels.com/photo/black-smartphones-standing-on-a-desk-14486283/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "A sleek display of two smartphones against a glowing monitor on a minimalist desk."
     }
   ],
   "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."

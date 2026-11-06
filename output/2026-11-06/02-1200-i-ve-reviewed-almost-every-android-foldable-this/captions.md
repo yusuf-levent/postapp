@@ -2,70 +2,79 @@
 
 ## INSTAGRAM
 
-Apple'ın merakla beklenen katlanabilir modeli iPhone Duo nihayet teknoloji dünyasının gündeminde! 
+Apple ailesinin yeni üyesi iPhone Duo resmen tanıtıldı! 📱✨
 
-Nano-texture mat ekran kaplaması, IP68 dayanıklılığı, 48 MP çift kamerası ve Apple Pencil desteğiyle oldukça iddialı özellikler sunuyor. 2.000 dolarlık başlangıç fiyatı ise şimdiden büyük bir tartışma konusu.
+Teknoloji dünyasında heyecan yaratan bu yeni model, 48 MP çift arka kamera sistemi ve IP68 dayanıklılık sertifikasıyla dikkat çekiyor. En çok konuşulan özelliklerinden biri ise USB-C Apple Pencil desteği; bu sayede merkezi ekran artık çok daha işlevsel bir çalışma alanına dönüşüyor.
 
-Sizce 2.000 dolarlık bu etiket, sunduğu özellikler için makul mü?
+Cihazın belirlenen satış fiyatı ise 2.000 dolar olarak açıklandı.
 
-Tekno Pusula'yı takipte kalın.
+Sizce iPhone Duo'nun sunduğu bu özellikler 2.000 dolarlık fiyat etiketini hak ediyor mu? Yorumlarda buluşalım!
 
-Kaynak: The Verge, TechCrunch, Ars Technica
-
-#iPhoneDuo #Apple #KatlanabilirTelefon #Teknoloji #TechNews #Gadgets #TheVerge #TeknoPusula
-
-## TIKTOK
-
-Apple'ın ilk katlanabilir telefonu iPhone Duo tanıtıldı! 2.000 dolar fiyat, 48 MP kamera ve Apple Pencil desteğiyle geliyor. Sizce alınır mı?
+En güncel teknoloji içerikleri için Tekno Pusula'yı takipte kalın!
 
 Kaynak: The Verge, TechCrunch
 
-#iPhoneDuo #Apple #Teknoloji #TechTok #KatlanabilirTelefon
+#iPhoneDuo #Apple #YeniTeknoloji #TeknolojiHaberleri #iPhone #ApplePencil #TeknoPusula #TechNews #Smartphone #Innovation
+
+## TIKTOK
+
+iPhone Duo tanıtıldı! 📱 2.000 dolarlık fiyatı ve USB-C Apple Pencil desteğiyle geliyor. 48 MP çift kamera sistemi ve IP68 dayanıklılık öne çıkan detaylar arasında. Sizce bu fiyat etiketiyle alınır mı? 
+
+Kaynak: The Verge, TechCrunch
+
+#iPhoneDuo #Apple #Teknoloji #YeniiPhone #TechTok
 
 ## X
 
-Apple'ın yeni katlanabilir modeli iPhone Duo; nano-texture ekran, 48MP kamera ve Apple Pencil desteğiyle tanıtıldı! 2.000$ başlangıç fiyatı hakkında ne düşünüyorsunuz?
+Apple'ın yeni modeli iPhone Duo tanıtıldı! 📱
 
-Kaynak: Ars Technica
+- 48 MP çift kamera
+- IP68 dayanıklılık
+- USB-C Apple Pencil desteği
+- Fiyat: 2.000$
+
+Sizce bu özellikler 2.000 dolar eder mi? 
+
+Kaynak: The Verge, TechCrunch
 
 #iPhoneDuo #Apple
 
 ## THREADS
 
-Karşınızda iPhone Duo: Katlanabilir Gelecek!
+iPhone Duo Tanıtıldı! 📱
 
-Apple'ın yeni katlanabilir cihazı; nano-texture mat ekranı, 48 MP kamerası ve Apple Pencil desteğiyle teknoloji dünyasında rekabeti kızıştırıyor. Cihazın başlangıç fiyatı ise 2.000 dolar olarak belirlendi.
+Apple'ın yeni üyesi 48 MP çift kamera sistemi, IP68 dayanıklılık ve USB-C Apple Pencil desteği ile geliyor. Özellikle kalem desteği, merkezi ekranı yeni bir çalışma alanına dönüştürüyor.
 
-Sizce 2.000 dolarlık fiyat etiketi bu özellikler için makul mü?
+Cihazın fiyatı ise 2.000 dolar olarak belirlendi. Sizce bu fiyat ve özellikler dengeli mi? 💭
 
-💭 Tekno Pusula
-
-Kaynak: The Verge
+Kaynak: The Verge, TechCrunch
 
 #iPhoneDuo
 
 ## LINKEDIN
 
-Apple, katlanabilir telefon pazarındaki rekabeti iPhone Duo ile bir üst seviyeye taşıyor.
+Apple, yeni iPhone Duo modelini duyurarak mobil cihaz pazarındaki stratejisini güncelliyor. 2.000 dolarlık fiyat etiketiyle premium segmentte konumlanan cihaz, özellikle profesyonel kullanım senaryolarına odaklanıyor.
 
-2.000 dolar etiket fiyatıyla gelen cihaz; nano-texture mat ekran teknolojisi, IP68 dayanıklılık derecesi, 48 megapiksel çift kamera sistemi ve USB-C Apple Pencil desteği gibi profesyonel kullanıcıların beklentilerini şekillendiren özellikler sunuyor. Yüksek batarya kapasitesi de sektördeki diğer modellere kıyasla dikkat çekici bir detay.
+Öne çıkan teknik detaylar arasında 48 MP çift kamera sistemi, IP68 dayanıklılık sertifikası ve USB-C Apple Pencil desteği bulunuyor. Özellikle kalem desteğinin merkezi ekrana entegre edilmesi, mobil cihazlarda verimlilik odaklı yeni bir çalışma alanı yaratma hedefi taşıyor.
 
-Sektörel olarak bu hamlenin mobil pazarın dinamiklerini nasıl etkileyeceğini düşünüyorsunuz?
-
-Kaynak: TechCrunch, Ars Technica
-
-#iPhoneDuo #Apple #Teknoloji #MobilDünya #Inovasyon
-
-## FACEBOOK
-
-Apple'ın yeni katlanabilir cihazı iPhone Duo, iddialı özellikleriyle teknoloji dünyasında büyük yankı uyandırdı!
-
-Nano-texture mat ekranı, IP68 suya ve toza dayanıklılığı, 48 MP çift kamerası ve Apple Pencil desteğiyle dikkat çeken cihazın başlangıç fiyatı 2.000 dolar.
-
-Sizce 2.000 dolarlık fiyat etiketi, sunduğu özellikler için makul mü?
-
-Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın.
+Sektörün bu fiyatlandırma stratejisine ve donanım yeniliklerine tepkisi merak konusu. Sizin bu yeni model hakkındaki görüşleriniz neler?
 
 Kaynak: The Verge, TechCrunch
 
-#iPhoneDuo #Apple #Teknoloji #TeknoPusula
+#Apple #iPhoneDuo #Teknoloji #MobilTeknoloji #İnovasyon
+
+## FACEBOOK
+
+Apple ailesinin yeni üyesi iPhone Duo resmen tanıtıldı! 📱
+
+Yeni model, 48 MP çift arka kamera sistemi ve IP68 dayanıklılık sertifikasıyla dikkat çekiyor. En çok konuşulan özelliklerinden biri ise USB-C Apple Pencil desteği; bu sayede merkezi ekran artık çok daha işlevsel bir çalışma alanına dönüşüyor.
+
+Cihazın belirlenen satış fiyatı ise 2.000 dolar olarak açıklandı.
+
+Sizce iPhone Duo'nun sunduğu bu özellikler 2.000 dolarlık fiyat etiketini hak ediyor mu? Yorumlarda buluşalım!
+
+En güncel teknoloji içerikleri için Tekno Pusula'yı takipte kalın!
+
+Kaynak: The Verge, TechCrunch
+
+#iPhoneDuo #Apple #YeniTeknoloji #TeknolojiHaberleri #TeknoPusula
