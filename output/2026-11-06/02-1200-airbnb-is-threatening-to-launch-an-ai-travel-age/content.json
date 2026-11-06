@@ -1,50 +1,46 @@
 {
   "cover": {
     "category_label": "YAPAY ZEKA VE SEYAHAT",
-    "title": "Airbnb'den Yeni Yapay Zeka Seyahat Asistanı",
+    "title": "Airbnb'den Yeni Yapay Zeka Seyahat Acentası",
     "highlight_words": [
       "Yapay Zeka",
-      "Seyahat Asistanı"
+      "Seyahat Acentası"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Şirket, gelecek yıl için yeni planlarını duyurdu.",
+    "subtitle": "Airbnb, Q3 2026 hissedar mektubunda yeni yapay zeka seyahat acentasını duyurdu.",
     "source_tags": [
       "ENGADGET",
       "THE VERGE"
     ]
   },
   "context": {
-    "heading": "Hissedar Mektubundaki Detaylar",
+    "heading": "Yeni Nesil Seyahat Deneyimi",
     "cards": [
       {
-        "card_title": "Açıklamanın Kaynağı",
-        "card_body": "Airbnb, yeni yapay zeka seyahat asistanı planını Q3 2026 kazançları ile birlikte yayınladığı hissedar mektubunda açıkladı."
+        "card_title": "Hissedar Mektubu Açıklaması",
+        "card_body": "Airbnb, Q3 2026 kazançları ile birlikte yayınladığı mektupta yeni bir yapay zeka seyahat acentası geliştirdiğini açıkladı."
       },
       {
-        "card_title": "Çıkış Takvimi",
-        "card_body": "Şirket, gelecek yıl bir yapay zeka seyahat asistanı piyasaya sürmeyi planlıyor ve yeni deneyimi 2027 yılının ilk yarısında sunmaya başlayacak."
+        "card_title": "Mevcut Yapay Zeka Adımları",
+        "card_body": "Şirket, birkaç ay önce doğal dil ile arama ve ilanlar için yapay zeka açıklamalarını kullanıma sundu."
       }
     ]
   },
   "stat": {
     "big_stat": "2027",
-    "stat_caption": "Yeni yapay zeka deneyiminin kullanıcıların kullanımına sunulmaya başlayacağı dönem.",
-    "stat_quote": "Airbnb, yeni deneyimi kullanıcıların kullanımına 2027 yılının ilk yarısında sunmaya başlayacak."
+    "stat_caption": "Yeni yapay zeka deneyiminin kullanıcılara sunulmaya başlanacağı dönem.",
+    "stat_quote": "Airbnb, yeni yapay zeka deneyimini 2027 yılının ilk yarısında kullanıcılara sunmayı planlıyor."
   },
   "details": {
-    "heading": "Nasıl Çalışacak?",
+    "heading": "Özel Arayüz Özellikleri",
     "cards": [
       {
-        "card_title": "Gerçek Zamanlı Arayüz",
-        "card_body": "Yeni yapay zeka seyahat asistanı, kullanıcıların sorularına göre gerçek zamanlı olarak arayüz oluşturacak."
+        "card_title": "Gerçek Zamanlı İçerik",
+        "card_body": "Kullanıcıların sorularına göre haritalar ve fotoğraflar anlık olarak ekleniyor."
       },
       {
-        "card_title": "Doğal Dil Araması",
-        "card_body": "Şirket, birkaç ay önce doğal dil kullanarak arama yapmaya imkan tanıyan yapay zeka aramasını başlattı."
-      },
-      {
-        "card_title": "Geçmiş Hizmetler",
-        "card_body": "Airbnb geçmişte uygulama içinde market teslimatı, araç kiralama, tekne ve kayak ekipmanı gibi hizmetler başlattı."
+        "card_title": "Program ve Karşılaştırma",
+        "card_body": "Özel arayüz üzerinden seyahat programları oluşturulabiliyor ve karşılaştırmalar yapılabiliyor."
       }
     ]
   },
@@ -53,17 +49,17 @@
     "cards": [
       {
         "card_title": "Kullanıcı Deneyimi",
-        "card_body": "Sorulara göre anlık oluşturulan arayüzler, seyahat planlama süreçlerini tamamen doğal bir sohbet deneyimine dönüştürecek."
+        "card_body": "Doğal dil ile arama ve özel seyahat asistanı arayüzü planlanıyor."
       },
       {
-        "card_title": "Platformun Gelişimi",
-        "card_body": "Doğal dil aramaları ve yeni asistan hamlesi, Airbnb'nin sunduğu dijital hizmet yelpazesini yapay zeka ile güçlendiriyor."
+        "card_title": "Teknolojik Dönüşüm",
+        "card_body": "Airbnb, platformuna entegre ettiği yapay zeka araçlarıyla seyahat planlamasını yeniden şekillendiriyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce yapay zeka destekli arayüzler seyahat planlamayı nasıl değiştirecek?",
-    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın!"
+    "question": "Airbnb'nin yeni yapay zeka seyahat acentası planları hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji ve yapay zeka gelişmelerini kaçırmamak için takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
