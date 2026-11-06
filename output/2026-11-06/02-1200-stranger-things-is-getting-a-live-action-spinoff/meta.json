@@ -2,9 +2,9 @@
   "slot": "12:00",
   "type": "news",
   "model": "gemini-3.1-flash-lite",
-  "duration_seconds": 117.9,
+  "duration_seconds": 135.2,
   "candidates_tried": 1,
   "gemini_calls": 14,
   "canonical_url": "https://www.theverge.com/entertainment/1028608/other-worlds-a-stranger-things-adventure-netflix-announce-trailer",
-  "generated_at": "2026-11-06T17:44:23+03:00"
+  "generated_at": "2026-11-06T17:55:16+03:00"
 }
