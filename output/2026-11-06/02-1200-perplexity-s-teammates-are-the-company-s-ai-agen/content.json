@@ -1,64 +1,64 @@
 {
   "cover": {
     "category_label": "YAPAY ZEKA",
-    "title": "Perplexity'den Yeni Ajanlar",
+    "title": "Perplexity'den Yeni Kişisel AI: Teammates",
     "highlight_words": [
-      "Yeni Ajanlar"
+      "Teammates"
     ],
-    "highlight_color": "yellow",
-    "subtitle": "Perplexity, kişisel yapay zeka ajanlarını duyurdu.",
+    "highlight_color": "cyan",
+    "subtitle": "Günlük işlerinizi kolaylaştırmak için tasarlanan yeni yapay zeka asistanları geldi.",
     "source_tags": [
       "ENGADGET",
-      "TECHCRUNCH"
+      "THE VERGE"
     ]
   },
   "context": {
-    "heading": "Perplexity Teammates Nedir?",
+    "heading": "Teammates Nedir?",
     "cards": [
       {
-        "card_title": "Kişisel Ajanlar",
-        "card_body": "Perplexity, teammates adı verilen kişisel yapay zeka ajanlarını piyasaya sürdü."
+        "card_title": "Günlük İşler İçin Tasarlandı",
+        "card_body": "Perplexity, günlük iş akışlarını yönetmek üzere tasarlanan kişisel yapay zeka asistanları olan Teammates'i duyurdu."
       },
       {
-        "card_title": "Bulut Tabanlı",
-        "card_body": "Bu ajanlar, Perplexity Computer adı verilen bulut tabanlı asistan içinde çalışmaktadır."
+        "card_title": "Perplexity Computer Entegrasyonu",
+        "card_body": "Bu yeni asistanlar, şirketin bulut tabanlı yapay zeka aracı olan Perplexity Computer içerisinde çalışıyor."
       }
     ]
   },
   "stat": {
-    "big_stat": "7/24",
-    "stat_caption": "Arka Planda Çalışma Süresi",
-    "stat_quote": "Teammates ajanları arka planda 7 gün 24 saat çalışabilmektedir."
+    "big_stat": "200$",
+    "stat_caption": "Perplexity Max aboneliğinin aylık ücreti.",
+    "stat_quote": "Teammates özelliği, yalnızca Perplexity Max abonelerine özel olarak sunuluyor. Yıllık abonelik bedeli ise 2.000 dolar."
   },
   "details": {
-    "heading": "Kullanım Detayları",
+    "heading": "Nasıl Çalışıyor?",
     "cards": [
       {
-        "card_title": "Özel Abonelik",
-        "card_body": "Teammates özelliği yalnızca ayda 200 dolar veya yılda 2.000 dolar ödeyen Perplexity Max abonelerine özeldir."
+        "card_title": "7/24 Çalışma Kapasitesi",
+        "card_body": "Teammates, arka planda 7/24 çalışabiliyor ve önemli kararlar almanız gerektiğinde size bildirim gönderiyor."
       },
       {
-        "card_title": "Platform Desteği",
-        "card_body": "Perplexity Max aboneliği web ve iOS üzerinde kullanılabilmektedir."
+        "card_title": "Erişim Platformları",
+        "card_body": "Yeni özellik şu an için hem web tarayıcıları üzerinden hem de iOS cihazlarda kullanılabilir durumda."
       }
     ]
   },
   "impact": {
-    "heading": "Sektör ve Kullanıcı Etkisi",
+    "heading": "Kullanıcıya Etkisi",
     "cards": [
       {
-        "card_title": "Kesintisiz Asistan",
-        "card_body": "Ajanların 7/24 arka planda çalışabilmesi kullanıcı deneyimini etkiliyor."
+        "card_title": "İş Akışında Verimlilik",
+        "card_body": "Kullanıcılar, arka planda çalışan asistanlar sayesinde günlük görevlerini daha sistematik bir şekilde yönetebilecek."
       },
       {
-        "card_title": "Max Abonelik Modeli",
-        "card_body": "Yüksek fiyatlı özel abonelik modeli ile sunuluyor."
+        "card_title": "Karar Alma Süreçleri",
+        "card_body": "Asistanların kritik anlarda bildirim göndermesi, kullanıcıların sadece gerekli noktalara odaklanmasını sağlıyor."
       }
     ]
   },
   "cta": {
-    "question": "7/24 çalışan bu ajanları iş süreçlerinizde kullanır mısınız?",
-    "reminder_line": "Tekno Pusula ile teknolojiyi takipte kalın."
+    "question": "Sizce yapay zeka asistanlarının arka planda 7/24 çalışması iş verimliliğinizi nasıl değiştirir?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeler için Tekno Pusula'yı takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

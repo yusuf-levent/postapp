@@ -7,18 +7,14 @@
     "The Verge",
     "Wired"
   ],
-  "checked_at": "2026-11-06T14:38:08+03:00",
+  "checked_at": "2026-11-06T14:48:42+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Perplexity, \"teammates\" adı verilen kişisel yapay zeka ajanlarını piyasaya sürdü.",
+      "claim": "Perplexity has launched its personal AI agents called teammates designed for daily work tasks.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
-          "quote": "Perplexity has launched its personal AI agents called \"teammates,\""
-        },
         {
           "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
           "quote": "Perplexity has launched its personal AI agents called \"teammates,\" which are designed to be able to tackle ongoing work autonomously with minimal supervision."
@@ -26,35 +22,27 @@
       ]
     },
     {
-      "claim": "\"Teammates\" özelliği yalnızca ayda 200 dolar veya yılda 2.000 dolar ödeyen Perplexity Max abonelerine özeldir.",
+      "claim": "The teammates feature is exclusively available to Perplexity Max subscribers.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
           "quote": "They're exclusively available to Perplexity Max subscribers paying $200 a month."
-        },
-        {
-          "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
-          "quote": "That makes it a pretty expensive proposition, as the subscription plan costs $200 a month or $2,000 a year."
-        },
-        {
-          "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
-          "quote": "At the moment, the feature is exclusively available to Perplexity Max subscribers on the web and on iOS. That makes it a pretty expensive proposition, as the subscription plan costs $200 a month or $2,000 a year."
         }
       ]
     },
     {
-      "claim": "Perplexity Max aboneliği web ve iOS üzerinde kullanılabilmektedir.",
+      "claim": "Perplexity Max subscription costs $200 a month or $2,000 a year.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
-          "quote": "At the moment, the feature is exclusively available to Perplexity Max subscribers on the web and on iOS."
+          "quote": "That makes it a pretty expensive proposition, as the subscription plan costs $200 a month or $2,000 a year."
         }
       ]
     },
     {
-      "claim": "Ajanlar, Perplexity Computer adlı bulut tabanlı asistan içinde çalışmaktadır.",
+      "claim": "The agents work inside Perplexity Computer, the company's cloud-based agentic assistant.",
       "verdict": "supported",
       "evidence": [
         {
@@ -64,25 +52,31 @@
       ]
     },
     {
-      "claim": "Teammates ajanları arka planda 7 gün 24 saat çalışabilmektedir.",
+      "claim": "Teammates can work 24/7 in the background and notify users when decisions are needed.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
           "quote": "Teammates work 24/7 in the background and will notify you when you have to make decisions."
+        }
+      ]
+    },
+    {
+      "claim": "The teammates feature is currently available on the web and on iOS.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
+          "quote": "At the moment, the feature is exclusively available to Perplexity Max subscribers on the web and on iOS."
         }
       ]
     }
   ],
   "round1": [
     {
-      "claim": "Perplexity, \"teammates\" adı verilen kişisel yapay zeka ajanlarını piyasaya sürdü.",
+      "claim": "Perplexity has launched its personal AI agents called teammates designed for daily work tasks.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
-          "quote": "Perplexity has launched its personal AI agents called \"teammates,\""
-        },
         {
           "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
           "quote": "Perplexity has launched its personal AI agents called \"teammates,\" which are designed to be able to tackle ongoing work autonomously with minimal supervision."
@@ -90,35 +84,27 @@
       ]
     },
     {
-      "claim": "\"Teammates\" özelliği yalnızca ayda 200 dolar veya yılda 2.000 dolar ödeyen Perplexity Max abonelerine özeldir.",
+      "claim": "The teammates feature is exclusively available to Perplexity Max subscribers.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
           "quote": "They're exclusively available to Perplexity Max subscribers paying $200 a month."
-        },
-        {
-          "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
-          "quote": "That makes it a pretty expensive proposition, as the subscription plan costs $200 a month or $2,000 a year."
-        },
-        {
-          "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
-          "quote": "At the moment, the feature is exclusively available to Perplexity Max subscribers on the web and on iOS. That makes it a pretty expensive proposition, as the subscription plan costs $200 a month or $2,000 a year."
         }
       ]
     },
     {
-      "claim": "Perplexity Max aboneliği web ve iOS üzerinde kullanılabilmektedir.",
+      "claim": "Perplexity Max subscription costs $200 a month or $2,000 a year.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
-          "quote": "At the moment, the feature is exclusively available to Perplexity Max subscribers on the web and on iOS."
+          "quote": "That makes it a pretty expensive proposition, as the subscription plan costs $200 a month or $2,000 a year."
         }
       ]
     },
     {
-      "claim": "Ajanlar, Perplexity Computer adlı bulut tabanlı asistan içinde çalışmaktadır.",
+      "claim": "The agents work inside Perplexity Computer, the company's cloud-based agentic assistant.",
       "verdict": "supported",
       "evidence": [
         {
@@ -128,25 +114,31 @@
       ]
     },
     {
-      "claim": "Teammates ajanları arka planda 7 gün 24 saat çalışabilmektedir.",
+      "claim": "Teammates can work 24/7 in the background and notify users when decisions are needed.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
           "quote": "Teammates work 24/7 in the background and will notify you when you have to make decisions."
+        }
+      ]
+    },
+    {
+      "claim": "The teammates feature is currently available on the web and on iOS.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
+          "quote": "At the moment, the feature is exclusively available to Perplexity Max subscribers on the web and on iOS."
         }
       ]
     }
   ],
   "round2": [
     {
-      "claim": "Perplexity, \"teammates\" adı verilen kişisel yapay zeka ajanlarını piyasaya sürdü.",
+      "claim": "Perplexity has launched its personal AI agents called teammates designed for daily work tasks.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
-          "quote": "Perplexity has launched its personal AI agents called \"teammates,\""
-        },
         {
           "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
           "quote": "Perplexity has launched its personal AI agents called \"teammates,\" which are designed to be able to tackle ongoing work autonomously with minimal supervision."
@@ -154,35 +146,27 @@
       ]
     },
     {
-      "claim": "\"Teammates\" özelliği yalnızca ayda 200 dolar veya yılda 2.000 dolar ödeyen Perplexity Max abonelerine özeldir.",
+      "claim": "The teammates feature is exclusively available to Perplexity Max subscribers.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
           "quote": "They're exclusively available to Perplexity Max subscribers paying $200 a month."
-        },
-        {
-          "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
-          "quote": "That makes it a pretty expensive proposition, as the subscription plan costs $200 a month or $2,000 a year."
-        },
-        {
-          "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
-          "quote": "At the moment, the feature is exclusively available to Perplexity Max subscribers on the web and on iOS. That makes it a pretty expensive proposition, as the subscription plan costs $200 a month or $2,000 a year."
         }
       ]
     },
     {
-      "claim": "Perplexity Max aboneliği web ve iOS üzerinde kullanılabilmektedir.",
+      "claim": "Perplexity Max subscription costs $200 a month or $2,000 a year.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
-          "quote": "At the moment, the feature is exclusively available to Perplexity Max subscribers on the web and on iOS."
+          "quote": "That makes it a pretty expensive proposition, as the subscription plan costs $200 a month or $2,000 a year."
         }
       ]
     },
     {
-      "claim": "Ajanlar, Perplexity Computer adlı bulut tabanlı asistan içinde çalışmaktadır.",
+      "claim": "The agents work inside Perplexity Computer, the company's cloud-based agentic assistant.",
       "verdict": "supported",
       "evidence": [
         {
@@ -192,12 +176,22 @@
       ]
     },
     {
-      "claim": "Teammates ajanları arka planda 7 gün 24 saat çalışabilmektedir.",
+      "claim": "Teammates can work 24/7 in the background and notify users when decisions are needed.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
           "quote": "Teammates work 24/7 in the background and will notify you when you have to make decisions."
+        }
+      ]
+    },
+    {
+      "claim": "The teammates feature is currently available on the web and on iOS.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
+          "quote": "At the moment, the feature is exclusively available to Perplexity Max subscribers on the web and on iOS."
         }
       ]
     }
