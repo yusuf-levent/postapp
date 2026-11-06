@@ -1,35 +1,34 @@
 {
   "cover": {
-    "category_label": "TEKNOLOJİ DÜNYASI",
-    "title": "Teknoloji Piyasalarında Büyük Kayıp",
+    "category_label": "PİYASA VE TEKNOLOJİ",
+    "title": "Teknoloji Sektöründe Büyük Düşüş",
     "highlight_words": [
-      "Büyük",
-      "Kayıp"
+      "Büyük Düşüş"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Piyasalardaki son gelişmeler ve teknoloji hisselerindeki düşüşler.",
+    "subtitle": "Teknoloji hisselerinden ve dev şirketlerden trilyonlar silindi.",
     "source_tags": [
-      "THE VERGE",
-      "WIRED"
+      "WIRED",
+      "THE VERGE"
     ]
   },
   "context": {
-    "heading": "Piyasalarda Neler Yaşanıyor?",
+    "heading": "Piyasalardaki Son Durum",
     "cards": [
       {
-        "card_title": "Hisse Kayıpları",
+        "card_title": "Trilyonlar Silindi",
         "card_body": "Teknoloji hisselerinden yaklaşık 2,5 trilyon dolar silindiği bildirildi."
       },
       {
         "card_title": "Muhteşem Yedi",
-        "card_body": "Muhteşem Yedi olarak bilinen şirketler 1 trilyon dolardan fazla kaybetti."
+        "card_body": "Muhteşem Yedi olarak bilinen dev şirketler 1 trilyon dolardan fazla değer kaybetti."
       }
     ]
   },
   "stat": {
-    "big_stat": "2,5 TRİLYON",
+    "big_stat": "2,5 TRİLYON $",
     "stat_caption": "Teknoloji hisselerinden silinen toplam miktar.",
-    "stat_quote": "Piyasalardaki bu düşüş dikkat çekiyor."
+    "stat_quote": "Teknoloji hisselerinden yaklaşık 2,5 trilyon dolar silindi."
   },
   "details": {
     "heading": "Şirketler ve Projeler",
@@ -40,30 +39,30 @@
       },
       {
         "card_title": "NASA'nın Yeni Aracı",
-        "card_body": "NASA, X-70 adlı yeni deneysel hava aracını tanıttı ve aracın iki yıl içinde uçması bekleniyor."
+        "card_body": "NASA, X-70 adı verilen yeni deneysel hava aracını tanıttı ve aracın iki yıl içinde uçması bekleniyor."
       },
       {
-        "card_title": "Tesla Üretim Planı",
-        "card_body": "Tesla, gelecek yıl Teksas'taki Cybertruck üretimini sonlandırmayı planlıyor."
+        "card_title": "Üretim Kararı",
+        "card_body": "Tesla, gelecek yıl Teksas'taki Cybertruck üretimini sonlandırıyor."
       }
     ]
   },
   "impact": {
-    "heading": "Ekonomik ve Sektörel Etkiler",
+    "heading": "Ekonomi ve Sektör Etkileri",
     "cards": [
       {
-        "card_title": "Sağlık ve Ekonomi",
+        "card_title": "Aşı Ekonomisi",
         "card_body": "Covid aşılarının ekonomik faydalarının değeri 64 trilyon dolara kadar ulaşıyor."
       },
       {
         "card_title": "Uygulama Gelişmeleri",
-        "card_body": "RunPee uygulamasının 7.000 kullanıcısı You Can See Everything için kayıt yaptırdı."
+        "card_body": "7.000 RunPee kullanıcısı You Can See Everything uygulamasına kaydoldu."
       }
     ]
   },
   "cta": {
-    "question": "Piyasalar toparlanabilecek mi?",
-    "reminder_line": "Tekno Pusula ile en güncel teknoloji gelişmelerinden haberdar olun."
+    "question": "Teknoloji piyasasındaki bu büyük dalgalanma hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
