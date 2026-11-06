@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "DİJİTAL DÜZENLEMELER",
+    "title": "TikTok Algoritmasına AB'den \"Tavşan Deliği\" Uyarısı",
+    "highlight_words": [
+      "Tavşan Deliği",
+      "Algoritma"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Avrupa Komisyonu, TikTok'un öneri sisteminin kullanıcılar üzerindeki etkisini incelemeye aldı.",
+    "source_tags": [
+      "THE VERGE",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Neler Oluyor?",
+    "cards": [
+      {
+        "card_title": "İhlal İddiası",
+        "card_body": "Avrupa Komisyonu, TikTok'un öneri algoritmasının 'tavşan deliği etkisi' yaratarak platform kurallarını ihlal ettiğini öne sürdü."
+      },
+      {
+        "card_title": "Dijital Hizmetler Yasası",
+        "card_body": "2023 yılında yürürlüğe giren Dijital Hizmetler Yasası kapsamında, platformların içerik sunumları denetleniyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "%6",
+    "stat_caption": "TikTok'un karşı karşıya kalabileceği olası para cezası oranı.",
+    "stat_quote": "TikTok, 'Senin İçin' akışının tasarımını değiştirmezse küresel yıllık cirosunun yüzde 6'sına kadar para cezası ile karşı karşıya kalabilir."
+  },
+  "details": {
+    "heading": "Algoritma Neden Hedefte?",
+    "cards": [
+      {
+        "card_title": "Psikolojik Riskler",
+        "card_body": "Komisyon, algoritmanın kullanıcıları üzüntü, izolasyon ve vücut imajı ile ilgili içeriklere sürekli maruz bırakarak zarar verebileceğini iddia ediyor."
+      },
+      {
+        "card_title": "Bir İlk Yaşanıyor",
+        "card_body": "Politico'nun haberine göre bu, Avrupa Komisyonu'nun bir ihlal gerekçesi olarak bir öneri algoritmasını ilk kez hedef göstermesi."
+      },
+      {
+        "card_title": "TikTok'un Yanıtı",
+        "card_body": "TikTok, 'tavşan deliği etkisini' azaltmak için halihazırda kontroller uyguladığını belirtiyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Yansımalar",
+    "cards": [
+      {
+        "card_title": "AB'nin Denetim Gücü",
+        "card_body": "Komisyon daha önce X, Meta, Temu ve AliExpress gibi devleri de Dijital Hizmetler Yasası kapsamında hedef almıştı."
+      },
+      {
+        "card_title": "Teknoloji Egemenliği",
+        "card_body": "Teknoloji egemenliği, güvenlik ve demokrasiden sorumlu başkan yardımcısı Henna Virkkunen süreci yakından takip ediyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce sosyal medya algoritmaları, kullanıcıların ruh sağlığını korumak için nasıl sınırlandırılmalı?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri takip etmek için Tekno Pusula'yı izlemeye devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

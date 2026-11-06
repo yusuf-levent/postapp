@@ -1,0 +1,10 @@
+{
+  "slot": "12:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 150.9,
+  "candidates_tried": 1,
+  "gemini_calls": 16,
+  "canonical_url": "https://www.theverge.com/tech/1028597/tiktok-eu-for-you-algorithm-rabbit-hole-effect",
+  "generated_at": "2026-11-06T17:14:43+03:00"
+}
