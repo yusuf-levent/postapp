@@ -1,0 +1,63 @@
+# Platform Açıklamaları
+
+## INSTAGRAM
+
+iOS klavyenizde bazı kelimeleri yazarken tahminlerde çıkmadığını hiç fark ettiniz mi? 📱 Apple'ın klavye tahmin mekanizmasında 100.000'den fazla kelime ve ifadenin gizlice engellendiği ortaya çıktı!
+
+Araştırmacı Derik Kauffman, sistem dosyalarını inceleyerek Apple'ın otomatik tamamlama ve kaydırma özelliklerinde filtrelediği bu devasa listeye ulaştı. Listede siyasi ifadelerden bazı günlük kalıplara kadar pek çok içerik yer alıyor.
+
+İşin ilginç yanı, sistemin bazı ifadelerde tutarsız olması. Örneğin, 'bad girl' engellenirken 'bad boy' önerilebiliyor. Apple ise bu durumun uygunsuz içerikleri engellemek için tasarlandığını belirtiyor.
+
+Sizce klavye tahminlerinde bu tarz bir filtreleme gerekli mi, yoksa ifade özgürlüğünü kısıtlıyor mu? Yorumlarda buluşalım.
+
+Kaynak: The Verge, Wired
+
+#Apple #iOS #Gizlilik #TeknolojiHaberleri #Güvenlik #iPhone #DijitalOkuryazarlık #Privacy #TechNews #AppleKeyboard
+
+## TIKTOK
+
+iPhone klavyenizde bazı kelimeler neden çıkmıyor? 📱 Apple'ın gizli engellenenler listesi ortaya çıktı! 100.000'den fazla kelime ve ifade tahminlerden çıkarılmış. Siyasi içeriklerden günlük ifadelere kadar geniş bir liste var. Sizce bu bir güvenlik önlemi mi yoksa sansür mü? Yorumlara yazın! Kaynak: The Verge, Wired
+
+#Apple #iOS #iPhoneHileleri #Teknoloji #Gizlilik #TechTok
+
+## X
+
+iPhone klavyenizde bazı kelimelerin tahminlerde çıkmadığını fark ettiniz mi? Apple'ın 100.000'den fazla kelimeyi filtrelediği ortaya çıktı. Siyasi ifadelerden tutarsız filtrelemelere kadar detaylar şaşırtıcı. Sizce bu gerekli mi? Kaynak: The Verge, Wired
+
+#Apple #iOS
+
+## THREADS
+
+iOS Klavyesinde Gizli Filtreler 📱
+
+Apple'ın klavye tahminlerinde 100.000'den fazla kelimeyi engellediği ortaya çıktı. Siyasi ifadelerden günlük kalıplara kadar uzanan bu liste, sistemde bir hash tablosu olarak saklanıyor.
+
+Sistemin 'bad girl'ü engelleyip 'bad boy'u serbest bırakması gibi tutarsızlıklar ise tartışma konusu. Sizce bu bir güvenlik önlemi mi, yoksa ifade özgürlüğüne müdahale mi? 💭
+
+Kaynak: The Verge, Wired
+
+#Teknoloji
+
+## LINKEDIN
+
+Teknoloji dünyasında veri gizliliği ve içerik yönetimi tartışmaları yeni bir boyut kazandı. Yapılan araştırmalar, Apple'ın iOS klavye tahmin mekanizmasında 100.000'den fazla kelime ve ifadeyi filtrelediğini ortaya koyuyor.
+
+Sistem dosyaları üzerinde yapılan incelemeler, bu filtrelemenin sadece uygunsuz içerikleri değil, belirli siyasi ifadeleri de kapsadığını gösteriyor. Özellikle 'bad girl' ve 'bad boy' örneklerinde olduğu gibi, filtreleme mantığındaki tutarsızlıklar, algoritmik tarafsızlık konusunu tekrar gündeme taşıyor.
+
+Apple, bu mekanizmanın kullanıcıyı saldırgan önerilerden korumak için tasarlandığını belirtse de, bu durum 'algoritmik sansür' tartışmalarını beraberinde getiriyor. Sizce teknoloji şirketleri, kullanıcı deneyimi ile ifade özgürlüğü arasındaki dengeyi nasıl kurmalı?
+
+Kaynak: The Verge, Wired
+
+#Apple #VeriGizliliği #Algoritma #Teknoloji #DijitalEtik
+
+## FACEBOOK
+
+iPhone klavyenizde bazı kelimelerin tahminlerde çıkmadığını hiç fark ettiniz mi? Apple'ın klavye tahmin mekanizmasında 100.000'den fazla kelime ve ifadenin gizlice engellendiği ortaya çıktı!
+
+Araştırmacı Derik Kauffman, sistem dosyalarını inceleyerek Apple'ın otomatik tamamlama özelliklerinde filtrelediği bu devasa listeye ulaştı. Listede siyasi ifadelerden bazı günlük kalıplara kadar pek çok içerik yer alıyor.
+
+İşin ilginç yanı, sistemin bazı ifadelerde tutarsız olması. Apple ise bu durumun uygunsuz içerikleri engellemek için tasarlandığını belirtiyor. Sizce klavye tahminlerinde bu tarz bir filtreleme gerekli mi, yoksa ifade özgürlüğünü kısıtlıyor mu? 
+
+Kaynak: The Verge, Wired
+
+#Apple #iOS #Teknoloji #Gizlilik #iPhone

@@ -1,0 +1,265 @@
+{
+  "title": "Apple has a secret list of banned autocomplete phrases including ‘dictator Trump’ and ‘covid is a hoax’",
+  "canonical_url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+  "source_names": [
+    "The Verge",
+    "Wired",
+    "TechCrunch",
+    "Engadget"
+  ],
+  "checked_at": "2026-11-06T18:13:46+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Araştırmacı Derik Kauffman, iOS'te otomatik tamamlama ve kaydırarak yazma özelliklerinde engellenmiş 100.000'den fazla kelime ve ifade buldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "quote": "A researcher found over 100,000 words and phrases in “every major language” that are blocked from autocomplete and swipe-type in iOS, Reuters reports. The researcher, Derik Kauffman"
+        }
+      ]
+    },
+    {
+      "claim": "iOS klavyesi, engellenen kelimeleri tek tek harf yazıldığında engellememekte ancak tahmin olarak sunmamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "quote": "The researcher, Derik Kauffman, says you can still type the words on the blocklist one letter at a time. But they won’t pop up as predictive text suggestions"
+        }
+      ]
+    },
+    {
+      "claim": "iOS klavyesinin engellediği ifadeler arasında 'dictator Trump', 'covid is a hoax', 'illegal immigrant', 'sleepy Joe' ve 'left wing conspiracy' gibi siyasi içerikli ifadeler yer almaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "quote": "But it also contains political phrases like “illegal immigrant,” “dictator Trump,” “sleepy Joe,” “covid was a hoax,” and “left wing conspiracy”"
+        }
+      ]
+    },
+    {
+      "claim": "Derik Kauffman, engellenen kelime listesini OpenAI'ın Codex ve Anthropic'in Claude Code araçlarını kullanarak iOS sistem dosyaları içerisinden çıkardı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "quote": "According to Reuters, Kauffman used OpenAI’s Codex and Anthropic’s Claude Code to help find the list “deep in the bowels” of iOS."
+        }
+      ]
+    },
+    {
+      "claim": "Engellenen kelime listesi iOS içerisinde bir hash tablosu olarak saklanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "quote": "On his website, Kauffman says the phrase list was stored as a hash table, which he was able to convert back to text."
+        }
+      ]
+    },
+    {
+      "claim": "Başka bir araştırmacı, Reuters'a verdiği demeçte aynı listeye bağımsız olarak ulaştığını doğruladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "quote": "Another researcher told Reuters they were able to independently obtain the same list."
+        }
+      ]
+    },
+    {
+      "claim": "Apple, klavyesinin potansiyel olarak uygunsuz veya saldırgan önerilerden kaçınmak için tasarlandığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "quote": "Apple told Reuters that its keyboard is designed to avoid potentially inappropriate or offensive suggestions"
+        }
+      ]
+    },
+    {
+      "claim": "iOS klavyesi 'bad girl' ifadesini engellerken 'bad boy' ifadesini engellememektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "quote": "Kauffman found some discrepancies on the list, too, where one phrase is blocked while its counterpart isn’t, such as blocking “bad girl” but not “bad boy.”"
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Araştırmacı Derik Kauffman, iOS'te otomatik tamamlama ve kaydırarak yazma özelliklerinde engellenmiş 100.000'den fazla kelime ve ifade buldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "quote": "A researcher found over 100,000 words and phrases in “every major language” that are blocked from autocomplete and swipe-type in iOS, Reuters reports. The researcher, Derik Kauffman"
+        }
+      ]
+    },
+    {
+      "claim": "iOS klavyesi, engellenen kelimeleri tek tek harf yazıldığında engellememekte ancak tahmin olarak sunmamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "quote": "The researcher, Derik Kauffman, says you can still type the words on the blocklist one letter at a time. But they won’t pop up as predictive text suggestions"
+        }
+      ]
+    },
+    {
+      "claim": "iOS klavyesinin engellediği ifadeler arasında 'dictator Trump', 'covid is a hoax', 'illegal immigrant', 'sleepy Joe' ve 'left wing conspiracy' gibi siyasi içerikli ifadeler yer almaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "quote": "But it also contains political phrases like “illegal immigrant,” “dictator Trump,” “sleepy Joe,” “covid was a hoax,” and “left wing conspiracy”"
+        }
+      ]
+    },
+    {
+      "claim": "Derik Kauffman, engellenen kelime listesini OpenAI'ın Codex ve Anthropic'in Claude Code araçlarını kullanarak iOS sistem dosyaları içerisinden çıkardı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "quote": "According to Reuters, Kauffman used OpenAI’s Codex and Anthropic’s Claude Code to help find the list “deep in the bowels” of iOS."
+        }
+      ]
+    },
+    {
+      "claim": "Engellenen kelime listesi iOS içerisinde bir hash tablosu olarak saklanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "quote": "On his website, Kauffman says the phrase list was stored as a hash table, which he was able to convert back to text."
+        }
+      ]
+    },
+    {
+      "claim": "Başka bir araştırmacı, Reuters'a verdiği demeçte aynı listeye bağımsız olarak ulaştığını doğruladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "quote": "Another researcher told Reuters they were able to independently obtain the same list."
+        }
+      ]
+    },
+    {
+      "claim": "Apple, klavyesinin potansiyel olarak uygunsuz veya saldırgan önerilerden kaçınmak için tasarlandığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "quote": "Apple told Reuters that its keyboard is designed to avoid potentially inappropriate or offensive suggestions"
+        }
+      ]
+    },
+    {
+      "claim": "iOS klavyesi 'bad girl' ifadesini engellerken 'bad boy' ifadesini engellememektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "quote": "Kauffman found some discrepancies on the list, too, where one phrase is blocked while its counterpart isn’t, such as blocking “bad girl” but not “bad boy.”"
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Araştırmacı Derik Kauffman, iOS'te otomatik tamamlama ve kaydırarak yazma özelliklerinde engellenmiş 100.000'den fazla kelime ve ifade buldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "quote": "A researcher found over 100,000 words and phrases in “every major language” that are blocked from autocomplete and swipe-type in iOS, Reuters reports. The researcher, Derik Kauffman"
+        }
+      ]
+    },
+    {
+      "claim": "iOS klavyesi, engellenen kelimeleri tek tek harf yazıldığında engellememekte ancak tahmin olarak sunmamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "quote": "The researcher, Derik Kauffman, says you can still type the words on the blocklist one letter at a time. But they won’t pop up as predictive text suggestions"
+        }
+      ]
+    },
+    {
+      "claim": "iOS klavyesinin engellediği ifadeler arasında 'dictator Trump', 'covid is a hoax', 'illegal immigrant', 'sleepy Joe' ve 'left wing conspiracy' gibi siyasi içerikli ifadeler yer almaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "quote": "But it also contains political phrases like “illegal immigrant,” “dictator Trump,” “sleepy Joe,” “covid was a hoax,” and “left wing conspiracy”"
+        }
+      ]
+    },
+    {
+      "claim": "Derik Kauffman, engellenen kelime listesini OpenAI'ın Codex ve Anthropic'in Claude Code araçlarını kullanarak iOS sistem dosyaları içerisinden çıkardı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "quote": "According to Reuters, Kauffman used OpenAI’s Codex and Anthropic’s Claude Code to help find the list “deep in the bowels” of iOS."
+        }
+      ]
+    },
+    {
+      "claim": "Engellenen kelime listesi iOS içerisinde bir hash tablosu olarak saklanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "quote": "On his website, Kauffman says the phrase list was stored as a hash table, which he was able to convert back to text."
+        }
+      ]
+    },
+    {
+      "claim": "Başka bir araştırmacı, Reuters'a verdiği demeçte aynı listeye bağımsız olarak ulaştığını doğruladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "quote": "Another researcher told Reuters they were able to independently obtain the same list."
+        }
+      ]
+    },
+    {
+      "claim": "Apple, klavyesinin potansiyel olarak uygunsuz veya saldırgan önerilerden kaçınmak için tasarlandığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "quote": "Apple told Reuters that its keyboard is designed to avoid potentially inappropriate or offensive suggestions"
+        }
+      ]
+    },
+    {
+      "claim": "iOS klavyesi 'bad girl' ifadesini engellerken 'bad boy' ifadesini engellememektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "quote": "Kauffman found some discrepancies on the list, too, where one phrase is blocked while its counterpart isn’t, such as blocking “bad girl” but not “bad boy.”"
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete": 1838,
+    "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/": 7143,
+    "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/": 4400,
+    "https://www.engadget.com/2308154/iphone-duo-new-accessibility-feature-ios-27-3-beta-reachability/": 1459
+  }
+}
