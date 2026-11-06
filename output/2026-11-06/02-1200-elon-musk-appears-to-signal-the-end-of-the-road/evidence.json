@@ -6,7 +6,7 @@
     "The Verge",
     "Wired"
   ],
-  "checked_at": "2026-11-06T13:03:22+03:00",
+  "checked_at": "2026-11-06T13:07:26+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
@@ -21,21 +21,41 @@
       ]
     },
     {
-      "claim": "Cybertruck, gecikmelerin ardından 2023 yılında piyasaya sürüldü.",
+      "claim": "Projenin baş mühendisi Wes Morrill, Cybertruck'ın üretimden kaldırılacağını X'te ima etti.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-          "quote": "was beset by delays before being launched in 2023"
-        },
-        {
-          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-          "quote": "With its distinctive angular looks, the Cybertruck attracted diehard fans, but was beset by delays before being launched in 2023 and has had disappointing sales numbers since."
+          "quote": "But the project's lead engineer, Wes Morrill, appeared to suggest the vehicle was being discontinued, writing on X: \"Cybertruck was an incredible technology development platform and lives on through Cybercab.\""
         }
       ]
     },
     {
-      "claim": "Elon Musk, 2019 yılında geliştirme aşamasındayken Cybertruck'ın 146.000 sipariş aldığını söyledi.",
+      "claim": "Cybertruck 2023 yılında piyasaya sürüldü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+          "quote": "In the end, the vehicle launched in 2023, keeping its novel design - an angular shape with a body made of stainless steel."
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk, bir kullanıcının Cybertruck'ın gelecek yıl üretimden kaldırılacağı yönündeki yorumuna \"true\" yanıtını verdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+          "quote": "Musk responded to the user, external with the word \"true\", adding: \"But the Cybertruck fleet will be around for a long time.\""
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+          "quote": "Tesla fans have been mourning the news online, with one person calling it \"the best vehicle Tesla has ever made, external\" as he lamented it being \"discontinued next year\".\nMusk responded to the user, external with the word \"true\", adding: \"But the Cybertruck fleet will be around for a long time.\""
+        }
+      ]
+    },
+    {
+      "claim": "Musk, 2019'dayken geliştirme aşamasındaki Cybertruck için 146.000 sipariş alındığını söyledi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -45,7 +65,7 @@
       ]
     },
     {
-      "claim": "2025 yılındaki bir geri çağırma, trim parçasının düşme riski nedeniyle 46.000'den fazla Cybertruck'ı etkiledi.",
+      "claim": "Tesla, 2025 yılında trim parçasının düşme riski nedeniyle 46.000'den fazla Cybertruck'ı geri çağırdı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -55,7 +75,7 @@
       ]
     },
     {
-      "claim": "Cybertruck'ın tüm özelliklere sahip versiyonu 61,000 dolardan satışa sunuldu.",
+      "claim": "Cybertruck'ın fiyatı tüm özellikleriyle birlikte 61.000 dolar oldu.",
       "verdict": "supported",
       "evidence": [
         {
@@ -65,22 +85,12 @@
       ]
     },
     {
-      "claim": "2026 yılında Cyberbeast modelinin fiyatı 102,000 dolar olarak belirlendi.",
+      "claim": "2026 yılında \"Cyberbeast\" modelinin fiyatı 102.000 dolar olarak belirlendi.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
           "quote": "In 2026, the so-called \"Cyberbeast\" model comes in at $102,000."
-        }
-      ]
-    },
-    {
-      "claim": "Projenin baş mühendisi Wes Morrill, X üzerinden aracın üretimden kaldırıldığını ima etti.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-          "quote": "But the project's lead engineer, Wes Morrill, appeared to suggest the vehicle was being discontinued, writing on X: \"Cybertruck was an incredible technology development platform and lives on through Cybercab.\""
         }
       ]
     }
@@ -97,21 +107,41 @@
       ]
     },
     {
-      "claim": "Cybertruck, gecikmelerin ardından 2023 yılında piyasaya sürüldü.",
+      "claim": "Projenin baş mühendisi Wes Morrill, Cybertruck'ın üretimden kaldırılacağını X'te ima etti.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-          "quote": "was beset by delays before being launched in 2023"
-        },
-        {
-          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-          "quote": "With its distinctive angular looks, the Cybertruck attracted diehard fans, but was beset by delays before being launched in 2023 and has had disappointing sales numbers since."
+          "quote": "But the project's lead engineer, Wes Morrill, appeared to suggest the vehicle was being discontinued, writing on X: \"Cybertruck was an incredible technology development platform and lives on through Cybercab.\""
         }
       ]
     },
     {
-      "claim": "Elon Musk, 2019 yılında geliştirme aşamasındayken Cybertruck'ın 146.000 sipariş aldığını söyledi.",
+      "claim": "Cybertruck 2023 yılında piyasaya sürüldü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+          "quote": "In the end, the vehicle launched in 2023, keeping its novel design - an angular shape with a body made of stainless steel."
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk, bir kullanıcının Cybertruck'ın gelecek yıl üretimden kaldırılacağı yönündeki yorumuna \"true\" yanıtını verdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+          "quote": "Musk responded to the user, external with the word \"true\", adding: \"But the Cybertruck fleet will be around for a long time.\""
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+          "quote": "Tesla fans have been mourning the news online, with one person calling it \"the best vehicle Tesla has ever made, external\" as he lamented it being \"discontinued next year\".\nMusk responded to the user, external with the word \"true\", adding: \"But the Cybertruck fleet will be around for a long time.\""
+        }
+      ]
+    },
+    {
+      "claim": "Musk, 2019'dayken geliştirme aşamasındaki Cybertruck için 146.000 sipariş alındığını söyledi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -121,7 +151,7 @@
       ]
     },
     {
-      "claim": "2025 yılındaki bir geri çağırma, trim parçasının düşme riski nedeniyle 46.000'den fazla Cybertruck'ı etkiledi.",
+      "claim": "Tesla, 2025 yılında trim parçasının düşme riski nedeniyle 46.000'den fazla Cybertruck'ı geri çağırdı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -131,7 +161,7 @@
       ]
     },
     {
-      "claim": "Cybertruck'ın tüm özelliklere sahip versiyonu 61,000 dolardan satışa sunuldu.",
+      "claim": "Cybertruck'ın fiyatı tüm özellikleriyle birlikte 61.000 dolar oldu.",
       "verdict": "supported",
       "evidence": [
         {
@@ -141,22 +171,12 @@
       ]
     },
     {
-      "claim": "2026 yılında Cyberbeast modelinin fiyatı 102,000 dolar olarak belirlendi.",
+      "claim": "2026 yılında \"Cyberbeast\" modelinin fiyatı 102.000 dolar olarak belirlendi.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
           "quote": "In 2026, the so-called \"Cyberbeast\" model comes in at $102,000."
-        }
-      ]
-    },
-    {
-      "claim": "Projenin baş mühendisi Wes Morrill, X üzerinden aracın üretimden kaldırıldığını ima etti.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-          "quote": "But the project's lead engineer, Wes Morrill, appeared to suggest the vehicle was being discontinued, writing on X: \"Cybertruck was an incredible technology development platform and lives on through Cybercab.\""
         }
       ]
     }
@@ -173,21 +193,41 @@
       ]
     },
     {
-      "claim": "Cybertruck, gecikmelerin ardından 2023 yılında piyasaya sürüldü.",
+      "claim": "Projenin baş mühendisi Wes Morrill, Cybertruck'ın üretimden kaldırılacağını X'te ima etti.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-          "quote": "was beset by delays before being launched in 2023"
-        },
-        {
-          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-          "quote": "With its distinctive angular looks, the Cybertruck attracted diehard fans, but was beset by delays before being launched in 2023 and has had disappointing sales numbers since."
+          "quote": "But the project's lead engineer, Wes Morrill, appeared to suggest the vehicle was being discontinued, writing on X: \"Cybertruck was an incredible technology development platform and lives on through Cybercab.\""
         }
       ]
     },
     {
-      "claim": "Elon Musk, 2019 yılında geliştirme aşamasındayken Cybertruck'ın 146.000 sipariş aldığını söyledi.",
+      "claim": "Cybertruck 2023 yılında piyasaya sürüldü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+          "quote": "In the end, the vehicle launched in 2023, keeping its novel design - an angular shape with a body made of stainless steel."
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk, bir kullanıcının Cybertruck'ın gelecek yıl üretimden kaldırılacağı yönündeki yorumuna \"true\" yanıtını verdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+          "quote": "Musk responded to the user, external with the word \"true\", adding: \"But the Cybertruck fleet will be around for a long time.\""
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+          "quote": "Tesla fans have been mourning the news online, with one person calling it \"the best vehicle Tesla has ever made, external\" as he lamented it being \"discontinued next year\".\nMusk responded to the user, external with the word \"true\", adding: \"But the Cybertruck fleet will be around for a long time.\""
+        }
+      ]
+    },
+    {
+      "claim": "Musk, 2019'dayken geliştirme aşamasındaki Cybertruck için 146.000 sipariş alındığını söyledi.",
       "verdict": "supported",
       "evidence": [
         {
@@ -197,7 +237,7 @@
       ]
     },
     {
-      "claim": "2025 yılındaki bir geri çağırma, trim parçasının düşme riski nedeniyle 46.000'den fazla Cybertruck'ı etkiledi.",
+      "claim": "Tesla, 2025 yılında trim parçasının düşme riski nedeniyle 46.000'den fazla Cybertruck'ı geri çağırdı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -207,7 +247,7 @@
       ]
     },
     {
-      "claim": "Cybertruck'ın tüm özelliklere sahip versiyonu 61,000 dolardan satışa sunuldu.",
+      "claim": "Cybertruck'ın fiyatı tüm özellikleriyle birlikte 61.000 dolar oldu.",
       "verdict": "supported",
       "evidence": [
         {
@@ -217,22 +257,12 @@
       ]
     },
     {
-      "claim": "2026 yılında Cyberbeast modelinin fiyatı 102,000 dolar olarak belirlendi.",
+      "claim": "2026 yılında \"Cyberbeast\" modelinin fiyatı 102.000 dolar olarak belirlendi.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
           "quote": "In 2026, the so-called \"Cyberbeast\" model comes in at $102,000."
-        }
-      ]
-    },
-    {
-      "claim": "Projenin baş mühendisi Wes Morrill, X üzerinden aracın üretimden kaldırıldığını ima etti.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-          "quote": "But the project's lead engineer, Wes Morrill, appeared to suggest the vehicle was being discontinued, writing on X: \"Cybertruck was an incredible technology development platform and lives on through Cybercab.\""
         }
       ]
     }

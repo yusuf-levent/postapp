@@ -1,65 +1,65 @@
 {
   "cover": {
     "category_label": "TEKNOLOJİ DÜNYASI",
-    "title": "Tesla Cybertruck üretimi sona eriyor",
+    "title": "Tesla Cybertruck Üretimi Sona Eriyor",
     "highlight_words": [
       "Cybertruck",
-      "üretimi"
+      "Sona Eriyor"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Tesla, Teksas fabrikasındaki üretim hakkında önemli adımlar atıyor.",
+    "subtitle": "Tesla, Teksas fabrikasındaki Cybertruck üretimini gelecek yıl sonlandıracak.",
     "source_tags": [
       "BBC NEWS",
       "THE VERGE"
     ]
   },
   "context": {
-    "heading": "Süreç Nasıl İlerledi?",
+    "heading": "Süreç Nasıl Gelişti?",
     "cards": [
       {
         "card_title": "Piyasaya Çıkış",
-        "card_body": "Cybertruck, yaşanan gecikmelerin ardından 2023 yılında piyasaya sürüldü."
+        "card_body": "2023 yılında piyasaya sürülen Cybertruck için Elon Musk 2019'da 146.000 sipariş alındığını açıklamıştı."
       },
       {
-        "card_title": "İlk Siparişler",
-        "card_body": "Elon Musk, 2019 yılında geliştirme aşamasındayken 146.000 sipariş aldığını duyurmuştu."
+        "card_title": "Elon Musk'ın Açıklaması",
+        "card_body": "Projenin baş mühendisi Wes Morrill durumu ima ederken, Elon Musk da üretimden kaldırılacağı iddialarını onayladı."
       }
     ]
   },
   "stat": {
-    "big_stat": "46.000+",
-    "stat_caption": "2025 yılındaki geri çağırma operasyonundan etkilenen araç sayısı.",
-    "stat_quote": "Trim parçasının düşme riski nedeniyle 46.000'den fazla araç etkilendi."
+    "big_stat": "46.000",
+    "stat_caption": "2025 yılında trim parçasının düşme riski nedeniyle geri çağrılan Cybertruck sayısı.",
+    "stat_quote": "Tesla, 2025 yılında 46.000'den fazla aracı geri çağırmak zorunda kaldı."
   },
   "details": {
-    "heading": "Fiyatlandırma ve Gelişmeler",
+    "heading": "Fiyatlar ve Detaylar",
     "cards": [
       {
-        "card_title": "Satış Fiyatları",
-        "card_body": "Tüm özelliklere sahip versiyonu 61,000 dolardan satışa sunulurken, 2026 yılındaki Cyberbeast modelinin fiyatı 102,000 dolar olarak belirlendi."
+        "card_title": "Başlangıç Fiyatı",
+        "card_body": "Cybertruck'ın fiyatı tüm özellikleriyle birlikte 61.000 dolar olarak belirlenmişti."
       },
       {
-        "card_title": "Üretimin Sonu",
-        "card_body": "Tesla, gelecek yıl Teksas fabrikasındaki Cybertruck üretimini sonlandıracak."
+        "card_title": "Cyberbeast Modeli",
+        "card_body": "2026 yılında ise Cyberbeast modelinin fiyatı 102.000 dolar olarak duyuruldu."
       }
     ]
   },
   "impact": {
-    "heading": "Sektörel Yansımalar",
+    "heading": "Sektör ve Kullanıcı Etkisi",
     "cards": [
       {
-        "card_title": "Mühendislik Açıklaması",
-        "card_body": "Projenin baş mühendisi Wes Morrill, X üzerinden aracın üretimden kaldırıldığını ima etti."
+        "card_title": "Üretim Sonu",
+        "card_body": "Gelecek yıl Teksas fabrikasındaki üretimin duracak olması dikkat çekici bir gelişme."
       },
       {
-        "card_title": "Gelecek Planları",
-        "card_body": "Teksas fabrikasında yaşanan bu üretim değişikliği otomotiv sektöründe yankı uyandırdı."
+        "card_title": "Güvenlik Önlemleri",
+        "card_body": "Geçmişteki geri çağırmalar ve üretim kararları otomotiv dünyasında geniş yankı uyandırdı."
       }
     ]
   },
   "cta": {
-    "question": "Cybertruck'ın üretiminin sonlandırılması hakkında ne düşünüyorsunuz?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeler için takipte kalın."
+    "question": "Cybertruck üretiminin sonlandırılması hakkında siz ne düşünüyorsunuz?",
+    "reminder_line": "En güncel teknoloji ve yapay zeka gelişmeleri için takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
