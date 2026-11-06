@@ -1,65 +1,69 @@
 {
   "cover": {
     "category_label": "GÜVENLİK VE GİZLİLİK",
-    "title": "iOS Klavyesinde Gizli 'Engelli' Kelimeler",
+    "title": "iOS Klavyesinde Gizli Filtreler",
     "highlight_words": [
       "Gizli",
-      "Engelli"
+      "Filtreler"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Apple'ın otomatik tamamlama sisteminde 100.000'den fazla kelime neden kısıtlı?",
+    "subtitle": "Apple'ın klavye önerilerinde engellediği 100 binden fazla ifade ortaya çıktı.",
     "source_tags": [
       "THE VERGE",
       "WIRED"
     ]
   },
   "context": {
-    "heading": "Araştırmanın Detayları",
+    "heading": "Neler Keşfedildi?",
     "cards": [
       {
-        "card_title": "Keşif Nasıl Yapıldı?",
-        "card_body": "Araştırmacı Derik Kauffman, OpenAI Codex ve Anthropic Claude Code araçlarını kullanarak iOS sistemindeki hash tablosunu metne dönüştürdü."
+        "card_title": "Büyük Filtre Listesi",
+        "card_body": "Araştırmacı Derik Kauffman, iOS klavyesinde otomatik tamamlama ve kaydırarak yazma özelliklerinde engellenmiş 100 binden fazla ifade tespit etti."
       },
       {
-        "card_title": "Kısıtlamanın Sınırı",
-        "card_body": "Sistem, engellenen kelimeleri tahmin önerilerinde göstermiyor ancak kullanıcılar harf harf yazarak bu kelimeleri yine de kullanabiliyor."
+        "card_title": "Nasıl Çalışıyor?",
+        "card_body": "iOS klavyesi, bu engellenen kelimeleri tahmin olarak sunmuyor ve kaydırarak yazma sırasında bu kelimeleri otomatik olarak değiştirebiliyor."
       }
     ]
   },
   "stat": {
     "big_stat": "100.000+",
-    "stat_caption": "iOS klavyesinde otomatik tamamlama ve kaydırarak yazma özelliklerinde engellenmiş kelime ve ifade sayısı.",
-    "stat_quote": "Apple, klavyesinin potansiyel olarak uygunsuz veya saldırgan önerilerden kaçınmak için tasarlandığını açıkladı."
+    "stat_caption": "iOS klavyesinde engellenen kelime ve ifade sayısı.",
+    "stat_quote": "Araştırmacı Derik Kauffman, bu listeyi OpenAI'ın Codex ve Anthropic'in Claude Code araçlarını kullanarak ortaya çıkardı."
   },
   "details": {
-    "heading": "Neler Engellenmiş?",
+    "heading": "Neler Engelleniyor?",
     "cards": [
       {
-        "card_title": "Siyasi İçerikler",
-        "card_body": "Listede 'dictator Trump', 'covid is a hoax', 'illegal immigrant', 'sleepy Joe' ve 'left wing conspiracy' gibi siyasi ifadeler yer alıyor."
+        "card_title": "Siyasi İfadeler",
+        "card_body": "Listede 'illegal immigrant', 'dictator Trump', 'sleepy Joe', 'covid was a hoax' ve 'left wing conspiracy' gibi siyasi içerikli ifadeler yer alıyor."
       },
       {
-        "card_title": "Doğrulama Süreci",
-        "card_body": "Kauffman, engellenen kelime listesini ve farklı dillere ait alt listeleri internette yayınladı. Başka bir araştırmacı da listeyi bağımsız doğruladı."
+        "card_title": "Genel İfadeler",
+        "card_body": "Sadece siyasi değil, 'Santa isn’t real' veya 'iMessage isn’t working' gibi daha az tartışmalı ifadeler de engellenenler arasında."
+      },
+      {
+        "card_title": "Teknik Detay",
+        "card_body": "Kauffman'a göre bu liste, cihazda bir hash tablosu olarak saklanıyor. Başka bir araştırmacı da bu listeyi bağımsız olarak doğruladı."
       }
     ]
   },
   "impact": {
-    "heading": "Bu Durum Ne Anlama Geliyor?",
+    "heading": "Apple'ın Açıklaması",
     "cards": [
       {
-        "card_title": "Kullanıcı Deneyimi",
-        "card_body": "Kullanıcılar istedikleri kelimeyi yazmakta özgür, ancak sistemin tahmin algoritmaları belirli ifadeleri 'uygunsuz' bularak öneri dışı bırakıyor."
+        "card_title": "Apple'ın Yaklaşımı",
+        "card_body": "Apple, klavyesinin potansiyel olarak uygunsuz veya saldırgan önerilerden kaçınmak amacıyla tasarlandığını belirtti."
       },
       {
-        "card_title": "Şeffaflık Tartışması",
-        "card_body": "Sistemde bu denli geniş bir kelime listesinin gizli bir hash tablosu olarak saklanması, yazılımın tarafsızlığı konusunda soruları beraberinde getiriyor."
+        "card_title": "Kullanıcı Deneyimi",
+        "card_body": "Bu filtreleme sistemi, yazım sırasında otomatik düzeltme ve tahmin mekanizmalarının kullanıcı deneyimini doğrudan etkilediğini gösteriyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce klavye tahminleri kullanıcıyı yönlendirmeli mi, yoksa tamamen tarafsız mı kalmalı?",
-    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri takip etmek için Tekno Pusula'yı izlemeye devam edin."
+    "question": "Sizce klavyelerin bu tür filtreler kullanması gerekli mi, yoksa ifade özgürlüğünü kısıtlıyor mu?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeler için Tekno Pusula'yı takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
