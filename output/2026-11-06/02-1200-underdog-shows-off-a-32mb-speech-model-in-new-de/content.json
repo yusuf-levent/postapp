@@ -1,50 +1,44 @@
 {
   "cover": {
     "category_label": "YAPAY ZEKA",
-    "title": "Sadece 32MB Boyutunda Yeni Ses Modeli: Woof",
+    "title": "Küçük Boyutta Büyük Ses: Woof",
     "highlight_words": [
-      "Woof",
-      "32MB"
+      "Woof"
     ],
-    "highlight_color": "yellow",
-    "subtitle": "Underdog tarafından geliştirilen yeni ses modeli internet bağlantısı gerektirmiyor.",
+    "highlight_color": "cyan",
+    "subtitle": "Underdog tarafından geliştirilen 32MB boyutundaki yeni ses modeli duyuruldu.",
     "source_tags": [
-      "TECHCRUNCH",
-      "WIRED"
+      "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Küçük Boyut, Büyük Yetenek",
+    "heading": "Woof Modelinin Özellikleri",
     "cards": [
       {
-        "card_title": "Woof Modeli",
-        "card_body": "Underdog, yalnızca 32MB boyutunda olan ve 31 milyon parametreye sahip Woof adlı yeni bir ses modeli geliştirdi."
+        "card_title": "Sadece 32MB Boyut",
+        "card_body": "Underdog, yalnızca 32MB boyutunda yeni bir ses modeliyle oluşturulmuş Woof adlı oyun yayınladı."
       },
       {
-        "card_title": "Oyun Deneyimi",
-        "card_body": "Geliştirilen bu yeni ses modeli ile birlikte bir oyun da yayınlandı."
+        "card_title": "Milyonlarca Parametre",
+        "card_body": "Underdog'un ses üretim modeli 31 milyon parametreye sahiptir ve herkesin indirmesine açıktır."
       }
     ]
   },
   "stat": {
     "big_stat": "32 MB",
-    "stat_caption": "İnternet bağlantısına ihtiyaç duymadan çoğu cihazda çalışabilen ses modelinin boyutu.",
-    "stat_quote": "Kullanıcıların verilerine sahip olabilmesi için cihazlarında çalışabilen AI modelleri geliştirilmek isteniyor."
+    "stat_caption": "Woof ses modelinin toplam dosya boyutu",
+    "stat_quote": "Kullanıcıların verilerine sahip olmasını ve cihazlarında çalışabilen yapay zeka modelleri kurmak istiyoruz. - Sigil Wen"
   },
   "details": {
-    "heading": "Teknik Detaylar",
+    "heading": "Diğer Gelişmeler",
     "cards": [
       {
-        "card_title": "Herkesin Erişimine Açık",
-        "card_body": "31 milyon parametreye sahip olan Woof modeli, herkesin indirmesine açık durumda."
+        "card_title": "Bark Modeli",
+        "card_body": "Underdog, Woof modelinden haftalar önce Bark adında 167 MB boyutunda bir konuşmadan yazıya çeviri modeli piyasaya sürdü."
       },
       {
-        "card_title": "Çevrimdışı Çalışma",
-        "card_body": "Model, internet bağlantısına ihtiyaç duymadan çoğu cihazda sorunsuz çalışabiliyor."
-      },
-      {
-        "card_title": "Diğer Projeler",
-        "card_body": "Underdog haftalar önce 167 MB boyutunda Bark modelini ve dizüstü bilgisayarlarda çalışabilen 27 milyar parametrelik bir model yayınlamıştı."
+        "card_title": "Dizüstü Bilgisayar Modeli",
+        "card_body": "Underdog, dizüstü bilgisayarlarda çalışabilen 27 milyar parametrelik bir model de yayınladı."
       }
     ]
   },
@@ -52,18 +46,18 @@
     "heading": "Sektör ve Kullanıcı Etkisi",
     "cards": [
       {
-        "card_title": "Veri Gizliliği",
-        "card_body": "Cihazlarda çalışabilen yapay zeka modelleri sayesinde kullanıcılar kendi verilerine sahip olabiliyor."
+        "card_title": "Cihaz İçi Yapay Zeka",
+        "card_body": "Kullanıcıların kendi cihazlarında çalıştırabileceği modeller sayesinde veri sahipliği artıyor."
       },
       {
-        "card_title": "Taşınabilirlik",
-        "card_body": "Küçük boyutlu modeller sayesinde yapay zeka araçları internet bağımlılığı olmadan her yerde kullanılabiliyor."
+        "card_title": "Erişilebilirlik",
+        "card_body": "Küçük boyutlu modeller herkesin kolayca indirip kullanabilmesine olanak tanıyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce gelecekte tüm yapay zeka modelleri tamamen cihaz üzerinde mi çalışacak?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+    "question": "Cihazınızda yerel olarak çalışan küçük boyutlu yapay zeka modellerini denediniz mi?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
