@@ -1,68 +1,65 @@
 {
   "cover": {
-    "category_label": "YAPAY ZEKA",
-    "title": "Airbnb'den Yeni Nesil AI Seyahat Ajanı",
+    "category_label": "YAPAY ZEKA VE SEYAHAT",
+    "title": "Airbnb'den Yeni Yapay Zeka Hamlesi",
     "highlight_words": [
-      "AI Seyahat Ajanı"
+      "Yapay Zeka",
+      "Airbnb"
     ],
-    "highlight_color": "cyan",
-    "subtitle": "Airbnb, kullanıcı sorgularına göre anlık arayüz oluşturan yapay zeka planını açıkladı.",
+    "highlight_color": "yellow",
+    "subtitle": "Şirket, yeni seyahat acendası projesini duyurdu.",
     "source_tags": [
       "ENGADGET",
       "THE VERGE"
     ]
   },
   "context": {
-    "heading": "Yapay Zeka Hamlesi",
+    "heading": "Yapay Zeka Seyahat Acendası Yolda",
     "cards": [
       {
-        "card_title": "Q3 2026 Mektubu",
-        "card_body": "Airbnb, üçüncü çeyrek kazanç raporuyla birlikte yeni yapay zeka seyahat ajanı planlarını duyurdu."
+        "card_title": "Hissedar Mektubu Açıklaması",
+        "card_body": "Airbnb, Q3 2026 kazançları ile birlikte yayınladığı hissedar mektubunda yeni bir yapay zeka seyahat acendası geliştirdiğini açıkladı."
       },
       {
         "card_title": "Çıkış Tarihi",
-        "card_body": "Yeni yapay zekâ seyahat asistanı deneyiminin 2027 yılının ilk yarısında kullanıcılara sunulması planlanıyor."
+        "card_body": "Airbnb, yeni yapay zeka deneyimini 2027 yılının ilk yarısında kullanıcıların kullanımına sunmaya başlayacak."
       }
     ]
   },
   "stat": {
     "big_stat": "2027",
-    "stat_caption": "Yeni yapay zeka seyahat ajanı deneyiminin kullanıcılara sunulmaya başlanacağı dönem.",
-    "stat_quote": "Airbnb, yeni yapay zeka seyahat ajanını 2027'nin ilk yarısında kullanıcılarla buluşturacak."
+    "stat_caption": "Yeni yapay zeka deneyiminin kullanıma sunulacağı dönem",
+    "stat_quote": "Airbnb, yeni yapay zeka deneyimini 2027 yılının ilk yarısında kullanıcıların kullanımına sunmaya başlayacak."
   },
   "details": {
-    "heading": "Mevcut Özellikler",
+    "heading": "Geçmişten Günümüze Yenilikler",
     "cards": [
       {
-        "card_title": "Doğal Dil Arama",
-        "card_body": "Airbnb, kullanıcıların doğal dil kullanarak arama yapmasını sağlayan yapay zeka aramasını yakın zamanda başlattı."
+        "card_title": "Doğal Dil ile Arama",
+        "card_body": "Airbnb, birkaç ay önce doğal dil kullanarak arama yapmanızı sağlayan yapay zeka destekli aramayı başlattı."
       },
       {
-        "card_title": "Yapay Zeka Açıklamaları",
-        "card_body": "Platform, ilanlar için yapay zeka destekli açıklamalar özelliğini de yakın zamanda kullanıma sundu."
-      },
-      {
-        "card_title": "Genişleyen Hizmetler",
-        "card_body": "Yıllar içinde market teslimatı, araç kiralama, tekne ve kayak ekipmanı gibi birçok servis uygulamaya eklendi."
+        "card_title": "Ekosistem Hizmetleri",
+        "card_body": "Airbnb geçmiş yıllarda uygulama içinde market teslimatı, araç kiralama, tekne ve kayak ekipmanı gibi hizmetler başlattı."
       }
     ]
   },
   "impact": {
-    "heading": "Kullanıcı Deneyimi",
+    "heading": "Seyahat Deneyimi Dönüşüyor",
     "cards": [
       {
-        "card_title": "Anlık Arayüz",
-        "card_body": "Yeni ajan, kullanıcı sorguları etrafında gerçek zamanlı bir arayüz oluşturmak için tasarlanıyor."
+        "card_title": "Yapay Zeka Destekli Planlama",
+        "card_body": "Yeni seyahat acendası ile birlikte kullanıcılar seyahatlerini yapay zeka desteğiyle çok daha kolay planlayabilecek."
       },
       {
-        "card_title": "Kişiselleştirilmiş Seyahat",
-        "card_body": "Yapay zeka odaklı bu yeni deneyim, seyahat planlama sürecini daha doğal ve akıcı hale getirmeyi hedefliyor."
+        "card_title": "Gelişmiş Arama Özellikleri",
+        "card_body": "Doğal dil aramaları ve yeni acenta deneyimi platformun kullanım alışkanlıklarını kökten değiştiriyor."
       }
     ]
   },
   "cta": {
-    "question": "Airbnb'nin yeni yapay zeka seyahat asistanı seyahat planlama alışkanlıklarınızı nasıl değiştirecek?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+    "question": "Sizce yapay zeka seyahat acendaları tatil planlama alışkanlıklarımızı nasıl değiştirecek?",
+    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
