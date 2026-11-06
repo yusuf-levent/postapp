@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJI VE PROTESTO",
+    "title": "Amsterdam'daki Microsoft Veri Merkezine Protesto",
+    "highlight_words": [
+      "Amsterdam'daki",
+      "Protesto"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Protestocular yeni veri merkezi şantiyesine girdi.",
+    "source_tags": [
+      "THE VERGE",
+      "MIT TECHNOLOGY REVIEW"
+    ]
+  },
+  "context": {
+    "heading": "Şantiyede Hareketli Dakikalar",
+    "cards": [
+      {
+        "card_title": "Şantiyeye Giriş",
+        "card_body": "Amsterdam'daki yeni Microsoft veri merkezi şantiyesine bu sabah protestocular girdi."
+      },
+      {
+        "card_title": "Grup Açıklaması",
+        "card_body": "Geef Tegengas grubu, üç adet 85 metrelik veri merkezi kulesinin inşaatına karşı düzenlenen protestoyu organize etti."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "100",
+    "stat_caption": "İnşaat sahasına giren yaklaşık kişi sayısı",
+    "stat_quote": "Reuters'a göre yaklaşık 100 kişi inşaat sahasına girdi ve bazıları bir vincin üzerine tırmandı."
+  },
+  "details": {
+    "heading": "Projeye Yönelik Tepkiler",
+    "cards": [
+      {
+        "card_title": "Yasak Kararı",
+        "card_body": "Amsterdam şehri, 2023 sonundaki geçici durdurma kararının ardından 2030 yılına kadar yeni veri merkezlerini yasakladı."
+      },
+      {
+        "card_title": "Tek Kiracı",
+        "card_body": "Microsoft bu yeni veri merkezinin tek kiracısı olacak ve proje yasaktan önce ilerleme kaydetti."
+      },
+      {
+        "card_title": "Dublin Eylemi",
+        "card_body": "Aktivistler, Salı günü Dublin'deki bir Microsoft veri merkezinin dışında sahte bir İsrail askeri kontrol noktası kurdu."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel ve Çevresel Etkiler",
+    "cards": [
+      {
+        "card_title": "Şebeke Sorunları",
+        "card_body": "Microsoft, yerel elektrik şebekesi yetkililerinin şantiyeye elektrik sağlanamayacağını söylemesinin ardından İngiltere'deki projesinden vazgeçti."
+      },
+      {
+        "card_title": "Yasal Boşluklar",
+        "card_body": "İngiliz geliştirici Pure Data Centres tarafından inşa edilen şantiye, inşaat aşamasına ulaşmak için bazı boşluklardan yararlandı."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Veri merkezi projelerine karşı artan bu protestolar hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için bizi takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
