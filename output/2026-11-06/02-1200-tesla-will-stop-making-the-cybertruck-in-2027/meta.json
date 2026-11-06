@@ -1,0 +1,10 @@
+{
+  "slot": "12:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 139.1,
+  "candidates_tried": 1,
+  "gemini_calls": 22,
+  "canonical_url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+  "generated_at": "2026-11-06T14:54:21+03:00"
+}

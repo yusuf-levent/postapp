@@ -1,0 +1,70 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ DÜNYASI",
+    "title": "Tesla'da Büyük Değişim: Cybertruck Üretimi Duruyor",
+    "highlight_words": [
+      "Cybertruck",
+      "Üretimi",
+      "Duruyor"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Elon Musk'ın açıklamalarıyla Tesla'nın gelecek planları ve yeni stratejileri netleşiyor.",
+    "source_tags": [
+      "TECHCRUNCH",
+      "THE VERGE"
+    ]
+  },
+  "context": {
+    "heading": "Cybertruck'ın Yolculuğu",
+    "cards": [
+      {
+        "card_title": "2019'dan Günümüze",
+        "card_body": "İlk olarak 2019 yılında duyurulan Cybertruck, o dönemde 40.000 dolar altı fiyat ve 500 mil menzil vaadiyle tanıtılmıştı."
+      },
+      {
+        "card_title": "Beklentiler ve Gerçekler",
+        "card_body": "Elon Musk, 2023 sonunda yıllık 250.000 adet satış öngörmüştü ancak son üç yılda toplam satışlar on binler seviyesinde kaldı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "250.000",
+    "stat_caption": "Elon Musk'ın yıllık satış hedefi ile gerçekleşen satışlar arasındaki fark dikkat çekiyor.",
+    "stat_quote": "Tesla, son üç yılda toplamda sadece on binlerce Cybertruck satışı gerçekleştirdi."
+  },
+  "details": {
+    "heading": "Tesla'nın Yeni Odak Noktası",
+    "cards": [
+      {
+        "card_title": "Cybercab Testleri",
+        "card_body": "Tesla, Austin, Teksas'ta Cybercab robotaksileri iki aydır test ediyor ve bu ay Dallas ile genişlemeyi planlıyor."
+      },
+      {
+        "card_title": "Optimus İçin Yer Açılıyor",
+        "card_body": "Şirket, insansı robot Optimus üretimine odaklanmak amacıyla Model S ve Model X üretimini bu yılın başında sonlandırdı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Stratejik Dönüşümün Etkisi",
+    "cards": [
+      {
+        "card_title": "Sektörel Değişim",
+        "card_body": "Tesla'nın geleneksel araç üretiminden robotaksi ve insansı robot teknolojilerine kayması, otomotiv sektöründeki önceliklerin değiştiğini gösteriyor."
+      },
+      {
+        "card_title": "Kullanıcı Deneyimi",
+        "card_body": "Cybertruck üretiminin durdurulması ve otonom taksi projelerine ağırlık verilmesi, Tesla kullanıcılarının gelecekteki ulaşım tercihlerini etkileyecek."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce Tesla'nın robotaksi ve insansı robotlara odaklanması, markanın otomobil üreticisi kimliğini nasıl değiştirecek?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için Tekno Pusula'yı takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

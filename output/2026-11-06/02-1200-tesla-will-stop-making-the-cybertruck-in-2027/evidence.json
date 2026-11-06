@@ -1,0 +1,289 @@
+{
+  "title": "Tesla will stop making the Cybertruck in 2027",
+  "canonical_url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+  "source_names": [
+    "TechCrunch",
+    "The Verge",
+    "BBC News – Technology",
+    "Wired"
+  ],
+  "checked_at": "2026-11-06T14:52:31+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Tesla, CEO Elon Musk'ın açıklamasına göre gelecek yıl Cybertruck üretmeyi durduracak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "Tesla will stop making the Cybertruck next year, according to CEO Elon Musk"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "Tesla will stop making the Cybertruck next year, according to CEO Elon Musk, who said on X that the company will use the factory space to build more two-seater Cybercab robotaxis."
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk, 2023 yılının sonlarında ilk Cybertruck'ları teslim ederken yılda yaklaşık 250.000 adet satacaklarını öngörmüştü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "When Musk handed over the first few Cybertrucks in late 2023, he predicted Tesla would sell around 250,000 per year."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla, son üç yılda toplamda sadece on binlerce Cybertruck sattı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "But Tesla has instead sold just tens of thousands — total — over the last three years."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla, Austin, Teksas'ta Cybercab robotaksileri sokaklara koyarak son iki aydır test ediyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "The company has spent the last two months putting Cybercabs on the streets in its hometown of Austin, Texas."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla, bu ayın ilerleyen günlerinde Dallas ile başlayarak Cybercab'leri diğer şehirlere genişletmeyi planlıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "the company has said it plans to expand the Cybercabs to other cities, starting with Dallas later this month."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "With no major incidents to date, the company has said it plans to expand the Cybercabs to other cities, starting with Dallas later this month."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla, Optimus insansı robotlarını üretmek amacıyla bu yılın başlarında Model S sedan ve Model X SUV üretimini sonlandırdı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "Earlier this year, the company decided to end production of the Model S sedan and Model X SUV, and decided to instead use the factory space dedicated to those vehicles to make Optimus humanoid robots."
+        }
+      ]
+    },
+    {
+      "claim": "Cybertruck ilk olarak 2019 yılında duyuruldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "First announced in 2019, the Cybertruck was a product that Musk long obsessed over."
+        }
+      ]
+    },
+    {
+      "claim": "2019 yılında düzenlenen tanıtım etkinliğinde Tesla, aracın 40.000 doların altında bir başlangıç fiyatına ve 500 mile kadar menzile sahip olacağını söylemişti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "During the now-infamous reveal event in 2019, where head designer Franz von Holzhausen cracked the Cybertruck’s windows with steel balls, Tesla said the EV was supposed to start at under $40,000 and have up to 500 miles of range."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Tesla, CEO Elon Musk'ın açıklamasına göre gelecek yıl Cybertruck üretmeyi durduracak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "Tesla will stop making the Cybertruck next year, according to CEO Elon Musk"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "Tesla will stop making the Cybertruck next year, according to CEO Elon Musk, who said on X that the company will use the factory space to build more two-seater Cybercab robotaxis."
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk, 2023 yılının sonlarında ilk Cybertruck'ları teslim ederken yılda yaklaşık 250.000 adet satacaklarını öngörmüştü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "When Musk handed over the first few Cybertrucks in late 2023, he predicted Tesla would sell around 250,000 per year."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla, son üç yılda toplamda sadece on binlerce Cybertruck sattı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "But Tesla has instead sold just tens of thousands — total — over the last three years."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla, Austin, Teksas'ta Cybercab robotaksileri sokaklara koyarak son iki aydır test ediyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "The company has spent the last two months putting Cybercabs on the streets in its hometown of Austin, Texas."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla, bu ayın ilerleyen günlerinde Dallas ile başlayarak Cybercab'leri diğer şehirlere genişletmeyi planlıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "the company has said it plans to expand the Cybercabs to other cities, starting with Dallas later this month."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "With no major incidents to date, the company has said it plans to expand the Cybercabs to other cities, starting with Dallas later this month."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla, Optimus insansı robotlarını üretmek amacıyla bu yılın başlarında Model S sedan ve Model X SUV üretimini sonlandırdı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "Earlier this year, the company decided to end production of the Model S sedan and Model X SUV, and decided to instead use the factory space dedicated to those vehicles to make Optimus humanoid robots."
+        }
+      ]
+    },
+    {
+      "claim": "Cybertruck ilk olarak 2019 yılında duyuruldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "First announced in 2019, the Cybertruck was a product that Musk long obsessed over."
+        }
+      ]
+    },
+    {
+      "claim": "2019 yılında düzenlenen tanıtım etkinliğinde Tesla, aracın 40.000 doların altında bir başlangıç fiyatına ve 500 mile kadar menzile sahip olacağını söylemişti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "During the now-infamous reveal event in 2019, where head designer Franz von Holzhausen cracked the Cybertruck’s windows with steel balls, Tesla said the EV was supposed to start at under $40,000 and have up to 500 miles of range."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Tesla, CEO Elon Musk'ın açıklamasına göre gelecek yıl Cybertruck üretmeyi durduracak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "Tesla will stop making the Cybertruck next year, according to CEO Elon Musk"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "Tesla will stop making the Cybertruck next year, according to CEO Elon Musk, who said on X that the company will use the factory space to build more two-seater Cybercab robotaxis."
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk, 2023 yılının sonlarında ilk Cybertruck'ları teslim ederken yılda yaklaşık 250.000 adet satacaklarını öngörmüştü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "When Musk handed over the first few Cybertrucks in late 2023, he predicted Tesla would sell around 250,000 per year."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla, son üç yılda toplamda sadece on binlerce Cybertruck sattı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "But Tesla has instead sold just tens of thousands — total — over the last three years."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla, Austin, Teksas'ta Cybercab robotaksileri sokaklara koyarak son iki aydır test ediyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "The company has spent the last two months putting Cybercabs on the streets in its hometown of Austin, Texas."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla, bu ayın ilerleyen günlerinde Dallas ile başlayarak Cybercab'leri diğer şehirlere genişletmeyi planlıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "the company has said it plans to expand the Cybercabs to other cities, starting with Dallas later this month."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "With no major incidents to date, the company has said it plans to expand the Cybercabs to other cities, starting with Dallas later this month."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla, Optimus insansı robotlarını üretmek amacıyla bu yılın başlarında Model S sedan ve Model X SUV üretimini sonlandırdı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "Earlier this year, the company decided to end production of the Model S sedan and Model X SUV, and decided to instead use the factory space dedicated to those vehicles to make Optimus humanoid robots."
+        }
+      ]
+    },
+    {
+      "claim": "Cybertruck ilk olarak 2019 yılında duyuruldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "First announced in 2019, the Cybertruck was a product that Musk long obsessed over."
+        }
+      ]
+    },
+    {
+      "claim": "2019 yılında düzenlenen tanıtım etkinliğinde Tesla, aracın 40.000 doların altında bir başlangıç fiyatına ve 500 mile kadar menzile sahip olacağını söylemişti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "quote": "During the now-infamous reveal event in 2019, where head designer Franz von Holzhausen cracked the Cybertruck’s windows with steel balls, Tesla said the EV was supposed to start at under $40,000 and have up to 500 miles of range."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/": 3257,
+    "https://www.theverge.com/transportation/1028542/tesla-cybertruck-winding-down-production-2027": 1602,
+    "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss": 2840,
+    "https://www.wired.com/story/early-black-friday-tv-deals-11-5-26/": 3421
+  }
+}
