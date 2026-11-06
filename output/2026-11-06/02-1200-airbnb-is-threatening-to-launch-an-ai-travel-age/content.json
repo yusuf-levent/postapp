@@ -1,10 +1,10 @@
 {
   "cover": {
-    "category_label": "YAPAY ZEKA VE SEYAHAT",
-    "title": "Airbnb'den Yeni Yapay Zeka Seyahat Acentası",
+    "category_label": "YAPAY ZEKA",
+    "title": "Airbnb'den Yeni Yapay Zeka Hamlesi",
     "highlight_words": [
-      "Yapay Zeka",
-      "Seyahat Acentası"
+      "Airbnb",
+      "Yapay Zeka"
     ],
     "highlight_color": "yellow",
     "subtitle": "Airbnb, Q3 2026 hissedar mektubunda yeni yapay zeka seyahat acentasını duyurdu.",
@@ -14,33 +14,33 @@
     ]
   },
   "context": {
-    "heading": "Yeni Nesil Seyahat Deneyimi",
+    "heading": "Yapay Zeka Gelişmeleri",
     "cards": [
       {
-        "card_title": "Hissedar Mektubu Açıklaması",
-        "card_body": "Airbnb, Q3 2026 kazançları ile birlikte yayınladığı mektupta yeni bir yapay zeka seyahat acentası geliştirdiğini açıkladı."
+        "card_title": "Doğal Dil Araması",
+        "card_body": "Airbnb, aylarca önce kullanıcıların doğal dil kullanarak arama yapmasını sağlayan yapay zeka aramasını başlattı."
       },
       {
-        "card_title": "Mevcut Yapay Zeka Adımları",
-        "card_body": "Şirket, birkaç ay önce doğal dil ile arama ve ilanlar için yapay zeka açıklamalarını kullanıma sundu."
+        "card_title": "İlan Açıklamaları",
+        "card_body": "Şirket, platformundaki ilanlar için yapay zeka açıklamaları özelliğini de hayata geçirdi."
       }
     ]
   },
   "stat": {
     "big_stat": "2027",
-    "stat_caption": "Yeni yapay zeka deneyiminin kullanıcılara sunulmaya başlanacağı dönem.",
-    "stat_quote": "Airbnb, yeni yapay zeka deneyimini 2027 yılının ilk yarısında kullanıcılara sunmayı planlıyor."
+    "stat_caption": "Yeni yapay zeka deneyiminin kullanıcılarla buluşacağı tarih",
+    "stat_quote": "Airbnb, yeni yapay zeka deneyimini 2027 yılının ilk yarısında sunmaya başlayacak."
   },
   "details": {
-    "heading": "Özel Arayüz Özellikleri",
+    "heading": "Yatırımcı Mektubu Detayları",
     "cards": [
       {
-        "card_title": "Gerçek Zamanlı İçerik",
-        "card_body": "Kullanıcıların sorularına göre haritalar ve fotoğraflar anlık olarak ekleniyor."
+        "card_title": "Q3 2026 Açıklaması",
+        "card_body": "Airbnb, Q3 2026 kazançları ile birlikte yayınladığı hissedar mektubunda yeni planlarını paylaştı."
       },
       {
-        "card_title": "Program ve Karşılaştırma",
-        "card_body": "Özel arayüz üzerinden seyahat programları oluşturulabiliyor ve karşılaştırmalar yapılabiliyor."
+        "card_title": "Seyahat Acentası",
+        "card_body": "Şirket, bu mektupta özel bir yapay zeka seyahat acentası geliştirdiğini resmi olarak açıkladı."
       }
     ]
   },
@@ -49,17 +49,17 @@
     "cards": [
       {
         "card_title": "Kullanıcı Deneyimi",
-        "card_body": "Doğal dil ile arama ve özel seyahat asistanı arayüzü planlanıyor."
+        "card_body": "Geliştirilen yapay zeka seyahat acentası, kullanıcılara 2027'nin ilk yarısından itibaren sunulmaya başlanacak."
       },
       {
-        "card_title": "Teknolojik Dönüşüm",
-        "card_body": "Airbnb, platformuna entegre ettiği yapay zeka araçlarıyla seyahat planlamasını yeniden şekillendiriyor."
+        "card_title": "Platform Yenilikleri",
+        "card_body": "Doğal dil aramaları ve yapay zeka destekli ilan açıklamaları platformda aktif olarak yer alıyor."
       }
     ]
   },
   "cta": {
-    "question": "Airbnb'nin yeni yapay zeka seyahat acentası planları hakkında ne düşünüyorsunuz?",
-    "reminder_line": "Teknoloji ve yapay zeka gelişmelerini kaçırmamak için takipte kalın."
+    "question": "Airbnb'nin yeni yapay zeka seyahat acentası seyahat planlama alışkanlıklarınızı nasıl değiştirecek?",
+    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
