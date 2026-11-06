@@ -1,0 +1,27 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Other_Worlds_Logo_v37_16x9.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-06/02-1200-stranger-things-is-getting-a-live-action-spinoff/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.theverge.com/entertainment/1028608/other-worlds-a-stranger-things-adventure-netflix-announce-trailer",
+      "width": 3840,
+      "height": 2160,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/29488961/pexels-photo-29488961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-06/02-1200-stranger-things-is-getting-a-live-action-spinoff/images/img-2.png",
+      "license": "Pexels License — Rainaly Gonzalez",
+      "author": "Rainaly Gonzalez",
+      "credit_url": "https://www.pexels.com/photo/vintage-tv-with-person-adjusting-controls-29488961/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "Retro-style image of a person adjusting controls on a vintage television set."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}
