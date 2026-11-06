@@ -1,69 +1,65 @@
 {
   "cover": {
     "category_label": "3D YAZICI DÜNYASI",
-    "title": "Bambu P2S Combo: İndirim ve Performans",
+    "title": "Bambu P2S Combo: Fiyat ve Performans Analizi",
     "highlight_words": [
-      "Bambu P2S Combo",
-      "İndirim"
+      "Bambu P2S",
+      "Fiyat"
     ],
     "highlight_color": "yellow",
-    "subtitle": "3D baskı dünyasında yeni fırsatlar ve detaylı test sonuçları.",
+    "subtitle": "3D baskı dünyasında yeni bir dönem: P2S Combo indirimde ve teknik detaylar.",
     "source_tags": [
       "THE VERGE",
       "WIRED"
     ]
   },
   "context": {
-    "heading": "Piyasada Neler Değişti?",
+    "heading": "Piyasada Neler Var?",
     "cards": [
       {
-        "card_title": "Bambu P2S Combo İndirimi",
-        "card_body": "Bambu P2S Combo 3D yazıcı, 1 Aralık tarihine kadar 749 dolar yerine 649 dolarlık indirimli fiyatıyla satışta."
+        "card_title": "Fiyat Karşılaştırması",
+        "card_body": "Bambu P2S Combo 1 Aralık'a kadar 649 dolara satılıyor. P1S Combo 509 dolar, Elegoo Centauri Carbon 2 ise 369 dolar."
       },
       {
-        "card_title": "Alternatif Seçenekler",
-        "card_body": "Elegoo Centauri Carbon 2 Combo 369 dolardan, Bambu P1S Combo ise 509 dolarlık indirimli fiyatıyla piyasada yer alıyor."
+        "card_title": "Bakım Kolaylığı",
+        "card_body": "P2S modelinde hotend değişimi oldukça pratik; sadece 18 dolar maliyetle bir dakikadan kısa sürede yapılabiliyor."
       }
     ]
   },
   "stat": {
     "big_stat": "6.770 Saat",
-    "stat_caption": "Yazarın 4 farklı yazıcıda gerçekleştirdiği toplam baskı süresi.",
-    "stat_quote": "ICE whistleblowers projesi için 40.000 adet düdük basılarak P2S modeli zorlu testlerden geçirildi."
+    "stat_caption": "Yazarın dört farklı 3D yazıcıda toplam baskı süresi.",
+    "stat_quote": "Yazarın P1P modelinde neredeyse 3.000 saatlik 3D baskı deneyimi bulunmaktadır."
   },
   "details": {
-    "heading": "Bakım ve Maliyet Analizi",
+    "heading": "Test Edilen Modeller",
     "cards": [
       {
-        "card_title": "Bambu P2S Bakımı",
-        "card_body": "Bambu P2S modelinde hotend değişimi sadece 18 dolar tutuyor ve işlem bir dakikadan kısa sürede tamamlanabiliyor."
+        "card_title": "Centauri Serisi",
+        "card_body": "Yazar, Centauri Carbon ile 1.271 saat ve Centauri Carbon 2 ile 939 saatlik baskı süresine ulaşmıştır."
       },
       {
-        "card_title": "Elegoo Bakım Maliyetleri",
-        "card_body": "Elegoo yazıcılarında komple hotend seti 30 dolar, sekizli nozzle paketi ise 25 dolar olarak fiyatlandırılıyor."
-      },
-      {
-        "card_title": "Uzun Süreli Testler",
-        "card_body": "Yazar, P1P yazıcısı ile 3.000 saat, Centauri Carbon ile 1.271 saat ve Carbon 2 ile 939 saat baskı deneyimi yaşadı."
+        "card_title": "P2S Performansı",
+        "card_body": "P2S yazıcıyı test ederken ICE whistleblowers için tam 40.000 adet düdük basılmıştır."
       }
     ]
   },
   "impact": {
-    "heading": "Kullanıcı Deneyimine Etkisi",
+    "heading": "Kullanıcı Deneyimi",
     "cards": [
       {
-        "card_title": "Sektörel Standartlar",
-        "card_body": "Yüksek baskı saatleri ve zorlu projeler, yazıcıların dayanıklılığını ve bakım kolaylığının önemini ortaya koyuyor."
+        "card_title": "Sektörel Bakış",
+        "card_body": "Yüksek baskı saatleri, cihazların dayanıklılığı ve uzun süreli projelerdeki güvenilirliği hakkında önemli veriler sunuyor."
       },
       {
-        "card_title": "Maliyet Yönetimi",
-        "card_body": "Parça değişim süreleri ve maliyetleri, uzun vadeli 3D baskı projelerinde kullanıcılar için kritik bir tercih sebebi."
+        "card_title": "Kullanıcı İçin Avantaj",
+        "card_body": "Hızlı hotend değişimi ve indirimli fiyatlar, 3D baskı meraklıları için maliyet ve zaman tasarrufu sağlıyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce 3D yazıcı seçiminde bakım kolaylığı mı yoksa ilk satın alma maliyeti mi daha önemli?",
-    "reminder_line": "Bambu P2S Combo indiriminin 1 Aralık'ta sona ereceğini unutmayın."
+    "question": "Sizce 3D yazıcı seçiminde en kritik kriter hangisi: Fiyat mı yoksa bakım kolaylığı mı?",
+    "reminder_line": "Tekno Pusula'yı takipte kalın, güncel teknoloji haberlerini kaçırmayın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
