@@ -4868,5 +4868,82 @@
     ],
     "created_at": "2026-11-05T20:50:26+03:00",
     "verified_claims_count": 5
+  },
+  {
+    "id": "2026-11-06-0900",
+    "date": "2026-11-06",
+    "slot": "09:00",
+    "type": "news",
+    "title_tr": "Piyasalarda Büyük Düşüş",
+    "original_title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+    "source_urls": [
+      "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+    ],
+    "canonical_url": "https://bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=rss&at_campaign=rss",
+    "entities": [
+      "Nasdaq",
+      "Dow Jones",
+      "Kioxia",
+      "Tokyo Electron",
+      "SK Hynix",
+      "Samsung",
+      "Kospi",
+      "Taiex",
+      "TSMC"
+    ],
+    "event_type": "market_crash",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "published",
+        "external_id": "6aed68cb07f945cca94311e2",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "published",
+        "external_id": "6aed68e2c1e74b84e5cbfc82",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "x",
+        "state": "published",
+        "external_id": "6aed68f97b7e47e8f40dc0ef",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2118579979520733643",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18449036953132683",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfY4j3Clkv2",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "published",
+        "external_id": "6aed692807f945cca9431f69",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "published",
+        "external_id": "6aed693ef3498efda7713133",
+        "permalink": "https://facebook.com/1351036918092059_122121403743484840",
+        "attempts": 1,
+        "last_error": ""
+      }
+    ],
+    "created_at": "2026-11-06T08:44:44+03:00",
+    "verified_claims_count": 8
   }
 ]
