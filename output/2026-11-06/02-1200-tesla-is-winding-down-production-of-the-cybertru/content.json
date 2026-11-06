@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "ELEKTRİKLİ ARAÇLAR",
+    "title": "Tesla'da Cybertruck Üretimi İçin Kritik Karar",
+    "highlight_words": [
+      "Cybertruck",
+      "Üretimi"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Elon Musk, Teksas tesisindeki üretim planlarında değişikliğe gidiyor.",
+    "source_tags": [
+      "THE VERGE",
+      "BBC NEWS"
+    ]
+  },
+  "context": {
+    "heading": "Üretim Hattında Neler Değişiyor?",
+    "cards": [
+      {
+        "card_title": "Teksas'ta Yeni Dönem",
+        "card_body": "Elon Musk, Teksas Gigafactory'deki Cybertruck üretiminin gelecek yılın ortalarında sonlandırılacağını açıkladı."
+      },
+      {
+        "card_title": "Odak Noktası Değişiyor",
+        "card_body": "Bu değişikliğin temel sebebi, Teksas tesisinde Cybercab üretim kapasitesini artırma hedefi olarak belirtildi."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "70.000",
+    "stat_caption": "2023 lansmanından bu yana gerçekleşen toplam Cybertruck teslimat sayısı.",
+    "stat_quote": "Musk bir zamanlar yıllık 250.000 adet satış öngörmüştü, ancak mevcut veriler bu hedefin oldukça altında kalındığını gösteriyor."
+  },
+  "details": {
+    "heading": "Tesisin Önemi",
+    "cards": [
+      {
+        "card_title": "Tek Merkez",
+        "card_body": "Austin, Teksas'taki tesis, Cybertruck'ı monte eden ve özel bileşenlerle donatılmış tek Tesla fabrikası konumunda."
+      },
+      {
+        "card_title": "Stratejik Dönüşüm",
+        "card_body": "Tesisin altyapısı, Cybertruck üretiminden Cybercab üretimine geçiş yapacak şekilde yeniden düzenlenecek."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Yansımalar",
+    "cards": [
+      {
+        "card_title": "Üretim Stratejisi",
+        "card_body": "Tesla'nın kaynaklarını Cybertruck yerine Cybercab'e kaydırması, şirketin otonom araç vizyonuna odaklandığını gösteriyor."
+      },
+      {
+        "card_title": "Pazar Beklentisi",
+        "card_body": "Yıllık 250.000 adetlik hedef ile gerçekleşen 70.000 adetlik teslimat arasındaki fark, üretim hedeflerinin revize edildiğini kanıtlıyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce Tesla'nın Cybertruck üretimini durdurup Cybercab'e odaklanması doğru bir hamle mi?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri kaçırmamak için bizi takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
