@@ -2,9 +2,9 @@
   "slot": "12:00",
   "type": "news",
   "model": "gemini-3.1-flash-lite",
-  "duration_seconds": 163.4,
+  "duration_seconds": 168.6,
   "candidates_tried": 1,
-  "gemini_calls": 15,
+  "gemini_calls": 16,
   "canonical_url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
-  "generated_at": "2026-11-06T15:19:59+03:00"
+  "generated_at": "2026-11-06T15:25:20+03:00"
 }

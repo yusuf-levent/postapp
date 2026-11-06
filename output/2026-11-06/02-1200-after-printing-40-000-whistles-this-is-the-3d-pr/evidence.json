@@ -7,57 +7,56 @@
     "TechCrunch",
     "Wired"
   ],
-  "checked_at": "2026-11-06T15:17:53+03:00",
+  "checked_at": "2026-11-06T15:23:05+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Bambu Lab P2S Combo 3D yazıcı, 1 Aralık tarihine kadar 649 dolar indirimli fiyatla satılmaktadır.",
+      "claim": "Bambu P2S Combo 3D yazıcı, 1 Aralık'a kadar 649 dolara indirimli olarak satılmaktadır ve normal fiyatı 749 dolardır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
-          "quote": "It’s on sale for $649 through December 1st"
+          "quote": "It’s on sale for $649 through December 1st, but I’d vouch for it even at its normal $749 price."
         }
       ]
     },
     {
-      "claim": "Yazar, test süreci boyunca dört farklı yazıcıda toplam 6.770 saat baskı süresi gerçekleştirmiştir.",
+      "claim": "Yazar, 4 farklı yazıcıda toplam 6.770 saat baskı süresi ve ICE whistleblowers için 40.000 düdük basarak P2S modelini test etmiştir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
-          "quote": "After racking up 6,770 hours of print time across four different printers, I’m sure of my recommendation."
+          "quote": "I’ve spent an entire year testing the P2S alongside several competitors, printing 40,000 whistles for ICE whistleblowers along the way. After racking up 6,770 hours of print time across four different printers, I’m sure of my recommendation."
         }
       ]
     },
     {
-      "claim": "Elegoo Centauri Carbon 2 Combo 3D yazıcının satış fiyatı 369 dolardır.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "Bambu P1S Combo 3D yazıcının indirimli satış fiyatı 509 dolardır.",
+      "claim": "Elegoo Centauri Carbon 2 Combo 3D yazıcının fiyatı 369 dolardır ve Bambu P1S Combo modelinin indirimli fiyatı 509 dolardır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
-          "quote": "If I’m being completely honest, Bambu’s own Bambu P1S Combo, at $509 on sale, is the closest competition for the $649 P2S Combo"
+          "quote": "Others will say you shouldn’t spend so much when a $369 Elegoo Centauri Carbon 2 Combo or a $509 Bambu P1S Combo can print just as well."
         }
       ]
     },
     {
-      "claim": "Yazar, Centauri Carbon 2 yazıcı ile 939 saat, Centauri Carbon yazıcı ile 1.271 saat baskı yapmıştır.",
+      "claim": "Yazar Elegoo Centauri Carbon ile 1.271 saat, Centauri Carbon 2 ile 939 saat baskı yapmıştır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
           "quote": "I’ve spent 1,271 hours printing with the Centauri Carbon, and 939 hours with a Centauri Carbon 2"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
+          "quote": "I’ve spent 1,271 hours printing with the Centauri Carbon, and 939 hours with a Centauri Carbon 2, and they printed almost flawlessly right out of the box"
         }
       ]
     },
     {
-      "claim": "Bambu P2S yazıcının hotend parçasının değişim maliyeti 18 dolardır.",
+      "claim": "Bambu P2S modelinin hotend değişimi 18 dolar tutmaktadır ve bir dakikadan kısa sürede yapılabilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -67,69 +66,82 @@
       ]
     },
     {
-      "claim": "Bambu P2S yazıcı ile 1.692 saatlik baskı süresinde yazar iki kez nozül değiştirmiştir.",
+      "claim": "Elegoo yazıcılarında hotend değişimi için kullanılan komple hotend seti 30 dolardır veya sekizli nozzle paketi 25 dolardır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
-          "quote": "Anecdotally, my Bambu printers have led a comparatively charmed life: In 1,692 hours of printing with the P2S, I’ve had to swap out the nozzle twice"
+          "quote": "either by wrenching off a hot nozzle so you can clean or inexpensively replace it ($25 for eight nozzles) or by fishing out tiny wires and unscrewing two bolts to remove an entire $30 hotend (which includes the elements that heat the plastic) at once."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
+          "quote": "When you jam today’s Elegoo printers, you’re going old-school, either by wrenching off a hot nozzle so you can clean or inexpensively replace it ($25 for eight nozzles) or by fishing out tiny wires and unscrewing two bolts to remove an entire $30 hotend (which includes the elements that heat the plastic) at once."
         }
       ]
     },
     {
-      "claim": "Bambu, Mayıs ve Temmuz 2026 arasında üretilen bazı AMS dişlilerini ücretsiz olarak değiştireceğini duyurmuştur.",
+      "claim": "Yazarın P1P yazıcısı ile yaklaşık 3.000 saat 3D baskı yapılmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
+          "quote": "I upgraded my P1P with most of the P1S upgrades, and it’s been a reliable workhorse: nearly 3,000 hours of 3D printing so far."
+        }
+      ]
+    },
+    {
+      "claim": "Bambu, Mayıs ve Temmuz 2026 arasında üretilen AMS 2 dişlilerini ücretsiz olarak değiştireceğini duyurmuştur.",
       "verdict": "not_found",
       "evidence": []
     }
   ],
   "round1": [
     {
-      "claim": "Bambu Lab P2S Combo 3D yazıcı, 1 Aralık tarihine kadar 649 dolar indirimli fiyatla satılmaktadır.",
+      "claim": "Bambu P2S Combo 3D yazıcı, 1 Aralık'a kadar 649 dolara indirimli olarak satılmaktadır ve normal fiyatı 749 dolardır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
-          "quote": "It’s on sale for $649 through December 1st"
+          "quote": "It’s on sale for $649 through December 1st, but I’d vouch for it even at its normal $749 price."
         }
       ]
     },
     {
-      "claim": "Yazar, test süreci boyunca dört farklı yazıcıda toplam 6.770 saat baskı süresi gerçekleştirmiştir.",
+      "claim": "Yazar, 4 farklı yazıcıda toplam 6.770 saat baskı süresi ve ICE whistleblowers için 40.000 düdük basarak P2S modelini test etmiştir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
-          "quote": "After racking up 6,770 hours of print time across four different printers, I’m sure of my recommendation."
+          "quote": "I’ve spent an entire year testing the P2S alongside several competitors, printing 40,000 whistles for ICE whistleblowers along the way. After racking up 6,770 hours of print time across four different printers, I’m sure of my recommendation."
         }
       ]
     },
     {
-      "claim": "Elegoo Centauri Carbon 2 Combo 3D yazıcının satış fiyatı 369 dolardır.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "Bambu P1S Combo 3D yazıcının indirimli satış fiyatı 509 dolardır.",
+      "claim": "Elegoo Centauri Carbon 2 Combo 3D yazıcının fiyatı 369 dolardır ve Bambu P1S Combo modelinin indirimli fiyatı 509 dolardır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
-          "quote": "If I’m being completely honest, Bambu’s own Bambu P1S Combo, at $509 on sale, is the closest competition for the $649 P2S Combo"
+          "quote": "Others will say you shouldn’t spend so much when a $369 Elegoo Centauri Carbon 2 Combo or a $509 Bambu P1S Combo can print just as well."
         }
       ]
     },
     {
-      "claim": "Yazar, Centauri Carbon 2 yazıcı ile 939 saat, Centauri Carbon yazıcı ile 1.271 saat baskı yapmıştır.",
+      "claim": "Yazar Elegoo Centauri Carbon ile 1.271 saat, Centauri Carbon 2 ile 939 saat baskı yapmıştır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
           "quote": "I’ve spent 1,271 hours printing with the Centauri Carbon, and 939 hours with a Centauri Carbon 2"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
+          "quote": "I’ve spent 1,271 hours printing with the Centauri Carbon, and 939 hours with a Centauri Carbon 2, and they printed almost flawlessly right out of the box"
         }
       ]
     },
     {
-      "claim": "Bambu P2S yazıcının hotend parçasının değişim maliyeti 18 dolardır.",
+      "claim": "Bambu P2S modelinin hotend değişimi 18 dolar tutmaktadır ve bir dakikadan kısa sürede yapılabilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -139,69 +151,82 @@
       ]
     },
     {
-      "claim": "Bambu P2S yazıcı ile 1.692 saatlik baskı süresinde yazar iki kez nozül değiştirmiştir.",
+      "claim": "Elegoo yazıcılarında hotend değişimi için kullanılan komple hotend seti 30 dolardır veya sekizli nozzle paketi 25 dolardır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
-          "quote": "Anecdotally, my Bambu printers have led a comparatively charmed life: In 1,692 hours of printing with the P2S, I’ve had to swap out the nozzle twice"
+          "quote": "either by wrenching off a hot nozzle so you can clean or inexpensively replace it ($25 for eight nozzles) or by fishing out tiny wires and unscrewing two bolts to remove an entire $30 hotend (which includes the elements that heat the plastic) at once."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
+          "quote": "When you jam today’s Elegoo printers, you’re going old-school, either by wrenching off a hot nozzle so you can clean or inexpensively replace it ($25 for eight nozzles) or by fishing out tiny wires and unscrewing two bolts to remove an entire $30 hotend (which includes the elements that heat the plastic) at once."
         }
       ]
     },
     {
-      "claim": "Bambu, Mayıs ve Temmuz 2026 arasında üretilen bazı AMS dişlilerini ücretsiz olarak değiştireceğini duyurmuştur.",
+      "claim": "Yazarın P1P yazıcısı ile yaklaşık 3.000 saat 3D baskı yapılmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
+          "quote": "I upgraded my P1P with most of the P1S upgrades, and it’s been a reliable workhorse: nearly 3,000 hours of 3D printing so far."
+        }
+      ]
+    },
+    {
+      "claim": "Bambu, Mayıs ve Temmuz 2026 arasında üretilen AMS 2 dişlilerini ücretsiz olarak değiştireceğini duyurmuştur.",
       "verdict": "not_found",
       "evidence": []
     }
   ],
   "round2": [
     {
-      "claim": "Bambu Lab P2S Combo 3D yazıcı, 1 Aralık tarihine kadar 649 dolar indirimli fiyatla satılmaktadır.",
+      "claim": "Bambu P2S Combo 3D yazıcı, 1 Aralık'a kadar 649 dolara indirimli olarak satılmaktadır ve normal fiyatı 749 dolardır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
-          "quote": "It’s on sale for $649 through December 1st"
+          "quote": "It’s on sale for $649 through December 1st, but I’d vouch for it even at its normal $749 price."
         }
       ]
     },
     {
-      "claim": "Yazar, test süreci boyunca dört farklı yazıcıda toplam 6.770 saat baskı süresi gerçekleştirmiştir.",
+      "claim": "Yazar, 4 farklı yazıcıda toplam 6.770 saat baskı süresi ve ICE whistleblowers için 40.000 düdük basarak P2S modelini test etmiştir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
-          "quote": "After racking up 6,770 hours of print time across four different printers, I’m sure of my recommendation."
+          "quote": "I’ve spent an entire year testing the P2S alongside several competitors, printing 40,000 whistles for ICE whistleblowers along the way. After racking up 6,770 hours of print time across four different printers, I’m sure of my recommendation."
         }
       ]
     },
     {
-      "claim": "Elegoo Centauri Carbon 2 Combo 3D yazıcının satış fiyatı 369 dolardır.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "Bambu P1S Combo 3D yazıcının indirimli satış fiyatı 509 dolardır.",
+      "claim": "Elegoo Centauri Carbon 2 Combo 3D yazıcının fiyatı 369 dolardır ve Bambu P1S Combo modelinin indirimli fiyatı 509 dolardır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
-          "quote": "If I’m being completely honest, Bambu’s own Bambu P1S Combo, at $509 on sale, is the closest competition for the $649 P2S Combo"
+          "quote": "Others will say you shouldn’t spend so much when a $369 Elegoo Centauri Carbon 2 Combo or a $509 Bambu P1S Combo can print just as well."
         }
       ]
     },
     {
-      "claim": "Yazar, Centauri Carbon 2 yazıcı ile 939 saat, Centauri Carbon yazıcı ile 1.271 saat baskı yapmıştır.",
+      "claim": "Yazar Elegoo Centauri Carbon ile 1.271 saat, Centauri Carbon 2 ile 939 saat baskı yapmıştır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
           "quote": "I’ve spent 1,271 hours printing with the Centauri Carbon, and 939 hours with a Centauri Carbon 2"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
+          "quote": "I’ve spent 1,271 hours printing with the Centauri Carbon, and 939 hours with a Centauri Carbon 2, and they printed almost flawlessly right out of the box"
         }
       ]
     },
     {
-      "claim": "Bambu P2S yazıcının hotend parçasının değişim maliyeti 18 dolardır.",
+      "claim": "Bambu P2S modelinin hotend değişimi 18 dolar tutmaktadır ve bir dakikadan kısa sürede yapılabilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -211,17 +236,31 @@
       ]
     },
     {
-      "claim": "Bambu P2S yazıcı ile 1.692 saatlik baskı süresinde yazar iki kez nozül değiştirmiştir.",
+      "claim": "Elegoo yazıcılarında hotend değişimi için kullanılan komple hotend seti 30 dolardır veya sekizli nozzle paketi 25 dolardır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
-          "quote": "Anecdotally, my Bambu printers have led a comparatively charmed life: In 1,692 hours of printing with the P2S, I’ve had to swap out the nozzle twice"
+          "quote": "either by wrenching off a hot nozzle so you can clean or inexpensively replace it ($25 for eight nozzles) or by fishing out tiny wires and unscrewing two bolts to remove an entire $30 hotend (which includes the elements that heat the plastic) at once."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
+          "quote": "When you jam today’s Elegoo printers, you’re going old-school, either by wrenching off a hot nozzle so you can clean or inexpensively replace it ($25 for eight nozzles) or by fishing out tiny wires and unscrewing two bolts to remove an entire $30 hotend (which includes the elements that heat the plastic) at once."
         }
       ]
     },
     {
-      "claim": "Bambu, Mayıs ve Temmuz 2026 arasında üretilen bazı AMS dişlilerini ücretsiz olarak değiştireceğini duyurmuştur.",
+      "claim": "Yazarın P1P yazıcısı ile yaklaşık 3.000 saat 3D baskı yapılmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
+          "quote": "I upgraded my P1P with most of the P1S upgrades, and it’s been a reliable workhorse: nearly 3,000 hours of 3D printing so far."
+        }
+      ]
+    },
+    {
+      "claim": "Bambu, Mayıs ve Temmuz 2026 arasında üretilen AMS 2 dişlilerini ücretsiz olarak değiştireceğini duyurmuştur.",
       "verdict": "not_found",
       "evidence": []
     }
