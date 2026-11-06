@@ -2,39 +2,31 @@
 
 ## INSTAGRAM
 
-Yapay zeka dünyasında oyunun kuralları değişiyor! Perplexity, iş süreçlerinizi 7/24 yönetecek yeni dijital çalışma arkadaşları 'Teammates'i duyurdu. 🤖
+Perplexity yapay zeka dünyasında çığır açan bir yeniliğe imza attı! Yeni kişisel yapay zeka ajanları 'Teammates' duyuruldu. Bu ajanlar, Perplexity Computer bulut tabanlı asistanı içinde görev yapıyor. Arkada plan kesintisiz 7/24 çalışma süresi sunan bu sistem, şimdilik ayda 200 dolar veya yılda 2.000 dolar ödeyen Perplexity Max abonelerine özel olarak web ve iOS üzerinde sunuluyor. 7/24 çalışan bu ajanları iş süreçlerinizde kullanır mısınız? Tekno Pusula ile teknolojiyi takipte kalın. Kaynak: Engadget, TechCrunch
 
-Perplexity Computer altyapısıyla çalışan bu ajanlar, iş yükünüze göre otomatik görev planlaması yapabiliyor ve arka planda kesintisiz destek sunuyor. Karmaşık görevleri yönetmek artık çok daha hızlı.
-
-Şu an için sadece web ve iOS platformlarında, Perplexity Max abonelerine özel sunulan bu özelliğin aylık maliyeti 200 dolar. Yıllık plan ise 2.000 dolar olarak belirlendi.
-
-Sizce 7/24 çalışan yapay zeka ajanları iş hayatındaki verimliliği ne kadar artırır? Yorumlarda buluşalım!
-
-Kaynak: Engadget, TechCrunch
-
-#YapayZeka #Perplexity #Teammates #Teknoloji #AI #DijitalDönüşüm #İşDünyası #Verimlilik
+#Perplexity #YapayZeka #ArtificialIntelligence #Teknoloji #Teammates #TechNews #AI #TeknoPusula
 
 ## TIKTOK
 
-Perplexity'den yeni yapay zeka ajanları: Teammates! 🤖 İşlerinizi 7/24 yöneten dijital çalışma arkadaşlarınızla tanışın. Perplexity Max abonelerine özel bu özellik, görev planlamasından operasyonel verimliliğe kadar her şeyi üstleniyor. Sizce bu teknoloji iş hayatını nasıl değiştirecek?
+Perplexity'den 7/24 arka planda çalışan yeni yapay zeka ajanları Teammates duyuruldu! Sadece Max abonelerine özel. 🤖 Kaynak: TechCrunch
 
-#YapayZeka #Perplexity #Teammates #Teknoloji #AI #Gelecek
+#Perplexity #YapayZeka #AI #Teknoloji #TechNews
 
 ## X
 
-Perplexity, iş süreçlerini 7/24 yöneten yeni AI ajanları 'Teammates'i duyurdu. Perplexity Computer altyapısıyla çalışan sistem, görev planlaması ve operasyonel verimlilik odaklı. Max aboneleri için aylık 200$. Sizce bu verimliliği ne kadar artırır? Kaynak: Engadget
+Perplexity, 7/24 arka planda çalışabilen yeni kişisel yapay zeka ajanları 'Teammates'i duyurdu. Özellik, ayda 200 dolar olan Perplexity Max abonelerine özel olarak sunuluyor. Kaynak: Engadget, TechCrunch
 
 #Perplexity #YapayZeka
 
 ## THREADS
 
-Perplexity'den Yeni Yapay Zeka Ajanları: Teammates
+Perplexity'den Yeni Ajanlar: Teammates
 
-Perplexity, iş süreçlerinizi 7/24 yönetecek dijital çalışma arkadaşları 'Teammates'i tanıttı. Perplexity Computer altyapısıyla çalışan bu ajanlar, karmaşık görevleri otomatik yönetebiliyor.
+Perplexity, arka planda 7/24 çalışabilen kişisel yapay zeka ajanları 'Teammates'i duyurdu. Bu sistem bulut tabanlı Perplexity Computer üzerinde çalışıyor.
 
-Şu an sadece web ve iOS'ta, Perplexity Max abonelerine özel sunulan bu özelliğin aylık maliyeti 200 dolar. 💭
+Özellik, aylık 200 dolar veya yıllık 2.000 dolar olan Max abonelerine özel olarak web ve iOS'te sunuluyor.
 
-Sizce 7/24 çalışan yapay zeka ajanları verimliliği ne kadar artırır?
+7/24 çalışan bu ajanları iş süreçlerinizde kullanır mısınız? 💭
 
 Kaynak: Engadget
 
@@ -42,24 +34,12 @@ Kaynak: Engadget
 
 ## LINKEDIN
 
-Yapay zeka destekli iş süreçleri yeni bir boyuta taşınıyor. Perplexity, profesyonellerin iş yükünü hafifletmeyi hedefleyen yeni 'Teammates' ajanlarını duyurdu.
+Yapay zeka asistanları pazarında rekabet kızışıyor. Perplexity, bulut tabanlı 'Perplexity Computer' üzerinde çalışan ve arka planda 7/24 görev yapabilen kişisel yapay zeka ajanları 'Teammates'i tanıttı. Şimdilik ayda 200 dolar veya yılda 2.000 dolar ödeyen Perplexity Max abonelerine özel sunulan bu yüksek maliyetli model, web ve iOS platformlarında destekleniyor. 7/24 çalışan bu ajanları iş süreçlerinizde kullanır mısınız? Kaynak: Engadget, TechCrunch
 
-Perplexity Computer altyapısı üzerinde çalışan bu sistem, sadece görev yönetimi yapmakla kalmıyor, aynı zamanda iş yüküne göre ölçeklenebilen bir yapı sunuyor. 7/24 arka planda çalışarak kritik karar anlarında destek sağlayan bu ajanlar, operasyonel verimliliği artırmayı hedefliyor.
-
-Şu an için Perplexity Max abonelerine (aylık 200$) özel olan bu özellik, dijital asistanlık kavramını bir üst seviyeye taşıyor. İş dünyasında bu tür otonom ajanların yaygınlaşması, profesyonel karar alma süreçlerini nasıl dönüştürecek?
-
-Kaynak: Engadget, TechCrunch
-
-#YapayZeka #Perplexity #İşDünyası #Verimlilik #DijitalDönüşüm
+#YapayZeka #ArtificialIntelligence #Teknoloji #Inovasyon #Business
 
 ## FACEBOOK
 
-Perplexity'den iş hayatını kolaylaştıracak yeni bir adım: Teammates! 🤖
+Perplexity'den yeni yapay zeka hamlesi! Teammates adı verilen kişisel yapay zeka ajanları duyuruldu. Perplexity Computer bulut tabanlı asistanı içinde çalışan bu ajanlar, arka planda kesintisiz 7/24 çalışabiliyor. Şimdilik ayda 200 dolar veya yılda 2.000 dolar olan Perplexity Max abonelerine özel olarak web ve iOS üzerinde sunuluyor. 7/24 çalışan bu ajanları iş süreçlerinizde kullanır mısınız? Tekno Pusula ile teknolojiyi takipte kalın. Kaynak: Engadget, TechCrunch
 
-Artık iş süreçlerinizi 7/24 yönetecek dijital çalışma arkadaşlarınız var. Perplexity Computer altyapısıyla çalışan Teammates, görev planlaması yapıyor ve karmaşık iş yüklerini otomatik olarak yönetebiliyor.
-
-Şu an için web ve iOS platformlarında, Perplexity Max abonelerine özel sunulan bu özelliğin aylık maliyeti 200 dolar. İş dünyasında verimliliği artırmayı hedefleyen bu teknoloji hakkında ne düşünüyorsunuz?
-
-Kaynak: Engadget, TechCrunch
-
-#YapayZeka #Perplexity #Teammates #Teknoloji #İşDünyası
+#Perplexity #YapayZeka #Teknoloji #TechNews #TeknoPusula

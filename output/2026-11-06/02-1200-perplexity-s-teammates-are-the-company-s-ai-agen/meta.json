@@ -1,10 +1,10 @@
 {
   "slot": "12:00",
   "type": "news",
-  "model": "gemini-3.1-flash-lite",
-  "duration_seconds": 83.9,
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 73.7,
   "candidates_tried": 1,
-  "gemini_calls": 13,
+  "gemini_calls": 11,
   "canonical_url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
-  "generated_at": "2026-11-06T14:34:47+03:00"
+  "generated_at": "2026-11-06T14:38:50+03:00"
 }
