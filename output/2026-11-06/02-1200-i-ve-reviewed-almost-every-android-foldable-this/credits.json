@@ -1,0 +1,60 @@
+{
+  "images": [
+    {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Samsung_Galaxy_Z_Fold8_and_Fold8_Ultra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-06/02-1200-i-ve-reviewed-almost-every-android-foldable-this/images/img-1.png",
+      "license": "",
+      "author": "",
+      "credit_url": "https://en.wikipedia.org/wiki/Galaxy%20Z%20Fold%208",
+      "width": 3832,
+      "height": 2555,
+      "alt_text": "Galaxy Z Fold 8"
+    },
+    {
+      "source": "ogimage",
+      "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/iphone-duo-android-foldables-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.741906587151%2C100%2C78.516186825698&amp;w=1200",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-06/02-1200-i-ve-reviewed-almost-every-android-foldable-this/images/img-2.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+      "width": 2200,
+      "height": 1467,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/19281806/pexels-photo-19281806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-06/02-1200-i-ve-reviewed-almost-every-android-foldable-this/images/img-3.png",
+      "license": "Pexels License — Rohit Sharma",
+      "author": "Rohit Sharma",
+      "credit_url": "https://www.pexels.com/photo/foldable-oppo-phone-19281806/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "Close-up of a luxury foldable smartphone with a sleek design against a vibrant pink background."
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/19281810/pexels-photo-19281810.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-06/02-1200-i-ve-reviewed-almost-every-android-foldable-this/images/img-4.png",
+      "license": "Pexels License — Rohit Sharma",
+      "author": "Rohit Sharma",
+      "credit_url": "https://www.pexels.com/photo/oppo-find-n3-flip-smartphone-on-a-pile-of-stones-19281810/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "A modern foldable smartphone with a sleek design rests stylishly on textured rocks with a vibrant background."
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/19281807/pexels-photo-19281807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-06/02-1200-i-ve-reviewed-almost-every-android-foldable-this/images/img-5.png",
+      "license": "Pexels License — Rohit Sharma",
+      "author": "Rohit Sharma",
+      "credit_url": "https://www.pexels.com/photo/oppo-find-n3-flip-smartphone-on-a-box-19281807/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "A stylish and sleek smartphone displayed on stacked boxes, embodying modern technology and design."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}

@@ -1,0 +1,235 @@
+{
+  "title": "I’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares",
+  "canonical_url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+  "source_names": [
+    "The Verge",
+    "TechCrunch",
+    "Ars Technica",
+    "Engadget"
+  ],
+  "checked_at": "2026-11-06T15:43:04+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "iPhone Duo, 2.000 dolarlık bir fiyat etiketine sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+          "quote": "Its curved frame and Ceramic Shield back have that ineffable Apple feeling, a sense of polish that helps justify the $2,000 price tag."
+        }
+      ]
+    },
+    {
+      "claim": "iPhone Duo, IP68 suya ve toza dayanıklılık derecesine sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+          "quote": "And while the Duo’s IP68 rating is an obvious advantage over much of the competition"
+        }
+      ]
+    },
+    {
+      "claim": "iPhone Duo'nun arka kamerasında iki adet 48 megapiksel lens bulunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+          "quote": "The iPhone Duo’s cameras, like those on most foldables, are fairly basic, with a pair of 48-megapixel rear lenses, one main and one ultrawide."
+        }
+      ]
+    },
+    {
+      "claim": "iPhone Duo, USB-C Apple Pencil ile stylus desteği sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+          "quote": "Finally, the Duo benefits from stylus support, letting you use a USB-C Apple Pencil on the central screen."
+        }
+      ]
+    },
+    {
+      "claim": "iPhone Duo, Samsung'un katlanabilir telefonlarından daha yüksek batarya kapasitesine sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+          "quote": "It’s got a higher capacity than either of Samsung’s foldables, so that’s no real surprise."
+        }
+      ]
+    },
+    {
+      "claim": "Xiaomi 18 Fold, aynı anda altı uygulamayı yan yana çalıştırma imkanı sunmaktadır.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "iPhone Duo'nun iç ekranında nano-texture (mat) kaplama bulunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+          "quote": "No rival offers anything like the “nano-texture” (read: matte) finish on the inner screen, which is easy on the eyes in more ways than one."
+        }
+      ]
+    },
+    {
+      "claim": "iPhone Duo, bölünmüş ekran modunda aynı anda yalnızca iki uygulamayı çalıştırmanıza izin verir.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "round1": [
+    {
+      "claim": "iPhone Duo, 2.000 dolarlık bir fiyat etiketine sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+          "quote": "Its curved frame and Ceramic Shield back have that ineffable Apple feeling, a sense of polish that helps justify the $2,000 price tag."
+        }
+      ]
+    },
+    {
+      "claim": "iPhone Duo, IP68 suya ve toza dayanıklılık derecesine sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+          "quote": "And while the Duo’s IP68 rating is an obvious advantage over much of the competition"
+        }
+      ]
+    },
+    {
+      "claim": "iPhone Duo'nun arka kamerasında iki adet 48 megapiksel lens bulunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+          "quote": "The iPhone Duo’s cameras, like those on most foldables, are fairly basic, with a pair of 48-megapixel rear lenses, one main and one ultrawide."
+        }
+      ]
+    },
+    {
+      "claim": "iPhone Duo, USB-C Apple Pencil ile stylus desteği sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+          "quote": "Finally, the Duo benefits from stylus support, letting you use a USB-C Apple Pencil on the central screen."
+        }
+      ]
+    },
+    {
+      "claim": "iPhone Duo, Samsung'un katlanabilir telefonlarından daha yüksek batarya kapasitesine sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+          "quote": "It’s got a higher capacity than either of Samsung’s foldables, so that’s no real surprise."
+        }
+      ]
+    },
+    {
+      "claim": "Xiaomi 18 Fold, aynı anda altı uygulamayı yan yana çalıştırma imkanı sunmaktadır.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "iPhone Duo'nun iç ekranında nano-texture (mat) kaplama bulunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+          "quote": "No rival offers anything like the “nano-texture” (read: matte) finish on the inner screen, which is easy on the eyes in more ways than one."
+        }
+      ]
+    },
+    {
+      "claim": "iPhone Duo, bölünmüş ekran modunda aynı anda yalnızca iki uygulamayı çalıştırmanıza izin verir.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "round2": [
+    {
+      "claim": "iPhone Duo, 2.000 dolarlık bir fiyat etiketine sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+          "quote": "Its curved frame and Ceramic Shield back have that ineffable Apple feeling, a sense of polish that helps justify the $2,000 price tag."
+        }
+      ]
+    },
+    {
+      "claim": "iPhone Duo, IP68 suya ve toza dayanıklılık derecesine sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+          "quote": "And while the Duo’s IP68 rating is an obvious advantage over much of the competition"
+        }
+      ]
+    },
+    {
+      "claim": "iPhone Duo'nun arka kamerasında iki adet 48 megapiksel lens bulunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+          "quote": "The iPhone Duo’s cameras, like those on most foldables, are fairly basic, with a pair of 48-megapixel rear lenses, one main and one ultrawide."
+        }
+      ]
+    },
+    {
+      "claim": "iPhone Duo, USB-C Apple Pencil ile stylus desteği sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+          "quote": "Finally, the Duo benefits from stylus support, letting you use a USB-C Apple Pencil on the central screen."
+        }
+      ]
+    },
+    {
+      "claim": "iPhone Duo, Samsung'un katlanabilir telefonlarından daha yüksek batarya kapasitesine sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+          "quote": "It’s got a higher capacity than either of Samsung’s foldables, so that’s no real surprise."
+        }
+      ]
+    },
+    {
+      "claim": "Xiaomi 18 Fold, aynı anda altı uygulamayı yan yana çalıştırma imkanı sunmaktadır.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "iPhone Duo'nun iç ekranında nano-texture (mat) kaplama bulunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+          "quote": "No rival offers anything like the “nano-texture” (read: matte) finish on the inner screen, which is easy on the eyes in more ways than one."
+        }
+      ]
+    },
+    {
+      "claim": "iPhone Duo, bölünmüş ekran modunda aynı anda yalnızca iki uygulamayı çalıştırmanıza izin verir.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor": 10532,
+    "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/": 4070,
+    "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/": 2026,
+    "https://www.engadget.com/2308541/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/": 3398
+  }
+}

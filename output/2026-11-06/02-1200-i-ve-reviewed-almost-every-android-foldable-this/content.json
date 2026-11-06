@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "YENİ NESİL TEKNOLOJİ",
+    "title": "Karşınızda iPhone Duo: Katlanabilir Gelecek",
+    "highlight_words": [
+      "iPhone Duo",
+      "Katlanabilir"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Apple'ın yeni katlanabilir cihazı, iddialı özellikleriyle teknoloji dünyasında.",
+    "source_tags": [
+      "THE VERGE",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "iPhone Duo Neler Sunuyor?",
+    "cards": [
+      {
+        "card_title": "Ekran Teknolojisi",
+        "card_body": "iPhone Duo'nun iç ekranında, yansımaları azaltan ve daha net bir görüntü sunan özel nano-texture mat kaplama bulunuyor."
+      },
+      {
+        "card_title": "Dayanıklılık",
+        "card_body": "Cihaz, günlük kullanımda güven veren IP68 suya ve toza dayanıklılık derecesine sahip."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "2.000 $",
+    "stat_caption": "iPhone Duo'nun piyasaya giriş fiyatı olarak belirlenen etiket değeri.",
+    "stat_quote": "Yüksek performans ve premium özellikler, bu fiyat seviyesinde kullanıcılarla buluşuyor. - Ars Technica"
+  },
+  "details": {
+    "heading": "Teknik Detaylar",
+    "cards": [
+      {
+        "card_title": "Kamera Sistemi",
+        "card_body": "Arka tarafta yer alan iki adet 48 megapiksel lens, yüksek çözünürlüklü fotoğraf ve video çekimleri için optimize edildi."
+      },
+      {
+        "card_title": "Stylus Desteği",
+        "card_body": "Cihaz, USB-C Apple Pencil desteği sayesinde yaratıcı işler ve not alma süreçleri için oldukça elverişli."
+      },
+      {
+        "card_title": "Batarya Gücü",
+        "card_body": "iPhone Duo, Samsung'un katlanabilir telefon modellerine kıyasla daha yüksek bir batarya kapasitesi sunuyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etki",
+    "cards": [
+      {
+        "card_title": "Rekabet Kızışıyor",
+        "card_body": "Yüksek batarya kapasitesi ve özel ekran kaplamasıyla iPhone Duo, katlanabilir telefon pazarındaki rekabeti bir üst seviyeye taşıyor."
+      },
+      {
+        "card_title": "Kullanıcı Deneyimi",
+        "card_body": "Stylus desteği ve gelişmiş kamera sistemi, profesyonel kullanıcıların mobil cihazlardan beklentilerini yeniden şekillendiriyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce 2.000 dolarlık fiyat etiketi, sunduğu özellikler için makul mü?",
+    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
