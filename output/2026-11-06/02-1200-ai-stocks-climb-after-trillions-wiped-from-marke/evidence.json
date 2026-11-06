@@ -1,0 +1,265 @@
+{
+  "title": "AI stocks climb after trillions wiped from market values",
+  "canonical_url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+  "source_names": [
+    "BBC News – Technology",
+    "Wired",
+    "Ars Technica",
+    "TechCrunch"
+  ],
+  "checked_at": "2026-11-06T18:08:43+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "ABD ekonomisine Eylül ayında 165.000 yeni istihdam eklendi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "quote": "with an unexpectedly strong 165,000 jobs added to the economy in September."
+        }
+      ]
+    },
+    {
+      "claim": "Nasdaq Bileşik Endeksi, Perşembe günü yaşadığı %5,5'lik düşüşün ardından Cuma günü işlemlere %1,23 yükselişle başladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "quote": "The Nasdaq Composite opened up 1.23% and continued to gain in early trading, reversing some of its 5.5% fall from Thursday."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia hisseleri Perşembe günü %9'dan fazla değer kaybettikten sonra Cuma günü %6'nın üzerinde yükselişle açıldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "quote": "Nvida, which shed hundreds of billions in market value on Thursday after shares slid more than 9%, began Friday trading up more than 6%."
+        }
+      ]
+    },
+    {
+      "claim": "SpaceX hisseleri Cuma günü %7'nin üzerinde, Tesla hisseleri ise yaklaşık %3 oranında değer kazandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "quote": "SpaceX and Tesla shares, which were also hammered on Thursday, saw more mixed gains, up more than 7% and nearly 3% respectively."
+        }
+      ]
+    },
+    {
+      "claim": "ABD'de işsizlik oranı Eylül ayındaki %4,2 seviyesinden Ekim ayında %4,1'e geriledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "quote": "Overall the unemployment rate, which counts the number of people who are out of work but actively looking for a job, eased slightly to 4.1% from 4.2% in September."
+        }
+      ]
+    },
+    {
+      "claim": "ABD Çalışma İstatistikleri Bürosu (BLS), işsizlik oranının Mart ayından bu yana %4,1 ile %4,3 aralığında seyrettiğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "quote": "The Bureau of Labor Statistics (BLS) said the unemployment rate has remained in the narrow range of 4.1% to 4.3% since March."
+        }
+      ]
+    },
+    {
+      "claim": "Ekim ayında profesyonel ve iş hizmetleri sektörü 70.000, sağlık sektörü ise 42.000 yeni istihdam sağladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "quote": "The increase in jobs was led by the professional and business services sector, which added 70,000 jobs. The healthcare sector added 42,000 jobs"
+        }
+      ]
+    },
+    {
+      "claim": "ABD Başkanı Donald Trump, 'süper zeka' kavramını desteklediğini ve buna karşı çıkmanın 'aptalca bir liderlik' olacağını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "quote": "US President Donald Trump on Friday reiterated his supported for what he calls \"super intelligence\", saying only \"foolish leadership\" would \"say no to the riches they bring\"."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "ABD ekonomisine Eylül ayında 165.000 yeni istihdam eklendi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "quote": "with an unexpectedly strong 165,000 jobs added to the economy in September."
+        }
+      ]
+    },
+    {
+      "claim": "Nasdaq Bileşik Endeksi, Perşembe günü yaşadığı %5,5'lik düşüşün ardından Cuma günü işlemlere %1,23 yükselişle başladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "quote": "The Nasdaq Composite opened up 1.23% and continued to gain in early trading, reversing some of its 5.5% fall from Thursday."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia hisseleri Perşembe günü %9'dan fazla değer kaybettikten sonra Cuma günü %6'nın üzerinde yükselişle açıldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "quote": "Nvida, which shed hundreds of billions in market value on Thursday after shares slid more than 9%, began Friday trading up more than 6%."
+        }
+      ]
+    },
+    {
+      "claim": "SpaceX hisseleri Cuma günü %7'nin üzerinde, Tesla hisseleri ise yaklaşık %3 oranında değer kazandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "quote": "SpaceX and Tesla shares, which were also hammered on Thursday, saw more mixed gains, up more than 7% and nearly 3% respectively."
+        }
+      ]
+    },
+    {
+      "claim": "ABD'de işsizlik oranı Eylül ayındaki %4,2 seviyesinden Ekim ayında %4,1'e geriledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "quote": "Overall the unemployment rate, which counts the number of people who are out of work but actively looking for a job, eased slightly to 4.1% from 4.2% in September."
+        }
+      ]
+    },
+    {
+      "claim": "ABD Çalışma İstatistikleri Bürosu (BLS), işsizlik oranının Mart ayından bu yana %4,1 ile %4,3 aralığında seyrettiğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "quote": "The Bureau of Labor Statistics (BLS) said the unemployment rate has remained in the narrow range of 4.1% to 4.3% since March."
+        }
+      ]
+    },
+    {
+      "claim": "Ekim ayında profesyonel ve iş hizmetleri sektörü 70.000, sağlık sektörü ise 42.000 yeni istihdam sağladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "quote": "The increase in jobs was led by the professional and business services sector, which added 70,000 jobs. The healthcare sector added 42,000 jobs"
+        }
+      ]
+    },
+    {
+      "claim": "ABD Başkanı Donald Trump, 'süper zeka' kavramını desteklediğini ve buna karşı çıkmanın 'aptalca bir liderlik' olacağını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "quote": "US President Donald Trump on Friday reiterated his supported for what he calls \"super intelligence\", saying only \"foolish leadership\" would \"say no to the riches they bring\"."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "ABD ekonomisine Eylül ayında 165.000 yeni istihdam eklendi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "quote": "with an unexpectedly strong 165,000 jobs added to the economy in September."
+        }
+      ]
+    },
+    {
+      "claim": "Nasdaq Bileşik Endeksi, Perşembe günü yaşadığı %5,5'lik düşüşün ardından Cuma günü işlemlere %1,23 yükselişle başladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "quote": "The Nasdaq Composite opened up 1.23% and continued to gain in early trading, reversing some of its 5.5% fall from Thursday."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia hisseleri Perşembe günü %9'dan fazla değer kaybettikten sonra Cuma günü %6'nın üzerinde yükselişle açıldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "quote": "Nvida, which shed hundreds of billions in market value on Thursday after shares slid more than 9%, began Friday trading up more than 6%."
+        }
+      ]
+    },
+    {
+      "claim": "SpaceX hisseleri Cuma günü %7'nin üzerinde, Tesla hisseleri ise yaklaşık %3 oranında değer kazandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "quote": "SpaceX and Tesla shares, which were also hammered on Thursday, saw more mixed gains, up more than 7% and nearly 3% respectively."
+        }
+      ]
+    },
+    {
+      "claim": "ABD'de işsizlik oranı Eylül ayındaki %4,2 seviyesinden Ekim ayında %4,1'e geriledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "quote": "Overall the unemployment rate, which counts the number of people who are out of work but actively looking for a job, eased slightly to 4.1% from 4.2% in September."
+        }
+      ]
+    },
+    {
+      "claim": "ABD Çalışma İstatistikleri Bürosu (BLS), işsizlik oranının Mart ayından bu yana %4,1 ile %4,3 aralığında seyrettiğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "quote": "The Bureau of Labor Statistics (BLS) said the unemployment rate has remained in the narrow range of 4.1% to 4.3% since March."
+        }
+      ]
+    },
+    {
+      "claim": "Ekim ayında profesyonel ve iş hizmetleri sektörü 70.000, sağlık sektörü ise 42.000 yeni istihdam sağladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "quote": "The increase in jobs was led by the professional and business services sector, which added 70,000 jobs. The healthcare sector added 42,000 jobs"
+        }
+      ]
+    },
+    {
+      "claim": "ABD Başkanı Donald Trump, 'süper zeka' kavramını desteklediğini ve buna karşı çıkmanın 'aptalca bir liderlik' olacağını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "quote": "US President Donald Trump on Friday reiterated his supported for what he calls \"super intelligence\", saying only \"foolish leadership\" would \"say no to the riches they bring\"."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss": 3270,
+    "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/": 5343,
+    "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/": 1268,
+    "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/": 3258
+  }
+}
