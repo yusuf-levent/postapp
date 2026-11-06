@@ -1,64 +1,65 @@
 {
   "cover": {
-    "category_label": "YAPAY ZEKA",
+    "category_label": "YAPAY ZEKA VE SEYAHAT",
     "title": "Airbnb'den Yeni Bir Yapay Zeka Hamlesi",
     "highlight_words": [
-      "Yapay Zeka"
+      "Yapay",
+      "Zeka"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Airbnb, seyahat acentesi gibi çalışacak yeni bir yapay zeka ajanı geliştiriyor.",
+    "subtitle": "Şirket, kullanıcılar için yeni bir seyahat asistanı geliştiriyor.",
     "source_tags": [
       "ENGADGET",
       "THE VERGE"
     ]
   },
   "context": {
-    "heading": "Yatırımcı Mektubunda Duyuruldu",
+    "heading": "Airbnb'nin Yapay Zeka Planı",
     "cards": [
       {
-        "card_title": "Q3 2026 Raporu",
-        "card_body": "Airbnb, bu yeni planlarını 2026 yılının üçüncü çeyrek kazançlarıyla birlikte yayınladığı yatırımcı mektubunda açıkladı."
+        "card_title": "Seyahat Ajanı",
+        "card_body": "Airbnb, kullanıcılar için seyahat acentası görevi görecek yeni bir yapay zeka ajanı geliştiriyor."
       },
       {
-        "card_title": "Yol Haritası",
-        "card_body": "Şirket, seyahat acentesi işlevi görecek bu yeni yapay zeka deneyimini kullanıcılara sunmaya hazırlanıyor."
+        "card_title": "Yatırımcı Mektubu",
+        "card_body": "Şirket, bu planlarını 2026 yılı 3. çeyrek finansal sonuçlarıyla birlikte yayınlanan mektupta açıkladı."
       }
     ]
   },
   "stat": {
     "big_stat": "2027",
-    "stat_caption": "Yeni yapay zeka deneyiminin kullanıcılara sunulmaya başlanacağı tarih.",
-    "stat_quote": "Airbnb, yeni yapay zeka deneyimini 2027 yılının ilk yarısında kullanıcılara sunmaya başlayacak."
+    "stat_caption": "Yeni yapay zeka deneyiminin kullanıcılarla buluşacağı dönem.",
+    "stat_quote": "Airbnb, yeni deneyimi 2027 yılının ilk yarısında kullanıcılara sunmayı planlıyor."
   },
   "details": {
-    "heading": "Önceki Yapay Zeka Adımları",
+    "heading": "Yeniliklerin Detayları",
     "cards": [
       {
-        "card_title": "Doğal Dil Araması",
-        "card_body": "Airbnb, birkaç ay önce kullanıcıların doğal dil kullanarak arama yapmasına olanak tanıyan yapay zeka aramasını başlattı."
+        "card_title": "Önceki Adımlar",
+        "card_body": "Airbnb, birkaç ay önce ilanlar için yapay zeka destekli arama ve açıklama özelliklerini kullanıma sunmuştu."
       },
       {
-        "card_title": "Yapay Zeka Açıklamaları",
-        "card_body": "Arama özelliğinin yanı sıra, ilanlar için yapay zeka destekli açıklamalar da kullanıma sunuldu."
+        "card_title": "Gelecek Vizyonu",
+        "card_body": "Geliştirilen yeni yapay zeka ajanı, seyahat planlama sürecini daha da ileriye taşımayı hedefliyor."
       }
     ]
   },
   "impact": {
-    "heading": "Genişleyen Hizmet Yelpazesi",
+    "heading": "Sektöre ve Kullanıcıya Etkisi",
     "cards": [
       {
-        "card_title": "Uygulama İçi Hizmetler",
-        "card_body": "Airbnb daha önce uygulama içinde market teslimatları ve araç kiralama gibi diğer hizmetleri de hayata geçirmişti."
+        "card_title": "Kullanıcı Deneyimi",
+        "card_body": "Seyahat asistanı sayesinde kullanıcılar aradıkları yerleri daha kolay bulabilecek ve plan yapabilecek."
       },
       {
-        "card_title": "Seyahat Deneyimi",
-        "card_body": "Geliştirilen yeni yapay zeka ajanı ile seyahat planlama sürecinin daha da akıllı hale gelmesi amaçlanıyor."
+        "card_title": "Sektörel Dönüşüm",
+        "card_body": "Seyahat sektöründe yapay zeka tabanlı çözümlerin kullanımı giderek yaygınlaşıyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce bir yapay zeka seyahat acentesi tatil planlama alışkanlıklarınızı nasıl değiştirecek?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+    "question": "Sizce yapay zeka seyahat planlama alışkanlıklarınızı nasıl değiştirecek?",
+    "reminder_line": "En güncel teknoloji ve yapay zeka haberleri için takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
