@@ -5,7 +5,7 @@
     "The Verge",
     "Ars Technica"
   ],
-  "checked_at": "2026-11-07T17:03:09+03:00",
+  "checked_at": "2026-11-07T17:07:47+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
@@ -15,25 +15,17 @@
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "At $2,500, this one’s a little steep for my wallet, but I think my colleague Sean Hollister is right that this is what the future of 3D printing looks like."
-        },
-        {
-          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
           "quote": "The Bambu Lab H3C. I am dangerously close to becoming a 3D Printer Dude. At $2,500, this one’s a little steep for my wallet"
         }
       ]
     },
     {
-      "claim": "Sony MDR-3R kulaklıkların fiyatı 60 dolardır.",
+      "claim": "Tristan Homsi, Readwise'ın kurucu ortaklarından biridir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "You’ll look a little like Nathan Fielder in You Can See Everything when you wear them, and $60 ain’t cheap, but there’s something so incredibly ’70s-era cool about them."
-        },
-        {
-          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "The Sony MDR-3R headphones. Respect to Sony for taking the retro headphone trend all the way to its logical conclusion and just releasing the headphones from the original Walkman. You’ll look a little like Nathan Fielder in You Can See Everything when you wear them, and $60 ain’t cheap"
+          "quote": "I’ve talked to Tristan Homsi, one of the Readwise cofounders, a few times over the years"
         }
       ]
     },
@@ -48,6 +40,16 @@
       ]
     },
     {
+      "claim": "Sony MDR-3R kulaklıkların fiyatı 60 dolardır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+          "quote": "The Sony MDR-3R headphones. Respect to Sony for taking the retro headphone trend all the way to its logical conclusion and just releasing the headphones from the original Walkman. You’ll look a little like Nathan Fielder in You Can See Everything when you wear them, and $60 ain’t cheap"
+        }
+      ]
+    },
+    {
       "claim": "Kagi arama motoru, kullanıcılarına ödeme yapmadan önce 50 ücretsiz arama hakkı sunmaktadır.",
       "verdict": "not_found",
       "evidence": []
@@ -58,38 +60,24 @@
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "I also am a huge fan of the somewhat-defunct social app BeReal. It had its moment in 2022, but quite a few of my friends are still on there!"
-        },
-        {
-          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
           "quote": "I also am a huge fan of the somewhat-defunct social app BeReal. It had its moment in 2022"
         }
       ]
     },
     {
-      "claim": "Kagi arama motorunun aylık abonelik ücreti 10 dolardır.",
+      "claim": "Tristan Homsi, Readwise Books uygulamasının kurucu ortağı Daniel Doyon ile birlikte çalışmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+          "quote": "(I also asked Daniel Doyon, Readwise’s other cofounder, to share, and he didn’t respond. Daniel is dead to me.)"
+        }
+      ]
+    },
+    {
+      "claim": "Kagi arama motoru aylık 10 dolar ücretle sunulmaktadır.",
       "verdict": "not_found",
       "evidence": []
-    },
-    {
-      "claim": "Tristan Homsi, Readwise'ın kurucu ortaklarından biridir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "I’ve talked to Tristan Homsi, one of the Readwise cofounders, a few times over the years"
-        }
-      ]
-    },
-    {
-      "claim": "Godzilla Minus One filmi üç yıl önce vizyona girmiştir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "Three years ago, Godzilla Minus One was a big hit and a surprisingly great movie."
-        }
-      ]
     }
   ],
   "round1": [
@@ -99,25 +87,17 @@
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "At $2,500, this one’s a little steep for my wallet, but I think my colleague Sean Hollister is right that this is what the future of 3D printing looks like."
-        },
-        {
-          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
           "quote": "The Bambu Lab H3C. I am dangerously close to becoming a 3D Printer Dude. At $2,500, this one’s a little steep for my wallet"
         }
       ]
     },
     {
-      "claim": "Sony MDR-3R kulaklıkların fiyatı 60 dolardır.",
+      "claim": "Tristan Homsi, Readwise'ın kurucu ortaklarından biridir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "You’ll look a little like Nathan Fielder in You Can See Everything when you wear them, and $60 ain’t cheap, but there’s something so incredibly ’70s-era cool about them."
-        },
-        {
-          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "The Sony MDR-3R headphones. Respect to Sony for taking the retro headphone trend all the way to its logical conclusion and just releasing the headphones from the original Walkman. You’ll look a little like Nathan Fielder in You Can See Everything when you wear them, and $60 ain’t cheap"
+          "quote": "I’ve talked to Tristan Homsi, one of the Readwise cofounders, a few times over the years"
         }
       ]
     },
@@ -132,6 +112,16 @@
       ]
     },
     {
+      "claim": "Sony MDR-3R kulaklıkların fiyatı 60 dolardır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+          "quote": "The Sony MDR-3R headphones. Respect to Sony for taking the retro headphone trend all the way to its logical conclusion and just releasing the headphones from the original Walkman. You’ll look a little like Nathan Fielder in You Can See Everything when you wear them, and $60 ain’t cheap"
+        }
+      ]
+    },
+    {
       "claim": "Kagi arama motoru, kullanıcılarına ödeme yapmadan önce 50 ücretsiz arama hakkı sunmaktadır.",
       "verdict": "not_found",
       "evidence": []
@@ -142,38 +132,24 @@
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "I also am a huge fan of the somewhat-defunct social app BeReal. It had its moment in 2022, but quite a few of my friends are still on there!"
-        },
-        {
-          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
           "quote": "I also am a huge fan of the somewhat-defunct social app BeReal. It had its moment in 2022"
         }
       ]
     },
     {
-      "claim": "Kagi arama motorunun aylık abonelik ücreti 10 dolardır.",
+      "claim": "Tristan Homsi, Readwise Books uygulamasının kurucu ortağı Daniel Doyon ile birlikte çalışmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+          "quote": "(I also asked Daniel Doyon, Readwise’s other cofounder, to share, and he didn’t respond. Daniel is dead to me.)"
+        }
+      ]
+    },
+    {
+      "claim": "Kagi arama motoru aylık 10 dolar ücretle sunulmaktadır.",
       "verdict": "not_found",
       "evidence": []
-    },
-    {
-      "claim": "Tristan Homsi, Readwise'ın kurucu ortaklarından biridir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "I’ve talked to Tristan Homsi, one of the Readwise cofounders, a few times over the years"
-        }
-      ]
-    },
-    {
-      "claim": "Godzilla Minus One filmi üç yıl önce vizyona girmiştir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "Three years ago, Godzilla Minus One was a big hit and a surprisingly great movie."
-        }
-      ]
     }
   ],
   "round2": [
@@ -183,25 +159,17 @@
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "At $2,500, this one’s a little steep for my wallet, but I think my colleague Sean Hollister is right that this is what the future of 3D printing looks like."
-        },
-        {
-          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
           "quote": "The Bambu Lab H3C. I am dangerously close to becoming a 3D Printer Dude. At $2,500, this one’s a little steep for my wallet"
         }
       ]
     },
     {
-      "claim": "Sony MDR-3R kulaklıkların fiyatı 60 dolardır.",
+      "claim": "Tristan Homsi, Readwise'ın kurucu ortaklarından biridir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "You’ll look a little like Nathan Fielder in You Can See Everything when you wear them, and $60 ain’t cheap, but there’s something so incredibly ’70s-era cool about them."
-        },
-        {
-          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "The Sony MDR-3R headphones. Respect to Sony for taking the retro headphone trend all the way to its logical conclusion and just releasing the headphones from the original Walkman. You’ll look a little like Nathan Fielder in You Can See Everything when you wear them, and $60 ain’t cheap"
+          "quote": "I’ve talked to Tristan Homsi, one of the Readwise cofounders, a few times over the years"
         }
       ]
     },
@@ -216,6 +184,16 @@
       ]
     },
     {
+      "claim": "Sony MDR-3R kulaklıkların fiyatı 60 dolardır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+          "quote": "The Sony MDR-3R headphones. Respect to Sony for taking the retro headphone trend all the way to its logical conclusion and just releasing the headphones from the original Walkman. You’ll look a little like Nathan Fielder in You Can See Everything when you wear them, and $60 ain’t cheap"
+        }
+      ]
+    },
+    {
       "claim": "Kagi arama motoru, kullanıcılarına ödeme yapmadan önce 50 ücretsiz arama hakkı sunmaktadır.",
       "verdict": "not_found",
       "evidence": []
@@ -226,38 +204,24 @@
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "I also am a huge fan of the somewhat-defunct social app BeReal. It had its moment in 2022, but quite a few of my friends are still on there!"
-        },
-        {
-          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
           "quote": "I also am a huge fan of the somewhat-defunct social app BeReal. It had its moment in 2022"
         }
       ]
     },
     {
-      "claim": "Kagi arama motorunun aylık abonelik ücreti 10 dolardır.",
+      "claim": "Tristan Homsi, Readwise Books uygulamasının kurucu ortağı Daniel Doyon ile birlikte çalışmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+          "quote": "(I also asked Daniel Doyon, Readwise’s other cofounder, to share, and he didn’t respond. Daniel is dead to me.)"
+        }
+      ]
+    },
+    {
+      "claim": "Kagi arama motoru aylık 10 dolar ücretle sunulmaktadır.",
       "verdict": "not_found",
       "evidence": []
-    },
-    {
-      "claim": "Tristan Homsi, Readwise'ın kurucu ortaklarından biridir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "I’ve talked to Tristan Homsi, one of the Readwise cofounders, a few times over the years"
-        }
-      ]
-    },
-    {
-      "claim": "Godzilla Minus One filmi üç yıl önce vizyona girmiştir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "Three years ago, Godzilla Minus One was a big hit and a surprisingly great movie."
-        }
-      ]
     }
   ],
   "source_texts": {
