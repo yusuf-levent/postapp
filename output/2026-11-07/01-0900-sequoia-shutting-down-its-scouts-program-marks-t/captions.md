@@ -2,44 +2,52 @@
 
 ## INSTAGRAM
 
-Yatırım dünyasında büyük değişim! Sequoia, Londra ofisini kapatma ve 17 yıllık scout programını sonlandırma kararı aldı. Sektör bu hamleyi konuşurken, rakip fonlar küresel ağlarını genişletmeye devam ediyor. Sizce risk sermayesi fonlarının bu tür programları sonlandırması sektörü nasıl etkiler? Kaynak: TechCrunch, BBC News - Technology
+Yatırım devi Sequoia büyük bir yapılanmaya gidiyor! Londra ofisini ve 17 yıllık scout programını kapatma kararı alan şirket, stratejilerini yeniden şekillendiriyor. Sektörde yankı uyandıran bu hamle hakkında siz ne düşünüyorsunuz? Sizce erken aşama yatırımlarda scout modelleri hala gerekli mi? Kaynak: TechCrunch, BBC News
 
-#Girişimcilik #Yatırım #Sequoia #Teknoloji #Girişim #Kapanış #London #VentureCapital #TechNews #Business
+#Sequoia #Yatırım #Girişim #Teknoloji #GirişimSermayesi #Finans #London #TechNews #Startup #VC
 
 ## TIKTOK
 
-Sequoia Londra ofisini kapatıyor ve 17 yıllık efsane modeli sonlandırıyor! Yatırım dünyasındaki bu büyük yaprak dökümünün detayları videoda. Kaynak: TechCrunch
+Sequoia Londra ofisini ve 17 yıllık scout programını kapatıyor! Yatırım dünyasında neler oluyor? Kaynak: TechCrunch, BBC News
 
-#girişimcilik #yatırım #sequoia #teknoloji #girişim
+#sequoia #yatırım #girişim #teknoloji #haber
 
 ## X
 
-Yatırım dünyasında yaprak dökümü: Sequoia Londra ofisini kapatıyor ve 17 yıllık scout programını sonlandırıyor. Rakip fonlar ise küresel ağlarını büyütmeye devam ediyor. Sizce bu karar sektörü nasıl etkiler? Kaynak: TechCrunch
+Yatırım devi Sequoia, Londra ofisini kapatma ve 17 yıllık scout programını sonlandırma kararı aldı. Sektördeki bu stratejik değişim erken aşama yatırımları nasıl etkileyecek? Kaynak: TechCrunch, BBC News
 
-#Sequoia #Girişimcilik
+#Sequoia #Yatırım
 
 ## THREADS
 
-Sequoia Londra Ofisini Kapatıyor
+Sequoia'dan Büyük Yapılanma
 
-Yatırım dünyasının öncülerinden Sequoia, Londra ofisini ve 17 yıllık scout programını sonlandırma kararı aldı. Bu hamle sektörde geniş yankı uyandırdı.
+Yatırım devi Sequoia, Londra ofisini kapatma ve 17 yıllık scout programını sonlandırma kararı aldığını duyurdu.
 
-Rakip fonlar ise bütçelerini artırarak küresel ağlar kurmaya devam ediyor.
+Bu hamle, erken aşama yatırım stratejilerinde yeni bir dönemin başlangıcı olarak görülüyor.
 
-Sizce bu tür programların son bulması sektörü nasıl etkiler?
+Sizce scout modelleri hala gerekli mi? 💭
 
-💭 Kaynak: TechCrunch, BBC News
+Kaynak: TechCrunch, BBC News
 
-#Girişimcilik
+#Sequoia
 
 ## LINKEDIN
 
-Risk sermayesi dünyasında stratejiler yeniden şekilleniyor. Sequoia, Londra ofisini kapatma ve 17 yıllık scout programını sonlandırma kararını duyurdu. Erken aşama girişimleri bulmak için kullanılan bu modelin sona ermesi, sektördeki rekabet dinamiklerini ve fonların küçülme veya odaklanma stratejilerini gözler önüne seriyor. Öte yandan, bazı rakip fonlar küresel scout ağlarına bütçe ayırmaya devam ediyor. Teknoloji ve yatırım ekosistemindeki bu değişimi nasıl değerlendiriyorsunuz? Kaynak: TechCrunch, BBC News - Technology
+Yatırım dünyasının önemli aktörlerinden Sequoia, stratejik bir yapılanmaya giderek Londra ofisini kapatma ve 17 yıllık scout programını sonlandırma kararı aldı. Erken aşama girişim keşif süreçlerinde pazar dengelerini değiştirebilecek bu hamle, sektörde yeni tartışmaları da beraberinde getirdi. Rekabetin ve stratejilerin hızla değiştiği bu dönemde, yatırım fonlarının izleyeceği yollar yakından takip ediliyor.
 
-#Yatırım #Girişimcilik #Teknoloji #VentureCapital #Business
+Sizce erken aşama yatırımlarda scout modelleri hala gerekli mi?
+
+Kaynak: TechCrunch, BBC News
+
+#GirişimSermayesi #Yatırım #Teknoloji #Startup #İşDünyası
 
 ## FACEBOOK
 
-Yatırım dünyasında yaprak dökümü yaşanıyor! Sequoia, Londra ofisini kapatacağını ve 17 yıllık scout programını sonlandıracağını duyurdu. Sektör bu kararı tartışırken, rakip fonlar farklı stratejiler izlemeye devam ediyor. Sizce bu hamle sektörü nasıl etkiler? Kaynak: TechCrunch, BBC News - Technology
+Yatırım devi Sequoia'dan büyük yapılanma! Şirket, Londra ofisini ve 17 yıllık scout programını kapatma kararı aldı. Sektörde geniş yankı uyandıran bu hamle, erken aşama yatırımlarda yeni bir dönemin işaretini veriyor.
 
-#Girişimcilik #Yatırım #Sequoia #Teknoloji #Girişim
+Sizce erken aşama yatırımlarda scout modelleri hala gerekli mi?
+
+Kaynak: TechCrunch, BBC News
+
+#Sequoia #Yatırım #Girişim #Teknoloji #Finans
