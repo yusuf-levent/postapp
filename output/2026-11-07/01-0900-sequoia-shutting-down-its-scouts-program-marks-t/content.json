@@ -4,62 +4,66 @@
     "title": "Sequoia Londra Ofisini Kapatıyor",
     "highlight_words": [
       "Sequoia",
-      "Kapatıyor"
+      "Londra"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Girişim sermayesi devi Sequoia'dan büyük değişim hamlesi.",
+    "subtitle": "Girişim sermayesi devi Sequoia'dan yapılan duyuruda büyük değişiklikler açıklandı.",
     "source_tags": [
       "TECHCRUNCH",
       "BBC NEWS"
     ]
   },
   "context": {
-    "heading": "Sequoia'dan Büyük Revizyon",
+    "heading": "Sequoia'dan Büyük Değişiklik",
     "cards": [
       {
-        "card_title": "X Üzerinden Duyuruldu",
-        "card_body": "Sequoia, X'te yayınlanan bir notla Londra ofisini kapatacağını ve scout programını sonlandıracağını duyurdu."
+        "card_title": "Ofis Kapanışı",
+        "card_body": "Sequoia, X üzerinde yayınlanan bir notla Londra ofisini kapatma kararını duyurdu."
       },
       {
-        "card_title": "17 Yıllık Model",
-        "card_body": "Sequoia, scout modeline tam 17 yıl önce öncülük etmişti."
+        "card_title": "Scout Programı Bitiyor",
+        "card_body": "Şirket, 17 yıl önce öncülük ettiği scout programını da sonlandırma kararı aldı."
       }
     ]
   },
   "stat": {
     "big_stat": "17 YIL",
-    "stat_caption": "Sequoia scout modelinin geçmişi",
-    "stat_quote": "Scout programı hiçbir zaman bana mantıklı gelmemişti. - Sheel Mohnot"
+    "stat_caption": "Sequoia'nın öncülük ettiği scout modelinin geçmişi",
+    "stat_quote": "Scout programı hiçbir zaman bana mantıklı gelmedi ve Uber gibi yatırımları kaçırdılar. - Sheel Mohnot"
   },
   "details": {
-    "heading": "Sektörde Neler Oluyor?",
+    "heading": "Sektörün Tepkileri",
     "cards": [
       {
-        "card_title": "Scout Dönemi",
-        "card_body": "Roxanne Varza, 2020 ile 2025 yılları arasında Sequoia scout'u olarak görev yaptığını belirtti."
+        "card_title": "Uber Yatırımı Kaçtı",
+        "card_body": "VC Sheel Mohnot, programın mantıklı gelmediğini ve Uber gibi fırsatların kaçırıldığını belirtti."
       },
       {
-        "card_title": "Üzüntü Yarattı",
-        "card_body": "Roxanne Varza, LinkedIn üzerinden yaptığı açıklamada programın kesilmesinden duyduğu üzüntüyü paylaştı."
+        "card_title": "Station F Deneyimi",
+        "card_body": "Station F yöneticisi Roxanne Varza, 2020 ile 2025 yılları arasında Sequoia scout'u olarak görev yaptı."
+      },
+      {
+        "card_title": "Roxanne Varza'nın Üzüntüsü",
+        "card_body": "Varza, programın sonlandırılmasını duyduğunda üzgün olduğunu LinkedIn üzerinden paylaştı."
       }
     ]
   },
   "impact": {
-    "heading": "Rekabet Devam Ediyor",
+    "heading": "Rekabet ve Diğer Hamleler",
     "cards": [
       {
-        "card_title": "a16z Hamlesi",
-        "card_body": "Andreessen Horowitz (a16z), ABD ve daha küçük Avrupa merkezlerindeki fırsatları yakalamak için küresel bir scout ağı kurdu."
+        "card_title": "a16z Küresel Ağ Kuruyor",
+        "card_body": "Andreessen Horowitz (a16z), ABD ve küçük Avrupa merkezlerinde fırsatları yakalamak için küresel bir scout ağı kurdu."
       },
       {
-        "card_title": "En İyilere Odaklanma",
-        "card_body": "a16z ortağı Gabriel Vasquez, en iyi insanlara odaklanmak için programlarını yenilediklerini belirtti."
+        "card_title": "Programın Yenilenmesi",
+        "card_body": "a16z ortağı Gabriel Vasquez, en iyi insanlara odaklanmak için programı yenilediklerini açıkladı."
       }
     ]
   },
   "cta": {
-    "question": "Girişim sermayesinde scout programlarının kapanması sektörü nasıl etkiler?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+    "question": "Girişim sermayesinde scout programlarının dönemi kapanıyor mu?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için bizi takip et!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
