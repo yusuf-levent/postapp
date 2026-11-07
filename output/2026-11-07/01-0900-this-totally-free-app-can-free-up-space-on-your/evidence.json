@@ -1,0 +1,262 @@
+{
+  "title": "This Totally Free App Can Free Up Space on Your Mac",
+  "canonical_url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+  "source_names": [
+    "Wired",
+    "The Verge",
+    "TechCrunch",
+    "IEEE Spectrum"
+  ],
+  "checked_at": "2026-11-07T14:27:16+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Purge, Mac sabit diskinde yer kaplayan dosyaları gösteren tamamen ücretsiz ve açık kaynaklı bir uygulamadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "This totally free, open source app gives you a quick breakdown of what's taking up space on your hard drive and offers a few specific ways to free it up."
+        }
+      ]
+    },
+    {
+      "claim": "Purge uygulamasında reklam veya ek satış teklifi bulunmamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "Even better: There are no ads or upsells."
+        }
+      ]
+    },
+    {
+      "claim": "Purge, macOS 27 sürümündeki Apple Intelligence çevrim dışı modellerini silebilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "Purge can even delete Apple Intelligence's offline models from macOS 27"
+        },
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "Purge can even delete Apple Intelligence's offline models from macOS 27, which could free up over 10 GB."
+        }
+      ]
+    },
+    {
+      "claim": "Apple Intelligence modellerinin silinmesi 10 GB'tan fazla alan açabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "Purge can even delete Apple Intelligence's offline models from macOS 27, which could free up over 10 GB."
+        }
+      ]
+    },
+    {
+      "claim": "Purge, kritik sistem dosyalarını ve kişisel belgeleri asla silmez.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Purge, sildiği dosyaları doğrudan kalıcı olarak silmek yerine Çöp Kutusu'na gönderir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "Finally, Purge sends files to the Trash instead of deleting them outright, so you can always recover them if something breaks."
+        }
+      ]
+    },
+    {
+      "claim": "Purge, uygulamaları kaldırırken sadece uygulamayı değil, ayarlar ve önbellek gibi ilişkili tüm dosyaları da temizler.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "Note that this doesn't just remove the application—it also removes every file associated with it, including your settings, caches, and anything the application downloaded."
+        }
+      ]
+    },
+    {
+      "claim": "Apple, macOS 27 sürümünde Apple Intelligence özelliklerinin tamamen devre dışı bırakılmasına olanak tanıyan bir seçenek sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "Apple removed the toggle in macOS 27 that lets you disable them altogether."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Purge, Mac sabit diskinde yer kaplayan dosyaları gösteren tamamen ücretsiz ve açık kaynaklı bir uygulamadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "This totally free, open source app gives you a quick breakdown of what's taking up space on your hard drive and offers a few specific ways to free it up."
+        }
+      ]
+    },
+    {
+      "claim": "Purge uygulamasında reklam veya ek satış teklifi bulunmamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "Even better: There are no ads or upsells."
+        }
+      ]
+    },
+    {
+      "claim": "Purge, macOS 27 sürümündeki Apple Intelligence çevrim dışı modellerini silebilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "Purge can even delete Apple Intelligence's offline models from macOS 27"
+        },
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "Purge can even delete Apple Intelligence's offline models from macOS 27, which could free up over 10 GB."
+        }
+      ]
+    },
+    {
+      "claim": "Apple Intelligence modellerinin silinmesi 10 GB'tan fazla alan açabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "Purge can even delete Apple Intelligence's offline models from macOS 27, which could free up over 10 GB."
+        }
+      ]
+    },
+    {
+      "claim": "Purge, kritik sistem dosyalarını ve kişisel belgeleri asla silmez.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Purge, sildiği dosyaları doğrudan kalıcı olarak silmek yerine Çöp Kutusu'na gönderir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "Finally, Purge sends files to the Trash instead of deleting them outright, so you can always recover them if something breaks."
+        }
+      ]
+    },
+    {
+      "claim": "Purge, uygulamaları kaldırırken sadece uygulamayı değil, ayarlar ve önbellek gibi ilişkili tüm dosyaları da temizler.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "Note that this doesn't just remove the application—it also removes every file associated with it, including your settings, caches, and anything the application downloaded."
+        }
+      ]
+    },
+    {
+      "claim": "Apple, macOS 27 sürümünde Apple Intelligence özelliklerinin tamamen devre dışı bırakılmasına olanak tanıyan bir seçenek sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "Apple removed the toggle in macOS 27 that lets you disable them altogether."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Purge, Mac sabit diskinde yer kaplayan dosyaları gösteren tamamen ücretsiz ve açık kaynaklı bir uygulamadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "This totally free, open source app gives you a quick breakdown of what's taking up space on your hard drive and offers a few specific ways to free it up."
+        }
+      ]
+    },
+    {
+      "claim": "Purge uygulamasında reklam veya ek satış teklifi bulunmamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "Even better: There are no ads or upsells."
+        }
+      ]
+    },
+    {
+      "claim": "Purge, macOS 27 sürümündeki Apple Intelligence çevrim dışı modellerini silebilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "Purge can even delete Apple Intelligence's offline models from macOS 27"
+        },
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "Purge can even delete Apple Intelligence's offline models from macOS 27, which could free up over 10 GB."
+        }
+      ]
+    },
+    {
+      "claim": "Apple Intelligence modellerinin silinmesi 10 GB'tan fazla alan açabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "Purge can even delete Apple Intelligence's offline models from macOS 27, which could free up over 10 GB."
+        }
+      ]
+    },
+    {
+      "claim": "Purge, kritik sistem dosyalarını ve kişisel belgeleri asla silmez.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Purge, sildiği dosyaları doğrudan kalıcı olarak silmek yerine Çöp Kutusu'na gönderir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "Finally, Purge sends files to the Trash instead of deleting them outright, so you can always recover them if something breaks."
+        }
+      ]
+    },
+    {
+      "claim": "Purge, uygulamaları kaldırırken sadece uygulamayı değil, ayarlar ve önbellek gibi ilişkili tüm dosyaları da temizler.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "Note that this doesn't just remove the application—it also removes every file associated with it, including your settings, caches, and anything the application downloaded."
+        }
+      ]
+    },
+    {
+      "claim": "Apple, macOS 27 sürümünde Apple Intelligence özelliklerinin tamamen devre dışı bırakılmasına olanak tanıyan bir seçenek sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "Apple removed the toggle in macOS 27 that lets you disable them altogether."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/": 3825,
+    "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy": 1281,
+    "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/": 3146,
+    "https://spectrum.ieee.org/how-to-get-a-promotion": 5460
+  }
+}
