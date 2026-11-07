@@ -1,0 +1,27 @@
+{
+  "images": [
+    {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-07/01-0900-china-s-main-intelligence-agency-reportedly-recr/images/img-1.png",
+      "license": "",
+      "author": "",
+      "credit_url": "https://en.wikipedia.org/wiki/Jensen%20Huang",
+      "width": 1745,
+      "height": 2324,
+      "alt_text": "Jensen Huang"
+    },
+    {
+      "source": "ogimage",
+      "url": "https://www.engadget.com/img/gallery/chinas-main-intelligence-agency-reportedly-recruited-the-spy-who-targeted-nvidias-ceo/l-intro-1794059747.jpg",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-07/01-0900-china-s-main-intelligence-agency-reportedly-recr/images/img-2.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+      "width": 1600,
+      "height": 899,
+      "alt_text": ""
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}

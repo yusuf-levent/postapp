@@ -1,0 +1,265 @@
+{
+  "title": "China's main intelligence agency reportedly recruited the spy who targeted NVIDIA's CEO",
+  "canonical_url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+  "source_names": [
+    "Engadget",
+    "The Verge",
+    "BBC News – Technology",
+    "Ars Technica"
+  ],
+  "checked_at": "2026-11-07T17:12:50+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Çin'in ana istihbarat teşkilatı olan Devlet Güvenlik Bakanlığı, NVIDIA CEO'su Jensen Huang hakkında bilgi toplaması için Alice Huang'ı işe aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+          "quote": "Now, the publication has revealed that it was China's Ministry of State Security, the country's main intelligence agency and its CIA counterpart, that recruited Alice Huang to gather information on him."
+        }
+      ]
+    },
+    {
+      "claim": "Alice Huang, Singapur merkezli veri merkezi firması Megaspeed'de yönetici olarak görev yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+          "quote": "In late October, the publication reported that China used Alice Huang, an executive at Singapore data center firm Megaspeed, to spy on the NVIDIA CEO."
+        }
+      ]
+    },
+    {
+      "claim": "ABD'li yetkililer, Jensen Huang'ın Alice Huang ile romantik bir ilişkisi olduğuna inanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+          "quote": "The Financial Times has also reported that US officials believe Jensen Huang was romantically involved with Alice Huang, based on information provided by American intelligence."
+        }
+      ]
+    },
+    {
+      "claim": "New York Times, Çin'in Alice Huang'ı NVIDIA CEO'sunu gözetlemek için kullandığını Ekim ayı sonunda rapor etmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+          "quote": "In late October, the publication reported that China used Alice Huang, an executive at Singapore data center firm Megaspeed, to spy on the NVIDIA CEO."
+        }
+      ]
+    },
+    {
+      "claim": "Megaspeed, NVIDIA'dan milyarlarca dolarlık yapay zeka çipi satın almıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+          "quote": "Megaspeed was a huge NVIDIA customer and had purchased billions' worth of AI chips from the company."
+        }
+      ]
+    },
+    {
+      "claim": "Megaspeed, Güneydoğu Asya'da inşa ettiği veri merkezlerindeki bilgi işlem gücünü Alibaba'ya kiralamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+          "quote": "It's been building data centers in Southeast Asia and then renting out the computing power to Alibaba, giving the Chinese company access to advanced NVIDIA chips that are banned in its native country."
+        }
+      ]
+    },
+    {
+      "claim": "NVIDIA, kendi iç soruşturmasında Megaspeed'in gelişmiş yapay zeka çiplerini Çin'e kaçırma planına karıştığına dair bir kanıt bulamamıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+          "quote": "The Fincancial Times says it was also implicated in a scheme to smuggle advanced AI chips into China, but NVIDIA found no evidence of wrongdoing in an internal investigation."
+        }
+      ]
+    },
+    {
+      "claim": "ABD Başkanı Trump, NVIDIA CEO'su ve Elon Musk ile bu yılın başlarında Pekin'e bir seyahat gerçekleştirmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+          "quote": "Trump, along with select American officials, were notified about it before his trip to Beijing earlier this year with NVIDIA's CEO and Elon Musk."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Çin'in ana istihbarat teşkilatı olan Devlet Güvenlik Bakanlığı, NVIDIA CEO'su Jensen Huang hakkında bilgi toplaması için Alice Huang'ı işe aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+          "quote": "Now, the publication has revealed that it was China's Ministry of State Security, the country's main intelligence agency and its CIA counterpart, that recruited Alice Huang to gather information on him."
+        }
+      ]
+    },
+    {
+      "claim": "Alice Huang, Singapur merkezli veri merkezi firması Megaspeed'de yönetici olarak görev yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+          "quote": "In late October, the publication reported that China used Alice Huang, an executive at Singapore data center firm Megaspeed, to spy on the NVIDIA CEO."
+        }
+      ]
+    },
+    {
+      "claim": "ABD'li yetkililer, Jensen Huang'ın Alice Huang ile romantik bir ilişkisi olduğuna inanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+          "quote": "The Financial Times has also reported that US officials believe Jensen Huang was romantically involved with Alice Huang, based on information provided by American intelligence."
+        }
+      ]
+    },
+    {
+      "claim": "New York Times, Çin'in Alice Huang'ı NVIDIA CEO'sunu gözetlemek için kullandığını Ekim ayı sonunda rapor etmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+          "quote": "In late October, the publication reported that China used Alice Huang, an executive at Singapore data center firm Megaspeed, to spy on the NVIDIA CEO."
+        }
+      ]
+    },
+    {
+      "claim": "Megaspeed, NVIDIA'dan milyarlarca dolarlık yapay zeka çipi satın almıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+          "quote": "Megaspeed was a huge NVIDIA customer and had purchased billions' worth of AI chips from the company."
+        }
+      ]
+    },
+    {
+      "claim": "Megaspeed, Güneydoğu Asya'da inşa ettiği veri merkezlerindeki bilgi işlem gücünü Alibaba'ya kiralamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+          "quote": "It's been building data centers in Southeast Asia and then renting out the computing power to Alibaba, giving the Chinese company access to advanced NVIDIA chips that are banned in its native country."
+        }
+      ]
+    },
+    {
+      "claim": "NVIDIA, kendi iç soruşturmasında Megaspeed'in gelişmiş yapay zeka çiplerini Çin'e kaçırma planına karıştığına dair bir kanıt bulamamıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+          "quote": "The Fincancial Times says it was also implicated in a scheme to smuggle advanced AI chips into China, but NVIDIA found no evidence of wrongdoing in an internal investigation."
+        }
+      ]
+    },
+    {
+      "claim": "ABD Başkanı Trump, NVIDIA CEO'su ve Elon Musk ile bu yılın başlarında Pekin'e bir seyahat gerçekleştirmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+          "quote": "Trump, along with select American officials, were notified about it before his trip to Beijing earlier this year with NVIDIA's CEO and Elon Musk."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Çin'in ana istihbarat teşkilatı olan Devlet Güvenlik Bakanlığı, NVIDIA CEO'su Jensen Huang hakkında bilgi toplaması için Alice Huang'ı işe aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+          "quote": "Now, the publication has revealed that it was China's Ministry of State Security, the country's main intelligence agency and its CIA counterpart, that recruited Alice Huang to gather information on him."
+        }
+      ]
+    },
+    {
+      "claim": "Alice Huang, Singapur merkezli veri merkezi firması Megaspeed'de yönetici olarak görev yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+          "quote": "In late October, the publication reported that China used Alice Huang, an executive at Singapore data center firm Megaspeed, to spy on the NVIDIA CEO."
+        }
+      ]
+    },
+    {
+      "claim": "ABD'li yetkililer, Jensen Huang'ın Alice Huang ile romantik bir ilişkisi olduğuna inanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+          "quote": "The Financial Times has also reported that US officials believe Jensen Huang was romantically involved with Alice Huang, based on information provided by American intelligence."
+        }
+      ]
+    },
+    {
+      "claim": "New York Times, Çin'in Alice Huang'ı NVIDIA CEO'sunu gözetlemek için kullandığını Ekim ayı sonunda rapor etmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+          "quote": "In late October, the publication reported that China used Alice Huang, an executive at Singapore data center firm Megaspeed, to spy on the NVIDIA CEO."
+        }
+      ]
+    },
+    {
+      "claim": "Megaspeed, NVIDIA'dan milyarlarca dolarlık yapay zeka çipi satın almıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+          "quote": "Megaspeed was a huge NVIDIA customer and had purchased billions' worth of AI chips from the company."
+        }
+      ]
+    },
+    {
+      "claim": "Megaspeed, Güneydoğu Asya'da inşa ettiği veri merkezlerindeki bilgi işlem gücünü Alibaba'ya kiralamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+          "quote": "It's been building data centers in Southeast Asia and then renting out the computing power to Alibaba, giving the Chinese company access to advanced NVIDIA chips that are banned in its native country."
+        }
+      ]
+    },
+    {
+      "claim": "NVIDIA, kendi iç soruşturmasında Megaspeed'in gelişmiş yapay zeka çiplerini Çin'e kaçırma planına karıştığına dair bir kanıt bulamamıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+          "quote": "The Fincancial Times says it was also implicated in a scheme to smuggle advanced AI chips into China, but NVIDIA found no evidence of wrongdoing in an internal investigation."
+        }
+      ]
+    },
+    {
+      "claim": "ABD Başkanı Trump, NVIDIA CEO'su ve Elon Musk ile bu yılın başlarında Pekin'e bir seyahat gerçekleştirmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+          "quote": "Trump, along with select American officials, were notified about it before his trip to Beijing earlier this year with NVIDIA's CEO and Elon Musk."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/": 2096,
+    "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy": 1281,
+    "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss": 3125,
+    "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/": 1590
+  }
+}

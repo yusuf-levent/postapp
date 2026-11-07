@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 139.3,
+  "candidates_tried": 1,
+  "gemini_calls": 16,
+  "canonical_url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/",
+  "generated_at": "2026-11-07T17:14:23+03:00"
+}

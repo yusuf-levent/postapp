@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ VE İSTİHBARAT",
+    "title": "NVIDIA CEO'su Jensen Huang Hakkında Şok İddia",
+    "highlight_words": [
+      "Jensen Huang",
+      "İddia"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Çin istihbaratının NVIDIA CEO'sunu hedef aldığına dair raporlar gündemde.",
+    "source_tags": [
+      "BBC NEWS",
+      "THE VERGE"
+    ]
+  },
+  "context": {
+    "heading": "Olayın Arka Planı",
+    "cards": [
+      {
+        "card_title": "İstihbarat İddiası",
+        "card_body": "Çin Devlet Güvenlik Bakanlığı'nın, Jensen Huang hakkında bilgi toplamak için Alice Huang'ı görevlendirdiği öne sürüldü."
+      },
+      {
+        "card_title": "New York Times Raporu",
+        "card_body": "Ekim ayı sonunda yayınlanan raporda, Çin'in Alice Huang'ı NVIDIA CEO'sunu gözetlemek için kullandığı iddia edildi."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "MİLYARLARCA DOLAR",
+    "stat_caption": "Megaspeed firmasının NVIDIA'dan yaptığı yapay zeka çipi alım hacmi.",
+    "stat_quote": "ABD'li yetkililer, Jensen Huang ile Alice Huang arasında romantik bir ilişki olduğundan şüpheleniyor."
+  },
+  "details": {
+    "heading": "Detaylar ve Bağlantılar",
+    "cards": [
+      {
+        "card_title": "Megaspeed'in Rolü",
+        "card_body": "Singapur merkezli firma, Güneydoğu Asya'daki veri merkezlerinde elde ettiği işlem gücünü Alibaba'ya kiralıyor."
+      },
+      {
+        "card_title": "NVIDIA'nın İncelemesi",
+        "card_body": "NVIDIA, kendi iç soruşturmasında Megaspeed'in çipleri Çin'e kaçırma planına karıştığına dair bir kanıt bulamadı."
+      },
+      {
+        "card_title": "Pekin Ziyareti",
+        "card_body": "ABD Başkanı Trump, bu yılın başlarında Jensen Huang ve Elon Musk ile birlikte Pekin'e bir seyahat gerçekleştirmişti."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Yansımalar",
+    "cards": [
+      {
+        "card_title": "Güvenlik Endişeleri",
+        "card_body": "Yapay zeka çiplerinin küresel tedarik zinciri ve teknoloji devlerinin güvenliği, jeopolitik risklerin odağında."
+      },
+      {
+        "card_title": "Kurumsal İncelemeler",
+        "card_body": "Teknoloji şirketlerinin iş ortaklıkları ve veri merkezi yönetimi, istihbarat birimlerinin daha yakın takibine giriyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Teknoloji dünyasında jeopolitik rekabetin bu denli derinleşmesi, inovasyonu nasıl etkiler?",
+    "reminder_line": "Tekno Pusula ile güncel kalmaya devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
