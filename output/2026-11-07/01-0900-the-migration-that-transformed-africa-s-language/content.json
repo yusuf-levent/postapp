@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "TARİH VE GENETİK",
+    "title": "Büyük Zimbabve ve Bantu Halklarının İzinde",
+    "highlight_words": [
+      "Büyük Zimbabve",
+      "Bantu"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Afrika'nın kadim medeniyetleri ve genetik mirasın bilimsel analizi.",
+    "source_tags": [
+      "ARS TECHNICA",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Kadim Medeniyetin İzleri",
+    "cards": [
+      {
+        "card_title": "Büyük Zimbabve Krallığı",
+        "card_body": "1000 ile 1700 yılları arasında güney Afrika'da gelişen bu krallık, bölgenin önemli bir merkeziydi."
+      },
+      {
+        "card_title": "Mühendislik Harikası",
+        "card_body": "Büyük Zimbabve'deki fırınlar, demir eritmek için gereken 2.100 Fahrenheit derecenin üzerindeki ısıya dayanıklıydı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "350 MİLYON",
+    "stat_caption": "Günümüzde yaklaşık 350 milyon Afrikalı, 500 civarındaki farklı Bantu dilinden birini konuşmaktadır.",
+    "stat_quote": "Bantu konuşan topluluklar, Afrika kıtasının güney yarısına 6.000 ila 4.000 yıl önce yayılmaya başlamıştır."
+  },
+  "details": {
+    "heading": "Genetik Araştırmalar Ne Diyor?",
+    "cards": [
+      {
+        "card_title": "2009 Genetik Analizi",
+        "card_body": "2.432 Afrikalı üzerinde yapılan çalışma, Bantu konuşan halkların birbirleriyle yakın akraba olduğunu kanıtladı."
+      },
+      {
+        "card_title": "2024 Genom Araştırması",
+        "card_body": "1.763 Afrikalının genomu incelendiğinde, en büyük genetik çeşitliliğin batı Afrika'daki Bantu konuşanlarda olduğu görüldü."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Tarihsel ve Bilimsel Etki",
+    "cards": [
+      {
+        "card_title": "Bölgesel Yayılım",
+        "card_body": "Bantu topluluklarının yayılımı, Afrika'nın kültürel ve dilsel yapısını binlerce yıl boyunca şekillendirdi."
+      },
+      {
+        "card_title": "Keşifler Çağı",
+        "card_body": "Portekizli kaşif Vasco da Gama'nın 1497'de Afrika'nın güney ucunu dolaşması, kıtadaki etkileşimi değiştirdi."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce genetik araştırmalar, kadim medeniyetlerin göç yollarını anlamamıza nasıl daha fazla katkı sağlayabilir?",
+    "reminder_line": "Tekno Pusula ile bilimsel gerçekleri takip etmeye devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

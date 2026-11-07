@@ -1,0 +1,38 @@
+{
+  "images": [
+    {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Conical_Tower_-_Great_Enclosure_III_%2833736918448%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-07/01-0900-the-migration-that-transformed-africa-s-language/images/img-1.png",
+      "license": "",
+      "author": "",
+      "credit_url": "https://en.wikipedia.org/wiki/Great%20Zimbabwe",
+      "width": 5472,
+      "height": 3648,
+      "alt_text": "Great Zimbabwe"
+    },
+    {
+      "source": "ogimage",
+      "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/great-zimbabwe-1152x648.jpg",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-07/01-0900-the-migration-that-transformed-africa-s-language/images/img-2.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+      "width": 1152,
+      "height": 648,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/10267285/pexels-photo-10267285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-07/01-0900-the-migration-that-transformed-africa-s-language/images/img-3.png",
+      "license": "Pexels License — Josuel Oliveira",
+      "author": "Josuel Oliveira",
+      "credit_url": "https://www.pexels.com/photo/scenic-view-of-the-rocky-mountains-10267285/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "A rugged rocky mountain peak surrounded by vast plains under a dramatic, cloud-filled sky."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}
