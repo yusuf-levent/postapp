@@ -2,9 +2,9 @@
   "slot": "09:00",
   "type": "news",
   "model": "gemini-3.1-flash-lite",
-  "duration_seconds": 134.7,
+  "duration_seconds": 186.4,
   "candidates_tried": 1,
   "gemini_calls": 13,
   "canonical_url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-  "generated_at": "2026-11-07T16:54:07+03:00"
+  "generated_at": "2026-11-07T17:00:28+03:00"
 }

@@ -5,7 +5,7 @@
     "The Verge",
     "Ars Technica"
   ],
-  "checked_at": "2026-11-07T16:52:29+03:00",
+  "checked_at": "2026-11-07T16:59:18+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
@@ -15,14 +15,22 @@
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+          "quote": "At $2,500, this one’s a little steep for my wallet, but I think my colleague Sean Hollister is right that this is what the future of 3D printing looks like."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
           "quote": "The Bambu Lab H3C. I am dangerously close to becoming a 3D Printer Dude. At $2,500, this one’s a little steep for my wallet"
         }
       ]
     },
     {
-      "claim": "Sony MDR-3R kulaklıkların fiyatı 60 dolardır.",
+      "claim": "Sony MDR-3R kulaklıkların satış fiyatı 60 dolardır.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+          "quote": "You’ll look a little like Nathan Fielder in You Can See Everything when you wear them, and $60 ain’t cheap, but there’s something so incredibly ’70s-era cool about them."
+        },
         {
           "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
           "quote": "The Sony MDR-3R headphones. Respect to Sony for taking the retro headphone trend all the way to its logical conclusion and just releasing the headphones from the original Walkman. You’ll look a little like Nathan Fielder in You Can See Everything when you wear them, and $60 ain’t cheap"
@@ -30,7 +38,17 @@
       ]
     },
     {
-      "claim": "Tristan Homsi, iPhone 13 modelini kullanmaktadır.",
+      "claim": "Tristan Homsi, Readwise şirketinin kurucu ortaklarından biridir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+          "quote": "I’ve talked to Tristan Homsi, one of the Readwise cofounders, a few times over the years"
+        }
+      ]
+    },
+    {
+      "claim": "Tristan Homsi, kişisel telefon olarak iPhone 13 kullanmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -38,16 +56,6 @@
           "quote": "The phone: iPhone 13 (!).Believe it or not, I chose to buy this relatively outdated phone last year"
         }
       ]
-    },
-    {
-      "claim": "Kagi arama motoru, kullanıcılarına ödeme yapmadan önce 50 ücretsiz arama hakkı sunmaktadır.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "Kagi arama motorunun aylık abonelik ücreti 10 dolardır.",
-      "verdict": "not_found",
-      "evidence": []
     },
     {
       "claim": "BeReal uygulaması 2022 yılında popülerlik kazanmıştır.",
@@ -64,22 +72,26 @@
       ]
     },
     {
-      "claim": "Tristan Homsi, Readwise şirketinin kurucu ortaklarından biridir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "I’ve talked to Tristan Homsi, one of the Readwise cofounders, a few times over the years"
-        }
-      ]
+      "claim": "Kagi arama motoru, kullanıcılarına ödeme yapmadan önce 50 ücretsiz arama hakkı sunmaktadır.",
+      "verdict": "not_found",
+      "evidence": []
     },
     {
-      "claim": "Peak Design Kickstand Travel Battery, bir taşınabilir batarya ürünüdür.",
+      "claim": "Kagi arama motorunun aylık abonelik ücreti 10 dolardır.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Tristan Homsi, günlük ulaşım aracı olarak San Francisco'da Bay Wheels kullanmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "The Peak Design Kickstand Travel Battery. While we’re on the subject of kickstands, here’s the one I’m buying this week. Peak Design makes good stuff, and I frequently find that I need extra juice at exactly the moment I want to watch something on a plane or train."
+          "quote": "Bay Wheels is my main mode of commute around San Francisco daily."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+          "quote": "Strava and Runmeter are awesome for tracking my runs… and Bay Wheels is my main mode of commute around San Francisco daily."
         }
       ]
     }
@@ -91,14 +103,22 @@
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+          "quote": "At $2,500, this one’s a little steep for my wallet, but I think my colleague Sean Hollister is right that this is what the future of 3D printing looks like."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
           "quote": "The Bambu Lab H3C. I am dangerously close to becoming a 3D Printer Dude. At $2,500, this one’s a little steep for my wallet"
         }
       ]
     },
     {
-      "claim": "Sony MDR-3R kulaklıkların fiyatı 60 dolardır.",
+      "claim": "Sony MDR-3R kulaklıkların satış fiyatı 60 dolardır.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+          "quote": "You’ll look a little like Nathan Fielder in You Can See Everything when you wear them, and $60 ain’t cheap, but there’s something so incredibly ’70s-era cool about them."
+        },
         {
           "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
           "quote": "The Sony MDR-3R headphones. Respect to Sony for taking the retro headphone trend all the way to its logical conclusion and just releasing the headphones from the original Walkman. You’ll look a little like Nathan Fielder in You Can See Everything when you wear them, and $60 ain’t cheap"
@@ -106,7 +126,17 @@
       ]
     },
     {
-      "claim": "Tristan Homsi, iPhone 13 modelini kullanmaktadır.",
+      "claim": "Tristan Homsi, Readwise şirketinin kurucu ortaklarından biridir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+          "quote": "I’ve talked to Tristan Homsi, one of the Readwise cofounders, a few times over the years"
+        }
+      ]
+    },
+    {
+      "claim": "Tristan Homsi, kişisel telefon olarak iPhone 13 kullanmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -114,16 +144,6 @@
           "quote": "The phone: iPhone 13 (!).Believe it or not, I chose to buy this relatively outdated phone last year"
         }
       ]
-    },
-    {
-      "claim": "Kagi arama motoru, kullanıcılarına ödeme yapmadan önce 50 ücretsiz arama hakkı sunmaktadır.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "Kagi arama motorunun aylık abonelik ücreti 10 dolardır.",
-      "verdict": "not_found",
-      "evidence": []
     },
     {
       "claim": "BeReal uygulaması 2022 yılında popülerlik kazanmıştır.",
@@ -140,22 +160,26 @@
       ]
     },
     {
-      "claim": "Tristan Homsi, Readwise şirketinin kurucu ortaklarından biridir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "I’ve talked to Tristan Homsi, one of the Readwise cofounders, a few times over the years"
-        }
-      ]
+      "claim": "Kagi arama motoru, kullanıcılarına ödeme yapmadan önce 50 ücretsiz arama hakkı sunmaktadır.",
+      "verdict": "not_found",
+      "evidence": []
     },
     {
-      "claim": "Peak Design Kickstand Travel Battery, bir taşınabilir batarya ürünüdür.",
+      "claim": "Kagi arama motorunun aylık abonelik ücreti 10 dolardır.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Tristan Homsi, günlük ulaşım aracı olarak San Francisco'da Bay Wheels kullanmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "The Peak Design Kickstand Travel Battery. While we’re on the subject of kickstands, here’s the one I’m buying this week. Peak Design makes good stuff, and I frequently find that I need extra juice at exactly the moment I want to watch something on a plane or train."
+          "quote": "Bay Wheels is my main mode of commute around San Francisco daily."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+          "quote": "Strava and Runmeter are awesome for tracking my runs… and Bay Wheels is my main mode of commute around San Francisco daily."
         }
       ]
     }
@@ -167,14 +191,22 @@
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+          "quote": "At $2,500, this one’s a little steep for my wallet, but I think my colleague Sean Hollister is right that this is what the future of 3D printing looks like."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
           "quote": "The Bambu Lab H3C. I am dangerously close to becoming a 3D Printer Dude. At $2,500, this one’s a little steep for my wallet"
         }
       ]
     },
     {
-      "claim": "Sony MDR-3R kulaklıkların fiyatı 60 dolardır.",
+      "claim": "Sony MDR-3R kulaklıkların satış fiyatı 60 dolardır.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+          "quote": "You’ll look a little like Nathan Fielder in You Can See Everything when you wear them, and $60 ain’t cheap, but there’s something so incredibly ’70s-era cool about them."
+        },
         {
           "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
           "quote": "The Sony MDR-3R headphones. Respect to Sony for taking the retro headphone trend all the way to its logical conclusion and just releasing the headphones from the original Walkman. You’ll look a little like Nathan Fielder in You Can See Everything when you wear them, and $60 ain’t cheap"
@@ -182,7 +214,17 @@
       ]
     },
     {
-      "claim": "Tristan Homsi, iPhone 13 modelini kullanmaktadır.",
+      "claim": "Tristan Homsi, Readwise şirketinin kurucu ortaklarından biridir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+          "quote": "I’ve talked to Tristan Homsi, one of the Readwise cofounders, a few times over the years"
+        }
+      ]
+    },
+    {
+      "claim": "Tristan Homsi, kişisel telefon olarak iPhone 13 kullanmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -190,16 +232,6 @@
           "quote": "The phone: iPhone 13 (!).Believe it or not, I chose to buy this relatively outdated phone last year"
         }
       ]
-    },
-    {
-      "claim": "Kagi arama motoru, kullanıcılarına ödeme yapmadan önce 50 ücretsiz arama hakkı sunmaktadır.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "Kagi arama motorunun aylık abonelik ücreti 10 dolardır.",
-      "verdict": "not_found",
-      "evidence": []
     },
     {
       "claim": "BeReal uygulaması 2022 yılında popülerlik kazanmıştır.",
@@ -216,22 +248,26 @@
       ]
     },
     {
-      "claim": "Tristan Homsi, Readwise şirketinin kurucu ortaklarından biridir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "I’ve talked to Tristan Homsi, one of the Readwise cofounders, a few times over the years"
-        }
-      ]
+      "claim": "Kagi arama motoru, kullanıcılarına ödeme yapmadan önce 50 ücretsiz arama hakkı sunmaktadır.",
+      "verdict": "not_found",
+      "evidence": []
     },
     {
-      "claim": "Peak Design Kickstand Travel Battery, bir taşınabilir batarya ürünüdür.",
+      "claim": "Kagi arama motorunun aylık abonelik ücreti 10 dolardır.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Tristan Homsi, günlük ulaşım aracı olarak San Francisco'da Bay Wheels kullanmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "The Peak Design Kickstand Travel Battery. While we’re on the subject of kickstands, here’s the one I’m buying this week. Peak Design makes good stuff, and I frequently find that I need extra juice at exactly the moment I want to watch something on a plane or train."
+          "quote": "Bay Wheels is my main mode of commute around San Francisco daily."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+          "quote": "Strava and Runmeter are awesome for tracking my runs… and Bay Wheels is my main mode of commute around San Francisco daily."
         }
       ]
     }

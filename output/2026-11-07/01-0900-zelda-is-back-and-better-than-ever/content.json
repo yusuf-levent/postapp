@@ -1,69 +1,68 @@
 {
   "cover": {
     "category_label": "TEKNOLOJİ DÜNYASINDAN",
-    "title": "Teknoloji Dünyasında Neler Var?",
+    "title": "Tristan Homsi ve Teknoloji Tercihleri",
     "highlight_words": [
-      "Teknoloji",
-      "Dünyasında"
+      "Tristan Homsi"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Donanım dünyasından güncel bilgiler ve dikkat çeken detaylar.",
+    "subtitle": "Readwise kurucu ortağının günlük teknoloji kullanımı ve güncel gelişmeler.",
     "source_tags": [
       "THE VERGE",
       "ARS TECHNICA"
     ]
   },
   "context": {
-    "heading": "Güncel Teknoloji Notları",
+    "heading": "Readwise ve Tristan Homsi",
     "cards": [
       {
-        "card_title": "Bambu Lab H3C",
-        "card_body": "3D yazıcı dünyasında dikkat çeken Bambu Lab H3C modeli, 2.500 dolarlık fiyat etiketiyle kullanıcıların karşısına çıkıyor."
+        "card_title": "Kurucu Ortak",
+        "card_body": "Tristan Homsi, popüler okuma ve not alma platformu Readwise'ın kurucu ortaklarından biri olarak tanınıyor."
       },
       {
-        "card_title": "Ses Deneyimi",
-        "card_body": "Sony MDR-3R kulaklıklar, 60 dolarlık fiyatıyla erişilebilir bir ses deneyimi sunmayı hedefliyor."
+        "card_title": "Kişisel Tercihler",
+        "card_body": "Homsi, günlük kişisel telefon tercihi olarak iPhone 13 modelini kullanmayı tercih ediyor."
       }
     ]
   },
   "stat": {
-    "big_stat": "2.500$",
+    "big_stat": "2.500 $",
     "stat_caption": "Bambu Lab H3C 3D yazıcının piyasa satış fiyatı.",
-    "stat_quote": "Yüksek performanslı 3D baskı teknolojileri, profesyonel üretim standartlarını evlere taşımaya devam ediyor. - The Verge"
+    "stat_quote": "3D baskı dünyasında Bambu Lab H3C, 2.500 dolarlık fiyat etiketiyle dikkat çeken bir seçenek olarak konumlanıyor."
   },
   "details": {
-    "heading": "Öne Çıkan Detaylar",
+    "heading": "Teknoloji ve Ulaşım",
     "cards": [
       {
-        "card_title": "Tristan Homsi ve Tercihi",
-        "card_body": "Readwise şirketinin kurucu ortaklarından olan Tristan Homsi, günlük kullanımda iPhone 13 modelini tercih ediyor."
+        "card_title": "Ulaşım Tercihi",
+        "card_body": "Tristan Homsi, San Francisco'daki günlük ulaşım ihtiyaçları için Bay Wheels sistemini kullanıyor."
+      },
+      {
+        "card_title": "Ses Ekipmanı",
+        "card_body": "Sony MDR-3R kulaklıklar, 60 dolarlık satış fiyatıyla teknoloji meraklılarına sunulan bir seçenek."
       },
       {
         "card_title": "Sosyal Medya Trendi",
-        "card_body": "BeReal uygulaması, sunduğu farklı yaklaşımla 2022 yılında büyük bir popülerlik kazanarak dikkatleri üzerine çekti."
-      },
-      {
-        "card_title": "Taşınabilir Enerji",
-        "card_body": "Peak Design Kickstand Travel Battery, hareket halindeki kullanıcılar için tasarlanmış bir taşınabilir batarya ürünüdür."
+        "card_body": "BeReal uygulaması, kullanıcıların doğal anlarını paylaşma odağıyla 2022 yılında büyük bir popülerlik kazandı."
       }
     ]
   },
   "impact": {
-    "heading": "Teknolojinin Etkisi",
+    "heading": "Kullanıcı ve Sektör Etkisi",
     "cards": [
       {
-        "card_title": "Sektörel Yansımalar",
-        "card_body": "3D yazıcı ve taşınabilir enerji çözümleri, profesyonel iş akışlarını ve mobiliteyi yeniden şekillendiriyor."
+        "card_title": "Sektörel Yansıma",
+        "card_body": "Bambu Lab gibi markaların 3D yazıcı pazarındaki fiyatlandırma stratejileri, profesyonel üretim araçlarına erişimi etkiliyor."
       },
       {
-        "card_title": "Kullanıcı Deneyimi",
-        "card_body": "Sosyal medya platformlarının yükselişi ve donanım tercihleri, dijital yaşam tarzımızı doğrudan etkiliyor."
+        "card_title": "Kullanıcı Alışkanlıkları",
+        "card_body": "BeReal'ın 2022'deki yükselişi, sosyal medya kullanıcılarının daha samimi ve filtresiz içeriklere yöneldiğini gösterdi."
       }
     ]
   },
   "cta": {
-    "question": "Sizce 3D yazıcılar evlerimizin standart bir parçası haline gelecek mi?",
-    "reminder_line": "Tekno Pusula'yı takip ederek güncel teknoloji haberlerinden haberdar olun."
+    "question": "Sizce teknoloji dünyasında kurucuların kişisel tercihlerini bilmek, ürünlere bakış açımızı değiştiriyor mu?",
+    "reminder_line": "Tekno Pusula'yı takipte kalın, güncel gelişmelerden haberdar olun."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
