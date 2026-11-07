@@ -1,70 +1,69 @@
 {
   "cover": {
-    "category_label": "GİRİŞİMCİLİK VE YATIRIM",
-    "title": "Sequoia Capital'da Büyük Değişim: Scout Programı Bitiyor",
+    "category_label": "YATIRIM DÜNYASI",
+    "title": "Sequoia Londra Ofisini Kapatıyor",
     "highlight_words": [
       "Sequoia",
-      "Scout",
-      "Değişim"
+      "Londra"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Dev yatırım şirketi, Londra ofisini kapatıyor ve scout modelini sonlandırıyor.",
+    "subtitle": "Girişim sermayesi devi Sequoia'dan radikal karar: Londra ofisi ve scout programı kapanıyor.",
     "source_tags": [
       "TECHCRUNCH",
-      "BBC NEWS"
+      "BBC NEWS – TECHNOLOGY"
     ]
   },
   "context": {
-    "heading": "Neler Değişiyor?",
+    "heading": "Yatırım Dünyasında Büyük Değişim",
     "cards": [
       {
-        "card_title": "Radikal Kararlar",
-        "card_body": "Sequoia, Londra ofisini kapatma ve 17 yıl önce öncülük ettiği scout programını sonlandırma kararı aldı."
+        "card_title": "Londra Ofisi Kapanıyor",
+        "card_body": "Sequoia, bu hafta X üzerinde paylaşılan bir notla Londra ofisini kapatacağını ve scout programını sonlandıracağını duyurdu."
       },
       {
-        "card_title": "Scout Modelinin Sonu",
-        "card_body": "Şirket, yatırım stratejisinde köklü bir değişikliğe giderek bu eski modelden vazgeçtiğini duyurdu."
+        "card_title": "17 Yıllık Geçmiş",
+        "card_body": "Yatırım devi Sequoia, scout modelinin öncülüğünü tam 17 yıl önce yapmıştı."
       }
     ]
   },
   "stat": {
     "big_stat": "17 YIL",
-    "stat_caption": "Sequoia'nın scout modelini ilk kez hayata geçirmesinden bu yana geçen süre.",
-    "stat_quote": "Scout programının kapatılmasını duymak üzücü. - Roxanne Varza (2020-2025 arası Sequoia scout'u)"
+    "stat_caption": "Sequoia'nın öncülük ettiği scout programının süresi",
+    "stat_quote": "Scout programı hiçbir zaman bana mantıklı gelmedi ve scout'lar yatırımlarla gerçekten ilgilenmiyor. - VC Sheel Mohnot"
   },
   "details": {
-    "heading": "Sektördeki Yankılar",
+    "heading": "Programın Ardındakiler",
     "cards": [
       {
-        "card_title": "Farklı Görüşler",
-        "card_body": "VC Sheel Mohnot, X platformunda scout programının kendisine hiçbir zaman mantıklı gelmediğini belirtti."
+        "card_title": "Sheel Mohnot'un Görüşü",
+        "card_body": "VC Sheel Mohnot, bu hafta X üzerinde scout programının kendisine hiç mantıklı gelmediğini belirtti."
       },
       {
-        "card_title": "Rekabet Devam Ediyor",
-        "card_body": "Andreessen Horowitz (a16z), küresel scout ağını güncelleyerek ABD ve Avrupa'daki fırsatlara odaklanmaya devam ediyor."
+        "card_title": "Roxanne Varza'nın Açıklaması",
+        "card_body": "2020-2025 yılları arasında Sequoia scout'u olan Station F yöneticisi Roxanne Varza, programın kapanmasından üzüntü duyduğunu yazdı."
       },
       {
-        "card_title": "Strateji Güncellemesi",
-        "card_body": "a16z ortağı Gabriel Vasquez, programlarını en iyi yeteneklere odaklanacak şekilde revize ettiklerini açıkladı."
+        "card_title": "Diğer Fonların Durumu",
+        "card_body": "Roxanne Varza, diğer fonların bu adımı takip etmemesini umduğunu LinkedIn üzerinden dile getirdi."
       }
     ]
   },
   "impact": {
-    "heading": "Ekosisteme Etkisi",
+    "heading": "Sektörel Etkiler",
     "cards": [
       {
-        "card_title": "Yatırım Stratejileri",
-        "card_body": "Büyük yatırım şirketlerinin scout ağlarını yeniden yapılandırması, erken aşama yatırım modellerinin sorgulandığını gösteriyor."
+        "card_title": "A16Z Hamlesi",
+        "card_body": "Andreessen Horowitz (a16z) ortağı Gabriel Vasquez, en iyi insanlara odaklanmak için küresel scout programlarını yenilediklerini belirtti."
       },
       {
-        "card_title": "Avrupa Pazarı",
-        "card_body": "Sequoia'nın Londra ofisini kapatması, Avrupa'daki girişimcilik ekosistemi için önemli bir değişim sinyali."
+        "card_title": "Sektörün Tepkisi",
+        "card_body": "Sequoia'nın bu geniş çaplı yapılanması, girişim sermayesi ekosisteminde scout modellerinin geleceğini tartışmaya açtı."
       }
     ]
   },
   "cta": {
-    "question": "Sizce scout modelleri, girişimcilik dünyasında hala etkili bir yöntem mi?",
-    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri kaçırmamak için bizi takipte kalın."
+    "question": "Sizce scout programlarının girişim sermayesi dünyasındaki rolü azalıyor mu?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
