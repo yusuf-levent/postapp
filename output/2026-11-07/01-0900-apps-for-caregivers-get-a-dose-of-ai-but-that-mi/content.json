@@ -1,69 +1,68 @@
 {
   "cover": {
-    "category_label": "YAPAY ZEKA VE TEKNOLOJI",
-    "title": "Bakım Verenler İçin Dijital Çözümler",
+    "category_label": "YAPAY ZEKA VE TEKNOLOJİ",
+    "title": "Bakım Verenler İçin Yeni Nesil Uygulamalar",
     "highlight_words": [
-      "Bakım",
-      "Dijital"
+      "Bakım Verenler"
     ],
-    "highlight_color": "cyan",
-    "subtitle": "Hasta ve yaşlı bakımını kolaylaştıran teknolojiler hayatımızın merkezinde.",
+    "highlight_color": "yellow",
+    "subtitle": "Tıbbi rahatsızlığı veya engeli olanlara destek sunan dijital çözümleri inceliyoruz.",
     "source_tags": [
       "WIRED",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Bakım Verenlerin Güncel Tablosu",
+    "heading": "Bakım Verenlerin Dijital Dünyası",
     "cards": [
       {
-        "card_title": "Milyonlarca İnsan",
-        "card_body": "AARP verilerine göre 2025 yılında tahmini 63 milyon Amerikan vatandaşı tıbbi bir rahatsızlığı veya engeli olan yetişkinlere ya da çocuklara bakmıştır."
+        "card_title": "Medisafe",
+        "card_body": "Medisafe uygulaması 2013 yılında oluşturulmuştur ve kullanıcılara sağlık takibinde destek olmaktadır."
       },
       {
-        "card_title": "Yoğun Emek",
-        "card_body": "Bakım verenler ortalama olarak haftada 27 saate kadar bakım hizmeti sağlamaktadır."
+        "card_title": "Caring Village",
+        "card_body": "Caring Village uygulaması ise 2015 yılında kurulmuştur."
       }
     ]
   },
   "stat": {
     "big_stat": "63 MİLYON",
-    "stat_caption": "2025 yılında tıbbi rahatsızlığı veya engeli olan bireylere bakan Amerikan vatandaşı sayısı.",
-    "stat_quote": "AARP verilerine göre bakım verenler haftada ortalama 27 saat çalışıyor."
+    "stat_caption": "2025 yılında tıbbi rahatsızlığı veya engeli olanlara bakım veren Amerikan vatandaşı sayısı.",
+    "stat_quote": "AARP verilerine göre 2025 yılında tahmini 63 milyon Amerikan vatandaşı bakım vermiştir."
   },
   "details": {
-    "heading": "Öne Çıkan Uygulamalar",
+    "heading": "Güncel Uygulama Girişimleri",
     "cards": [
       {
-        "card_title": "Medisafe",
-        "card_body": "2013 yılında oluşturulan Medisafe uygulaması, ilaçları takip eder ve dozların atlanmaması için hatırlatıcılar gönderir."
-      },
-      {
-        "card_title": "Caring Village ve Mejo",
-        "card_body": "2015'te kurulan Caring Village sağlık günlüğü sunar. Bret Koncak ise 2022'de Mejo'yu kurmuştur; premium sürümü aylık 6 dolar veya yıllık 60 dolardır."
+        "card_title": "Mejo",
+        "card_body": "Bret Koncak, 2022 yılında Mejo adlı web tabanlı bakım veren uygulamasını ortaklaşa kurmuştur. Premium versiyonu aylık 6 dolar veya yıllık 60 dolardır."
       },
       {
         "card_title": "Citizen Health",
-        "card_body": "Nasha Fitter, nadir bir hastalığı olan kızı dolayısıyla hastalar için tıbbi kayıtları toplayan Citizen Health'i 2024 yılında ortak kurucu Farid Vij ile piyasaya sürmüştür."
+        "card_body": "Nasha Fitter, 2024 yılında Citizen Health'i ortak kurucu Farid Vij ile birlikte piyasaya sürmüştür."
+      },
+      {
+        "card_title": "Briggzy",
+        "card_body": "Brett Rowell, Briggzy adlı uygulamayı 2027 yılında daha geniş bir topluluğa sunmayı ummaktadır."
       }
     ]
   },
   "impact": {
-    "heading": "Gelecekteki Gelişmeler",
+    "heading": "Sektör ve Kullanıcı Etkisi",
     "cards": [
       {
-        "card_title": "Briggzy Projesi",
-        "card_body": "Brett Rowell, Briggzy adlı uygulamayı daha geniş bir topluluğa 2027 yılında fırlatmayı ummaktadır."
+        "card_title": "Organize Destek",
+        "card_body": "Web tabanlı ve mobil uygulamalar, bakım verenlerin süreçleri daha düzenli yönetmesini sağlıyor."
       },
       {
-        "card_title": "Kolaylık Sağlayan Araçlar",
-        "card_body": "Randevu takvimi, ilaç takibi ve tıbbi kayıt toplama araçları bakım verenlerin yükünü hafifletmektedir."
+        "card_title": "Genişleyen Ekosistem",
+        "card_body": "Yeni girişimler ve farklı fiyatlandırma modelleri ile dijital sağlık çözümleri çeşitleniyor."
       }
     ]
   },
   "cta": {
-    "question": "Siz de bu tür dijital bakım uygulamalarını günlük hayatınızda kullanıyor musunuz?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın."
+    "question": "Sizce bu tür dijital uygulamalar bakım verenlerin işini ne kadar kolaylaştırıyor?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
