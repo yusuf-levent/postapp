@@ -1,13 +1,12 @@
 {
   "cover": {
-    "category_label": "YAZILIM VE TEKNOLOJİ",
-    "title": "Mac Diskinde Yer Açan Purge Uygulaması",
+    "category_label": "YAZILIM",
+    "title": "Mac'inizde Yer Açan Yeni Uygulama: PURGE",
     "highlight_words": [
-      "Purge",
-      "Yer Açan"
+      "PURGE"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Mac sabit diskinde yer kaplayan dosyaları gösteren tamamen ücretsiz bir uygulama.",
+    "subtitle": "Mac sabit diskinizde neyin yer kapladığını gösteren tamamen ücretsiz ve açık kaynaklı bir araç.",
     "source_tags": [
       "WIRED",
       "THE VERGE"
@@ -17,49 +16,49 @@
     "heading": "Purge Nedir?",
     "cards": [
       {
-        "card_title": "Açık Kaynaklı Yapı",
-        "card_body": "Purge, Mac sabit diskinde yer kaplayan dosyaları gösteren tamamen ücretsiz ve açık kaynaklı bir uygulamadır."
+        "card_title": "Açık Kaynak ve Ücretsiz",
+        "card_body": "Purge, Mac sabit diskinizde yer kaplayan dosyaları görmenizi sağlayan tamamen ücretsiz ve açık kaynaklı bir uygulamadır."
       },
       {
         "card_title": "Reklamsız Deneyim",
-        "card_body": "Purge uygulamasında hiçbir reklam veya ek satış teklifi bulunmamaktadır."
+        "card_body": "Uygulama hiçbir reklam veya üst satış (upsell) içermemektedir, tamamen kullanıcı odaklıdır."
       }
     ]
   },
   "stat": {
     "big_stat": "10 GB+",
-    "stat_caption": "Apple Intelligence modellerinin silinmesiyle açılan alan.",
-    "stat_quote": "Purge, macOS 27 sürümündeki Apple Intelligence çevrim dışı modellerini silebilir."
+    "stat_caption": "Kazanabileceğiniz Alan Boyutu",
+    "stat_quote": "Apple Intelligence çevrimdışı modellerini silerek 10 GB'tan fazla alan açabilirsiniz."
   },
   "details": {
-    "heading": "Uygulamanın Öne Çıkan Özellikleri",
+    "heading": "Nasıl Çalışır?",
     "cards": [
       {
-        "card_title": "Güvenli Silme",
-        "card_body": "Purge, sildiği dosyaları doğrudan kalıcı olarak silmek yerine güvenli bir şekilde Çöp Kutusu'na gönderir."
+        "card_title": "Apple Intelligence Modelleri",
+        "card_body": "Purge, macOS 27 içerisindeki Apple Intelligence çevrimdışı modellerini silebilir."
       },
       {
-        "card_title": "Kapsamlı Temizlik",
-        "card_body": "Purge, uygulamaları kaldırırken sadece uygulamayı değil, ayarlar ve önbellek gibi ilişkili tüm dosyaları da temizler."
+        "card_title": "Güvenli Silme",
+        "card_body": "Uygulama, dosyaları doğrudan silmek yerine güvenli bir şekilde Çöp Kutusu'na gönderir."
       }
     ]
   },
   "impact": {
-    "heading": "Kullanıcıya ve Sisteme Etkisi",
+    "heading": "Kullanıcıya Etkisi",
     "cards": [
       {
-        "card_title": "Yapay Zeka Modelleri",
-        "card_body": "Purge, macOS 27 sürümündeki Apple Intelligence çevrim dışı modellerini silebilir."
+        "card_title": "Depolama Tasarrufu",
+        "card_body": "Kullanıcılar istemedikleri yapay zeka modellerini kaldırarak önemli ölçüde depolama alanı kazanabilir."
       },
       {
-        "card_title": "Apple Seçeneği",
-        "card_body": "Apple, macOS 27 sürümünde Apple Intelligence özelliklerinin tamamen devre dışı bırakılmasına olanak tanıyan bir seçenek sunmaktadır."
+        "card_title": "Kolay Yönetim",
+        "card_body": "Diskte neyin yer kapladığını şeffaf ve reklamsız bir şekilde görmek kullanıcı işini kolaylaştırır."
       }
     ]
   },
   "cta": {
-    "question": "Mac bilgisayarınızda yer açmak için bu tür açık kaynaklı araçları tercih ediyor musunuz?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmelerden haberdar olmak için takipte kalın!"
+    "question": "Mac'inizde yer açmak için bu tarz açık kaynaklı araçları tercih ediyor musunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
