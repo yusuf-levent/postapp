@@ -7,12 +7,12 @@
     "MIT Technology Review",
     "Google Blog"
   ],
-  "checked_at": "2026-11-07T13:42:29+03:00",
+  "checked_at": "2026-11-07T13:47:43+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "First Street, First Street, bir raporda iklim risklerinin 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1.5 trilyon dolar silebileceğini öngördü.",
+      "claim": "First Street firmasının geçen yıl yayınladığı raporuna göre iklim riskleri 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1,5 trilyon dolar silebilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "claim": "Data for Progress tarafından yapılan ankete göre, muhtemel ABD seçmenlerinin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yıl içinde Amerikan Rüyası'nı gerçekleştirme yeteneklerini engelleceğine inanıyor.",
+      "claim": "Data for Progress şirketinin yaptığı ankete göre kayıtlı ABD seçmenlerinin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yıl içinde Amerikan Rüyası'nı gerçekleştirme kabiliyetlerini engelleceğine inanıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "claim": "Batı Kuzey Carolina'da 74.000'den fazla ev hasar gördü ve sadece yüzde 4 civarı sel sigortasına sahipti, bu da 9.5 milyar dolarlık sigortasız konut mülkü kaybıyla sonuçlandı.",
+      "claim": "Batı Kuzey Karolina'da 74.000'den fazla ev hasar gördü ve bunların sadece yüzde 4'ünde sel sigortası vardı, bu da 9,5 milyar dolarlık sigortasız konut mülkü kaybıyla sonuçlandı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "claim": "Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülürken, ulusal ortalama yüzde 1.2 arttı.",
+      "claim": "Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülürken, ulusal ortalama yüzde 1,2 arttı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "claim": "Nature Climate Change dergisinde yayınlanan 2023 yılına ait bir çalışmaya göre, FEMA'nın yüksek riskli sel bölgelerindeki evler ortalama olarak normalde satılacakları fiyattan yüzde 2.8 daha ucuza satılıyor.",
+      "claim": "Nature Climate Change dergisinde yayınlanan 2023 yılına ait bir çalışmaya göre FEMA'nın yüksek riskli sel bölgelerindeki evler ortalama yüzde 2,8 daha ucuza satılıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "claim": "2020 yılından bu yana konut sigortası maliyetleri neredeyse yüzde 80 oranında arttı ve tek ailelik ortalama ipotek sahibi artık ayda 209 dolar ödüyor.",
+      "claim": "2020 yılından bu yana konut sigortası maliyetleri neredeyse yüzde 80 oranında artarak ortalama tek ailelik ipotek sahibinin ayda 209 dolar ödemesine neden oldu.",
       "verdict": "supported",
       "evidence": [
         {
@@ -82,14 +82,14 @@
       ]
     },
     {
-      "claim": "Ipsos tarafından geçen yıl yapılan bir anket, bebek boomer kuşağının yüzde 46'sının ev sahibi olmayı Amerikan Rüyası ile ilişkilendirirken, Z kuşağının sadece yüzde 13'ünün bunu yaptığını gösterdi.",
+      "claim": "Ipsos'un geçen yıl yaptığı ankete göre bebek boomer kuşağının yüzde 46'sı ev sahibi olmayı Amerikan Rüyası ile ilişkilendirirken Z kuşağının sadece yüzde 13'ü ilişkilendiriyor.",
       "verdict": "not_found",
       "evidence": []
     }
   ],
   "round1": [
     {
-      "claim": "First Street, First Street, bir raporda iklim risklerinin 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1.5 trilyon dolar silebileceğini öngördü.",
+      "claim": "First Street firmasının geçen yıl yayınladığı raporuna göre iklim riskleri 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1,5 trilyon dolar silebilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "claim": "Data for Progress tarafından yapılan ankete göre, muhtemel ABD seçmenlerinin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yıl içinde Amerikan Rüyası'nı gerçekleştirme yeteneklerini engelleceğine inanıyor.",
+      "claim": "Data for Progress şirketinin yaptığı ankete göre kayıtlı ABD seçmenlerinin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yıl içinde Amerikan Rüyası'nı gerçekleştirme kabiliyetlerini engelleceğine inanıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "claim": "Batı Kuzey Carolina'da 74.000'den fazla ev hasar gördü ve sadece yüzde 4 civarı sel sigortasına sahipti, bu da 9.5 milyar dolarlık sigortasız konut mülkü kaybıyla sonuçlandı.",
+      "claim": "Batı Kuzey Karolina'da 74.000'den fazla ev hasar gördü ve bunların sadece yüzde 4'ünde sel sigortası vardı, bu da 9,5 milyar dolarlık sigortasız konut mülkü kaybıyla sonuçlandı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "claim": "Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülürken, ulusal ortalama yüzde 1.2 arttı.",
+      "claim": "Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülürken, ulusal ortalama yüzde 1,2 arttı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "claim": "Nature Climate Change dergisinde yayınlanan 2023 yılına ait bir çalışmaya göre, FEMA'nın yüksek riskli sel bölgelerindeki evler ortalama olarak normalde satılacakları fiyattan yüzde 2.8 daha ucuza satılıyor.",
+      "claim": "Nature Climate Change dergisinde yayınlanan 2023 yılına ait bir çalışmaya göre FEMA'nın yüksek riskli sel bölgelerindeki evler ortalama yüzde 2,8 daha ucuza satılıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "claim": "2020 yılından bu yana konut sigortası maliyetleri neredeyse yüzde 80 oranında arttı ve tek ailelik ortalama ipotek sahibi artık ayda 209 dolar ödüyor.",
+      "claim": "2020 yılından bu yana konut sigortası maliyetleri neredeyse yüzde 80 oranında artarak ortalama tek ailelik ipotek sahibinin ayda 209 dolar ödemesine neden oldu.",
       "verdict": "supported",
       "evidence": [
         {
@@ -159,14 +159,14 @@
       ]
     },
     {
-      "claim": "Ipsos tarafından geçen yıl yapılan bir anket, bebek boomer kuşağının yüzde 46'sının ev sahibi olmayı Amerikan Rüyası ile ilişkilendirirken, Z kuşağının sadece yüzde 13'ünün bunu yaptığını gösterdi.",
+      "claim": "Ipsos'un geçen yıl yaptığı ankete göre bebek boomer kuşağının yüzde 46'sı ev sahibi olmayı Amerikan Rüyası ile ilişkilendirirken Z kuşağının sadece yüzde 13'ü ilişkilendiriyor.",
       "verdict": "not_found",
       "evidence": []
     }
   ],
   "round2": [
     {
-      "claim": "First Street, First Street, bir raporda iklim risklerinin 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1.5 trilyon dolar silebileceğini öngördü.",
+      "claim": "First Street firmasının geçen yıl yayınladığı raporuna göre iklim riskleri 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1,5 trilyon dolar silebilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "claim": "Data for Progress tarafından yapılan ankete göre, muhtemel ABD seçmenlerinin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yıl içinde Amerikan Rüyası'nı gerçekleştirme yeteneklerini engelleceğine inanıyor.",
+      "claim": "Data for Progress şirketinin yaptığı ankete göre kayıtlı ABD seçmenlerinin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yıl içinde Amerikan Rüyası'nı gerçekleştirme kabiliyetlerini engelleceğine inanıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "claim": "Batı Kuzey Carolina'da 74.000'den fazla ev hasar gördü ve sadece yüzde 4 civarı sel sigortasına sahipti, bu da 9.5 milyar dolarlık sigortasız konut mülkü kaybıyla sonuçlandı.",
+      "claim": "Batı Kuzey Karolina'da 74.000'den fazla ev hasar gördü ve bunların sadece yüzde 4'ünde sel sigortası vardı, bu da 9,5 milyar dolarlık sigortasız konut mülkü kaybıyla sonuçlandı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "claim": "Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülürken, ulusal ortalama yüzde 1.2 arttı.",
+      "claim": "Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülürken, ulusal ortalama yüzde 1,2 arttı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "claim": "Nature Climate Change dergisinde yayınlanan 2023 yılına ait bir çalışmaya göre, FEMA'nın yüksek riskli sel bölgelerindeki evler ortalama olarak normalde satılacakları fiyattan yüzde 2.8 daha ucuza satılıyor.",
+      "claim": "Nature Climate Change dergisinde yayınlanan 2023 yılına ait bir çalışmaya göre FEMA'nın yüksek riskli sel bölgelerindeki evler ortalama yüzde 2,8 daha ucuza satılıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "claim": "2020 yılından bu yana konut sigortası maliyetleri neredeyse yüzde 80 oranında arttı ve tek ailelik ortalama ipotek sahibi artık ayda 209 dolar ödüyor.",
+      "claim": "2020 yılından bu yana konut sigortası maliyetleri neredeyse yüzde 80 oranında artarak ortalama tek ailelik ipotek sahibinin ayda 209 dolar ödemesine neden oldu.",
       "verdict": "supported",
       "evidence": [
         {
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "claim": "Ipsos tarafından geçen yıl yapılan bir anket, bebek boomer kuşağının yüzde 46'sının ev sahibi olmayı Amerikan Rüyası ile ilişkilendirirken, Z kuşağının sadece yüzde 13'ünün bunu yaptığını gösterdi.",
+      "claim": "Ipsos'un geçen yıl yaptığı ankete göre bebek boomer kuşağının yüzde 46'sı ev sahibi olmayı Amerikan Rüyası ile ilişkilendirirken Z kuşağının sadece yüzde 13'ü ilişkilendiriyor.",
       "verdict": "not_found",
       "evidence": []
     }

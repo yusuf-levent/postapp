@@ -1,65 +1,69 @@
 {
   "cover": {
-    "category_label": "İKLİM VE TEKNOLOJİ",
-    "title": "İklim Riskleri Emlak Piyasasını Vuruyor",
+    "category_label": "İKLİM VE EKONOMİ",
+    "title": "İklim Risklerinin Emlak Piyasasına Etkisi",
     "highlight_words": [
-      "İklim Riskleri",
-      "Emlak"
+      "İklim",
+      "Risklerinin"
     ],
     "highlight_color": "yellow",
-    "subtitle": "İklim krizinin emlak ve konut piyasasına etkileri araştırıldı.",
+    "subtitle": "İklim değişikliği ve doğal afetlerin Amerikan emlak piyasasına ve ev değerlerine yansıması.",
     "source_tags": [
       "WIRED",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "İklim ve Konut Piyasası",
+    "heading": "İklim Riskleri ve Raporlar",
     "cards": [
       {
-        "card_title": "Amerikan Rüyası ve İklim",
-        "card_body": "Seçmenlerin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yılda Amerikan Rüyası'nı engelleceğine inanıyor."
+        "card_title": "First Street Raporu",
+        "card_body": "First Street firmasının geçen yıl yayınladığı raporuna göre iklim riskleri 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1,5 trilyon dolar silebilir."
       },
       {
-        "card_title": "Sigortasız Kayıplar",
-        "card_body": "Batı Kuzey Carolina'da binlerce ev hasar gördü ve sadece yüzde 4'ü sel sigortasına sahipti."
+        "card_title": "Seçmen Algısı",
+        "card_body": "Data for Progress şirketinin yaptığı ankete göre kayıtlı ABD seçmenlerinin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yıl içinde Amerikan Rüyası'nı gerçekleştirme kabiliyetlerini engelleceğine inanıyor."
       }
     ]
   },
   "stat": {
-    "big_stat": "1.5 TRİLYON $",
+    "big_stat": "1,5 TRİLYON",
     "stat_caption": "2055 yılına kadar Amerikan evlerinin değerinden silinebilecek tahmini miktar.",
-    "stat_quote": "First Street raporuna göre iklim riskleri emlak değerlerini tehdit ediyor."
+    "stat_quote": "First Street raporuna göre iklim riskleri ev değerlerini tehdit ediyor."
   },
   "details": {
-    "heading": "Maliyetler ve Fiyatlar",
+    "heading": "Bölgesel Kayıplar ve Sigorta",
     "cards": [
       {
-        "card_title": "Sigorta Artışları",
-        "card_body": "2020'den bu yana konut sigortası maliyetleri neredeyse yüzde 80 oranında arttı."
+        "card_title": "Asheville Yağışları",
+        "card_body": "Eylül 2024'te üç gün içinde Asheville'e yaklaşık 14 inç yağmur düştü."
       },
       {
-        "card_title": "Riskli Bölgeler",
-        "card_body": "FEMA'nın yüksek riskli sel bölgelerindeki evler ortalama yüzde 2.8 daha ucuza satılıyor."
+        "card_title": "Sigortasız Kayıplar",
+        "card_body": "Batı Kuzey Karolina'da 74.000'den fazla ev hasar gördü ve bunların sadece yüzde 4'ünde sel sigortası vardı, bu da 9,5 milyar dolarlık sigortasız konut mülkü kaybıyla sonuçlandı."
+      },
+      {
+        "card_title": "Sigorta Maliyetleri",
+        "card_body": "2020 yılından bu yana konut sigortası maliyetleri neredeyse yüzde 80 oranında artarak ortalama tek ailelik ipotek sahibinin ayda 209 dolar ödemesine neden oldu."
       }
     ]
   },
   "impact": {
-    "heading": "Piyasaya Etkiler",
+    "heading": "Ev Fiyatları Üzerindeki Yansımalar",
     "cards": [
       {
-        "card_title": "Sektör Etkisi",
-        "card_body": "Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçüldü."
+        "card_title": "Asheville Ev Fiyatları",
+        "card_body": "Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülürken, ulusal ortalama yüzde 1,2 arttı."
       },
       {
-        "card_title": "Kullanıcı Yükü",
-        "card_body": "Tek ailelik ortalama ipotek sahibi artık sigorta için ayda 209 dolar ödüyor."
+        "card_title": "Sel Bölgeleri",
+        "card_body": "Nature Climate Change dergisinde yayınlanan 2023 yılına ait bir çalışmaya göre FEMA'nın yüksek riskli sel bölgelerindeki evler ortalama yüzde 2,8 daha ucuza satılıyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce iklim riskleri gelecekte konut tercihlerimizi nasıl değiştirecek?",
-    "reminder_line": "Tekno Pusula ile güncel teknolojileri takip edin."
+    "question": "İklim risklerinin gayrimenkul değerlerini bu kadar etkilemesi hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
