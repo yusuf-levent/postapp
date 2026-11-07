@@ -1,69 +1,65 @@
 {
   "cover": {
-    "category_label": "GİRİŞİM EKOSİSTEMİ",
-    "title": "Sequoia'dan Büyük Karar: Scout Programı Bitiyor",
+    "category_label": "GİRİŞİMCİLİK VE YATIRIM",
+    "title": "Sequoia Londra Ofisini Kapatıyor",
     "highlight_words": [
-      "Sequoia",
-      "Scout"
+      "Londra",
+      "Ofisini"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Yatırım dünyasının öncü firması Sequoia, Londra ofisini kapatıyor ve 17 yıllık scout modelini sonlandırıyor.",
+    "subtitle": "Ünlü yatırım devi Sequoia geniş çaplı bir yeniden yapılanmaya gidiyor.",
     "source_tags": [
       "TECHCRUNCH",
       "BBC NEWS"
     ]
   },
   "context": {
-    "heading": "Değişen Yatırım Stratejileri",
+    "heading": "Yeniden Yapılandırma Kararı",
     "cards": [
       {
-        "card_title": "Sequoia'nın Hamlesi",
-        "card_body": "Sequoia, Londra ofisini kapatacağını ve 17 yıl önce başlattığı scout programını sonlandıracağını X üzerinden duyurdu."
+        "card_title": "X Üzerinden Duyuruldu",
+        "card_body": "Sequoia, X'te yayınlanan bir notla kapsamlı bir yapı değişikliğine gittiğini duyurdu."
       },
       {
-        "card_title": "Scout Modeli Nedir?",
-        "card_body": "Scout modeli, yatırım firmalarının erken aşama fırsatları tespit etmek için dışarıdan kişileri görevlendirdiği bir sistemdir."
+        "card_title": "Ofis Kapanışı",
+        "card_body": "Bu değişim kapsamında Londra ofisinin kapatılmasına karar verildi."
       }
     ]
   },
   "stat": {
     "big_stat": "17 YIL",
-    "stat_caption": "Sequoia'nın scout modelini başlattığı günden bu yana geçen süre.",
-    "stat_quote": "Roxanne Varza, Sequoia'nın scout programını sonlandırma kararından üzüntü duyduğunu LinkedIn üzerinden paylaştı."
+    "stat_caption": "Sequoia tarafından öncülük edilen scout programının geçmişi.",
+    "stat_quote": "Scout programı asla bana mantıklı gelmemişti. - Sheel Mohnot"
   },
   "details": {
-    "heading": "Sektörde Neler Değişiyor?",
+    "heading": "Detaylar ve Değişiklikler",
     "cards": [
       {
-        "card_title": "Roxanne Varza'nın Rolü",
-        "card_body": "Station F yöneticisi Roxanne Varza, 2020-2025 yılları arasında Sequoia scout'u olarak görev yapmıştır."
+        "card_title": "Scout Programı",
+        "card_body": "Sequoia 17 yıl önce öncülük ettiği scout programını durdurma kararı aldı."
       },
       {
-        "card_title": "a16z'nin Yaklaşımı",
-        "card_body": "Andreessen Horowitz (a16z), ABD ve Avrupa'daki küçük merkezlerde fırsatları tespit etmek için küresel bir scout ağı kurmuştur."
-      },
-      {
-        "card_title": "a16z'de Revizyon",
-        "card_body": "a16z ortağı Gabriel Vasquez, firmanın scout programını daha az sayıda ancak daha aktif kişilere odaklanacak şekilde revize ettiğini açıkladı."
+        "card_title": "Deneyimler",
+        "card_body": "Station F yöneticisi Roxanne Varza, 2020 ile 2025 yılları arasında Sequoia scout'u olarak görev yaptı."
       }
     ]
   },
   "impact": {
-    "heading": "Ekosisteme Etkisi",
+    "heading": "Sektörel Etkiler",
     "cards": [
       {
-        "card_title": "Yatırımcı Stratejileri",
-        "card_body": "Büyük yatırım firmaları, scout ağlarını daha seçici ve aktif bir yapıya dönüştürerek verimliliği artırmayı hedefliyor."
+        "card_title": "Yatırım Stratejileri",
+        "card_body": "Diğer fonlar da scout programlarını yeniden gözden geçiriyor ve en iyi kişilere odaklanıyor."
       },
       {
-        "card_title": "Girişimciler İçin Değişim",
-        "card_body": "Yatırım ağlarının yeniden yapılandırılması, erken aşama girişimlerin sermayeye erişim yöntemlerini etkileyebilir."
+        "card_title": "a16z Hamlesi",
+        "card_body": "Andreessen Horowitz (a16z) partneri Gabriel Vasquez, en iyi insanlara odaklanmak için programlarını yenilediklerini belirtti."
       }
     ]
   },
   "cta": {
-    "question": "Sizce yatırım firmalarının scout ağlarını daraltması, yeni girişimlerin keşfedilmesini zorlaştırır mı?",
-    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri takip etmek için Tekno Pusula'yı izlemeye devam edin."
+    "question": "Sizce erken aşama yatırımlarda scout programlarının dönemi kapandı mı?",
+    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
