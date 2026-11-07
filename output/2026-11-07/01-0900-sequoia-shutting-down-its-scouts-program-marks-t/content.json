@@ -1,65 +1,69 @@
 {
   "cover": {
-    "category_label": "GİRİŞİMCİLİK VE YATIRIM",
+    "category_label": "YATIRIM DÜNYASI",
     "title": "Sequoia Londra Ofisini Kapatıyor",
     "highlight_words": [
-      "Londra",
-      "Ofisini"
+      "Sequoia",
+      "Londra"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Ünlü yatırım devi Sequoia geniş çaplı bir yeniden yapılanmaya gidiyor.",
+    "subtitle": "Girişim sermayesi devi Sequoia'dan Londra ofisi ve scout programı için kapanış kararı.",
     "source_tags": [
       "TECHCRUNCH",
       "BBC NEWS"
     ]
   },
   "context": {
-    "heading": "Yeniden Yapılandırma Kararı",
+    "heading": "Büyük Değişim",
     "cards": [
       {
-        "card_title": "X Üzerinden Duyuruldu",
-        "card_body": "Sequoia, X'te yayınlanan bir notla kapsamlı bir yapı değişikliğine gittiğini duyurdu."
+        "card_title": "X Üzerinden Duyuru",
+        "card_body": "Sequoia, X platformunda yayınlanan bir notla geniş kapsamlı bir yeniden yapılandırma sürecini duyurdu."
       },
       {
-        "card_title": "Ofis Kapanışı",
-        "card_body": "Bu değişim kapsamında Londra ofisinin kapatılmasına karar verildi."
+        "card_title": "Kapsamlı Adımlar",
+        "card_body": "Yeniden yapılanma planı kapsamında Londra ofisinin kapatılması ve scout programının sonlandırılması yer alıyor."
       }
     ]
   },
   "stat": {
     "big_stat": "17 YIL",
-    "stat_caption": "Sequoia tarafından öncülük edilen scout programının geçmişi.",
-    "stat_quote": "Scout programı asla bana mantıklı gelmemişti. - Sheel Mohnot"
+    "stat_caption": "Sequoia'nın öncülük ettiği scout programının geçmişi.",
+    "stat_quote": "Sequoia, 17 yıl önce scout modeline öncülük etmişti."
   },
   "details": {
-    "heading": "Detaylar ve Değişiklikler",
+    "heading": "Detaylar",
     "cards": [
       {
         "card_title": "Scout Programı",
-        "card_body": "Sequoia 17 yıl önce öncülük ettiği scout programını durdurma kararı aldı."
+        "card_body": "Sequoia tarafından 17 yıl önce başlatılan scout programı bu süreçte sonlandırılıyor."
       },
       {
-        "card_title": "Deneyimler",
+        "card_title": "Önemli İsimler",
         "card_body": "Station F yöneticisi Roxanne Varza, 2020 ile 2025 yılları arasında Sequoia scout'u olarak görev yaptı."
+      },
+      {
+        "card_title": "Sektör Yorumları",
+        "card_body": "VC Sheel Mohnot bu hafta X üzerinde Sequoia'nın scout programına öncülük ettiği hakkında yorum yaptı."
       }
     ]
   },
   "impact": {
-    "heading": "Sektörel Etkiler",
+    "heading": "Sektör Etkileri",
     "cards": [
       {
-        "card_title": "Yatırım Stratejileri",
-        "card_body": "Diğer fonlar da scout programlarını yeniden gözden geçiriyor ve en iyi kişilere odaklanıyor."
+        "card_title": "Rakip Hamleleri",
+        "card_body": "Rakip firma Andreessen Horowitz, ABD ve küçük Avrupa merkezlerindeki fırsatları yakalamak için küresel bir scout ağı kurdu."
       },
       {
-        "card_title": "a16z Hamlesi",
-        "card_body": "Andreessen Horowitz (a16z) partneri Gabriel Vasquez, en iyi insanlara odaklanmak için programlarını yenilediklerini belirtti."
+        "card_title": "Ekosistem Yansımaları",
+        "card_body": "Londra ofisinin kapanması ve programın bitmesi girişim sermayesi ekosisteminde dikkat çeken gelişmeler arasında yer alıyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce erken aşama yatırımlarda scout programlarının dönemi kapandı mı?",
-    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın!"
+    "question": "Sequoia'nın bu hamlesi girişim sermayesi ekosistemini nasıl etkiler?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

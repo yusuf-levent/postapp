@@ -2,46 +2,68 @@
 
 ## INSTAGRAM
 
-Yatırım devi Sequoia Londra ofisini kapatıyor ve 17 yıllık scout programını sonlandırıyor! Sektörde büyük bir yeniden yapılandırma dalgası başlarken, a16z gibi devler de stratejilerini güncelliyor. Sizce erken aşama yatırımlarda scout programlarının dönemi kapandı mı? Kaynak: TechCrunch, BBC News
+Girişim sermayesi dünyasında büyük değişim! 🌍 Sequoia Capital, Londra ofisini kapatma ve 17 yıllık köklü scout programını sonlandırma kararı aldı. 
 
-#Sequoia #Girişimcilik #Yatırım #Teknoloji #Girişim #Finans #KureselPiyasalar #Startup #VC #TechNews
+Dev yatırım şirketi, geniş kapsamlı bir yeniden yapılandırma sürecine giriyor. Bu hamle, VC ekosisteminde dengelerin nasıl değişeceğine dair soru işaretleri yarattı. 
+
+Özellikle Andreessen Horowitz gibi rakiplerin küresel ağlarını genişlettiği bir dönemde, Sequoia'nın bu stratejik değişikliği sektörde yakından takip ediliyor. 
+
+Sizce Sequoia'nın bu hamlesi girişim sermayesi ekosistemini nasıl etkiler? Yorumlarda buluşalım.
+
+Kaynak: TechCrunch, BBC News
+
+#Sequoia #Yatırım #GirişimSermayesi #VC #Londra #Teknoloji #Startup #VentureCapital #BusinessNews #Ekonomi
 
 ## TIKTOK
 
-Sequoia Londra ofisini kapatıyor ve 17 yıllık programını bitiriyor! Yatırım dünyasında neler oluyor? Kaynak: TechCrunch
+Girişim sermayesi devi Sequoia'dan şok karar! Londra ofisi kapanıyor ve 17 yıllık efsanevi scout programı sona eriyor. Yatırım dünyasında neler oluyor? Detaylar videoda. 
 
-#Sequoia #Yatırım #Girişim #Haberler #Teknoloji
+Kaynak: TechCrunch
+
+#Sequoia #Yatırım #Startup #Ekonomi #Teknoloji
 
 ## X
 
-Yatırım devi Sequoia Londra ofisini kapatma ve 17 yıllık scout programını sonlandırma kararı aldı. Sektörde stratejiler yeniden şekilleniyor. Kaynak: TechCrunch, BBC News
+Girişim sermayesi devi Sequoia, Londra ofisini kapatma ve 17 yıllık scout programını sonlandırma kararı aldı. Yeniden yapılandırma sürecine giren devin bu hamlesi VC dünyasında dengeleri nasıl değiştirecek? 
 
-#Sequoia #Yatırım
+Kaynak: TechCrunch, BBC News
+
+#Sequoia #VentureCapital
 
 ## THREADS
 
-Sequoia Londra Ofisini Kapatıyor
+Sequoia'da Büyük Değişim
 
-Yatırım devi Sequoia, geniş çaplı yeniden yapılandırma kararı alarak Londra ofisini kapattı ve 17 yıllık scout programını durdurdu.
+Girişim sermayesi devi Sequoia, Londra ofisini kapatma ve 17 yıllık scout programını sonlandırma kararı aldı. Şirket, geniş kapsamlı bir yeniden yapılandırma sürecine giriyor.
 
-Sizce erken aşama yatırımlarda bu modellerin dönemi kapandı mı? 💭
+Bu hamle, rakiplerin küresel ağlarını genişlettiği bir dönemde sektörde dikkatle izleniyor. Sizce bu karar girişim sermayesi ekosistemini nasıl etkiler? 💭
 
 Kaynak: TechCrunch, BBC News
 
-#Sequoia
+#Yatırım
 
 ## LINKEDIN
 
-Girişim sermayesi dünyasında önemli bir dönüm noktası yaşanıyor. Yatırım devi Sequoia, kapsamlı bir yeniden yapılandırma süreci kapsamında Londra ofisini kapatma ve 17 yıldır sürdürdüğü scout programını sonlandırma kararı aldı. Sektördeki diğer fonlar da stratejilerini en iyi insanlara odaklanacak şekilde güncelliyor. Bu hamle küresel yatırım ekosistemini nasıl etkileyecek?
+Girişim sermayesi dünyasında stratejik bir dönüm noktası: Sequoia Capital, Londra ofisini kapatma ve 17 yıllık scout programını sonlandırma kararı aldı. 
+
+Şirketin yeniden yapılandırma süreci, VC ekosistemindeki rekabet dinamiklerini yeniden şekillendiriyor. Özellikle Andreessen Horowitz gibi rakiplerin küresel scout ağlarını güçlendirdiği bir dönemde, Sequoia'nın bu hamlesi sektördeki stratejik önceliklerin değiştiğine işaret ediyor. 
+
+Bu gelişme, yatırım dünyasında uzun vadeli stratejilerin ne kadar esnek olması gerektiğini bir kez daha gösteriyor. 
+
+Sizce Sequoia'nın bu hamlesi girişim sermayesi ekosistemini nasıl etkiler? Görüşlerinizi bekliyorum.
 
 Kaynak: TechCrunch, BBC News
 
-#Girisimcilik #Yatirim #GirisimSermayesi #Teknoloji #IsDunyasi
+#VentureCapital #Sequoia #Yatırım #StartupEkosistemi #Strateji
 
 ## FACEBOOK
 
-Yatırım dünyasının dev isimlerinden Sequoia, geniş çaplı bir yeniden yapılandırma kararı alarak Londra ofisini kapatıyor ve 17 yıllık scout programına son veriyor. Sektördeki stratejiler hızla değişirken, a16z gibi oyuncular da odağını değiştiriyor. Sizce erken aşama yatırımlarda bu dönemin kapanması sektörü nasıl etkiler?
+Girişim sermayesi devi Sequoia'dan önemli bir karar! Şirket, Londra ofisini kapatma ve 17 yıllık scout programını sonlandırma kararı aldı. 
+
+Bu yeniden yapılandırma süreci, yatırım dünyasında geniş yankı uyandırdı. Rakiplerin küresel ağlarını genişlettiği bir dönemde Sequoia'nın bu adımı, sektördeki dengelerin değişebileceğini gösteriyor. 
+
+Sizce Sequoia'nın bu hamlesi girişim sermayesi ekosistemini nasıl etkiler? 
 
 Kaynak: TechCrunch, BBC News
 
-#Sequoia #Girişimcilik #Yatırım #Teknoloji #Startup
+#Sequoia #Yatırım #GirişimSermayesi #Ekonomi #Teknoloji
