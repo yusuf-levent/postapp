@@ -7,12 +7,12 @@
     "MIT Technology Review",
     "Google Blog"
   ],
-  "checked_at": "2026-11-07T13:12:30+03:00",
+  "checked_at": "2026-11-07T13:17:36+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "First Street, a research firm, projected last year that climate risks could knock nearly $1.5 trillion off the value of American homes by 2055.",
+      "claim": "First Street, First Street, bir raporda iklim risklerinin 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1.5 trilyon dolar silebileceğini öngördü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "claim": "According to polling by Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years.",
+      "claim": "Data for Progress tarafından yapılan ankete göre, muhtemel ABD seçmenlerinin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yıl içinde Amerikan Rüyası'na ulaşma becerilerini engelleceğine inanıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "claim": "In September 2024, almost 14 inches of rain fell on Asheville over three days during Hurricane Helene.",
+      "claim": "Eylül 2024'te üç gün içinde Asheville'e yaklaşık 14 inç yağmur düştü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "claim": "In western North Carolina, more than 74,000 homes were damaged and only about 4 percent had flood insurance, resulting in $9.5 billion in uninsured residential property losses.",
+      "claim": "Batı Kuzey Karolina'da 74.000'den fazla ev hasar gördü ve bunların sadece yüzde 4 civarında sel sigortası vardı, bu da 9.5 milyar dolarlık sigortasız konut mülkü kaybıyla sonuçlandı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "claim": "Asheville's average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent.",
+      "claim": "Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülürken, ulusal ortalama yüzde 1.2 arttı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -62,17 +62,7 @@
       ]
     },
     {
-      "claim": "Since 2020, property insurance costs have ballooned almost 80 percent, with the average single-family mortgage holder now paying $209 per month.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
-          "quote": "Since 2020, property insurance costs have ballooned almost 80 percent, with the average single-family mortgage holder now paying $209 per month."
-        }
-      ]
-    },
-    {
-      "claim": "A 2023 study published in Nature Climate Change found that homes within FEMA's high-risk flood zones sell for 2.8 percent less on average than other homes.",
+      "claim": "Nature Climate Change dergisinde yayınlanan 2023 yılına ait bir çalışmaya göre, FEMA'nın yüksek riskli sel bölgelerindeki evler, aksi takdirde satacakları fiyata göre ortalama yüzde 2.8 daha ucuza satılıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -82,14 +72,24 @@
       ]
     },
     {
-      "claim": "An Ipsos poll showed that 46 percent of baby boomers associate homeownership with the American Dream compared to only 13 percent of Gen Zers.",
+      "claim": "2020'den bu yana mülk sigortası maliyetleri neredeyse yüzde 80 oranında arttı ve ortalama tek ailelik ipotek sahibi şu anda ayda 209 dolar ödüyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
+          "quote": "Since 2020, property insurance costs have ballooned almost 80 percent, with the average single-family mortgage holder now paying $209 per month."
+        }
+      ]
+    },
+    {
+      "claim": "Geçen yıl Ipsos tarafından yapılan bir anket, bebek boomer'ların yüzde 46'sının ev sahibi olmayı Amerikan Rüyası ile ilişkilendirirken, Z Kuşağı'nın sadece yüzde 13'ünün bunu yaptığını gösterdi.",
       "verdict": "not_found",
       "evidence": []
     }
   ],
   "round1": [
     {
-      "claim": "First Street, a research firm, projected last year that climate risks could knock nearly $1.5 trillion off the value of American homes by 2055.",
+      "claim": "First Street, First Street, bir raporda iklim risklerinin 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1.5 trilyon dolar silebileceğini öngördü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "claim": "According to polling by Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years.",
+      "claim": "Data for Progress tarafından yapılan ankete göre, muhtemel ABD seçmenlerinin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yıl içinde Amerikan Rüyası'na ulaşma becerilerini engelleceğine inanıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "claim": "In September 2024, almost 14 inches of rain fell on Asheville over three days during Hurricane Helene.",
+      "claim": "Eylül 2024'te üç gün içinde Asheville'e yaklaşık 14 inç yağmur düştü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "claim": "In western North Carolina, more than 74,000 homes were damaged and only about 4 percent had flood insurance, resulting in $9.5 billion in uninsured residential property losses.",
+      "claim": "Batı Kuzey Karolina'da 74.000'den fazla ev hasar gördü ve bunların sadece yüzde 4 civarında sel sigortası vardı, bu da 9.5 milyar dolarlık sigortasız konut mülkü kaybıyla sonuçlandı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "claim": "Asheville's average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent.",
+      "claim": "Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülürken, ulusal ortalama yüzde 1.2 arttı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -139,17 +139,7 @@
       ]
     },
     {
-      "claim": "Since 2020, property insurance costs have ballooned almost 80 percent, with the average single-family mortgage holder now paying $209 per month.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
-          "quote": "Since 2020, property insurance costs have ballooned almost 80 percent, with the average single-family mortgage holder now paying $209 per month."
-        }
-      ]
-    },
-    {
-      "claim": "A 2023 study published in Nature Climate Change found that homes within FEMA's high-risk flood zones sell for 2.8 percent less on average than other homes.",
+      "claim": "Nature Climate Change dergisinde yayınlanan 2023 yılına ait bir çalışmaya göre, FEMA'nın yüksek riskli sel bölgelerindeki evler, aksi takdirde satacakları fiyata göre ortalama yüzde 2.8 daha ucuza satılıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -159,14 +149,24 @@
       ]
     },
     {
-      "claim": "An Ipsos poll showed that 46 percent of baby boomers associate homeownership with the American Dream compared to only 13 percent of Gen Zers.",
+      "claim": "2020'den bu yana mülk sigortası maliyetleri neredeyse yüzde 80 oranında arttı ve ortalama tek ailelik ipotek sahibi şu anda ayda 209 dolar ödüyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
+          "quote": "Since 2020, property insurance costs have ballooned almost 80 percent, with the average single-family mortgage holder now paying $209 per month."
+        }
+      ]
+    },
+    {
+      "claim": "Geçen yıl Ipsos tarafından yapılan bir anket, bebek boomer'ların yüzde 46'sının ev sahibi olmayı Amerikan Rüyası ile ilişkilendirirken, Z Kuşağı'nın sadece yüzde 13'ünün bunu yaptığını gösterdi.",
       "verdict": "not_found",
       "evidence": []
     }
   ],
   "round2": [
     {
-      "claim": "First Street, a research firm, projected last year that climate risks could knock nearly $1.5 trillion off the value of American homes by 2055.",
+      "claim": "First Street, First Street, bir raporda iklim risklerinin 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1.5 trilyon dolar silebileceğini öngördü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "claim": "According to polling by Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years.",
+      "claim": "Data for Progress tarafından yapılan ankete göre, muhtemel ABD seçmenlerinin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yıl içinde Amerikan Rüyası'na ulaşma becerilerini engelleceğine inanıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "claim": "In September 2024, almost 14 inches of rain fell on Asheville over three days during Hurricane Helene.",
+      "claim": "Eylül 2024'te üç gün içinde Asheville'e yaklaşık 14 inç yağmur düştü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "claim": "In western North Carolina, more than 74,000 homes were damaged and only about 4 percent had flood insurance, resulting in $9.5 billion in uninsured residential property losses.",
+      "claim": "Batı Kuzey Karolina'da 74.000'den fazla ev hasar gördü ve bunların sadece yüzde 4 civarında sel sigortası vardı, bu da 9.5 milyar dolarlık sigortasız konut mülkü kaybıyla sonuçlandı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "claim": "Asheville's average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent.",
+      "claim": "Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülürken, ulusal ortalama yüzde 1.2 arttı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -216,17 +216,7 @@
       ]
     },
     {
-      "claim": "Since 2020, property insurance costs have ballooned almost 80 percent, with the average single-family mortgage holder now paying $209 per month.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
-          "quote": "Since 2020, property insurance costs have ballooned almost 80 percent, with the average single-family mortgage holder now paying $209 per month."
-        }
-      ]
-    },
-    {
-      "claim": "A 2023 study published in Nature Climate Change found that homes within FEMA's high-risk flood zones sell for 2.8 percent less on average than other homes.",
+      "claim": "Nature Climate Change dergisinde yayınlanan 2023 yılına ait bir çalışmaya göre, FEMA'nın yüksek riskli sel bölgelerindeki evler, aksi takdirde satacakları fiyata göre ortalama yüzde 2.8 daha ucuza satılıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -236,7 +226,17 @@
       ]
     },
     {
-      "claim": "An Ipsos poll showed that 46 percent of baby boomers associate homeownership with the American Dream compared to only 13 percent of Gen Zers.",
+      "claim": "2020'den bu yana mülk sigortası maliyetleri neredeyse yüzde 80 oranında arttı ve ortalama tek ailelik ipotek sahibi şu anda ayda 209 dolar ödüyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
+          "quote": "Since 2020, property insurance costs have ballooned almost 80 percent, with the average single-family mortgage holder now paying $209 per month."
+        }
+      ]
+    },
+    {
+      "claim": "Geçen yıl Ipsos tarafından yapılan bir anket, bebek boomer'ların yüzde 46'sının ev sahibi olmayı Amerikan Rüyası ile ilişkilendirirken, Z Kuşağı'nın sadece yüzde 13'ünün bunu yaptığını gösterdi.",
       "verdict": "not_found",
       "evidence": []
     }

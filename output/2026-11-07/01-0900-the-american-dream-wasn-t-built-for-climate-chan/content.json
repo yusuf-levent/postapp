@@ -1,69 +1,69 @@
 {
   "cover": {
     "category_label": "İKLİM VE EKONOMİ",
-    "title": "İklim Riskleri Emlak Değerlerini Tehdit Ediyor",
+    "title": "İklim Riskleri Emlak Piyasasını Nasıl Tehdit Ediyor?",
     "highlight_words": [
-      "Emlak",
-      "Değerlerini"
+      "İklim Riskleri",
+      "Emlak Piyasasını"
     ],
     "highlight_color": "yellow",
-    "subtitle": "İklim değişikliği ve doğal afetlerin konut piyasasına ve sigorta maliyetlerine etkileri.",
+    "subtitle": "İklim krizinin konut değerleri ve sigorta maliyetleri üzerindeki etkileri.",
     "source_tags": [
       "WIRED",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "İklim Krizinin Emlak Piyasasına Etkisi",
+    "heading": "İklim Krizi ve Konut Piyasası",
     "cards": [
       {
-        "card_title": "Piyasa Değeri Tahmini",
-        "card_body": "First Street araştırmasına göre, iklim riskleri 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1.5 trilyon dolar silebilir."
+        "card_title": "Amerikan Rüyası Endişesi",
+        "card_body": "Data for Progress anketine göre seçmenlerin yüzde 58'i iklim değişikliğinin Amerikan Rüyası'na ulaşmayı engelleyeceğine inanıyor."
       },
       {
-        "card_title": "Amerikan Rüyası",
-        "card_body": "Data for Progress anketine göre muhtemel ABD seçmenlerinin yüzde 58'i iklim değişikliğinin Amerikan Rüyası'na ulaşmalarını engelleyeceğine inanıyor."
+        "card_title": "Büyük Değer Kaybı Beklentisi",
+        "card_body": "First Street raporuna göre iklim riskleri 2055'e kadar Amerikan evlerinin değerinden yaklaşık 1.5 trilyon dolar silebilir."
       }
     ]
   },
   "stat": {
-    "big_stat": "9.5 MİLYAR $",
-    "stat_caption": "Batı Kuzey Carolina'daki sigortasız konut mülk kayıpları.",
-    "stat_quote": "Batı Kuzey Carolina'da 74 binden fazla ev hasar gördü ve sadece yüzde 4'ünün sel sigortası vardı."
+    "big_stat": "1.5 TRİLYON",
+    "stat_caption": "İklim risklerinin 2055 yılına kadar Amerikan evlerinin değerinden silmesi beklenen tutar.",
+    "stat_quote": "First Street raporu, iklim risklerinin konut değerleri üzerindeki devasa ekonomik etkisini gözler önüne seriyor."
   },
   "details": {
-    "heading": "Asheville Örneği ve Maliyetler",
+    "heading": "Bölgesel Etkiler ve Sigorta",
     "cards": [
       {
-        "card_title": "Helene Kasırgası",
-        "card_body": "Eylül 2024'te Helene Kasırgası sırasında Asheville'e üç gün içinde yaklaşık 14 inç yağmur düştü."
+        "card_title": "Asheville'de Yağış ve Fiyatlar",
+        "card_body": "Eylül 2024'te Asheville'e üç günde yaklaşık 14 inç yağmur düştü ve ortalama ev fiyatı geçen yıl yüzde 5 küçüldü."
       },
       {
-        "card_title": "Ev Fiyatları",
-        "card_body": "Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülürken, ulusal ortalama yüzde 1.2 arttı."
+        "card_title": "Sigortasız Kayıplar",
+        "card_body": "Batı Kuzey Karolina'da 74.000'den fazla ev hasar gördü ve sadece yüzde 4'ünün sel sigortası vardı."
       },
       {
-        "card_title": "Yüksek Risk Bölgeleri",
-        "card_body": "Nature Climate Change'de yayınlanan 2023 çalışması, FEMA'nın yüksek riskli sel bölgelerindeki evlerin diğerlerinden ortalama yüzde 2.8 daha ucuza satıldığını gösterdi."
+        "card_title": "Artan Sigorta Maliyetleri",
+        "card_body": "2020'den bu yana mülk sigortası maliyetleri neredeyse yüzde 80 arttı ve ortalama ipotek sahibi ayda 209 dolar ödüyor."
       }
     ]
   },
   "impact": {
-    "heading": "Sigorta Maliyetleri Artıyor",
+    "heading": "Piyasa ve Konut Sektörüne Yansımalar",
     "cards": [
       {
-        "card_title": "Sigorta Artışları",
-        "card_body": "2020'den bu yana mülk sigortası maliyetleri neredeyse yüzde 80 oranında arttı."
+        "card_title": "Riskli Bölgelerdeki Fiyatlar",
+        "card_body": "Nature Climate Change çalışmasına göre FEMA yüksek riskli sel bölgelerindeki evler yüzde 2.8 daha ucuza satılıyor."
       },
       {
-        "card_title": "Aylık Ödemeler",
-        "card_body": "Ortalama tek ailelik konut ipoteği sahibi artık ayda 209 dolar ödüyor."
+        "card_title": "Sigorta ve Maliyet Yükü",
+        "card_body": "Yükselen sigorta maliyetleri ev sahiplerinin bütçesini zorlarken piyasa dengelerini de değiştiriyor."
       }
     ]
   },
   "cta": {
-    "question": "İklim risklerinin gayrimenkul ve sigorta sektöründeki bu dönüşümü hakkında ne düşünüyorsunuz?",
-    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için takipte kalın."
+    "question": "İklim risklerinin gayrimenkul piyasasını ve sigorta maliyetlerini nasıl dönüştüreceğini düşünüyorsunuz?",
+    "reminder_line": "Teknoloji ve ekonomi dünyasındaki gelişmeler için takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
