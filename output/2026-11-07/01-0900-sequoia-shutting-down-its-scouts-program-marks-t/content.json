@@ -1,69 +1,65 @@
 {
   "cover": {
-    "category_label": "YATIRIM DÜNYASI",
+    "category_label": "GİRİŞİMCİLİK VE YATIRIM",
     "title": "Sequoia Londra Ofisini Kapatıyor",
     "highlight_words": [
       "Sequoia",
       "Londra"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Girişim sermayesi devi Sequoia'dan Londra ofisi ve scout programı için kapanış kararı.",
+    "subtitle": "Sequoia X üzerinde yayımladığı notla geniş çaplı bir yapılandırmaya gidiyor.",
     "source_tags": [
       "TECHCRUNCH",
-      "BBC NEWS"
+      "BBC NEWS – TECHNOLOGY"
     ]
   },
   "context": {
-    "heading": "Büyük Değişim",
+    "heading": "Yatırım Dünyasında Yaprak Dökümü",
     "cards": [
       {
-        "card_title": "X Üzerinden Duyuru",
-        "card_body": "Sequoia, X platformunda yayınlanan bir notla geniş kapsamlı bir yeniden yapılandırma sürecini duyurdu."
+        "card_title": "Londra Ofisi Kapanıyor",
+        "card_body": "Sequoia, X üzerinde paylaştığı notta Londra ofisini kapatacağını ve scout programını sonlandıracağını duyurdu."
       },
       {
-        "card_title": "Kapsamlı Adımlar",
-        "card_body": "Yeniden yapılanma planı kapsamında Londra ofisinin kapatılması ve scout programının sonlandırılması yer alıyor."
+        "card_title": "17 Yıllık Model",
+        "card_body": "Sequoia, melek yatırımcıları ve erken aşama fırsatları bularak fonu besleyen scout modelinin öncülüğünü 17 yıl önce yapmıştı."
       }
     ]
   },
   "stat": {
-    "big_stat": "17 YIL",
-    "stat_caption": "Sequoia'nın öncülük ettiği scout programının geçmişi.",
-    "stat_quote": "Sequoia, 17 yıl önce scout modeline öncülük etmişti."
+    "big_stat": "17",
+    "stat_caption": "Sequoia'nın scout modelini öncülük ettiği yıl sayısı.",
+    "stat_quote": "Sequoia pioneered the scouts model 17 years ago."
   },
   "details": {
-    "heading": "Detaylar",
+    "heading": "Rekabet ve Değişen Stratejiler",
     "cards": [
       {
-        "card_title": "Scout Programı",
-        "card_body": "Sequoia tarafından 17 yıl önce başlatılan scout programı bu süreçte sonlandırılıyor."
+        "card_title": "A16z Küresel Ağ Kuruyor",
+        "card_body": "Rakip firma Andreessen Horowitz, ABD ve küçük Avrupa merkezlerindeki fırsatları yakalamak için küresel bir scout ağı kurdu."
       },
       {
-        "card_title": "Önemli İsimler",
-        "card_body": "Station F yöneticisi Roxanne Varza, 2020 ile 2025 yılları arasında Sequoia scout'u olarak görev yaptı."
-      },
-      {
-        "card_title": "Sektör Yorumları",
-        "card_body": "VC Sheel Mohnot bu hafta X üzerinde Sequoia'nın scout programına öncülük ettiği hakkında yorum yaptı."
+        "card_title": "Bütçeler Artırıldı",
+        "card_body": "A16z ortağı Gabriel Vasquez, en iyi insanlara odaklanarak programı yenilediklerini ve bütçeyi artırdıklarını belirtti."
       }
     ]
   },
   "impact": {
-    "heading": "Sektör Etkileri",
+    "heading": "Sektörün Tepkisi",
     "cards": [
       {
-        "card_title": "Rakip Hamleleri",
-        "card_body": "Rakip firma Andreessen Horowitz, ABD ve küçük Avrupa merkezlerindeki fırsatları yakalamak için küresel bir scout ağı kurdu."
+        "card_title": "Station F'in Açıklaması",
+        "card_body": "Station F yöneticisi Roxanne Varza, karardan duyduğu üzüntüyü dile getirerek diğer fonların bunu takip etmemesini umduğunu söyledi."
       },
       {
-        "card_title": "Ekosistem Yansımaları",
-        "card_body": "Londra ofisinin kapanması ve programın bitmesi girişim sermayesi ekosisteminde dikkat çeken gelişmeler arasında yer alıyor."
+        "card_title": "2020-2025 Dönemi",
+        "card_body": "Roxanne Varza, 2020 ile 2025 yılları arasında Sequoia scout'u olarak görev yapmıştı."
       }
     ]
   },
   "cta": {
-    "question": "Sequoia'nın bu hamlesi girişim sermayesi ekosistemini nasıl etkiler?",
-    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için takipte kalın."
+    "question": "Sizce risk sermayesi fonlarının bu tür scout programlarını sonlandırması sektörü nasıl etkiler?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

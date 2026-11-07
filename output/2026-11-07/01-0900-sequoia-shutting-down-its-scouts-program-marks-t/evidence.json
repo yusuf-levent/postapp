@@ -7,7 +7,7 @@
     "BBC News – Technology",
     "MIT Technology Review"
   ],
-  "checked_at": "2026-11-07T11:57:26+03:00",
+  "checked_at": "2026-11-07T12:04:34+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
@@ -32,17 +32,12 @@
       ]
     },
     {
-      "claim": "VC Sheel Mohnot commented on X this week about Sequoia pioneering the scout program.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-          "quote": "“They pioneered the scout program but [to be honest] it never made sense to me!” VC Sheel Mohnot wrote on X this week."
-        }
-      ]
+      "claim": "VC Sheel Mohnot wrote on X that the scout program never made sense to him and suggested other firms will shutter theirs too.",
+      "verdict": "not_found",
+      "evidence": []
     },
     {
-      "claim": "Rival firm Andreessen Horowitz rolled out a global scout network aimed at spotting opportunities in the U.S. and smaller European hubs.",
+      "claim": "Rival firm Andreessen Horowitz (a16z) rolled out a global scout network aimed at spotting opportunities in the U.S. and smaller European hubs.",
       "verdict": "supported",
       "evidence": [
         {
@@ -52,7 +47,27 @@
       ]
     },
     {
-      "claim": "Station F boss Roxanne Varza was a Sequoia scout from 2020 to 2025.",
+      "claim": "A16z partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its program to double down on the best people and reduced the number of scouts while giving them more budget.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+          "quote": "But a16z partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its program to double down “on the best people.” Under this new approach, Vasquez explained, scouts get more resources but are also expected to be more active... “They get more budget, but we have reduced the number,” he said."
+        }
+      ]
+    },
+    {
+      "claim": "Station F boss Roxanne Varza wrote on LinkedIn that she was sad to hear that Sequoia's program was getting cut off and hoped other funds would not follow suit.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+          "quote": "Among them is Station F boss Roxanne Varza, who wrote on LinkedIn that she was “sad” to hear that the program was getting cut off, and “hope[d] that other funds [w]on’t follow suit.”"
+        }
+      ]
+    },
+    {
+      "claim": "Roxanne Varza was a Sequoia scout from 2020 to 2025.",
       "verdict": "supported",
       "evidence": [
         {
@@ -84,17 +99,12 @@
       ]
     },
     {
-      "claim": "VC Sheel Mohnot commented on X this week about Sequoia pioneering the scout program.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-          "quote": "“They pioneered the scout program but [to be honest] it never made sense to me!” VC Sheel Mohnot wrote on X this week."
-        }
-      ]
+      "claim": "VC Sheel Mohnot wrote on X that the scout program never made sense to him and suggested other firms will shutter theirs too.",
+      "verdict": "not_found",
+      "evidence": []
     },
     {
-      "claim": "Rival firm Andreessen Horowitz rolled out a global scout network aimed at spotting opportunities in the U.S. and smaller European hubs.",
+      "claim": "Rival firm Andreessen Horowitz (a16z) rolled out a global scout network aimed at spotting opportunities in the U.S. and smaller European hubs.",
       "verdict": "supported",
       "evidence": [
         {
@@ -104,7 +114,27 @@
       ]
     },
     {
-      "claim": "Station F boss Roxanne Varza was a Sequoia scout from 2020 to 2025.",
+      "claim": "A16z partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its program to double down on the best people and reduced the number of scouts while giving them more budget.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+          "quote": "But a16z partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its program to double down “on the best people.” Under this new approach, Vasquez explained, scouts get more resources but are also expected to be more active... “They get more budget, but we have reduced the number,” he said."
+        }
+      ]
+    },
+    {
+      "claim": "Station F boss Roxanne Varza wrote on LinkedIn that she was sad to hear that Sequoia's program was getting cut off and hoped other funds would not follow suit.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+          "quote": "Among them is Station F boss Roxanne Varza, who wrote on LinkedIn that she was “sad” to hear that the program was getting cut off, and “hope[d] that other funds [w]on’t follow suit.”"
+        }
+      ]
+    },
+    {
+      "claim": "Roxanne Varza was a Sequoia scout from 2020 to 2025.",
       "verdict": "supported",
       "evidence": [
         {
@@ -136,17 +166,12 @@
       ]
     },
     {
-      "claim": "VC Sheel Mohnot commented on X this week about Sequoia pioneering the scout program.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-          "quote": "“They pioneered the scout program but [to be honest] it never made sense to me!” VC Sheel Mohnot wrote on X this week."
-        }
-      ]
+      "claim": "VC Sheel Mohnot wrote on X that the scout program never made sense to him and suggested other firms will shutter theirs too.",
+      "verdict": "not_found",
+      "evidence": []
     },
     {
-      "claim": "Rival firm Andreessen Horowitz rolled out a global scout network aimed at spotting opportunities in the U.S. and smaller European hubs.",
+      "claim": "Rival firm Andreessen Horowitz (a16z) rolled out a global scout network aimed at spotting opportunities in the U.S. and smaller European hubs.",
       "verdict": "supported",
       "evidence": [
         {
@@ -156,7 +181,27 @@
       ]
     },
     {
-      "claim": "Station F boss Roxanne Varza was a Sequoia scout from 2020 to 2025.",
+      "claim": "A16z partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its program to double down on the best people and reduced the number of scouts while giving them more budget.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+          "quote": "But a16z partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its program to double down “on the best people.” Under this new approach, Vasquez explained, scouts get more resources but are also expected to be more active... “They get more budget, but we have reduced the number,” he said."
+        }
+      ]
+    },
+    {
+      "claim": "Station F boss Roxanne Varza wrote on LinkedIn that she was sad to hear that Sequoia's program was getting cut off and hoped other funds would not follow suit.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+          "quote": "Among them is Station F boss Roxanne Varza, who wrote on LinkedIn that she was “sad” to hear that the program was getting cut off, and “hope[d] that other funds [w]on’t follow suit.”"
+        }
+      ]
+    },
+    {
+      "claim": "Roxanne Varza was a Sequoia scout from 2020 to 2025.",
       "verdict": "supported",
       "evidence": [
         {

@@ -3,7 +3,7 @@
 **Haber:** Sequoia shutting down its Scouts program marks the end of an era
 **Canonical URL:** https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/
 **Kaynaklar:** TechCrunch, Ars Technica, BBC News – Technology, MIT Technology Review
-**Kontrol zamanı:** 2026-11-07T11:57:26+03:00
+**Kontrol zamanı:** 2026-11-07T12:04:34+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
@@ -22,19 +22,29 @@
   - [https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/](https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/)
     > That’s partly because 17 years ago, Sequoia pioneered the scouts model, in which select founders and operators write checks on the firm’s behalf.
 
-### 3. VC Sheel Mohnot commented on X this week about Sequoia pioneering the scout program.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/](https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/)
-    > “They pioneered the scout program but [to be honest] it never made sense to me!” VC Sheel Mohnot wrote on X this week.
+### 3. VC Sheel Mohnot wrote on X that the scout program never made sense to him and suggested other firms will shutter theirs too.
+- **Karar:** ⚠️ `not_found`
+- **Kanıt:** yok
 
-### 4. Rival firm Andreessen Horowitz rolled out a global scout network aimed at spotting opportunities in the U.S. and smaller European hubs.
+### 4. Rival firm Andreessen Horowitz (a16z) rolled out a global scout network aimed at spotting opportunities in the U.S. and smaller European hubs.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/](https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/)
     > Rival firm Andreessen Horowitz (a16z), for instance, rolled out a global scout network aimed at spotting opportunities in the U.S. and also in smaller European hubs.
 
-### 5. Station F boss Roxanne Varza was a Sequoia scout from 2020 to 2025.
+### 5. A16z partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its program to double down on the best people and reduced the number of scouts while giving them more budget.
+- **Karar:** ✅ `supported`
+- **Kanıtlar:**
+  - [https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/](https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/)
+    > But a16z partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its program to double down “on the best people.” Under this new approach, Vasquez explained, scouts get more resources but are also expected to be more active... “They get more budget, but we have reduced the number,” he said.
+
+### 6. Station F boss Roxanne Varza wrote on LinkedIn that she was sad to hear that Sequoia's program was getting cut off and hoped other funds would not follow suit.
+- **Karar:** ✅ `supported`
+- **Kanıtlar:**
+  - [https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/](https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/)
+    > Among them is Station F boss Roxanne Varza, who wrote on LinkedIn that she was “sad” to hear that the program was getting cut off, and “hope[d] that other funds [w]on’t follow suit.”
+
+### 7. Roxanne Varza was a Sequoia scout from 2020 to 2025.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/](https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/)
@@ -48,9 +58,11 @@
 |-------|--------|--------|-------|
 | Sequoia announced a broad overhaul in a memo posted to X, wh | supported | supported | supported |
 | Sequoia pioneered the scouts model 17 years ago. | supported | supported | supported |
-| VC Sheel Mohnot commented on X this week about Sequoia pione | supported | supported | supported |
-| Rival firm Andreessen Horowitz rolled out a global scout net | supported | supported | supported |
-| Station F boss Roxanne Varza was a Sequoia scout from 2020 t | supported | supported | supported |
+| VC Sheel Mohnot wrote on X that the scout program never made | not_found | not_found | not_found |
+| Rival firm Andreessen Horowitz (a16z) rolled out a global sc | supported | supported | supported |
+| A16z partner Gabriel Vasquez told TechCrunch earlier this ye | supported | supported | supported |
+| Station F boss Roxanne Varza wrote on LinkedIn that she was  | supported | supported | supported |
+| Roxanne Varza was a Sequoia scout from 2020 to 2025. | supported | supported | supported |
 
 ## Kaynak Metinleri
 
