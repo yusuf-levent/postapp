@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "ELEKTRİKLİ ARAÇLAR",
+    "title": "Tesla'da Cybertruck Üretimi Azalıyor",
+    "highlight_words": [
+      "Cybertruck",
+      "Azalıyor"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Elon Musk, gelecek yıl Cybercab'e yer açmak için üretim stratejisini değiştiriyor.",
+    "source_tags": [
+      "THE VERGE",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Üretim Stratejisinde Değişim",
+    "cards": [
+      {
+        "card_title": "Cybercab Önceliği",
+        "card_body": "Elon Musk, Tesla'nın gelecek yıl Cybercab'e yer açmak amacıyla Cybertruck üretimini azaltacağını duyurdu."
+      },
+      {
+        "card_title": "Geçmişteki Beklenti",
+        "card_body": "Tesla, Cybertruck için yıllık 250.000 adetlik üretim ve talep hedefi belirlemişti."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "70.000",
+    "stat_caption": "Tesla'nın bugüne kadar gerçekleştirdiği toplam Cybertruck satışı.",
+    "stat_quote": "Elon Musk, 2019 yılındaki bir kazanç çağrısında Tesla Cybertruck'ın şimdiye kadarki en iyi ürünleri olduğunu belirtmişti. - BBC News"
+  },
+  "details": {
+    "heading": "Cybertruck'ın Mevcut Durumu",
+    "cards": [
+      {
+        "card_title": "Pazar Başarısı",
+        "card_body": "Cybertruck, 2024 yılının başlarında en çok satan premium elektrikli kamyonetlerden biri olmayı başardı."
+      },
+      {
+        "card_title": "Siyasi Bağışlar",
+        "card_body": "Elon Musk, Cumhuriyetçi adayların seçim kampanyalarına 445 milyon dolardan fazla bağış yaptı."
+      },
+      {
+        "card_title": "Teksas Harcamaları",
+        "card_body": "Musk, Teksas'taki seçim çalışmaları için 200 milyon dolardan fazla harcama gerçekleştirdi."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etki",
+    "cards": [
+      {
+        "card_title": "Üretim Dengesi",
+        "card_body": "Cybercab'e odaklanma kararı, Tesla'nın üretim hatlarındaki kaynak dağılımını ve önceliklerini yeniden şekillendiriyor."
+      },
+      {
+        "card_title": "Kullanıcı Beklentisi",
+        "card_body": "Üretimdeki azalma, premium elektrikli kamyonet segmentindeki arz dengesini ve teslimat sürelerini etkileyebilir."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce Tesla'nın Cybercab'e odaklanması, Cybertruck'ın popülaritesini nasıl etkiler?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri kaçırmamak için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

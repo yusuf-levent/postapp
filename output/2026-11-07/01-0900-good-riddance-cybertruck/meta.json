@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 183.3,
+  "candidates_tried": 1,
+  "gemini_calls": 17,
+  "canonical_url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
+  "generated_at": "2026-11-07T17:50:03+03:00"
+}
