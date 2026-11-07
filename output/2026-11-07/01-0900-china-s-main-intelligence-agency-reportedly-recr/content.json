@@ -1,69 +1,69 @@
 {
   "cover": {
     "category_label": "TEKNOLOJİ VE İSTİHBARAT",
-    "title": "NVIDIA CEO'su Jensen Huang ve Çin İddiaları",
+    "title": "NVIDIA CEO'su Jensen Huang'a Yönelik Casusluk İddiaları",
     "highlight_words": [
-      "Jensen Huang",
-      "Çin"
+      "Casusluk",
+      "İddiaları"
     ],
     "highlight_color": "yellow",
-    "subtitle": "New York Times raporuna göre NVIDIA'nın merkezinde yaşanan casusluk şüphesi.",
+    "subtitle": "Çin'in istihbarat faaliyetleri ve NVIDIA arasındaki karmaşık ilişki gündemde.",
     "source_tags": [
-      "THE VERGE",
-      "BBC NEWS"
+      "BBC NEWS",
+      "THE VERGE"
     ]
   },
   "context": {
     "heading": "Olayın Arka Planı",
     "cards": [
       {
-        "card_title": "İstihbarat İddiası",
-        "card_body": "Çin Devlet Güvenlik Bakanlığı'nın, NVIDIA CEO'su Jensen Huang hakkında bilgi toplamak için Alice Huang'ı görevlendirdiği öne sürüldü."
+        "card_title": "İstihbarat Faaliyetleri",
+        "card_body": "Çin Devlet Güvenlik Bakanlığı'nın, Jensen Huang hakkında bilgi toplamak amacıyla Alice Huang'ı işe aldığı iddia ediliyor."
       },
       {
-        "card_title": "İlişki Şüphesi",
-        "card_body": "ABD'li yetkililer, Jensen Huang ile Singapur merkezli Megaspeed yöneticisi Alice Huang arasında romantik bir ilişki olduğunu düşünüyor."
+        "card_title": "Romantik İlişki Şüphesi",
+        "card_body": "ABD'li yetkililer, Jensen Huang ile Megaspeed yöneticisi Alice Huang arasında romantik bir ilişki olduğuna inanıyor."
       }
     ]
   },
   "stat": {
     "big_stat": "MİLYARLARCA DOLAR",
-    "stat_caption": "Megaspeed firmasının NVIDIA'dan satın aldığı yapay zeka çipi hacmi.",
-    "stat_quote": "Megaspeed, Güneydoğu Asya'da veri merkezleri inşa ederek işlem gücünü Alibaba'ya kiralıyor."
+    "stat_caption": "Megaspeed'in NVIDIA'dan satın aldığı yapay zeka çiplerinin toplam değeri.",
+    "stat_quote": "New York Times, Ekim ayı sonunda Çin'in NVIDIA CEO'sunu hedef alan casusluk faaliyetlerine dair detaylı bir rapor yayınladı."
   },
   "details": {
-    "heading": "Soruşturma Süreci",
+    "heading": "İddiaların Detayları",
     "cards": [
+      {
+        "card_title": "Çip Erişimi İddiası",
+        "card_body": "Megaspeed'in, Güneydoğu Asya'daki veri merkezlerinde Alibaba'ya işlem gücü kiralayarak yasaklı çiplere erişim sağladığı öne sürülüyor."
+      },
       {
         "card_title": "NVIDIA'nın Yanıtı",
         "card_body": "NVIDIA, kendi iç soruşturmasında Megaspeed'in çip kaçakçılığı yaptığına dair herhangi bir kanıt bulamadığını açıkladı."
       },
       {
-        "card_title": "Raporlama",
-        "card_body": "New York Times, Ekim ayı sonunda Çin'in Alice Huang'ı NVIDIA CEO'sunu gözetlemek için kullandığını raporladı."
-      },
-      {
         "card_title": "Diplomatik Ziyaret",
-        "card_body": "ABD Başkanı Trump, bu yılın başlarında NVIDIA CEO'su ve Elon Musk ile birlikte Pekin'e bir ziyaret gerçekleştirmişti."
+        "card_body": "ABD Başkanı Trump, bu yılın başlarında Jensen Huang ve Elon Musk ile birlikte Pekin'e bir ziyaret gerçekleştirmişti."
       }
     ]
   },
   "impact": {
-    "heading": "Sektörel Yansımalar",
+    "heading": "Sektörel Etkiler",
     "cards": [
       {
-        "card_title": "Teknoloji Güvenliği",
-        "card_body": "Yapay zeka çiplerinin küresel tedarik zinciri ve istihbarat faaliyetleri arasındaki hassas denge tartışılıyor."
+        "card_title": "Güvenlik ve Denetim",
+        "card_body": "Teknoloji devlerinin tedarik zinciri güvenliği ve uluslararası istihbarat faaliyetleri arasındaki hassas denge sorgulanıyor."
       },
       {
-        "card_title": "Kurumsal Denetim",
-        "card_body": "Büyük teknoloji şirketlerinin iş ortaklıkları ve üst düzey yöneticilerinin güvenlik protokolleri mercek altına alınıyor."
+        "card_title": "Yapay Zeka Kısıtlamaları",
+        "card_body": "Çin'in yasaklı çiplere erişim sağlama çabaları, ABD'nin teknoloji ihracat kısıtlamalarının etkinliğini tartışmaya açıyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce teknoloji devlerinin uluslararası ilişkilerinde güvenlik sınırı nerede başlamalı?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeleri takip etmek için Tekno Pusula'yı takipte kalın."
+    "question": "Sizce teknoloji devleri, uluslararası casusluk faaliyetlerine karşı yeterince korunabiliyor mu?",
+    "reminder_line": "Tekno Pusula'yı takip ederek güncel teknoloji haberlerinden haberdar olun."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
