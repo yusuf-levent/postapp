@@ -7,12 +7,12 @@
     "BBC News – Technology",
     "Ars Technica"
   ],
-  "checked_at": "2026-11-07T17:12:50+03:00",
+  "checked_at": "2026-11-07T17:18:06+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Çin'in ana istihbarat teşkilatı olan Devlet Güvenlik Bakanlığı, NVIDIA CEO'su Jensen Huang hakkında bilgi toplaması için Alice Huang'ı işe aldı.",
+      "claim": "Çin'in ana istihbarat teşkilatı olan Devlet Güvenlik Bakanlığı, NVIDIA CEO'su Jensen Huang hakkında bilgi toplamak için Alice Huang'ı işe aldı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "claim": "New York Times, Çin'in Alice Huang'ı NVIDIA CEO'sunu gözetlemek için kullandığını Ekim ayı sonunda rapor etmiştir.",
+      "claim": "New York Times, Çin'in Alice Huang'ı NVIDIA CEO'sunu gözetlemek için kullandığını Ekim ayı sonunda raporladı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "claim": "Megaspeed, NVIDIA'dan milyarlarca dolarlık yapay zeka çipi satın almıştır.",
+      "claim": "Megaspeed, NVIDIA'dan milyarlarca dolar değerinde yapay zeka çipi satın almıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "claim": "Megaspeed, Güneydoğu Asya'da inşa ettiği veri merkezlerindeki bilgi işlem gücünü Alibaba'ya kiralamaktadır.",
+      "claim": "Megaspeed, Güneydoğu Asya'da veri merkezleri inşa ederek bu merkezlerin işlem gücünü Alibaba'ya kiralamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "claim": "NVIDIA, kendi iç soruşturmasında Megaspeed'in gelişmiş yapay zeka çiplerini Çin'e kaçırma planına karıştığına dair bir kanıt bulamamıştır.",
+      "claim": "NVIDIA, kendi iç soruşturmasında Megaspeed'in çip kaçakçılığı yaptığına dair herhangi bir kanıt bulamadığını açıklamıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "claim": "ABD Başkanı Trump, NVIDIA CEO'su ve Elon Musk ile bu yılın başlarında Pekin'e bir seyahat gerçekleştirmiştir.",
+      "claim": "ABD Başkanı Trump, NVIDIA CEO'su ve Elon Musk ile birlikte bu yılın başlarında Pekin'e bir ziyaret gerçekleştirmiştir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -94,7 +94,7 @@
   ],
   "round1": [
     {
-      "claim": "Çin'in ana istihbarat teşkilatı olan Devlet Güvenlik Bakanlığı, NVIDIA CEO'su Jensen Huang hakkında bilgi toplaması için Alice Huang'ı işe aldı.",
+      "claim": "Çin'in ana istihbarat teşkilatı olan Devlet Güvenlik Bakanlığı, NVIDIA CEO'su Jensen Huang hakkında bilgi toplamak için Alice Huang'ı işe aldı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "claim": "New York Times, Çin'in Alice Huang'ı NVIDIA CEO'sunu gözetlemek için kullandığını Ekim ayı sonunda rapor etmiştir.",
+      "claim": "New York Times, Çin'in Alice Huang'ı NVIDIA CEO'sunu gözetlemek için kullandığını Ekim ayı sonunda raporladı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "claim": "Megaspeed, NVIDIA'dan milyarlarca dolarlık yapay zeka çipi satın almıştır.",
+      "claim": "Megaspeed, NVIDIA'dan milyarlarca dolar değerinde yapay zeka çipi satın almıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "claim": "Megaspeed, Güneydoğu Asya'da inşa ettiği veri merkezlerindeki bilgi işlem gücünü Alibaba'ya kiralamaktadır.",
+      "claim": "Megaspeed, Güneydoğu Asya'da veri merkezleri inşa ederek bu merkezlerin işlem gücünü Alibaba'ya kiralamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "claim": "NVIDIA, kendi iç soruşturmasında Megaspeed'in gelişmiş yapay zeka çiplerini Çin'e kaçırma planına karıştığına dair bir kanıt bulamamıştır.",
+      "claim": "NVIDIA, kendi iç soruşturmasında Megaspeed'in çip kaçakçılığı yaptığına dair herhangi bir kanıt bulamadığını açıklamıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "claim": "ABD Başkanı Trump, NVIDIA CEO'su ve Elon Musk ile bu yılın başlarında Pekin'e bir seyahat gerçekleştirmiştir.",
+      "claim": "ABD Başkanı Trump, NVIDIA CEO'su ve Elon Musk ile birlikte bu yılın başlarında Pekin'e bir ziyaret gerçekleştirmiştir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -176,7 +176,7 @@
   ],
   "round2": [
     {
-      "claim": "Çin'in ana istihbarat teşkilatı olan Devlet Güvenlik Bakanlığı, NVIDIA CEO'su Jensen Huang hakkında bilgi toplaması için Alice Huang'ı işe aldı.",
+      "claim": "Çin'in ana istihbarat teşkilatı olan Devlet Güvenlik Bakanlığı, NVIDIA CEO'su Jensen Huang hakkında bilgi toplamak için Alice Huang'ı işe aldı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "claim": "New York Times, Çin'in Alice Huang'ı NVIDIA CEO'sunu gözetlemek için kullandığını Ekim ayı sonunda rapor etmiştir.",
+      "claim": "New York Times, Çin'in Alice Huang'ı NVIDIA CEO'sunu gözetlemek için kullandığını Ekim ayı sonunda raporladı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "claim": "Megaspeed, NVIDIA'dan milyarlarca dolarlık yapay zeka çipi satın almıştır.",
+      "claim": "Megaspeed, NVIDIA'dan milyarlarca dolar değerinde yapay zeka çipi satın almıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "claim": "Megaspeed, Güneydoğu Asya'da inşa ettiği veri merkezlerindeki bilgi işlem gücünü Alibaba'ya kiralamaktadır.",
+      "claim": "Megaspeed, Güneydoğu Asya'da veri merkezleri inşa ederek bu merkezlerin işlem gücünü Alibaba'ya kiralamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "claim": "NVIDIA, kendi iç soruşturmasında Megaspeed'in gelişmiş yapay zeka çiplerini Çin'e kaçırma planına karıştığına dair bir kanıt bulamamıştır.",
+      "claim": "NVIDIA, kendi iç soruşturmasında Megaspeed'in çip kaçakçılığı yaptığına dair herhangi bir kanıt bulamadığını açıklamıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "claim": "ABD Başkanı Trump, NVIDIA CEO'su ve Elon Musk ile bu yılın başlarında Pekin'e bir seyahat gerçekleştirmiştir.",
+      "claim": "ABD Başkanı Trump, NVIDIA CEO'su ve Elon Musk ile birlikte bu yılın başlarında Pekin'e bir ziyaret gerçekleştirmiştir.",
       "verdict": "supported",
       "evidence": [
         {
