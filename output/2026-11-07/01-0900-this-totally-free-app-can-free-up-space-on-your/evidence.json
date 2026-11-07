@@ -7,12 +7,12 @@
     "TechCrunch",
     "IEEE Spectrum"
   ],
-  "checked_at": "2026-11-07T14:32:33+03:00",
+  "checked_at": "2026-11-07T14:37:23+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Purge is a totally free, open source app that shows what is taking up space on a Mac hard drive.",
+      "claim": "Purge is a totally free and open-source app for Mac.",
       "verdict": "supported",
       "evidence": [
         {
@@ -54,9 +54,13 @@
       ]
     },
     {
-      "claim": "Deleting Apple Intelligence offline models through Purge could free up over 10 GB of space.",
+      "claim": "Deleting Apple Intelligence offline models can free up over 10 GB of space.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "which could free up over 10 GB."
+        },
         {
           "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
           "quote": "Purge can even delete Apple Intelligence's offline models from macOS 27, which could free up over 10 GB."
@@ -78,14 +82,43 @@
       ]
     },
     {
-      "claim": "Apple removed the toggle in macOS 27 that lets users disable AI features altogether.",
-      "verdict": "not_found",
-      "evidence": []
+      "claim": "The app includes a tool to manage and delete Apple's Aerial screen savers.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "You'll also see Apple's Aerial screen savers here. These videos are very cool, but take up a lot of space—delete them"
+        },
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "You'll also see Apple's Aerial screen savers here. These videos are very cool, but take up a lot of space—delete them if you, like most 21st-century people, don't use a screen saver."
+        }
+      ]
+    },
+    {
+      "claim": "Homebrew users can use Purge to delete cached installation files.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "If you use Homebrew, though, don't skip this—it's an easy way to delete cached installation files you don't need anymore."
+        }
+      ]
+    },
+    {
+      "claim": "Purge includes a tool for completely uninstalling apps along with their associated settings and caches.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "Up next is a tool for uninstalling apps. Note that this doesn't just remove the application—it also removes every file associated with it, including your settings, caches, and anything the application downloaded."
+        }
+      ]
     }
   ],
   "round1": [
     {
-      "claim": "Purge is a totally free, open source app that shows what is taking up space on a Mac hard drive.",
+      "claim": "Purge is a totally free and open-source app for Mac.",
       "verdict": "supported",
       "evidence": [
         {
@@ -127,9 +160,13 @@
       ]
     },
     {
-      "claim": "Deleting Apple Intelligence offline models through Purge could free up over 10 GB of space.",
+      "claim": "Deleting Apple Intelligence offline models can free up over 10 GB of space.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "which could free up over 10 GB."
+        },
         {
           "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
           "quote": "Purge can even delete Apple Intelligence's offline models from macOS 27, which could free up over 10 GB."
@@ -151,14 +188,43 @@
       ]
     },
     {
-      "claim": "Apple removed the toggle in macOS 27 that lets users disable AI features altogether.",
-      "verdict": "not_found",
-      "evidence": []
+      "claim": "The app includes a tool to manage and delete Apple's Aerial screen savers.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "You'll also see Apple's Aerial screen savers here. These videos are very cool, but take up a lot of space—delete them"
+        },
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "You'll also see Apple's Aerial screen savers here. These videos are very cool, but take up a lot of space—delete them if you, like most 21st-century people, don't use a screen saver."
+        }
+      ]
+    },
+    {
+      "claim": "Homebrew users can use Purge to delete cached installation files.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "If you use Homebrew, though, don't skip this—it's an easy way to delete cached installation files you don't need anymore."
+        }
+      ]
+    },
+    {
+      "claim": "Purge includes a tool for completely uninstalling apps along with their associated settings and caches.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "Up next is a tool for uninstalling apps. Note that this doesn't just remove the application—it also removes every file associated with it, including your settings, caches, and anything the application downloaded."
+        }
+      ]
     }
   ],
   "round2": [
     {
-      "claim": "Purge is a totally free, open source app that shows what is taking up space on a Mac hard drive.",
+      "claim": "Purge is a totally free and open-source app for Mac.",
       "verdict": "supported",
       "evidence": [
         {
@@ -200,9 +266,13 @@
       ]
     },
     {
-      "claim": "Deleting Apple Intelligence offline models through Purge could free up over 10 GB of space.",
+      "claim": "Deleting Apple Intelligence offline models can free up over 10 GB of space.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "which could free up over 10 GB."
+        },
         {
           "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
           "quote": "Purge can even delete Apple Intelligence's offline models from macOS 27, which could free up over 10 GB."
@@ -224,9 +294,38 @@
       ]
     },
     {
-      "claim": "Apple removed the toggle in macOS 27 that lets users disable AI features altogether.",
-      "verdict": "not_found",
-      "evidence": []
+      "claim": "The app includes a tool to manage and delete Apple's Aerial screen savers.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "You'll also see Apple's Aerial screen savers here. These videos are very cool, but take up a lot of space—delete them"
+        },
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "You'll also see Apple's Aerial screen savers here. These videos are very cool, but take up a lot of space—delete them if you, like most 21st-century people, don't use a screen saver."
+        }
+      ]
+    },
+    {
+      "claim": "Homebrew users can use Purge to delete cached installation files.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "If you use Homebrew, though, don't skip this—it's an easy way to delete cached installation files you don't need anymore."
+        }
+      ]
+    },
+    {
+      "claim": "Purge includes a tool for completely uninstalling apps along with their associated settings and caches.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+          "quote": "Up next is a tool for uninstalling apps. Note that this doesn't just remove the application—it also removes every file associated with it, including your settings, caches, and anything the application downloaded."
+        }
+      ]
     }
   ],
   "source_texts": {
