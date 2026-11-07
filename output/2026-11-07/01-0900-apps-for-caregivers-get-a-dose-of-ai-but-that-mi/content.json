@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE TEKNOLOJI",
+    "title": "Bakım Verenler İçin Dijital Çözümler",
+    "highlight_words": [
+      "Bakım",
+      "Dijital"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Hasta ve yaşlı bakımını kolaylaştıran teknolojiler hayatımızın merkezinde.",
+    "source_tags": [
+      "WIRED",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Bakım Verenlerin Güncel Tablosu",
+    "cards": [
+      {
+        "card_title": "Milyonlarca İnsan",
+        "card_body": "AARP verilerine göre 2025 yılında tahmini 63 milyon Amerikan vatandaşı tıbbi bir rahatsızlığı veya engeli olan yetişkinlere ya da çocuklara bakmıştır."
+      },
+      {
+        "card_title": "Yoğun Emek",
+        "card_body": "Bakım verenler ortalama olarak haftada 27 saate kadar bakım hizmeti sağlamaktadır."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "63 MİLYON",
+    "stat_caption": "2025 yılında tıbbi rahatsızlığı veya engeli olan bireylere bakan Amerikan vatandaşı sayısı.",
+    "stat_quote": "AARP verilerine göre bakım verenler haftada ortalama 27 saat çalışıyor."
+  },
+  "details": {
+    "heading": "Öne Çıkan Uygulamalar",
+    "cards": [
+      {
+        "card_title": "Medisafe",
+        "card_body": "2013 yılında oluşturulan Medisafe uygulaması, ilaçları takip eder ve dozların atlanmaması için hatırlatıcılar gönderir."
+      },
+      {
+        "card_title": "Caring Village ve Mejo",
+        "card_body": "2015'te kurulan Caring Village sağlık günlüğü sunar. Bret Koncak ise 2022'de Mejo'yu kurmuştur; premium sürümü aylık 6 dolar veya yıllık 60 dolardır."
+      },
+      {
+        "card_title": "Citizen Health",
+        "card_body": "Nasha Fitter, nadir bir hastalığı olan kızı dolayısıyla hastalar için tıbbi kayıtları toplayan Citizen Health'i 2024 yılında ortak kurucu Farid Vij ile piyasaya sürmüştür."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Gelecekteki Gelişmeler",
+    "cards": [
+      {
+        "card_title": "Briggzy Projesi",
+        "card_body": "Brett Rowell, Briggzy adlı uygulamayı daha geniş bir topluluğa 2027 yılında fırlatmayı ummaktadır."
+      },
+      {
+        "card_title": "Kolaylık Sağlayan Araçlar",
+        "card_body": "Randevu takvimi, ilaç takibi ve tıbbi kayıt toplama araçları bakım verenlerin yükünü hafifletmektedir."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Siz de bu tür dijital bakım uygulamalarını günlük hayatınızda kullanıyor musunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
