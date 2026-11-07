@@ -1,64 +1,68 @@
 {
   "cover": {
-    "category_label": "YAZILIM VE TEKNOLOJI",
-    "title": "Apple Intelligence Modellerini Temizleyen Uygulama",
+    "category_label": "TEKNOLOJI",
+    "title": "Mac'inizde Yer Açan Ücretsiz Uygulama: Purge",
     "highlight_words": [
-      "Apple Intelligence",
-      "Purge"
+      "Purge",
+      "Ücretsiz"
     ],
-    "highlight_color": "cyan",
-    "subtitle": "macOS üzerinde yer kaplayan çevrimdışı modelleri kaldırmak artık mümkün.",
+    "highlight_color": "yellow",
+    "subtitle": "Mac sabit sürücülerini reklamsız ve hiçbir ek satış sunmadan temizleyen açık kaynaklı bir araç.",
     "source_tags": [
       "WIRED",
       "THE VERGE"
     ]
   },
   "context": {
-    "heading": "Purge Uygulaması Nedir?",
+    "heading": "Purge Nedir?",
     "cards": [
       {
-        "card_title": "Tamamen Ücretsiz",
-        "card_body": "Purge, reklam veya uygulama içi satın alma barındırmayan tamamen ücretsiz ve açık kaynaklı bir uygulamadır."
+        "card_title": "Açık Kaynak ve Ücretsiz",
+        "card_body": "Purge, Mac sabit sürücülerini reklamsız ve upsell (ek satış) olmadan temizlemeye yardımcı olan tamamen ücretsiz bir açık kaynak uygulamasıdır."
       },
       {
         "card_title": "Güvenli Silme",
-        "card_body": "Uygulama, dosyaları doğrudan kalıcı olarak silmek yerine güvenli bir şekilde Çöp Kutusu'na gönderir."
+        "card_body": "Uygulama, dosyaları doğrudan silmek yerine Çöp Kutusu'na gönderir, böylece gerektiğinde dosyaları kurtarabilirsiniz."
       }
     ]
   },
   "stat": {
     "big_stat": "10 GB+",
-    "stat_caption": "macOS cihazlarında kazanılan depolama alanı miktarı.",
-    "stat_quote": "Purge, Apple Intelligence'ın çevrimdışı modellerini macOS sisteminden silerek 10 GB'tan fazla alan açabiliyor."
+    "stat_caption": "Apple Intelligence modellerini silerek kazanabileceğiniz alan.",
+    "stat_quote": "Purge, macOS 27 üzerindeki çevrimdışı Apple Intelligence modellerini silerek 10 GB'tan fazla alan açabiliyor."
   },
   "details": {
-    "heading": "Hangi Modeller Kaldırılıyor?",
+    "heading": "Uygulamanın Öne Çıkan Araçları",
     "cards": [
       {
-        "card_title": "Çevrimdışı Modeller",
-        "card_body": "Purge uygulaması, macOS 27 sürümündeki Apple Intelligence çevrimdışı modellerini hedef alır."
+        "card_title": "Önbellek ve Ekran Koruyucular",
+        "card_body": "Güvenli öğeleri temizleme, önbellekleri silme ve Apple'ın Aerial ekran koruyucularını kaldırma araçları içerir."
       },
       {
-        "card_title": "Güç Verilen Özellikler",
-        "card_body": "Bu modeller bildirim özetleri, yazım önerileri ve Siri gibi yapay zeka özelliklerini çalıştırmaktadır."
+        "card_title": "Geliştirici Araçları",
+        "card_body": "Homebrew kullanıcıları için önbelleğe alınmış kurulum dosyalarını sikebilen bir Dev Tools bölümü barındırır."
+      },
+      {
+        "card_title": "Kapsamlı Kaldırma",
+        "card_body": "Uygulamaları ve bunlara ait ayar ile önbellek gibi ilişkili dosyaları tamamen kaldıran bir araca sahiptir."
       }
     ]
   },
   "impact": {
-    "heading": "Kullanıcıya ve Sektöre Etkisi",
+    "heading": "Kullanıcıya ve Sisteme Etkisi",
     "cards": [
       {
-        "card_title": "Depolama Tasarrufu",
-        "card_body": "Yapay zeka özelliklerini kullanmayan veya depolama alanına ihtiyaç duyan kullanıcılar için önemli bir alan tasarrufu sağlar."
+        "card_title": "Yapay Zeka Modelleri",
+        "card_body": "Bildirim özetleri, yazım önerileri ve Siri'yi çalıştıran çevrimdışı yapay zeka modelleri sistemde önceden yüklü olarak gelir."
       },
       {
-        "card_title": "Açık Kaynak Özgürlüğü",
-        "card_body": "Açık kaynaklı olması, kullanıcıların sistemlerinde nelerin değiştirildiği konusunda tam şeffaflık sunar."
+        "card_title": "Artık Dosya Temizliği",
+        "card_body": "Daha önce silinmiş olan uygulamaların geride bıraktığı veri ve dosyaları gösteren bir araç da Purge ile sunulur."
       }
     ]
   },
   "cta": {
-    "question": "Bilgisayarınızda yer açmak için yapay zeka modellerini siler miydiniz?",
+    "question": "Mac'inizde yapay zeka modellerinin kapladığı alandan haberdar mıydınız?",
     "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",

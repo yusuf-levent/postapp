@@ -1,10 +1,10 @@
 {
   "slot": "09:00",
   "type": "news",
-  "model": "gemini-3.1-flash-lite",
-  "duration_seconds": 160.3,
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 75.4,
   "candidates_tried": 1,
-  "gemini_calls": 13,
+  "gemini_calls": 12,
   "canonical_url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
-  "generated_at": "2026-11-07T15:14:41+03:00"
+  "generated_at": "2026-11-07T15:18:20+03:00"
 }
