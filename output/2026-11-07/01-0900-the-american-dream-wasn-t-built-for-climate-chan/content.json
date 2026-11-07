@@ -1,69 +1,69 @@
 {
   "cover": {
     "category_label": "İKLİM VE EKONOMİ",
-    "title": "İklim Krizinin Emlak Piyasasına Etkisi",
+    "title": "İklim Değişikliği ve Konut Piyasası",
     "highlight_words": [
       "İklim",
-      "Krizinin"
+      "Konut"
     ],
     "highlight_color": "yellow",
-    "subtitle": "İklim riskleri ve artan sigorta maliyetleri Amerikan emlak piyasasını dönüştürüyor.",
+    "subtitle": "İklim risklerinin ev değerleri ve sigorta maliyetleri üzerindeki etkisini inceliyoruz.",
     "source_tags": [
       "WIRED",
-      "TECHCRUNCH"
+      "MIT TECHNOLOGY REVIEW"
     ]
   },
   "context": {
-    "heading": "YENİ YERLEŞİMLER VE RİSKLER",
+    "heading": "İklim Riskleri ve Gelecek Beklentisi",
     "cards": [
       {
-        "card_title": "ASHEVILLE'E TAŞINMA",
-        "card_body": "Sierra Isley ve kız arkadaşı Jamie, Philadelphia'dan Kuzey Karolina'nın Asheville şehrine taşınmıştır."
+        "card_title": "Gelecek Kaygısı",
+        "card_body": "Data for Progress anketine göre, ABD'li seçmenlerin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yılda hedeflerine ulaşmalarını engelleyeceğine inanıyor."
       },
       {
-        "card_title": "PİYASA DEĞERİ",
-        "card_body": "Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülmüştür."
+        "card_title": "Uzun Vadeli Projeksiyon",
+        "card_body": "First Street araştırmasına göre, iklim riskleri 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1,5 trilyon dolar silebilir."
       }
     ]
   },
   "stat": {
     "big_stat": "%80",
-    "stat_caption": "2020 yılından bu yana mülk sigortası maliyetlerindeki artış oranı",
-    "stat_quote": "2020 yılından bu yana mülk sigortası maliyetleri neredeyse yüzde 80 oranında artmıştır."
+    "stat_caption": "2020'den bu yana konut sigortası maliyetlerindeki artış oranı.",
+    "stat_quote": "Ortalama bir tek ailelik konut ipoteği sahibi artık aylık 209 dolar sigorta ödemesi yapıyor."
   },
   "details": {
-    "heading": "HAVA OLAYLARI VE HASARLAR",
+    "heading": "Bölgesel Etkiler ve Veriler",
     "cards": [
       {
-        "card_title": "AŞIRI YAĞIŞLAR",
-        "card_body": "Eylül 2024'te üç gün içinde Asheville'e yaklaşık 14 inç yağmur yağmıştır."
+        "card_title": "Asheville Örneği",
+        "card_body": "Eylül 2024'te Helene Kasırgası sırasında Asheville'e üç gün içinde yaklaşık 14 inç yağış düştü. Bölgede ev fiyatları son bir yılda yüzde 5 düştü."
       },
       {
-        "card_title": "BÜYÜK KAYIP",
-        "card_body": "Batı Kuzey Karolina'da 74.000'den fazla ev zarar görmüştür."
+        "card_title": "Sigortasız Kayıplar",
+        "card_body": "Batı Kuzey Carolina'da 74.000'den fazla ev hasar gördü. Sadece yüzde 4'ünün sel sigortası olması, 9,5 milyar dolarlık sigortasız konut kaybına yol açtı."
       },
       {
-        "card_title": "SİGORTA DURUMU",
-        "card_body": "Evlerin sadece yüzde 4 civarı sel sigortasına sahip olduğu için 9.5 milyar dolarlık sigortasız konut mülkü kaybı yaşanmıştır."
+        "card_title": "Riskli Bölgeler",
+        "card_body": "Nature Climate Change'de yayınlanan 2023 tarihli bir çalışmaya göre, FEMA'nın yüksek riskli sel bölgelerindeki evler, diğer evlere göre ortalama yüzde 2,8 daha ucuza satılıyor."
       }
     ]
   },
   "impact": {
-    "heading": "GELECEK ENDİŞELERİ",
+    "heading": "Ekonomik Yansımalar",
     "cards": [
       {
-        "card_title": "PİYASA BEKLENTİLERİ",
-        "card_body": "First Street firmasının raporuna göre iklim riskleri 2055'e kadar Amerikan evlerinin değerinden 1.5 trilyon dolar silebilir."
+        "card_title": "Sektörel Değişim",
+        "card_body": "Ulusal ortalamada ev fiyatları yüzde 1,2 artarken, risk altındaki bölgelerde fiyatların düşüş eğilimi göstermesi piyasa dengelerini değiştiriyor."
       },
       {
-        "card_title": "SEÇMEN ALGISI",
-        "card_body": "Seçmenlerin yüzde 58'i iklim değişikliğinin Amerikan Rüyası'nı engelleceğine inanıyor."
+        "card_title": "Kullanıcı Etkisi",
+        "card_body": "Artan sigorta maliyetleri ve düşen mülk değerleri, ev sahiplerinin finansal planlamalarını ve uzun vadeli yatırım kararlarını doğrudan etkiliyor."
       }
     ]
   },
   "cta": {
-    "question": "İklim riskleri gelecekte yerleşim tercihlerimizi nasıl etkileyecek?",
-    "reminder_line": "Teknoloji ve iklim gündemi için takipte kalın."
+    "question": "Sizce iklim riskleri, konut yatırımı yaparken karar verme sürecinizi nasıl değiştirmeli?",
+    "reminder_line": "Doğrulanmış verilerle teknoloji ve ekonomi dünyasını takip etmeye devam edin."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
