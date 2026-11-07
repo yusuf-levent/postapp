@@ -1,12 +1,12 @@
 {
   "cover": {
-    "category_label": "YAZILIM DÜNYASI",
-    "title": "Mac İçin Ücretsiz Temizlik Aracı: Purge",
+    "category_label": "YAZILIM",
+    "title": "Mac'inizde Yer Açan Açık Kaynaklı Uygulama: Purge",
     "highlight_words": [
       "Purge"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Apple Intelligence modellerini silerek 10 GB'tan fazla alan açın.",
+    "subtitle": "Mac kullanıcıları için geliştirilen Purge ile sabit diskinizde kolayca yer açın.",
     "source_tags": [
       "WIRED",
       "THE VERGE"
@@ -16,53 +16,49 @@
     "heading": "Purge Nedir?",
     "cards": [
       {
-        "card_title": "Tamamen Ücretsiz",
-        "card_body": "Purge, Mac kullanıcıları için tamamen açık kaynaklı ve ücretsiz olarak sunulan bir uygulamadır."
+        "card_title": "Ücretsiz ve Açık Kaynak",
+        "card_body": "Purge, Mac kullanıcılarının sabit disklerinde yer kaplayan dosyaları görmesini ve temizlemesini sağlayan tamamen ücretsiz ve açık kaynaklı bir uygulamadır."
       },
       {
         "card_title": "Reklamsız Deneyim",
-        "card_body": "Uygulama hiçbir şekilde reklam veya ücretli yükseltme (upsell) teklifleri içermez."
+        "card_body": "Purge uygulaması reklamlara veya eklenti satışlarına yer vermemektedir."
       }
     ]
   },
   "stat": {
-    "big_stat": "10 GB",
-    "stat_caption": "Apple Intelligence Çevrimdışı Modellerinin Kapladığı Alan",
-    "stat_quote": "Purge kullanarak Apple Intelligence modellerini Mac'inizden silebilir ve 10 GB'tan fazla depolama alanı kazanabilirsiniz."
+    "big_stat": "10 GB+",
+    "stat_caption": "Apple Intelligence modellerinin silinmesiyle kazanılan alan.",
+    "stat_quote": "Purge, macOS 27 sürümündeki Apple Intelligence çevrim dışı modellerini silebilir ve 10 GB'tan fazla alan açabilir."
   },
   "details": {
-    "heading": "Uygulamanın Öne Çıkan Özellikleri",
+    "heading": "Nasıl Temizlik Yapar?",
     "cards": [
       {
-        "card_title": "Güvenli Dosya Silme",
-        "card_body": "Purge, silinen dosyaları doğrudan kalıcı olarak silmek yerine Çöp Kutusu'na gönderir."
+        "card_title": "Güvenli Silme",
+        "card_body": "Purge, dosyaları doğrudan silmek yerine güvenli bir şekilde Çöp Kutusu'na gönderir."
       },
       {
-        "card_title": "Ekran Koruyucu Yönetimi",
-        "card_body": "Apple'ın Aerial ekran koruyucularını yönetmek ve silmek için özel bir araç içerir."
-      },
-      {
-        "card_title": "Homebrew ve Kaldırma Araçları",
-        "card_body": "Homebrew önbelleğe alınmış kurulum dosyalarını temizleyebilir ve uygulamaları artıklarıyla birlikte tamamen silebilirsiniz."
+        "card_title": "Artık Dosyalar",
+        "card_body": "Uygulama, halihazırda silinmiş olan uygulamaların geride bıraktığı verileri de temizleyebilir."
       }
     ]
   },
   "impact": {
-    "heading": "Kullanıcıya ve Sisteme Etkisi",
+    "heading": "Kullanıcıya Etkisi",
     "cards": [
       {
-        "card_title": "Depolama Alanı Tasarrufu",
-        "card_body": "Kullanıcılar istemedikleri büyük yapay zeka modellerini ve gereksiz önbellekleri kolayca temizleyebilir."
+        "card_title": "Depolama Alanı",
+        "card_body": "Kullanıcılar sabit disklerinde gereksiz yer kaplayan dosyalardan kolayca kurtulur."
       },
       {
-        "card_title": "Kolay Dosya Yönetimi",
-        "card_body": "Çöp Kutusu mantığı ve kapsamlı uygulama kaldırma araçları sayesinde sistem düzeni korunur."
+        "card_title": "Apple Intelligence",
+        "card_body": "Apple, macOS 27 sürümünde Apple Intelligence özelliklerinin tamamen devre dışı bırakılmasına olanak tanıyan bir seçenek sunmaktadır."
       }
     ]
   },
   "cta": {
-    "question": "Mac'inizde yer açmak için Apple Intelligence modellerini silmeyi düşünür müsünüz?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeler için takipte kalın."
+    "question": "Mac'inizde yer açmak için bu tür açık kaynaklı araçları güvenli buluyor musunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
