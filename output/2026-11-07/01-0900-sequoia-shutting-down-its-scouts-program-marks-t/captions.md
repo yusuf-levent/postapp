@@ -2,44 +2,48 @@
 
 ## INSTAGRAM
 
-Girişim sermayesi devi Sequoia Londra ofisini kapatma ve 17 yıllık scout programını sonlandırma kararı aldı! Teknoloji dünyasında büyük yankı uyandıran bu hamle, sektördeki stratejilerin değiştiğini gösteriyor. Sence scout programlarının dönemi kapanıyor mu? Kaynak: TechCrunch, BBC News
+Girişim sermayesi devi Sequoia büyük bir yapılandırmaya gidiyor! Londra ofisini kapatma ve scout programını sonlandırma kararı alan dev şirket, sektörde tüm gözleri üzerine çekti. 17 yıllık scout modeline öncülük eden Sequoia'nın bu hamlesi Avrupa ekosistemini nasıl etkiler? Sizce bu tür yapı değişiklikleri girişim dünyasını nasıl şekillendirir? Kaynak: TechCrunch, BBC News – Technology
 
-#Sequoia #GirişimSermayesi #Teknoloji #Yatırım #Startup #TechNews #Londra #VC #Business #News
+#Sequoia #GirişimSermayesi #Teknoloji #Yatırım #Londra #Girişim #Ekonomi #Startup #TechNews #VC
 
 ## TIKTOK
 
-Sequoia Londra ofisini neden kapattı ve 17 yıllık programını neden bitirdi? Girişim dünyasında büyük değişim! Kaynak: TechCrunch, BBC News
+Yatırım devi Sequoia Londra ofisini kapatıyor ve 17 yıllık efsane programını bitiriyor! Teknoloji dünyasında bu hamle ne anlama geliyor? Kaynak: TechCrunch
 
-#Sequoia #Girişim #Teknoloji #Yatırım #Haber
+#Sequoia #Girişim #Yatırım #Teknoloji #Haber
 
 ## X
 
-Girişim sermayesi devi Sequoia, Londra ofisini kapatma ve 17 yıllık scout programını sonlandırma kararı aldı. Sektörde stratejiler yeniden şekilleniyor. Kaynak: TechCrunch, BBC News
+Girişim sermayesi devi Sequoia, Londra ofisini kapatma ve 17 yıllık scout programını sonlandırma kararı aldı. Yatırım dünyasındaki bu büyük yapı değişikliği sektörü nasıl etkiler? Kaynak: TechCrunch, BBC News – Technology #Sequoia #GirişimSermayesi
 
-#Sequoia #Teknoloji
+#Sequoia #GirişimSermayesi
 
 ## THREADS
 
-Sequoia'dan Büyük Değişiklik 🚨
+Sequoia Londra Ofisini Kapatıyor!
 
-Girişim sermayesi devi Sequoia Londra ofisini kapatıyor ve 17 yıllık scout programını sonlandırıyor.
+Girişim sermayesi devi Sequoia, geniş kapsamlı bir yapı değişikliğine giderek Londra ofisini kapatma ve scout programını sonlandırma kararı aldı. 17 yıllık bu modelin ardından sektörde yeni stratejiler konuşulmaya başlandı.
 
-Sence girişim sermayesinde scout programlarının dönemi kapanıyor mu? 💭 Kaynak: TechCrunch, BBC News
+Sizce bu hamle Avrupa girişim ekosistemini nasıl etkiler?
+
+💭 Kaynak: TechCrunch
 
 #Sequoia
 
 ## LINKEDIN
 
-Girişim sermayesi ekosisteminde önemli bir dönüm noktası yaşanıyor. Sequoia, Londra ofisini kapatma ve 17 yıldır sürdürdüğü scout programını sonlandırma kararı aldı. Bu hamle, yatırım stratejilerinin küresel ölçekte yeniden değerlendirildiğini gösterirken, a16z gibi alternatif ağların önemini artırıyor. Sektördeki bu dönüşümü nasıl değerlendiriyorsunuz?
+Girişim sermayesi ekosisteminde çığır açan gelişmeler yaşanmaya devam ediyor. Sequoia, geniş kapsamlı yapısal değişiklikler kapsamında Londra ofisini kapatma ve 17 yıldır sürdürdüğü scout programını sonlandırma kararı aldı. Sektördeki bu dönüşüm, yatırım firmalarının stratejilerini yeniden gözden geçirdiğini gösteriyor. Sizce bu hamle küresel yatırım dinamiklerini nasıl değiştirecek?
 
-Kaynak: TechCrunch, BBC News
+Kaynak: TechCrunch, BBC News – Technology
 
-#GirişimSermayesi #Yatırım #Teknoloji #Startup #Business
+#GirişimSermayesi #Yatırım #Teknoloji #Startup #İşDünyası
 
 ## FACEBOOK
 
-Girişim sermayesi devi Sequoia'dan büyük değişiklik! Şirket, Londra ofisini kapatma ve 17 yıllık scout programını sonlandırma kararı aldığını duyurdu. Teknoloji dünyasındaki bu gelişme hakkında ne düşünüyorsunuz?
+Girişim sermayesi devi Sequoia geniş kapsamlı bir yapılandırmaya gidiyor! Londra ofisini kapatma ve scout programını sonlandırma kararı alan dev şirket, sektörde yeni bir dönemin sinyallerini veriyor. 17 yıllık geçmişe sahip bu modelin ardından yatırım firmaları stratejilerini güncelliyor.
 
-Kaynak: TechCrunch, BBC News
+Sizce bu tür yapı değişiklikleri girişim ekosistemini nasıl etkiler?
 
-#Sequoia #Teknoloji #GirişimSermayesi #Yatırım #Haber
+Kaynak: TechCrunch, BBC News – Technology
+
+#Sequoia #GirişimSermayesi #Teknoloji #Yatırım #Ekonomi
