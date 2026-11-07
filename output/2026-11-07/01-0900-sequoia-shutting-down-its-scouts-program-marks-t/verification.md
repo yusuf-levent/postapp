@@ -3,50 +3,54 @@
 **Haber:** Sequoia shutting down its Scouts program marks the end of an era
 **Canonical URL:** https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/
 **Kaynaklar:** TechCrunch, Ars Technica, BBC News – Technology, MIT Technology Review
-**Kontrol zamanı:** 2026-11-07T12:42:23+03:00
+**Kontrol zamanı:** 2026-11-07T12:47:33+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
 
 ## İddia Bazlı Sonuçlar
 
-### 1. Sequoia announced a broad overhaul including closing its London office and shutting down its scout program in a memo posted to X this week.
+### 1. Sequoia, Londra ofisini kapatacağını ve scout programını sonlandıracağını X üzerinden duyurdu.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/](https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/)
     > Sequoia this week announced a broad overhaul in a memo posted to X, a move that includes closing its London office and shutting down its scout program.
 
-### 2. Sequoia pioneered the scouts model 17 years ago.
+### 2. Sequoia, seçilmiş kurucuların ve operatörlerin firma adına yatırım yapabildiği scout modelini 17 yıl önce başlattı.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/](https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/)
     > That’s partly because 17 years ago, Sequoia pioneered the scouts model, in which select founders and operators write checks on the firm’s behalf.
-  - [https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/](https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/)
-    > That’s partly because 17 years ago, Sequoia pioneered the scouts model
 
-### 3. VC Sheel Mohnot wrote on X this week that the scout program never made sense to him and that scouts do not really care about the investments.
+### 3. VC Sheel Mohnot, X platformunda yaptığı paylaşımda Sequoia'nın scout programını eleştirdi.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/](https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/)
-    > “They pioneered the scout program but [to be honest] it never made sense to me!” VC Sheel Mohnot wrote on X this week. “The scouts themselves don’t really care that much about the investments
+    > “They pioneered the scout program but [to be honest] it never made sense to me!” VC Sheel Mohnot wrote on X this week.
 
-### 4. Andreessen Horowitz (a16z) partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its global scout program to double down on the best people.
+### 4. Andreessen Horowitz (a16z), ABD ve Avrupa'daki küçük merkezlerde fırsatları tespit etmek için küresel bir scout ağı kurdu.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/](https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/)
-    > Rival firm Andreessen Horowitz (a16z), for instance, rolled out a global scout network aimed at spotting opportunities in the U.S. and also in smaller European hubs. But a16z partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its program to double down “on the best people.”
+    > Rival firm Andreessen Horowitz (a16z), for instance, rolled out a global scout network aimed at spotting opportunities in the U.S. and also in smaller European hubs.
 
-### 5. Station F boss Roxanne Varza served as a Sequoia scout from 2020 to 2025.
+### 5. a16z ortağı Gabriel Vasquez, firmanın scout programını 'en iyi insanlara' odaklanacak şekilde revize ettiğini belirtti.
+- **Karar:** ✅ `supported`
+- **Kanıtlar:**
+  - [https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/](https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/)
+    > But a16z partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its program to double down “on the best people.”
+
+### 6. Roxanne Varza, 2020 ile 2025 yılları arasında Sequoia'nın scout'u olarak görev yaptı.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/](https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/)
     > Varza, a former Sequoia scout from 2020 to 2025, told TechCrunch that she had no information beyond what has been shared publicly
 
-### 6. Roxanne Varza wrote on LinkedIn that she was sad to hear that Sequoia's scout program was getting cut off and hoped that other funds would not follow suit.
+### 7. Station F yöneticisi Roxanne Varza, Sequoia'nın scout programını sonlandırma kararından duyduğu üzüntüyü LinkedIn üzerinden paylaştı.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/](https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/)
-    > Among them is Station F boss Roxanne Varza, who wrote on LinkedIn that she was “sad” to hear that the program was getting cut off, and “hope[d] that other funds [w]on’t follow suit.”
+    > Among them is Station F boss Roxanne Varza, who wrote on LinkedIn that she was “sad” to hear that the program was getting cut off
 
 ---
 
@@ -54,12 +58,13 @@
 
 | İddia | 1. Tur | 2. Tur | Nihai |
 |-------|--------|--------|-------|
-| Sequoia announced a broad overhaul including closing its Lon | supported | supported | supported |
-| Sequoia pioneered the scouts model 17 years ago. | supported | supported | supported |
-| VC Sheel Mohnot wrote on X this week that the scout program  | supported | supported | supported |
-| Andreessen Horowitz (a16z) partner Gabriel Vasquez told Tech | supported | supported | supported |
-| Station F boss Roxanne Varza served as a Sequoia scout from  | supported | supported | supported |
-| Roxanne Varza wrote on LinkedIn that she was sad to hear tha | supported | supported | supported |
+| Sequoia, Londra ofisini kapatacağını ve scout programını son | supported | supported | supported |
+| Sequoia, seçilmiş kurucuların ve operatörlerin firma adına y | supported | supported | supported |
+| VC Sheel Mohnot, X platformunda yaptığı paylaşımda Sequoia'n | supported | supported | supported |
+| Andreessen Horowitz (a16z), ABD ve Avrupa'daki küçük merkezl | supported | supported | supported |
+| a16z ortağı Gabriel Vasquez, firmanın scout programını 'en i | supported | supported | supported |
+| Roxanne Varza, 2020 ile 2025 yılları arasında Sequoia'nın sc | supported | supported | supported |
+| Station F yöneticisi Roxanne Varza, Sequoia'nın scout progra | supported | supported | supported |
 
 ## Kaynak Metinleri
 
