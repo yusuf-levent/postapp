@@ -7,7 +7,7 @@
     "BBC News – Technology",
     "MIT Technology Review"
   ],
-  "checked_at": "2026-11-07T11:32:53+03:00",
+  "checked_at": "2026-11-07T11:37:23+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
@@ -32,34 +32,38 @@
       ]
     },
     {
-      "claim": "VC Sheel Mohnot wrote on X that the scout program never made sense to him and that other firms will likely shutter theirs too.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "Andreessen Horowitz rolled out a global scout network aimed at spotting opportunities in the U.S. and smaller European hubs.",
+      "claim": "VC Sheel Mohnot wrote on X that the scout program never made sense to him.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-          "quote": "Rival firm Andreessen Horowitz (a16z), for instance, rolled out a global scout network aimed at spotting opportunities in the U.S. and also in smaller European hubs."
+          "quote": "“They pioneered the scout program but [to be honest] it never made sense to me!” VC Sheel Mohnot wrote on X this week."
         }
       ]
     },
     {
-      "claim": "a16z partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its program to give scouts more budget while reducing their number.",
+      "claim": "Andreessen Horowitz (a16z) partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its scout program to double down on the best people.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-          "quote": "But a16z partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its program to double down “on the best people.” Under this new approach, Vasquez explained, scouts get more resources but are also expected to be more active... “They get more budget, but we have reduced the number,” he said."
+          "quote": "But a16z partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its program to double down “on the best people.”"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+          "quote": "Rival firm Andreessen Horowitz (a16z), for instance, rolled out a global scout network aimed at spotting opportunities in the U.S. and also in smaller European hubs. But a16z partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its program to double down “on the best people.”"
         }
       ]
     },
     {
       "claim": "Station F boss Roxanne Varza was a Sequoia scout from 2020 to 2025.",
-      "verdict": "not_found",
-      "evidence": []
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+          "quote": "Varza, a former Sequoia scout from 2020 to 2025, told TechCrunch that she had no information beyond what has been shared publicly"
+        }
+      ]
     }
   ],
   "round1": [
@@ -84,34 +88,38 @@
       ]
     },
     {
-      "claim": "VC Sheel Mohnot wrote on X that the scout program never made sense to him and that other firms will likely shutter theirs too.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "Andreessen Horowitz rolled out a global scout network aimed at spotting opportunities in the U.S. and smaller European hubs.",
+      "claim": "VC Sheel Mohnot wrote on X that the scout program never made sense to him.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-          "quote": "Rival firm Andreessen Horowitz (a16z), for instance, rolled out a global scout network aimed at spotting opportunities in the U.S. and also in smaller European hubs."
+          "quote": "“They pioneered the scout program but [to be honest] it never made sense to me!” VC Sheel Mohnot wrote on X this week."
         }
       ]
     },
     {
-      "claim": "a16z partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its program to give scouts more budget while reducing their number.",
+      "claim": "Andreessen Horowitz (a16z) partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its scout program to double down on the best people.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-          "quote": "But a16z partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its program to double down “on the best people.” Under this new approach, Vasquez explained, scouts get more resources but are also expected to be more active... “They get more budget, but we have reduced the number,” he said."
+          "quote": "But a16z partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its program to double down “on the best people.”"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+          "quote": "Rival firm Andreessen Horowitz (a16z), for instance, rolled out a global scout network aimed at spotting opportunities in the U.S. and also in smaller European hubs. But a16z partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its program to double down “on the best people.”"
         }
       ]
     },
     {
       "claim": "Station F boss Roxanne Varza was a Sequoia scout from 2020 to 2025.",
-      "verdict": "not_found",
-      "evidence": []
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+          "quote": "Varza, a former Sequoia scout from 2020 to 2025, told TechCrunch that she had no information beyond what has been shared publicly"
+        }
+      ]
     }
   ],
   "round2": [
@@ -136,34 +144,38 @@
       ]
     },
     {
-      "claim": "VC Sheel Mohnot wrote on X that the scout program never made sense to him and that other firms will likely shutter theirs too.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "Andreessen Horowitz rolled out a global scout network aimed at spotting opportunities in the U.S. and smaller European hubs.",
+      "claim": "VC Sheel Mohnot wrote on X that the scout program never made sense to him.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-          "quote": "Rival firm Andreessen Horowitz (a16z), for instance, rolled out a global scout network aimed at spotting opportunities in the U.S. and also in smaller European hubs."
+          "quote": "“They pioneered the scout program but [to be honest] it never made sense to me!” VC Sheel Mohnot wrote on X this week."
         }
       ]
     },
     {
-      "claim": "a16z partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its program to give scouts more budget while reducing their number.",
+      "claim": "Andreessen Horowitz (a16z) partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its scout program to double down on the best people.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-          "quote": "But a16z partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its program to double down “on the best people.” Under this new approach, Vasquez explained, scouts get more resources but are also expected to be more active... “They get more budget, but we have reduced the number,” he said."
+          "quote": "But a16z partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its program to double down “on the best people.”"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+          "quote": "Rival firm Andreessen Horowitz (a16z), for instance, rolled out a global scout network aimed at spotting opportunities in the U.S. and also in smaller European hubs. But a16z partner Gabriel Vasquez told TechCrunch earlier this year that the firm had revamped its program to double down “on the best people.”"
         }
       ]
     },
     {
       "claim": "Station F boss Roxanne Varza was a Sequoia scout from 2020 to 2025.",
-      "verdict": "not_found",
-      "evidence": []
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+          "quote": "Varza, a former Sequoia scout from 2020 to 2025, told TechCrunch that she had no information beyond what has been shared publicly"
+        }
+      ]
     }
   ],
   "source_texts": {

@@ -2,48 +2,40 @@
 
 ## INSTAGRAM
 
-Girişim sermayesi devi Sequoia büyük bir yapılandırmaya gidiyor! Londra ofisini kapatma ve scout programını sonlandırma kararı alan dev şirket, sektörde tüm gözleri üzerine çekti. 17 yıllık scout modeline öncülük eden Sequoia'nın bu hamlesi Avrupa ekosistemini nasıl etkiler? Sizce bu tür yapı değişiklikleri girişim dünyasını nasıl şekillendirir? Kaynak: TechCrunch, BBC News – Technology
+Girişim sermayesi devi Sequoia'dan dev operasyonel değişim! Şirket, Londra ofisini kapatma ve 17 yıllık köklü scout programını sonlandırma kararı aldı. Teknoloji dünyasında yankı uyandıran bu hamle, sermaye piyasasındaki stratejilerin yeniden şekillendiğini gösteriyor. Sizce bu tür yapısal değişiklikler pazarı nasıl etkiler? Kaynak: TechCrunch ve BBC News
 
-#Sequoia #GirişimSermayesi #Teknoloji #Yatırım #Londra #Girişim #Ekonomi #Startup #TechNews #VC
+#Sequoia #GirişimSermayesi #Yatırım #Teknoloji #Londra #VC #Girişim #Finans #Startup #TechNews
 
 ## TIKTOK
 
-Yatırım devi Sequoia Londra ofisini kapatıyor ve 17 yıllık efsane programını bitiriyor! Teknoloji dünyasında bu hamle ne anlama geliyor? Kaynak: TechCrunch
+Sequoia 17 yıllık efsane programı bitirdi ve Londra ofisini kapatıyor! Girişim sermayesi dünyasında neler oluyor? Kaynak: TechCrunch
 
-#Sequoia #Girişim #Yatırım #Teknoloji #Haber
+#Sequoia #Girişim #Yatırım #Teknoloji #Finans
 
 ## X
 
-Girişim sermayesi devi Sequoia, Londra ofisini kapatma ve 17 yıllık scout programını sonlandırma kararı aldı. Yatırım dünyasındaki bu büyük yapı değişikliği sektörü nasıl etkiler? Kaynak: TechCrunch, BBC News – Technology #Sequoia #GirişimSermayesi
+Girişim sermayesi devi Sequoia, Londra ofisini kapatma ve 17 yıllık scout programını sonlandırma kararı aldı. Sektörde stratejiler yeniden yazılıyor. Kaynak: TechCrunch
 
 #Sequoia #GirişimSermayesi
 
 ## THREADS
 
-Sequoia Londra Ofisini Kapatıyor!
+Sequoia Londra Ofisini Kapatıyor
 
-Girişim sermayesi devi Sequoia, geniş kapsamlı bir yapı değişikliğine giderek Londra ofisini kapatma ve scout programını sonlandırma kararı aldı. 17 yıllık bu modelin ardından sektörde yeni stratejiler konuşulmaya başlandı.
+Girişim sermayesi devi Sequoia, geniş kapsamlı yeniden yapılandırma kapsamında Londra ofisini ve 17 yıllık scout programını sonlandırma kararı aldı.
 
-Sizce bu hamle Avrupa girişim ekosistemini nasıl etkiler?
-
-💭 Kaynak: TechCrunch
+Sektördeki bu büyük değişim hakkında ne düşünüyorsunuz? Kaynak: TechCrunch 💭
 
 #Sequoia
 
 ## LINKEDIN
 
-Girişim sermayesi ekosisteminde çığır açan gelişmeler yaşanmaya devam ediyor. Sequoia, geniş kapsamlı yapısal değişiklikler kapsamında Londra ofisini kapatma ve 17 yıldır sürdürdüğü scout programını sonlandırma kararı aldı. Sektördeki bu dönüşüm, yatırım firmalarının stratejilerini yeniden gözden geçirdiğini gösteriyor. Sizce bu hamle küresel yatırım dinamiklerini nasıl değiştirecek?
+Girişim sermayesi ekosisteminde önemli bir dönüm noktası yaşanıyor. Dev yatırım şirketi Sequoia, X üzerinden duyurduğu yeniden yapılandırma kararıyla Londra ofisini kapatma ve 17 yıllık scout programını sonlandırma adımı attı. Sektör oyuncuları bu hamleyi stratejik bir odaklanma olarak değerlendirirken, rakip yaklaşımlar da pazardaki dönüşümün hızlandığını gösteriyor. Girişim sermayesi dünyasındaki bu tür yapısal değişiklikler gelecekte pazarı nasıl şekillendirecek? Kaynak: TechCrunch ve BBC News
 
-Kaynak: TechCrunch, BBC News – Technology
-
-#GirişimSermayesi #Yatırım #Teknoloji #Startup #İşDünyası
+#GirişimSermayesi #Yatırım #Teknoloji #Strateji #Finans
 
 ## FACEBOOK
 
-Girişim sermayesi devi Sequoia geniş kapsamlı bir yapılandırmaya gidiyor! Londra ofisini kapatma ve scout programını sonlandırma kararı alan dev şirket, sektörde yeni bir dönemin sinyallerini veriyor. 17 yıllık geçmişe sahip bu modelin ardından yatırım firmaları stratejilerini güncelliyor.
+Girişim sermayesi dünyasından büyük haber! Sequoia, operasyonel değişim hamlesi kapsamında Londra ofisini kapatma ve 17 yıllık scout programını sonlandırma kararı aldığını duyurdu. Sektörde yankı uyandıran bu gelişme, yatırım stratejilerinin yeniden ele alındığını gösteriyor. Sizce bu tür yapısal değişiklikler pazarı nasıl etkiler? Kaynak: TechCrunch ve BBC News
 
-Sizce bu tür yapı değişiklikleri girişim ekosistemini nasıl etkiler?
-
-Kaynak: TechCrunch, BBC News – Technology
-
-#Sequoia #GirişimSermayesi #Teknoloji #Yatırım #Ekonomi
+#Sequoia #GirişimSermayesi #Teknoloji #Yatırım #Finans
