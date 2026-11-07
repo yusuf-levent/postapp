@@ -5,7 +5,7 @@
     "The Verge",
     "Ars Technica"
   ],
-  "checked_at": "2026-11-07T16:59:18+03:00",
+  "checked_at": "2026-11-07T17:03:09+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
@@ -24,7 +24,7 @@
       ]
     },
     {
-      "claim": "Sony MDR-3R kulaklıkların satış fiyatı 60 dolardır.",
+      "claim": "Sony MDR-3R kulaklıkların fiyatı 60 dolardır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -38,17 +38,7 @@
       ]
     },
     {
-      "claim": "Tristan Homsi, Readwise şirketinin kurucu ortaklarından biridir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "I’ve talked to Tristan Homsi, one of the Readwise cofounders, a few times over the years"
-        }
-      ]
-    },
-    {
-      "claim": "Tristan Homsi, kişisel telefon olarak iPhone 13 kullanmaktadır.",
+      "claim": "Tristan Homsi, iPhone 13 modelini kullanmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -56,6 +46,11 @@
           "quote": "The phone: iPhone 13 (!).Believe it or not, I chose to buy this relatively outdated phone last year"
         }
       ]
+    },
+    {
+      "claim": "Kagi arama motoru, kullanıcılarına ödeme yapmadan önce 50 ücretsiz arama hakkı sunmaktadır.",
+      "verdict": "not_found",
+      "evidence": []
     },
     {
       "claim": "BeReal uygulaması 2022 yılında popülerlik kazanmıştır.",
@@ -72,26 +67,27 @@
       ]
     },
     {
-      "claim": "Kagi arama motoru, kullanıcılarına ödeme yapmadan önce 50 ücretsiz arama hakkı sunmaktadır.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
       "claim": "Kagi arama motorunun aylık abonelik ücreti 10 dolardır.",
       "verdict": "not_found",
       "evidence": []
     },
     {
-      "claim": "Tristan Homsi, günlük ulaşım aracı olarak San Francisco'da Bay Wheels kullanmaktadır.",
+      "claim": "Tristan Homsi, Readwise'ın kurucu ortaklarından biridir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "Bay Wheels is my main mode of commute around San Francisco daily."
-        },
+          "quote": "I’ve talked to Tristan Homsi, one of the Readwise cofounders, a few times over the years"
+        }
+      ]
+    },
+    {
+      "claim": "Godzilla Minus One filmi üç yıl önce vizyona girmiştir.",
+      "verdict": "supported",
+      "evidence": [
         {
           "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "Strava and Runmeter are awesome for tracking my runs… and Bay Wheels is my main mode of commute around San Francisco daily."
+          "quote": "Three years ago, Godzilla Minus One was a big hit and a surprisingly great movie."
         }
       ]
     }
@@ -112,7 +108,7 @@
       ]
     },
     {
-      "claim": "Sony MDR-3R kulaklıkların satış fiyatı 60 dolardır.",
+      "claim": "Sony MDR-3R kulaklıkların fiyatı 60 dolardır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -126,17 +122,7 @@
       ]
     },
     {
-      "claim": "Tristan Homsi, Readwise şirketinin kurucu ortaklarından biridir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "I’ve talked to Tristan Homsi, one of the Readwise cofounders, a few times over the years"
-        }
-      ]
-    },
-    {
-      "claim": "Tristan Homsi, kişisel telefon olarak iPhone 13 kullanmaktadır.",
+      "claim": "Tristan Homsi, iPhone 13 modelini kullanmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -144,6 +130,11 @@
           "quote": "The phone: iPhone 13 (!).Believe it or not, I chose to buy this relatively outdated phone last year"
         }
       ]
+    },
+    {
+      "claim": "Kagi arama motoru, kullanıcılarına ödeme yapmadan önce 50 ücretsiz arama hakkı sunmaktadır.",
+      "verdict": "not_found",
+      "evidence": []
     },
     {
       "claim": "BeReal uygulaması 2022 yılında popülerlik kazanmıştır.",
@@ -160,26 +151,27 @@
       ]
     },
     {
-      "claim": "Kagi arama motoru, kullanıcılarına ödeme yapmadan önce 50 ücretsiz arama hakkı sunmaktadır.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
       "claim": "Kagi arama motorunun aylık abonelik ücreti 10 dolardır.",
       "verdict": "not_found",
       "evidence": []
     },
     {
-      "claim": "Tristan Homsi, günlük ulaşım aracı olarak San Francisco'da Bay Wheels kullanmaktadır.",
+      "claim": "Tristan Homsi, Readwise'ın kurucu ortaklarından biridir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "Bay Wheels is my main mode of commute around San Francisco daily."
-        },
+          "quote": "I’ve talked to Tristan Homsi, one of the Readwise cofounders, a few times over the years"
+        }
+      ]
+    },
+    {
+      "claim": "Godzilla Minus One filmi üç yıl önce vizyona girmiştir.",
+      "verdict": "supported",
+      "evidence": [
         {
           "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "Strava and Runmeter are awesome for tracking my runs… and Bay Wheels is my main mode of commute around San Francisco daily."
+          "quote": "Three years ago, Godzilla Minus One was a big hit and a surprisingly great movie."
         }
       ]
     }
@@ -200,7 +192,7 @@
       ]
     },
     {
-      "claim": "Sony MDR-3R kulaklıkların satış fiyatı 60 dolardır.",
+      "claim": "Sony MDR-3R kulaklıkların fiyatı 60 dolardır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -214,17 +206,7 @@
       ]
     },
     {
-      "claim": "Tristan Homsi, Readwise şirketinin kurucu ortaklarından biridir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "I’ve talked to Tristan Homsi, one of the Readwise cofounders, a few times over the years"
-        }
-      ]
-    },
-    {
-      "claim": "Tristan Homsi, kişisel telefon olarak iPhone 13 kullanmaktadır.",
+      "claim": "Tristan Homsi, iPhone 13 modelini kullanmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -232,6 +214,11 @@
           "quote": "The phone: iPhone 13 (!).Believe it or not, I chose to buy this relatively outdated phone last year"
         }
       ]
+    },
+    {
+      "claim": "Kagi arama motoru, kullanıcılarına ödeme yapmadan önce 50 ücretsiz arama hakkı sunmaktadır.",
+      "verdict": "not_found",
+      "evidence": []
     },
     {
       "claim": "BeReal uygulaması 2022 yılında popülerlik kazanmıştır.",
@@ -248,26 +235,27 @@
       ]
     },
     {
-      "claim": "Kagi arama motoru, kullanıcılarına ödeme yapmadan önce 50 ücretsiz arama hakkı sunmaktadır.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
       "claim": "Kagi arama motorunun aylık abonelik ücreti 10 dolardır.",
       "verdict": "not_found",
       "evidence": []
     },
     {
-      "claim": "Tristan Homsi, günlük ulaşım aracı olarak San Francisco'da Bay Wheels kullanmaktadır.",
+      "claim": "Tristan Homsi, Readwise'ın kurucu ortaklarından biridir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "Bay Wheels is my main mode of commute around San Francisco daily."
-        },
+          "quote": "I’ve talked to Tristan Homsi, one of the Readwise cofounders, a few times over the years"
+        }
+      ]
+    },
+    {
+      "claim": "Godzilla Minus One filmi üç yıl önce vizyona girmiştir.",
+      "verdict": "supported",
+      "evidence": [
         {
           "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-          "quote": "Strava and Runmeter are awesome for tracking my runs… and Bay Wheels is my main mode of commute around San Francisco daily."
+          "quote": "Three years ago, Godzilla Minus One was a big hit and a surprisingly great movie."
         }
       ]
     }

@@ -1,68 +1,69 @@
 {
   "cover": {
-    "category_label": "TEKNOLOJİ DÜNYASINDAN",
-    "title": "Tristan Homsi ve Teknoloji Tercihleri",
+    "category_label": "TEKNOLOJİ GÜNDEMİ",
+    "title": "Teknoloji Dünyasından Kısa Notlar",
     "highlight_words": [
-      "Tristan Homsi"
+      "Teknoloji",
+      "Notlar"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Readwise kurucu ortağının günlük teknoloji kullanımı ve güncel gelişmeler.",
+    "subtitle": "Donanım fiyatlarından popüler uygulamalara kadar güncel bilgiler.",
     "source_tags": [
       "THE VERGE",
       "ARS TECHNICA"
     ]
   },
   "context": {
-    "heading": "Readwise ve Tristan Homsi",
+    "heading": "Donanım ve Yazılım Dünyası",
     "cards": [
       {
-        "card_title": "Kurucu Ortak",
-        "card_body": "Tristan Homsi, popüler okuma ve not alma platformu Readwise'ın kurucu ortaklarından biri olarak tanınıyor."
+        "card_title": "3D Yazıcı Teknolojisi",
+        "card_body": "Bambu Lab H3C 3D yazıcı modeli, piyasada 2.500 dolarlık fiyat etiketiyle yer alıyor."
       },
       {
-        "card_title": "Kişisel Tercihler",
-        "card_body": "Homsi, günlük kişisel telefon tercihi olarak iPhone 13 modelini kullanmayı tercih ediyor."
+        "card_title": "Ses Ekipmanları",
+        "card_body": "Sony MDR-3R kulaklık modelleri ise 60 dolarlık fiyatıyla kullanıcıların karşısına çıkıyor."
       }
     ]
   },
   "stat": {
-    "big_stat": "2.500 $",
+    "big_stat": "2.500$",
     "stat_caption": "Bambu Lab H3C 3D yazıcının piyasa satış fiyatı.",
-    "stat_quote": "3D baskı dünyasında Bambu Lab H3C, 2.500 dolarlık fiyat etiketiyle dikkat çeken bir seçenek olarak konumlanıyor."
+    "stat_quote": "Teknoloji dünyasında fiyatlandırmalar, donanım özelliklerine göre geniş bir yelpazede değişiyor."
   },
   "details": {
-    "heading": "Teknoloji ve Ulaşım",
+    "heading": "Kişiler ve Uygulamalar",
     "cards": [
       {
-        "card_title": "Ulaşım Tercihi",
-        "card_body": "Tristan Homsi, San Francisco'daki günlük ulaşım ihtiyaçları için Bay Wheels sistemini kullanıyor."
+        "card_title": "Tristan Homsi",
+        "card_body": "Readwise'ın kurucu ortaklarından biri olan Tristan Homsi, günlük kullanımda iPhone 13 tercih ediyor."
       },
       {
-        "card_title": "Ses Ekipmanı",
-        "card_body": "Sony MDR-3R kulaklıklar, 60 dolarlık satış fiyatıyla teknoloji meraklılarına sunulan bir seçenek."
+        "card_title": "BeReal'ın Yükselişi",
+        "card_body": "Sosyal medya uygulaması BeReal, 2022 yılında büyük bir popülerlik kazanarak dikkatleri üzerine çekti."
       },
       {
-        "card_title": "Sosyal Medya Trendi",
-        "card_body": "BeReal uygulaması, kullanıcıların doğal anlarını paylaşma odağıyla 2022 yılında büyük bir popülerlik kazandı."
+        "card_title": "Sinema Dünyası",
+        "card_body": "Godzilla Minus One filmi, vizyona girişinin üzerinden üç yıl geçmiş bir yapım olarak hatırlanıyor."
       }
     ]
   },
   "impact": {
-    "heading": "Kullanıcı ve Sektör Etkisi",
+    "heading": "Sektörel Yansımalar",
     "cards": [
       {
-        "card_title": "Sektörel Yansıma",
-        "card_body": "Bambu Lab gibi markaların 3D yazıcı pazarındaki fiyatlandırma stratejileri, profesyonel üretim araçlarına erişimi etkiliyor."
+        "card_title": "Donanım Erişilebilirliği",
+        "card_body": "Farklı fiyat segmentlerindeki cihazlar, hem profesyonel hem de bireysel kullanıcılar için seçenek sunuyor."
       },
       {
-        "card_title": "Kullanıcı Alışkanlıkları",
-        "card_body": "BeReal'ın 2022'deki yükselişi, sosyal medya kullanıcılarının daha samimi ve filtresiz içeriklere yöneldiğini gösterdi."
+        "card_title": "Dijital Alışkanlıklar",
+        "card_body": "Popüler uygulamalar ve tercih edilen cihazlar, kullanıcıların dijital yaşam tarzlarını şekillendiriyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce teknoloji dünyasında kurucuların kişisel tercihlerini bilmek, ürünlere bakış açımızı değiştiriyor mu?",
-    "reminder_line": "Tekno Pusula'yı takipte kalın, güncel gelişmelerden haberdar olun."
+    "question": "Sizce teknolojik cihaz seçimlerinizde fiyat mı yoksa marka mı daha belirleyici?",
+    "reminder_line": "Tekno Pusula ile güncel kalmaya devam edin."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
