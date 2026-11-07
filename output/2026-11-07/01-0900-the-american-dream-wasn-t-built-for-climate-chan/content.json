@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "İKLİM VE EKONOMİ",
+    "title": "İklim Değişikliği ve Emlak Piyasasında Büyük Risk",
+    "highlight_words": [
+      "İklim Değişikliği",
+      "Emlak Piyasası"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Doğal afetler ve yükselen maliyetler konut değerlerini nasıl etkiliyor?",
+    "source_tags": [
+      "WIRED",
+      "MIT TECHNOLOGY REVIEW"
+    ]
+  },
+  "context": {
+    "heading": "İklim Riskleri ve Konut Değerleri",
+    "cards": [
+      {
+        "card_title": "Geleceğe Dair Projeksiyonlar",
+        "card_body": "First Street raporuna göre, iklim riskleri 2055 yılına kadar ABD'deki konut değerlerinden yaklaşık 1,5 trilyon dolar silebilir."
+      },
+      {
+        "card_title": "Toplumsal Endişe",
+        "card_body": "Data for Progress anketine göre, seçmenlerin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yılda hayallerine ulaşmalarını engelleyeceğine inanıyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "%80",
+    "stat_caption": "2020'den bu yana emlak sigortası maliyetlerindeki artış oranı.",
+    "stat_quote": "Ortalama bir tek ailelik konut mortgage sahibi artık aylık 209 dolar sigorta ödemesi yapıyor."
+  },
+  "details": {
+    "heading": "Afetlerin Gerçek Maliyeti",
+    "cards": [
+      {
+        "card_title": "Asheville Örneği",
+        "card_body": "Eylül 2024'te Helene Kasırgası sırasında Asheville'e üç günde yaklaşık 14 inç yağış düştü. Bölgede konut fiyatları yıllık yüzde 5 düştü."
+      },
+      {
+        "card_title": "Sigortasız Kayıplar",
+        "card_body": "Batı Kuzey Carolina'da 74.000'den fazla ev hasar gördü. Sadece yüzde 4'ünün sel sigortası olması, 9,5 milyar dolarlık sigortasız kayba yol açtı."
+      },
+      {
+        "card_title": "Riskli Bölge Etkisi",
+        "card_body": "Nature Climate Change çalışmasına göre, FEMA'nın yüksek riskli sel bölgelerindeki evler, diğerlerine göre ortalama yüzde 2,8 daha ucuza satılıyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel ve Bireysel Etkiler",
+    "cards": [
+      {
+        "card_title": "Emlak Piyasası Dinamikleri",
+        "card_body": "Ulusal ortalama yüzde 1,2 artış gösterirken, riskli bölgelerdeki fiyat düşüşleri piyasadaki dengeleri değiştiriyor."
+      },
+      {
+        "card_title": "Bireysel Bütçeler",
+        "card_body": "Artan sigorta primleri ve sel riski, ev sahiplerinin finansal planlamalarını ve konut erişilebilirliğini doğrudan zorlaştırıyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce konut alırken iklim risklerini değerlendirmek, gelecekteki finansal güvenliğimiz için ne kadar kritik?",
+    "reminder_line": "Tekno Pusula ile güncel verileri takip etmeye devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
