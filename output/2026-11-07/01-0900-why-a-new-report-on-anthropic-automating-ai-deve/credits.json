@@ -1,0 +1,27 @@
+{
+  "images": [
+    {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Dario_Amodei_at_TechCrunch_Disrupt_2023_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-07/01-0900-why-a-new-report-on-anthropic-automating-ai-deve/images/img-1.png",
+      "license": "",
+      "author": "",
+      "credit_url": "https://en.wikipedia.org/wiki/Dario%20Amodei",
+      "width": 1500,
+      "height": 1941,
+      "alt_text": "Dario Amodei"
+    },
+    {
+      "source": "ogimage",
+      "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.752607989199%2C100%2C78.494784021602&amp;w=1200",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-07/01-0900-why-a-new-report-on-anthropic-automating-ai-deve/images/img-2.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "width": 4000,
+      "height": 2668,
+      "alt_text": ""
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}

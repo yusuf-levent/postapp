@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA GELİŞMELERİ",
+    "title": "Anthropic Modelleri İki Kat Hızla Gelişiyor",
+    "highlight_words": [
+      "İki Kat",
+      "Hızla"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "METR raporu, Anthropic'in yapay zeka modellerindeki çarpıcı ilerlemeyi gözler önüne serdi.",
+    "source_tags": [
+      "THE VERGE",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "METR Raporu Ne Diyor?",
+    "cards": [
+      {
+        "card_title": "11 Haftalık İnceleme",
+        "card_body": "METR, Anthropic bünyesinde 11 hafta süren detaylı bir inceleme gerçekleştirdi ve sonuçları Perşembe günü yayınladı."
+      },
+      {
+        "card_title": "Hızlanan Gelişim",
+        "card_body": "Yayınlanan rapora göre, Anthropic'in yapay zeka modelleri bir yıl öncesine kıyasla yaklaşık iki kat daha hızlı gelişiyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "12 KAT",
+    "stat_caption": "Anthropic çalışanlarının yapay zeka desteğiyle elde ettiği üretkenlik artışı.",
+    "stat_quote": "Çalışanlar, şirketin en yetenekli iç modelini kullanırken yapay zeka desteği olmadan çalıştıklarına kıyasla yaklaşık 12 kat daha üretken olduklarını bildirdi."
+  },
+  "details": {
+    "heading": "Gelecek Modeller Yolda",
+    "cards": [
+      {
+        "card_title": "Yeni Kod Adları",
+        "card_body": "Anthropic, Model 2, Model 3 ve Model 4 kod adlarına sahip henüz yayınlanmamış üç modeli eğitmeyi tamamladı."
+      },
+      {
+        "card_title": "Eğitim Takvimi",
+        "card_body": "Bu modeller sırasıyla Temmuz, Ağustos-Eylül ve Eylül-Ekim aylarında eğitim süreçlerini tamamladı."
+      },
+      {
+        "card_title": "Şeffaflık ve Sansür",
+        "card_body": "Anthropic, METR'in 100 sayfalık raporunun büyük kısmını sansürledi. Kurucu ortak Sam McCandlish bunu X üzerinden doğruladı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel ve Kullanıcı Etkisi",
+    "cards": [
+      {
+        "card_title": "Üretkenlikte Yeni Standart",
+        "card_body": "Yapay zeka modellerinin 12 kat üretkenlik artışı sağlaması, iş süreçlerinde köklü bir değişimin habercisi olabilir."
+      },
+      {
+        "card_title": "Hızlanan İnovasyon Döngüsü",
+        "card_body": "Modellerin bir yıl öncesine göre iki kat daha hızlı gelişmesi, yapay zeka yarışının ne kadar ivme kazandığını gösteriyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce yapay zeka modellerinin bu denli hızlı gelişmesi, iş dünyasında nasıl bir dönüşüm yaratacak?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri kaçırmamak için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

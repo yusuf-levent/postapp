@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 113.2,
+  "candidates_tried": 1,
+  "gemini_calls": 14,
+  "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+  "generated_at": "2026-11-07T15:34:13+03:00"
+}

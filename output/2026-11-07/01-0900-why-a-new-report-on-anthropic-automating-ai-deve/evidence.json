@@ -1,0 +1,262 @@
+{
+  "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+  "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+  "source_names": [
+    "The Verge",
+    "TechCrunch",
+    "Wired",
+    "Google Blog"
+  ],
+  "checked_at": "2026-11-07T15:33:10+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "METR tarafından yayınlanan rapora göre, Anthropic'in yapay zeka modelleri bir yıl öncesine kıyasla yaklaşık iki kat daha hızlı gelişiyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "quote": "One of METR’s most noteworthy findings is that Anthropic’s AI models are improving roughly twice as quickly as they were a year ago"
+        }
+      ]
+    },
+    {
+      "claim": "METR, Anthropic bünyesinde 11 hafta süren bir incelemenin ardından Perşembe günü bir rapor yayınladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "quote": "That’s according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation inside the company"
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic çalışanları, şirketin en yetenekli iç modelini kullanırken yapay zeka desteği olmadan çalıştıklarına kıyasla yaklaşık 12 kat daha üretken olduklarını bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "quote": "METR wrote that employees using Anthropic’s most capable internal model on average self-reported being around 12 times as productive at their respective work as they would have been without AI assistance"
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic, Model 2, Model 3 ve Model 4 kod adlarına sahip henüz yayınlanmamış üç modeli eğitmeyi tamamladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "quote": "Over the past six months, Anthropic has finished training three models it has yet to release, according to METR. The pace of development is swift, with the models — codenamed Model 2, Model 3, and Model 4 — completing training in July, August-September, and September-October, respectively."
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic'in henüz yayınlamadığı Model 2, Model 3 ve Model 4 isimli modeller sırasıyla Temmuz, Ağustos-Eylül ve Eylül-Ekim aylarında eğitimlerini tamamladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "quote": "the models — codenamed Model 2, Model 3, and Model 4 — completing training in July, August-September, and September-October, respectively."
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "quote": "The pace of development is swift, with the models — codenamed Model 2, Model 3, and Model 4 — completing training in July, August-September, and September-October, respectively."
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic, METR'in hazırladığı yaklaşık 100 sayfalık raporun büyük bir kısmını kamuya açık versiyonda sansürledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "quote": "“We submitted a ~100-page full report on our assessment to Anthropic. For the public version, Anthropic redacted a majority of the evidence we found most informative,” METR wrote on X."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, Eylül ayında yaptığı açıklamada Mart 2028'e kadar derin öğrenme ve hizalama konusunda ilerleme kaydedebilecek bir yapay zeka araştırmacısı geliştirmeye çalıştığını belirtti.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Anthropic kurucu ortağı Sam McCandlish, X platformunda yaptığı paylaşımda raporun bazı kısımlarının sansürlendiğini doğruladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "quote": "“We redacted a lot, and I accept that this makes it harder for others to check METR’s work,” Anthropic cofounder Sam McCandlish acknowledged in a lengthy post on X responding to METR’s findings."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "METR tarafından yayınlanan rapora göre, Anthropic'in yapay zeka modelleri bir yıl öncesine kıyasla yaklaşık iki kat daha hızlı gelişiyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "quote": "One of METR’s most noteworthy findings is that Anthropic’s AI models are improving roughly twice as quickly as they were a year ago"
+        }
+      ]
+    },
+    {
+      "claim": "METR, Anthropic bünyesinde 11 hafta süren bir incelemenin ardından Perşembe günü bir rapor yayınladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "quote": "That’s according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation inside the company"
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic çalışanları, şirketin en yetenekli iç modelini kullanırken yapay zeka desteği olmadan çalıştıklarına kıyasla yaklaşık 12 kat daha üretken olduklarını bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "quote": "METR wrote that employees using Anthropic’s most capable internal model on average self-reported being around 12 times as productive at their respective work as they would have been without AI assistance"
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic, Model 2, Model 3 ve Model 4 kod adlarına sahip henüz yayınlanmamış üç modeli eğitmeyi tamamladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "quote": "Over the past six months, Anthropic has finished training three models it has yet to release, according to METR. The pace of development is swift, with the models — codenamed Model 2, Model 3, and Model 4 — completing training in July, August-September, and September-October, respectively."
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic'in henüz yayınlamadığı Model 2, Model 3 ve Model 4 isimli modeller sırasıyla Temmuz, Ağustos-Eylül ve Eylül-Ekim aylarında eğitimlerini tamamladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "quote": "the models — codenamed Model 2, Model 3, and Model 4 — completing training in July, August-September, and September-October, respectively."
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "quote": "The pace of development is swift, with the models — codenamed Model 2, Model 3, and Model 4 — completing training in July, August-September, and September-October, respectively."
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic, METR'in hazırladığı yaklaşık 100 sayfalık raporun büyük bir kısmını kamuya açık versiyonda sansürledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "quote": "“We submitted a ~100-page full report on our assessment to Anthropic. For the public version, Anthropic redacted a majority of the evidence we found most informative,” METR wrote on X."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, Eylül ayında yaptığı açıklamada Mart 2028'e kadar derin öğrenme ve hizalama konusunda ilerleme kaydedebilecek bir yapay zeka araştırmacısı geliştirmeye çalıştığını belirtti.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Anthropic kurucu ortağı Sam McCandlish, X platformunda yaptığı paylaşımda raporun bazı kısımlarının sansürlendiğini doğruladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "quote": "“We redacted a lot, and I accept that this makes it harder for others to check METR’s work,” Anthropic cofounder Sam McCandlish acknowledged in a lengthy post on X responding to METR’s findings."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "METR tarafından yayınlanan rapora göre, Anthropic'in yapay zeka modelleri bir yıl öncesine kıyasla yaklaşık iki kat daha hızlı gelişiyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "quote": "One of METR’s most noteworthy findings is that Anthropic’s AI models are improving roughly twice as quickly as they were a year ago"
+        }
+      ]
+    },
+    {
+      "claim": "METR, Anthropic bünyesinde 11 hafta süren bir incelemenin ardından Perşembe günü bir rapor yayınladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "quote": "That’s according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation inside the company"
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic çalışanları, şirketin en yetenekli iç modelini kullanırken yapay zeka desteği olmadan çalıştıklarına kıyasla yaklaşık 12 kat daha üretken olduklarını bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "quote": "METR wrote that employees using Anthropic’s most capable internal model on average self-reported being around 12 times as productive at their respective work as they would have been without AI assistance"
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic, Model 2, Model 3 ve Model 4 kod adlarına sahip henüz yayınlanmamış üç modeli eğitmeyi tamamladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "quote": "Over the past six months, Anthropic has finished training three models it has yet to release, according to METR. The pace of development is swift, with the models — codenamed Model 2, Model 3, and Model 4 — completing training in July, August-September, and September-October, respectively."
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic'in henüz yayınlamadığı Model 2, Model 3 ve Model 4 isimli modeller sırasıyla Temmuz, Ağustos-Eylül ve Eylül-Ekim aylarında eğitimlerini tamamladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "quote": "the models — codenamed Model 2, Model 3, and Model 4 — completing training in July, August-September, and September-October, respectively."
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "quote": "The pace of development is swift, with the models — codenamed Model 2, Model 3, and Model 4 — completing training in July, August-September, and September-October, respectively."
+        }
+      ]
+    },
+    {
+      "claim": "Anthropic, METR'in hazırladığı yaklaşık 100 sayfalık raporun büyük bir kısmını kamuya açık versiyonda sansürledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "quote": "“We submitted a ~100-page full report on our assessment to Anthropic. For the public version, Anthropic redacted a majority of the evidence we found most informative,” METR wrote on X."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, Eylül ayında yaptığı açıklamada Mart 2028'e kadar derin öğrenme ve hizalama konusunda ilerleme kaydedebilecek bir yapay zeka araştırmacısı geliştirmeye çalıştığını belirtti.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Anthropic kurucu ortağı Sam McCandlish, X platformunda yaptığı paylaşımda raporun bazı kısımlarının sansürlendiğini doğruladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "quote": "“We redacted a lot, and I accept that this makes it harder for others to check METR’s work,” Anthropic cofounder Sam McCandlish acknowledged in a lengthy post on X responding to METR’s findings."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development": 13315,
+    "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/": 6537,
+    "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/": 7143,
+    "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/": 950
+  }
+}
