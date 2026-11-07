@@ -1,66 +1,69 @@
 {
   "cover": {
-    "category_label": "GİRİŞİMCİLİK VE YATIRIM",
-    "title": "Sequoia Londra Ofisini ve Scout Programını Kapatıyor",
+    "category_label": "GİRİŞİM DÜNYASI",
+    "title": "Sequoia Londra Ofisini Kapatıyor",
     "highlight_words": [
       "Sequoia",
-      "Londra",
-      "Scout"
+      "Kapatıyor"
     ],
-    "highlight_color": "yellow",
-    "subtitle": "Dünyaca ünlü yatırım devi Sequoia, X'te yayınlanan bir notla geniş kapsamlı bir yapılandırmaya gidiyor.",
+    "highlight_color": "cyan",
+    "subtitle": "Yatırım devi Sequoia'dan büyük yapısal değişim kararı.",
     "source_tags": [
       "TECHCRUNCH",
       "BBC NEWS"
     ]
   },
   "context": {
-    "heading": "Sequoia'dan Büyük Yapılandırma Kararı",
+    "heading": "Sequoia'dan Büyük Revizyon",
     "cards": [
       {
-        "card_title": "X Üzerinden Duyuruldu",
-        "card_body": "Sequoia, X'te yayınlanan bir notla Londra ofisini kapatacağını ve scout programını sonlandıracağını duyurdu."
+        "card_title": "Ofis Kapanışı",
+        "card_body": "Sequoia, X üzerinde yayınlanan bir notla Londra ofisini kapatacağını duyurdu."
       },
       {
-        "card_title": "17 Yıllık Model",
-        "card_body": "Sequoia, bugün sonlandırma kararı aldığı scout modelini tam 17 yıl önce başlatmıştı."
+        "card_title": "Scout Programı",
+        "card_body": "Şirket, 17 yıl önce öncülük ettiği meşhur scout programını da sonlandırma kararı aldı."
       }
     ]
   },
   "stat": {
     "big_stat": "17 YIL",
-    "stat_caption": "Sequoia'nın öncülük ettiği scout programının geçmişi.",
-    "stat_quote": "Station F yöneticisi Roxanne Varza, Sequoia'nın scout programının kesilmesini duymaktan üzüntü duyduğunu belirtti."
+    "stat_caption": "Sequoia'nın öncülük ettiği scout modelinin piyasadaki geçmişi.",
+    "stat_quote": "Scout programı asla mantıklı gelmemişti."
   },
   "details": {
-    "heading": "Sektörde Neler Oluyor?",
+    "heading": "Sektör Tepkileri ve Diğer Hamleler",
     "cards": [
       {
-        "card_title": "Scout Programına Eleştiri",
-        "card_body": "VC Sheel Mohnot, scout programının kendisine hiç mantıklı gelmediğini ve scout'ların yatırımlarla o kadar da ilgilenmediğini ifade etti."
+        "card_title": "Sektör Görüşü",
+        "card_body": "VC Sheel Mohnot, programın kendisine hiç mantıklı gelmediğini ve diğer firmaların da kapatabileceğini belirtti."
       },
       {
-        "card_title": "Roxanne Varza'nın Açıklaması",
-        "card_body": "2020 ile 2025 yılları arasında Sequoia scout'u olarak görev yapan Roxanne Varza, LinkedIn üzerinden üzüntüsünü paylaştı."
+        "card_title": "a16z Hamlesi",
+        "card_body": "Andreessen Horowitz (a16z), ABD ve Avrupa'daki fırsatları yakalamak için global bir scout ağı kurdu."
+      },
+      {
+        "card_title": "Station F",
+        "card_body": "Station F yöneticisi Roxanne Varza, 2020-2025 yılları arasında Sequoia scout'u olarak görev yapmıştı."
       }
     ]
   },
   "impact": {
-    "heading": "Diğer Yatırımcıların Hamleleri",
+    "heading": "Girişim Ekosistemine Etkisi",
     "cards": [
       {
-        "card_title": "Andreessen Horowitz Adımı",
-        "card_body": "A16z, ABD ve küçük Avrupa merkezlerindeki fırsatları yakalamak amacıyla küresel bir scout ağı kurdu."
+        "card_title": "Programın Sonu",
+        "card_body": "Station F patronu Roxanne Varza, Sequoia'nın scout programının kesilmesinden duyduğu üzüntüyü paylaştı."
       },
       {
-        "card_title": "Programın Yenilenmesi",
-        "card_body": "A16z ortağı Gabriel Vasquez, en iyi insanlara odaklanmak için programlarını yenilediklerini belirtti."
+        "card_title": "Yatırım Stratejileri",
+        "card_body": "a16z partneri Gabriel Vasquez, en iyi insanlara odaklanmak için programlarını yenilediklerini belirtti."
       }
     ]
   },
   "cta": {
-    "question": "Sizce yatırım dünyasında scout modelleri gelecekte varlığını sürdürebilecek mi?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için bizi takipte kalın!"
+    "question": "Sizce büyük yatırım firmalarının scout programlarını sonlandırması sektörü nasıl etkileyecek?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
