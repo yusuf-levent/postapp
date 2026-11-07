@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "YAZILIM GÜNCELLEMELERİ",
+    "title": "Samsung One UI 9 ile Gelen Yenilikler",
+    "highlight_words": [
+      "One UI 9",
+      "Yenilikler"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Kullanıcı deneyimini kişiselleştiren ve verimliliği artıran yeni özellikler.",
+    "source_tags": [
+      "ENGADGET",
+      "THE VERGE"
+    ]
+  },
+  "context": {
+    "heading": "Arayüzde Neler Değişti?",
+    "cards": [
+      {
+        "card_title": "Kişiselleştirilmiş Kilit Ekranı",
+        "card_body": "One UI 9 güncellemesi, kilit ekranındaki fotoğrafınızla uyumlu çalışan yapay zeka destekli bir saat tasarımı sunuyor."
+      },
+      {
+        "card_title": "Bağımsız Karanlık Mod",
+        "card_body": "Karanlık mod artık ekran kaydırıcısından ayrıldı ve hızlı erişim için bağımsız bir düğme haline getirildi."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "%84",
+    "stat_caption": "Mobil oyun dünyasının büyüklüğü",
+    "stat_quote": "Araştırmalar, oyuncuların yüzde 84'ünün telefonlarını oyun oynamak için kullandığını gösteriyor. - Wired"
+  },
+  "details": {
+    "heading": "Öne Çıkan Yeni Özellikler",
+    "cards": [
+      {
+        "card_title": "Gelişmiş Kamera Seçeneği",
+        "card_body": "Fotoğraf çekimlerinde daha önce bulunmayan 24MP çözünürlük seçeneği artık kullanıcıların hizmetinde."
+      },
+      {
+        "card_title": "Canlı Veri Hızı Monitörü",
+        "card_body": "Wi-Fi ve hücresel bağlantı hızlarını, ekranın üst kısmındaki durum çubuğundan anlık olarak takip edebilirsiniz."
+      },
+      {
+        "card_title": "Çoklu Uygulama Deneyimi",
+        "card_body": "One UI 9 ile ekranınızda aynı anda en fazla üç uygulamayı aktif olarak çalıştırabilirsiniz."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcıya Etkisi",
+    "cards": [
+      {
+        "card_title": "Verimlilik Artışı",
+        "card_body": "Aynı anda üç uygulama çalıştırma imkanı, mobil cihazlarda çoklu görev yapmayı daha pratik hale getiriyor."
+      },
+      {
+        "card_title": "Daha Akıllı Deneyim",
+        "card_body": "Yapay zeka destekli saat ve özelleştirilebilir kamera ayarları, cihazın kişisel ihtiyaçlara daha iyi yanıt vermesini sağlıyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce bu özelliklerden hangisi günlük kullanımınızı en çok kolaylaştıracak?",
+    "reminder_line": "Tekno Pusula'yı takipte kalın, güncellemeleri kaçırmayın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
