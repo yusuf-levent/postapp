@@ -12,20 +12,9 @@
       "alt_text": "MacBook Pro"
     },
     {
-      "source": "wikimedia",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/IPad_Mini.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-07/01-0900-engadget-review-recap-apple-devices-googlebooks/images/img-2.png",
-      "license": "",
-      "author": "",
-      "credit_url": "https://en.wikipedia.org/wiki/iPad%20mini",
-      "width": 3472,
-      "height": 4624,
-      "alt_text": "iPad mini"
-    },
-    {
       "source": "ogimage",
       "url": "https://www.engadget.com/img/gallery/engadget-review-recap-apple-devices-googlebooks-and-kindles/l-intro-1793982286.jpg",
-      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-07/01-0900-engadget-review-recap-apple-devices-googlebooks/images/img-3.png",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-07/01-0900-engadget-review-recap-apple-devices-googlebooks/images/img-2.png",
       "license": "Kaynak makale görseli",
       "author": "",
       "credit_url": "https://www.engadget.com/2309200/engadget-review-recap-apple-devices-googlebooks-and-kindles/",
@@ -36,14 +25,34 @@
     {
       "source": "pexels",
       "url": "https://images.pexels.com/photos/6592698/pexels-photo-6592698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-07/01-0900-engadget-review-recap-apple-devices-googlebooks/images/img-4.png",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-07/01-0900-engadget-review-recap-apple-devices-googlebooks/images/img-3.png",
       "license": "Pexels License — Mikhail Nilov",
       "author": "Mikhail Nilov",
       "credit_url": "https://www.pexels.com/photo/a-laptop-on-the-table-6592698/",
       "width": 1093,
       "height": 1300,
       "alt_text": "A sleek laptop with a blank screen on a modern, minimalistic workspace desk with accessories."
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/12743408/pexels-photo-12743408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-07/01-0900-engadget-review-recap-apple-devices-googlebooks/images/img-4.png",
+      "license": "Pexels License — Rubaitul Azad",
+      "author": "Rubaitul Azad",
+      "credit_url": "https://www.pexels.com/photo/gadgets-on-modern-technology-12743408/",
+      "width": 1085,
+      "height": 1300,
+      "alt_text": "Top view of modern apple electronics including laptops, smartphone, and accessories on a dark background."
     }
   ],
-  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir.",
+  "music": [
+    {
+      "title": "Torley Wong - The Final Selection ::: 230 diverse MP3s",
+      "artist": "Torley Wong",
+      "license": "Creative Commons (ticari kullanıma uygun)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/us/",
+      "source_url": "https://archive.org/details/Torley_Wong_-_The_Final_Selection"
+    }
+  ]
 }

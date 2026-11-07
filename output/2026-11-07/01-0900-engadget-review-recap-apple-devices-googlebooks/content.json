@@ -1,68 +1,68 @@
 {
   "cover": {
-    "category_label": "TEKNOLOJİ GÜNDEMİ",
-    "title": "Teknoloji Dünyasında Yeni Ürünler ve İncelemeler",
+    "category_label": "TEKNOLOJİ DÜNYASINDAN HABERLER",
+    "title": "Apple ve Samsung'dan Yeni Cihazlar",
     "highlight_words": [
-      "Yeni Ürünler",
-      "İncelemeler"
+      "Apple",
+      "Samsung"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Apple, Amazon ve dizüstü bilgisayar pazarındaki son gelişmeleri mercek altına alıyoruz.",
+    "subtitle": "Yeni MacBook Pro, iPad mini ve Galaxy Watch Ultra 2 modelleri teknoloji dünyasında.",
     "source_tags": [
       "ENGADGET",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Teknoloji Dünyasında Hareketli Günler",
+    "heading": "Yeni Donanım Duyuruları",
     "cards": [
       {
-        "card_title": "Apple'dan Yeni Donanımlar",
-        "card_body": "Apple geçtiğimiz hafta üç yeni Mac modeli ve yenilenmiş bir iPad mini modelini teknoloji dünyasına tanıttı."
+        "card_title": "Apple'dan Yeni MacBook Pro",
+        "card_body": "Apple, PROLED XDR ekranlı ve dokunmatik özellikli yeni bir MacBook Pro modelini teknoloji dünyasına tanıttı."
       },
       {
-        "card_title": "İnceleme Trafiği Artıyor",
-        "card_body": "Engadget, son iki haftada 13 yeni inceleme yayınladı ve önümüzdeki hafta için altı yeni inceleme daha planlıyor."
+        "card_title": "iPad mini Güncellendi",
+        "card_body": "Yeni iPad mini modeli, A20 Pro çip ile piyasaya sürüldü. Cihazda Face ID özelliği bulunmuyor."
       }
     ]
   },
   "stat": {
-    "big_stat": "13",
-    "stat_caption": "Engadget tarafından son iki haftada yayınlanan toplam ürün inceleme sayısı.",
-    "stat_quote": "Engadget, önümüzdeki hafta için altı yeni incelemenin daha planlandığını duyurdu."
+    "big_stat": "60Hz",
+    "stat_caption": "Yeni iPad mini modelinin ekran yenileme hızı.",
+    "stat_quote": "Yeni iPad mini, A20 Pro çip ile güçlendirilmiş olsa da ekran yenileme hızı 60Hz seviyesinde kalıyor. - TechCrunch"
   },
   "details": {
-    "heading": "Öne Çıkan Yeni Cihazlar",
+    "heading": "Diğer Önemli Gelişmeler",
     "cards": [
       {
-        "card_title": "iPad mini Detayları",
-        "card_body": "Yeni iPad mini, A20 Pro çip ile geliyor. Cihaz 60Hz ekran yenileme hızına sahip ve Face ID özelliği bulunmuyor."
+        "card_title": "Amazon'dan Yeni Modeller",
+        "card_body": "Amazon, Colorsoft ve Paperwhite modellerinin Signature Edition versiyonlarını piyasaya sürdü."
       },
       {
-        "card_title": "Dizüstü Bilgisayarlar",
-        "card_body": "Lenovo Googlebook 15 ve Dell XPS Googlebook modellerinin her ikisi de yaklaşık 1.000 dolar fiyat etiketiyle sunuluyor."
+        "card_title": "Googlebook Seçenekleri",
+        "card_body": "Lenovo Googlebook 15 ve Dell XPS Googlebook modelleri yaklaşık 1.000 dolar fiyat etiketiyle duyuruldu."
       },
       {
-        "card_title": "Amazon E-Okuyucular",
-        "card_body": "Amazon, sonbahar döneminde Colorsoft ve Paperwhite modellerinin Signature Edition versiyonlarını piyasaya sürdü."
+        "card_title": "Giyilebilir Teknoloji",
+        "card_body": "Samsung, Galaxy Watch Ultra 2 modelini piyasaya sürerek giyilebilir teknoloji ürün gamını genişletti."
       }
     ]
   },
   "impact": {
-    "heading": "Pazar ve Kullanıcı Etkisi",
+    "heading": "Sektörel Yansımalar",
     "cards": [
       {
-        "card_title": "Sektörel Çeşitlilik",
-        "card_body": "Yeni Mac modelleri ve güncellenen e-okuyucular, donanım pazarında farklı segmentlerde rekabeti canlı tutuyor."
+        "card_title": "Piyasa Çeşitliliği",
+        "card_body": "Yeni MacBook Pro ve Googlebook modelleri, dizüstü bilgisayar pazarında farklı segmentlerde rekabeti artırıyor."
       },
       {
-        "card_title": "Kullanıcı Tercihleri",
-        "card_body": "Yeni iPad mini'nin teknik özellikleri ve dizüstü bilgisayarların fiyatlandırması, kullanıcıların satın alma kararlarını etkiliyor."
+        "card_title": "Kullanıcı Deneyimi",
+        "card_body": "Yeni çip teknolojileri ve ekran özellikleri, kullanıcıların cihazlardan beklentilerini yeniden şekillendiriyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce yeni iPad mini'nin teknik özellikleri beklentilerinizi karşılıyor mu?",
+    "question": "Sizce yeni iPad mini'nin 60Hz ekranla gelmesi, A20 Pro çipin performansını kısıtlar mı?",
     "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın."
   },
   "tag_label_2": "BAĞLAM",

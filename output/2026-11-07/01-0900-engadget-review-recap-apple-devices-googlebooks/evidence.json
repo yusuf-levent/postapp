@@ -7,7 +7,7 @@
     "TechCrunch",
     "Ars Technica"
   ],
-  "checked_at": "2026-11-07T16:12:26+03:00",
+  "checked_at": "2026-11-07T16:22:50+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
@@ -22,22 +22,32 @@
       ]
     },
     {
-      "claim": "Apple, geçen hafta üç yeni Mac modeli ve yenilenmiş bir iPad mini tanıttı.",
+      "claim": "Apple, PROLED XDR ekranlı ve dokunmatik özellikli yeni bir MacBook Pro modeli tanıttı.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2309200/engadget-review-recap-apple-devices-googlebooks-and-kindles/",
-          "quote": "Apple added to its late 2026 gadget tally last week, debuting a trio of new Macs alongside an overhauled iPad mini."
+          "quote": "The main attraction is certainly the MacBook Pro with PROLED XDR Display, the first touchscreen Apple laptop with a very awkward name."
         }
       ]
     },
     {
-      "claim": "Yeni iPad mini, A20 Pro çip ile donatılmış olup 60Hz ekran yenileme hızına sahiptir ve Face ID özelliği bulunmamaktadır.",
+      "claim": "Yeni iPad mini, A20 Pro çip ile piyasaya sürüldü.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2309200/engadget-review-recap-apple-devices-googlebooks-and-kindles/",
-          "quote": "Last but not least, deputy news editor Nathan Ingraham tested the iPad mini with an A20 Pro chip. But, yet again, the device is more expensive, plus the display refresh rate is still 60Hz and there's no Face ID."
+          "quote": "Last but not least, deputy news editor Nathan Ingraham tested the iPad mini with an A20 Pro chip."
+        }
+      ]
+    },
+    {
+      "claim": "iPad mini modelinin ekran yenileme hızı 60Hz'dir ve cihazda Face ID özelliği bulunmamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2309200/engadget-review-recap-apple-devices-googlebooks-and-kindles/",
+          "quote": "But, yet again, the device is more expensive, plus the display refresh rate is still 60Hz and there's no Face ID."
         }
       ]
     },
@@ -52,7 +62,7 @@
       ]
     },
     {
-      "claim": "Amazon, sonbahar döneminde Colorsoft ve Paperwhite modellerinin Signature Edition versiyonlarını piyasaya sürdü.",
+      "claim": "Amazon, Colorsoft ve Paperwhite modellerinin Signature Edition versiyonlarını piyasaya sürdü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -62,12 +72,17 @@
       ]
     },
     {
-      "claim": "Engadget, önümüzdeki hafta için altı yeni incelemenin planlandığını duyurdu.",
+      "claim": "Fitbit Edge, Google tarafından geliştirilen bir giyilebilir teknoloji ürünüdür.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Samsung, Galaxy Watch Ultra 2 modelini piyasaya sürmüştür.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2309200/engadget-review-recap-apple-devices-googlebooks-and-kindles/",
-          "quote": "Be sure to keep your eyes peeled next week as we've already got six more reviews on the docket"
+          "quote": "We had to wait for the most attractive new features to arrive on the Galaxy Watch Ultra 2, but as soon as Samsung delivered those, UK bureau chief Mat Smith went to work."
         }
       ]
     }
@@ -84,22 +99,32 @@
       ]
     },
     {
-      "claim": "Apple, geçen hafta üç yeni Mac modeli ve yenilenmiş bir iPad mini tanıttı.",
+      "claim": "Apple, PROLED XDR ekranlı ve dokunmatik özellikli yeni bir MacBook Pro modeli tanıttı.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2309200/engadget-review-recap-apple-devices-googlebooks-and-kindles/",
-          "quote": "Apple added to its late 2026 gadget tally last week, debuting a trio of new Macs alongside an overhauled iPad mini."
+          "quote": "The main attraction is certainly the MacBook Pro with PROLED XDR Display, the first touchscreen Apple laptop with a very awkward name."
         }
       ]
     },
     {
-      "claim": "Yeni iPad mini, A20 Pro çip ile donatılmış olup 60Hz ekran yenileme hızına sahiptir ve Face ID özelliği bulunmamaktadır.",
+      "claim": "Yeni iPad mini, A20 Pro çip ile piyasaya sürüldü.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2309200/engadget-review-recap-apple-devices-googlebooks-and-kindles/",
-          "quote": "Last but not least, deputy news editor Nathan Ingraham tested the iPad mini with an A20 Pro chip. But, yet again, the device is more expensive, plus the display refresh rate is still 60Hz and there's no Face ID."
+          "quote": "Last but not least, deputy news editor Nathan Ingraham tested the iPad mini with an A20 Pro chip."
+        }
+      ]
+    },
+    {
+      "claim": "iPad mini modelinin ekran yenileme hızı 60Hz'dir ve cihazda Face ID özelliği bulunmamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2309200/engadget-review-recap-apple-devices-googlebooks-and-kindles/",
+          "quote": "But, yet again, the device is more expensive, plus the display refresh rate is still 60Hz and there's no Face ID."
         }
       ]
     },
@@ -114,7 +139,7 @@
       ]
     },
     {
-      "claim": "Amazon, sonbahar döneminde Colorsoft ve Paperwhite modellerinin Signature Edition versiyonlarını piyasaya sürdü.",
+      "claim": "Amazon, Colorsoft ve Paperwhite modellerinin Signature Edition versiyonlarını piyasaya sürdü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -124,12 +149,17 @@
       ]
     },
     {
-      "claim": "Engadget, önümüzdeki hafta için altı yeni incelemenin planlandığını duyurdu.",
+      "claim": "Fitbit Edge, Google tarafından geliştirilen bir giyilebilir teknoloji ürünüdür.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Samsung, Galaxy Watch Ultra 2 modelini piyasaya sürmüştür.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2309200/engadget-review-recap-apple-devices-googlebooks-and-kindles/",
-          "quote": "Be sure to keep your eyes peeled next week as we've already got six more reviews on the docket"
+          "quote": "We had to wait for the most attractive new features to arrive on the Galaxy Watch Ultra 2, but as soon as Samsung delivered those, UK bureau chief Mat Smith went to work."
         }
       ]
     }
@@ -146,22 +176,32 @@
       ]
     },
     {
-      "claim": "Apple, geçen hafta üç yeni Mac modeli ve yenilenmiş bir iPad mini tanıttı.",
+      "claim": "Apple, PROLED XDR ekranlı ve dokunmatik özellikli yeni bir MacBook Pro modeli tanıttı.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2309200/engadget-review-recap-apple-devices-googlebooks-and-kindles/",
-          "quote": "Apple added to its late 2026 gadget tally last week, debuting a trio of new Macs alongside an overhauled iPad mini."
+          "quote": "The main attraction is certainly the MacBook Pro with PROLED XDR Display, the first touchscreen Apple laptop with a very awkward name."
         }
       ]
     },
     {
-      "claim": "Yeni iPad mini, A20 Pro çip ile donatılmış olup 60Hz ekran yenileme hızına sahiptir ve Face ID özelliği bulunmamaktadır.",
+      "claim": "Yeni iPad mini, A20 Pro çip ile piyasaya sürüldü.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2309200/engadget-review-recap-apple-devices-googlebooks-and-kindles/",
-          "quote": "Last but not least, deputy news editor Nathan Ingraham tested the iPad mini with an A20 Pro chip. But, yet again, the device is more expensive, plus the display refresh rate is still 60Hz and there's no Face ID."
+          "quote": "Last but not least, deputy news editor Nathan Ingraham tested the iPad mini with an A20 Pro chip."
+        }
+      ]
+    },
+    {
+      "claim": "iPad mini modelinin ekran yenileme hızı 60Hz'dir ve cihazda Face ID özelliği bulunmamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2309200/engadget-review-recap-apple-devices-googlebooks-and-kindles/",
+          "quote": "But, yet again, the device is more expensive, plus the display refresh rate is still 60Hz and there's no Face ID."
         }
       ]
     },
@@ -176,7 +216,7 @@
       ]
     },
     {
-      "claim": "Amazon, sonbahar döneminde Colorsoft ve Paperwhite modellerinin Signature Edition versiyonlarını piyasaya sürdü.",
+      "claim": "Amazon, Colorsoft ve Paperwhite modellerinin Signature Edition versiyonlarını piyasaya sürdü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -186,12 +226,17 @@
       ]
     },
     {
-      "claim": "Engadget, önümüzdeki hafta için altı yeni incelemenin planlandığını duyurdu.",
+      "claim": "Fitbit Edge, Google tarafından geliştirilen bir giyilebilir teknoloji ürünüdür.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Samsung, Galaxy Watch Ultra 2 modelini piyasaya sürmüştür.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2309200/engadget-review-recap-apple-devices-googlebooks-and-kindles/",
-          "quote": "Be sure to keep your eyes peeled next week as we've already got six more reviews on the docket"
+          "quote": "We had to wait for the most attractive new features to arrive on the Galaxy Watch Ultra 2, but as soon as Samsung delivered those, UK bureau chief Mat Smith went to work."
         }
       ]
     }
