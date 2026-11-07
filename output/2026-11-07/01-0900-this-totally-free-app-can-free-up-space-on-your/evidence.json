@@ -5,9 +5,9 @@
     "Wired",
     "The Verge",
     "TechCrunch",
-    "IEEE Spectrum"
+    "Ars Technica"
   ],
-  "checked_at": "2026-11-07T15:02:52+03:00",
+  "checked_at": "2026-11-07T15:12:30+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
@@ -42,16 +42,6 @@
       ]
     },
     {
-      "claim": "Purge includes a tool to uninstall apps along with their associated settings, caches, and downloaded files.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
-          "quote": "Up next is a tool for uninstalling apps. Note that this doesn't just remove the application—it also removes every file associated with it, including your settings, caches, and anything the application downloaded."
-        }
-      ]
-    },
-    {
       "claim": "Apple Intelligence offline models power features like notification summaries, writing suggestions, and Siri.",
       "verdict": "supported",
       "evidence": [
@@ -60,6 +50,11 @@
           "quote": "Apple's most recent operating systems come preloaded with offline AI models, which power things like notification summaries, writing suggestions, and the new AI-powered Siri."
         }
       ]
+    },
+    {
+      "claim": "Apple provided a toggle in macOS 27 to disable Apple Intelligence offline models altogether.",
+      "verdict": "not_found",
+      "evidence": []
     }
   ],
   "round1": [
@@ -94,16 +89,6 @@
       ]
     },
     {
-      "claim": "Purge includes a tool to uninstall apps along with their associated settings, caches, and downloaded files.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
-          "quote": "Up next is a tool for uninstalling apps. Note that this doesn't just remove the application—it also removes every file associated with it, including your settings, caches, and anything the application downloaded."
-        }
-      ]
-    },
-    {
       "claim": "Apple Intelligence offline models power features like notification summaries, writing suggestions, and Siri.",
       "verdict": "supported",
       "evidence": [
@@ -112,6 +97,11 @@
           "quote": "Apple's most recent operating systems come preloaded with offline AI models, which power things like notification summaries, writing suggestions, and the new AI-powered Siri."
         }
       ]
+    },
+    {
+      "claim": "Apple provided a toggle in macOS 27 to disable Apple Intelligence offline models altogether.",
+      "verdict": "not_found",
+      "evidence": []
     }
   ],
   "round2": [
@@ -146,16 +136,6 @@
       ]
     },
     {
-      "claim": "Purge includes a tool to uninstall apps along with their associated settings, caches, and downloaded files.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
-          "quote": "Up next is a tool for uninstalling apps. Note that this doesn't just remove the application—it also removes every file associated with it, including your settings, caches, and anything the application downloaded."
-        }
-      ]
-    },
-    {
       "claim": "Apple Intelligence offline models power features like notification summaries, writing suggestions, and Siri.",
       "verdict": "supported",
       "evidence": [
@@ -164,12 +144,17 @@
           "quote": "Apple's most recent operating systems come preloaded with offline AI models, which power things like notification summaries, writing suggestions, and the new AI-powered Siri."
         }
       ]
+    },
+    {
+      "claim": "Apple provided a toggle in macOS 27 to disable Apple Intelligence offline models altogether.",
+      "verdict": "not_found",
+      "evidence": []
     }
   ],
   "source_texts": {
     "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/": 3825,
     "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy": 1281,
     "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/": 3146,
-    "https://spectrum.ieee.org/how-to-get-a-promotion": 5460
+    "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/": 17767
   }
 }

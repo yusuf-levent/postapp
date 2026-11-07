@@ -1,65 +1,65 @@
 {
   "cover": {
     "category_label": "YAZILIM VE TEKNOLOJI",
-    "title": "Apple Intelligence Modellerini Silin",
+    "title": "Apple Intelligence Modellerini Temizleyen Uygulama",
     "highlight_words": [
-      "Modellerini",
-      "Silin"
+      "Apple Intelligence",
+      "Purge"
     ],
     "highlight_color": "cyan",
-    "subtitle": "macOS cihazlarda yer açan açık kaynaklı Purge uygulaması ile tanışın.",
+    "subtitle": "macOS üzerinde yer kaplayan çevrimdışı modelleri kaldırmak artık mümkün.",
     "source_tags": [
       "WIRED",
       "THE VERGE"
     ]
   },
   "context": {
-    "heading": "Purge Nedir?",
+    "heading": "Purge Uygulaması Nedir?",
     "cards": [
       {
         "card_title": "Tamamen Ücretsiz",
-        "card_body": "Purge, reklam veya uygulama içi satın alma barındırmayan, tamamen açık kaynaklı bir uygulamadır."
+        "card_body": "Purge, reklam veya uygulama içi satın alma barındırmayan tamamen ücretsiz ve açık kaynaklı bir uygulamadır."
       },
       {
         "card_title": "Güvenli Silme",
-        "card_body": "Purge, dosyaları doğrudan silmek yerine güvenli bir şekilde Çöp Kutusu'na taşır."
+        "card_body": "Uygulama, dosyaları doğrudan kalıcı olarak silmek yerine güvenli bir şekilde Çöp Kutusu'na gönderir."
       }
     ]
   },
   "stat": {
-    "big_stat": "10 GB",
-    "stat_caption": "Purge ile cihazınızda serbest bırakabileceğiniz alan miktarı.",
-    "stat_quote": "Purge, Apple Intelligence'ın çevrimdışı modellerini kaldırarak 10 GB'tan fazla alan kazandırır."
+    "big_stat": "10 GB+",
+    "stat_caption": "macOS cihazlarında kazanılan depolama alanı miktarı.",
+    "stat_quote": "Purge, Apple Intelligence'ın çevrimdışı modellerini macOS sisteminden silerek 10 GB'tan fazla alan açabiliyor."
   },
   "details": {
-    "heading": "Uygulamanın Yetenekleri",
+    "heading": "Hangi Modeller Kaldırılıyor?",
     "cards": [
       {
-        "card_title": "Model Temizliği",
-        "card_body": "Apple Intelligence'ın bildirim özetleri, yazım önerileri ve Siri'yi güçlendiren çevrimdışı modellerini siler."
+        "card_title": "Çevrimdışı Modeller",
+        "card_body": "Purge uygulaması, macOS 27 sürümündeki Apple Intelligence çevrimdışı modellerini hedef alır."
       },
       {
-        "card_title": "Kapsamlı Kaldırma",
-        "card_body": "Uygulamaları, ilişkili ayarları, önbellekleri ve indirilen dosyalarıyla birlikte tamamen kaldırma aracı içerir."
+        "card_title": "Güç Verilen Özellikler",
+        "card_body": "Bu modeller bildirim özetleri, yazım önerileri ve Siri gibi yapay zeka özelliklerini çalıştırmaktadır."
       }
     ]
   },
   "impact": {
-    "heading": "Kullanıcı ve Sistem Etkisi",
+    "heading": "Kullanıcıya ve Sektöre Etkisi",
     "cards": [
       {
-        "card_title": "Depolama Alanı",
-        "card_body": "Kullanıcıların macOS 27 üzerinde büyük miktarda depolama alanı kazanmasını sağlar."
+        "card_title": "Depolama Tasarrufu",
+        "card_body": "Yapay zeka özelliklerini kullanmayan veya depolama alanına ihtiyaç duyan kullanıcılar için önemli bir alan tasarrufu sağlar."
       },
       {
-        "card_title": "Sistem Yönetimi",
-        "card_body": "Kullanıcılara yapay zeka modelleri ve artık dosyalar üzerinde tam kontrol imkanı tanır."
+        "card_title": "Açık Kaynak Özgürlüğü",
+        "card_body": "Açık kaynaklı olması, kullanıcıların sistemlerinde nelerin değiştirildiği konusunda tam şeffaflık sunar."
       }
     ]
   },
   "cta": {
-    "question": "Apple Intelligence özelliklerini devre dışı bırakıp depolama alanı kazanmayı dener misiniz?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın."
+    "question": "Bilgisayarınızda yer açmak için yapay zeka modellerini siler miydiniz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
