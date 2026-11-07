@@ -2,52 +2,48 @@
 
 ## INSTAGRAM
 
-İklim değişikliği cüzdanımızı nasıl etkiliyor? First Street raporuna göre iklim riskleri 2055'e kadar Amerikan evlerinin değerinden 1,5 trilyon dolar silebilir. Asheville'de yaşananlar ve artan sigorta maliyetleri tablonun vehametini gözler önüne seriyor. Konut sigortaları 2020'den bu yana %80 arttı. İklim risklerinin gayrimenkul değerlerini bu kadar etkilemesi hakkında ne düşünüyorsunuz? Kaynak: Wired ve TechCrunch
+İklim krizi emlak piyasasını nasıl dönüştürüyor? Artan riskler ve maliyetler yeni yerleşim trendlerini belirliyor. Mülk sigortası maliyetleri 2020'den bu yana yüzde 80 arttı. İklim riskleri gelecekte yerleşim tercihlerimizi nasıl etkileyecek? Kaynak: Wired
 
-#iklimdeğişikliği #emlak #ekonomi #gayrimenkul #yatırım #wired #techcrunch #haber #climatechange #realestate #economy
+#iklimkrizi #emlak #ekonomi #sigorta #wired #techcrunch #climatechange #realestate
 
 ## TIKTOK
 
-İklim krizi evlerimizi çalıyor olabilir mi? 2055'e kadar 1,5 trilyon dolar buharlaşabilir! Kaynak: Wired ve TechCrunch
+İklim krizi emlak piyasasını vuruyor! Sigortalar %80 arttı, milyonlarca dolarlık kayıp var. Detaylar videoda! Kaynak: TechCrunch
 
-#iklim #emlak #ekonomi #haber #climatechange
+#iklim #emlak #ekonomi #gündem #teknoloji
 
 ## X
 
-İklim riskleri 2055'e kadar Amerikan evlerinin değerinden 1,5 trilyon dolar silebilir. Konut sigortası maliyetleri 2020'den bu yana %80 arttı. İklim krizi emlak piyasasını derinden sarsıyor. Kaynak: Wired ve TechCrunch
+İklim krizi ve artan sigorta maliyetleri Amerikan emlak piyasasını dönüştürüyor. 2020'den bu yana mülk sigortası maliyetleri neredeyse %80 arttı. Kaynak: Wired
 
-#iklim #ekonomi
+#İklimKrizi #Ekonomi
 
 ## THREADS
 
-İklim Risklerinin Emlak Piyasasına Etkisi
+İklim Krizinin Emlak Piyasasına Etkisi
 
-First Street raporuna göre iklim riskleri 2055'e kadar Amerikan evlerinin değerinden 1,5 trilyon dolar silebilir. Konut sigortası maliyetleri ise 2020'den beri %80 arttı.
+İklim riskleri ve artan sigorta maliyetleri piyasayı dönüştürüyor. 2020'den bu yana sigorta maliyetleri %80 arttı.
 
-İklim krizinin gayrimenkulü bu denli etkilemesi hakkında ne düşünüyorsunuz? 💭
+İklim riskleri gelecekte yerleşim tercihlerimizi nasıl etkileyecek? 💭
 
-Kaynak: Wired ve TechCrunch
+Kaynak: Wired
 
-#ekonomi
+#iklimkrizi
 
 ## LINKEDIN
 
-İklim değişikliği artık sadece çevre politikasının değil, küresel ekonominin ve gayrimenkul piyasasının da en büyük risk faktörlerinden biri haline geldi.
-
-First Street raporu, iklim risklerinin 2055 yılına kadar ABD'deki konut değerlerinden 1,5 trilyon dolar s silebileceğini öngörüyor. Öte yandan, son yıllarda artan doğal afetler ve sel riskleri sigorta maliyetlerini %80 oranında artırarak ev sahipleri üzerinde ciddi bir finansal baskı oluşturuyor.
-
-Sektör profesyonelleri olarak gayrimenkul ve sigorta sektöründe bu riskleri nasıl yönetiyorsunuz?
+İklim krizinin ekonomik etkileri emlak sektörünü ve sigorta piyasasını kökten değiştiriyor. Artan riskler ve %80'e varan sigorta maliyeti artışları, gelecekteki yerleşim tercihlerimizi ve gayrimenkul değerlemelerini yeniden şekillendiriyor. Sektör profesyonellerinin bu riskleri göz önünde bulundurması şart.
 
 Kaynak: Wired ve TechCrunch
 
-#Gayrimenkul #Ekonomi #İklimDeğişikliği #Yatırım #Sigortacılık
+#İklimKrizi #EmlakPiyasası #Ekonomi #Sürdürülebilirlik #Finans
 
 ## FACEBOOK
 
-İklim değişikliği ve doğal afetlerin emlak piyasasına yansıması her geçen gün daha belirgin hale geliyor. First Street raporuna göre iklim riskleri 2055'e kadar Amerikan evlerinin değerinden 1,5 trilyon dolar silebilir. Artan sigorta maliyetleri ve bölgesel kayıplar piyasayı yeniden şekillendiriyor.
+İklim krizinin emlak piyasasına etkisi her geçen gün büyüyor! Artan riskler ve yükselen sigorta maliyetleri yeni yerleşim trendlerini tetikliyor. 2020'den bu yana sigorta maliyetleri neredeyse yüzde 80 arttı.
 
-İklim risklerinin gayrimenkul değerlerini bu kadar etkilemesi hakkında ne düşünüyorsunuz?
+İklim riskleri gelecekte yerleşim tercihlerimizi nasıl etkileyecek? Teknoloji ve iklim gündemi için takipte kalın.
 
-Kaynak: Wired ve TechCrunch
+Kaynak: Wired
 
-#İklimDeğişikliği #Emlak #Ekonomi #Haber #Wired
+#İklimKrizi #Emlak #Ekonomi #Wired #Teknoloji

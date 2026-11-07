@@ -7,12 +7,26 @@
     "MIT Technology Review",
     "Google Blog"
   ],
-  "checked_at": "2026-11-07T13:47:43+03:00",
+  "checked_at": "2026-11-07T13:52:21+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "First Street firmasının geçen yıl yayınladığı raporuna göre iklim riskleri 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1,5 trilyon dolar silebilir.",
+      "claim": "Sierra Isley ve kız arkadaşı Jamie, Philadelphia'dan Kuzey Karolina'nın Asheville şehrine taşınmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
+          "quote": "Isley and her girlfriend, Jamie, were moving from Philadelphia to Asheville, North Carolina, and found a home they liked, a three-bedroom brick house with lots of natural light and a big tree out front."
+        },
+        {
+          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
+          "quote": "Isley and her girlfriend, Jamie, were moving from Philadelphia to Asheville, North Carolina, and found a home they liked"
+        }
+      ]
+    },
+    {
+      "claim": "First Street firması geçen yıl yayımladığı 'Property Prices in Peril' raporunda, iklim risklerinin 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1.5 trilyon dolar silebileceğini öngörmüştür.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,9 +36,13 @@
       ]
     },
     {
-      "claim": "Data for Progress şirketinin yaptığı ankete göre kayıtlı ABD seçmenlerinin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yıl içinde Amerikan Rüyası'nı gerçekleştirme kabiliyetlerini engelleceğine inanıyor.",
+      "claim": "Data for Progress'in Grist için yaptığı ankete göre, muhtemel ABD seçmenlerinin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yıl içinde Amerikan Rüyası'nı gerçekleştirme yeteneklerini engelleceğine inanmaktadır.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
+          "quote": "According to exclusive polling for Grist from the think tank Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years, including 42 percent of Republicans."
+        },
         {
           "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
           "quote": "According to exclusive polling for Grist from the think tank Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years"
@@ -32,7 +50,7 @@
       ]
     },
     {
-      "claim": "Eylül 2024'te üç gün içinde Asheville'e yaklaşık 14 inç yağmur düştü.",
+      "claim": "Eylül 2024'te üç gün içinde Asheville'e yaklaşık 14 inç yağmur yağmıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -42,7 +60,7 @@
       ]
     },
     {
-      "claim": "Batı Kuzey Karolina'da 74.000'den fazla ev hasar gördü ve bunların sadece yüzde 4'ünde sel sigortası vardı, bu da 9,5 milyar dolarlık sigortasız konut mülkü kaybıyla sonuçlandı.",
+      "claim": "Batı Kuzey Karolina'da 74.000'den fazla ev zarar görmüş ve evlerin sadece yüzde 4 civarı sel sigortasına sahip olduğu için 9.5 milyar dolarlık sigortasız konut mülkü kaybı yaşanmıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -52,7 +70,7 @@
       ]
     },
     {
-      "claim": "Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülürken, ulusal ortalama yüzde 1,2 arttı.",
+      "claim": "Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülmüştür.",
       "verdict": "supported",
       "evidence": [
         {
@@ -62,17 +80,7 @@
       ]
     },
     {
-      "claim": "Nature Climate Change dergisinde yayınlanan 2023 yılına ait bir çalışmaya göre FEMA'nın yüksek riskli sel bölgelerindeki evler ortalama yüzde 2,8 daha ucuza satılıyor.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
-          "quote": "Homes within FEMA’s high-risk flood zones sell for 2.8 percent less, on average, than what they would otherwise sell for, according to a 2023 study published in the journal Nature Climate Change."
-        }
-      ]
-    },
-    {
-      "claim": "2020 yılından bu yana konut sigortası maliyetleri neredeyse yüzde 80 oranında artarak ortalama tek ailelik ipotek sahibinin ayda 209 dolar ödemesine neden oldu.",
+      "claim": "2020 yılından bu yana mülk sigortası maliyetleri neredeyse yüzde 80 oranında artmıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -82,14 +90,28 @@
       ]
     },
     {
-      "claim": "Ipsos'un geçen yıl yaptığı ankete göre bebek boomer kuşağının yüzde 46'sı ev sahibi olmayı Amerikan Rüyası ile ilişkilendirirken Z kuşağının sadece yüzde 13'ü ilişkilendiriyor.",
+      "claim": "Geçen yıl Ipsos tarafından yapılan bir anket, bebek boomer'ların yüzde 46'sının ev sahibi olmayı Amerikan Rüyası ile ilişkilendirirken, Z kuşağının yalnızca yüzde 13'ünün bunu ilişkilendirdiğini göstermiştir.",
       "verdict": "not_found",
       "evidence": []
     }
   ],
   "round1": [
     {
-      "claim": "First Street firmasının geçen yıl yayınladığı raporuna göre iklim riskleri 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1,5 trilyon dolar silebilir.",
+      "claim": "Sierra Isley ve kız arkadaşı Jamie, Philadelphia'dan Kuzey Karolina'nın Asheville şehrine taşınmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
+          "quote": "Isley and her girlfriend, Jamie, were moving from Philadelphia to Asheville, North Carolina, and found a home they liked, a three-bedroom brick house with lots of natural light and a big tree out front."
+        },
+        {
+          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
+          "quote": "Isley and her girlfriend, Jamie, were moving from Philadelphia to Asheville, North Carolina, and found a home they liked"
+        }
+      ]
+    },
+    {
+      "claim": "First Street firması geçen yıl yayımladığı 'Property Prices in Peril' raporunda, iklim risklerinin 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1.5 trilyon dolar silebileceğini öngörmüştür.",
       "verdict": "supported",
       "evidence": [
         {
@@ -99,9 +121,13 @@
       ]
     },
     {
-      "claim": "Data for Progress şirketinin yaptığı ankete göre kayıtlı ABD seçmenlerinin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yıl içinde Amerikan Rüyası'nı gerçekleştirme kabiliyetlerini engelleceğine inanıyor.",
+      "claim": "Data for Progress'in Grist için yaptığı ankete göre, muhtemel ABD seçmenlerinin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yıl içinde Amerikan Rüyası'nı gerçekleştirme yeteneklerini engelleceğine inanmaktadır.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
+          "quote": "According to exclusive polling for Grist from the think tank Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years, including 42 percent of Republicans."
+        },
         {
           "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
           "quote": "According to exclusive polling for Grist from the think tank Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years"
@@ -109,7 +135,7 @@
       ]
     },
     {
-      "claim": "Eylül 2024'te üç gün içinde Asheville'e yaklaşık 14 inç yağmur düştü.",
+      "claim": "Eylül 2024'te üç gün içinde Asheville'e yaklaşık 14 inç yağmur yağmıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -119,7 +145,7 @@
       ]
     },
     {
-      "claim": "Batı Kuzey Karolina'da 74.000'den fazla ev hasar gördü ve bunların sadece yüzde 4'ünde sel sigortası vardı, bu da 9,5 milyar dolarlık sigortasız konut mülkü kaybıyla sonuçlandı.",
+      "claim": "Batı Kuzey Karolina'da 74.000'den fazla ev zarar görmüş ve evlerin sadece yüzde 4 civarı sel sigortasına sahip olduğu için 9.5 milyar dolarlık sigortasız konut mülkü kaybı yaşanmıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -129,7 +155,7 @@
       ]
     },
     {
-      "claim": "Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülürken, ulusal ortalama yüzde 1,2 arttı.",
+      "claim": "Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülmüştür.",
       "verdict": "supported",
       "evidence": [
         {
@@ -139,17 +165,7 @@
       ]
     },
     {
-      "claim": "Nature Climate Change dergisinde yayınlanan 2023 yılına ait bir çalışmaya göre FEMA'nın yüksek riskli sel bölgelerindeki evler ortalama yüzde 2,8 daha ucuza satılıyor.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
-          "quote": "Homes within FEMA’s high-risk flood zones sell for 2.8 percent less, on average, than what they would otherwise sell for, according to a 2023 study published in the journal Nature Climate Change."
-        }
-      ]
-    },
-    {
-      "claim": "2020 yılından bu yana konut sigortası maliyetleri neredeyse yüzde 80 oranında artarak ortalama tek ailelik ipotek sahibinin ayda 209 dolar ödemesine neden oldu.",
+      "claim": "2020 yılından bu yana mülk sigortası maliyetleri neredeyse yüzde 80 oranında artmıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -159,14 +175,28 @@
       ]
     },
     {
-      "claim": "Ipsos'un geçen yıl yaptığı ankete göre bebek boomer kuşağının yüzde 46'sı ev sahibi olmayı Amerikan Rüyası ile ilişkilendirirken Z kuşağının sadece yüzde 13'ü ilişkilendiriyor.",
+      "claim": "Geçen yıl Ipsos tarafından yapılan bir anket, bebek boomer'ların yüzde 46'sının ev sahibi olmayı Amerikan Rüyası ile ilişkilendirirken, Z kuşağının yalnızca yüzde 13'ünün bunu ilişkilendirdiğini göstermiştir.",
       "verdict": "not_found",
       "evidence": []
     }
   ],
   "round2": [
     {
-      "claim": "First Street firmasının geçen yıl yayınladığı raporuna göre iklim riskleri 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1,5 trilyon dolar silebilir.",
+      "claim": "Sierra Isley ve kız arkadaşı Jamie, Philadelphia'dan Kuzey Karolina'nın Asheville şehrine taşınmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
+          "quote": "Isley and her girlfriend, Jamie, were moving from Philadelphia to Asheville, North Carolina, and found a home they liked, a three-bedroom brick house with lots of natural light and a big tree out front."
+        },
+        {
+          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
+          "quote": "Isley and her girlfriend, Jamie, were moving from Philadelphia to Asheville, North Carolina, and found a home they liked"
+        }
+      ]
+    },
+    {
+      "claim": "First Street firması geçen yıl yayımladığı 'Property Prices in Peril' raporunda, iklim risklerinin 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1.5 trilyon dolar silebileceğini öngörmüştür.",
       "verdict": "supported",
       "evidence": [
         {
@@ -176,9 +206,13 @@
       ]
     },
     {
-      "claim": "Data for Progress şirketinin yaptığı ankete göre kayıtlı ABD seçmenlerinin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yıl içinde Amerikan Rüyası'nı gerçekleştirme kabiliyetlerini engelleceğine inanıyor.",
+      "claim": "Data for Progress'in Grist için yaptığı ankete göre, muhtemel ABD seçmenlerinin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yıl içinde Amerikan Rüyası'nı gerçekleştirme yeteneklerini engelleceğine inanmaktadır.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
+          "quote": "According to exclusive polling for Grist from the think tank Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years, including 42 percent of Republicans."
+        },
         {
           "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
           "quote": "According to exclusive polling for Grist from the think tank Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years"
@@ -186,7 +220,7 @@
       ]
     },
     {
-      "claim": "Eylül 2024'te üç gün içinde Asheville'e yaklaşık 14 inç yağmur düştü.",
+      "claim": "Eylül 2024'te üç gün içinde Asheville'e yaklaşık 14 inç yağmur yağmıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -196,7 +230,7 @@
       ]
     },
     {
-      "claim": "Batı Kuzey Karolina'da 74.000'den fazla ev hasar gördü ve bunların sadece yüzde 4'ünde sel sigortası vardı, bu da 9,5 milyar dolarlık sigortasız konut mülkü kaybıyla sonuçlandı.",
+      "claim": "Batı Kuzey Karolina'da 74.000'den fazla ev zarar görmüş ve evlerin sadece yüzde 4 civarı sel sigortasına sahip olduğu için 9.5 milyar dolarlık sigortasız konut mülkü kaybı yaşanmıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -206,7 +240,7 @@
       ]
     },
     {
-      "claim": "Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülürken, ulusal ortalama yüzde 1,2 arttı.",
+      "claim": "Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülmüştür.",
       "verdict": "supported",
       "evidence": [
         {
@@ -216,17 +250,7 @@
       ]
     },
     {
-      "claim": "Nature Climate Change dergisinde yayınlanan 2023 yılına ait bir çalışmaya göre FEMA'nın yüksek riskli sel bölgelerindeki evler ortalama yüzde 2,8 daha ucuza satılıyor.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
-          "quote": "Homes within FEMA’s high-risk flood zones sell for 2.8 percent less, on average, than what they would otherwise sell for, according to a 2023 study published in the journal Nature Climate Change."
-        }
-      ]
-    },
-    {
-      "claim": "2020 yılından bu yana konut sigortası maliyetleri neredeyse yüzde 80 oranında artarak ortalama tek ailelik ipotek sahibinin ayda 209 dolar ödemesine neden oldu.",
+      "claim": "2020 yılından bu yana mülk sigortası maliyetleri neredeyse yüzde 80 oranında artmıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -236,7 +260,7 @@
       ]
     },
     {
-      "claim": "Ipsos'un geçen yıl yaptığı ankete göre bebek boomer kuşağının yüzde 46'sı ev sahibi olmayı Amerikan Rüyası ile ilişkilendirirken Z kuşağının sadece yüzde 13'ü ilişkilendiriyor.",
+      "claim": "Geçen yıl Ipsos tarafından yapılan bir anket, bebek boomer'ların yüzde 46'sının ev sahibi olmayı Amerikan Rüyası ile ilişkilendirirken, Z kuşağının yalnızca yüzde 13'ünün bunu ilişkilendirdiğini göstermiştir.",
       "verdict": "not_found",
       "evidence": []
     }

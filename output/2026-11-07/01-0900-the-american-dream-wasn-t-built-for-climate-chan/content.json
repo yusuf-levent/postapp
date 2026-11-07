@@ -1,69 +1,69 @@
 {
   "cover": {
     "category_label": "İKLİM VE EKONOMİ",
-    "title": "İklim Risklerinin Emlak Piyasasına Etkisi",
+    "title": "İklim Krizinin Emlak Piyasasına Etkisi",
     "highlight_words": [
       "İklim",
-      "Risklerinin"
+      "Krizinin"
     ],
     "highlight_color": "yellow",
-    "subtitle": "İklim değişikliği ve doğal afetlerin Amerikan emlak piyasasına ve ev değerlerine yansıması.",
+    "subtitle": "İklim riskleri ve artan sigorta maliyetleri Amerikan emlak piyasasını dönüştürüyor.",
     "source_tags": [
       "WIRED",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "İklim Riskleri ve Raporlar",
+    "heading": "YENİ YERLEŞİMLER VE RİSKLER",
     "cards": [
       {
-        "card_title": "First Street Raporu",
-        "card_body": "First Street firmasının geçen yıl yayınladığı raporuna göre iklim riskleri 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1,5 trilyon dolar silebilir."
+        "card_title": "ASHEVILLE'E TAŞINMA",
+        "card_body": "Sierra Isley ve kız arkadaşı Jamie, Philadelphia'dan Kuzey Karolina'nın Asheville şehrine taşınmıştır."
       },
       {
-        "card_title": "Seçmen Algısı",
-        "card_body": "Data for Progress şirketinin yaptığı ankete göre kayıtlı ABD seçmenlerinin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yıl içinde Amerikan Rüyası'nı gerçekleştirme kabiliyetlerini engelleceğine inanıyor."
+        "card_title": "PİYASA DEĞERİ",
+        "card_body": "Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülmüştür."
       }
     ]
   },
   "stat": {
-    "big_stat": "1,5 TRİLYON",
-    "stat_caption": "2055 yılına kadar Amerikan evlerinin değerinden silinebilecek tahmini miktar.",
-    "stat_quote": "First Street raporuna göre iklim riskleri ev değerlerini tehdit ediyor."
+    "big_stat": "%80",
+    "stat_caption": "2020 yılından bu yana mülk sigortası maliyetlerindeki artış oranı",
+    "stat_quote": "2020 yılından bu yana mülk sigortası maliyetleri neredeyse yüzde 80 oranında artmıştır."
   },
   "details": {
-    "heading": "Bölgesel Kayıplar ve Sigorta",
+    "heading": "HAVA OLAYLARI VE HASARLAR",
     "cards": [
       {
-        "card_title": "Asheville Yağışları",
-        "card_body": "Eylül 2024'te üç gün içinde Asheville'e yaklaşık 14 inç yağmur düştü."
+        "card_title": "AŞIRI YAĞIŞLAR",
+        "card_body": "Eylül 2024'te üç gün içinde Asheville'e yaklaşık 14 inç yağmur yağmıştır."
       },
       {
-        "card_title": "Sigortasız Kayıplar",
-        "card_body": "Batı Kuzey Karolina'da 74.000'den fazla ev hasar gördü ve bunların sadece yüzde 4'ünde sel sigortası vardı, bu da 9,5 milyar dolarlık sigortasız konut mülkü kaybıyla sonuçlandı."
+        "card_title": "BÜYÜK KAYIP",
+        "card_body": "Batı Kuzey Karolina'da 74.000'den fazla ev zarar görmüştür."
       },
       {
-        "card_title": "Sigorta Maliyetleri",
-        "card_body": "2020 yılından bu yana konut sigortası maliyetleri neredeyse yüzde 80 oranında artarak ortalama tek ailelik ipotek sahibinin ayda 209 dolar ödemesine neden oldu."
+        "card_title": "SİGORTA DURUMU",
+        "card_body": "Evlerin sadece yüzde 4 civarı sel sigortasına sahip olduğu için 9.5 milyar dolarlık sigortasız konut mülkü kaybı yaşanmıştır."
       }
     ]
   },
   "impact": {
-    "heading": "Ev Fiyatları Üzerindeki Yansımalar",
+    "heading": "GELECEK ENDİŞELERİ",
     "cards": [
       {
-        "card_title": "Asheville Ev Fiyatları",
-        "card_body": "Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülürken, ulusal ortalama yüzde 1,2 arttı."
+        "card_title": "PİYASA BEKLENTİLERİ",
+        "card_body": "First Street firmasının raporuna göre iklim riskleri 2055'e kadar Amerikan evlerinin değerinden 1.5 trilyon dolar silebilir."
       },
       {
-        "card_title": "Sel Bölgeleri",
-        "card_body": "Nature Climate Change dergisinde yayınlanan 2023 yılına ait bir çalışmaya göre FEMA'nın yüksek riskli sel bölgelerindeki evler ortalama yüzde 2,8 daha ucuza satılıyor."
+        "card_title": "SEÇMEN ALGISI",
+        "card_body": "Seçmenlerin yüzde 58'i iklim değişikliğinin Amerikan Rüyası'nı engelleceğine inanıyor."
       }
     ]
   },
   "cta": {
-    "question": "İklim risklerinin gayrimenkul değerlerini bu kadar etkilemesi hakkında ne düşünüyorsunuz?",
-    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için takipte kalın."
+    "question": "İklim riskleri gelecekte yerleşim tercihlerimizi nasıl etkileyecek?",
+    "reminder_line": "Teknoloji ve iklim gündemi için takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

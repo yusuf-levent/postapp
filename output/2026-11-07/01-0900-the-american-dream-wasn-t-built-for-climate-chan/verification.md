@@ -3,56 +3,60 @@
 **Haber:** The American Dream Wasn’t Built for Climate Change
 **Canonical URL:** https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/
 **Kaynaklar:** Wired, TechCrunch, MIT Technology Review, Google Blog
-**Kontrol zamanı:** 2026-11-07T13:47:43+03:00
+**Kontrol zamanı:** 2026-11-07T13:52:21+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
 
 ## İddia Bazlı Sonuçlar
 
-### 1. First Street firmasının geçen yıl yayınladığı raporuna göre iklim riskleri 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1,5 trilyon dolar silebilir.
+### 1. Sierra Isley ve kız arkadaşı Jamie, Philadelphia'dan Kuzey Karolina'nın Asheville şehrine taşınmıştır.
+- **Karar:** ✅ `supported`
+- **Kanıtlar:**
+  - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
+    > Isley and her girlfriend, Jamie, were moving from Philadelphia to Asheville, North Carolina, and found a home they liked, a three-bedroom brick house with lots of natural light and a big tree out front.
+  - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
+    > Isley and her girlfriend, Jamie, were moving from Philadelphia to Asheville, North Carolina, and found a home they liked
+
+### 2. First Street firması geçen yıl yayımladığı 'Property Prices in Peril' raporunda, iklim risklerinin 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1.5 trilyon dolar silebileceğini öngörmüştür.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
     > In a report called “Property Prices in Peril,” the firm First Street projected last year that climate risks could knock nearly $1.5 trillion off the value of American homes by 2055.
 
-### 2. Data for Progress şirketinin yaptığı ankete göre kayıtlı ABD seçmenlerinin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yıl içinde Amerikan Rüyası'nı gerçekleştirme kabiliyetlerini engelleceğine inanıyor.
+### 3. Data for Progress'in Grist için yaptığı ankete göre, muhtemel ABD seçmenlerinin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yıl içinde Amerikan Rüyası'nı gerçekleştirme yeteneklerini engelleceğine inanmaktadır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
+    > According to exclusive polling for Grist from the think tank Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years, including 42 percent of Republicans.
+  - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
     > According to exclusive polling for Grist from the think tank Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years
 
-### 3. Eylül 2024'te üç gün içinde Asheville'e yaklaşık 14 inç yağmur düştü.
+### 4. Eylül 2024'te üç gün içinde Asheville'e yaklaşık 14 inç yağmur yağmıştır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
     > Those promises were shattered when almost 14 inches of rain fell on Asheville over three days in September 2024.
 
-### 4. Batı Kuzey Karolina'da 74.000'den fazla ev hasar gördü ve bunların sadece yüzde 4'ünde sel sigortası vardı, bu da 9,5 milyar dolarlık sigortasız konut mülkü kaybıyla sonuçlandı.
+### 5. Batı Kuzey Karolina'da 74.000'den fazla ev zarar görmüş ve evlerin sadece yüzde 4 civarı sel sigortasına sahip olduğu için 9.5 milyar dolarlık sigortasız konut mülkü kaybı yaşanmıştır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
     > In western North Carolina, more than 74,000 homes were damaged and only about 4 percent had flood insurance, resulting in $9.5 billion in uninsured residential property losses.
 
-### 5. Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülürken, ulusal ortalama yüzde 1,2 arttı.
+### 6. Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülmüştür.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
     > Asheville’s average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent.
 
-### 6. Nature Climate Change dergisinde yayınlanan 2023 yılına ait bir çalışmaya göre FEMA'nın yüksek riskli sel bölgelerindeki evler ortalama yüzde 2,8 daha ucuza satılıyor.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
-    > Homes within FEMA’s high-risk flood zones sell for 2.8 percent less, on average, than what they would otherwise sell for, according to a 2023 study published in the journal Nature Climate Change.
-
-### 7. 2020 yılından bu yana konut sigortası maliyetleri neredeyse yüzde 80 oranında artarak ortalama tek ailelik ipotek sahibinin ayda 209 dolar ödemesine neden oldu.
+### 7. 2020 yılından bu yana mülk sigortası maliyetleri neredeyse yüzde 80 oranında artmıştır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
     > Since 2020, property insurance costs have ballooned almost 80 percent, with the average single-family mortgage holder now paying $209 per month.
 
-### 8. Ipsos'un geçen yıl yaptığı ankete göre bebek boomer kuşağının yüzde 46'sı ev sahibi olmayı Amerikan Rüyası ile ilişkilendirirken Z kuşağının sadece yüzde 13'ü ilişkilendiriyor.
+### 8. Geçen yıl Ipsos tarafından yapılan bir anket, bebek boomer'ların yüzde 46'sının ev sahibi olmayı Amerikan Rüyası ile ilişkilendirirken, Z kuşağının yalnızca yüzde 13'ünün bunu ilişkilendirdiğini göstermiştir.
 - **Karar:** ⚠️ `not_found`
 - **Kanıt:** yok
 
@@ -62,14 +66,14 @@
 
 | İddia | 1. Tur | 2. Tur | Nihai |
 |-------|--------|--------|-------|
-| First Street firmasının geçen yıl yayınladığı raporuna göre  | supported | supported | supported |
-| Data for Progress şirketinin yaptığı ankete göre kayıtlı ABD | supported | supported | supported |
+| Sierra Isley ve kız arkadaşı Jamie, Philadelphia'dan Kuzey K | supported | supported | supported |
+| First Street firması geçen yıl yayımladığı 'Property Prices  | supported | supported | supported |
+| Data for Progress'in Grist için yaptığı ankete göre, muhteme | supported | supported | supported |
 | Eylül 2024'te üç gün içinde Asheville'e yaklaşık 14 inç yağm | supported | supported | supported |
-| Batı Kuzey Karolina'da 74.000'den fazla ev hasar gördü ve bu | supported | supported | supported |
-| Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülürken | supported | supported | supported |
-| Nature Climate Change dergisinde yayınlanan 2023 yılına ait  | supported | supported | supported |
-| 2020 yılından bu yana konut sigortası maliyetleri neredeyse  | supported | supported | supported |
-| Ipsos'un geçen yıl yaptığı ankete göre bebek boomer kuşağını | not_found | not_found | not_found |
+| Batı Kuzey Karolina'da 74.000'den fazla ev zarar görmüş ve e | supported | supported | supported |
+| Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülmüştü | supported | supported | supported |
+| 2020 yılından bu yana mülk sigortası maliyetleri neredeyse y | supported | supported | supported |
+| Geçen yıl Ipsos tarafından yapılan bir anket, bebek boomer'l | not_found | not_found | not_found |
 
 ## Kaynak Metinleri
 
