@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ DÜNYASI",
+    "title": "Apple'dan İlk Dokunmatik Ekranlı Mac: PROLED",
+    "highlight_words": [
+      "Dokunmatik",
+      "PROLED"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Apple, PROLED MacBook Pro modeliyle dizüstü bilgisayar dünyasında yeni bir sayfa açıyor.",
+    "source_tags": [
+      "ENGADGET",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Değişen Apple Vizyonu",
+    "cards": [
+      {
+        "card_title": "Geçmişin Eleştirisi",
+        "card_body": "Apple'ın kurucu ortağı Steve Jobs, dokunmatik ekranlı dizüstü bilgisayarları ergonomik açıdan kötü olarak nitelendirmişti."
+      },
+      {
+        "card_title": "Yeni Dönem",
+        "card_body": "Apple, PROLED MacBook Pro adını verdiği ilk dokunmatik ekranlı Mac modelini resmen duyurdu."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "2010",
+    "stat_caption": "Apple'ın tablet dünyasına girişi ve iPad'in piyasaya sürülüş yılı.",
+    "stat_quote": "Apple, 2010 yılında iPad'i piyasaya sürerek mobil cihaz pazarında önemli bir adım atmıştı. - TechCrunch"
+  },
+  "details": {
+    "heading": "Mac ve iPad Farkı",
+    "cards": [
+      {
+        "card_title": "İşletim Sistemi Farkı",
+        "card_body": "Tabletler genellikle Android veya iPadOS kullanırken, dizüstü bilgisayarlar Windows, macOS veya Linux çalıştırır."
+      },
+      {
+        "card_title": "Donanım Yapısı",
+        "card_body": "Dizüstü bilgisayarlar klavye ve izleme dörtgeni ile gelirken, tabletlerde bunlar genellikle ücretli ek aksesuarlardır."
+      },
+      {
+        "card_title": "Bağlantı Özellikleri",
+        "card_body": "iPad modelleri genellikle tek bir bağlantı noktasına sahipken, dizüstü bilgisayarlar daha geniş bağlantı seçenekleri sunar."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcıya Etkisi",
+    "cards": [
+      {
+        "card_title": "Ergonomi Tartışması",
+        "card_body": "Steve Jobs'un geçmişteki ergonomi eleştirilerine rağmen, Apple'ın dokunmatik ekranlı Mac tercihi kullanıcı deneyimini değiştirecek."
+      },
+      {
+        "card_title": "Cihaz Seçimi",
+        "card_body": "Kullanıcılar artık klavye ve izleme dörtgeni entegre bir cihazda dokunmatik ekran deneyimini macOS gücüyle yaşayabilecek."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce dizüstü bilgisayarlarda dokunmatik ekran kullanımı gerçekten gerekli mi?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri takip etmek için Tekno Pusula'yı izlemeye devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

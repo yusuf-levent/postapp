@@ -1,0 +1,235 @@
+{
+  "title": "What's the point of buying a touchscreen laptop when you could just get a tablet?",
+  "canonical_url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
+  "source_names": [
+    "Engadget",
+    "Wired",
+    "TechCrunch",
+    "Ars Technica"
+  ],
+  "checked_at": "2026-11-07T17:37:58+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Apple, PROLED MacBook Pro adında ilk dokunmatik ekranlı Mac modelini duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
+          "quote": "Recently, Apple made headlines by announcing its first-ever touchscreen Mac, the PROLED MacBook Pro."
+        }
+      ]
+    },
+    {
+      "claim": "Apple'ın kurucu ortağı Steve Jobs, dokunmatik ekranlı dizüstü bilgisayarları ergonomik açıdan kötü olarak nitelendirmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
+          "quote": "That's despite co-founder Steve Jobs famously decrying touchscreen laptops as \"ergonomically terrible,\""
+        }
+      ]
+    },
+    {
+      "claim": "Apple, 2010 yılında iPad'i piyasaya sürmüştür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
+          "quote": "That's despite co-founder Steve Jobs famously decrying touchscreen laptops as \"ergonomically terrible,\" and launching an alternative in the form of 2010's iPad."
+        }
+      ]
+    },
+    {
+      "claim": "Dizüstü bilgisayarlar klavye ve izleme dörtgeni (trackpad) ile birlikte gelirken, tabletlerde bunlar genellikle ücretli ek aksesuarlardır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
+          "quote": "All laptops incorporate a keyboard and trackpad, whereas those are paid add-ons for tablets."
+        }
+      ]
+    },
+    {
+      "claim": "iPad modelleri genellikle tek bir bağlantı noktasına sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
+          "quote": "Tablets also tend to skimp on ports, with iPads being one of the worst offenders with their single port."
+        }
+      ]
+    },
+    {
+      "claim": "Tabletler genellikle Android veya iPadOS işletim sistemlerini kullanır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
+          "quote": "Most tablets run either Android or iPadOS, which are really locked-down smartphone operating systems at their core."
+        }
+      ]
+    },
+    {
+      "claim": "Dizüstü bilgisayarlar Windows, macOS veya Linux işletim sistemlerini çalıştırır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
+          "quote": "Laptops running Windows, macOS or Linux have fewer barriers, giving them access to more capable apps that sometimes have no real Android or iPad equivalent."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Apple, PROLED MacBook Pro adında ilk dokunmatik ekranlı Mac modelini duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
+          "quote": "Recently, Apple made headlines by announcing its first-ever touchscreen Mac, the PROLED MacBook Pro."
+        }
+      ]
+    },
+    {
+      "claim": "Apple'ın kurucu ortağı Steve Jobs, dokunmatik ekranlı dizüstü bilgisayarları ergonomik açıdan kötü olarak nitelendirmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
+          "quote": "That's despite co-founder Steve Jobs famously decrying touchscreen laptops as \"ergonomically terrible,\""
+        }
+      ]
+    },
+    {
+      "claim": "Apple, 2010 yılında iPad'i piyasaya sürmüştür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
+          "quote": "That's despite co-founder Steve Jobs famously decrying touchscreen laptops as \"ergonomically terrible,\" and launching an alternative in the form of 2010's iPad."
+        }
+      ]
+    },
+    {
+      "claim": "Dizüstü bilgisayarlar klavye ve izleme dörtgeni (trackpad) ile birlikte gelirken, tabletlerde bunlar genellikle ücretli ek aksesuarlardır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
+          "quote": "All laptops incorporate a keyboard and trackpad, whereas those are paid add-ons for tablets."
+        }
+      ]
+    },
+    {
+      "claim": "iPad modelleri genellikle tek bir bağlantı noktasına sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
+          "quote": "Tablets also tend to skimp on ports, with iPads being one of the worst offenders with their single port."
+        }
+      ]
+    },
+    {
+      "claim": "Tabletler genellikle Android veya iPadOS işletim sistemlerini kullanır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
+          "quote": "Most tablets run either Android or iPadOS, which are really locked-down smartphone operating systems at their core."
+        }
+      ]
+    },
+    {
+      "claim": "Dizüstü bilgisayarlar Windows, macOS veya Linux işletim sistemlerini çalıştırır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
+          "quote": "Laptops running Windows, macOS or Linux have fewer barriers, giving them access to more capable apps that sometimes have no real Android or iPad equivalent."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Apple, PROLED MacBook Pro adında ilk dokunmatik ekranlı Mac modelini duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
+          "quote": "Recently, Apple made headlines by announcing its first-ever touchscreen Mac, the PROLED MacBook Pro."
+        }
+      ]
+    },
+    {
+      "claim": "Apple'ın kurucu ortağı Steve Jobs, dokunmatik ekranlı dizüstü bilgisayarları ergonomik açıdan kötü olarak nitelendirmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
+          "quote": "That's despite co-founder Steve Jobs famously decrying touchscreen laptops as \"ergonomically terrible,\""
+        }
+      ]
+    },
+    {
+      "claim": "Apple, 2010 yılında iPad'i piyasaya sürmüştür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
+          "quote": "That's despite co-founder Steve Jobs famously decrying touchscreen laptops as \"ergonomically terrible,\" and launching an alternative in the form of 2010's iPad."
+        }
+      ]
+    },
+    {
+      "claim": "Dizüstü bilgisayarlar klavye ve izleme dörtgeni (trackpad) ile birlikte gelirken, tabletlerde bunlar genellikle ücretli ek aksesuarlardır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
+          "quote": "All laptops incorporate a keyboard and trackpad, whereas those are paid add-ons for tablets."
+        }
+      ]
+    },
+    {
+      "claim": "iPad modelleri genellikle tek bir bağlantı noktasına sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
+          "quote": "Tablets also tend to skimp on ports, with iPads being one of the worst offenders with their single port."
+        }
+      ]
+    },
+    {
+      "claim": "Tabletler genellikle Android veya iPadOS işletim sistemlerini kullanır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
+          "quote": "Most tablets run either Android or iPadOS, which are really locked-down smartphone operating systems at their core."
+        }
+      ]
+    },
+    {
+      "claim": "Dizüstü bilgisayarlar Windows, macOS veya Linux işletim sistemlerini çalıştırır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
+          "quote": "Laptops running Windows, macOS or Linux have fewer barriers, giving them access to more capable apps that sometimes have no real Android or iPad equivalent."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/": 4736,
+    "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/": 4173,
+    "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/": 3146,
+    "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/": 1918
+  }
+}

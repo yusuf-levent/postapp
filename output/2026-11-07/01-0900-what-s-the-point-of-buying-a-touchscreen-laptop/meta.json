@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 194.6,
+  "candidates_tried": 1,
+  "gemini_calls": 18,
+  "canonical_url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
+  "generated_at": "2026-11-07T17:40:16+03:00"
+}
