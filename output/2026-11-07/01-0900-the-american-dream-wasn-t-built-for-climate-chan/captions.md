@@ -2,44 +2,36 @@
 
 ## INSTAGRAM
 
-İklim krizinin emlak piyasasını nasıl sarstığını biliyor musunuz? Artan afetler, yükselen sigorta maliyetleri ve milyarlarca dolarlık riskler kapıda. Konut değerleri bu değişimden nasıl etkileniyor? Kaynak: Wired
+İklim krizi emlak piyasasını nasıl vurdu? 1.5 trilyon dolarlık devasa risk kapıda. First Street raporuna göre iklim riskleri, 2055'e kadar Amerikan evlerinin değerinden milyarlarca dolar silebilir. Konut sigortası maliyetleri 2020'den bu yana yüzde 80 artarken, Helene Kasırgası gibi felaketler sigortasız kayıpları gözler önüne serdi. İklim krizinin emlak ve sigorta piyasalarındaki bu etkileri hakkında ne düşünüyorsunuz? Kaynak: Wired, TechCrunch
 
-#iklimkrizi #emlak #gayrimenkul #teknopusula #wired #techcrunch #iklim #konut #yatirim #climatechange
+#İklimKrizi #Emlak #Ekonomi #Sigorta #Wired #TechCrunch #ClimateChange #RealEstate #Finance
 
 ## TIKTOK
 
-İklim krizi emlak piyasasını bitiriyor mu? 1.5 trilyon dolarlık risk kapıda! Kaynak: Wired
+İklim krizi evlerinizi tehlikeye atıyor! 2055'e kadar 1.5 trilyon dolarlık değer kaybı bekleniyor. Sigortalar yüzde 80 arttı. Kaynak: Wired, TechCrunch
 
-#iklimkrizi #emlak #teknopusula #wired
+#İklimKrizi #Emlak #Haber #Ekonomi #Wired
 
 ## X
 
-İklim riskleri emlak piyasasını nasıl etkiliyor? 2055'e kadar ABD'de 1.5 trilyon dolarlık konut değeri risk altında. Sigorta maliyetleri %80 arttı. Kaynak: Wired
+İklim krizinin emlak piyasasına etkisi büyüyor: 2055'e kadar Amerikan evlerinden 1.5 trilyon dolar silinebilir. Konut sigortası maliyetleri 2020'den bu yana %80 arttı. Kaynak: Wired, TechCrunch
 
-#iklimkrizi #emlak
+#İklimKrizi #Emlak
 
 ## THREADS
 
-İklim Krizinin Emlak Piyasasına Etkisi
+İklim krizinin emlak piyasasına etkileri derinleşiyor. First Street raporuna göre 2055'e kadar ev değerlerinden 1.5 trilyon dolar silinebilir. Konut sigortası maliyetleri ise 2020'den beri %80 arttı. 💭 Bu durum gelecekteki yatırım kararlarınızı nasıl etkiler? Kaynak: Wired, TechCrunch
 
-İklim değişikliği sadece doğayı değil, konut değerlerini ve sigorta maliyetlerini de doğrudan vuruyor. 2055'e kadar milyarlarca dolarlık risk bekleniyor.
-
-Sizce bu durum gelecekte ev sahibi olmayı imkansız mı kılacak? 💭
-
-Kaynak: Wired
-
-#iklimkrizi
+#İklimKrizi
 
 ## LINKEDIN
 
-İklim değişikliği ve emlak piyasası arasındaki ilişki, yatırımcılar ve sektör profesyonelleri için göz ardı edilemeyecek bir gerçek haline geldi. Artan doğal afetler, yükselen konut sigortası maliyetleri ve risk altındaki gayrimenkuller geleceğin pazarını yeniden şekillendiriyor. Sektörün bu yeni döneme nasıl adapte olacağını değerlendirmek büyük önem taşıyor.
+İklim değişikliği artık sadece bir çevre sorunu değil, küresel ekonomiyi ve gayrimenkul sektörünü doğrudan şekillendiren finansal bir risk. First Street'in raporuna göre, iklim riskleri 2055 yılına kadar ABD'deki konut değerlerinden 1.5 trilyon dolar silebilir. Öte yandan, 2020'den bu yana konut sigortası maliyetlerindeki yüzde 80'lik artış, risk yönetiminin önemini bir kez daha kanıtlıyor. Sektör profesyonelleri için bu veriler, uzun vadeli stratejilerde iklim risklerinin kaçınılmaz bir faktör olduğunu gösteriyor. Kaynak: Wired, TechCrunch
 
-Kaynak: Wired, TechCrunch
-
-#gayrimenkul #iklimkrizi #yatirim #teknopusula #ekonomi
+#Gayrimenkul #Ekonomi #İklimDeğişikliği #Yatırım #Finans
 
 ## FACEBOOK
 
-İklim krizinin konut değerleri ve sigorta maliyetleri üzerindeki etkileri büyüyor. 2020'den bu yana konut sigortası maliyetleri yüzde 80 artış gösterdi. İklim riskleri gelecekte emlak yatırımlarını nasıl şekillendirecek? Kaynak: Wired
+İklim krizinin emlak piyasasına etkileri radarımızda! 2055 yılına kadar iklim riskleri yüzünden Amerikan evlerinin değerinden yaklaşık 1.5 trilyon dolar silinebileceği öngörülüyor. 2020'den bu yana konut sigortası maliyetleri yüzde 80 artarken, felaketler sigortasız kayıpların büyüklüğünü gösteriyor. İklim krizinin emlak ve sigorta piyasalarındaki bu etkileri hakkında ne düşünüyorsunuz? Kaynak: Wired, TechCrunch
 
-#iklimkrizi #emlak #teknopusula #wired #ekonomi
+#İklimKrizi #Emlak #Ekonomi #Sigorta #Wired
