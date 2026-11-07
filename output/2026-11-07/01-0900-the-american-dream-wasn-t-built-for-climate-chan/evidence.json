@@ -7,12 +7,12 @@
     "MIT Technology Review",
     "Google Blog"
   ],
-  "checked_at": "2026-11-07T13:22:49+03:00",
+  "checked_at": "2026-11-07T13:27:28+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "First Street, in a report called Property Prices in Peril, projected that climate risks could knock nearly $1.5 trillion off the value of American homes by 2055.",
+      "claim": "First Street firmasının raporuna göre iklim riskleri 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1,5 trilyon dolar eksiltebilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "claim": "Polling for Grist from Data for Progress shows that 58 percent of likely U.S. voters believe climate change will hinder their ability to achieve the American Dream over the next 20 years.",
+      "claim": "Data for Progress tarafından yapılan ankete göre, muhtemel ABD seçmenlerinin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yıl içinde Amerikan Rüyası'na ulaşma yeteneklerini engelleyeceğine inanıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "claim": "Almost 14 inches of rain fell on Asheville over three days in September 2024 during Hurricane Helene.",
+      "claim": "Eylül 2024'te üç gün içinde Asheville'e yaklaşık 14 inç yağmur yağdı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -42,7 +42,17 @@
       ]
     },
     {
-      "claim": "In western North Carolina, more than 74,000 homes were damaged and only about 4 percent had flood insurance, resulting in $9.5 billion in uninsured residential property losses.",
+      "claim": "Batı Kuzey Karolina'da Helene Kasırgası sonucu 74.000'den fazla ev hasar gördü ve bunların sadece yüzde 4'ünün sel sigortası bulunuyordu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
+          "quote": "In western North Carolina, more than 74,000 homes were damaged and only about 4 percent had flood insurance"
+        }
+      ]
+    },
+    {
+      "claim": "Batı Kuzey Karolina'daki sigortasız konut mülkü kayıpları 9,5 milyar dolar olarak gerçekleşti.",
       "verdict": "supported",
       "evidence": [
         {
@@ -52,7 +62,7 @@
       ]
     },
     {
-      "claim": "Asheville’s average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent.",
+      "claim": "Asheville'deki ortalama ev fiyatı geçtiğimiz yıl yüzde 5 oranında düşerken, ulusal ortalama yüzde 1,2 oranında arttı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -62,7 +72,7 @@
       ]
     },
     {
-      "claim": "Homes within FEMA’s high-risk flood zones sell for 2.8 percent less, on average, than what they would otherwise sell for, according to a 2023 study published in Nature Climate Change.",
+      "claim": "Nature Climate Change dergisinde 2023 yılında yayınlanan bir çalışmaya göre, FEMA'nın yüksek riskli sel bölgelerindeki evler, diğer bölgelere göre ortalama yüzde 2,8 daha ucuza satılıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -72,24 +82,19 @@
       ]
     },
     {
-      "claim": "Since 2020, property insurance costs have ballooned almost 80 percent, with the average single-family mortgage holder now paying $209 per month.",
+      "claim": "2020 yılından bu yana emlak sigortası maliyetleri yaklaşık yüzde 80 oranında arttı.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
-          "quote": "Since 2020, property insurance costs have ballooned almost 80 percent, with the average single-family mortgage holder now paying $209 per month."
+          "quote": "Since 2020, property insurance costs have ballooned almost 80 percent"
         }
       ]
-    },
-    {
-      "claim": "A poll from Ipsos last year showed that 46 percent of baby boomers associate homeownership with the American Dream but only 13 percent of Gen Zers do.",
-      "verdict": "not_found",
-      "evidence": []
     }
   ],
   "round1": [
     {
-      "claim": "First Street, in a report called Property Prices in Peril, projected that climate risks could knock nearly $1.5 trillion off the value of American homes by 2055.",
+      "claim": "First Street firmasının raporuna göre iklim riskleri 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1,5 trilyon dolar eksiltebilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -99,7 +104,7 @@
       ]
     },
     {
-      "claim": "Polling for Grist from Data for Progress shows that 58 percent of likely U.S. voters believe climate change will hinder their ability to achieve the American Dream over the next 20 years.",
+      "claim": "Data for Progress tarafından yapılan ankete göre, muhtemel ABD seçmenlerinin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yıl içinde Amerikan Rüyası'na ulaşma yeteneklerini engelleyeceğine inanıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -109,7 +114,7 @@
       ]
     },
     {
-      "claim": "Almost 14 inches of rain fell on Asheville over three days in September 2024 during Hurricane Helene.",
+      "claim": "Eylül 2024'te üç gün içinde Asheville'e yaklaşık 14 inç yağmur yağdı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -119,7 +124,17 @@
       ]
     },
     {
-      "claim": "In western North Carolina, more than 74,000 homes were damaged and only about 4 percent had flood insurance, resulting in $9.5 billion in uninsured residential property losses.",
+      "claim": "Batı Kuzey Karolina'da Helene Kasırgası sonucu 74.000'den fazla ev hasar gördü ve bunların sadece yüzde 4'ünün sel sigortası bulunuyordu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
+          "quote": "In western North Carolina, more than 74,000 homes were damaged and only about 4 percent had flood insurance"
+        }
+      ]
+    },
+    {
+      "claim": "Batı Kuzey Karolina'daki sigortasız konut mülkü kayıpları 9,5 milyar dolar olarak gerçekleşti.",
       "verdict": "supported",
       "evidence": [
         {
@@ -129,7 +144,7 @@
       ]
     },
     {
-      "claim": "Asheville’s average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent.",
+      "claim": "Asheville'deki ortalama ev fiyatı geçtiğimiz yıl yüzde 5 oranında düşerken, ulusal ortalama yüzde 1,2 oranında arttı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -139,7 +154,7 @@
       ]
     },
     {
-      "claim": "Homes within FEMA’s high-risk flood zones sell for 2.8 percent less, on average, than what they would otherwise sell for, according to a 2023 study published in Nature Climate Change.",
+      "claim": "Nature Climate Change dergisinde 2023 yılında yayınlanan bir çalışmaya göre, FEMA'nın yüksek riskli sel bölgelerindeki evler, diğer bölgelere göre ortalama yüzde 2,8 daha ucuza satılıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -149,24 +164,19 @@
       ]
     },
     {
-      "claim": "Since 2020, property insurance costs have ballooned almost 80 percent, with the average single-family mortgage holder now paying $209 per month.",
+      "claim": "2020 yılından bu yana emlak sigortası maliyetleri yaklaşık yüzde 80 oranında arttı.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
-          "quote": "Since 2020, property insurance costs have ballooned almost 80 percent, with the average single-family mortgage holder now paying $209 per month."
+          "quote": "Since 2020, property insurance costs have ballooned almost 80 percent"
         }
       ]
-    },
-    {
-      "claim": "A poll from Ipsos last year showed that 46 percent of baby boomers associate homeownership with the American Dream but only 13 percent of Gen Zers do.",
-      "verdict": "not_found",
-      "evidence": []
     }
   ],
   "round2": [
     {
-      "claim": "First Street, in a report called Property Prices in Peril, projected that climate risks could knock nearly $1.5 trillion off the value of American homes by 2055.",
+      "claim": "First Street firmasının raporuna göre iklim riskleri 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1,5 trilyon dolar eksiltebilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -176,7 +186,7 @@
       ]
     },
     {
-      "claim": "Polling for Grist from Data for Progress shows that 58 percent of likely U.S. voters believe climate change will hinder their ability to achieve the American Dream over the next 20 years.",
+      "claim": "Data for Progress tarafından yapılan ankete göre, muhtemel ABD seçmenlerinin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yıl içinde Amerikan Rüyası'na ulaşma yeteneklerini engelleyeceğine inanıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -186,7 +196,7 @@
       ]
     },
     {
-      "claim": "Almost 14 inches of rain fell on Asheville over three days in September 2024 during Hurricane Helene.",
+      "claim": "Eylül 2024'te üç gün içinde Asheville'e yaklaşık 14 inç yağmur yağdı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -196,7 +206,17 @@
       ]
     },
     {
-      "claim": "In western North Carolina, more than 74,000 homes were damaged and only about 4 percent had flood insurance, resulting in $9.5 billion in uninsured residential property losses.",
+      "claim": "Batı Kuzey Karolina'da Helene Kasırgası sonucu 74.000'den fazla ev hasar gördü ve bunların sadece yüzde 4'ünün sel sigortası bulunuyordu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
+          "quote": "In western North Carolina, more than 74,000 homes were damaged and only about 4 percent had flood insurance"
+        }
+      ]
+    },
+    {
+      "claim": "Batı Kuzey Karolina'daki sigortasız konut mülkü kayıpları 9,5 milyar dolar olarak gerçekleşti.",
       "verdict": "supported",
       "evidence": [
         {
@@ -206,7 +226,7 @@
       ]
     },
     {
-      "claim": "Asheville’s average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent.",
+      "claim": "Asheville'deki ortalama ev fiyatı geçtiğimiz yıl yüzde 5 oranında düşerken, ulusal ortalama yüzde 1,2 oranında arttı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -216,7 +236,7 @@
       ]
     },
     {
-      "claim": "Homes within FEMA’s high-risk flood zones sell for 2.8 percent less, on average, than what they would otherwise sell for, according to a 2023 study published in Nature Climate Change.",
+      "claim": "Nature Climate Change dergisinde 2023 yılında yayınlanan bir çalışmaya göre, FEMA'nın yüksek riskli sel bölgelerindeki evler, diğer bölgelere göre ortalama yüzde 2,8 daha ucuza satılıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -226,19 +246,14 @@
       ]
     },
     {
-      "claim": "Since 2020, property insurance costs have ballooned almost 80 percent, with the average single-family mortgage holder now paying $209 per month.",
+      "claim": "2020 yılından bu yana emlak sigortası maliyetleri yaklaşık yüzde 80 oranında arttı.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
-          "quote": "Since 2020, property insurance costs have ballooned almost 80 percent, with the average single-family mortgage holder now paying $209 per month."
+          "quote": "Since 2020, property insurance costs have ballooned almost 80 percent"
         }
       ]
-    },
-    {
-      "claim": "A poll from Ipsos last year showed that 46 percent of baby boomers associate homeownership with the American Dream but only 13 percent of Gen Zers do.",
-      "verdict": "not_found",
-      "evidence": []
     }
   ],
   "source_texts": {

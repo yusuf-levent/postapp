@@ -1,69 +1,69 @@
 {
   "cover": {
-    "category_label": "İKLİM VE EMLAK PİYASASI",
-    "title": "İklim Riskleri Emlak Değerlerini Nasıl Tehdit Ediyor?",
+    "category_label": "İKLİM VE TEKNOLOJİ",
+    "title": "İklim Riskleri ve Konut Piyasası",
     "highlight_words": [
-      "Emlak",
-      "Değerlerini"
+      "İklim",
+      "Konut"
     ],
     "highlight_color": "yellow",
-    "subtitle": "İklim değişikliğinin konut piyasası ve sigorta maliyetleri üzerine etkileri.",
+    "subtitle": "İklim değişikliği ev değerlerini ve sigorta maliyetlerini nasıl etkiliyor?",
     "source_tags": [
       "WIRED",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Piyasadaki Güncel Durum",
+    "heading": "İklim Değişikliği ve Gelecek Kaygısı",
     "cards": [
       {
-        "card_title": "Amerikan Rüyası ve İklim",
-        "card_body": "Seçmenlerin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yılda Amerikan Rüyası'nı gerçekleştirmelerini engelleyeceğine inanıyor."
+        "card_title": "Amerikan Rüyası Tehlikede",
+        "card_body": "Data for Progress anketine göre, seçmenlerin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yılda Amerikan Rüyası'na ulaşmayı engelleyeceğine inanıyor."
       },
       {
-        "card_title": "Milyonlarca Dolarlık Risk",
-        "card_body": "First Street'in raporuna göre iklim riskleri 2055'e kadar Amerikan evlerinin değerinden yaklaşık 1.5 trilyon dolar silebilir."
+        "card_title": "Büyük Değer Kaybı Riski",
+        "card_body": "First Street raporuna göre, iklim riskleri 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1,5 trilyon dolar eksiltebilir."
       }
     ]
   },
   "stat": {
     "big_stat": "%80",
-    "stat_caption": "2020'den bu yana property insurance maliyetlerindeki artış oranı.",
-    "stat_quote": "Ortalama tek ailelik konut ipoteği sahibi artık ayda 209 dolar ödemek zorunda kalıyor."
+    "stat_caption": "2020 yılından bu yana emlak sigortası maliyetlerindeki artış oranı.",
+    "stat_quote": "Sigorta maliyetlerindeki bu keskin yükseliş, ev sahipleri için ciddi bir ekonomik baskı oluşturuyor."
   },
   "details": {
-    "heading": "Asheville ve Sel Hasarları",
+    "heading": "Asheville Örneği ve Sel Riski",
     "cards": [
       {
-        "card_title": "Helene Kasırgası",
-        "card_body": "Eylül 2024'te Hurricane Helene sırasında Asheville'e üç gün içinde yaklaşık 14 inç yağmur düştü."
+        "card_title": "Helene Kasırgası'nın Etkisi",
+        "card_body": "Batı Kuzey Karolina'da 74.000'den fazla ev hasar gördü. Bölgedeki sigortasız konut mülkü kayıpları 9,5 milyar doları buldu."
       },
       {
-        "card_title": "Sigortasız Kayıplar",
-        "card_body": "Kuzey Carolina'nın batısında 74 binden fazla ev hasar gördü ve sadece yüzde 4'ünün sel sigortası vardı."
+        "card_title": "Düşük Sigorta Oranı",
+        "card_body": "Hasar gören evlerin sadece yüzde 4'ünün sel sigortası bulunuyordu. Eylül 2024'te üç günde 14 inç yağmur yağdı."
       },
       {
-        "card_title": "Fiyat Düşüşleri",
-        "card_body": "Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülürken, ulusal ortalama yüzde 1.2 arttı."
+        "card_title": "Fiyatlardaki Değişim",
+        "card_body": "Asheville'de ev fiyatları yüzde 5 düşerken, ulusal ortalama yüzde 1,2 arttı. Yüksek riskli bölgelerdeki evler yüzde 2,8 daha ucuz."
       }
     ]
   },
   "impact": {
-    "heading": "Sektör ve Kullanıcı Etkisi",
+    "heading": "Sektörel ve Bireysel Etkiler",
     "cards": [
       {
-        "card_title": "Risk Bölgeleri",
-        "card_body": "FEMA'nın yüksek riskli sel bölgelerindeki evler, normalde satılacaklarından ortalama yüzde 2.8 daha ucuza satılıyor."
+        "card_title": "Emlak Piyasası Dinamikleri",
+        "card_body": "Nature Climate Change çalışmasına göre, FEMA'nın yüksek riskli sel bölgelerindeki evler, diğer bölgelere göre ortalama yüzde 2,8 daha ucuza satılıyor."
       },
       {
-        "card_title": "Sigorta Yükü",
-        "card_body": "Büyüyen sigorta masrafları ve konut hasarları ev sahiplerinin bütçesini doğrudan etkiliyor."
+        "card_title": "Ekonomik Güvenlik",
+        "card_body": "Sigortasız mülk kayıpları ve artan sigorta primleri, ev sahiplerinin finansal istikrarını doğrudan tehdit ediyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce iklim riskleri gelecekte konut yatırımlarını tamamen değiştirecek mi?",
-    "reminder_line": "Teknoloji ve gündemdeki gelişmeler için Tekno Pusula'yı takipte kalın."
+    "question": "Sizce iklim riskleri, gelecekte ev satın alma kararlarımızı nasıl değiştirecek?",
+    "reminder_line": "Tekno Pusula ile güncel gelişmeleri takip etmeye devam edin."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
