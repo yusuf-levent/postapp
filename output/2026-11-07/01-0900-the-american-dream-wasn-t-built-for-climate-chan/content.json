@@ -1,65 +1,65 @@
 {
   "cover": {
-    "category_label": "İKLİM VE EKONOMİ",
-    "title": "İklim Krizinin Emlak Piyasasına Etkisi",
+    "category_label": "İKLİM VE TEKNOLOJİ",
+    "title": "İklim Riskleri Emlak Piyasasını Vuruyor",
     "highlight_words": [
-      "Emlak",
-      "Piyasasına"
+      "İklim Riskleri",
+      "Emlak"
     ],
     "highlight_color": "yellow",
-    "subtitle": "İklim riskleri ABD'deki ev değerlerini ve sigorta maliyetlerini nasıl etkiliyor?",
+    "subtitle": "İklim krizinin emlak ve konut piyasasına etkileri araştırıldı.",
     "source_tags": [
       "WIRED",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "İklim Riskleri ve Değer Kaybı",
+    "heading": "İklim ve Konut Piyasası",
     "cards": [
       {
-        "card_title": "1.5 Trilyon Dolarlık Risk",
-        "card_body": "First Street'in raporuna göre iklim riskleri, 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1.5 trilyon dolar silebilir."
+        "card_title": "Amerikan Rüyası ve İklim",
+        "card_body": "Seçmenlerin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yılda Amerikan Rüyası'nı engelleceğine inanıyor."
       },
       {
-        "card_title": "Amerikan Rüyası Tehdidi",
-        "card_body": "Seçmenlerin yüzde 58'i iklim değişikliğinin gelecek 20 yılda Amerikan Rüyası'nı gerçekleştirme yeteneklerini engelleyeceğine inanıyor."
+        "card_title": "Sigortasız Kayıplar",
+        "card_body": "Batı Kuzey Carolina'da binlerce ev hasar gördü ve sadece yüzde 4'ü sel sigortasına sahipti."
       }
     ]
   },
   "stat": {
-    "big_stat": "%80",
-    "stat_caption": "2020'den bu yana konut sigortası maliyetlerindeki artış oranı.",
-    "stat_quote": "Ortalama tek ailelik konut ipoteği sahibi ayda 209 dolar ödemeye başladı."
+    "big_stat": "1.5 TRİLYON $",
+    "stat_caption": "2055 yılına kadar Amerikan evlerinin değerinden silinebilecek tahmini miktar.",
+    "stat_quote": "First Street raporuna göre iklim riskleri emlak değerlerini tehdit ediyor."
   },
   "details": {
-    "heading": "Kuzey Carolina ve Sel Kayıpları",
+    "heading": "Maliyetler ve Fiyatlar",
     "cards": [
       {
-        "card_title": "Helene Kasırgası",
-        "card_body": "Eylül 2024'te Helene Kasırgası sırasında Asheville'e üç günde yaklaşık 14 inç yağmur düştü."
+        "card_title": "Sigorta Artışları",
+        "card_body": "2020'den bu yana konut sigortası maliyetleri neredeyse yüzde 80 oranında arttı."
       },
       {
-        "card_title": "Sigortasız Zararlar",
-        "card_body": "Batı Kuzey Carolina'da 74 binden fazla ev zarar gördü ve sadece yüzde 4'ünün sel sigortası vardı, bu da 9.5 milyar dolarlık sigortasız konut kaybına yol açtı."
+        "card_title": "Riskli Bölgeler",
+        "card_body": "FEMA'nın yüksek riskli sel bölgelerindeki evler ortalama yüzde 2.8 daha ucuza satılıyor."
       }
     ]
   },
   "impact": {
-    "heading": "Konut Fiyatları ve FEMA Bölgeleri",
+    "heading": "Piyasaya Etkiler",
     "cards": [
       {
-        "card_title": "Asheville'de Düşüş",
-        "card_body": "Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçülürken, ulusal ortalama yüzde 1.2 arttı."
+        "card_title": "Sektör Etkisi",
+        "card_body": "Asheville'in ortalama ev fiyatı geçen yıl yüzde 5 küçüldü."
       },
       {
-        "card_title": "FEMA Yüksek Risk Bölgeleri",
-        "card_body": "FEMA'nın yüksek riskli sel bölgelerindeki evler, diğer bölgelere göre ortalama yüzde 2.8 daha ucuza satılıyor."
+        "card_title": "Kullanıcı Yükü",
+        "card_body": "Tek ailelik ortalama ipotek sahibi artık sigorta için ayda 209 dolar ödüyor."
       }
     ]
   },
   "cta": {
-    "question": "İklim krizinin emlak ve sigorta piyasalarındaki bu etkileri hakkında ne düşünüyorsunuz?",
-    "reminder_line": "Teknoloji ve ekonomi dünyasındaki gelişmeler için takipte kalın."
+    "question": "Sizce iklim riskleri gelecekte konut tercihlerimizi nasıl değiştirecek?",
+    "reminder_line": "Tekno Pusula ile güncel teknolojileri takip edin."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

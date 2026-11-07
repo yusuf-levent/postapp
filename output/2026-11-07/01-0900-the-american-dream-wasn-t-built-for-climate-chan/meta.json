@@ -2,9 +2,9 @@
   "slot": "09:00",
   "type": "news",
   "model": "gemini-3.5-flash-lite",
-  "duration_seconds": 120.6,
+  "duration_seconds": 69.6,
   "candidates_tried": 1,
-  "gemini_calls": 12,
+  "gemini_calls": 11,
   "canonical_url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
-  "generated_at": "2026-11-07T13:38:40+03:00"
+  "generated_at": "2026-11-07T13:43:08+03:00"
 }
