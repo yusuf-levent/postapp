@@ -1,68 +1,64 @@
 {
   "cover": {
     "category_label": "YATIRIM DÜNYASI",
-    "title": "Sequoia Londra Ofisini ve Scout Programını Kapatıyor",
+    "title": "Sequoia Londra Ofisini Kapatıyor",
     "highlight_words": [
       "Sequoia",
-      "Scout"
+      "Kapatıyor"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Girişim sermayesi devi Sequoia, X üzerinden yaptığı duyuruyla kapsamlı bir yapılandırmaya gidiyor.",
+    "subtitle": "Girişim sermayesi devi Sequoia'dan büyük değişim hamlesi.",
     "source_tags": [
       "TECHCRUNCH",
       "BBC NEWS"
     ]
   },
   "context": {
-    "heading": "Büyük Değişimin Arka Planı",
+    "heading": "Sequoia'dan Büyük Revizyon",
     "cards": [
       {
-        "card_title": "Londra Ofisi ve Scout Programı",
-        "card_body": "Sequoia, X'te yayınlanan bir bilgilendirme notuyla Londra ofisini kapatacağını ve scout programını sonlandıracağını duyurdu."
+        "card_title": "X Üzerinden Duyuruldu",
+        "card_body": "Sequoia, X'te yayınlanan bir notla Londra ofisini kapatacağını ve scout programını sonlandıracağını duyurdu."
       },
       {
-        "card_title": "17 Yıllık Geçmiş",
-        "card_body": "Sequoia, bu scout modelinin öncülüğünü tam 17 yıl önce yapmıştı."
+        "card_title": "17 Yıllık Model",
+        "card_body": "Sequoia, scout modeline tam 17 yıl önce öncülük etmişti."
       }
     ]
   },
   "stat": {
-    "big_stat": "17 Yıl",
-    "stat_caption": "Sequoia'nın öncülük ettiği scout programının süresi.",
-    "stat_quote": "Sequoia pioneered the scouts model 17 years ago."
+    "big_stat": "17 YIL",
+    "stat_caption": "Sequoia scout modelinin geçmişi",
+    "stat_quote": "Scout programı hiçbir zaman bana mantıklı gelmemişti. - Sheel Mohnot"
   },
   "details": {
-    "heading": "Sektörden Tepkiler ve Hamleler",
+    "heading": "Sektörde Neler Oluyor?",
     "cards": [
       {
-        "card_title": "Sheel Mohnot'un Açıklaması",
-        "card_body": "VC Sheel Mohnot, bu hafta X üzerinde scout programının kendisine hiç mantıklı gelmediğini belirtti."
+        "card_title": "Scout Dönemi",
+        "card_body": "Roxanne Varza, 2020 ile 2025 yılları arasında Sequoia scout'u olarak görev yaptığını belirtti."
       },
       {
-        "card_title": "a16z'nin Küresel Ağı",
-        "card_body": "Andreessen Horowitz (a16z), ABD ve daha küçük Avrupa merkezlerindeki fırsatları yakalamak için küresel bir scout ağı kurdu."
-      },
-      {
-        "card_title": "Roxanne Varza'nın Üzüntüsü",
-        "card_body": "2020 ile 2025 yılları arasında Sequoia scout'u olan Station F yöneticisi Roxanne Varza, programın iptal edilmesinden duyduğu üzüntüyü LinkedIn'de paylaştı."
+        "card_title": "Üzüntü Yarattı",
+        "card_body": "Roxanne Varza, LinkedIn üzerinden yaptığı açıklamada programın kesilmesinden duyduğu üzüntüyü paylaştı."
       }
     ]
   },
   "impact": {
-    "heading": "Sektörel Etkiler",
+    "heading": "Rekabet Devam Ediyor",
     "cards": [
       {
-        "card_title": "Programın Sonu",
-        "card_body": "Sequoia'nın 17 yıllık geçmişe sahip scout programını kapatması girişim sermayesi dünyasında dikkat çekti."
+        "card_title": "a16z Hamlesi",
+        "card_body": "Andreessen Horowitz (a16z), ABD ve daha küçük Avrupa merkezlerindeki fırsatları yakalamak için küresel bir scout ağı kurdu."
       },
       {
-        "card_title": "Yeni Stratejiler",
-        "card_body": "a16z gibi diğer yatırım firmaları ise en iyi insanlara odaklanmak için programlarını yeniliyor ve küresel ağlar kuruyor."
+        "card_title": "En İyilere Odaklanma",
+        "card_body": "a16z ortağı Gabriel Vasquez, en iyi insanlara odaklanmak için programlarını yenilediklerini belirtti."
       }
     ]
   },
   "cta": {
-    "question": "Girişim sermayesi dünyasında bu tür scout programlarının geleceğini nasıl görüyorsunuz?",
+    "question": "Girişim sermayesinde scout programlarının kapanması sektörü nasıl etkiler?",
     "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
