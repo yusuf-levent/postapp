@@ -3,60 +3,58 @@
 **Haber:** The American Dream Wasn’t Built for Climate Change
 **Canonical URL:** https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/
 **Kaynaklar:** Wired, TechCrunch, MIT Technology Review, Google Blog
-**Kontrol zamanı:** 2026-11-07T13:27:28+03:00
+**Kontrol zamanı:** 2026-11-07T13:33:01+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
 
 ## İddia Bazlı Sonuçlar
 
-### 1. First Street firmasının raporuna göre iklim riskleri 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1,5 trilyon dolar eksiltebilir.
+### 1. First Street, in a report called Property Prices in Peril, projected last year that climate risks could knock nearly 1.5 trillion dollars off the value of American homes by 2055.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
     > In a report called “Property Prices in Peril,” the firm First Street projected last year that climate risks could knock nearly $1.5 trillion off the value of American homes by 2055.
 
-### 2. Data for Progress tarafından yapılan ankete göre, muhtemel ABD seçmenlerinin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yıl içinde Amerikan Rüyası'na ulaşma yeteneklerini engelleyeceğine inanıyor.
+### 2. According to polling for Grist from Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
     > According to exclusive polling for Grist from the think tank Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years
 
-### 3. Eylül 2024'te üç gün içinde Asheville'e yaklaşık 14 inç yağmur yağdı.
+### 3. Almost 14 inches of rain fell on Asheville over three days in September 2024 during Hurricane Helene.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
     > Those promises were shattered when almost 14 inches of rain fell on Asheville over three days in September 2024.
 
-### 4. Batı Kuzey Karolina'da Helene Kasırgası sonucu 74.000'den fazla ev hasar gördü ve bunların sadece yüzde 4'ünün sel sigortası bulunuyordu.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
-    > In western North Carolina, more than 74,000 homes were damaged and only about 4 percent had flood insurance
-
-### 5. Batı Kuzey Karolina'daki sigortasız konut mülkü kayıpları 9,5 milyar dolar olarak gerçekleşti.
+### 4. In western North Carolina, more than 74,000 homes were damaged and only about 4 percent had flood insurance, resulting in 9.5 billion dollars in uninsured residential property losses.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
     > In western North Carolina, more than 74,000 homes were damaged and only about 4 percent had flood insurance, resulting in $9.5 billion in uninsured residential property losses.
 
-### 6. Asheville'deki ortalama ev fiyatı geçtiğimiz yıl yüzde 5 oranında düşerken, ulusal ortalama yüzde 1,2 oranında arttı.
+### 5. Asheville's average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
     > Asheville’s average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent.
 
-### 7. Nature Climate Change dergisinde 2023 yılında yayınlanan bir çalışmaya göre, FEMA'nın yüksek riskli sel bölgelerindeki evler, diğer bölgelere göre ortalama yüzde 2,8 daha ucuza satılıyor.
+### 6. Since 2020, property insurance costs have ballooned almost 80 percent, with the average single-family mortgage holder now paying 209 dollars per month.
+- **Karar:** ✅ `supported`
+- **Kanıtlar:**
+  - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
+    > Since 2020, property insurance costs have ballooned almost 80 percent, with the average single-family mortgage holder now paying $209 per month.
+
+### 7. Homes within FEMA's high-risk flood zones sell for 2.8 percent less, on average, than what they would otherwise sell for, according to a 2023 study published in Nature Climate Change.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
     > Homes within FEMA’s high-risk flood zones sell for 2.8 percent less, on average, than what they would otherwise sell for, according to a 2023 study published in the journal Nature Climate Change.
 
-### 8. 2020 yılından bu yana emlak sigortası maliyetleri yaklaşık yüzde 80 oranında arttı.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
-    > Since 2020, property insurance costs have ballooned almost 80 percent
+### 8. A poll from Ipsos last year showed that 46 percent of baby boomers associate homeownership with the American Dream but only 13 percent of Gen Zers do.
+- **Karar:** ⚠️ `not_found`
+- **Kanıt:** yok
 
 ---
 
@@ -64,14 +62,14 @@
 
 | İddia | 1. Tur | 2. Tur | Nihai |
 |-------|--------|--------|-------|
-| First Street firmasının raporuna göre iklim riskleri 2055 yı | supported | supported | supported |
-| Data for Progress tarafından yapılan ankete göre, muhtemel A | supported | supported | supported |
-| Eylül 2024'te üç gün içinde Asheville'e yaklaşık 14 inç yağm | supported | supported | supported |
-| Batı Kuzey Karolina'da Helene Kasırgası sonucu 74.000'den fa | supported | supported | supported |
-| Batı Kuzey Karolina'daki sigortasız konut mülkü kayıpları 9, | supported | supported | supported |
-| Asheville'deki ortalama ev fiyatı geçtiğimiz yıl yüzde 5 ora | supported | supported | supported |
-| Nature Climate Change dergisinde 2023 yılında yayınlanan bir | supported | supported | supported |
-| 2020 yılından bu yana emlak sigortası maliyetleri yaklaşık y | supported | supported | supported |
+| First Street, in a report called Property Prices in Peril, p | supported | supported | supported |
+| According to polling for Grist from Data for Progress, 58 pe | supported | supported | supported |
+| Almost 14 inches of rain fell on Asheville over three days i | supported | supported | supported |
+| In western North Carolina, more than 74,000 homes were damag | supported | supported | supported |
+| Asheville's average home price shrunk 5 percent over the pas | supported | supported | supported |
+| Since 2020, property insurance costs have ballooned almost 8 | supported | supported | supported |
+| Homes within FEMA's high-risk flood zones sell for 2.8 perce | supported | supported | supported |
+| A poll from Ipsos last year showed that 46 percent of baby b | not_found | not_found | not_found |
 
 ## Kaynak Metinleri
 
