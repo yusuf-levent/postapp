@@ -1,69 +1,65 @@
 {
   "cover": {
     "category_label": "YATIRIM DÜNYASI",
-    "title": "Sequoia London Ofisini ve Scout Programını Kapatıyor",
+    "title": "Sequoia Londra Ofisini Kapatıyor",
     "highlight_words": [
-      "London",
-      "Scout"
+      "Londra",
+      "Ofisini"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Yatırım devi Sequoia, X üzerinden yaptığı duyurula büyük bir yapılanmaya gidiyor.",
+    "subtitle": "Ünlü girişim sermayesi şirketi Sequoia'dan büyük yapı değişikliği hamlesi.",
     "source_tags": [
       "TECHCRUNCH",
       "BBC NEWS"
     ]
   },
   "context": {
-    "heading": "Yapılanmanın Detayları Neler?",
+    "heading": "Sequoia'dan Büyük Revizyon",
     "cards": [
       {
-        "card_title": "X Üzerinden Duyuru",
-        "card_body": "Sequoia, X platformunda yayınlanan bir notla geniş kapsamlı bir yapı değişikliğine gittiğini açıkladı."
+        "card_title": "X Üzerinden Duyuruldu",
+        "card_body": "Sequoia, X'te paylaştığı bir notla geniş kapsamlı bir yapı değişikliğine gittiğini açıkladı."
       },
       {
-        "card_title": "Kapatılan Birimler",
-        "card_body": "Bu süreçte şirketin Londra ofisinin kapatılması ve scout programının sonlandırılması kararlaştırıldı."
+        "card_title": "Ofis ve Program Kapanıyor",
+        "card_body": "Yapılan bu kapsamlı değişiklikler arasında Londra ofisinin kapatılması ve scout programının sonlandırılması yer alıyor."
       }
     ]
   },
   "stat": {
     "big_stat": "17 YIL",
     "stat_caption": "Sequoia'nın öncülük ettiği scout modelinin piyasadaki geçmiş süresi.",
-    "stat_quote": "Scout programı bana hiç mantıklı gelmemişti."
+    "stat_quote": "\"Scout programı bana hiç mantıklı gelmemişti.\" - Sheel Mohnot"
   },
   "details": {
-    "heading": "Sektördeki Yansımalar",
+    "heading": "Sektördeki Tepkiler",
     "cards": [
       {
-        "card_title": "Modelin Geçmişi",
-        "card_body": "Sequoia, sektörde öncü olan scout modelini tam 17 yıl önce hayata geçirmişti."
+        "card_title": "Sheel Mohnot'un Görüşü",
+        "card_body": "VC Sheel Mohnot, programın kendisine hiç mantıklı gelmediğini belirterek diğer firmaların da benzer programları kapatabileceğini ifade etti."
       },
       {
-        "card_title": "Deneyimler",
-        "card_body": "Roxanne Varza, 2020 ile 2025 yılları arasında Sequoia bünyesinde scout olarak görev yaptı."
-      },
-      {
-        "card_title": "Yatırımcı Yorumları",
-        "card_body": "VC Sheel Mohnot, X üzerinde yaptığı paylaşımda scout programının kendisine hiçbir zaman mantıklı gelmediğini belirtti."
+        "card_title": "Roxanne Varza'nın Açıklaması",
+        "card_body": "2020-2025 yılları arasında Sequoia scout'u olan Roxanne Varza, programın sonlandırılmasından üzüntü duyduğunu belirtti."
       }
     ]
   },
   "impact": {
-    "heading": "Rekabet ve Strateji Değişimi",
+    "heading": "Diğer Fonların Hamleleri",
     "cards": [
       {
-        "card_title": "Rakip Hamlesi",
-        "card_body": "Rakip firma Andreessen Horowitz (a16z), ABD ve daha küçük Avrupa merkezlerindeki fırsatları yakalamak için küresel bir scout ağı kurdu."
+        "card_title": "a16z'nin Küresel Ağı",
+        "card_body": "Andreessen Horowitz, ABD ve küçük Avrupa merkezlerindeki fırsatları yakalamak için küresel bir scout ağı kurdu."
       },
       {
-        "card_title": "Pazar Dengeleri",
-        "card_body": "Sequoia'nın bu adımı, yatırım fonlarının erken aşama keşif stratejilerinde yeni bir döneme işaret ediyor."
+        "card_title": "Programın Yeniden Yapılandırılması",
+        "card_body": "a16z ortağı Gabriel Vasquez, en iyi kişilere odaklanmak için programlarını yenilediklerini belirtti."
       }
     ]
   },
   "cta": {
-    "question": "Sizce erken aşama yatırımlarda scout modelleri hala gerekli mi?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için bizi takipte kalın!"
+    "question": "S sizce scout programlarının kapanması girişim sermayesi sektörünü nasıl etkileyecek?",
+    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

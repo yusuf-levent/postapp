@@ -2,9 +2,9 @@
   "slot": "09:00",
   "type": "news",
   "model": "gemini-3.5-flash-lite",
-  "duration_seconds": 67.4,
+  "duration_seconds": 70.6,
   "candidates_tried": 1,
-  "gemini_calls": 11,
+  "gemini_calls": 12,
   "canonical_url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-  "generated_at": "2026-11-07T12:13:04+03:00"
+  "generated_at": "2026-11-07T12:23:08+03:00"
 }
