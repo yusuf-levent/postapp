@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "YATIRIM DÜNYASI",
+    "title": "Sequoia Londra Ofisini ve Scout Programını Kapatıyor",
+    "highlight_words": [
+      "Sequoia",
+      "Scout"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Girişim sermayesi devi Sequoia, X üzerinden yaptığı duyuruyla kapsamlı bir yapılandırmaya gidiyor.",
+    "source_tags": [
+      "TECHCRUNCH",
+      "BBC NEWS"
+    ]
+  },
+  "context": {
+    "heading": "Büyük Değişimin Arka Planı",
+    "cards": [
+      {
+        "card_title": "Londra Ofisi ve Scout Programı",
+        "card_body": "Sequoia, X'te yayınlanan bir bilgilendirme notuyla Londra ofisini kapatacağını ve scout programını sonlandıracağını duyurdu."
+      },
+      {
+        "card_title": "17 Yıllık Geçmiş",
+        "card_body": "Sequoia, bu scout modelinin öncülüğünü tam 17 yıl önce yapmıştı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "17 Yıl",
+    "stat_caption": "Sequoia'nın öncülük ettiği scout programının süresi.",
+    "stat_quote": "Sequoia pioneered the scouts model 17 years ago."
+  },
+  "details": {
+    "heading": "Sektörden Tepkiler ve Hamleler",
+    "cards": [
+      {
+        "card_title": "Sheel Mohnot'un Açıklaması",
+        "card_body": "VC Sheel Mohnot, bu hafta X üzerinde scout programının kendisine hiç mantıklı gelmediğini belirtti."
+      },
+      {
+        "card_title": "a16z'nin Küresel Ağı",
+        "card_body": "Andreessen Horowitz (a16z), ABD ve daha küçük Avrupa merkezlerindeki fırsatları yakalamak için küresel bir scout ağı kurdu."
+      },
+      {
+        "card_title": "Roxanne Varza'nın Üzüntüsü",
+        "card_body": "2020 ile 2025 yılları arasında Sequoia scout'u olan Station F yöneticisi Roxanne Varza, programın iptal edilmesinden duyduğu üzüntüyü LinkedIn'de paylaştı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etkiler",
+    "cards": [
+      {
+        "card_title": "Programın Sonu",
+        "card_body": "Sequoia'nın 17 yıllık geçmişe sahip scout programını kapatması girişim sermayesi dünyasında dikkat çekti."
+      },
+      {
+        "card_title": "Yeni Stratejiler",
+        "card_body": "a16z gibi diğer yatırım firmaları ise en iyi insanlara odaklanmak için programlarını yeniliyor ve küresel ağlar kuruyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Girişim sermayesi dünyasında bu tür scout programlarının geleceğini nasıl görüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
