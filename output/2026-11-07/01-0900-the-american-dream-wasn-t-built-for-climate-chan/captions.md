@@ -2,52 +2,62 @@
 
 ## INSTAGRAM
 
-İklim değişikliği evinizin değerini değiştiriyor! 🏠📉 First Street raporuna göre, 2055'e kadar iklim riskleri konut değerlerinden 1,5 trilyon dolar silebilir. Sigorta maliyetlerindeki %80'lik artış ev sahiplerini zorluyor. Doğal afetler sonrası fiyat düşüşleri ve sigortasız kayıplar, risk yönetimini zorunlu kılıyor. Sizce konut alırken iklim risklerini değerlendirmek ne kadar kritik? Yorumlarda buluşalım. Tekno Pusula ile güncel verileri takip edin. Kaynak: Wired, MIT Technology Review
+İklim krizi sadece doğayı değil, evlerimizi de tehdit ediyor! Araştırmalar, iklim risklerinin 2055'e kadar trilyonlarca dolar değer silebileceğini gösteriyor.
 
-#İklimDeğişikliği #EmlakPiyasası #Konut #Finans #Ekonomi #Sürdürülebilirlik #ClimateChange #RealEstate #TeknoPusula #Yatırım
+Batı Kuzey Carolina'da sigortasız mülk kayıpları 9.5 milyar dolara ulaştı. Asheville'de ev fiyatları düşerken, mülk sigortası maliyetleri 2020'den bu yana yüzde 80 arttı.
+
+İklim risklerinin gayrimenkul ve sigorta sektöründeki bu dönüşümü hakkında ne düşünüyorsunuz?
+
+Kaynak: Wired
+
+#iklimdeğişikliği #emlak #sigorta #ekonomi #gayrimenkul #iklimkrizi #teknoloji #climatechange #realestate #economy
 
 ## TIKTOK
 
-Evinizin değeri iklim değişikliği yüzünden düşebilir mi? 🏠📉 2020'den bu yana emlak sigortası maliyetleri %80 arttı. 2055'e kadar 1,5 trilyon dolarlık değer kaybı öngörülüyor. Konut alırken artık sadece konuma değil, iklim riskine de bakmak şart. Siz ne düşünüyorsunuz? Kaynak: Wired, MIT Technology Review
+İklim krizinin emlak piyasasını nasıl vurduğunu biliyor musunuz? 2055'e kadar trilyonlar tehlikede! Sigorta maliyetleri yüzde 80 arttı. Detaylar içerikte!
 
-#İklimDeğişikliği #Emlak #Ekonomi #TeknoPusula
+Kaynak: TechCrunch
+
+#iklimkrizi #emlak #sigorta #ekonomi #gündem
 
 ## X
 
-İklim değişikliği emlak piyasasını dönüştürüyor. 2055'e kadar 1,5 trilyon dolarlık konut değeri riski ve %80 artan sigorta maliyetleri... Konut alırken iklim riskini hesaba katmak artık bir zorunluluk. Sizce bu durum piyasayı nasıl etkileyecek? Kaynak: Wired, MIT Technology…
+İklim krizi emlak değerlerini tehdit ediyor! 2055'e kadar trilyonlarca dolar silinebilir, mülk sigortası maliyetleri 2020'den beri %80 arttı. İklim risklerinin gayrimenkuldeki bu dönüşümü hakkında ne düşünüyorsunuz? Kaynak: Wired
 
-#İklimDeğişikliği #Emlak
+#İklimKrizi #Emlak
 
 ## THREADS
 
-İklim Riskleri ve Konut Değerleri 🏠
+İklim Krizinin Emlak Piyasasına Etkisi 🏠
 
-İklim değişikliği emlak piyasasının en büyük değişkenlerinden biri. 2055'e kadar 1,5 trilyon dolarlık değer kaybı öngörülüyor. Sigorta maliyetleri 2020'den bu yana %80 arttı.
+İklim riskleri 2055 yılına kadar ev değerlerinden trilyonlar silebilir. Sigorta maliyetleri ise 2020'den beri %80 arttı.
 
-Sizce konut alırken iklim risklerini değerlendirmek, finansal güvenliğimiz için ne kadar kritik? 💭
+İklim risklerinin gayrimenkul sektöründeki bu dönüşümü hakkında ne düşünüyorsunuz? 💭
 
-Kaynak: Wired, MIT Technology Review
+Kaynak: Wired
 
-#İklimDeğişikliği
+#iklimkrizi
 
 ## LINKEDIN
 
-İklim değişikliği, küresel emlak piyasasında finansal riskleri yeniden tanımlıyor. First Street raporuna göre, 2055 yılına kadar iklim kaynaklı risklerin konut değerlerinde 1,5 trilyon dolarlık bir erozyona yol açması bekleniyor.
+İklim değişikliği ve doğal afetlerin küresel ekonomi ve gayrimenkul piyasasına etkileri derinleşiyor. First Street araştırmasına göre, iklim riskleri 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1.5 trilyon dolar silebilir.
 
-2020'den bu yana emlak sigortası maliyetlerindeki %80'lik artış, bireysel bütçeleri doğrudan etkiliyor. Yatırımcıların ve ev sahiplerinin iklim risklerini finansal planlamalarına dahil etmeleri artık bir zorunluluk.
+Diğer yandan, 2020'den bu yana mülk sigortası maliyetleri neredeyse yüzde 80 oranında arttı. Asheville gibi bölgelerdeki yerel konut fiyatı düşüşleri ve sigortasız mülk kayıpları, risk yönetiminin önemini bir kez daha kanıtlıyor.
 
-Sizce gayrimenkul değerleme modellerinde iklim verileri ne kadar ağırlık kazanmalı?
+İklim risklerinin gayrimenkul ve sigorta sektöründeki bu dönüşümü hakkında ne düşünüyorsunuz?
 
-Kaynak: Wired, MIT Technology Review
+Kaynak: Wired, TechCrunch
 
-#Gayrimenkul #İklimDeğişikliği #Ekonomi #RiskYönetimi #Sürdürülebilirlik
+#İklimDeğişikliği #Gayrimenkul #Sigorta #Ekonomi #Sürdürülebilirlik
 
 ## FACEBOOK
 
-İklim değişikliği sadece çevremizi değil, evimizin değerini de etkiliyor! 🏠📉
+İklim krizi artık emlak piyasasını ve cüzdanlarımızı doğrudan etkiliyor! Araştırmalar, iklim risklerinin gelecekte ev değerlerinden trilyonlarca dolar sillebileceğini gösteriyor.
 
-First Street raporuna göre, 2055'e kadar iklim riskleri konut değerlerinden 1,5 trilyon dolar silebilir. Sigorta maliyetlerindeki %80'lik artış, ev sahiplerinin finansal planlamalarını zorlaştırıyor. Doğal afetlerin yaşandığı bölgelerde konut fiyatlarındaki düşüşler, iklim riskinin emlak piyasası üzerindeki somut etkisini gösteriyor. Sizce konut alırken iklim risklerini değerlendirmek ne kadar kritik? Tekno Pusula ile güncel verileri takip edin.
+Batı Kuzey Carolina'daki kayıplar ve mülk sigortası maliyetlerindeki yüzde 80'lik artış, sektörün karşı karşıya olduğu büyük dönüşümü gözler önüne seriyor.
 
-Kaynak: Wired, MIT Technology Review
+İklim risklerinin gayrimenkul ve sigorta sektöründeki bu dönüşümü hakkında ne düşünüyorsunuz?
 
-#İklimDeğişikliği #EmlakPiyasası #Konut #Ekonomi #TeknoPusula
+Kaynak: Wired
+
+#İklimKrizi #Emlak #Sigorta #Ekonomi #Haberler

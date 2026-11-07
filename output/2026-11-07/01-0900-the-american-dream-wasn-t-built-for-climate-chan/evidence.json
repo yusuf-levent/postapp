@@ -7,12 +7,12 @@
     "MIT Technology Review",
     "Google Blog"
   ],
-  "checked_at": "2026-11-07T13:07:30+03:00",
+  "checked_at": "2026-11-07T13:12:30+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "First Street, in a report called Property Prices in Peril, projected last year that climate risks could knock nearly $1.5 trillion off the value of American homes by 2055.",
+      "claim": "First Street, a research firm, projected last year that climate risks could knock nearly $1.5 trillion off the value of American homes by 2055.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,21 +22,17 @@
       ]
     },
     {
-      "claim": "According to polling from Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream overッケージ the next 20 years.",
+      "claim": "According to polling by Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
           "quote": "According to exclusive polling for Grist from the think tank Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years"
-        },
-        {
-          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
-          "quote": "According to exclusive polling for Grist from the think tank Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years, including 42 percent of Republicans."
         }
       ]
     },
     {
-      "claim": "Almost 14 inches of rain fell on Asheville over three days in September 2024 during Hurricane Helene.",
+      "claim": "In September 2024, almost 14 inches of rain fell on Asheville over three days during Hurricane Helene.",
       "verdict": "supported",
       "evidence": [
         {
@@ -56,22 +52,12 @@
       ]
     },
     {
-      "claim": "Asheville’s average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent.",
+      "claim": "Asheville's average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
           "quote": "Asheville’s average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent."
-        }
-      ]
-    },
-    {
-      "claim": "Homes within FEMA’s high-risk flood zones sell for 2.8 percent less, on average, than what they would otherwise sell for, according to a 2023 study published in Nature Climate Change.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
-          "quote": "Homes within FEMA’s high-risk flood zones sell for 2.8 percent less, on average, than what they would otherwise sell for, according to a 2023 study published in the journal Nature Climate Change."
         }
       ]
     },
@@ -86,14 +72,24 @@
       ]
     },
     {
-      "claim": "An Ipsos poll last year showed that 46 percent of baby boomers associate homeownership with the American Dream but only 13 percent of Gen Zers do.",
+      "claim": "A 2023 study published in Nature Climate Change found that homes within FEMA's high-risk flood zones sell for 2.8 percent less on average than other homes.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
+          "quote": "Homes within FEMA’s high-risk flood zones sell for 2.8 percent less, on average, than what they would otherwise sell for, according to a 2023 study published in the journal Nature Climate Change."
+        }
+      ]
+    },
+    {
+      "claim": "An Ipsos poll showed that 46 percent of baby boomers associate homeownership with the American Dream compared to only 13 percent of Gen Zers.",
       "verdict": "not_found",
       "evidence": []
     }
   ],
   "round1": [
     {
-      "claim": "First Street, in a report called Property Prices in Peril, projected last year that climate risks could knock nearly $1.5 trillion off the value of American homes by 2055.",
+      "claim": "First Street, a research firm, projected last year that climate risks could knock nearly $1.5 trillion off the value of American homes by 2055.",
       "verdict": "supported",
       "evidence": [
         {
@@ -103,21 +99,17 @@
       ]
     },
     {
-      "claim": "According to polling from Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream overッケージ the next 20 years.",
+      "claim": "According to polling by Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
           "quote": "According to exclusive polling for Grist from the think tank Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years"
-        },
-        {
-          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
-          "quote": "According to exclusive polling for Grist from the think tank Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years, including 42 percent of Republicans."
         }
       ]
     },
     {
-      "claim": "Almost 14 inches of rain fell on Asheville over three days in September 2024 during Hurricane Helene.",
+      "claim": "In September 2024, almost 14 inches of rain fell on Asheville over three days during Hurricane Helene.",
       "verdict": "supported",
       "evidence": [
         {
@@ -137,22 +129,12 @@
       ]
     },
     {
-      "claim": "Asheville’s average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent.",
+      "claim": "Asheville's average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
           "quote": "Asheville’s average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent."
-        }
-      ]
-    },
-    {
-      "claim": "Homes within FEMA’s high-risk flood zones sell for 2.8 percent less, on average, than what they would otherwise sell for, according to a 2023 study published in Nature Climate Change.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
-          "quote": "Homes within FEMA’s high-risk flood zones sell for 2.8 percent less, on average, than what they would otherwise sell for, according to a 2023 study published in the journal Nature Climate Change."
         }
       ]
     },
@@ -167,14 +149,24 @@
       ]
     },
     {
-      "claim": "An Ipsos poll last year showed that 46 percent of baby boomers associate homeownership with the American Dream but only 13 percent of Gen Zers do.",
+      "claim": "A 2023 study published in Nature Climate Change found that homes within FEMA's high-risk flood zones sell for 2.8 percent less on average than other homes.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
+          "quote": "Homes within FEMA’s high-risk flood zones sell for 2.8 percent less, on average, than what they would otherwise sell for, according to a 2023 study published in the journal Nature Climate Change."
+        }
+      ]
+    },
+    {
+      "claim": "An Ipsos poll showed that 46 percent of baby boomers associate homeownership with the American Dream compared to only 13 percent of Gen Zers.",
       "verdict": "not_found",
       "evidence": []
     }
   ],
   "round2": [
     {
-      "claim": "First Street, in a report called Property Prices in Peril, projected last year that climate risks could knock nearly $1.5 trillion off the value of American homes by 2055.",
+      "claim": "First Street, a research firm, projected last year that climate risks could knock nearly $1.5 trillion off the value of American homes by 2055.",
       "verdict": "supported",
       "evidence": [
         {
@@ -184,21 +176,17 @@
       ]
     },
     {
-      "claim": "According to polling from Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream overッケージ the next 20 years.",
+      "claim": "According to polling by Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
           "quote": "According to exclusive polling for Grist from the think tank Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years"
-        },
-        {
-          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
-          "quote": "According to exclusive polling for Grist from the think tank Data for Progress, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years, including 42 percent of Republicans."
         }
       ]
     },
     {
-      "claim": "Almost 14 inches of rain fell on Asheville over three days in September 2024 during Hurricane Helene.",
+      "claim": "In September 2024, almost 14 inches of rain fell on Asheville over three days during Hurricane Helene.",
       "verdict": "supported",
       "evidence": [
         {
@@ -218,22 +206,12 @@
       ]
     },
     {
-      "claim": "Asheville’s average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent.",
+      "claim": "Asheville's average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
           "quote": "Asheville’s average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent."
-        }
-      ]
-    },
-    {
-      "claim": "Homes within FEMA’s high-risk flood zones sell for 2.8 percent less, on average, than what they would otherwise sell for, according to a 2023 study published in Nature Climate Change.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
-          "quote": "Homes within FEMA’s high-risk flood zones sell for 2.8 percent less, on average, than what they would otherwise sell for, according to a 2023 study published in the journal Nature Climate Change."
         }
       ]
     },
@@ -248,7 +226,17 @@
       ]
     },
     {
-      "claim": "An Ipsos poll last year showed that 46 percent of baby boomers associate homeownership with the American Dream but only 13 percent of Gen Zers do.",
+      "claim": "A 2023 study published in Nature Climate Change found that homes within FEMA's high-risk flood zones sell for 2.8 percent less on average than other homes.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
+          "quote": "Homes within FEMA’s high-risk flood zones sell for 2.8 percent less, on average, than what they would otherwise sell for, according to a 2023 study published in the journal Nature Climate Change."
+        }
+      ]
+    },
+    {
+      "claim": "An Ipsos poll showed that 46 percent of baby boomers associate homeownership with the American Dream compared to only 13 percent of Gen Zers.",
       "verdict": "not_found",
       "evidence": []
     }
