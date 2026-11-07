@@ -1,69 +1,69 @@
 {
   "cover": {
-    "category_label": "YAPAY ZEKA GELİŞMELERİ",
-    "title": "Anthropic'in Hızlı Yükselişi: METR Raporu",
+    "category_label": "YAPAY ZEKA GELİŞİMİ",
+    "title": "Anthropic'in Hızlanan Yapay Zeka Gelişimi",
     "highlight_words": [
-      "Hızlı Yükselişi",
-      "METR"
+      "Hızlanan",
+      "Gelişimi"
     ],
-    "highlight_color": "yellow",
-    "subtitle": "Yapay zeka güvenlik kuruluşu METR, Anthropic'in gelişim sürecini mercek altına aldı.",
+    "highlight_color": "cyan",
+    "subtitle": "METR raporuna göre Anthropic modelleri bir yıl öncesine göre iki kat daha hızlı gelişiyor.",
     "source_tags": [
       "THE VERGE",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "İnceleme Süreci ve Bulgular",
+    "heading": "METR Raporu Ne Diyor?",
     "cards": [
       {
-        "card_title": "11 Haftalık Detaylı İnceleme",
-        "card_body": "Yapay zeka güvenlik kuruluşu METR, Anthropic'in geliştirme süreçlerini 11 hafta boyunca inceleyerek kapsamlı bir rapor hazırladı."
+        "card_title": "11 Haftalık İnceleme",
+        "card_body": "METR tarafından gerçekleştirilen araştırma, Anthropic bünyesinde 11 haftalık kapsamlı bir inceleme sürecine dayanıyor."
       },
       {
-        "card_title": "Yeni Model Eğitimleri",
-        "card_body": "Anthropic, son altı ay içerisinde Model 2, Model 3 ve Model 4 kod adlarına sahip üç yeni yapay zeka modelinin eğitimini tamamladı."
+        "card_title": "Yeni Model Serisi",
+        "card_body": "Anthropic, son altı ay içinde Model 2, Model 3 ve Model 4 kod adlarına sahip üç yeni yapay zeka modelinin eğitimini tamamladı."
       }
     ]
   },
   "stat": {
     "big_stat": "12 KAT",
-    "stat_caption": "Anthropic çalışanlarının, en yetenekli dahili yapay zeka modelini kullandıklarında elde ettikleri üretkenlik artışı.",
-    "stat_quote": "METR raporuna göre, Anthropic'in yapay zeka modelleri bir yıl öncesine kıyasla yaklaşık iki kat daha hızlı gelişiyor."
+    "stat_caption": "Anthropic çalışanlarının yapay zeka desteğiyle elde ettiği ortalama üretkenlik artışı.",
+    "stat_quote": "Çalışanlar, en yetenekli iç modelleri kullandıklarında yapay zeka desteği olmadan çalışacakları duruma kıyasla 12 kat daha üretken olduklarını bildirdi."
   },
   "details": {
-    "heading": "Raporun Detayları ve Sansür",
+    "heading": "Gelişim Sürecindeki Detaylar",
     "cards": [
       {
-        "card_title": "Sansürlenen Kanıtlar",
-        "card_body": "METR, 100 sayfalık rapor sunduğunu ancak Anthropic'in kamuya açık versiyonda kanıtların çoğunu sansürlediğini belirtti."
+        "card_title": "İki Kat Hızlı Gelişim",
+        "card_body": "METR raporu, Anthropic'in yapay zeka modellerinin bir yıl öncesine kıyasla yaklaşık iki kat daha hızlı geliştiğini ortaya koyuyor."
       },
       {
-        "card_title": "Ticari Hassasiyet",
-        "card_body": "Kurucu ortak Sam McCandlish, sansürlerin ticari hassasiyet nedeniyle yapıldığını X platformu üzerinden doğruladı."
+        "card_title": "Unreleased 2022",
+        "card_body": "Araştırma, Anthropic'in 2022 yılına ait 'Unreleased 2022' adında daha önce yayınlanmamış bir modelinin daha bulunduğunu tespit etti."
       },
       {
-        "card_title": "Geçmişten Gelen Model",
-        "card_body": "Rapor, şirketin 2022 yılına ait 'Unreleased 2022' kod adlı yayınlanmamış bir modelinin daha bulunduğunu ortaya koydu."
+        "card_title": "Yeni Rapor Yolda",
+        "card_body": "Anthropic kurucu ortağı Sam McCandlish, şirketin gelişim hızını açıklayan kendi raporunu önümüzdeki haftalarda yayınlamayı planlıyor."
       }
     ]
   },
   "impact": {
-    "heading": "Sektörel ve Operasyonel Etki",
+    "heading": "Bu Gelişmeler Ne Anlama Geliyor?",
     "cards": [
       {
-        "card_title": "Çalışan Verimliliği",
-        "card_body": "Yapay zeka desteği, çalışanların iş süreçlerini 12 kat daha verimli hale getirerek operasyonel hızı ciddi oranda artırıyor."
+        "card_title": "Sektörel Hızlanma",
+        "card_body": "Modellerin eğitim sürelerinin kısalması ve performans artışı, yapay zeka geliştirme süreçlerinin genel hızını doğrudan etkiliyor."
       },
       {
-        "card_title": "Hızlanan Gelişim Döngüsü",
-        "card_body": "Modellerin bir yıl öncesine göre iki kat daha hızlı gelişmesi, yapay zeka sektöründeki rekabetin ne kadar ivmelendiğini gösteriyor."
+        "card_title": "Kullanıcı Üretkenliği",
+        "card_body": "Çalışanların 12 kat daha üretken hale gelmesi, yapay zeka araçlarının iş akışlarına entegrasyonunun potansiyelini gözler önüne seriyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce yapay zeka şirketlerinin güvenlik raporlarını ticari hassasiyetle sansürlemesi şeffaflık ilkesini zedeler mi?",
-    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri takip etmek için Tekno Pusula'yı izlemeye devam edin."
+    "question": "Sizce yapay zeka modellerinin bu kadar hızlı gelişmesi, iş yapış şekillerimizi ne kadar sürede tamamen değiştirecek?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri kaçırmamak için Tekno Pusula'yı takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
