@@ -1,68 +1,65 @@
 {
   "cover": {
     "category_label": "YAPAY ZEKA VE TEKNOLOJİ",
-    "title": "Bakım Verenler İçin Yeni Nesil Uygulamalar",
+    "title": "Bakım Verenler İçin Teknoloji Çözümleri",
     "highlight_words": [
-      "Bakım Verenler"
+      "Bakım",
+      "Teknoloji"
     ],
-    "highlight_color": "yellow",
-    "subtitle": "Tıbbi rahatsızlığı veya engeli olanlara destek sunan dijital çözümleri inceliyoruz.",
+    "highlight_color": "cyan",
+    "subtitle": "Bakım verenlerin hayatını kolaylaştıran dijital uygulamalar ve güncel veriler.",
     "source_tags": [
       "WIRED",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Bakım Verenlerin Dijital Dünyası",
+    "heading": "Bakım Verenlerin Güncel Durumu",
     "cards": [
       {
-        "card_title": "Medisafe",
-        "card_body": "Medisafe uygulaması 2013 yılında oluşturulmuştur ve kullanıcılara sağlık takibinde destek olmaktadır."
+        "card_title": "Milyonlarca İnsan",
+        "card_body": "AARP verilerine göre 2025 yılında tahmini 63 milyon Amerikalı yetişkin veya çocuklara bakım vermiştir."
       },
       {
-        "card_title": "Caring Village",
-        "card_body": "Caring Village uygulaması ise 2015 yılında kurulmuştur."
+        "card_title": "Yoğun Çalışma",
+        "card_body": "Bakım verenler haftada ortalama 27 saate kadar bakım sağlamaktadır."
       }
     ]
   },
   "stat": {
-    "big_stat": "63 MİLYON",
-    "stat_caption": "2025 yılında tıbbi rahatsızlığı veya engeli olanlara bakım veren Amerikan vatandaşı sayısı.",
-    "stat_quote": "AARP verilerine göre 2025 yılında tahmini 63 milyon Amerikan vatandaşı bakım vermiştir."
+    "big_stat": "27 SAAT",
+    "stat_caption": "Bakım verenlerin haftalık ortalama çalışma süresi.",
+    "stat_quote": "AARP verilerine göre bakım verenler haftada ortalama 27 saate kadar bakım sağlamaktadır."
   },
   "details": {
-    "heading": "Güncel Uygulama Girişimleri",
+    "heading": "Geliştirilen Uygulamalar",
     "cards": [
       {
-        "card_title": "Mejo",
-        "card_body": "Bret Koncak, 2022 yılında Mejo adlı web tabanlı bakım veren uygulamasını ortaklaşa kurmuştur. Premium versiyonu aylık 6 dolar veya yıllık 60 dolardır."
+        "card_title": "Medisafe ve Caring Village",
+        "card_body": "Medisafe 2013 yılında oluşturulmuştur. Caring Village ise 2015 yılında kurulmuştur."
       },
       {
-        "card_title": "Citizen Health",
-        "card_body": "Nasha Fitter, 2024 yılında Citizen Health'i ortak kurucu Farid Vij ile birlikte piyasaya sürmüştür."
-      },
-      {
-        "card_title": "Briggzy",
-        "card_body": "Brett Rowell, Briggzy adlı uygulamayı 2027 yılında daha geniş bir topluluğa sunmayı ummaktadır."
+        "card_title": "Mejo ve Citizen Health",
+        "card_body": "Bret Koncak 2022 yılında Mejo adlı web tabanlı bakım veren uygulamasını ortak kurmuştur. Nasha Fitter ise 2024 yılında Citizen Health'i başlatmıştır."
       }
     ]
   },
   "impact": {
-    "heading": "Sektör ve Kullanıcı Etkisi",
+    "heading": "Uygulama Maliyetleri ve Hedefler",
     "cards": [
       {
-        "card_title": "Organize Destek",
-        "card_body": "Web tabanlı ve mobil uygulamalar, bakım verenlerin süreçleri daha düzenli yönetmesini sağlıyor."
+        "card_title": "Mejo Premium Fiyatı",
+        "card_body": "Mejo uygulamasının premium versiyonu ayda 6 dolar veya yılda 60 dolardır."
       },
       {
-        "card_title": "Genişleyen Ekosistem",
-        "card_body": "Yeni girişimler ve farklı fiyatlandırma modelleri ile dijital sağlık çözümleri çeşitleniyor."
+        "card_title": "Gelecek Hedefleri",
+        "card_body": "Brett Rowell Briggzy adlı uygulamayı 2027 yılında daha geniş bir topluluğa sunmayı ummaktadır."
       }
     ]
   },
   "cta": {
     "question": "Sizce bu tür dijital uygulamalar bakım verenlerin işini ne kadar kolaylaştırıyor?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

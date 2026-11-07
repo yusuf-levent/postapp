@@ -2,9 +2,9 @@
   "slot": "09:00",
   "type": "news",
   "model": "gemini-3.5-flash-lite",
-  "duration_seconds": 196.9,
-  "candidates_tried": 1,
-  "gemini_calls": 17,
+  "duration_seconds": 77.1,
+  "candidates_tried": 2,
+  "gemini_calls": 15,
   "canonical_url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
-  "generated_at": "2026-11-07T14:15:27+03:00"
+  "generated_at": "2026-11-07T14:43:41+03:00"
 }
