@@ -3,20 +3,20 @@
 **Haber:** The American Dream Wasn’t Built for Climate Change
 **Canonical URL:** https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/
 **Kaynaklar:** Wired, TechCrunch, MIT Technology Review, Google Blog
-**Kontrol zamanı:** 2026-11-07T13:57:42+03:00
+**Kontrol zamanı:** 2026-11-07T14:02:47+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
 
 ## İddia Bazlı Sonuçlar
 
-### 1. First Street, a research firm, projected last year that climate risks could knock nearly $1.5 trillion off the value of American homes by 2055.
+### 1. First Street, in a report called Property Prices in Peril, projected that climate risks could knock nearly $1.5 trillion off the value of American homes by 2055.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
     > In a report called “Property Prices in Peril,” the firm First Street projected last year that climate risks could knock nearly $1.5 trillion off the value of American homes by 2055.
 
-### 2. Polling from Data for Progress shows that 58 percent of likely U.S. voters believe climate change will hinder their ability to achieve the American Dream over the next 20 years.
+### 2. According to Data for Progress polling, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
@@ -34,25 +34,25 @@
   - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
     > In western North Carolina, more than 74,000 homes were damaged and only about 4 percent had flood insurance, resulting in $9.5 billion in uninsured residential property losses.
 
-### 5. Asheville's average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent.
+### 5. Asheville’s average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
     > Asheville’s average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent.
 
-### 6. Homes within FEMA's high-risk flood zones sell for 2.8 percent less, on average, than other homes according to a 2023 study published in Nature Climate Change.
+### 6. Homes within FEMA’s high-risk flood zones sell for 2.8 percent less, on average, than what they would otherwise sell for, according to a 2023 study published in Nature Climate Change.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
     > Homes within FEMA’s high-risk flood zones sell for 2.8 percent less, on average, than what they would otherwise sell for, according to a 2023 study published in the journal Nature Climate Change.
 
-### 7. Since 2020, property insurance costs have increased by almost 80 percent, with the average single-family mortgage holder now paying $209 per month.
+### 7. Since 2020, property insurance costs have ballooned almost 80 percent, with the average single-family mortgage holder now paying $209 per month.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/)
     > Since 2020, property insurance costs have ballooned almost 80 percent, with the average single-family mortgage holder now paying $209 per month.
 
-### 8. An Ipsos poll from last year showed that 46 percent of baby boomers associate homeownership with the American Dream compared to only 13 percent of Gen Zers.
+### 8. An Ipsos poll showed that 46 percent of baby boomers associate homeownership with the American Dream compared to only 13 percent of Gen Zers.
 - **Karar:** ⚠️ `not_found`
 - **Kanıt:** yok
 
@@ -62,14 +62,14 @@
 
 | İddia | 1. Tur | 2. Tur | Nihai |
 |-------|--------|--------|-------|
-| First Street, a research firm, projected last year that clim | supported | supported | supported |
-| Polling from Data for Progress shows that 58 percent of like | supported | supported | supported |
+| First Street, in a report called Property Prices in Peril, p | supported | supported | supported |
+| According to Data for Progress polling, 58 percent of likely | supported | supported | supported |
 | In September 2024, almost 14 inches of rain fell on Ashevill | supported | supported | supported |
 | In western North Carolina, more than 74,000 homes were damag | supported | supported | supported |
-| Asheville's average home price shrunk 5 percent over the pas | supported | supported | supported |
-| Homes within FEMA's high-risk flood zones sell for 2.8 perce | supported | supported | supported |
-| Since 2020, property insurance costs have increased by almos | supported | supported | supported |
-| An Ipsos poll from last year showed that 46 percent of baby  | not_found | not_found | not_found |
+| Asheville’s average home price shrunk 5 percent over the pas | supported | supported | supported |
+| Homes within FEMA’s high-risk flood zones sell for 2.8 perce | supported | supported | supported |
+| Since 2020, property insurance costs have ballooned almost 8 | supported | supported | supported |
+| An Ipsos poll showed that 46 percent of baby boomers associa | not_found | not_found | not_found |
 
 ## Kaynak Metinleri
 

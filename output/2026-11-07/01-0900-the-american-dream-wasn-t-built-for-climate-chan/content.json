@@ -1,69 +1,69 @@
 {
   "cover": {
     "category_label": "İKLİM VE EKONOMİ",
-    "title": "İklim Değişikliği ve Konut Piyasası",
+    "title": "İklim Riskleri Emlak Değerlerini Tehdit Ediyor",
     "highlight_words": [
-      "İklim",
-      "Konut"
+      "Emlak",
+      "Değerlerini"
     ],
     "highlight_color": "yellow",
-    "subtitle": "İklim risklerinin ev değerleri ve sigorta maliyetleri üzerindeki etkisini inceliyoruz.",
+    "subtitle": "İklim krizinin emlak piyasası ve konut fiyatları üzerindeki etkileri.",
     "source_tags": [
       "WIRED",
-      "MIT TECHNOLOGY REVIEW"
+      "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "İklim Riskleri ve Gelecek Beklentisi",
+    "heading": "Piyasadaki Güncel Durum",
     "cards": [
       {
-        "card_title": "Gelecek Kaygısı",
-        "card_body": "Data for Progress anketine göre, ABD'li seçmenlerin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yılda hedeflerine ulaşmalarını engelleyeceğine inanıyor."
+        "card_title": "Sigorta Maliyetleri",
+        "card_body": "2020 yılından bu yana konut sigortası maliyetleri yaklaşık yüzde 80 oranında arttı."
       },
       {
-        "card_title": "Uzun Vadeli Projeksiyon",
-        "card_body": "First Street araştırmasına göre, iklim riskleri 2055 yılına kadar Amerikan evlerinin değerinden yaklaşık 1,5 trilyon dolar silebilir."
+        "card_title": "Amerikan Rüyası",
+        "card_body": "Seçmenlerin yüzde 58'i iklim değişikliğinin önümüzdeki 20 yılda Amerikan Rüyası'nı engelleceğine inanıyor."
       }
     ]
   },
   "stat": {
-    "big_stat": "%80",
-    "stat_caption": "2020'den bu yana konut sigortası maliyetlerindeki artış oranı.",
-    "stat_quote": "Ortalama bir tek ailelik konut ipoteği sahibi artık aylık 209 dolar sigorta ödemesi yapıyor."
+    "big_stat": "1.5 TRİLYON $",
+    "stat_caption": "2055 yılına kadar ABD'deki konut değerlerinden düşebilecek tahmini miktar.",
+    "stat_quote": "First Street raporuna göre iklim riskleri ABD'deki konut değerlerini 1.5 trilyon dolar düşürebilir."
   },
   "details": {
-    "heading": "Bölgesel Etkiler ve Veriler",
+    "heading": "Afetler ve Kayıplar",
     "cards": [
       {
-        "card_title": "Asheville Örneği",
-        "card_body": "Eylül 2024'te Helene Kasırgası sırasında Asheville'e üç gün içinde yaklaşık 14 inç yağış düştü. Bölgede ev fiyatları son bir yılda yüzde 5 düştü."
+        "card_title": "Helene Kasırgası",
+        "card_body": "Eylül 2024'te Asheville'e üç gün içinde yaklaşık 14 inç yağmur düştü."
       },
       {
-        "card_title": "Sigortasız Kayıplar",
-        "card_body": "Batı Kuzey Carolina'da 74.000'den fazla ev hasar gördü. Sadece yüzde 4'ünün sel sigortası olması, 9,5 milyar dolarlık sigortasız konut kaybına yol açtı."
+        "card_title": "Sigortasız Konutlar",
+        "card_body": "Batı Kuzey Carolina'da 74 binden fazla konut hasar gördü ve sadece yüzde 4'ünün sigortası vardı."
       },
       {
-        "card_title": "Riskli Bölgeler",
-        "card_body": "Nature Climate Change'de yayınlanan 2023 tarihli bir çalışmaya göre, FEMA'nın yüksek riskli sel bölgelerindeki evler, diğer evlere göre ortalama yüzde 2,8 daha ucuza satılıyor."
+        "card_title": "Maddi Kayıp",
+        "card_body": "Bölgede 9.5 milyar dolarlık sigortasız konut mülkü kaybı yaşandı."
       }
     ]
   },
   "impact": {
-    "heading": "Ekonomik Yansımalar",
+    "heading": "Piyasa ve Fiyat Etkileri",
     "cards": [
       {
-        "card_title": "Sektörel Değişim",
-        "card_body": "Ulusal ortalamada ev fiyatları yüzde 1,2 artarken, risk altındaki bölgelerde fiyatların düşüş eğilimi göstermesi piyasa dengelerini değiştiriyor."
+        "card_title": "Asheville Fiyatları",
+        "card_body": "Asheville'de ortalama konut fiyatı geçen yıl yüzde 5 küçülürken ulusal ortalama yüzde 1.2 arttı."
       },
       {
-        "card_title": "Kullanıcı Etkisi",
-        "card_body": "Artan sigorta maliyetleri ve düşen mülk değerleri, ev sahiplerinin finansal planlamalarını ve uzun vadeli yatırım kararlarını doğrudan etkiliyor."
+        "card_title": "Risk Bölgeleri",
+        "card_body": "FEMA'nın yüksek riskli sel bölgelerindeki evler ortalama yüzde 2.8 daha ucuza satılıyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce iklim riskleri, konut yatırımı yaparken karar verme sürecinizi nasıl değiştirmeli?",
-    "reminder_line": "Doğrulanmış verilerle teknoloji ve ekonomi dünyasını takip etmeye devam edin."
+    "question": "İklim krizinin gayrimenkul piyasasını nasıl şekillendireceğini düşünüyorsunuz?",
+    "reminder_line": "Tekno Pusula ile güncel gelişmeleri takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

@@ -7,12 +7,12 @@
     "MIT Technology Review",
     "Google Blog"
   ],
-  "checked_at": "2026-11-07T13:57:42+03:00",
+  "checked_at": "2026-11-07T14:02:47+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "First Street, a research firm, projected last year that climate risks could knock nearly $1.5 trillion off the value of American homes by 2055.",
+      "claim": "First Street, in a report called Property Prices in Peril, projected that climate risks could knock nearly $1.5 trillion off the value of American homes by 2055.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "claim": "Polling from Data for Progress shows that 58 percent of likely U.S. voters believe climate change will hinder their ability to achieve the American Dream over the next 20 years.",
+      "claim": "According to Data for Progress polling, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years.",
       "verdict": "supported",
       "evidence": [
         {
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "claim": "Asheville's average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent.",
+      "claim": "Asheville’s average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent.",
       "verdict": "supported",
       "evidence": [
         {
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "claim": "Homes within FEMA's high-risk flood zones sell for 2.8 percent less, on average, than other homes according to a 2023 study published in Nature Climate Change.",
+      "claim": "Homes within FEMA’s high-risk flood zones sell for 2.8 percent less, on average, than what they would otherwise sell for, according to a 2023 study published in Nature Climate Change.",
       "verdict": "supported",
       "evidence": [
         {
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "claim": "Since 2020, property insurance costs have increased by almost 80 percent, with the average single-family mortgage holder now paying $209 per month.",
+      "claim": "Since 2020, property insurance costs have ballooned almost 80 percent, with the average single-family mortgage holder now paying $209 per month.",
       "verdict": "supported",
       "evidence": [
         {
@@ -82,14 +82,14 @@
       ]
     },
     {
-      "claim": "An Ipsos poll from last year showed that 46 percent of baby boomers associate homeownership with the American Dream compared to only 13 percent of Gen Zers.",
+      "claim": "An Ipsos poll showed that 46 percent of baby boomers associate homeownership with the American Dream compared to only 13 percent of Gen Zers.",
       "verdict": "not_found",
       "evidence": []
     }
   ],
   "round1": [
     {
-      "claim": "First Street, a research firm, projected last year that climate risks could knock nearly $1.5 trillion off the value of American homes by 2055.",
+      "claim": "First Street, in a report called Property Prices in Peril, projected that climate risks could knock nearly $1.5 trillion off the value of American homes by 2055.",
       "verdict": "supported",
       "evidence": [
         {
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "claim": "Polling from Data for Progress shows that 58 percent of likely U.S. voters believe climate change will hinder their ability to achieve the American Dream over the next 20 years.",
+      "claim": "According to Data for Progress polling, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years.",
       "verdict": "supported",
       "evidence": [
         {
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "claim": "Asheville's average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent.",
+      "claim": "Asheville’s average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent.",
       "verdict": "supported",
       "evidence": [
         {
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "claim": "Homes within FEMA's high-risk flood zones sell for 2.8 percent less, on average, than other homes according to a 2023 study published in Nature Climate Change.",
+      "claim": "Homes within FEMA’s high-risk flood zones sell for 2.8 percent less, on average, than what they would otherwise sell for, according to a 2023 study published in Nature Climate Change.",
       "verdict": "supported",
       "evidence": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "claim": "Since 2020, property insurance costs have increased by almost 80 percent, with the average single-family mortgage holder now paying $209 per month.",
+      "claim": "Since 2020, property insurance costs have ballooned almost 80 percent, with the average single-family mortgage holder now paying $209 per month.",
       "verdict": "supported",
       "evidence": [
         {
@@ -159,14 +159,14 @@
       ]
     },
     {
-      "claim": "An Ipsos poll from last year showed that 46 percent of baby boomers associate homeownership with the American Dream compared to only 13 percent of Gen Zers.",
+      "claim": "An Ipsos poll showed that 46 percent of baby boomers associate homeownership with the American Dream compared to only 13 percent of Gen Zers.",
       "verdict": "not_found",
       "evidence": []
     }
   ],
   "round2": [
     {
-      "claim": "First Street, a research firm, projected last year that climate risks could knock nearly $1.5 trillion off the value of American homes by 2055.",
+      "claim": "First Street, in a report called Property Prices in Peril, projected that climate risks could knock nearly $1.5 trillion off the value of American homes by 2055.",
       "verdict": "supported",
       "evidence": [
         {
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "claim": "Polling from Data for Progress shows that 58 percent of likely U.S. voters believe climate change will hinder their ability to achieve the American Dream over the next 20 years.",
+      "claim": "According to Data for Progress polling, 58 percent of likely U.S. voters believe that climate change will hinder their ability to achieve the American Dream over the next 20 years.",
       "verdict": "supported",
       "evidence": [
         {
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "claim": "Asheville's average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent.",
+      "claim": "Asheville’s average home price shrunk 5 percent over the past year, while the national average increased 1.2 percent.",
       "verdict": "supported",
       "evidence": [
         {
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "claim": "Homes within FEMA's high-risk flood zones sell for 2.8 percent less, on average, than other homes according to a 2023 study published in Nature Climate Change.",
+      "claim": "Homes within FEMA’s high-risk flood zones sell for 2.8 percent less, on average, than what they would otherwise sell for, according to a 2023 study published in Nature Climate Change.",
       "verdict": "supported",
       "evidence": [
         {
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "claim": "Since 2020, property insurance costs have increased by almost 80 percent, with the average single-family mortgage holder now paying $209 per month.",
+      "claim": "Since 2020, property insurance costs have ballooned almost 80 percent, with the average single-family mortgage holder now paying $209 per month.",
       "verdict": "supported",
       "evidence": [
         {
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "claim": "An Ipsos poll from last year showed that 46 percent of baby boomers associate homeownership with the American Dream compared to only 13 percent of Gen Zers.",
+      "claim": "An Ipsos poll showed that 46 percent of baby boomers associate homeownership with the American Dream compared to only 13 percent of Gen Zers.",
       "verdict": "not_found",
       "evidence": []
     }
