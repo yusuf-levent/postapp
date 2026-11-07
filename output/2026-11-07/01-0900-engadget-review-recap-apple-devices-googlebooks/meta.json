@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 113.5,
+  "candidates_tried": 1,
+  "gemini_calls": 17,
+  "canonical_url": "https://www.engadget.com/2309200/engadget-review-recap-apple-devices-googlebooks-and-kindles/",
+  "generated_at": "2026-11-07T16:13:48+03:00"
+}

@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ GÜNDEMİ",
+    "title": "Teknoloji Dünyasında Yeni Ürünler ve İncelemeler",
+    "highlight_words": [
+      "Yeni Ürünler",
+      "İncelemeler"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Apple, Amazon ve dizüstü bilgisayar pazarındaki son gelişmeleri mercek altına alıyoruz.",
+    "source_tags": [
+      "ENGADGET",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Teknoloji Dünyasında Hareketli Günler",
+    "cards": [
+      {
+        "card_title": "Apple'dan Yeni Donanımlar",
+        "card_body": "Apple geçtiğimiz hafta üç yeni Mac modeli ve yenilenmiş bir iPad mini modelini teknoloji dünyasına tanıttı."
+      },
+      {
+        "card_title": "İnceleme Trafiği Artıyor",
+        "card_body": "Engadget, son iki haftada 13 yeni inceleme yayınladı ve önümüzdeki hafta için altı yeni inceleme daha planlıyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "13",
+    "stat_caption": "Engadget tarafından son iki haftada yayınlanan toplam ürün inceleme sayısı.",
+    "stat_quote": "Engadget, önümüzdeki hafta için altı yeni incelemenin daha planlandığını duyurdu."
+  },
+  "details": {
+    "heading": "Öne Çıkan Yeni Cihazlar",
+    "cards": [
+      {
+        "card_title": "iPad mini Detayları",
+        "card_body": "Yeni iPad mini, A20 Pro çip ile geliyor. Cihaz 60Hz ekran yenileme hızına sahip ve Face ID özelliği bulunmuyor."
+      },
+      {
+        "card_title": "Dizüstü Bilgisayarlar",
+        "card_body": "Lenovo Googlebook 15 ve Dell XPS Googlebook modellerinin her ikisi de yaklaşık 1.000 dolar fiyat etiketiyle sunuluyor."
+      },
+      {
+        "card_title": "Amazon E-Okuyucular",
+        "card_body": "Amazon, sonbahar döneminde Colorsoft ve Paperwhite modellerinin Signature Edition versiyonlarını piyasaya sürdü."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Pazar ve Kullanıcı Etkisi",
+    "cards": [
+      {
+        "card_title": "Sektörel Çeşitlilik",
+        "card_body": "Yeni Mac modelleri ve güncellenen e-okuyucular, donanım pazarında farklı segmentlerde rekabeti canlı tutuyor."
+      },
+      {
+        "card_title": "Kullanıcı Tercihleri",
+        "card_body": "Yeni iPad mini'nin teknik özellikleri ve dizüstü bilgisayarların fiyatlandırması, kullanıcıların satın alma kararlarını etkiliyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce yeni iPad mini'nin teknik özellikleri beklentilerinizi karşılıyor mu?",
+    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
