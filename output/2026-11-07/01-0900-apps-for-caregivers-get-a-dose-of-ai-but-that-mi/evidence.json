@@ -7,12 +7,12 @@
     "BBC News – Technology",
     "Engadget"
   ],
-  "checked_at": "2026-11-07T14:43:04+03:00",
+  "checked_at": "2026-11-07T15:08:00+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "AARP verilerine göre 2025 yılında tahmini 63 milyon Amerikalı yetişkin veya çocuklara bakım vermiştir.",
+      "claim": "AARP verilerine göre 2025 yılında tahmini 63 milyon Amerikalı yetişkin veya çocuk bakımı üstlenmiştir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "claim": "Bakım verenler haftada ortalama 27 saate kadar bakım sağlamaktadır.",
+      "claim": "Bakıcılar haftada ortalama 27 saate kadar bakım hizmeti sunmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -48,15 +48,11 @@
         {
           "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
           "quote": "Caring Village, which was founded in 2015, has an appointment calendar, a to-do list, and a wellness journal where users can keep track of their loved one’s symptoms and moods, and even upload a photo."
-        },
-        {
-          "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
-          "quote": "Caring Village, which was founded in 2015, has an appointment calendar, a to-do list, and a wellness journal"
         }
       ]
     },
     {
-      "claim": "Bret Koncak 2022 yılında Mejo adlı web tabanlı bakım veren uygulamasını ortak kurmuştur.",
+      "claim": "Bret Koncak 2022 yılında Mejo adlı web tabanlı bakım uygulamasını ortak kurmuştur.",
       "verdict": "supported",
       "evidence": [
         {
@@ -66,16 +62,12 @@
       ]
     },
     {
-      "claim": "Mejo uygulamasının premium versiyonu ayda 6 dolar veya yılda 60 dolardır.",
+      "claim": "Mejo uygulamasının premium versiyonu aylık 6 dolar veya yıllık 60 dolar tutarındadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
           "quote": "For $6 a month or $60 a year, the premium version of Mejo gives users access to daily journaling, which they can share with other caregivers, so everyone stays on the same page without having to catch up verbally."
-        },
-        {
-          "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
-          "quote": "For $6 a month or $60 a year, the premium version of Mejo gives users access to daily journaling"
         }
       ]
     },
@@ -86,11 +78,15 @@
         {
           "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
           "quote": "Briggzy is currently in the testing phase, and Rowell hopes to launch it to a wider community in 2027."
+        },
+        {
+          "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+          "quote": "Brett Rowell, whose son Briggs has cerebral palsy, is creating an app called Briggzy, so he and his wife, who work different hours, can more easily hand off their son’s care. Briggzy is currently in the testing phase, and Rowell hopes to launch it to a wider community in 2027."
         }
       ]
     },
     {
-      "claim": "Nasha Fitter, ortak kurucusu Farid Vij ile birlikte 2024 yılında Citizen Health'i başlatmıştır.",
+      "claim": "Nasha Fitter, ortak kurucusu Farid Vij ile birlikte 2024 yılında Citizen Health'i piyasaya sürmüştür.",
       "verdict": "supported",
       "evidence": [
         {
@@ -102,7 +98,7 @@
   ],
   "round1": [
     {
-      "claim": "AARP verilerine göre 2025 yılında tahmini 63 milyon Amerikalı yetişkin veya çocuklara bakım vermiştir.",
+      "claim": "AARP verilerine göre 2025 yılında tahmini 63 milyon Amerikalı yetişkin veya çocuk bakımı üstlenmiştir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -112,7 +108,7 @@
       ]
     },
     {
-      "claim": "Bakım verenler haftada ortalama 27 saate kadar bakım sağlamaktadır.",
+      "claim": "Bakıcılar haftada ortalama 27 saate kadar bakım hizmeti sunmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -138,15 +134,11 @@
         {
           "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
           "quote": "Caring Village, which was founded in 2015, has an appointment calendar, a to-do list, and a wellness journal where users can keep track of their loved one’s symptoms and moods, and even upload a photo."
-        },
-        {
-          "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
-          "quote": "Caring Village, which was founded in 2015, has an appointment calendar, a to-do list, and a wellness journal"
         }
       ]
     },
     {
-      "claim": "Bret Koncak 2022 yılında Mejo adlı web tabanlı bakım veren uygulamasını ortak kurmuştur.",
+      "claim": "Bret Koncak 2022 yılında Mejo adlı web tabanlı bakım uygulamasını ortak kurmuştur.",
       "verdict": "supported",
       "evidence": [
         {
@@ -156,16 +148,12 @@
       ]
     },
     {
-      "claim": "Mejo uygulamasının premium versiyonu ayda 6 dolar veya yılda 60 dolardır.",
+      "claim": "Mejo uygulamasının premium versiyonu aylık 6 dolar veya yıllık 60 dolar tutarındadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
           "quote": "For $6 a month or $60 a year, the premium version of Mejo gives users access to daily journaling, which they can share with other caregivers, so everyone stays on the same page without having to catch up verbally."
-        },
-        {
-          "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
-          "quote": "For $6 a month or $60 a year, the premium version of Mejo gives users access to daily journaling"
         }
       ]
     },
@@ -176,11 +164,15 @@
         {
           "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
           "quote": "Briggzy is currently in the testing phase, and Rowell hopes to launch it to a wider community in 2027."
+        },
+        {
+          "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+          "quote": "Brett Rowell, whose son Briggs has cerebral palsy, is creating an app called Briggzy, so he and his wife, who work different hours, can more easily hand off their son’s care. Briggzy is currently in the testing phase, and Rowell hopes to launch it to a wider community in 2027."
         }
       ]
     },
     {
-      "claim": "Nasha Fitter, ortak kurucusu Farid Vij ile birlikte 2024 yılında Citizen Health'i başlatmıştır.",
+      "claim": "Nasha Fitter, ortak kurucusu Farid Vij ile birlikte 2024 yılında Citizen Health'i piyasaya sürmüştür.",
       "verdict": "supported",
       "evidence": [
         {
@@ -192,7 +184,7 @@
   ],
   "round2": [
     {
-      "claim": "AARP verilerine göre 2025 yılında tahmini 63 milyon Amerikalı yetişkin veya çocuklara bakım vermiştir.",
+      "claim": "AARP verilerine göre 2025 yılında tahmini 63 milyon Amerikalı yetişkin veya çocuk bakımı üstlenmiştir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -202,7 +194,7 @@
       ]
     },
     {
-      "claim": "Bakım verenler haftada ortalama 27 saate kadar bakım sağlamaktadır.",
+      "claim": "Bakıcılar haftada ortalama 27 saate kadar bakım hizmeti sunmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -228,15 +220,11 @@
         {
           "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
           "quote": "Caring Village, which was founded in 2015, has an appointment calendar, a to-do list, and a wellness journal where users can keep track of their loved one’s symptoms and moods, and even upload a photo."
-        },
-        {
-          "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
-          "quote": "Caring Village, which was founded in 2015, has an appointment calendar, a to-do list, and a wellness journal"
         }
       ]
     },
     {
-      "claim": "Bret Koncak 2022 yılında Mejo adlı web tabanlı bakım veren uygulamasını ortak kurmuştur.",
+      "claim": "Bret Koncak 2022 yılında Mejo adlı web tabanlı bakım uygulamasını ortak kurmuştur.",
       "verdict": "supported",
       "evidence": [
         {
@@ -246,16 +234,12 @@
       ]
     },
     {
-      "claim": "Mejo uygulamasının premium versiyonu ayda 6 dolar veya yılda 60 dolardır.",
+      "claim": "Mejo uygulamasının premium versiyonu aylık 6 dolar veya yıllık 60 dolar tutarındadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
           "quote": "For $6 a month or $60 a year, the premium version of Mejo gives users access to daily journaling, which they can share with other caregivers, so everyone stays on the same page without having to catch up verbally."
-        },
-        {
-          "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
-          "quote": "For $6 a month or $60 a year, the premium version of Mejo gives users access to daily journaling"
         }
       ]
     },
@@ -266,11 +250,15 @@
         {
           "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
           "quote": "Briggzy is currently in the testing phase, and Rowell hopes to launch it to a wider community in 2027."
+        },
+        {
+          "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+          "quote": "Brett Rowell, whose son Briggs has cerebral palsy, is creating an app called Briggzy, so he and his wife, who work different hours, can more easily hand off their son’s care. Briggzy is currently in the testing phase, and Rowell hopes to launch it to a wider community in 2027."
         }
       ]
     },
     {
-      "claim": "Nasha Fitter, ortak kurucusu Farid Vij ile birlikte 2024 yılında Citizen Health'i başlatmıştır.",
+      "claim": "Nasha Fitter, ortak kurucusu Farid Vij ile birlikte 2024 yılında Citizen Health'i piyasaya sürmüştür.",
       "verdict": "supported",
       "evidence": [
         {

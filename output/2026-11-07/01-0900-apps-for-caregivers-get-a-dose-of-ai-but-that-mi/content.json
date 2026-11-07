@@ -1,65 +1,68 @@
 {
   "cover": {
-    "category_label": "YAPAY ZEKA VE TEKNOLOJİ",
-    "title": "Bakım Verenler İçin Teknoloji Çözümleri",
+    "category_label": "YAPAY ZEKA VE YAŞAM",
+    "title": "Bakım Hizmetlerinde Teknoloji Dönemi",
     "highlight_words": [
-      "Bakım",
       "Teknoloji"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Bakım verenlerin hayatını kolaylaştıran dijital uygulamalar ve güncel veriler.",
+    "subtitle": "Bakım verenlerin işini kolaylaştıran uygulamalar ve güncel veriler.",
     "source_tags": [
       "WIRED",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Bakım Verenlerin Güncel Durumu",
+    "heading": "Bakım Sektörünün Boyutları",
     "cards": [
       {
-        "card_title": "Milyonlarca İnsan",
-        "card_body": "AARP verilerine göre 2025 yılında tahmini 63 milyon Amerikalı yetişkin veya çocuklara bakım vermiştir."
+        "card_title": "Milyonlarca Bakıcı",
+        "card_body": "AARP verilerine göre 2025 yılında tahmini 63 milyon Amerikalı yetişkin veya çocuk bakımı üstlenmiştir."
       },
       {
-        "card_title": "Yoğun Çalışma",
-        "card_body": "Bakım verenler haftada ortalama 27 saate kadar bakım sağlamaktadır."
+        "card_title": "Harcanan Zaman",
+        "card_body": "Bakıcılar haftada ortalama 27 saate kadar bakım hizmeti sunmaktadır."
       }
     ]
   },
   "stat": {
     "big_stat": "27 SAAT",
-    "stat_caption": "Bakım verenlerin haftalık ortalama çalışma süresi.",
-    "stat_quote": "AARP verilerine göre bakım verenler haftada ortalama 27 saate kadar bakım sağlamaktadır."
+    "stat_caption": "Bakıcıların haftalık ortalama bakım süresi",
+    "stat_quote": "AARP verilerine göre bakıcılar haftada ortalama 27 saate kadar bakım hizmeti sunmaktadır."
   },
   "details": {
-    "heading": "Geliştirilen Uygulamalar",
+    "heading": "Öne Çıkan Uygulamalar",
     "cards": [
       {
         "card_title": "Medisafe ve Caring Village",
-        "card_body": "Medisafe 2013 yılında oluşturulmuştur. Caring Village ise 2015 yılında kurulmuştur."
+        "card_body": "Medisafe 2013 yılında oluşturulurken, Caring Village 2015 yılında kurulmuştur."
       },
       {
-        "card_title": "Mejo ve Citizen Health",
-        "card_body": "Bret Koncak 2022 yılında Mejo adlı web tabanlı bakım veren uygulamasını ortak kurmuştur. Nasha Fitter ise 2024 yılında Citizen Health'i başlatmıştır."
+        "card_title": "Mejo Uygulaması",
+        "card_body": "Bret Koncak 2022 yılında Mejo adlı web tabanlı bakım uygulamasını ortak kurmuştur."
+      },
+      {
+        "card_title": "Citizen Health",
+        "card_body": "Nasha Fitter, ortak kurucusu Farid Vij ile birlikte 2024 yılında Citizen Health'i piyasaya sürmüştür."
       }
     ]
   },
   "impact": {
-    "heading": "Uygulama Maliyetleri ve Hedefler",
+    "heading": "Gelecek Planları ve Maliyetler",
     "cards": [
       {
-        "card_title": "Mejo Premium Fiyatı",
-        "card_body": "Mejo uygulamasının premium versiyonu ayda 6 dolar veya yılda 60 dolardır."
+        "card_title": "Mejo Premium Ücreti",
+        "card_body": "Mejo uygulamasının premium versiyonu aylık 6 dolar veya yıllık 60 dolar tutarındadır."
       },
       {
-        "card_title": "Gelecek Hedefleri",
+        "card_title": "Briggzy Hedefi",
         "card_body": "Brett Rowell Briggzy adlı uygulamayı 2027 yılında daha geniş bir topluluğa sunmayı ummaktadır."
       }
     ]
   },
   "cta": {
-    "question": "Sizce bu tür dijital uygulamalar bakım verenlerin işini ne kadar kolaylaştırıyor?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın."
+    "question": "Bakım süreçlerini yöneten bu tür dijital uygulamalar hayatınızı nasıl etkiliyor?",
+    "reminder_line": "Teknoloji ve yaşam odaklı gelişmeler için takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
