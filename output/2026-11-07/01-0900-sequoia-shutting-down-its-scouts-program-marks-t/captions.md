@@ -2,68 +2,62 @@
 
 ## INSTAGRAM
 
-Girişim sermayesi dünyasında devir değişiyor! 📉 Ünlü yatırım devi Sequoia, 17 yıldır sürdürdüğü ikonik Scout programını sonlandırma ve Londra ofisini kapatma kararı aldı.
+Yatırım dünyasında taşlar yerinden oynuyor! 📉 Sequoia Capital, 17 yıldır sürdürdüğü ikonik 'Scout' programını sonlandırma ve Londra ofisini kapatma kararı aldı. 
 
-Sequoia, seçilmiş kurucuların ve operatörlerin firma adına yatırım yapmasını sağlayan bu modele öncülük etmişti. Ancak sektördeki rüzgarlar tersine dönüyor. Bazı fonlar programları tamamen kapatırken, a16z gibi devler daha seçici ve odaklı bir stratejiye geçiş yapıyor.
+Bu hamle, dev yatırım şirketlerinin stratejilerini yeniden gözden geçirdiğinin en büyük kanıtı. Sektörde 'Scout' modelinin verimliliği uzun süredir tartışılıyordu; Sequoia'nın bu kararı, erken aşama yatırım modellerinde yeni bir dönemin habercisi olabilir.
 
-Sizce scout programları, girişim sermayesi dünyasında hala etkili bir yöntem mi, yoksa devri kapandı mı? Yorumlarda buluşalım! 👇
+Diğer devler ise farklı yollar izliyor. Örneğin a16z, scout ağını daha seçici bir şekilde güncelleyerek yoluna devam ediyor. 
 
-Teknoloji dünyasındaki güncel gelişmeleri kaçırmamak için Tekno Pusula'yı takipte kalın.
+Sizce scout modelleri, girişimcilik dünyasında hala etkili bir yöntem mi, yoksa devri geçti mi? Yorumlarda buluşalım! 👇
 
 Kaynak: TechCrunch, BBC News
 
-#Sequoia #GirişimSermayesi #VentureCapital #Teknoloji #Yatırım #Startup #ScoutProgram #BusinessNews #TeknoPusula #Finans #TechNews
+#SequoiaCapital #Girişimcilik #Yatırım #VentureCapital #Startup #Teknoloji #ScoutProgram #BusinessNews #Finans #TechCrunch
 
 ## TIKTOK
 
-Sequoia'dan şok karar! 🚨 17 yıllık Scout programı bitiyor, Londra ofisi kapanıyor. Girişim sermayesi dünyasında neler oluyor? Yatırım stratejileri neden değişiyor? Detaylar videoda! 🚀
+Yatırım dünyasında büyük değişim! 🚨 Sequoia Capital, 17 yıllık Scout programını bitiriyor ve Londra ofisini kapatıyor. Erken aşama yatırımlarda devrim mi, yoksa stratejik bir geri çekilme mi? Sizce scout modelleri hala işe yarıyor mu? Yorumlara bekliyorum! Kaynak: TechCrunch, BBC News
 
-Kaynak: TechCrunch, BBC News
-
-#Sequoia #GirişimSermayesi #Yatırım #Startup #Teknoloji #Finans
+#Sequoia #Yatırım #Girişimcilik #Startup #Finans #Teknoloji
 
 ## X
 
-Girişim sermayesi dünyasında büyük değişim: Sequoia, 17 yıllık Scout programını sonlandırıyor ve Londra ofisini kapatıyor. Sektörde yatırım stratejileri yeniden şekilleniyor. Sizce bu model hala etkili mi? 
-
-Kaynak: TechCrunch, BBC News
+Yatırım dünyasında büyük değişim: Sequoia Capital, 17 yıllık Scout programını sonlandırıyor ve Londra ofisini kapatıyor. Erken aşama yatırım modelleri yeniden mi şekilleniyor? Sizce bu model hala etkili mi? Kaynak: TechCrunch, BBC News
 
 #Sequoia #VentureCapital
 
 ## THREADS
 
-Sequoia'dan Büyük Karar: Scout Programı Bitiyor 📉
+Sequoia Capital'da Büyük Değişim 📉
 
-Ünlü yatırım devi Sequoia, 17 yıldır devam eden ve sektöre öncülük eden Scout programını sonlandırma ve Londra ofisini kapatma kararı aldı. Yatırım dünyasında stratejiler değişiyor; bazı fonlar programları kapatırken, bazıları daha seçici hale geliyor.
+Dev yatırım şirketi, 17 yıldır öncülük ettiği Scout programını sonlandırma ve Londra ofisini kapatma kararı aldı. Bu hamle, erken aşama yatırım stratejilerinin sektör genelinde sorgulandığını gösteriyor.
 
-Sizce scout programları, girişim sermayesi dünyasında hala etkili bir yöntem mi? 💭
+Sizce scout modelleri, girişimcilik dünyasında hala etkili bir yöntem mi? 💭
 
 Kaynak: TechCrunch, BBC News
 
-#GirişimSermayesi
+#Girişimcilik
 
 ## LINKEDIN
 
-Girişim sermayesi ekosisteminde önemli bir dönüm noktası: Sequoia Capital, 17 yıldır uyguladığı ve sektöre model olan Scout programını sonlandırma ve Londra ofisini kapatma kararı aldı.
+Yatırım ekosisteminde stratejik bir dönüm noktası: Sequoia Capital, 17 yıldır uyguladığı 'Scout' programını sonlandırma ve Londra ofisini kapatma kararı aldı. 
 
-Bu hamle, VC dünyasındaki yatırım stratejilerinin yeniden değerlendirildiğini gösteriyor. Sektördeki diğer oyuncular ya bu modelleri tamamen terk ediyor ya da a16z örneğinde olduğu gibi, daha az kişiyle daha odaklı ve bütçesi artırılmış yeni bir yapıya geçiş yapıyor.
+Bu gelişme, büyük ölçekli yatırım şirketlerinin erken aşama stratejilerini yeniden yapılandırdığını gösteriyor. Sektördeki diğer oyuncular, örneğin a16z, scout ağlarını daha seçici ve yetenek odaklı bir şekilde revize etmeyi tercih ederken, Sequoia'nın bu radikal kararı VC dünyasında yeni bir tartışma başlattı.
 
-Operatörlerin ve kurucuların yatırım süreçlerine dahil olduğu bu modelin geleceği, önümüzdeki dönemde daha fazla tartışılacak gibi görünüyor. Sizce bu değişim, ekosistemi nasıl etkileyecek?
+Avrupa pazarı için de önemli bir sinyal olan bu değişim, 'scout' modelinin verimliliğinin sorgulandığı bir döneme işaret ediyor. Sizce bu modeller, günümüzün rekabetçi yatırım ortamında hala sürdürülebilir mi?
 
-Kaynak: TechCrunch, BBC News
+Kaynak: TechCrunch, BBC News, MIT Technology Review
 
-#VentureCapital #Sequoia #YatırımStratejisi #StartupEkosistemi #Teknoloji
+#VentureCapital #SequoiaCapital #Yatırım #Girişimcilik #Strateji
 
 ## FACEBOOK
 
-Girişim sermayesi dünyasında devir değişiyor! 📉 Ünlü yatırım devi Sequoia, 17 yıldır sürdürdüğü ikonik Scout programını sonlandırma ve Londra ofisini kapatma kararı aldı.
+Yatırım dünyasında şaşırtan gelişme! 📉 Sequoia Capital, 17 yıldır sürdürdüğü Scout programını bitiriyor ve Londra ofisini kapatıyor. 
 
-Sequoia, seçilmiş kurucuların ve operatörlerin firma adına yatırım yapmasını sağlayan bu modele öncülük etmişti. Ancak sektördeki rüzgarlar tersine dönüyor. Bazı fonlar programları tamamen kapatırken, a16z gibi devler daha seçici ve odaklı bir stratejiye geçiş yapıyor.
+Bu hamle, dev yatırım şirketlerinin stratejilerini yeniden gözden geçirdiğini gösteriyor. Erken aşama yatırım modelleri artık değişiyor mu? Sektördeki bu büyük değişim hakkında ne düşünüyorsunuz? 
 
-Sizce scout programları, girişim sermayesi dünyasında hala etkili bir yöntem mi? Yorumlarda buluşalım!
-
-Teknoloji dünyasındaki güncel gelişmeleri kaçırmamak için Tekno Pusula'yı takipte kalın.
+Sizce scout modelleri, girişimcilik dünyasında hala etkili bir yöntem mi? Yorumlarınızı bekliyoruz! 
 
 Kaynak: TechCrunch, BBC News
 
-#Sequoia #GirişimSermayesi #Yatırım #Startup #Teknoloji
+#SequoiaCapital #Yatırım #Girişimcilik #Startup #Teknoloji
