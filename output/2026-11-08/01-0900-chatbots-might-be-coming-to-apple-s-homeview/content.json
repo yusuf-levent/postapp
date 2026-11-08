@@ -1,50 +1,46 @@
 {
   "cover": {
     "category_label": "YAZILIM GÜNCELLEMELERİ",
-    "title": "iOS 27.3 Beta ile Gelen Yenilikler",
+    "title": "iOS 27.3 Beta ile Gelen Yeni Özellikler",
     "highlight_words": [
       "iOS 27.3",
-      "Yenilikler"
+      "Beta"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Akıllı ev sistemleri için sohbet robotu desteği ve yeni güvenlik önlemleri yolda.",
+    "subtitle": "Apple'ın yeni beta sürümü, yapay zeka odaklı geliştirmeler ve güvenlik güncellemeleri sunuyor.",
     "source_tags": [
       "THE VERGE",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Sohbet Robotu Dönemi Başlıyor",
+    "heading": "Yapay Zeka ve Sesli Etkileşim",
     "cards": [
       {
-        "card_title": "Sohbet Uygulamaları Kategorisi",
-        "card_body": "iOS 27.3 beta kodlarında 'Conversational Apps' yani Sohbet Uygulamaları adında yeni bir kategori bayrağı keşfedildi."
+        "card_title": "Konuşma Uygulamaları",
+        "card_body": "iOS 27.3 beta kodlarında 'Conversational Apps' yani Konuşma Uygulamaları kategorisi için özel bir işaret tespit edildi."
       },
       {
-        "card_title": "Akıllı Ev Entegrasyonu",
-        "card_body": "Kodlar, akıllı ev merkezleri için özel bir sohbet robotu desteğinin yolda olduğuna dair güçlü işaretler taşıyor."
+        "card_title": "Gelişmiş Ses Desteği",
+        "card_body": "X kullanıcısı pdfu'nun paylaşımlarına göre, yeni sürüm çift yönlü ses yönlendirme ve oturum yönetimi desteği getiriyor."
       }
     ]
   },
   "stat": {
     "big_stat": "8 SAAT",
-    "stat_caption": "Yeni güvenlik sistemiyle gelen maksimum bekleme süresi.",
-    "stat_quote": "Yeni güvenlik sistemi, dördüncü başarısız denemeden sonra sekiz saate kadar çıkan artan bekleme süreleri içeriyor. - Wired"
+    "stat_caption": "Yeni güvenlik sistemi, artan bekleme süreleriyle cihazınızı koruma altına alıyor.",
+    "stat_quote": "Dördüncü kilitlemede sekiz saate varan bekleme süresi, yetkisiz erişimlere karşı ciddi bir bariyer oluşturuyor."
   },
   "details": {
-    "heading": "Teknik Detaylar ve Güvenlik",
+    "heading": "Güvenlikte Yeni Dönem",
     "cards": [
       {
-        "card_title": "Ses ve Oturum Yönetimi",
-        "card_body": "X kullanıcısı pdfu'nun aktardığına göre, iOS 27.3 beta sürümü çift yönlü ses yönlendirme ve oturum yönetimi desteği ekliyor."
-      },
-      {
         "card_title": "Anti-Spoofing Koruması",
-        "card_body": "Apple, üç başarısız denemeden sonra kullanıcının iPhone ile kimlik doğrulaması yapmasını zorunlu kılan bir koruma ekledi."
+        "card_body": "Apple, üç başarısız denemenin ardından kullanıcının iPhone ile kimlik doğrulaması yapmasını zorunlu kılan bir sistem ekledi."
       },
       {
         "card_title": "Kademeli Kilitleme",
-        "card_body": "Güvenlik sistemi, ikinci kilitlemede bir saatten başlayarak artan bekleme süreleriyle cihazı koruma altına alıyor."
+        "card_body": "Güvenlik sistemi, ikinci kilitlemede bir saat, dördüncü kilitlemede ise sekiz saate kadar uzayan bekleme süreleri içeriyor."
       }
     ]
   },
@@ -52,18 +48,18 @@
     "heading": "Kullanıcı ve Sektör Etkisi",
     "cards": [
       {
-        "card_title": "Akıllı Ev Deneyimi",
-        "card_body": "Sohbet robotu desteği, evdeki cihazlarla etkileşimi daha doğal ve konuşma tabanlı bir hale getirebilir."
+        "card_title": "Kullanıcı Güvenliği",
+        "card_body": "Artan bekleme süreleri, cihazın yetkisiz kişilerce açılmasını zorlaştırarak kişisel verilerin korunmasını güçlendiriyor."
       },
       {
-        "card_title": "Güvenlik Standartları",
-        "card_body": "Artan bekleme süreleri, yetkisiz erişim denemelerine karşı cihaz güvenliğini önemli ölçüde sıkılaştırıyor."
+        "card_title": "Yapay Zeka Entegrasyonu",
+        "card_body": "Konuşma uygulamaları kategorisi, Apple'ın sesli asistan ve yapay zeka etkileşimlerini daha ileri bir seviyeye taşıyacağını gösteriyor."
       }
     ]
   },
   "cta": {
-    "question": "Akıllı evinizi bir sohbet robotu ile yönetmek ister miydiniz?",
-    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeler için Tekno Pusula'yı takipte kalın."
+    "question": "Sizce Apple'ın bu yeni güvenlik önlemleri, cihaz kullanım alışkanlıklarınızı nasıl etkiler?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri kaçırmamak için takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

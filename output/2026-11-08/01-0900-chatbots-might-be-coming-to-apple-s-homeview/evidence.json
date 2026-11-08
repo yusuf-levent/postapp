@@ -7,38 +7,24 @@
     "Engadget",
     "TechCrunch"
   ],
-  "checked_at": "2026-11-08T18:03:17+03:00",
+  "checked_at": "2026-11-08T18:07:20+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "iOS 27.3 beta sürümünün kodlarında akıllı ev merkezi için sohbet robotu desteği olabileceğine dair işaretler bulunuyor.",
+      "claim": "iOS 27.3 beta sürümünün kodlarında 'Conversational Apps' (Konuşma Uygulamaları) kategorisi için bir işaret bulunuyor.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-          "quote": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub."
+          "quote": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There’s a flag listed for a “Conversational Apps” category."
         }
       ]
     },
     {
-      "claim": "iOS 27.3 beta kodlarında 'Conversational Apps' (Sohbet Uygulamaları) adında bir kategori bayrağı yer alıyor.",
+      "claim": "pdfu adlı X kullanıcısına göre, iOS 27.3 beta sürümü çift yönlü ses yönlendirme ve oturum yönetimi desteği ekliyor.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-          "quote": "There’s a flag listed for a “Conversational Apps” category."
-        }
-      ]
-    },
-    {
-      "claim": "X kullanıcısı pdfu'ya göre, iOS 27.3 beta sürümü çift yönlü ses yönlendirme ve oturum yönetimi desteği ekliyor.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-          "quote": "According to pdfu on X, that new beta also adds support for bidirectional audio routing and session management"
-        },
         {
           "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
           "quote": "According to pdfu on X, that new beta also adds support for bidirectional audio routing and session management, but says it’s “still not fully wired up.”"
@@ -56,7 +42,7 @@
       ]
     },
     {
-      "claim": "Yeni güvenlik sistemi, ikinci kilitlemede bir saatten başlayıp dördüncü kilitlemede sekiz saate kadar çıkan artan bekleme sürelerine sahip bir kilitleme mekanizması içeriyor.",
+      "claim": "Yeni güvenlik sistemi, ikinci kilitlemede bir saat, dördüncü kilitlemede ise sekiz saate varan artan bekleme sürelerine sahip bir kilitleme mekanizması içeriyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -68,33 +54,19 @@
   ],
   "round1": [
     {
-      "claim": "iOS 27.3 beta sürümünün kodlarında akıllı ev merkezi için sohbet robotu desteği olabileceğine dair işaretler bulunuyor.",
+      "claim": "iOS 27.3 beta sürümünün kodlarında 'Conversational Apps' (Konuşma Uygulamaları) kategorisi için bir işaret bulunuyor.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-          "quote": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub."
+          "quote": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There’s a flag listed for a “Conversational Apps” category."
         }
       ]
     },
     {
-      "claim": "iOS 27.3 beta kodlarında 'Conversational Apps' (Sohbet Uygulamaları) adında bir kategori bayrağı yer alıyor.",
+      "claim": "pdfu adlı X kullanıcısına göre, iOS 27.3 beta sürümü çift yönlü ses yönlendirme ve oturum yönetimi desteği ekliyor.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-          "quote": "There’s a flag listed for a “Conversational Apps” category."
-        }
-      ]
-    },
-    {
-      "claim": "X kullanıcısı pdfu'ya göre, iOS 27.3 beta sürümü çift yönlü ses yönlendirme ve oturum yönetimi desteği ekliyor.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-          "quote": "According to pdfu on X, that new beta also adds support for bidirectional audio routing and session management"
-        },
         {
           "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
           "quote": "According to pdfu on X, that new beta also adds support for bidirectional audio routing and session management, but says it’s “still not fully wired up.”"
@@ -112,7 +84,7 @@
       ]
     },
     {
-      "claim": "Yeni güvenlik sistemi, ikinci kilitlemede bir saatten başlayıp dördüncü kilitlemede sekiz saate kadar çıkan artan bekleme sürelerine sahip bir kilitleme mekanizması içeriyor.",
+      "claim": "Yeni güvenlik sistemi, ikinci kilitlemede bir saat, dördüncü kilitlemede ise sekiz saate varan artan bekleme sürelerine sahip bir kilitleme mekanizması içeriyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -124,33 +96,19 @@
   ],
   "round2": [
     {
-      "claim": "iOS 27.3 beta sürümünün kodlarında akıllı ev merkezi için sohbet robotu desteği olabileceğine dair işaretler bulunuyor.",
+      "claim": "iOS 27.3 beta sürümünün kodlarında 'Conversational Apps' (Konuşma Uygulamaları) kategorisi için bir işaret bulunuyor.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-          "quote": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub."
+          "quote": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There’s a flag listed for a “Conversational Apps” category."
         }
       ]
     },
     {
-      "claim": "iOS 27.3 beta kodlarında 'Conversational Apps' (Sohbet Uygulamaları) adında bir kategori bayrağı yer alıyor.",
+      "claim": "pdfu adlı X kullanıcısına göre, iOS 27.3 beta sürümü çift yönlü ses yönlendirme ve oturum yönetimi desteği ekliyor.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-          "quote": "There’s a flag listed for a “Conversational Apps” category."
-        }
-      ]
-    },
-    {
-      "claim": "X kullanıcısı pdfu'ya göre, iOS 27.3 beta sürümü çift yönlü ses yönlendirme ve oturum yönetimi desteği ekliyor.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-          "quote": "According to pdfu on X, that new beta also adds support for bidirectional audio routing and session management"
-        },
         {
           "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
           "quote": "According to pdfu on X, that new beta also adds support for bidirectional audio routing and session management, but says it’s “still not fully wired up.”"
@@ -168,7 +126,7 @@
       ]
     },
     {
-      "claim": "Yeni güvenlik sistemi, ikinci kilitlemede bir saatten başlayıp dördüncü kilitlemede sekiz saate kadar çıkan artan bekleme sürelerine sahip bir kilitleme mekanizması içeriyor.",
+      "claim": "Yeni güvenlik sistemi, ikinci kilitlemede bir saat, dördüncü kilitlemede ise sekiz saate varan artan bekleme sürelerine sahip bir kilitleme mekanizması içeriyor.",
       "verdict": "supported",
       "evidence": [
         {
