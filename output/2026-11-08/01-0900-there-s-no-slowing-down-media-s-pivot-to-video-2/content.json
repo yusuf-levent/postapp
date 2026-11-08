@@ -1,65 +1,69 @@
 {
   "cover": {
-    "category_label": "MEDYA VE TEKNOLOJI",
-    "title": "Dijital Medya ve İzleme Alışkanlıkları",
+    "category_label": "MEDYA VE TEKNOLOJİ",
+    "title": "Dijital Yayıncılıkta Yeni Dönem: YouTube ve TikTok",
     "highlight_words": [
-      "Dijital",
-      "Medya"
+      "YouTube",
+      "TikTok"
     ],
-    "highlight_color": "cyan",
-    "subtitle": "Nielsen ve Pew araştırmalarından güncel veriler ve medya dünyasındaki gelişmeler.",
+    "highlight_color": "yellow",
+    "subtitle": "İzleme alışkanlıkları değişiyor: YouTube zirvede, haber tüketimi sosyal medyaya kayıyor.",
     "source_tags": [
       "THE VERGE",
       "ENGADGET"
     ]
   },
   "context": {
-    "heading": "Televizyon ve Haber Alışkanlıkları",
+    "heading": "İzleme Alışkanlıkları Değişiyor",
     "cards": [
       {
         "card_title": "YouTube'un Yükselişi",
-        "card_body": "Nielsen verilerine göre YouTube, televizyon izlemelerinin yaklaşık yüzde 16'sını alarak en popüler yayıncı konumunda."
+        "card_body": "Nielsen verilerine göre YouTube, televizyon izleme süresinin yaklaşık yüzde 16'sını oluşturarak en popüler yayın platformu oldu."
       },
       {
-        "card_title": "TikTok'tan Haber Almak",
-        "card_body": "Pew araştırmasına göre Amerikalıların yüzde 20'si düzenli olarak TikTok'tan haber alıyor."
+        "card_title": "Haber Kaynağı Olarak TikTok",
+        "card_body": "Pew Araştırma Merkezi'ne göre Amerikalıların yüzde 20'si haberleri TikTok'tan alıyor; 18-29 yaş grubunda bu oran yüzde 39."
       }
     ]
   },
   "stat": {
     "big_stat": "%39",
-    "stat_caption": "18 ile 29 yaş arasındaki kişilerin TikTok'tan düzenli haber alım oranı.",
-    "stat_quote": "Pew verilerine göre genç yetişkinler haber tüketiminde TikTok'u yoğun şekilde tercih ediyor."
+    "stat_caption": "18-29 yaş grubundaki gençlerin haberleri TikTok üzerinden takip etme oranı.",
+    "stat_quote": "Pew Araştırma Merkezi verilerine göre, genç yetişkinler haber takibi için geleneksel mecralardan ziyade sosyal medya platformlarını tercih ediyor."
   },
   "details": {
-    "heading": "Medya Dünyasından Gelişmeler",
+    "heading": "Platformlarda Yeni Hamleler",
     "cards": [
       {
-        "card_title": "The Washington Post",
-        "card_body": "The Washington Post'un sosyal video çalışmalarının yüzü olan Dave Jorgenson geçen yıl gazeteden ayrıldı."
+        "card_title": "Facebook Reels",
+        "card_body": "Meta'nın Facebook platformunda Reels izleme süresi, 3. çeyrekte tüm zamanların en yüksek seviyesine ulaştı."
       },
       {
-        "card_title": "CNN ve Jubilee İş Birliği",
-        "card_body": "CNN, sıcak siyasi konularda tartışma tarzı videolar üreten popüler kanal Jubilee ile ortaklık kurdu."
+        "card_title": "Instagram Güncellemesi",
+        "card_body": "Instagram'ın 'Features' girişimi, kullanıcıların 90 dakikaya kadar yatay video yüklemelerine olanak tanıyor."
+      },
+      {
+        "card_title": "Yeni Video Formatları",
+        "card_body": "The New York Times, 'The Call' adlı dikey video serisini başlatarak içerik stratejisini dijital trendlere göre güncelledi."
       }
     ]
   },
   "impact": {
-    "heading": "Sektörel ve Kullanıcı Etkisi",
+    "heading": "Haber ve İçerik Üretimi",
     "cards": [
       {
-        "card_title": "Sektörel Değişim",
-        "card_body": "Geleneksel medya kurumları, dijital platformlar ve popüler kanallarla stratejik ortaklıklar kurmaya devam ediyor."
+        "card_title": "Haber Kuruluşları ve İş Birlikleri",
+        "card_body": "CNN, Jubilee kanalıyla ortaklık kurarak James Talarico ile bir town hall toplantısı düzenledi."
       },
       {
-        "card_title": "Kullanıcı Tercihleri",
-        "card_body": "İzleyiciler ve özellikle genç nesil, haber ve içerik tüketiminde dijital platformları ön plana çıkarıyor."
+        "card_title": "İçerik Üreticisi Desteği",
+        "card_body": "Poynter ve Microsoft destekli program, içerik üreticilerini haber kuruluşlarıyla eşleştirerek sosyal medya içeriklerini güçlendiriyor."
       }
     ]
   },
   "cta": {
-    "question": "Siz haberleri ve video içeriklerini en çok hangi platformdan takip ediyorsunuz?",
-    "reminder_line": "Teknoloji ve medya dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+    "question": "Sizce haberleri sosyal medyadan takip etmek, geleneksel haberciliğin yerini tamamen alabilir mi?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri kaçırmamak için Tekno Pusula'yı takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

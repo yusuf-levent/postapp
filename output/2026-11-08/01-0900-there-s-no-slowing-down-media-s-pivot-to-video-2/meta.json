@@ -2,9 +2,9 @@
   "slot": "09:00",
   "type": "news",
   "model": "gemini-3.1-flash-lite",
-  "duration_seconds": 134.5,
+  "duration_seconds": 115.3,
   "candidates_tried": 1,
-  "gemini_calls": 22,
+  "gemini_calls": 13,
   "canonical_url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
-  "generated_at": "2026-11-08T16:10:33+03:00"
+  "generated_at": "2026-11-08T16:19:03+03:00"
 }

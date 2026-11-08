@@ -6,26 +6,22 @@
     "Engadget",
     "Ars Technica"
   ],
-  "checked_at": "2026-11-08T16:08:47+03:00",
+  "checked_at": "2026-11-08T16:17:39+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "YouTube is the most popular streamer, commanding nearly 16 percent of TV viewing, according to Nielsen.",
+      "claim": "Nielsen verilerine göre YouTube, televizyon izleme süresinin yaklaşık yüzde 16'sını oluşturarak en popüler yayın platformu haline geldi.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
           "quote": "In the meantime, YouTube has become the most popular streamer, commanding nearly 16 percent of TV viewing, according to Nielsen."
-        },
-        {
-          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
-          "quote": "YouTube has become the most popular streamer, commanding nearly 16 percent of TV viewing, according to Nielsen."
         }
       ]
     },
     {
-      "claim": "Twenty percent of Americans regularly get news from TikTok, and that number jumps to 39 percent for people 18 to 29 years old, Pew found.",
+      "claim": "Pew Araştırma Merkezi'ne göre Amerikalıların yüzde 20'si haberleri düzenli olarak TikTok'tan alırken, 18-29 yaş grubunda bu oran yüzde 39'a çıkıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -35,48 +31,78 @@
       ]
     },
     {
-      "claim": "Dave Jorgenson, the face of The Washington Post's social video effort, left the paper last year.",
+      "claim": "Meta'nın Facebook platformunda Reels izleme süresi 3. çeyrekte tüm zamanların en yüksek seviyesine ulaştı.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
-          "quote": "(Dave Jorgenson, the face of the Post’s social video effort, left the paper last year."
+          "quote": "There are no signs of it slowing down, either: The time spent watching Reels on Facebook was at an all-time high in Q3."
+        },
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "The time spent watching Reels on Facebook was at an all-time high in Q3."
         }
       ]
     },
     {
-      "claim": "CNN partnered with Jubilee, the popular channel that produces debate-me-style videos on hot-button political topics.",
+      "claim": "CNN, Jubilee kanalıyla ortaklık kurarak Texas Senato adayı James Talarico ile bir town hall toplantısı gerçekleştirdi.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
-          "quote": "CNN partnered with Jubilee, the popular channel that produces debate-me-style videos on hot-button political topics."
+          "quote": "CNN partnered with Jubilee, the popular channel that produces debate-me-style videos on hot-button political topics. The CNN town hall with Texas Senate candidate James Talarico was conducted in the Jubilee style."
         }
       ]
     },
     {
-      "claim": "The BBC struck a deal with YouTube in early 2026 to create special programming specifically for the platform.",
+      "claim": "The New York Times, 'The Call' adlı dikey video serisini başlattı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "The New York Times, which for years has produced polished documentary-style videos, recently introduced the vertical video series “The Call.”"
+        }
+      ]
+    },
+    {
+      "claim": "Poynter ve Microsoft tarafından desteklenen yeni bir program, içerik üreticilerini sosyal medya için içerik oluşturmaları amacıyla haber kuruluşlarıyla eşleştiriyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "A new program supported by Poynter and Microsoft pairs content creators with a handful of news outlets so they can create content tailored for social media."
+        }
+      ]
+    },
+    {
+      "claim": "BBC, 2026 yılının başlarında YouTube ile özel programlar oluşturmak için bir anlaşma imzaladı.",
       "verdict": "not_found",
       "evidence": []
+    },
+    {
+      "claim": "Instagram'ın 'Features' girişimi, 90 dakikaya kadar yatay video yüklemelerine izin veriyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "Its recently announced “Features” effort allows for 90-minute horizontal video uploads, and it seems to be specifically angling for television viewing."
+        }
+      ]
     }
   ],
   "round1": [
     {
-      "claim": "YouTube is the most popular streamer, commanding nearly 16 percent of TV viewing, according to Nielsen.",
+      "claim": "Nielsen verilerine göre YouTube, televizyon izleme süresinin yaklaşık yüzde 16'sını oluşturarak en popüler yayın platformu haline geldi.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
           "quote": "In the meantime, YouTube has become the most popular streamer, commanding nearly 16 percent of TV viewing, according to Nielsen."
-        },
-        {
-          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
-          "quote": "YouTube has become the most popular streamer, commanding nearly 16 percent of TV viewing, according to Nielsen."
         }
       ]
     },
     {
-      "claim": "Twenty percent of Americans regularly get news from TikTok, and that number jumps to 39 percent for people 18 to 29 years old, Pew found.",
+      "claim": "Pew Araştırma Merkezi'ne göre Amerikalıların yüzde 20'si haberleri düzenli olarak TikTok'tan alırken, 18-29 yaş grubunda bu oran yüzde 39'a çıkıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -86,48 +112,78 @@
       ]
     },
     {
-      "claim": "Dave Jorgenson, the face of The Washington Post's social video effort, left the paper last year.",
+      "claim": "Meta'nın Facebook platformunda Reels izleme süresi 3. çeyrekte tüm zamanların en yüksek seviyesine ulaştı.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
-          "quote": "(Dave Jorgenson, the face of the Post’s social video effort, left the paper last year."
+          "quote": "There are no signs of it slowing down, either: The time spent watching Reels on Facebook was at an all-time high in Q3."
+        },
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "The time spent watching Reels on Facebook was at an all-time high in Q3."
         }
       ]
     },
     {
-      "claim": "CNN partnered with Jubilee, the popular channel that produces debate-me-style videos on hot-button political topics.",
+      "claim": "CNN, Jubilee kanalıyla ortaklık kurarak Texas Senato adayı James Talarico ile bir town hall toplantısı gerçekleştirdi.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
-          "quote": "CNN partnered with Jubilee, the popular channel that produces debate-me-style videos on hot-button political topics."
+          "quote": "CNN partnered with Jubilee, the popular channel that produces debate-me-style videos on hot-button political topics. The CNN town hall with Texas Senate candidate James Talarico was conducted in the Jubilee style."
         }
       ]
     },
     {
-      "claim": "The BBC struck a deal with YouTube in early 2026 to create special programming specifically for the platform.",
+      "claim": "The New York Times, 'The Call' adlı dikey video serisini başlattı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "The New York Times, which for years has produced polished documentary-style videos, recently introduced the vertical video series “The Call.”"
+        }
+      ]
+    },
+    {
+      "claim": "Poynter ve Microsoft tarafından desteklenen yeni bir program, içerik üreticilerini sosyal medya için içerik oluşturmaları amacıyla haber kuruluşlarıyla eşleştiriyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "A new program supported by Poynter and Microsoft pairs content creators with a handful of news outlets so they can create content tailored for social media."
+        }
+      ]
+    },
+    {
+      "claim": "BBC, 2026 yılının başlarında YouTube ile özel programlar oluşturmak için bir anlaşma imzaladı.",
       "verdict": "not_found",
       "evidence": []
+    },
+    {
+      "claim": "Instagram'ın 'Features' girişimi, 90 dakikaya kadar yatay video yüklemelerine izin veriyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "Its recently announced “Features” effort allows for 90-minute horizontal video uploads, and it seems to be specifically angling for television viewing."
+        }
+      ]
     }
   ],
   "round2": [
     {
-      "claim": "YouTube is the most popular streamer, commanding nearly 16 percent of TV viewing, according to Nielsen.",
+      "claim": "Nielsen verilerine göre YouTube, televizyon izleme süresinin yaklaşık yüzde 16'sını oluşturarak en popüler yayın platformu haline geldi.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
           "quote": "In the meantime, YouTube has become the most popular streamer, commanding nearly 16 percent of TV viewing, according to Nielsen."
-        },
-        {
-          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
-          "quote": "YouTube has become the most popular streamer, commanding nearly 16 percent of TV viewing, according to Nielsen."
         }
       ]
     },
     {
-      "claim": "Twenty percent of Americans regularly get news from TikTok, and that number jumps to 39 percent for people 18 to 29 years old, Pew found.",
+      "claim": "Pew Araştırma Merkezi'ne göre Amerikalıların yüzde 20'si haberleri düzenli olarak TikTok'tan alırken, 18-29 yaş grubunda bu oran yüzde 39'a çıkıyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -137,29 +193,63 @@
       ]
     },
     {
-      "claim": "Dave Jorgenson, the face of The Washington Post's social video effort, left the paper last year.",
+      "claim": "Meta'nın Facebook platformunda Reels izleme süresi 3. çeyrekte tüm zamanların en yüksek seviyesine ulaştı.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
-          "quote": "(Dave Jorgenson, the face of the Post’s social video effort, left the paper last year."
+          "quote": "There are no signs of it slowing down, either: The time spent watching Reels on Facebook was at an all-time high in Q3."
+        },
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "The time spent watching Reels on Facebook was at an all-time high in Q3."
         }
       ]
     },
     {
-      "claim": "CNN partnered with Jubilee, the popular channel that produces debate-me-style videos on hot-button political topics.",
+      "claim": "CNN, Jubilee kanalıyla ortaklık kurarak Texas Senato adayı James Talarico ile bir town hall toplantısı gerçekleştirdi.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
-          "quote": "CNN partnered with Jubilee, the popular channel that produces debate-me-style videos on hot-button political topics."
+          "quote": "CNN partnered with Jubilee, the popular channel that produces debate-me-style videos on hot-button political topics. The CNN town hall with Texas Senate candidate James Talarico was conducted in the Jubilee style."
         }
       ]
     },
     {
-      "claim": "The BBC struck a deal with YouTube in early 2026 to create special programming specifically for the platform.",
+      "claim": "The New York Times, 'The Call' adlı dikey video serisini başlattı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "The New York Times, which for years has produced polished documentary-style videos, recently introduced the vertical video series “The Call.”"
+        }
+      ]
+    },
+    {
+      "claim": "Poynter ve Microsoft tarafından desteklenen yeni bir program, içerik üreticilerini sosyal medya için içerik oluşturmaları amacıyla haber kuruluşlarıyla eşleştiriyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "A new program supported by Poynter and Microsoft pairs content creators with a handful of news outlets so they can create content tailored for social media."
+        }
+      ]
+    },
+    {
+      "claim": "BBC, 2026 yılının başlarında YouTube ile özel programlar oluşturmak için bir anlaşma imzaladı.",
       "verdict": "not_found",
       "evidence": []
+    },
+    {
+      "claim": "Instagram'ın 'Features' girişimi, 90 dakikaya kadar yatay video yüklemelerine izin veriyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "Its recently announced “Features” effort allows for 90-minute horizontal video uploads, and it seems to be specifically angling for television viewing."
+        }
+      ]
     }
   ],
   "source_texts": {
