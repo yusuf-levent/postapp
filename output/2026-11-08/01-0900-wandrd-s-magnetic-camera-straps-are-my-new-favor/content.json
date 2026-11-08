@@ -1,70 +1,69 @@
 {
   "cover": {
     "category_label": "YENİ TEKNOLOJİ",
-    "title": "Wandrd'den Yeni Manyetik Kamera Kayışı",
+    "title": "Wandrd Manyetik Kamera Kayışını Tanıttı",
     "highlight_words": [
       "Manyetik",
-      "Kamera",
-      "Kayışı"
+      "Kamera"
     ],
-    "highlight_color": "cyan",
-    "subtitle": "Fotoğrafçılar için geliştirilen yeni manyetik sistem perşembe günü satışa çıktı.",
+    "highlight_color": "yellow",
+    "subtitle": "Fotoğrafçılar için geliştirilen yeni kordon sistemi duyuruldu.",
     "source_tags": [
       "WIRED",
       "MIT TECHNOLOGY REVIEW"
     ]
   },
   "context": {
-    "heading": "Sistemin Öne Çıkan Özellikleri",
+    "heading": "Sistem Detayları",
     "cards": [
       {
-        "card_title": "Piyasaya Çıkış Tarihi",
-        "card_body": "Wandrd, merakla beklenen yeni manyetik kamera kayışı sistemini perşembe günü resmen piyasaya sürdü."
+        "card_title": "Piyasaya Çıkış",
+        "card_body": "Wandrd, Magnetic Camera Strap sistemini Perşembe günü resmi olarak piyasaya sürdü."
       },
       {
-        "card_title": "Taşıma Kapasitesi",
-        "card_body": "Torus Links adı verilen dairesel çapalar, inanılmaz bir şekilde 198 pound'a kadar ağırlık taşıyabiliyor."
+        "card_title": "Garanti Süresi",
+        "card_body": "Wandrd yeni ürün için kullanıcılara iki yıllık garanti sunmaktadır."
       }
     ]
   },
   "stat": {
     "big_stat": "198 LB",
-    "stat_caption": "Torus Links dairesel çapalarının taşıyabildiği maksimum ağırlık kapasitesi.",
-    "stat_quote": "Wandrd tarafından geliştirilen sistem, yüksek taşıma kapasitesiyle dikkat çekiyor."
+    "stat_caption": "Torus Links adı verilen dairesel çapaların taşıyabileceği maksimum ağırlık kapasitesi.",
+    "stat_quote": "Torus Links dairesel çapalar 198 pound'a kadar ağırlık taşıyabilecek kapasitededir."
   },
   "details": {
-    "heading": "Güvenlik ve Fiyat Detayları",
+    "heading": "Güvenlik ve Fiyatlar",
     "cards": [
       {
-        "card_title": "Aşınma Göstergeleri",
-        "card_body": "Kordon aşınmaya başladığında siyah kumaşın altında sarı renk görünür. Kırmızıya döndüğünde ise kullanım derhal bırakılmalıdır."
+        "card_title": "Güvenlik Uyarıları",
+        "card_body": "Kordon aşındığında sarı renk görünür. Kırmızı renk görüldüğünde bağlantının kullanımına derhal son verilmelidir."
       },
       {
-        "card_title": "Fiyatlandırma",
-        "card_body": "30-mm boyutundaki set 69 dolar, 15-mm Lite versiyonu 49 dolar ve bilek kayışı ise 39 dolardan satılmaktadır."
+        "card_title": "Ürün Fiyatları",
+        "card_body": "Kayış kiti 30 mm boyutu için 69 dolar, 15 mm Lite sürümü için 49 dolar ve bilek kayışı için 39 dolardan satılmaktadır."
       },
       {
-        "card_title": "Garanti ve DIY Kiti",
-        "card_body": "Ürünler için iki yıllık garanti sunuluyor. Mevcut kayışlarını kullanmak isteyenler için ise 29 dolara DIY kiti satılıyor."
+        "card_title": "DIY Kiti",
+        "card_body": "Wandrd, Magnetic CoreLock sisteminin başka kayışlarla kullanılabilmesi için 29 dolara bir DIY kiti satmaktadır."
       }
     ]
   },
   "impact": {
-    "heading": "Kullanıcıya ve Sektöre Etkisi",
+    "heading": "Kullanıcı Etkisi",
     "cards": [
       {
-        "card_title": "Kullanıcı Güvenliği",
-        "card_body": "Renk değiştiren aşınma göstergeleri sayesinde fotoğrafçılar ekipmanlarını güvenle kullanabilecek."
+        "card_title": "Güvenli Kullanım",
+        "card_body": "Renk uyarı sistemi sayesinde kullanıcılar aşınmaları kolayca fark edebilir."
       },
       {
         "card_title": "Esnek Çözümler",
-        "card_body": "Mevcut kayışlar için sunulan DIY kiti seçeneği, kullanıcılara ekonomik bir adaptasyon imkanı tanıyor."
+        "card_body": "Farklı boyut seçenekleri ve DIY kiti sayesinde farklı ekipmanlarla uyum sağlanır."
       }
     ]
   },
   "cta": {
-    "question": "Kamera kayışınızda manyetik sistemler kullanmayı tercih eder misiniz?",
-    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın!"
+    "question": "Kamera kayışınızda güvenlik renk uyarılarının olması sizin için ne kadar önemli?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
