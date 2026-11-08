@@ -2,50 +2,66 @@
 
 ## INSTAGRAM
 
-İngiltere'den çocukların dijital güvenliği için dikkat çeken hamle! Kültür Bakanı Lisa Nandy, 16 yaş altı çocukların Vinted ve eBay gibi platformlardan yasaklanmasının değerlendirildiğini açıkladı. Zaten halihazırda bu platformlar 18 yaş sınırı şartı koysa da yeni düzenlemeler yolda. Birleşik Krallık pazarında 17 milyon kullanıcısı bulunan Vinted ve diğer büyük platformlar için güvenlik önlemleri artıyor. Önümüzdeki yıl sosyal medya yasakları da yürürlüğe girmeye hazırlanıyor. Sizce çocukların güvenliği için bu tür yaş sınırları yeterli bir çözüm mü? Kaynak: BBC News – Technology, TechCrunch
+İngiltere'de dijital dünyayı sarsacak bir adım atılıyor! 🇬🇧 Birleşik Krallık hükümeti, çocukların güvenliğini sağlamak amacıyla 16 yaş altı için sosyal medya yasağını Mart ayında yürürlüğe koymaya hazırlanıyor.
 
-#Teknoloji #Güvenlik #Vinted #eBay #İngiltere #Gündem #Haber #DijitalGüvenlik #Technology #News
+Sadece sosyal medya platformları değil; Vinted ve eBay gibi perakende siteleri de bu kapsamda değerlendiriliyor. YouTube ise ana platformuyla yasak kapsamına girerken, YouTube Kids uygulaması bu kısıtlamadan muaf tutulacak.
+
+Avustralya'nın öncü olduğu bu düzenleme, dijital platformların kullanıcı politikalarını kökten değiştirebilir. Ofcom'un yaş doğrulama önerileriyle süreç hız kazanıyor.
+
+Sizce 16 yaş altı için sosyal medya yasağı, çocukları dijital risklerden korumak için yeterli bir çözüm mü? Yorumlarda buluşalım!
+
+Kaynak: BBC News, TechCrunch
+
+#DijitalDünya #SosyalMedya #İngiltere #TeknolojiHaberleri #ÇocukGüvenliği #DigitalSafety #SocialMediaBan #TeknoPusula #Ofcom #Gelecek
 
 ## TIKTOK
 
-İngiltere'den Vinted ve eBay için yeni yaş sınırı hamlesi! 16 yaş altı çocuklar bu platformlardan yasaklanabilir mi? Detaylar videoda! Kaynak: BBC News – Technology, TechCrunch
+İngiltere'de 16 yaş altı için sosyal medya yasağı geliyor! 🚫 Mart ayında başlaması planlanan bu düzenleme, sadece sosyal medyayı değil, Vinted ve eBay gibi platformları da etkileyebilir. YouTube Kids ise bu yasağın dışında kalıyor. Dijital dünyada kurallar yeniden yazılıyor! Sizce bu adım çocukları korumaya yeter mi? 
 
-#Teknoloji #Vinted #Haber #İngiltere
+Kaynak: BBC News, TechCrunch
+
+#SosyalMedyaYasağı #DijitalGüvenlik #Teknoloji #İngiltere #Haberler
 
 ## X
 
-İngiltere Kültür Bakanı Lisa Nandy, 16 yaş altı çocukların Vinted ve eBay'den yasaklanmasının değerlendirildiğini açıkladı. Platformlar zaten 18 yaş şartı ararken yeni güvenlik önlemleri yolda. Kaynak: BBC News – Technology, TechCrunch #Teknoloji #Vinted
+İngiltere, 16 yaş altı için sosyal medya yasağını Mart ayında başlatmaya hazırlanıyor. Vinted ve eBay gibi platformların da kapsama alınabileceği düzenlemede, YouTube Kids muaf tutulacak. Avustralya'dan sonra küresel bir trend mi başlıyor? 
 
-#Teknoloji #Vinted
+Kaynak: BBC News, TechCrunch
+
+#DijitalDünya #Teknoloji
 
 ## THREADS
 
-İngiltere'den Vinted ve eBay İçin Yaş Sınırı Hamlesi
+İngiltere'de 16 yaş altı için sosyal medya yasağı yolda! 🇬🇧
 
-Kültür Bakanı Lisa Nandy, 16 yaş altı çocukların bu platformlardan yasaklanmasının değerlendirildiğini açıkladı. Birleşik Krallık'ta 17 milyon kullanıcısı bulunan Vinted gibi platformlar için güvenlik önlemleri sıkılaşıyor.
+Mart ayında yürürlüğe girmesi planlanan düzenleme, sadece sosyal medya devlerini değil, Vinted ve eBay gibi perakende sitelerini de kapsayabilir. YouTube Kids ise bu kısıtlamadan muaf tutulacak.
 
-Çocukların güvenliği için bu tür yaş sınırları ve platform yasakları yeterli bir çözüm mü? 💭
+Sizce bu yasak, çocukları dijital risklerden korumak için yeterli bir çözüm mü? 💭
 
-Kaynak: BBC News – Technology, TechCrunch
+Kaynak: BBC News, TechCrunch
 
-#Teknoloji
+#DijitalDünya
 
 ## LINKEDIN
 
-İngiltere'de çocukların dijital güvenliğini artırmaya yönelik düzenlemelere bir yenisi ekleniyor. Kültür Bakanı Lisa Nandy, 16 yaş altı bireylerin Vinted ve eBay gibi popüler platformlardan yasaklanmasının değerlendirildiğini duyurdu.
+Birleşik Krallık hükümeti, dijital güvenlik politikalarında radikal bir değişikliğe gidiyor. 16 yaş altı kullanıcılar için sosyal medya erişimini kısıtlamayı hedefleyen yasa tasarısının Mart ayında yürürlüğe girmesi planlanıyor.
 
-Halihazırda 18 yaş sınırı şartı koşan bu platformlar, 17 milyonu aşkın İngiliz kullanıcı tabanıyla dikkat çekiyor. Hükümetin bu hamlesi, önümüzdeki dönemde dijital pazar yerleri ve sosyal medya platformları için daha sıkı yaş doğrulama mekanizmalarının zorunlu hale geleceğini gösteriyor.
+Bu düzenlemenin en dikkat çekici yanı, sadece sosyal medya platformlarını değil, Vinted ve eBay gibi perakende sitelerini de kapsama potansiyeli taşıması. Ofcom'un yaş doğrulama önerileri, dijital platformların kullanıcı politikalarını ve operasyonel süreçlerini kökten değiştirecek bir sektörel dönüşümü tetikliyor.
 
-Sektörün bu yeni düzenlemelere uyum sağlama sürecini yakından takip ediyoruz. Kaynak: BBC News – Technology, TechCrunch
+Avustralya'nın ardından İngiltere'nin attığı bu adım, küresel ölçekte dijital platform düzenlemeleri için yeni bir standart oluşturabilir. Sektörel regülasyonların dijital ekosisteme etkilerini nasıl değerlendiriyorsunuz?
 
-#Teknoloji #SiberGüvenlik #ECommerce #İşDünyası
+Kaynak: BBC News, TechCrunch
+
+#DijitalDönüşüm #TeknolojiHaberleri #Regülasyon #DijitalGüvenlik #Ofcom
 
 ## FACEBOOK
 
-İngiltere'den çocukların dijital güvenliği için dikkat çeken hamle! Kültür Bakanı Lisa Nandy, 16 yaş altı çocukların Vinted ve eBay gibi platformlardan yasaklanmasının değerlendirildiğini açıkladı.
+İngiltere'de dijital dünyayı değiştirecek yeni bir dönem başlıyor! 🇬🇧 Birleşik Krallık hükümeti, çocukların güvenliğini korumak adına 16 yaş altı için sosyal medya yasağını Mart ayında hayata geçirmeyi planlıyor.
 
-Zaten halihazırda bu platformlar 18 yaş sınırı şartı koysa da yeni düzenlemeler yolda. Birleşik Krallık pazarında 17 milyon kullanıcısı bulunan Vinted ve diğer büyük platformlar için güvenlik önlemleri artıyor.
+Düzenleme sadece sosyal medya platformlarını değil, Vinted ve eBay gibi perakende sitelerini de kapsayabilir. YouTube ise ana platformuyla yasak kapsamına girerken, YouTube Kids uygulaması bu önlemlerin dışında tutulacak.
 
-Sizce çocukların güvenliği için bu tür yaş sınırları yeterli bir çözüm mü? Kaynak: BBC News – Technology, TechCrunch
+Avustralya'nın öncü olduğu bu süreç, dijital platformların kullanıcı politikalarını yeniden şekillendiriyor. Sizce bu yasak, çocukları dijital risklerden korumak için yeterli bir çözüm mü? Görüşlerinizi bekliyoruz.
 
-#Teknoloji #Vinted #eBay #İngiltere #Haber
+Kaynak: BBC News, TechCrunch
+
+#DijitalDünya #SosyalMedya #İngiltere #TeknolojiHaberleri #ÇocukGüvenliği
