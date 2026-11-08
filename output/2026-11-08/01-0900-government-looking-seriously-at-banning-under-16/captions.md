@@ -2,66 +2,60 @@
 
 ## INSTAGRAM
 
-Birleşik Krallık'ta 16 yaş altı için yeni yasaklar yolda! Çocukların dijital güvenliği amacıyla perakende ve sosyal medya kısıtlamaları gündemde. Vinted ve eBay gibi platformların yanı sıra sosyal medya kullanımına da yaş sınırı geliyor.
+Ingiltere'de 16 yas alti icin yeni yasaklar yolda! Vinted ve eBay gibi perakende sitelerinin de yasak kapsamina alinmasi degerlendiriliyor.
 
-Kültür Bakanı Lisa Nandy'nin açıklamalarına göre, gelecek yılın Mart ayında sosyal medya yasağının yürürlüğe girmesi planlanıyor. YouTube ise bu yasaktan muaf tutulurken, YouTube Kids erişime açık kalmaya devam edecek.
+Hukumetin haziran ayinda duyurdugu sosyal medya yasaginin gelecek yil mart ayinda yurluge girmesi planlaniyor. YouTube yasaklanirken YouTube Kids kapsam disinda tutulacak.
 
-Benzer bir uygulamanın geçen yıl Avustralya'da hayata geçirildiğini de belirtelim. Vinted'ın ülkedeki toplam kullanıcı sayısı ise 17 milyona ulaşıyor.
+Sizce perakende ve alisveris siteleri de yas sinirlamasi kapsamina alinmali mi?
 
-Çocukların dijital güvenliği için bu tür yaş sınırları ve yasaklar yeterli mi?
+Kaynak: BBC News - Technology, TechCrunch
 
-Kaynak: BBC News – Technology, TechCrunch
-
-#Teknoloji #SosyalMedya #DijitalGüvenlik #BirleşikKrallık #Vinted #eBay #YouTube #Gündem #Haber #Technology #DigitalSafety
+#teknoloji #guvenlik #sosyalmedya #ingiltere #haber #vinted #ebay #youtube #digital #news
 
 ## TIKTOK
 
-Birleşik Krallık'ta 16 yaş altı için sosyal medya ve perakende yasakları geliyor! Vinted ve eBay gibi siteler de kısıtlama kapsamında. Mart ayında başlaması planlanan bu hamle hakkında ne düşünüyorsunuz?
+Ingiltere'de 16 yas alti icin sosyal medya ve perakende sitelerine yasak geliyor! Vinted ve eBay de listede. Detaylar profil aciklamasinda!
 
-Kaynak: BBC News – Technology, TechCrunch
+Kaynak: BBC News - Technology, TechCrunch
 
-#Teknoloji #SosyalMedya #Haber #BirleşikKrallık #Gündem
+#teknoloji #haberler #ingiltere #gundem
 
 ## X
 
-Birleşik Krallık'ta 16 yaş altı için sosyal medya ve perakende yasakları gündemde! Vinted ve eBay gibi sitelerin yanı sıra sosyal medyaya da yaş sınırı geliyor. 
+Ingiltere'de 16 yas alti icin yeni yasaklar yolda! Sosyal medyanin yani sira Vinted ve eBay gibi perakende siteleri de yasak kapsaminda degerlendiriliyor. Sizce bu karar dogru mu? Kaynak: BBC News - Technology, TechCrunch
 
-Kaynak: BBC News – Technology, TechCrunch
-
-#Teknoloji #SosyalMedya
+#teknoloji #ingiltere
 
 ## THREADS
 
-Birleşik Krallık'tan Çocuklar İçin Yeni Yasaklar
+Ingiltere'de 16 Yas Alti Icin Yeni Yasaklar
 
-Birleşik Krallık'ta 16 yaş altındakiler için sosyal medya ve perakende platformlarına yönelik kısıtlamalar gündemde. Vinted ve eBay gibi sitelerin yasaklanması değerlendirilirken, sosyal medya yasağının Mart ayında yürürlüğe girmesi planlanıyor.
+Hukumet, sosyal medyanin ardindan Vinted ve eBay gibi perakende sitelerini de 16 yas alti yasak kapsamina almayi degerlendiriyor. Mart ayinda yurluge girmesi planlanan duzenlemeler dijital guvenligi artirmayi hedefliyor.
 
-Çocukların dijital güvenliği için bu tür yaş sınırları ve yasaklar yeterli mi?
+Sizce perakende siteleri de bu kapsama girmeli mi?
 
-💭 Kaynak: BBC News – Technology, TechCrunch
+Kaynak: BBC News - Technology, TechCrunch 💭
 
-#Teknoloji
+#teknoloji
 
 ## LINKEDIN
 
-Birleşik Krallık, çocukların dijital güvenliğini artırmak amacıyla 16 yaş altı kullanıcılar için perakende ve sosyal medya kısıtlamalarını devreye sokmaya hazırlanıyor.
+Ingiltere'de dijital guvenlik ve yasalandirma politikalari genisliyor. 16 yas alti sosyal medya yasaginin yani sira, Vinted ve eBay gibi populer perakende ve alisveris sitelerinin de yasak kapsamina alinmasi gundemde.
 
-Kültür Bakanı Lisa Nandy'nin açıklamalarına göre, Vinted ve eBay gibi platformların 16 yaş altındakilere kapatılması değerlendirilirken, sosyal medya yasağının önümüzdeki yılın Mart ayında yürürlüğe girmesi planlanıyor. 17 milyon kullanıcıya sahip Vinted gibi devlerin yanı sıra, Ofcom'un yaş tespiti önerileri de sektörde yeni bir dönemi işaret ediyor. Benzer bir düzenleme daha önce Avustralya'da da uygulanmıştı.
+Mevcutta 18 yas sarti arayan platformlar icin yeni dogrulama ve denetim mekanizmalarinin gelistirilmesi bekleniyor. Sektorun bu yeni duzenlemelere nasil uyum saglayacagi merak konusu.
 
-Sektörün ve platformların bu yeni yaş doğrulama süreçlerine nasıl adapte olacağını izleyeceğiz.
+Kaynak: BBC News - Technology, TechCrunch
 
-Kaynak: BBC News – Technology, TechCrunch
-
-#Teknoloji #DijitalDönüşüm #SosyalMedya #SiberGüvenlik #E-Ticaret
+#teknoloji #siberguvenlik #dijitalkurumlar #isdunyasi #haber
 
 ## FACEBOOK
 
-Birleşik Krallık'ta 16 yaş altı için yeni yasaklar kapıda! Çocukların güvenliği için perakende ve sosyal medya kısıtlamaları gündemde yer alıyor.
+Ingiltere'de 16 yas alti icin yeni yasaklar yolda! Vinted ve eBay gibi perakende siteleri de değerlendiriliyor.
 
-Vinted ve eBay gibi platformların 16 yaş altındakilere kapatılması değerlendirilirken, sosyal medya yasağının gelecek yılın Mart ayında yürürlüğe girmesi planlanıyor. YouTube Kids hariç tutulurken, benzer bir modelin geçen yıl Avustralya'da uygulandığını hatırlatalım.
+Hukumetin haziran ayinda duyurdugu 16 yas alti sosyal medya yasaginin gelecek yil mart ayinda yururluge girmesi planlaniyor. YouTube yasak kapsamına girerken YouTube Kids haric tutuluyor.
 
-Çocukların dijital güvenliği için bu tür yaş sınırları ve yasaklar yeterli mi?
+Sizce perakende ve alisveris siteleri de yas sinirlamasi kapsamina alinmali mi?
 
-Kaynak: BBC News – Technology, TechCrunch
+Kaynak: BBC News - Technology, TechCrunch
 
-#Teknoloji #SosyalMedya #Haber #Dünya #DijitalGüvenlik
+#teknoloji #ingiltere #sosyalmedya #haber

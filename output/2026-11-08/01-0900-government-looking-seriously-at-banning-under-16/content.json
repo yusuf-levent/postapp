@@ -1,50 +1,50 @@
 {
   "cover": {
-    "category_label": "TEKNOLOJİ DÜNYASI",
-    "title": "Birleşik Krallık'ta 16 Yaş Altı İçin Yeni Yasaklar",
+    "category_label": "TEKNOLOJİ VE GÜVENLİK",
+    "title": "İngiltere'de 16 Yaş Altı İçin Yeni Yasaklar Yolda",
     "highlight_words": [
       "16 Yaş Altı",
       "Yasaklar"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Çocukların güvenliği için perakende ve sosyal medya kısıtlamaları gündemde.",
+    "subtitle": "Vinted ve eBay gibi perakende siteleri de değerlendiriliyor.",
     "source_tags": [
       "BBC NEWS – TECHNOLOGY",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Gündemdeki Yeni Kısıtlamalar",
+    "heading": "Genişletilen Yasak Kapsamı",
     "cards": [
       {
         "card_title": "Perakende Siteleri",
-        "card_body": "Kültür Bakanı Lisa Nandy, 16 yaş altındakilerin Vinted ve eBay gibi sitelerden yasaklanmasını değerlendirdiklerini belirtti."
+        "card_body": "Kültür bakanı Lisa Nandy, çocukların güvenliği için Vinted ve eBay gibi sitelerin 16 yaş altı yasak kapsamına alınmasını değerlendiriyor."
       },
       {
         "card_title": "Sosyal Medya Yasağı",
-        "card_body": "Birleşik Krallık'ta 16 yaş altındakiler için sosyal medya yasağının gelecek yılın Mart ayında yürürlüğe girmesi planlanıyor."
+        "card_body": "Hükümetin bu yıl Haziran ayında duyurduğu 16 yaş altı sosyal medya yasağının gelecek yıl Mart ayında yürürlüğe girmesi planlanıyor."
       }
     ]
   },
   "stat": {
     "big_stat": "17 MİLYON",
-    "stat_caption": "Vinted'ın Birleşik Krallık'ta ulaştığı toplam kullanıcı sayısı.",
-    "stat_quote": "Vinted ve eBay, platform kullanıcılarının en az 18 yaşında olması gerektiğini belirtmektedir."
+    "stat_caption": "Vinted platformunun Birleşik Krallık'taki toplam kullanıcı sayısı.",
+    "stat_quote": "eBay ve Vinted platformları, kullanıcıların en az 18 yaşında olmasını şart koşmaktadır."
   },
   "details": {
-    "heading": "Düzenlemenin Detayları",
+    "heading": "Düzenlemelerin Detayları",
     "cards": [
       {
-        "card_title": "YouTube Durumu",
-        "card_body": "YouTube 16 yaş altındakiler için yasaklanacak ancak YouTube Kids bu yasağa dâhil edilmeyecek."
+        "card_title": "YouTube ve YouTube Kids",
+        "card_body": "YouTube 16 yaş altındakiler için yasaklanacak ancak YouTube Kids bu yasak kapsamına dahil edilmeyecek."
       },
       {
         "card_title": "Ofcom Önerileri",
-        "card_body": "İletişim düzenleyicisi Ofcom, geçen ay 16 yaş üstü kullanıcıların tespiti için önerilerini açıkladı."
+        "card_body": "İletişim düzenleyicisi Ofcom, geçen ay 16 yaş üzerindeki kullanıcıların tespit edilmesine yönelik önerilerini açıklamıştır."
       },
       {
         "card_title": "Uluslararası Örnek",
-        "card_body": "Birleşik Krallık'taki bu yasaktan önce benzer bir yasak geçen yıl Avustralya'da yürürlüğe konuldu."
+        "card_body": "Benzer bir sosyal medya yasağı geçen yıl Avustralya'da yürürlüğe konulmuştur."
       }
     ]
   },
@@ -53,17 +53,17 @@
     "cards": [
       {
         "card_title": "Platform Kuralları",
-        "card_body": "Vinted ve eBay gibi perakende siteleri için yeni yaş doğrulama ve denetim süreçleri gündeme gelebilir."
+        "card_body": "Mevcutta 18 yaş şartı arayan platformlar için yeni doğrulama ve denetim mekanizmaları gündeme gelebilir."
       },
       {
-        "card_title": "Erişim Kısıtlamaları",
-        "card_body": "Genç kullanıcıların popüler çevrim içi alışveriş ve sosyal medya platformlarına erişimi tamamen değişecek."
+        "card_title": "Çocuk Güvenliği",
+        "card_body": "Alınan önlemlerle birlikte dijital ortamlarda çocukların güvenliğinin artırılması hedefleniyor."
       }
     ]
   },
   "cta": {
-    "question": "Çocukların dijital güvenliği için bu tür yaş sınırları ve yasaklar yeterlili mi?",
-    "reminder_line": "Teknoloji ve yapay zeka gündemini kaçırmamak için takipte kalın!"
+    "question": "Sizce perakende ve alışveriş siteleri de yaş sınırlaması kapsamına alınmalı mı?",
+    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
