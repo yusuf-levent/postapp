@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "DİJİTAL OYUN MÜLKİYETİ",
+    "title": "Dijital Oyunların Geleceği: Satın Aldıklarımız Bizim mi?",
+    "highlight_words": [
+      "Mülkiyet",
+      "Geleceği"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Oyun dünyasında mülkiyet hakları ve sunucu kapanmaları üzerine yaşanan son gelişmeler.",
+    "source_tags": [
+      "ENGADGET",
+      "ARS TECHNICA"
+    ]
+  },
+  "context": {
+    "heading": "Oyun Dünyasında Neler Değişiyor?",
+    "cards": [
+      {
+        "card_title": "Sunucu Kapanmaları",
+        "card_body": "Ubisoft, The Crew oyununun sunucularını Mart 2024'te kapattı. 2K ise NBA 2K25'i 30 Ekim 2026'da mağazalardan kaldırdı."
+      },
+      {
+        "card_title": "Fiziksel Medya Dönüşümü",
+        "card_body": "Sony, Ocak 2028'den itibaren disk tabanlı oyun üretimini durduracağını açıkladı. GTA VI kutuları artık disk içermiyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "1,29 MİLYON",
+    "stat_caption": "Stop Killing Games kampanyasına verilen geçerli imza sayısı.",
+    "stat_quote": "Avrupa Komisyonu'na sunulan bu imza sayısı, oyuncuların dijital mülkiyet hakları konusundaki kararlılığını gösteriyor."
+  },
+  "details": {
+    "heading": "Yasal Düzenlemeler ve Adımlar",
+    "cards": [
+      {
+        "card_title": "Kaliforniya AB 2426",
+        "card_body": "Ocak 2025'te yürürlüğe giren bu yasa, dijital ürünlerin mülkiyeti konusunda önemli bir yasal çerçeve oluşturuyor."
+      },
+      {
+        "card_title": "Ritchie Torres'in Tasarısı",
+        "card_body": "Temsilci Ritchie Torres, Ekim ayında satın alınan oyunların mülkiyetini korumayı amaçlayan bir yasa tasarısı duyurdu."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektör ve Kullanıcı Etkisi",
+    "cards": [
+      {
+        "card_title": "Sektörel Değişim",
+        "card_body": "Fiziksel disk üretiminin durdurulması ve dijital mağazalardan oyunların kaldırılması, oyun arşivleme kültürünü zorluyor."
+      },
+      {
+        "card_title": "Kullanıcı Hakları",
+        "card_body": "Oyuncular, satın aldıkları dijital içeriklerin kalıcı olması için yasal düzenlemeler ve kampanyalarla hak arıyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Dijital bir oyuna para ödediğinizde, o oyunun sonsuza kadar sizin olacağını mı düşünüyorsunuz?",
+    "reminder_line": "Tekno Pusula ile teknolojinin nabzını tutmaya devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
