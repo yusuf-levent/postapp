@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 81.5,
+  "candidates_tried": 1,
+  "gemini_calls": 13,
+  "canonical_url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+  "generated_at": "2026-11-08T15:09:25+03:00"
+}

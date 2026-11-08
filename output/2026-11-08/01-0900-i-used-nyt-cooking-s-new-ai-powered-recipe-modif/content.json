@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE YEMEK",
+    "title": "NYT Yapay Zeka ile Yemek Tariflerini Değiştiriyor",
+    "highlight_words": [
+      "Yapay Zeka",
+      "Tariflerini"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "iOS kullanıcıları için beta aşamasında test edilen yeni özellik duyuruldu.",
+    "source_tags": [
+      "WIRED",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Yemek Tariflerinde Yeni Dönem",
+    "cards": [
+      {
+        "card_title": "iOS Beta Süreci",
+        "card_body": "The New York Times, abonelerin yemek tariflerini değiştirmesine olanak tanıyan yapay zekayı iOS'a özel bir betada kullanıyor."
+      },
+      {
+        "card_title": "Duyuru Tarihi",
+        "card_body": "Yapay zeka destekli tarif değiştirme özelliğini duyuran makale 23 Ekim tarihinde yayımlandı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "172",
+    "stat_caption": "Yapay zeka tarifi haberine gelen ve neredeyse tamamı öfkeli olan yorum sayısı.",
+    "stat_quote": "Yapay zeka tarifi hikayesi için yapılan yorumlar, dört gün ve 172 adet neredeyse tamamen öfkeli yorumun ardından kapatıldı."
+  },
+  "details": {
+    "heading": "Geçmiş Gelişmeler ve Ekip",
+    "cards": [
+      {
+        "card_title": "Önceki Özellikler",
+        "card_body": "Times, bu yılın başlarında tarif ölçeklendirme ve emperyal ölçümleri metrik birime dönüştürme konusunda yapay zekanın yardımcı olmasına izin vermişti."
+      },
+      {
+        "card_title": "NYT Cooking Ekibi",
+        "card_body": "NYT Cooking bünyesinde 60 editör, yazar, video gazeteci ve diğer çalışanlar görev yapıyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Yayın Politikası ve Ziyaretler",
+    "cards": [
+      {
+        "card_title": "Yayın Hedefleri",
+        "card_body": "Camilla Velasquez, NYT Cooking'in daha az tarif yayımlamak gibi bir niyetinin sıfır olduğunu belirtti."
+      },
+      {
+        "card_title": "Ziyaretçi Sayısı",
+        "card_body": "NYT iletişim direktörü Jordan Cohen, site ve uygulamanın 2025 yılında 514 milyon kez ziyaret edildiğini belirtti."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Yapay zekanın klasik yemek tariflerini değiştirmesi hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
