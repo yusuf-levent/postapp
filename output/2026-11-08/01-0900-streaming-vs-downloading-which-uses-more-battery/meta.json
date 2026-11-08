@@ -2,9 +2,9 @@
   "slot": "09:00",
   "type": "news",
   "model": "gemini-3.1-flash-lite",
-  "duration_seconds": 141.5,
+  "duration_seconds": 103.6,
   "candidates_tried": 1,
   "gemini_calls": 12,
   "canonical_url": "https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/",
-  "generated_at": "2026-11-08T16:39:10+03:00"
+  "generated_at": "2026-11-08T16:43:44+03:00"
 }

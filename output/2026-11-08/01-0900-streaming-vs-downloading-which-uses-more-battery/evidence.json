@@ -7,12 +7,12 @@
     "OpenAI News",
     "MIT Technology Review"
   ],
-  "checked_at": "2026-11-08T16:37:50+03:00",
+  "checked_at": "2026-11-08T16:42:37+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Spotify'ın kayıpsız (lossless) indirme seçeneği, oynatma başına saatte 1 GB'a kadar veri tüketebilmektedir.",
+      "claim": "Spotify, lossless indirmelerin saatte 1 GB'a kadar veri tüketebileceğini belirtmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "claim": "Spotify'da ses kalitesini kayıpsız seviyeden 'Çok yüksek' (320 kbps) seviyesine düşürmek, veri tüketimini saatte 1 GB'tan 0,14 GB'a indirmektedir.",
+      "claim": "Spotify'da ses kalitesini kayıpsızdan 'Çok yüksek' (320 kbps) seviyesine düşürmek, veri tüketimini saatte 1 GB'tan 0,14 GB'a indirmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -32,17 +32,27 @@
       ]
     },
     {
-      "claim": "İndirilen içerikler, düzenli olarak tüketilen medya için genellikle akıştan (streaming) daha verimli bir pil ve veri kullanımı sağlar.",
+      "claim": "İndirilen içerikler, düzenli olarak tüketilen medya için genellikle daha verimli bir seçenektir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/",
-          "quote": "For anything you enjoy on a regular basis, downloads win. While there's going to be an initial (and possibly intense) surge of battery and bandwidth consumption, that's vastly outweighed by the non-existent effort for subsequent plays."
+          "quote": "For anything you enjoy on a regular basis, downloads win."
         }
       ]
     },
     {
-      "claim": "Video uygulamalarında 480p veya 720p çözünürlükteki videolar, 1080p çözünürlüğe göre daha az veri tüketir.",
+      "claim": "Video uygulamaları genellikle kaliteyi bit hızı yerine çözünürlük seçenekleri üzerinden yönetmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/",
+          "quote": "Similar principles apply to video apps, although they tend to manage quality via resolution options instead of bitrate."
+        }
+      ]
+    },
+    {
+      "claim": "480p veya 720p çözünürlüğündeki bir video, 1080p çözünürlüğündeki bir videoya göre daha az veri tüketmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -52,7 +62,7 @@
       ]
     },
     {
-      "claim": "Bazı cihazlarda ve uygulamalarda 4K çözünürlüğünde indirme seçeneği bulunmayabilir.",
+      "claim": "Bazı uygulamalarda ve cihazlarda 4K çözünürlüğünde indirme seçeneği bulunmayabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -62,29 +72,29 @@
       ]
     },
     {
-      "claim": "Akış uygulamaları, kullanıcı bilerek kaydetmese bile arka planda temel düzeyde önbellekleme (caching) işlemi gerçekleştirir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/",
-          "quote": "We say \"may\" because all streaming apps perform a base amount of caching, whether or not you deliberately save anything."
-        }
-      ]
-    },
-    {
-      "claim": "Ses kalitesini 160 kbps seviyesine düşürmek, 320 kbps seviyesine kıyasla belirgin bir netlik kaybına yol açar.",
+      "claim": "Ses kalitesinin 160 kbps seviyesine düşürülmesi, ses netliğinde fark edilebilir bir azalmaya neden olmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/",
           "quote": "While lossless and 320 kbps are virtually indistinguishable in audio, you'll notice a lack of clarity by the time you drop to 160 kbps."
+        }
+      ]
+    },
+    {
+      "claim": "Akış uygulamaları, kullanıcı bilerek kaydetmese bile arka planda temel düzeyde önbellekleme yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/",
+          "quote": "We say \"may\" because all streaming apps perform a base amount of caching, whether or not you deliberately save anything."
         }
       ]
     }
   ],
   "round1": [
     {
-      "claim": "Spotify'ın kayıpsız (lossless) indirme seçeneği, oynatma başına saatte 1 GB'a kadar veri tüketebilmektedir.",
+      "claim": "Spotify, lossless indirmelerin saatte 1 GB'a kadar veri tüketebileceğini belirtmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -94,7 +104,7 @@
       ]
     },
     {
-      "claim": "Spotify'da ses kalitesini kayıpsız seviyeden 'Çok yüksek' (320 kbps) seviyesine düşürmek, veri tüketimini saatte 1 GB'tan 0,14 GB'a indirmektedir.",
+      "claim": "Spotify'da ses kalitesini kayıpsızdan 'Çok yüksek' (320 kbps) seviyesine düşürmek, veri tüketimini saatte 1 GB'tan 0,14 GB'a indirmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -104,17 +114,27 @@
       ]
     },
     {
-      "claim": "İndirilen içerikler, düzenli olarak tüketilen medya için genellikle akıştan (streaming) daha verimli bir pil ve veri kullanımı sağlar.",
+      "claim": "İndirilen içerikler, düzenli olarak tüketilen medya için genellikle daha verimli bir seçenektir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/",
-          "quote": "For anything you enjoy on a regular basis, downloads win. While there's going to be an initial (and possibly intense) surge of battery and bandwidth consumption, that's vastly outweighed by the non-existent effort for subsequent plays."
+          "quote": "For anything you enjoy on a regular basis, downloads win."
         }
       ]
     },
     {
-      "claim": "Video uygulamalarında 480p veya 720p çözünürlükteki videolar, 1080p çözünürlüğe göre daha az veri tüketir.",
+      "claim": "Video uygulamaları genellikle kaliteyi bit hızı yerine çözünürlük seçenekleri üzerinden yönetmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/",
+          "quote": "Similar principles apply to video apps, although they tend to manage quality via resolution options instead of bitrate."
+        }
+      ]
+    },
+    {
+      "claim": "480p veya 720p çözünürlüğündeki bir video, 1080p çözünürlüğündeki bir videoya göre daha az veri tüketmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -124,7 +144,7 @@
       ]
     },
     {
-      "claim": "Bazı cihazlarda ve uygulamalarda 4K çözünürlüğünde indirme seçeneği bulunmayabilir.",
+      "claim": "Bazı uygulamalarda ve cihazlarda 4K çözünürlüğünde indirme seçeneği bulunmayabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -134,29 +154,29 @@
       ]
     },
     {
-      "claim": "Akış uygulamaları, kullanıcı bilerek kaydetmese bile arka planda temel düzeyde önbellekleme (caching) işlemi gerçekleştirir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/",
-          "quote": "We say \"may\" because all streaming apps perform a base amount of caching, whether or not you deliberately save anything."
-        }
-      ]
-    },
-    {
-      "claim": "Ses kalitesini 160 kbps seviyesine düşürmek, 320 kbps seviyesine kıyasla belirgin bir netlik kaybına yol açar.",
+      "claim": "Ses kalitesinin 160 kbps seviyesine düşürülmesi, ses netliğinde fark edilebilir bir azalmaya neden olmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/",
           "quote": "While lossless and 320 kbps are virtually indistinguishable in audio, you'll notice a lack of clarity by the time you drop to 160 kbps."
+        }
+      ]
+    },
+    {
+      "claim": "Akış uygulamaları, kullanıcı bilerek kaydetmese bile arka planda temel düzeyde önbellekleme yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/",
+          "quote": "We say \"may\" because all streaming apps perform a base amount of caching, whether or not you deliberately save anything."
         }
       ]
     }
   ],
   "round2": [
     {
-      "claim": "Spotify'ın kayıpsız (lossless) indirme seçeneği, oynatma başına saatte 1 GB'a kadar veri tüketebilmektedir.",
+      "claim": "Spotify, lossless indirmelerin saatte 1 GB'a kadar veri tüketebileceğini belirtmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -166,7 +186,7 @@
       ]
     },
     {
-      "claim": "Spotify'da ses kalitesini kayıpsız seviyeden 'Çok yüksek' (320 kbps) seviyesine düşürmek, veri tüketimini saatte 1 GB'tan 0,14 GB'a indirmektedir.",
+      "claim": "Spotify'da ses kalitesini kayıpsızdan 'Çok yüksek' (320 kbps) seviyesine düşürmek, veri tüketimini saatte 1 GB'tan 0,14 GB'a indirmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -176,17 +196,27 @@
       ]
     },
     {
-      "claim": "İndirilen içerikler, düzenli olarak tüketilen medya için genellikle akıştan (streaming) daha verimli bir pil ve veri kullanımı sağlar.",
+      "claim": "İndirilen içerikler, düzenli olarak tüketilen medya için genellikle daha verimli bir seçenektir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/",
-          "quote": "For anything you enjoy on a regular basis, downloads win. While there's going to be an initial (and possibly intense) surge of battery and bandwidth consumption, that's vastly outweighed by the non-existent effort for subsequent plays."
+          "quote": "For anything you enjoy on a regular basis, downloads win."
         }
       ]
     },
     {
-      "claim": "Video uygulamalarında 480p veya 720p çözünürlükteki videolar, 1080p çözünürlüğe göre daha az veri tüketir.",
+      "claim": "Video uygulamaları genellikle kaliteyi bit hızı yerine çözünürlük seçenekleri üzerinden yönetmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/",
+          "quote": "Similar principles apply to video apps, although they tend to manage quality via resolution options instead of bitrate."
+        }
+      ]
+    },
+    {
+      "claim": "480p veya 720p çözünürlüğündeki bir video, 1080p çözünürlüğündeki bir videoya göre daha az veri tüketmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -196,7 +226,7 @@
       ]
     },
     {
-      "claim": "Bazı cihazlarda ve uygulamalarda 4K çözünürlüğünde indirme seçeneği bulunmayabilir.",
+      "claim": "Bazı uygulamalarda ve cihazlarda 4K çözünürlüğünde indirme seçeneği bulunmayabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -206,22 +236,22 @@
       ]
     },
     {
-      "claim": "Akış uygulamaları, kullanıcı bilerek kaydetmese bile arka planda temel düzeyde önbellekleme (caching) işlemi gerçekleştirir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/",
-          "quote": "We say \"may\" because all streaming apps perform a base amount of caching, whether or not you deliberately save anything."
-        }
-      ]
-    },
-    {
-      "claim": "Ses kalitesini 160 kbps seviyesine düşürmek, 320 kbps seviyesine kıyasla belirgin bir netlik kaybına yol açar.",
+      "claim": "Ses kalitesinin 160 kbps seviyesine düşürülmesi, ses netliğinde fark edilebilir bir azalmaya neden olmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/",
           "quote": "While lossless and 320 kbps are virtually indistinguishable in audio, you'll notice a lack of clarity by the time you drop to 160 kbps."
+        }
+      ]
+    },
+    {
+      "claim": "Akış uygulamaları, kullanıcı bilerek kaydetmese bile arka planda temel düzeyde önbellekleme yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/",
+          "quote": "We say \"may\" because all streaming apps perform a base amount of caching, whether or not you deliberately save anything."
         }
       ]
     }
