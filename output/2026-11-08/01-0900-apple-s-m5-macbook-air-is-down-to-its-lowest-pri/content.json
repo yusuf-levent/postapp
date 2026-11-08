@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ HABERLERİ",
+    "title": "MacBook Air Modellerinde Büyük İndirim",
+    "highlight_words": [
+      "Büyük",
+      "İndirim"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Popüler MacBook Air modellerinde 200 dolara varan fiyat avantajları başladı.",
+    "source_tags": [
+      "THE VERGE",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "MacBook Air'de Güncel Fırsatlar",
+    "cards": [
+      {
+        "card_title": "13 İnç Modelin Özellikleri",
+        "card_body": "Mayıs ayında piyasaya sürülen 13 inç MacBook Air, M5 işlemci, 16GB RAM ve 512GB depolama alanı ile sunuluyor."
+      },
+      {
+        "card_title": "İndirim Uygulayan Mağazalar",
+        "card_body": "Amazon, Best Buy ve B&H Photo, 13 inç MacBook Air için tüm renk seçeneklerinde 200 dolarlık indirim uyguluyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "200 DOLAR",
+    "stat_caption": "Seçili MacBook Air modellerinde uygulanan güncel indirim tutarı.",
+    "stat_quote": "13 inç MacBook Air şu anda 1.099,99 dolar fiyatla satılmaktadır."
+  },
+  "details": {
+    "heading": "15 İnç Modelin Farkları",
+    "cards": [
+      {
+        "card_title": "Donanım Avantajı",
+        "card_body": "15 inç MacBook Air, 13 inç modele kıyasla altı hoparlörlü bir sisteme ve iki ek GPU çekirdeğine sahip."
+      },
+      {
+        "card_title": "Fiyat ve Konfigürasyon",
+        "card_body": "15 inç model, 16GB RAM ve 512GB SSD içeren konfigürasyonuyla 200 dolarlık indirimle 1.299,99 dolara satılıyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcılar İçin Ne Değişiyor?",
+    "cards": [
+      {
+        "card_title": "Satın Alma Kararları",
+        "card_body": "Antonio G. Di Benedetto'nun incelemeleri, yaz aylarındaki fiyat artışlarından önce yayımlanmıştı; mevcut indirimler bu durumu dengeliyor."
+      },
+      {
+        "card_title": "Model Seçimi",
+        "card_body": "Daha güçlü grafik performansı ve ses sistemi arayan kullanıcılar için 15 inç model, indirimle daha erişilebilir hale geldi."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce taşınabilirlik mi yoksa daha güçlü bir ses sistemi ve GPU performansı mı daha önemli?",
+    "reminder_line": "Tekno Pusula ile teknolojiyi yakından takip etmeye devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
