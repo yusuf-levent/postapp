@@ -5,7 +5,7 @@
     "Wired",
     "MIT Technology Review"
   ],
-  "checked_at": "2026-11-08T14:47:36+03:00",
+  "checked_at": "2026-11-08T14:53:48+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
@@ -20,27 +20,21 @@
       ]
     },
     {
-      "claim": "Wandrd cofounder is Ryan Cope.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
-          "quote": "“We're photographers ourselves, so we're constantly ideating, tinkering, thinking of ways that things can be better,” Ryan Cope, Wandrd cofounder, tells WIRED."
-        }
-      ]
-    },
-    {
-      "claim": "Torus Links anchors are rated to carry up to 198 pounds.",
+      "claim": "Wandrd's Torus Links anchors are rated to carry up to 198 pounds.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
           "quote": "The anchors attach to your camera’s eyelets and are rated to carry up to 198 pounds—so unless you're bench-pressing your camera, they'll do the job."
+        },
+        {
+          "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+          "quote": "The anchors attach to your camera’s eyelets and are rated to carry up to 198 pounds"
         }
       ]
     },
     {
-      "claim": "Wandrd offers a two-year warranty.",
+      "claim": "Wandrd offers a two-year warranty for the strap system.",
       "verdict": "supported",
       "evidence": [
         {
@@ -50,27 +44,45 @@
       ]
     },
     {
-      "claim": "Wandrd's DIY kit is sold for 29 dollars.",
+      "claim": "Wandrd spent two years developing its custom liquid nylon tubular webbing.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+          "quote": "Cope says Wandrd spent two years developing this custom “liquid nylon” tubular webbing that is softer along the edges"
+        },
+        {
+          "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+          "quote": "Cope says Wandrd spent two years developing this custom “liquid nylon” tubular webbing"
+        }
+      ]
+    },
+    {
+      "claim": "Wandrd is selling a DIY kit for $29 that lets you attach its Magnetic CoreLock system to the ends of your preferred strap.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
           "quote": "If you have a strap you love—maybe a fancy leather strap someone gifted you—Wandrd is selling a DIY kit ($29) that lets you attach its Magnetic CoreLock system to the ends of your preferred strap."
+        },
+        {
+          "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+          "quote": "Wandrd is selling a DIY kit ($29) that lets you attach its Magnetic CoreLock system to the ends of your preferred strap."
         }
       ]
     },
     {
-      "claim": "The strap kit comes in a 30-mm size priced at 69 dollars.",
+      "claim": "The strap kit comes in a 30-mm size priced at $69.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
-          "quote": "Otherwise, the strap kit comes in a 30-mm size ($69), a 15-mm “Lite"
+          "quote": "Otherwise, the strap kit comes in a 30-mm size ($69)"
         }
       ]
     },
     {
-      "claim": "The 15-mm Lite strap kit is priced at 49 dollars.",
+      "claim": "The strap kit includes a 15-mm Lite version priced at $49.",
       "verdict": "supported",
       "evidence": [
         {
@@ -79,21 +91,21 @@
         },
         {
           "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
-          "quote": "Otherwise, the strap kit comes in a 30-mm size ($69), a 15-mm “Lite"
+          "quote": "($49)"
+        },
+        {
+          "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+          "quote": "a 15-mm “Lite\" ($49)"
         }
       ]
     },
     {
-      "claim": "The wrist strap is priced at 39 dollars.",
+      "claim": "The wrist strap from Wandrd is priced at $39.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
           "quote": "and a wrist strap ($39)."
-        },
-        {
-          "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
-          "quote": "Otherwise, the strap kit comes in a 30-mm size ($69), a 15-mm “Lite"
         }
       ]
     }
@@ -110,27 +122,21 @@
       ]
     },
     {
-      "claim": "Wandrd cofounder is Ryan Cope.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
-          "quote": "“We're photographers ourselves, so we're constantly ideating, tinkering, thinking of ways that things can be better,” Ryan Cope, Wandrd cofounder, tells WIRED."
-        }
-      ]
-    },
-    {
-      "claim": "Torus Links anchors are rated to carry up to 198 pounds.",
+      "claim": "Wandrd's Torus Links anchors are rated to carry up to 198 pounds.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
           "quote": "The anchors attach to your camera’s eyelets and are rated to carry up to 198 pounds—so unless you're bench-pressing your camera, they'll do the job."
+        },
+        {
+          "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+          "quote": "The anchors attach to your camera’s eyelets and are rated to carry up to 198 pounds"
         }
       ]
     },
     {
-      "claim": "Wandrd offers a two-year warranty.",
+      "claim": "Wandrd offers a two-year warranty for the strap system.",
       "verdict": "supported",
       "evidence": [
         {
@@ -140,27 +146,45 @@
       ]
     },
     {
-      "claim": "Wandrd's DIY kit is sold for 29 dollars.",
+      "claim": "Wandrd spent two years developing its custom liquid nylon tubular webbing.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+          "quote": "Cope says Wandrd spent two years developing this custom “liquid nylon” tubular webbing that is softer along the edges"
+        },
+        {
+          "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+          "quote": "Cope says Wandrd spent two years developing this custom “liquid nylon” tubular webbing"
+        }
+      ]
+    },
+    {
+      "claim": "Wandrd is selling a DIY kit for $29 that lets you attach its Magnetic CoreLock system to the ends of your preferred strap.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
           "quote": "If you have a strap you love—maybe a fancy leather strap someone gifted you—Wandrd is selling a DIY kit ($29) that lets you attach its Magnetic CoreLock system to the ends of your preferred strap."
+        },
+        {
+          "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+          "quote": "Wandrd is selling a DIY kit ($29) that lets you attach its Magnetic CoreLock system to the ends of your preferred strap."
         }
       ]
     },
     {
-      "claim": "The strap kit comes in a 30-mm size priced at 69 dollars.",
+      "claim": "The strap kit comes in a 30-mm size priced at $69.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
-          "quote": "Otherwise, the strap kit comes in a 30-mm size ($69), a 15-mm “Lite"
+          "quote": "Otherwise, the strap kit comes in a 30-mm size ($69)"
         }
       ]
     },
     {
-      "claim": "The 15-mm Lite strap kit is priced at 49 dollars.",
+      "claim": "The strap kit includes a 15-mm Lite version priced at $49.",
       "verdict": "supported",
       "evidence": [
         {
@@ -169,21 +193,21 @@
         },
         {
           "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
-          "quote": "Otherwise, the strap kit comes in a 30-mm size ($69), a 15-mm “Lite"
+          "quote": "($49)"
+        },
+        {
+          "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+          "quote": "a 15-mm “Lite\" ($49)"
         }
       ]
     },
     {
-      "claim": "The wrist strap is priced at 39 dollars.",
+      "claim": "The wrist strap from Wandrd is priced at $39.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
           "quote": "and a wrist strap ($39)."
-        },
-        {
-          "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
-          "quote": "Otherwise, the strap kit comes in a 30-mm size ($69), a 15-mm “Lite"
         }
       ]
     }
@@ -200,27 +224,21 @@
       ]
     },
     {
-      "claim": "Wandrd cofounder is Ryan Cope.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
-          "quote": "“We're photographers ourselves, so we're constantly ideating, tinkering, thinking of ways that things can be better,” Ryan Cope, Wandrd cofounder, tells WIRED."
-        }
-      ]
-    },
-    {
-      "claim": "Torus Links anchors are rated to carry up to 198 pounds.",
+      "claim": "Wandrd's Torus Links anchors are rated to carry up to 198 pounds.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
           "quote": "The anchors attach to your camera’s eyelets and are rated to carry up to 198 pounds—so unless you're bench-pressing your camera, they'll do the job."
+        },
+        {
+          "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+          "quote": "The anchors attach to your camera’s eyelets and are rated to carry up to 198 pounds"
         }
       ]
     },
     {
-      "claim": "Wandrd offers a two-year warranty.",
+      "claim": "Wandrd offers a two-year warranty for the strap system.",
       "verdict": "supported",
       "evidence": [
         {
@@ -230,27 +248,45 @@
       ]
     },
     {
-      "claim": "Wandrd's DIY kit is sold for 29 dollars.",
+      "claim": "Wandrd spent two years developing its custom liquid nylon tubular webbing.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+          "quote": "Cope says Wandrd spent two years developing this custom “liquid nylon” tubular webbing that is softer along the edges"
+        },
+        {
+          "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+          "quote": "Cope says Wandrd spent two years developing this custom “liquid nylon” tubular webbing"
+        }
+      ]
+    },
+    {
+      "claim": "Wandrd is selling a DIY kit for $29 that lets you attach its Magnetic CoreLock system to the ends of your preferred strap.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
           "quote": "If you have a strap you love—maybe a fancy leather strap someone gifted you—Wandrd is selling a DIY kit ($29) that lets you attach its Magnetic CoreLock system to the ends of your preferred strap."
+        },
+        {
+          "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+          "quote": "Wandrd is selling a DIY kit ($29) that lets you attach its Magnetic CoreLock system to the ends of your preferred strap."
         }
       ]
     },
     {
-      "claim": "The strap kit comes in a 30-mm size priced at 69 dollars.",
+      "claim": "The strap kit comes in a 30-mm size priced at $69.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
-          "quote": "Otherwise, the strap kit comes in a 30-mm size ($69), a 15-mm “Lite"
+          "quote": "Otherwise, the strap kit comes in a 30-mm size ($69)"
         }
       ]
     },
     {
-      "claim": "The 15-mm Lite strap kit is priced at 49 dollars.",
+      "claim": "The strap kit includes a 15-mm Lite version priced at $49.",
       "verdict": "supported",
       "evidence": [
         {
@@ -259,21 +295,21 @@
         },
         {
           "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
-          "quote": "Otherwise, the strap kit comes in a 30-mm size ($69), a 15-mm “Lite"
+          "quote": "($49)"
+        },
+        {
+          "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+          "quote": "a 15-mm “Lite\" ($49)"
         }
       ]
     },
     {
-      "claim": "The wrist strap is priced at 39 dollars.",
+      "claim": "The wrist strap from Wandrd is priced at $39.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
           "quote": "and a wrist strap ($39)."
-        },
-        {
-          "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
-          "quote": "Otherwise, the strap kit comes in a 30-mm size ($69), a 15-mm “Lite"
         }
       ]
     }

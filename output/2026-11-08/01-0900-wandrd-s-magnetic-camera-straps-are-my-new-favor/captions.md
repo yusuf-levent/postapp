@@ -2,36 +2,42 @@
 
 ## INSTAGRAM
 
-Wandrd, fotoğrafçılar için yeni Manyetik Kamera Askı sistemini duyurdu! 198 libre taşıma kapasitesi sunan bu yenilikçi sistem, farklı kullanım seçenekleriyle dikkat çekiyor. Kurucu ortağı Ryan Cope olan marka, ürün için iki yıllık garanti de sunuyor. Fiyatlar 29 dolardan başlıyor. Kamera askılarında manyetik sistemleri tercih eder misiniz? Kaynak: Wired, MIT Technology Review
+Wandrd yeni manyetik kamera askısını duyurdu! Fotoğrafçılık dünyasını heyecanlandıran bu yenilik, iki yıllık bir geliştirme sürecinin ürünü. Özel sıvı naylon dokuması ve Torus Links bağlantı elemanları ile dikkat çekiyor. 198 pound taşıma kapasitesine sahip bu sistem, 30-mm, Lite ve el askısı gibi farklı model seçenekleriyle geliyor. Fiyatlar 29 dolardan başlıyor ve iki yıl garanti sunuluyor. Kamera askılarında manyetik kilit sistemlerini pratik buluyor musunuz? Kaynak: Wired, MIT Technology Review
 
-#teknoloji #fotografcilik #wandrd #kamera #inovasyon #yeniemek #tech #photography #gadgets
+#Wandrd #KameraAskısı #Teknoloji #Fotoğrafçılık #Gadget #Inovasyon #Kamera #TechNews #Photography
 
 ## TIKTOK
 
-Wandrd yeni manyetik kamera askı sistemini duyurdu! 198 libre taşıma kapasitesi ve 2 yıl garantiyle geliyor. Fiyatlar 29$'dan başlıyor. Kaynak: Wired, MIT Technology Review
+Wandrd'ın yeni manyetik kamera askısı 198 pound taşıma kapasitesiyle geldi! İki yılda geliştirilen bu sistem fotoğrafçıların işini kolaylaştıracak. Kaynak: Wired, MIT Technology Review
 
-#teknoloji #kamera #wandrd #fotografcilik
+#Wandrd #Teknoloji #Kamera #Fotoğrafçılık
 
 ## X
 
-Wandrd yeni Manyetik Kamera Askı sistemini duyurdu! 198 libre taşıma kapasitesi sunan sistem, 29$'dan başlayan fiyatlarla satışta. Kaynak: Wired, MIT Technology Review
+Wandrd, 198 pound taşıma kapasitesine sahip yeni Manyetik Kamera Askısı serisini tanıttı. İki yıllık Ar-Ge sonucu geliştirilen sistem, farklı model seçenekleriyle satışa çıktı. Kaynak: Wired, MIT Technology Review
 
-#teknoloji #wandrd
+#Wandrd #Teknoloji
 
 ## THREADS
 
-Wandrd Yeni Manyetik Kamera Askı Sistemi Duyuruldu! Wandrd, fotoğrafçılar için geliştirdiği yeni manyetik askı sistemini tanıttı. 198 libre taşıma kapasitesi sunan aparatlar ve iki yıllık garanti dikkat çekiyor. Kamera askılarında manyetik sistemleri tercih eder misiniz? 💭 Kaynak: Wired, MIT Technology Review
+Wandrd Yeni Manyetik Kamera Askısını Duyurdu
 
-#teknoloji
+Wandrd, iki yıllık geliştirme süreci sonucunda 198 pound taşıma kapasitesine sahip yeni manyetik kamera askısı serisini tanıttı. Farklı model ve fiyat seçenekleriyle fotoğrafçılara esneklik sunuluyor.
+
+Kamera askılarında manyetik kilit sistemlerini pratik buluyor musunuz? 💭
+
+Kaynak: Wired, MIT Technology Review
+
+#Wandrd
 
 ## LINKEDIN
 
-Fotoğrafçılık ve teknoloji dünyasında yenilikler devam ediyor. Wandrd, yeni Manyetik Kamera Askı sistemini perşembe günü piyasaya sürdü. Kurucu ortaklığını Ryan Cope'un yaptığı şirket, Torus Links bağlantı noktaları ile 198 libreye kadar yük taşıma kapasitesi sunuyor. 29 dolardan başlayan fiyatlandırma seçenekleri ve iki yıllık garanti desteğiyle profesyonellere alternatifler sunuluyor. Sektördeki bu tarz mekanik yenilikler hakkında ne düşünüyorsunuz? Kaynak: Wired, MIT Technology Review
+Wandrd, fotoğrafçılık sektörüne yönelik yeni manyetik kamera askısı serisini resmi olarak duyurdu. Şirketin özel sıvı naylon tübüler dokumasını geliştirmek için iki yıl harcadığı bu yenilikçi sistem, 198 pound taşıma kapasitesi sunan Torus Links bağlantı elemanlarıyla donatıldı. 30-mm model, Lite versiyon ve el askısı seçeneklerinin yanı sıra mevcut askılara entegrasyon sağlayan DIY kiti de sunuluyor. İki yıllık garanti desteğiyle gelen ürün, teknoloji ve donanım alanındaki gelişmeleri gözler önüne seriyor. Kaynak: Wired, MIT Technology Review
 
-#teknoloji #fotografcilik #inovasyon #girisim #donanim
+#Teknoloji #Inovasyon #Donanım #Girişim
 
 ## FACEBOOK
 
-Wandrd, yeni Manyetik Kamera Askı sistemini fotoğrafçıların beğenisine sundu! 198 libre taşıma kapasitesine sahip bu yenilikçi sistem, farklı kalınlık ve kullanım seçenekleriyle geliyor. İki yıllık garanti desteği sunan ürünler 29 dolardan başlayan fiyatlarla satışta. Kamera askılarında manyetik sistemleri tercih eder misiniz? Kaynak: Wired, MIT Technology Review
+Wandrd yeni manyetik kamera askısını duyurdu! Fotoğrafçılık deneyimini bir üst seviyeye taşıyan bu yeni seri, iki yıllık bir geliştirme sürecinin ardından piyasaya sürüldü. 198 pound taşıma kapasitesi ve farklı model alternatifleriyle dikkat çeken sistem hakkında ne düşünüyorsunuz? Kaynak: Wired, MIT Technology Review
 
-#teknoloji #fotografcilik #wandrd #kamera #yenilik
+#Wandrd #Teknoloji #Kamera #Fotoğrafçılık
