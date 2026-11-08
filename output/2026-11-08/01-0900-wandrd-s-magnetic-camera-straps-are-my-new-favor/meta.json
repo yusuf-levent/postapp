@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 91.3,
+  "candidates_tried": 1,
+  "gemini_calls": 13,
+  "canonical_url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+  "generated_at": "2026-11-08T14:39:26+03:00"
+}

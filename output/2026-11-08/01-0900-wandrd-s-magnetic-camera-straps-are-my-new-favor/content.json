@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "YENİ TEKNOLOJİ",
+    "title": "Wandrd'den Manyetik Kamera Kayışı",
+    "highlight_words": [
+      "Manyetik",
+      "Kamera"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Fotoğrafçılık dünyası için geliştirilen yeni manyetik kayış sistemi duyuruldu.",
+    "source_tags": [
+      "WIRED",
+      "MIT TECHNOLOGY REVIEW"
+    ]
+  },
+  "context": {
+    "heading": "Sistemin Öne Çıkan Özellikleri",
+    "cards": [
+      {
+        "card_title": "Piyasaya Çıkış",
+        "card_body": "Wandrd, yeni manyetik kamera kayışı sistemini Perşembe günü resmi olarak piyasaya sürdü."
+      },
+      {
+        "card_title": "Kurucu Ortak",
+        "card_body": "Yenilikçi ürünün arkasındaki isim olan Wandrd kurucu ortağı Ryan Cope'tur."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "198 LB",
+    "stat_caption": "Torus Links dairesel ankrajların taşıma kapasitesi",
+    "stat_quote": "Dayanıklı dairesel ankrajlar 198 pound'a kadar taşıma kapasitesine sahiptir."
+  },
+  "details": {
+    "heading": "Fiyatlandırma ve Seçenekler",
+    "cards": [
+      {
+        "card_title": "Kayış Fiyatları",
+        "card_body": "Manyetik kamera kayışı kitinin 30 mm boyutu 69 dolardan, 15 mm Lite versiyonu ise 49 dolardan satışa sunulmaktadır."
+      },
+      {
+        "card_title": "Bilek ve DIY Kiti",
+        "card_body": "Bilek kayışının fiyatı 39 dolardır. Ayrıca kullanıcıların mevcut kayışları için 29 dolara bir DIY kiti satılmaktadır."
+      },
+      {
+        "card_title": "Garanti Süresi",
+        "card_body": "Wandrd, kullanıcılarına bu yeni ürün için iki yıllık garanti sunmaktadır."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcı ve Sektör Etkisi",
+    "cards": [
+      {
+        "card_title": "Esnek Kullanım",
+        "card_body": "Kullanıcıların sistemi mevcut kayışlarında da kullanabilmesi için özel DIY kiti sunulmuştur."
+      },
+      {
+        "card_title": "Güvenilirlik",
+        "card_body": "İki yıllık garanti ve yüksek taşıma kapasitesi fotoğrafçılara güven vermektedir."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Kamera ekipmanlarınızda manyetik sistemleri güvenli buluyor musunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
