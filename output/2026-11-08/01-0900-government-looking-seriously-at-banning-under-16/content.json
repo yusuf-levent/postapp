@@ -1,69 +1,69 @@
 {
   "cover": {
     "category_label": "TEKNOLOJİ VE GÜVENLİK",
-    "title": "İngiltere'de 16 Yaş Altı İçin Yeni Yasaklar Yolda",
+    "title": "İngiltere'den Vinted ve eBay İçin Yaş Sınırı Hamlesi",
     "highlight_words": [
-      "16 Yaş Altı",
-      "Yasaklar"
+      "Vinted",
+      "eBay"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Vinted ve eBay gibi perakende siteleri de değerlendiriliyor.",
+    "subtitle": "Kültür Bakanı Lisa Nandy, 16 yaş altı çocukların bu platformlardan yasaklanmasını değerlendirdiklerini açıkladı.",
     "source_tags": [
-      "BBC NEWS – TECHNOLOGY",
+      "BBC NEWS",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Genişletilen Yasak Kapsamı",
+    "heading": "Gündemdeki Yeni Düzenlemeler",
     "cards": [
       {
-        "card_title": "Perakende Siteleri",
-        "card_body": "Kültür bakanı Lisa Nandy, çocukların güvenliği için Vinted ve eBay gibi sitelerin 16 yaş altı yasak kapsamına alınmasını değerlendiriyor."
+        "card_title": "Bakanlık Açıklaması",
+        "card_body": "Kültür Bakanı Lisa Nandy, çocukların güvenliğini sağlamak amacıyla 16 yaş altındakilerin Vinted ve eBay'den yasaklanmasının ciddi olarak ele alındığını belirtti."
       },
       {
-        "card_title": "Sosyal Medya Yasağı",
-        "card_body": "Hükümetin bu yıl Haziran ayında duyurduğu 16 yaş altı sosyal medya yasağının gelecek yıl Mart ayında yürürlüğe girmesi planlanıyor."
+        "card_title": "Mevcut Durum",
+        "card_body": "Hem eBay hem de Vinted platformları halihazırda kullanıcılarının en az 18 yaşında olmasını şart koşuyor."
       }
     ]
   },
   "stat": {
     "big_stat": "17 MİLYON",
-    "stat_caption": "Vinted platformunun Birleşik Krallık'taki toplam kullanıcı sayısı.",
-    "stat_quote": "eBay ve Vinted platformları, kullanıcıların en az 18 yaşında olmasını şart koşmaktadır."
+    "stat_caption": "Vinted'ın Birleşik Krallık'taki toplam kullanıcı sayısı",
+    "stat_quote": "Vinted, Birleşik Krallık pazarında 17 milyon kullanıcıya ulaştı."
   },
   "details": {
-    "heading": "Düzenlemelerin Detayları",
+    "heading": "Güvenlik Önlemleri ve Yasaklar",
     "cards": [
       {
-        "card_title": "YouTube ve YouTube Kids",
-        "card_body": "YouTube 16 yaş altındakiler için yasaklanacak ancak YouTube Kids bu yasak kapsamına dahil edilmeyecek."
+        "card_title": "Sosyal Medya Yasağı",
+        "card_body": "Birleşik Krallık'ta 16 yaş altı için sosyal medya yasağı önümüzdeki yılın Mart ayında yürürlüğe girmeye hazırlanıyor."
       },
       {
-        "card_title": "Ofcom Önerileri",
-        "card_body": "İletişim düzenleyicisi Ofcom, geçen ay 16 yaş üzerindeki kullanıcıların tespit edilmesine yönelik önerilerini açıklamıştır."
+        "card_title": "Platform Kapsamı",
+        "card_body": "Hükümet, bu yılın haziran ayında 10 büyük platformu kapsayacak şekilde 16 yaş altının sosyal medyaya erişiminin yasaklanacağını duyurmuştu."
       },
       {
-        "card_title": "Uluslararası Örnek",
-        "card_body": "Benzer bir sosyal medya yasağı geçen yıl Avustralya'da yürürlüğe konulmuştur."
+        "card_title": "Ofcom Tavsiyeleri",
+        "card_body": "Geçtiğimiz ay iletişim düzenleyicisi Ofcom, 16 yaş üstü kullanıcıların tespiti için önerilerini açıkladı."
       }
     ]
   },
   "impact": {
-    "heading": "Sektör ve Kullanıcı Etkisi",
+    "heading": "Sektör ve Platform Etkileri",
     "cards": [
       {
-        "card_title": "Platform Kuralları",
-        "card_body": "Mevcutta 18 yaş şartı arayan platformlar için yeni doğrulama ve denetim mekanizmaları gündeme gelebilir."
+        "card_title": "Roblox Düzenlemesi",
+        "card_body": "Roblox Birleşik Krallık'ta 16 yaş altı için yasaklanmayacak ancak sohbet fonksiyonu gibi belirli özellikleri kısıtlanacak."
       },
       {
-        "card_title": "Çocuk Güvenliği",
-        "card_body": "Alınan önlemlerle birlikte dijital ortamlarda çocukların güvenliğinin artırılması hedefleniyor."
+        "card_title": "Uluslararası Örnek",
+        "card_body": "Benzer bir 16 yaş altı sosyal medya yasağı geçen yıl Avustralya'da da uygulamaya konulmuştu."
       }
     ]
   },
   "cta": {
-    "question": "Sizce perakende ve alışveriş siteleri de yaş sınırlaması kapsamına alınmalı mı?",
-    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın!"
+    "question": "Çocukların güvenliği için bu tür yaş sınırları ve platform yasakları yeterli bir çözüm mü?",
+    "reminder_line": "En güncel teknoloji gelişmeleri için Tekno Pusula'yı takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
