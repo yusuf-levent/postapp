@@ -3,60 +3,58 @@
 **Haber:** How to Remind Your Boss of Your PTO Without Pissing Them Off
 **Canonical URL:** https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/
 **Kaynaklar:** Wired, Engadget, IEEE Spectrum
-**Kontrol zamanı:** 2026-11-08T14:17:58+03:00
+**Kontrol zamanı:** 2026-11-08T14:22:23+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
 
 ## İddia Bazlı Sonuçlar
 
-### 1. Tatil talebini planlamak icin 4 ila 6 ay onceden istemek mumkundur.
+### 1. İzin tarihini önceden planlamayı sevenler, izni dört ila altı ay öncesinden talep edebilir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/](https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/)
     > If you like to plan in advance, you might request time off four to six months out.
 
-### 2. Izin baslangicindan 4 ila 6 hafta once tatil talebinde bulunmak uygun bir suredir.
+### 2. İzin talepleri için dört ila altı hafta öncesi genellikle uygun bir süredir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/](https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/)
-    > four to six weeks before your time off is probably about right.
-  - [https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/](https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/)
     > If this conversation doesn't give you much clarity, four to six weeks before your time off is probably about right.
 
-### 3. Tatilden yaklasik iki hafta once yoneticiye ve meslektaslara toplantilarda sozlu olarak hatirlatma yapilmalidir.
+### 3. Düğün veya iadesiz seyahat gibi masraflı durumlar için altı ay veya daha öncesinden talep makul sayılabilir.
+- **Karar:** ✅ `supported`
+- **Kanıtlar:**
+  - [https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/](https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/)
+    > Occasionally, you need approval well in advance for an event that cannot move and will cost you a lot of money to cancel, like your own wedding or a nonrefundable trip. In those cases, six months or more is not unreasonable
+
+### 4. İzinden yaklaşık iki hafta önce amir ve iş arkadaşlarına toplantılarda sözlü hatırlatma yapılmalıdır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/](https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/)
     > About two weeks before your time off, remind your boss and colleagues verbally in meetings.
+  - [https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/](https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/)
+    > About two weeks before your time off, remind your boss and colleagues verbally in meetings. The ideal settings are in a weekly one-on-one meeting with your direct manager and in a team meeting.
 
-### 4. Departman disindaki kisilere planlanan izin yazili olarak bir hafta once bildirilmelidir.
+### 5. Ekip dışındaki kişilere planlanan izin yazılı olarak bir hafta önce bildirilmelidir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/](https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/)
     > If you need to tell someone beyond your team—such as clients or another department—about your planned time off, do so in writing a week before you leave.
 
-### 5. Izin baslamadan iki is gunu once,ikeylem gerektiren kisilere kisa ve net bir mesaj gonderilmelidir.
+### 6. İzinden iki iş günü önce, izin alacak kişilere kısa ve net bir mesaj gönderilmelidir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/](https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/)
     > Two business days before your time off begins, send a short, clear message to everyone who needs to know that you will be out.
 
-### 6. Izin mesajindaki ikinci tarih, tatilin son gununu degil ise baslanacak tarihi gostermelidir.
+### 7. Pazartesi günü izin başlayacaksa, mesaj perşembe günü gönderilmelidir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/](https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/)
-    > The second DATE is the day you return to work, not the last day of your PTO.
+    > Why send this message two business days out? Simple: If your first PTO day is Monday, you send this message on Thursday
 
-### 7. Izin baslamadan iki is gunu once gonderilecek mesaj Persembe gunu gonderilmelidir eger izin Pazartesi basliyorsa.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/](https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/)
-    > If your first PTO day is Monday, you send this message on Thursday so that anybody who takes off or calls in sick on Friday still sees it in time.
-  - [https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/](https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/)
-    > Why send this message two business days out? Simple: If your first PTO day is Monday, you send this message on Thursday so that anybody who takes off or calls in sick on Friday still sees it in time.
-
-### 8. Asiri unutkan yoneticiler ve is arkadaslari icin iznin ilk gunu saat 08:30 da otomatik bir mesaj ayarlanabilir.
+### 8. İzin gününde saat 8:30'da otomatik bir mesaj kurulabilir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/](https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/)
@@ -68,14 +66,14 @@
 
 | İddia | 1. Tur | 2. Tur | Nihai |
 |-------|--------|--------|-------|
-| Tatil talebini planlamak icin 4 ila 6 ay onceden istemek mum | supported | supported | supported |
-| Izin baslangicindan 4 ila 6 hafta once tatil talebinde bulun | supported | supported | supported |
-| Tatilden yaklasik iki hafta once yoneticiye ve meslektaslara | supported | supported | supported |
-| Departman disindaki kisilere planlanan izin yazili olarak bi | supported | supported | supported |
-| Izin baslamadan iki is gunu once,ikeylem gerektiren kisilere | supported | supported | supported |
-| Izin mesajindaki ikinci tarih, tatilin son gununu degil ise  | supported | supported | supported |
-| Izin baslamadan iki is gunu once gonderilecek mesaj Persembe | supported | supported | supported |
-| Asiri unutkan yoneticiler ve is arkadaslari icin iznin ilk g | supported | supported | supported |
+| İzin tarihini önceden planlamayı sevenler, izni dört ila alt | supported | supported | supported |
+| İzin talepleri için dört ila altı hafta öncesi genellikle uy | supported | supported | supported |
+| Düğün veya iadesiz seyahat gibi masraflı durumlar için altı  | supported | supported | supported |
+| İzinden yaklaşık iki hafta önce amir ve iş arkadaşlarına top | supported | supported | supported |
+| Ekip dışındaki kişilere planlanan izin yazılı olarak bir haf | supported | supported | supported |
+| İzinden iki iş günü önce, izin alacak kişilere kısa ve net b | supported | supported | supported |
+| Pazartesi günü izin başlayacaksa, mesaj perşembe günü gönder | supported | supported | supported |
+| İzin gününde saat 8:30'da otomatik bir mesaj kurulabilir. | supported | supported | supported |
 
 ## Kaynak Metinleri
 
