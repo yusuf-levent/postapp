@@ -1,50 +1,50 @@
 {
   "cover": {
-    "category_label": "GÜVENLİK VE AĞ TEKNOLOJİLERİ",
-    "title": "İnternet Güvenliğinde Kritik Riskler: IP ve Ağ Açıkları",
+    "category_label": "SİBER GÜVENLİK",
+    "title": "Dijital Dünyada IP ve Ağ Güvenliği",
     "highlight_words": [
       "IP",
-      "Ağ Açıkları"
+      "Güvenliği"
     ],
-    "highlight_color": "yellow",
-    "subtitle": "Oyun dünyasından kurumsal yazılımlara kadar dijital güvenliğinizi tehdit eden gerçekler.",
+    "highlight_color": "cyan",
+    "subtitle": "Oyunlardan altyapı sorunlarına kadar ağ güvenliğinin kritik noktalarına bakış.",
     "source_tags": [
       "WIRED",
       "ARS TECHNICA"
     ]
   },
   "context": {
-    "heading": "Dijital Güvenlik Neden Önemli?",
+    "heading": "Ağ Güvenliği Neden Önemli?",
     "cards": [
       {
-        "card_title": "DDoS Saldırıları Nedir?",
-        "card_body": "DDoS saldırıları, bir hedefi birden fazla kaynaktan gelen trafikle boğarak oyun oturumlarını veya internet bağlantısını kesintiye uğratabilir."
+        "card_title": "Oyunlarda IP Riski",
+        "card_body": "Kasım 2021'de xQc, 'Crab Game' oynarken bağlantı kaybı yaşadı. Geliştiriciler, halka açık lobilerin DDoS saldırılarına açık olduğunu belirtti."
       },
       {
-        "card_title": "IP Adresi Riski",
-        "card_body": "Crab Game gibi oyunlarda halka açık lobiler, oyuncuların IP adreslerini DDoS saldırılarına karşı açık hale getirebilir."
+        "card_title": "Yanlış IP Eşleşmeleri",
+        "card_body": "2016'da bir aile, MaxMind veritabanının 650 milyon IP adresini hatalı şekilde çiftliklerine ataması sonucu kolluk kuvvetleriyle sorun yaşadı."
       }
     ]
   },
   "stat": {
     "big_stat": "650 MİLYON",
-    "stat_caption": "2016 yılında MaxMind veritabanı hatası nedeniyle yanlışlıkla bir çiftliğe eşlenen IP adresi sayısı.",
-    "stat_quote": "Veri eşleme hataları, masum kullanıcıların dijital dünyada yanlış hedefler haline gelmesine neden olabiliyor."
+    "stat_caption": "MaxMind veritabanındaki hatalı IP eşleşmesi sayısı.",
+    "stat_quote": "Yanlış IP atamaları, masum insanların kolluk kuvvetleriyle sürekli karşı karşıya kalmasına yol açabiliyor."
   },
   "details": {
-    "heading": "Teknik Güvenlik Notları",
+    "heading": "Teknik Riskler ve Açıklar",
     "cards": [
       {
-        "card_title": "IPv6 ve Uzak Erişim",
-        "card_body": "OpenWrt üzerinde IPv6 etkinleştirildiğinde, ev sunucusundaki dosya paylaşım portları ağ dışından erişilebilir hale gelebilir."
-      },
-      {
         "card_title": "Windows ve QUIC Açığı",
-        "card_body": "Ekim 2026'da Microsoft, Windows .NET uygulamalarında kod yürütülmesine izin verebilecek CVE-2026-105016 açığını duyurdu."
+        "card_body": "Ekim 2026'da Microsoft, Windows .NET uygulamalarında kod yürütülmesine izin verebilen CVE-2026-105016 güvenlik açığını duyurdu."
       },
       {
-        "card_title": "IPv6 Kapatılmalı mı?",
-        "card_body": "Microsoft, IPv6'nın kapatılmasının bazı Windows bileşenlerinde sorunlara yol açabileceği konusunda uyarıyor."
+        "card_title": "IPv6 ve Port Erişimi",
+        "card_body": "Bir OpenWrt kullanıcısı, IPv6 açıldığında dosya paylaşım portlarının ağ dışından erişilebilir hale geldiğini tespit etti."
+      },
+      {
+        "card_title": "Microsoft'un Uyarısı",
+        "card_body": "Microsoft, IPv6'nın kapatılmasının bazı Windows bileşenlerinde işlevsel sorunlara yol açabileceği konusunda kullanıcıları uyardı."
       }
     ]
   },
@@ -52,18 +52,18 @@
     "heading": "Kullanıcı ve Sektör Etkisi",
     "cards": [
       {
-        "card_title": "Yayıncılar İçin Risk",
-        "card_body": "Kasım 2021'de xQc örneğinde olduğu gibi, oyun içi IP sızıntıları yayıncıların internet bağlantısını kaybetmesine yol açabiliyor."
+        "card_title": "Platform Kesintileri",
+        "card_body": "Bluesky gibi platformlar, yaşanan sunucu kesintilerinin arkasında DDoS saldırılarının olduğunu doğruladı."
       },
       {
-        "card_title": "Kurumsal Güvenlik",
-        "card_body": "Yazılım geliştiriciler ve sistem yöneticileri, kritik güvenlik açıklarına karşı güncellemeleri yakından takip etmelidir."
+        "card_title": "Bireysel Güvenlik",
+        "card_body": "Oyun lobilerinden ağ yapılandırmalarına kadar, yanlış ayarlar veya açıklar kişisel verilerin ve bağlantıların güvenliğini riske atıyor."
       }
     ]
   },
   "cta": {
-    "question": "Siz ev ağınızda IPv6 güvenliğini kontrol ettiniz mi?",
-    "reminder_line": "Tekno Pusula ile dijital dünyadaki güncel risklerden haberdar kalın."
+    "question": "Sizce ağ güvenliğinizi korumak için en etkili yöntem nedir?",
+    "reminder_line": "Tekno Pusula ile güncel kalmaya devam edin."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

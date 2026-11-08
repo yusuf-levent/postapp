@@ -7,7 +7,7 @@
     "Wired",
     "Ars Technica"
   ],
-  "checked_at": "2026-11-08T17:07:43+03:00",
+  "checked_at": "2026-11-08T17:12:31+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "claim": "Crab Game'in geliştiricisi, oyunun oyuncuların IP adreslerini DDoS saldırılarına karşı açık hale getirebileceğini keşfettikten sonra yayıncıları halka açık lobilerden kaçınmaları konusunda uyardı.",
+      "claim": "Crab Game geliştiricisi, oyunun oyuncuların IP adreslerini DDoS saldırılarına karşı açık hale getirebileceğini keşfettikten sonra yayıncıları halka açık lobilerden kaçınmaları konusunda uyardı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "claim": "2016 yılında bir Kansaslı aile, MaxMind şirketine ait veritabanının yaklaşık 650 milyon ilgisiz IP adresini yanlışlıkla kendi çiftliklerine eşlemesi nedeniyle dava açtı.",
+      "claim": "2016 yılında Kansaslı bir aile, MaxMind'ın veritabanının yaklaşık 650 milyon ilgisiz IP adresini çiftliklerine ataması ve kolluk kuvvetlerinin sürekli ziyaretine yol açması nedeniyle şirkete dava açtı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -42,27 +42,21 @@
       ]
     },
     {
-      "claim": "DDoS saldırıları, bir hedefi birden fazla kaynaktan gelen trafikle boğarak oyun oturumlarını, video görüşmelerini veya ev internet bağlantısını kesintiye uğratabilir.",
+      "claim": "Bluesky, sunucu kesintileri için DDoS saldırılarını sorumlu tuttu.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
-          "quote": "A typical DDoS attack floods a target with traffic from multiple sources. It's the same kind of attack Bluesky blamed for its server outages, and on a smaller scale, it could interrupt gaming sessions, video calls, or even an entire household internet connection."
-        }
-      ]
-    },
-    {
-      "claim": "Bir Reddit kullanıcısı, OpenWrt üzerinde IPv6'yı etkinleştirdiğinde, ev sunucusundaki uzak erişim ve dosya paylaşım portlarının ağ dışından erişilebilir olduğunu keşfetti.",
-      "verdict": "supported",
-      "evidence": [
+          "quote": "It's the same kind of attack Bluesky blamed for its server outages"
+        },
         {
           "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
-          "quote": "An OpenWrt user on Reddit turned on IPv6, tested their home server remotely, and discovered that their remote-access and file-sharing ports were reachable from outside the network."
+          "quote": "A typical DDoS attack floods a target with traffic from multiple sources. It's the same kind of attack Bluesky blamed for its server outages"
         }
       ]
     },
     {
-      "claim": "Ekim 2026'da Microsoft, Windows üzerindeki .NET uygulamalarında kod yürütülmesine izin verebilecek CVE-2026-105016 kodlu kritik bir QUIC güvenlik açığını duyurdu.",
+      "claim": "Ekim 2026'da Microsoft, Windows üzerindeki .NET uygulamalarında kod yürütülmesine izin verebilecek QUIC uygulamasındaki kritik bir güvenlik açığı olan CVE-2026-105016'yı açıkladı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -72,7 +66,17 @@
       ]
     },
     {
-      "claim": "Microsoft, IPv6'nın kapatılmasının bazı Windows bileşenlerinde sorunlara yol açabileceğini belirtmektedir.",
+      "claim": "Bir OpenWrt kullanıcısı, IPv6'yı açtığında uzaktan erişim ve dosya paylaşım portlarının ağ dışından erişilebilir olduğunu keşfetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "An OpenWrt user on Reddit turned on IPv6, tested their home server remotely, and discovered that their remote-access and file-sharing ports were reachable from outside the network."
+        }
+      ]
+    },
+    {
+      "claim": "Microsoft, IPv6'nın kapatılmasının bazı Windows bileşenlerinde sorunlara yol açabileceğini belirtti.",
       "verdict": "supported",
       "evidence": [
         {
@@ -94,7 +98,7 @@
       ]
     },
     {
-      "claim": "Crab Game'in geliştiricisi, oyunun oyuncuların IP adreslerini DDoS saldırılarına karşı açık hale getirebileceğini keşfettikten sonra yayıncıları halka açık lobilerden kaçınmaları konusunda uyardı.",
+      "claim": "Crab Game geliştiricisi, oyunun oyuncuların IP adreslerini DDoS saldırılarına karşı açık hale getirebileceğini keşfettikten sonra yayıncıları halka açık lobilerden kaçınmaları konusunda uyardı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -104,7 +108,7 @@
       ]
     },
     {
-      "claim": "2016 yılında bir Kansaslı aile, MaxMind şirketine ait veritabanının yaklaşık 650 milyon ilgisiz IP adresini yanlışlıkla kendi çiftliklerine eşlemesi nedeniyle dava açtı.",
+      "claim": "2016 yılında Kansaslı bir aile, MaxMind'ın veritabanının yaklaşık 650 milyon ilgisiz IP adresini çiftliklerine ataması ve kolluk kuvvetlerinin sürekli ziyaretine yol açması nedeniyle şirkete dava açtı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -114,27 +118,21 @@
       ]
     },
     {
-      "claim": "DDoS saldırıları, bir hedefi birden fazla kaynaktan gelen trafikle boğarak oyun oturumlarını, video görüşmelerini veya ev internet bağlantısını kesintiye uğratabilir.",
+      "claim": "Bluesky, sunucu kesintileri için DDoS saldırılarını sorumlu tuttu.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
-          "quote": "A typical DDoS attack floods a target with traffic from multiple sources. It's the same kind of attack Bluesky blamed for its server outages, and on a smaller scale, it could interrupt gaming sessions, video calls, or even an entire household internet connection."
-        }
-      ]
-    },
-    {
-      "claim": "Bir Reddit kullanıcısı, OpenWrt üzerinde IPv6'yı etkinleştirdiğinde, ev sunucusundaki uzak erişim ve dosya paylaşım portlarının ağ dışından erişilebilir olduğunu keşfetti.",
-      "verdict": "supported",
-      "evidence": [
+          "quote": "It's the same kind of attack Bluesky blamed for its server outages"
+        },
         {
           "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
-          "quote": "An OpenWrt user on Reddit turned on IPv6, tested their home server remotely, and discovered that their remote-access and file-sharing ports were reachable from outside the network."
+          "quote": "A typical DDoS attack floods a target with traffic from multiple sources. It's the same kind of attack Bluesky blamed for its server outages"
         }
       ]
     },
     {
-      "claim": "Ekim 2026'da Microsoft, Windows üzerindeki .NET uygulamalarında kod yürütülmesine izin verebilecek CVE-2026-105016 kodlu kritik bir QUIC güvenlik açığını duyurdu.",
+      "claim": "Ekim 2026'da Microsoft, Windows üzerindeki .NET uygulamalarında kod yürütülmesine izin verebilecek QUIC uygulamasındaki kritik bir güvenlik açığı olan CVE-2026-105016'yı açıkladı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -144,7 +142,17 @@
       ]
     },
     {
-      "claim": "Microsoft, IPv6'nın kapatılmasının bazı Windows bileşenlerinde sorunlara yol açabileceğini belirtmektedir.",
+      "claim": "Bir OpenWrt kullanıcısı, IPv6'yı açtığında uzaktan erişim ve dosya paylaşım portlarının ağ dışından erişilebilir olduğunu keşfetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "An OpenWrt user on Reddit turned on IPv6, tested their home server remotely, and discovered that their remote-access and file-sharing ports were reachable from outside the network."
+        }
+      ]
+    },
+    {
+      "claim": "Microsoft, IPv6'nın kapatılmasının bazı Windows bileşenlerinde sorunlara yol açabileceğini belirtti.",
       "verdict": "supported",
       "evidence": [
         {
@@ -166,7 +174,7 @@
       ]
     },
     {
-      "claim": "Crab Game'in geliştiricisi, oyunun oyuncuların IP adreslerini DDoS saldırılarına karşı açık hale getirebileceğini keşfettikten sonra yayıncıları halka açık lobilerden kaçınmaları konusunda uyardı.",
+      "claim": "Crab Game geliştiricisi, oyunun oyuncuların IP adreslerini DDoS saldırılarına karşı açık hale getirebileceğini keşfettikten sonra yayıncıları halka açık lobilerden kaçınmaları konusunda uyardı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -176,7 +184,7 @@
       ]
     },
     {
-      "claim": "2016 yılında bir Kansaslı aile, MaxMind şirketine ait veritabanının yaklaşık 650 milyon ilgisiz IP adresini yanlışlıkla kendi çiftliklerine eşlemesi nedeniyle dava açtı.",
+      "claim": "2016 yılında Kansaslı bir aile, MaxMind'ın veritabanının yaklaşık 650 milyon ilgisiz IP adresini çiftliklerine ataması ve kolluk kuvvetlerinin sürekli ziyaretine yol açması nedeniyle şirkete dava açtı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -186,27 +194,21 @@
       ]
     },
     {
-      "claim": "DDoS saldırıları, bir hedefi birden fazla kaynaktan gelen trafikle boğarak oyun oturumlarını, video görüşmelerini veya ev internet bağlantısını kesintiye uğratabilir.",
+      "claim": "Bluesky, sunucu kesintileri için DDoS saldırılarını sorumlu tuttu.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
-          "quote": "A typical DDoS attack floods a target with traffic from multiple sources. It's the same kind of attack Bluesky blamed for its server outages, and on a smaller scale, it could interrupt gaming sessions, video calls, or even an entire household internet connection."
-        }
-      ]
-    },
-    {
-      "claim": "Bir Reddit kullanıcısı, OpenWrt üzerinde IPv6'yı etkinleştirdiğinde, ev sunucusundaki uzak erişim ve dosya paylaşım portlarının ağ dışından erişilebilir olduğunu keşfetti.",
-      "verdict": "supported",
-      "evidence": [
+          "quote": "It's the same kind of attack Bluesky blamed for its server outages"
+        },
         {
           "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
-          "quote": "An OpenWrt user on Reddit turned on IPv6, tested their home server remotely, and discovered that their remote-access and file-sharing ports were reachable from outside the network."
+          "quote": "A typical DDoS attack floods a target with traffic from multiple sources. It's the same kind of attack Bluesky blamed for its server outages"
         }
       ]
     },
     {
-      "claim": "Ekim 2026'da Microsoft, Windows üzerindeki .NET uygulamalarında kod yürütülmesine izin verebilecek CVE-2026-105016 kodlu kritik bir QUIC güvenlik açığını duyurdu.",
+      "claim": "Ekim 2026'da Microsoft, Windows üzerindeki .NET uygulamalarında kod yürütülmesine izin verebilecek QUIC uygulamasındaki kritik bir güvenlik açığı olan CVE-2026-105016'yı açıkladı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -216,7 +218,17 @@
       ]
     },
     {
-      "claim": "Microsoft, IPv6'nın kapatılmasının bazı Windows bileşenlerinde sorunlara yol açabileceğini belirtmektedir.",
+      "claim": "Bir OpenWrt kullanıcısı, IPv6'yı açtığında uzaktan erişim ve dosya paylaşım portlarının ağ dışından erişilebilir olduğunu keşfetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "An OpenWrt user on Reddit turned on IPv6, tested their home server remotely, and discovered that their remote-access and file-sharing ports were reachable from outside the network."
+        }
+      ]
+    },
+    {
+      "claim": "Microsoft, IPv6'nın kapatılmasının bazı Windows bileşenlerinde sorunlara yol açabileceğini belirtti.",
       "verdict": "supported",
       "evidence": [
         {
