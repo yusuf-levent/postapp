@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ REHBERİ",
+    "title": "Yenilenmiş Cihazlar Hakkında Bilmeniz Gerekenler",
+    "highlight_words": [
+      "Yenilenmiş",
+      "Cihazlar"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "İkinci el ile yenilenmiş ürünler arasındaki farkları ve dikkat etmeniz gerekenleri inceledik.",
+    "source_tags": [
+      "ENGADGET",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Yenilenmiş Ürün Nedir?",
+    "cards": [
+      {
+        "card_title": "Süreç Farkı",
+        "card_body": "Yenilenmiş ürünler, ikinci elin aksine profesyonel inceleme, temizlik, test ve onarım süreçlerinden geçer."
+      },
+      {
+        "card_title": "Açık Kutu Farkı",
+        "card_body": "Açık kutu ürünler, genellikle iade edilmiş ancak hiç kullanılmamış cihazları ifade eder."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "1 YIL",
+    "stat_caption": "Apple'ın sertifikalı yenilenmiş ürünlerinde sunduğu sınırlı garanti süresi.",
+    "stat_quote": "Apple'ın sertifikalı yenilenmiş ürünleri, titiz test süreçlerinden geçer ve yeni kutuyla gelir. - TechCrunch"
+  },
+  "details": {
+    "heading": "Satın Alırken Dikkat",
+    "cards": [
+      {
+        "card_title": "Kurumsal Programlar",
+        "card_body": "Dell ve Apple gibi büyük teknoloji şirketlerinin kendi yenilenmiş dizüstü bilgisayar satış programları bulunmaktadır."
+      },
+      {
+        "card_title": "Windows 11 Uyumluluğu",
+        "card_body": "Eski bir cihaz alırken Windows 11 için uyumlu bir işlemci ve TPM 2.0 desteğine sahip bir anakart gerektiğini unutmayın."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etki",
+    "cards": [
+      {
+        "card_title": "Sektörün Yaklaşımı",
+        "card_body": "Büyük üreticilerin yenilenmiş ürün programları, cihazların ömrünü uzatarak teknolojiye erişimi daha güvenli kılıyor."
+      },
+      {
+        "card_title": "Kullanıcı Deneyimi",
+        "card_body": "Sertifikalı süreçler, kullanıcıların ikinci el risklerini minimize ederek daha uygun maliyetle cihaz sahibi olmasını sağlar."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Siz teknoloji alışverişlerinizde yenilenmiş ürünleri tercih eder misiniz?",
+    "reminder_line": "Tekno Pusula ile teknoloji dünyasından haberdar kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

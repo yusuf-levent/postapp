@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 91.9,
+  "candidates_tried": 1,
+  "gemini_calls": 15,
+  "canonical_url": "https://www.engadget.com/2307699/buying-refurbished-laptops-pros-and-cons/",
+  "generated_at": "2026-11-08T17:38:22+03:00"
+}
