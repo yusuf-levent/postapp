@@ -1,0 +1,170 @@
+{
+  "title": "There’s no slowing down media’s pivot-to-video 2.0",
+  "canonical_url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+  "source_names": [
+    "The Verge",
+    "Engadget",
+    "Ars Technica"
+  ],
+  "checked_at": "2026-11-08T16:08:47+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "YouTube is the most popular streamer, commanding nearly 16 percent of TV viewing, according to Nielsen.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "In the meantime, YouTube has become the most popular streamer, commanding nearly 16 percent of TV viewing, according to Nielsen."
+        },
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "YouTube has become the most popular streamer, commanding nearly 16 percent of TV viewing, according to Nielsen."
+        }
+      ]
+    },
+    {
+      "claim": "Twenty percent of Americans regularly get news from TikTok, and that number jumps to 39 percent for people 18 to 29 years old, Pew found.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "Twenty percent of Americans regularly get news from TikTok, and that number jumps to 39 percent for people 18 to 29 years old, Pew found."
+        }
+      ]
+    },
+    {
+      "claim": "Dave Jorgenson, the face of The Washington Post's social video effort, left the paper last year.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "(Dave Jorgenson, the face of the Post’s social video effort, left the paper last year."
+        }
+      ]
+    },
+    {
+      "claim": "CNN partnered with Jubilee, the popular channel that produces debate-me-style videos on hot-button political topics.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "CNN partnered with Jubilee, the popular channel that produces debate-me-style videos on hot-button political topics."
+        }
+      ]
+    },
+    {
+      "claim": "The BBC struck a deal with YouTube in early 2026 to create special programming specifically for the platform.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "round1": [
+    {
+      "claim": "YouTube is the most popular streamer, commanding nearly 16 percent of TV viewing, according to Nielsen.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "In the meantime, YouTube has become the most popular streamer, commanding nearly 16 percent of TV viewing, according to Nielsen."
+        },
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "YouTube has become the most popular streamer, commanding nearly 16 percent of TV viewing, according to Nielsen."
+        }
+      ]
+    },
+    {
+      "claim": "Twenty percent of Americans regularly get news from TikTok, and that number jumps to 39 percent for people 18 to 29 years old, Pew found.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "Twenty percent of Americans regularly get news from TikTok, and that number jumps to 39 percent for people 18 to 29 years old, Pew found."
+        }
+      ]
+    },
+    {
+      "claim": "Dave Jorgenson, the face of The Washington Post's social video effort, left the paper last year.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "(Dave Jorgenson, the face of the Post’s social video effort, left the paper last year."
+        }
+      ]
+    },
+    {
+      "claim": "CNN partnered with Jubilee, the popular channel that produces debate-me-style videos on hot-button political topics.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "CNN partnered with Jubilee, the popular channel that produces debate-me-style videos on hot-button political topics."
+        }
+      ]
+    },
+    {
+      "claim": "The BBC struck a deal with YouTube in early 2026 to create special programming specifically for the platform.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "round2": [
+    {
+      "claim": "YouTube is the most popular streamer, commanding nearly 16 percent of TV viewing, according to Nielsen.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "In the meantime, YouTube has become the most popular streamer, commanding nearly 16 percent of TV viewing, according to Nielsen."
+        },
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "YouTube has become the most popular streamer, commanding nearly 16 percent of TV viewing, according to Nielsen."
+        }
+      ]
+    },
+    {
+      "claim": "Twenty percent of Americans regularly get news from TikTok, and that number jumps to 39 percent for people 18 to 29 years old, Pew found.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "Twenty percent of Americans regularly get news from TikTok, and that number jumps to 39 percent for people 18 to 29 years old, Pew found."
+        }
+      ]
+    },
+    {
+      "claim": "Dave Jorgenson, the face of The Washington Post's social video effort, left the paper last year.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "(Dave Jorgenson, the face of the Post’s social video effort, left the paper last year."
+        }
+      ]
+    },
+    {
+      "claim": "CNN partnered with Jubilee, the popular channel that produces debate-me-style videos on hot-button political topics.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+          "quote": "CNN partnered with Jubilee, the popular channel that produces debate-me-style videos on hot-button political topics."
+        }
+      ]
+    },
+    {
+      "claim": "The BBC struck a deal with YouTube in early 2026 to create special programming specifically for the platform.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot": 11351,
+    "https://www.engadget.com/2309554/gpu-supply-problem-no-end-in-sight/": 5513,
+    "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/": 2064
+  }
+}

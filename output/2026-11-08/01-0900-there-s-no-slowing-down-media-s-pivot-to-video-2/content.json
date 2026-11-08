@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "MEDYA VE TEKNOLOJI",
+    "title": "Dijital Medya ve İzleme Alışkanlıkları",
+    "highlight_words": [
+      "Dijital",
+      "Medya"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Nielsen ve Pew araştırmalarından güncel veriler ve medya dünyasındaki gelişmeler.",
+    "source_tags": [
+      "THE VERGE",
+      "ENGADGET"
+    ]
+  },
+  "context": {
+    "heading": "Televizyon ve Haber Alışkanlıkları",
+    "cards": [
+      {
+        "card_title": "YouTube'un Yükselişi",
+        "card_body": "Nielsen verilerine göre YouTube, televizyon izlemelerinin yaklaşık yüzde 16'sını alarak en popüler yayıncı konumunda."
+      },
+      {
+        "card_title": "TikTok'tan Haber Almak",
+        "card_body": "Pew araştırmasına göre Amerikalıların yüzde 20'si düzenli olarak TikTok'tan haber alıyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "%39",
+    "stat_caption": "18 ile 29 yaş arasındaki kişilerin TikTok'tan düzenli haber alım oranı.",
+    "stat_quote": "Pew verilerine göre genç yetişkinler haber tüketiminde TikTok'u yoğun şekilde tercih ediyor."
+  },
+  "details": {
+    "heading": "Medya Dünyasından Gelişmeler",
+    "cards": [
+      {
+        "card_title": "The Washington Post",
+        "card_body": "The Washington Post'un sosyal video çalışmalarının yüzü olan Dave Jorgenson geçen yıl gazeteden ayrıldı."
+      },
+      {
+        "card_title": "CNN ve Jubilee İş Birliği",
+        "card_body": "CNN, sıcak siyasi konularda tartışma tarzı videolar üreten popüler kanal Jubilee ile ortaklık kurdu."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel ve Kullanıcı Etkisi",
+    "cards": [
+      {
+        "card_title": "Sektörel Değişim",
+        "card_body": "Geleneksel medya kurumları, dijital platformlar ve popüler kanallarla stratejik ortaklıklar kurmaya devam ediyor."
+      },
+      {
+        "card_title": "Kullanıcı Tercihleri",
+        "card_body": "İzleyiciler ve özellikle genç nesil, haber ve içerik tüketiminde dijital platformları ön plana çıkarıyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Siz haberleri ve video içeriklerini en çok hangi platformdan takip ediyorsunuz?",
+    "reminder_line": "Teknoloji ve medya dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

@@ -1,0 +1,27 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2264895316.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.75214828329%2C100%2C78.49570343342&amp;w=1200",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-08/01-0900-there-s-no-slowing-down-media-s-pivot-to-video-2/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+      "width": 8192,
+      "height": 5464,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/7989740/pexels-photo-7989740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-08/01-0900-there-s-no-slowing-down-media-s-pivot-to-video-2/images/img-2.png",
+      "license": "Pexels License — Carlos Jairo",
+      "author": "Carlos Jairo",
+      "credit_url": "https://www.pexels.com/photo/black-gadgets-on-a-black-surface-7989740/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "A minimalist flat lay of electronic gadgets on a black surface, showcasing modern tech."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}
