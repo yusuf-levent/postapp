@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 156.3,
+  "candidates_tried": 1,
+  "gemini_calls": 28,
+  "canonical_url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+  "generated_at": "2026-11-08T18:05:07+03:00"
+}

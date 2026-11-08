@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "YAZILIM GÜNCELLEMELERİ",
+    "title": "iOS 27.3 Beta ile Gelen Yenilikler",
+    "highlight_words": [
+      "iOS 27.3",
+      "Yenilikler"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Akıllı ev sistemleri için sohbet robotu desteği ve yeni güvenlik önlemleri yolda.",
+    "source_tags": [
+      "THE VERGE",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Sohbet Robotu Dönemi Başlıyor",
+    "cards": [
+      {
+        "card_title": "Sohbet Uygulamaları Kategorisi",
+        "card_body": "iOS 27.3 beta kodlarında 'Conversational Apps' yani Sohbet Uygulamaları adında yeni bir kategori bayrağı keşfedildi."
+      },
+      {
+        "card_title": "Akıllı Ev Entegrasyonu",
+        "card_body": "Kodlar, akıllı ev merkezleri için özel bir sohbet robotu desteğinin yolda olduğuna dair güçlü işaretler taşıyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "8 SAAT",
+    "stat_caption": "Yeni güvenlik sistemiyle gelen maksimum bekleme süresi.",
+    "stat_quote": "Yeni güvenlik sistemi, dördüncü başarısız denemeden sonra sekiz saate kadar çıkan artan bekleme süreleri içeriyor. - Wired"
+  },
+  "details": {
+    "heading": "Teknik Detaylar ve Güvenlik",
+    "cards": [
+      {
+        "card_title": "Ses ve Oturum Yönetimi",
+        "card_body": "X kullanıcısı pdfu'nun aktardığına göre, iOS 27.3 beta sürümü çift yönlü ses yönlendirme ve oturum yönetimi desteği ekliyor."
+      },
+      {
+        "card_title": "Anti-Spoofing Koruması",
+        "card_body": "Apple, üç başarısız denemeden sonra kullanıcının iPhone ile kimlik doğrulaması yapmasını zorunlu kılan bir koruma ekledi."
+      },
+      {
+        "card_title": "Kademeli Kilitleme",
+        "card_body": "Güvenlik sistemi, ikinci kilitlemede bir saatten başlayarak artan bekleme süreleriyle cihazı koruma altına alıyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcı ve Sektör Etkisi",
+    "cards": [
+      {
+        "card_title": "Akıllı Ev Deneyimi",
+        "card_body": "Sohbet robotu desteği, evdeki cihazlarla etkileşimi daha doğal ve konuşma tabanlı bir hale getirebilir."
+      },
+      {
+        "card_title": "Güvenlik Standartları",
+        "card_body": "Artan bekleme süreleri, yetkisiz erişim denemelerine karşı cihaz güvenliğini önemli ölçüde sıkılaştırıyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Akıllı evinizi bir sohbet robotu ile yönetmek ister miydiniz?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeler için Tekno Pusula'yı takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
