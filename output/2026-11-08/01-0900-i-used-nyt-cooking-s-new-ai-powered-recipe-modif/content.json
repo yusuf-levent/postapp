@@ -1,68 +1,69 @@
 {
   "cover": {
-    "category_label": "TEKNOLOJİ VE YEMEK",
-    "title": "The New York Times Tariflerinde Yapay Zeka Dönemi",
+    "category_label": "YAPAY ZEKA VE MEDYA",
+    "title": "The New York Times Tariflerde Yapay Zekayı Test Ediyor",
     "highlight_words": [
-      "Yapay Zeka"
+      "Yapay Zekayı",
+      "Test Ediyor"
     ],
-    "highlight_color": "cyan",
-    "subtitle": "iOS kullanıcıları için beta aşamasındaki yeni yapay zeka özellikleriyle tanışın.",
+    "highlight_color": "yellow",
+    "subtitle": "Abonelerin tarifleri değiştirmesini sağlayan iOS betası yayında.",
     "source_tags": [
       "WIRED",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Yeni Özellikler Geliyor",
+    "heading": "Yeniliğin Detayları",
     "cards": [
       {
-        "card_title": "Yapay Zeka Destekli Tarifler",
-        "card_body": "The New York Times, abonelerin tarifleri değiştirmesine olanak tanıyan yapay zekayı iOS'a özel bir betada kullanıyor."
+        "card_title": "iOS Beta Sürümü",
+        "card_body": "The New York Times, abonelerin tarifleri değiştirmesine olanak tanıyan yapay zekayı iOS'e özel bir betada kullanıyor."
       },
       {
-        "card_title": "Daha Önceki Adımlar",
-        "card_body": "Bu yılın başlarında tarif ölçekleme ve ölçü birimi dönüştürme için yapay zekadan yararlanılmasına izin verilmişti."
+        "card_title": "Duyuru Tarihi",
+        "card_body": "Tarif değişikliklerindeki bu yeni adımı duyuran makale 23 Ekim tarihinde yayımlandı."
       }
     ]
   },
   "stat": {
-    "big_stat": "1.4 MİLYON",
-    "stat_caption": "The New York Times Cooking YouTube kanalının abone sayısı.",
-    "stat_quote": "Camilla Velasquez, NYT Cooking'in genel müdürü olarak görev yapıyor."
+    "big_stat": "172",
+    "stat_caption": "Yorum sayısına ulaşıldıktan sonra yorumlar dört gün sonra kapatıldı.",
+    "stat_quote": "Tarif değiştirme hikayesi için yapılan yorumlar dört günün ardından durduruldu."
   },
   "details": {
-    "heading": "Detaylar ve Ekip",
+    "heading": "Ekip ve Geçmiş Adımlar",
     "cards": [
       {
-        "card_title": "Yayın Tarihi",
-        "card_body": "Yapay zeka tarif değiştirme özelliğini duyuran makale 23 Ekim tarihinde yayımlandı."
+        "card_title": "Önceki Yapay Zeka Hamleleri",
+        "card_body": "Times, yılın başlarında tarif ölçeklendirme ve emperyal ölçümleri metrik birimlere dönüştürme konusunda yapay zekaya izin vermişti."
       },
       {
-        "card_title": "Uzman Kadro",
-        "card_body": "NYT Cooking; editörler, yazarlar ve video gazetecilerinden oluşan 60 kişilik bir ekibe sahip."
+        "card_title": "NYT Cooking Ekibi",
+        "card_body": "Camilla Velasquez, NYT Cooking'in genel müdürü olarak görev yapıyor ve birimde 60 çalışan bulunuyor."
       },
       {
-        "card_title": "Ziyaretçi Sayısı",
-        "card_body": "İletişim direktörü Jordan Cohen, site ve uygulamanın 2025 yılında 514 milyon kez ziyaret edildiğini belirtti."
+        "card_title": "Erişim ve Abone",
+        "card_body": "Yönetici iletişim direktörü Jordan Cohen, site ve uygulamanın 2025 yılında 514 milyon kez ziyaret edildiğini belirtti."
       }
     ]
   },
   "impact": {
-    "heading": "Tepkiler ve Etkiler",
+    "heading": "Yayıncılıkta Dönüşüm",
     "cards": [
       {
-        "card_title": "Kullanıcı Tepkileri",
-        "card_body": "Yapay zeka özelliği hakkındaki yorumlar, dört gün ve 172 neredeyse tamamen öfkeli yorumun ardından kapatıldı."
+        "card_title": "Sektörel Etki",
+        "card_body": "Geleneksel medya kuruluşlarının yapay zekayı okuyucu deneyimine entegre etme süreçleri hız kazanıyor."
       },
       {
-        "card_title": "Gelecek Etkisi",
-        "card_body": "Yayıncılık sektöründe yapay zeka tabanlı tarif kişiselleştirme araçlarının kullanımı tartışılmaya devam ediyor."
+        "card_title": "Kullanıcı Deneyimi",
+        "card_body": "Aboneler, iOS betası sayesinde tarifleri kendi tercih ve ihtiyaçlarına göre düzenleme şansı elde ediyor."
       }
     ]
   },
   "cta": {
-    "question": "Yemek tariflerinde yapay zeka ile değişiklik yapabilmek mutfak kültürünü nasıl etkiler?",
-    "reminder_line": "Teknoloji gelişmelerini kaçırmamak için bizi takipte kalın!"
+    "question": "Sizce yapay zekanın yemek tariflerini kişiselleştirmesi mutfaktaki işimizi gerçekten kolaylaştırır mı?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
