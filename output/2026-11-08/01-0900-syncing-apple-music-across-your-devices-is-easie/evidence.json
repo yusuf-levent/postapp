@@ -4,15 +4,15 @@
   "source_names": [
     "Engadget",
     "Wired",
-    "TechCrunch",
-    "IEEE Spectrum"
+    "Ars Technica",
+    "BBC News – Technology"
   ],
-  "checked_at": "2026-11-08T11:17:35+03:00",
+  "checked_at": "2026-11-08T11:37:56+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Apple Music is available on multiple platforms including Android phones, Windows PCs, and smart TVs.",
+      "claim": "Apple Music, Apple cihazlarının yanı sıra Android telefonlarda, Windows PC'lerde ve akıllı televizyonlarda da kullanılabilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "claim": "To check the account on Apple Music, open the app and tap the profile picture on the Home tab.",
+      "claim": "Apple Music'te hesabı kontrol etmek için Home sekmesindeki profil resmine dokunulması gerekmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "claim": "On an iPhone or iPad, Sync Library can be enabled by going to Settings, finding Apps, and selecting the Music app.",
+      "claim": "iPhone veya iPad'de Sync Library özelliğini etkinleştirmek için Ayarlar içerisindeki Apps bölümünden Music uygulamasını bulmak gerekmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -42,21 +42,27 @@
       ]
     },
     {
-      "claim": "On a Mac, Sync Library is found under Settings in the General tab of the Music app.",
+      "claim": "Mac'te Sync Library özelliğini etkinleştirmek için Music uygulamasındaki Ayarlar bölümünden General sekmesine gitmek gerekmektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
           "quote": "On a Mac, open the Music app and click the \"Music\" menu at the top of the screen, then go to Settings. Now, under the General tab, make sure Sync Library is enabled and click OK to save your settings."
-        },
-        {
-          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
-          "quote": "On a Mac, open the Music app and click the \"Music\" menu at the top of the screen, then go to Settings. Now, under the General tab, make sure Sync Library is enabled"
         }
       ]
     },
     {
-      "claim": "On Android phones, the Sync Library option is enabled by default.",
+      "claim": "Windows uygulamasında ayarlara ulaşmak için üç nokta düğmesine tıklamak gerekmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+          "quote": "The process is pretty much the same in Windows, but you need to click the three-dot button instead to find Settings."
+        }
+      ]
+    },
+    {
+      "claim": "Android telefonlarda Sync Library seçeneği varsayılan olarak etkin gelmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -66,7 +72,7 @@
       ]
     },
     {
-      "claim": "In the Mac and Windows Apple Music apps, users can select Update Cloud Library to force the app to sync.",
+      "claim": "Mac ve Windows uygulamalarındaki Update Cloud Library seçeneği kitaplığı manuel olarak güncellemeyi ve senkronize etmeyi sağlamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -76,29 +82,19 @@
       ]
     },
     {
-      "claim": "Android and iOS apps do not have the Update Cloud Library option.",
+      "claim": "Android ve iOS uygulamalarında Update Cloud Library seçeneği bulunmamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
           "quote": "Unfortunately, the Android and iOS apps don't have that option."
-        }
-      ]
-    },
-    {
-      "claim": "Users can change audio quality options in Apple Music to enable lossless audio.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
-          "quote": "While you're there, it's worth exploring some other toggles, like changing the audio quality options to enable lossless audio."
         }
       ]
     }
   ],
   "round1": [
     {
-      "claim": "Apple Music is available on multiple platforms including Android phones, Windows PCs, and smart TVs.",
+      "claim": "Apple Music, Apple cihazlarının yanı sıra Android telefonlarda, Windows PC'lerde ve akıllı televizyonlarda da kullanılabilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -108,7 +104,7 @@
       ]
     },
     {
-      "claim": "To check the account on Apple Music, open the app and tap the profile picture on the Home tab.",
+      "claim": "Apple Music'te hesabı kontrol etmek için Home sekmesindeki profil resmine dokunulması gerekmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -118,7 +114,7 @@
       ]
     },
     {
-      "claim": "On an iPhone or iPad, Sync Library can be enabled by going to Settings, finding Apps, and selecting the Music app.",
+      "claim": "iPhone veya iPad'de Sync Library özelliğini etkinleştirmek için Ayarlar içerisindeki Apps bölümünden Music uygulamasını bulmak gerekmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -128,21 +124,27 @@
       ]
     },
     {
-      "claim": "On a Mac, Sync Library is found under Settings in the General tab of the Music app.",
+      "claim": "Mac'te Sync Library özelliğini etkinleştirmek için Music uygulamasındaki Ayarlar bölümünden General sekmesine gitmek gerekmektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
           "quote": "On a Mac, open the Music app and click the \"Music\" menu at the top of the screen, then go to Settings. Now, under the General tab, make sure Sync Library is enabled and click OK to save your settings."
-        },
-        {
-          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
-          "quote": "On a Mac, open the Music app and click the \"Music\" menu at the top of the screen, then go to Settings. Now, under the General tab, make sure Sync Library is enabled"
         }
       ]
     },
     {
-      "claim": "On Android phones, the Sync Library option is enabled by default.",
+      "claim": "Windows uygulamasında ayarlara ulaşmak için üç nokta düğmesine tıklamak gerekmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+          "quote": "The process is pretty much the same in Windows, but you need to click the three-dot button instead to find Settings."
+        }
+      ]
+    },
+    {
+      "claim": "Android telefonlarda Sync Library seçeneği varsayılan olarak etkin gelmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -152,7 +154,7 @@
       ]
     },
     {
-      "claim": "In the Mac and Windows Apple Music apps, users can select Update Cloud Library to force the app to sync.",
+      "claim": "Mac ve Windows uygulamalarındaki Update Cloud Library seçeneği kitaplığı manuel olarak güncellemeyi ve senkronize etmeyi sağlamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -162,29 +164,19 @@
       ]
     },
     {
-      "claim": "Android and iOS apps do not have the Update Cloud Library option.",
+      "claim": "Android ve iOS uygulamalarında Update Cloud Library seçeneği bulunmamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
           "quote": "Unfortunately, the Android and iOS apps don't have that option."
-        }
-      ]
-    },
-    {
-      "claim": "Users can change audio quality options in Apple Music to enable lossless audio.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
-          "quote": "While you're there, it's worth exploring some other toggles, like changing the audio quality options to enable lossless audio."
         }
       ]
     }
   ],
   "round2": [
     {
-      "claim": "Apple Music is available on multiple platforms including Android phones, Windows PCs, and smart TVs.",
+      "claim": "Apple Music, Apple cihazlarının yanı sıra Android telefonlarda, Windows PC'lerde ve akıllı televizyonlarda da kullanılabilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -194,7 +186,7 @@
       ]
     },
     {
-      "claim": "To check the account on Apple Music, open the app and tap the profile picture on the Home tab.",
+      "claim": "Apple Music'te hesabı kontrol etmek için Home sekmesindeki profil resmine dokunulması gerekmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -204,7 +196,7 @@
       ]
     },
     {
-      "claim": "On an iPhone or iPad, Sync Library can be enabled by going to Settings, finding Apps, and selecting the Music app.",
+      "claim": "iPhone veya iPad'de Sync Library özelliğini etkinleştirmek için Ayarlar içerisindeki Apps bölümünden Music uygulamasını bulmak gerekmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -214,21 +206,27 @@
       ]
     },
     {
-      "claim": "On a Mac, Sync Library is found under Settings in the General tab of the Music app.",
+      "claim": "Mac'te Sync Library özelliğini etkinleştirmek için Music uygulamasındaki Ayarlar bölümünden General sekmesine gitmek gerekmektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
           "quote": "On a Mac, open the Music app and click the \"Music\" menu at the top of the screen, then go to Settings. Now, under the General tab, make sure Sync Library is enabled and click OK to save your settings."
-        },
-        {
-          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
-          "quote": "On a Mac, open the Music app and click the \"Music\" menu at the top of the screen, then go to Settings. Now, under the General tab, make sure Sync Library is enabled"
         }
       ]
     },
     {
-      "claim": "On Android phones, the Sync Library option is enabled by default.",
+      "claim": "Windows uygulamasında ayarlara ulaşmak için üç nokta düğmesine tıklamak gerekmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+          "quote": "The process is pretty much the same in Windows, but you need to click the three-dot button instead to find Settings."
+        }
+      ]
+    },
+    {
+      "claim": "Android telefonlarda Sync Library seçeneği varsayılan olarak etkin gelmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -238,7 +236,7 @@
       ]
     },
     {
-      "claim": "In the Mac and Windows Apple Music apps, users can select Update Cloud Library to force the app to sync.",
+      "claim": "Mac ve Windows uygulamalarındaki Update Cloud Library seçeneği kitaplığı manuel olarak güncellemeyi ve senkronize etmeyi sağlamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -248,7 +246,7 @@
       ]
     },
     {
-      "claim": "Android and iOS apps do not have the Update Cloud Library option.",
+      "claim": "Android ve iOS uygulamalarında Update Cloud Library seçeneği bulunmamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -256,22 +254,12 @@
           "quote": "Unfortunately, the Android and iOS apps don't have that option."
         }
       ]
-    },
-    {
-      "claim": "Users can change audio quality options in Apple Music to enable lossless audio.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
-          "quote": "While you're there, it's worth exploring some other toggles, like changing the audio quality options to enable lossless audio."
-        }
-      ]
     }
   ],
   "source_texts": {
     "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/": 3241,
-    "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/": 4173,
-    "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/": 3146,
-    "https://spectrum.ieee.org/ieee-industry-experts-webinar": 4289
+    "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/": 3825,
+    "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/": 17767,
+    "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss": 3792
   }
 }

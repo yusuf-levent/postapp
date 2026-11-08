@@ -2,63 +2,61 @@
 
 **Haber:** Syncing Apple Music across your devices is easier than you think
 **Canonical URL:** https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/
-**Kaynaklar:** Engadget, Wired, TechCrunch, IEEE Spectrum
-**Kontrol zamanı:** 2026-11-08T11:17:35+03:00
+**Kaynaklar:** Engadget, Wired, Ars Technica, BBC News – Technology
+**Kontrol zamanı:** 2026-11-08T11:37:56+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
 
 ## İddia Bazlı Sonuçlar
 
-### 1. Apple Music is available on multiple platforms including Android phones, Windows PCs, and smart TVs.
+### 1. Apple Music, Apple cihazlarının yanı sıra Android telefonlarda, Windows PC'lerde ve akıllı televizyonlarda da kullanılabilmektedir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/](https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/)
     > You can, for example, sign in with your Apple Account and listen to your favorite songs on an Android phone, Windows PC or even smart TVs.
 
-### 2. To check the account on Apple Music, open the app and tap the profile picture on the Home tab.
+### 2. Apple Music'te hesabı kontrol etmek için Home sekmesindeki profil resmine dokunulması gerekmektedir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/](https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/)
     > If you're not sure which account you're using, open the Apple Music app and tap your profile picture on the Home tab.
 
-### 3. On an iPhone or iPad, Sync Library can be enabled by going to Settings, finding Apps, and selecting the Music app.
+### 3. iPhone veya iPad'de Sync Library özelliğini etkinleştirmek için Ayarlar içerisindeki Apps bölümünden Music uygulamasını bulmak gerekmektedir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/](https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/)
     > On your iPhone or iPad, open Settings and look for Apps. Then, find the Music app in the list and enable Sync Library.
 
-### 4. On a Mac, Sync Library is found under Settings in the General tab of the Music app.
+### 4. Mac'te Sync Library özelliğini etkinleştirmek için Music uygulamasındaki Ayarlar bölümünden General sekmesine gitmek gerekmektedir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/](https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/)
     > On a Mac, open the Music app and click the "Music" menu at the top of the screen, then go to Settings. Now, under the General tab, make sure Sync Library is enabled and click OK to save your settings.
-  - [https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/](https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/)
-    > On a Mac, open the Music app and click the "Music" menu at the top of the screen, then go to Settings. Now, under the General tab, make sure Sync Library is enabled
 
-### 5. On Android phones, the Sync Library option is enabled by default.
+### 5. Windows uygulamasında ayarlara ulaşmak için üç nokta düğmesine tıklamak gerekmektedir.
+- **Karar:** ✅ `supported`
+- **Kanıtlar:**
+  - [https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/](https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/)
+    > The process is pretty much the same in Windows, but you need to click the three-dot button instead to find Settings.
+
+### 6. Android telefonlarda Sync Library seçeneği varsayılan olarak etkin gelmektedir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/](https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/)
     > If you have an Android phone, this option is enabled by default, and you don't need to change anything.
 
-### 6. In the Mac and Windows Apple Music apps, users can select Update Cloud Library to force the app to sync.
+### 7. Mac ve Windows uygulamalarındaki Update Cloud Library seçeneği kitaplığı manuel olarak güncellemeyi ve senkronize etmeyi sağlamaktadır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/](https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/)
     > In the Mac app, click the File menu, then go to Library and select Update Cloud Library — this will force the app to sync and check for updates in your personal library. This option is also available in the Windows app and can be found in the sidebar.
 
-### 7. Android and iOS apps do not have the Update Cloud Library option.
+### 8. Android ve iOS uygulamalarında Update Cloud Library seçeneği bulunmamaktadır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/](https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/)
     > Unfortunately, the Android and iOS apps don't have that option.
-
-### 8. Users can change audio quality options in Apple Music to enable lossless audio.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/](https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/)
-    > While you're there, it's worth exploring some other toggles, like changing the audio quality options to enable lossless audio.
 
 ---
 
@@ -66,18 +64,18 @@
 
 | İddia | 1. Tur | 2. Tur | Nihai |
 |-------|--------|--------|-------|
-| Apple Music is available on multiple platforms including And | supported | supported | supported |
-| To check the account on Apple Music, open the app and tap th | supported | supported | supported |
-| On an iPhone or iPad, Sync Library can be enabled by going t | supported | supported | supported |
-| On a Mac, Sync Library is found under Settings in the Genera | supported | supported | supported |
-| On Android phones, the Sync Library option is enabled by def | supported | supported | supported |
-| In the Mac and Windows Apple Music apps, users can select Up | supported | supported | supported |
-| Android and iOS apps do not have the Update Cloud Library op | supported | supported | supported |
-| Users can change audio quality options in Apple Music to ena | supported | supported | supported |
+| Apple Music, Apple cihazlarının yanı sıra Android telefonlar | supported | supported | supported |
+| Apple Music'te hesabı kontrol etmek için Home sekmesindeki p | supported | supported | supported |
+| iPhone veya iPad'de Sync Library özelliğini etkinleştirmek i | supported | supported | supported |
+| Mac'te Sync Library özelliğini etkinleştirmek için Music uyg | supported | supported | supported |
+| Windows uygulamasında ayarlara ulaşmak için üç nokta düğmesi | supported | supported | supported |
+| Android telefonlarda Sync Library seçeneği varsayılan olarak | supported | supported | supported |
+| Mac ve Windows uygulamalarındaki Update Cloud Library seçene | supported | supported | supported |
+| Android ve iOS uygulamalarında Update Cloud Library seçeneği | supported | supported | supported |
 
 ## Kaynak Metinleri
 
 - `sources/source-1.txt` — https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/
-- `sources/source-2.txt` — https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/
-- `sources/source-3.txt` — https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/
-- `sources/source-4.txt` — https://spectrum.ieee.org/ieee-industry-experts-webinar
+- `sources/source-2.txt` — https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/
+- `sources/source-3.txt` — https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/
+- `sources/source-4.txt` — https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss
