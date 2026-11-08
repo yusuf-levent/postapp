@@ -2,64 +2,70 @@
 
 ## INSTAGRAM
 
-The New York Times, NYT Cooking uygulaması için yapay zeka destekli yeni bir özellik test ediyor.
+Yemek tariflerinde yapay zeka dönemi başladı! 🍳 The New York Times, iOS beta sürümünde tarifleri kişiselleştirmek için yapay zekayı test ediyor. Örneğin; kemikli tavuk pirzolasını, kemiksiz göğüs etiyle değiştirmeyi öneriyor.
 
-Abonelerin tarifleri kendi zevklerine göre değiştirmesini sağlayan bu araç, iOS beta sürecinde kullanıcıların beğenisine sunuldu.
+Ancak bu değişim herkesi mutlu etmedi. Duyuru sonrası gelen yoğun tepkiler nedeniyle yorumlar kapatıldı. NYT ise 60 kişilik uzman kadrosunu koruduğunu ve yapay zekayı sadece bir editörlük aracı olarak gördüğünü belirtiyor.
 
-Ancak bu hamle okuyuculardan büyük tepki topladı ve duyurunun ardından gelen öfkeli yorumlar nedeniyle yorumlar kapatıldı.
+Sizce yemek tariflerinde yapay zeka önerileri mutfaktaki yaratıcılığı artırır mı, yoksa geleneksel lezzetleri bozar mı? Yorumlarda buluşalım.
 
-Tariflerde yapay zeka kullanımı mutfak kültürünü nasıl etkiler?
+Tekno Pusula'yı takipte kalın, teknolojinin mutfağa girişini birlikte izleyelim.
 
-Kaynak: Wired, TechCrunch
+Kaynak: Wired, The Verge
 
-#YapayZeka #TheNewYorkTimes #Teknoloji #Haber #YemekTarifi #Gündem #AI #NYTCooking #TechNews
+#YapayZeka #NYTCooking #Teknoloji #YemekTarifleri #AI #Gelecek #DijitalDönüşüm #TeknoPusula #ArtificialIntelligence #FoodTech #Innovation
 
 ## TIKTOK
 
-The New York Times yapay zeka ile tarifleri değiştirmeyi test ediyor ama okuyucular hiç memnun değil! Kaynak: Wired
+NYT yemek tariflerine yapay zeka getirdi, ortalık karıştı! 🤖 Tariflerdeki malzemeleri değiştiren bu yeni özellik kullanıcıları ikiye böldü. Sizce mutfakta yapay zekaya yer var mı? 
 
-#yapayzeka #teknoloji #haberler #nyt #keşfet
+Kaynak: Wired, The Verge
+
+#YapayZeka #NYT #Teknoloji #Mutfak #AI #Haber
 
 ## X
 
-The New York Times, NYT Cooking için tarifleri değiştiren yapay zekayı iOS'te test ediyor. Gelen tepkiler üzerine yorumlar kapatıldı. Kaynak: Wired, TechCrunch
+The New York Times, yemek tariflerini yapay zeka ile değiştirmeye başladı. Kullanıcılar tepkili, yorumlar kapandı. Peki yapay zeka mutfaktaki yaratıcılığı artırır mı yoksa geleneksel lezzetleri bozar mı? 
 
-#YapayZeka #Teknoloji
+Kaynak: Wired, The Verge
+
+#YapayZeka #NYT
 
 ## THREADS
 
-NYT Yapay Zeka Test Ediyor
+Yapay Zeka Mutfakta: NYT Dönemi 🍳
 
-The New York Times, NYT Cooking uygulaması için abonelerin tarifleri değiştirmesini sağlayan yapay zekayı iOS'te test etmeye başladı.
+The New York Times, iOS beta sürümünde tarifleri yapay zeka ile kişiselleştirmeye başladı. Ancak bu hamle okuyuculardan yoğun tepki aldı ve yorumlar kapatıldı.
 
-İlk duyuru sonrası gelen 172 öfkeli yorumun ardından yorum özelliği kapatıldı. 💭
+Kurum, 60 kişilik uzman kadrosunu koruduğunu ve yapay zekayı sadece bir editörlük aracı olarak konumlandırdığını vurguluyor.
 
-Yemek tariflerinde yapay zeka kullanımı mutfak kültürünü nasıl etkiler?
+Sizce yapay zeka mutfaktaki yaratıcılığı artırır mı, yoksa geleneksel lezzetleri bozar mı? 💭
 
-Kaynak: Wired
+Kaynak: Wired, The Verge
 
 #YapayZeka
 
 ## LINKEDIN
 
-The New York Times, dijital yayıncılık ve yemek kültürü alanında yapay zeka entegrasyonunu test etmeye devam ediyor.
+Medya dünyasında yapay zeka entegrasyonu yeni bir boyuta taşınıyor. The New York Times, 'NYT Cooking' platformunda tarifleri optimize etmek için yapay zeka testlerine başladı.
 
-NYT Cooking uygulaması kapsamında hayata geçirilen iOS beta süreci, abonelerin tarifleri kişiselleştirmesine olanak tanıyor. Ancak bu hamle, okuyucu tarafında tartışmaları ve tepkileri de beraberinde getirdi.
+Bu süreç, teknoloji ve insan emeğinin nasıl dengeleneceği konusunda önemli bir vaka çalışması sunuyor. NYT, 60 kişilik uzman editör kadrosunu korurken, yapay zekayı bir yardımcı araç olarak konumlandırıyor. Kullanıcıların geleneksel tarif süreçlerine olan bağlılığı ise dijital dönüşümün sadece teknik değil, kültürel bir süreç olduğunu bir kez daha kanıtlıyor.
 
-Medya sektöründe yapay zeka kullanımının sınırları ve okuyucu sadakati açısından önemli bir vaka olan bu gelişmeyi yakından takip ediyoruz.
+Sizce medya kuruluşları, içerik üretim süreçlerinde yapay zekayı ne ölçüde kullanmalı? Yorumlarınızı bekliyorum.
 
-Kaynak: Wired, TechCrunch, MIT Technology Review
+Kaynak: Wired, The Verge
 
-#YapayZeka #Medya #Teknoloji #DijitalDönüşüm #İnovasyon
+#YapayZeka #Medya #DijitalDönüşüm #İnovasyon #Teknoloji
 
 ## FACEBOOK
 
-The New York Times, NYT Cooking uygulaması için yapay zeka destekli tarif değiştirme özelliğini test etmeye başladı.
+The New York Times'ta yapay zeka dönemi! 🍳 NYT Cooking, tarifleri değiştirmek için yapay zeka testlerine başladı. Örneğin, tarifteki malzemeleri damak tadınıza göre değiştirmeyi öneriyor.
 
-iOS beta sürecinde olan bu yenilik, abonelerin tarifleri düzenlemesine olanak tanıyor. Duyurunun ardından gelen yoğun tepkiler ve 172 öfkeli yorum sonrası yorum yapma özelliği kapatıldı.
+Bu yeni özellik kullanıcılar arasında tartışma yarattı ve gelen tepkiler üzerine yorumlar kapatıldı. NYT ise 60 kişilik uzman kadrosuyla çalışmaya devam ettiklerini ve yapay zekayı sadece bir editörlük aracı olarak gördüklerini belirtiyor.
 
-Siz bu konuda ne düşünüyorsunuz?
+Sizce yemek tariflerinde yapay zeka önerileri mutfaktaki yaratıcılığı artırır mı, yoksa geleneksel lezzetleri bozar mı? 
 
-Kaynak: Wired, TechCrunch
+Tekno Pusula'yı takipte kalın, teknolojinin mutfağa girişini birlikte izleyelim.
 
-#YapayZeka #TheNewYorkTimes #Teknoloji #Haberler #Gündem
+Kaynak: Wired, The Verge
+
+#YapayZeka #NYT #Teknoloji #Yemek #DijitalDönüşüm
