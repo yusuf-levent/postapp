@@ -2,9 +2,9 @@
   "slot": "09:00",
   "type": "news",
   "model": "gemini-3.5-flash-lite",
-  "duration_seconds": 64.8,
+  "duration_seconds": 64.3,
   "candidates_tried": 1,
-  "gemini_calls": 11,
+  "gemini_calls": 12,
   "canonical_url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
-  "generated_at": "2026-11-08T12:35:23+03:00"
+  "generated_at": "2026-11-08T12:53:55+03:00"
 }

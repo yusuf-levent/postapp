@@ -4,30 +4,20 @@
   "source_names": [
     "Engadget",
     "Wired",
-    "TechCrunch",
-    "IEEE Spectrum"
+    "Ars Technica",
+    "BBC News – Technology"
   ],
-  "checked_at": "2026-11-08T12:34:46+03:00",
+  "checked_at": "2026-11-08T12:53:22+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Apple Music is available on multiple platforms such as Android phones, Windows PCs, and smart TVs.",
+      "claim": "Apple Music can be used on Android phones, Windows PCs, and smart TVs.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
           "quote": "You can, for example, sign in with your Apple Account and listen to your favorite songs on an Android phone, Windows PC or even smart TVs."
-        }
-      ]
-    },
-    {
-      "claim": "On an iPhone or iPad, Sync Library can be enabled by going to Settings, selecting Apps, and then finding the Music app.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
-          "quote": "On your iPhone or iPad, open Settings and look for Apps. Then, find the Music app in the list and enable Sync Library."
         }
       ]
     },
@@ -42,34 +32,54 @@
       ]
     },
     {
-      "claim": "In the Mac app, forcing a sync and checking for updates is possible by clicking the File menu, going to Library, and selecting Update Cloud Library.",
+      "claim": "On an iPhone or iPad, Sync Library can be enabled by going to Settings, finding Apps, and selecting the Music app.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+          "quote": "On your iPhone or iPad, open Settings and look for Apps. Then, find the Music app in the list and enable Sync Library."
+        }
+      ]
+    },
+    {
+      "claim": "On a Mac, you can force the app to sync by clicking the File menu, going to Library, and selecting Update Cloud Library.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
           "quote": "In the Mac app, click the File menu, then go to Library and select Update Cloud Library — this will force the app to sync and check for updates in your personal library."
+        }
+      ]
+    },
+    {
+      "claim": "The Update Cloud Library option is available in the Windows app sidebar, but not in the Android and iOS apps.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+          "quote": "This option is also available in the Windows app and can be found in the sidebar. Unfortunately, the Android and iOS apps don't have that option."
+        }
+      ]
+    },
+    {
+      "claim": "Users who do not subscribe to Apple Music can manually transfer their offline library folder via Apple iTunes or Apple Devices.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+          "quote": "If you don't subscribe to Apple Music and have an offline library on your Mac or PC, the only way to sync your library is to manually transfer the Music folder to another computer via Apple iTunes or Apple Devices."
         }
       ]
     }
   ],
   "round1": [
     {
-      "claim": "Apple Music is available on multiple platforms such as Android phones, Windows PCs, and smart TVs.",
+      "claim": "Apple Music can be used on Android phones, Windows PCs, and smart TVs.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
           "quote": "You can, for example, sign in with your Apple Account and listen to your favorite songs on an Android phone, Windows PC or even smart TVs."
-        }
-      ]
-    },
-    {
-      "claim": "On an iPhone or iPad, Sync Library can be enabled by going to Settings, selecting Apps, and then finding the Music app.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
-          "quote": "On your iPhone or iPad, open Settings and look for Apps. Then, find the Music app in the list and enable Sync Library."
         }
       ]
     },
@@ -84,34 +94,54 @@
       ]
     },
     {
-      "claim": "In the Mac app, forcing a sync and checking for updates is possible by clicking the File menu, going to Library, and selecting Update Cloud Library.",
+      "claim": "On an iPhone or iPad, Sync Library can be enabled by going to Settings, finding Apps, and selecting the Music app.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+          "quote": "On your iPhone or iPad, open Settings and look for Apps. Then, find the Music app in the list and enable Sync Library."
+        }
+      ]
+    },
+    {
+      "claim": "On a Mac, you can force the app to sync by clicking the File menu, going to Library, and selecting Update Cloud Library.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
           "quote": "In the Mac app, click the File menu, then go to Library and select Update Cloud Library — this will force the app to sync and check for updates in your personal library."
+        }
+      ]
+    },
+    {
+      "claim": "The Update Cloud Library option is available in the Windows app sidebar, but not in the Android and iOS apps.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+          "quote": "This option is also available in the Windows app and can be found in the sidebar. Unfortunately, the Android and iOS apps don't have that option."
+        }
+      ]
+    },
+    {
+      "claim": "Users who do not subscribe to Apple Music can manually transfer their offline library folder via Apple iTunes or Apple Devices.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+          "quote": "If you don't subscribe to Apple Music and have an offline library on your Mac or PC, the only way to sync your library is to manually transfer the Music folder to another computer via Apple iTunes or Apple Devices."
         }
       ]
     }
   ],
   "round2": [
     {
-      "claim": "Apple Music is available on multiple platforms such as Android phones, Windows PCs, and smart TVs.",
+      "claim": "Apple Music can be used on Android phones, Windows PCs, and smart TVs.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
           "quote": "You can, for example, sign in with your Apple Account and listen to your favorite songs on an Android phone, Windows PC or even smart TVs."
-        }
-      ]
-    },
-    {
-      "claim": "On an iPhone or iPad, Sync Library can be enabled by going to Settings, selecting Apps, and then finding the Music app.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
-          "quote": "On your iPhone or iPad, open Settings and look for Apps. Then, find the Music app in the list and enable Sync Library."
         }
       ]
     },
@@ -126,7 +156,17 @@
       ]
     },
     {
-      "claim": "In the Mac app, forcing a sync and checking for updates is possible by clicking the File menu, going to Library, and selecting Update Cloud Library.",
+      "claim": "On an iPhone or iPad, Sync Library can be enabled by going to Settings, finding Apps, and selecting the Music app.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+          "quote": "On your iPhone or iPad, open Settings and look for Apps. Then, find the Music app in the list and enable Sync Library."
+        }
+      ]
+    },
+    {
+      "claim": "On a Mac, you can force the app to sync by clicking the File menu, going to Library, and selecting Update Cloud Library.",
       "verdict": "supported",
       "evidence": [
         {
@@ -134,12 +174,32 @@
           "quote": "In the Mac app, click the File menu, then go to Library and select Update Cloud Library — this will force the app to sync and check for updates in your personal library."
         }
       ]
+    },
+    {
+      "claim": "The Update Cloud Library option is available in the Windows app sidebar, but not in the Android and iOS apps.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+          "quote": "This option is also available in the Windows app and can be found in the sidebar. Unfortunately, the Android and iOS apps don't have that option."
+        }
+      ]
+    },
+    {
+      "claim": "Users who do not subscribe to Apple Music can manually transfer their offline library folder via Apple iTunes or Apple Devices.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+          "quote": "If you don't subscribe to Apple Music and have an offline library on your Mac or PC, the only way to sync your library is to manually transfer the Music folder to another computer via Apple iTunes or Apple Devices."
+        }
+      ]
     }
   ],
   "source_texts": {
     "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/": 3241,
-    "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/": 4173,
-    "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/": 3146,
-    "https://spectrum.ieee.org/ieee-industry-experts-webinar": 4289
+    "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/": 3825,
+    "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/": 17767,
+    "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss": 3792
   }
 }
