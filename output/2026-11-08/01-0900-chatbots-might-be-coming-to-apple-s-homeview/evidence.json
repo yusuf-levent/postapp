@@ -7,12 +7,12 @@
     "Engadget",
     "TechCrunch"
   ],
-  "checked_at": "2026-11-08T18:07:20+03:00",
+  "checked_at": "2026-11-08T18:12:39+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "iOS 27.3 beta sürümünün kodlarında 'Conversational Apps' (Konuşma Uygulamaları) kategorisi için bir işaret bulunuyor.",
+      "claim": "iOS 27.3 beta sürümünün kodlarında 'Conversational Apps' kategorisi için bir işaret bulunuyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -42,19 +42,29 @@
       ]
     },
     {
-      "claim": "Yeni güvenlik sistemi, ikinci kilitlemede bir saat, dördüncü kilitlemede ise sekiz saate varan artan bekleme sürelerine sahip bir kilitleme mekanizması içeriyor.",
+      "claim": "Yeni güvenlik sistemi, ikinci kilitlemede bir saat, dördüncü kilitlemede ise sekiz saat süren artan bekleme sürelerine sahip bir kilitleme mekanizması içeriyor.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
           "quote": "It will also have a lockout system with increasingly longer wait times, starting at one hour for the second lockout, and climbing to eight for the fourth."
+        }
+      ]
+    },
+    {
+      "claim": "Bahsedilen özelliklerin hiçbiri Apple tarafından resmi olarak duyurulmadı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+          "quote": "Neither feature has been officially announced by Apple, and there’s no word on when they might become available."
         }
       ]
     }
   ],
   "round1": [
     {
-      "claim": "iOS 27.3 beta sürümünün kodlarında 'Conversational Apps' (Konuşma Uygulamaları) kategorisi için bir işaret bulunuyor.",
+      "claim": "iOS 27.3 beta sürümünün kodlarında 'Conversational Apps' kategorisi için bir işaret bulunuyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -84,19 +94,29 @@
       ]
     },
     {
-      "claim": "Yeni güvenlik sistemi, ikinci kilitlemede bir saat, dördüncü kilitlemede ise sekiz saate varan artan bekleme sürelerine sahip bir kilitleme mekanizması içeriyor.",
+      "claim": "Yeni güvenlik sistemi, ikinci kilitlemede bir saat, dördüncü kilitlemede ise sekiz saat süren artan bekleme sürelerine sahip bir kilitleme mekanizması içeriyor.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
           "quote": "It will also have a lockout system with increasingly longer wait times, starting at one hour for the second lockout, and climbing to eight for the fourth."
+        }
+      ]
+    },
+    {
+      "claim": "Bahsedilen özelliklerin hiçbiri Apple tarafından resmi olarak duyurulmadı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+          "quote": "Neither feature has been officially announced by Apple, and there’s no word on when they might become available."
         }
       ]
     }
   ],
   "round2": [
     {
-      "claim": "iOS 27.3 beta sürümünün kodlarında 'Conversational Apps' (Konuşma Uygulamaları) kategorisi için bir işaret bulunuyor.",
+      "claim": "iOS 27.3 beta sürümünün kodlarında 'Conversational Apps' kategorisi için bir işaret bulunuyor.",
       "verdict": "supported",
       "evidence": [
         {
@@ -126,12 +146,22 @@
       ]
     },
     {
-      "claim": "Yeni güvenlik sistemi, ikinci kilitlemede bir saat, dördüncü kilitlemede ise sekiz saate varan artan bekleme sürelerine sahip bir kilitleme mekanizması içeriyor.",
+      "claim": "Yeni güvenlik sistemi, ikinci kilitlemede bir saat, dördüncü kilitlemede ise sekiz saat süren artan bekleme sürelerine sahip bir kilitleme mekanizması içeriyor.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
           "quote": "It will also have a lockout system with increasingly longer wait times, starting at one hour for the second lockout, and climbing to eight for the fourth."
+        }
+      ]
+    },
+    {
+      "claim": "Bahsedilen özelliklerin hiçbiri Apple tarafından resmi olarak duyurulmadı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+          "quote": "Neither feature has been officially announced by Apple, and there’s no word on when they might become available."
         }
       ]
     }

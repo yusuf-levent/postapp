@@ -3,14 +3,14 @@
 **Haber:** Chatbots might be coming to Apple’s HomeView
 **Canonical URL:** https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview
 **Kaynaklar:** The Verge, Wired, Engadget, TechCrunch
-**Kontrol zamanı:** 2026-11-08T18:07:20+03:00
+**Kontrol zamanı:** 2026-11-08T18:12:39+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
 
 ## İddia Bazlı Sonuçlar
 
-### 1. iOS 27.3 beta sürümünün kodlarında 'Conversational Apps' (Konuşma Uygulamaları) kategorisi için bir işaret bulunuyor.
+### 1. iOS 27.3 beta sürümünün kodlarında 'Conversational Apps' kategorisi için bir işaret bulunuyor.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview](https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview)
@@ -28,11 +28,17 @@
   - [https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview](https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview)
     > Apple has also added anti-spoofing protection that will require a user to authenticate themselves with an iPhone after three failed attempts.
 
-### 4. Yeni güvenlik sistemi, ikinci kilitlemede bir saat, dördüncü kilitlemede ise sekiz saate varan artan bekleme sürelerine sahip bir kilitleme mekanizması içeriyor.
+### 4. Yeni güvenlik sistemi, ikinci kilitlemede bir saat, dördüncü kilitlemede ise sekiz saat süren artan bekleme sürelerine sahip bir kilitleme mekanizması içeriyor.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview](https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview)
     > It will also have a lockout system with increasingly longer wait times, starting at one hour for the second lockout, and climbing to eight for the fourth.
+
+### 5. Bahsedilen özelliklerin hiçbiri Apple tarafından resmi olarak duyurulmadı.
+- **Karar:** ✅ `supported`
+- **Kanıtlar:**
+  - [https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview](https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview)
+    > Neither feature has been officially announced by Apple, and there’s no word on when they might become available.
 
 ---
 
@@ -40,10 +46,11 @@
 
 | İddia | 1. Tur | 2. Tur | Nihai |
 |-------|--------|--------|-------|
-| iOS 27.3 beta sürümünün kodlarında 'Conversational Apps' (Ko | supported | supported | supported |
+| iOS 27.3 beta sürümünün kodlarında 'Conversational Apps' kat | supported | supported | supported |
 | pdfu adlı X kullanıcısına göre, iOS 27.3 beta sürümü çift yö | supported | supported | supported |
 | Apple, üç başarısız denemeden sonra kullanıcının iPhone ile  | supported | supported | supported |
 | Yeni güvenlik sistemi, ikinci kilitlemede bir saat, dördüncü | supported | supported | supported |
+| Bahsedilen özelliklerin hiçbiri Apple tarafından resmi olara | supported | supported | supported |
 
 ## Kaynak Metinleri
 

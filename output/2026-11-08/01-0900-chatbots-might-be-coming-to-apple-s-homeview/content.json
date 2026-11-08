@@ -1,65 +1,68 @@
 {
   "cover": {
     "category_label": "YAZILIM GÜNCELLEMELERİ",
-    "title": "iOS 27.3 Beta ile Gelen Yeni Özellikler",
+    "title": "iOS 27.3 Beta: Yeni \"Conversational Apps\" Dönemi",
     "highlight_words": [
-      "iOS 27.3",
-      "Beta"
+      "Conversational Apps"
     ],
-    "highlight_color": "cyan",
-    "subtitle": "Apple'ın yeni beta sürümü, yapay zeka odaklı geliştirmeler ve güvenlik güncellemeleri sunuyor.",
+    "highlight_color": "yellow",
+    "subtitle": "Apple'ın yeni beta sürümünde keşfedilen güvenlik ve etkileşim özellikleri neler?",
     "source_tags": [
       "THE VERGE",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Yapay Zeka ve Sesli Etkileşim",
+    "heading": "Beta Kodlarında Neler Var?",
     "cards": [
       {
-        "card_title": "Konuşma Uygulamaları",
-        "card_body": "iOS 27.3 beta kodlarında 'Conversational Apps' yani Konuşma Uygulamaları kategorisi için özel bir işaret tespit edildi."
+        "card_title": "Conversational Apps",
+        "card_body": "iOS 27.3 beta sürümünün kodlarında, yeni bir kategori olan 'Conversational Apps' için özel işaretler tespit edildi."
       },
       {
         "card_title": "Gelişmiş Ses Desteği",
-        "card_body": "X kullanıcısı pdfu'nun paylaşımlarına göre, yeni sürüm çift yönlü ses yönlendirme ve oturum yönetimi desteği getiriyor."
+        "card_body": "X kullanıcısı pdfu'ya göre, bu sürüm çift yönlü ses yönlendirme ve oturum yönetimi desteğini beraberinde getiriyor."
       }
     ]
   },
   "stat": {
     "big_stat": "8 SAAT",
-    "stat_caption": "Yeni güvenlik sistemi, artan bekleme süreleriyle cihazınızı koruma altına alıyor.",
-    "stat_quote": "Dördüncü kilitlemede sekiz saate varan bekleme süresi, yetkisiz erişimlere karşı ciddi bir bariyer oluşturuyor."
+    "stat_caption": "Yeni güvenlik sisteminde, dördüncü hatalı denemeden sonra cihazın kilitli kalma süresi.",
+    "stat_quote": "Apple, üç başarısız denemeden sonra iPhone ile kimlik doğrulamayı zorunlu kılan yeni bir anti-spoofing koruması ekledi."
   },
   "details": {
-    "heading": "Güvenlikte Yeni Dönem",
+    "heading": "Güvenlik Mekanizması",
     "cards": [
       {
-        "card_title": "Anti-Spoofing Koruması",
-        "card_body": "Apple, üç başarısız denemenin ardından kullanıcının iPhone ile kimlik doğrulaması yapmasını zorunlu kılan bir sistem ekledi."
+        "card_title": "Kademeli Kilitleme",
+        "card_body": "Yeni sistem, hatalı deneme sayısına göre artan bekleme süreleri uyguluyor."
       },
       {
-        "card_title": "Kademeli Kilitleme",
-        "card_body": "Güvenlik sistemi, ikinci kilitlemede bir saat, dördüncü kilitlemede ise sekiz saate kadar uzayan bekleme süreleri içeriyor."
+        "card_title": "Bekleme Süreleri",
+        "card_body": "İkinci kilitlemede bir saat, dördüncü kilitlemede ise sekiz saatlik bekleme süresi devreye giriyor."
+      },
+      {
+        "card_title": "Resmi Durum",
+        "card_body": "Bahsedilen özelliklerin hiçbiri henüz Apple tarafından resmi olarak doğrulanmadı veya duyurulmadı."
       }
     ]
   },
   "impact": {
-    "heading": "Kullanıcı ve Sektör Etkisi",
+    "heading": "Kullanıcıya Etkisi",
     "cards": [
       {
-        "card_title": "Kullanıcı Güvenliği",
-        "card_body": "Artan bekleme süreleri, cihazın yetkisiz kişilerce açılmasını zorlaştırarak kişisel verilerin korunmasını güçlendiriyor."
+        "card_title": "Güvenlik Odaklı Deneyim",
+        "card_body": "Anti-spoofing koruması, yetkisiz erişim denemelerine karşı cihaz güvenliğini daha katı hale getiriyor."
       },
       {
-        "card_title": "Yapay Zeka Entegrasyonu",
-        "card_body": "Konuşma uygulamaları kategorisi, Apple'ın sesli asistan ve yapay zeka etkileşimlerini daha ileri bir seviyeye taşıyacağını gösteriyor."
+        "card_title": "Yeni Etkileşim Biçimleri",
+        "card_body": "Conversational Apps kategorisi, gelecekte uygulamalarla sesli etkileşim kurma biçimimizi değiştirebilir."
       }
     ]
   },
   "cta": {
-    "question": "Sizce Apple'ın bu yeni güvenlik önlemleri, cihaz kullanım alışkanlıklarınızı nasıl etkiler?",
-    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri kaçırmamak için takipte kalın."
+    "question": "Sizce Apple'ın bu kadar katı bir bekleme süresi getirmesi, günlük kullanımda kullanıcıyı zorlar mı?",
+    "reminder_line": "Tekno Pusula'yı takipte kalın, güncellemeleri ilk siz öğrenin."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
