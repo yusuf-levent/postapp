@@ -1,67 +1,68 @@
 {
   "cover": {
     "category_label": "YAPAY ZEKA VE MUTFAK",
-    "title": "NYT Yemek Tariflerinde YENİ DÖNEM",
+    "title": "NYT Cooking'de Yapay Zeka Dönemi",
     "highlight_words": [
-      "YENİ DÖNEM"
+      "Yapay Zeka",
+      "Dönemi"
     ],
     "highlight_color": "yellow",
-    "subtitle": "The New York Times, aboneleri için yapay zeka destekli tarif düzenleme özelliğini test ediyor.",
+    "subtitle": "New York Times Cooking, tarifleri kişiselleştiren yeni beta özelliğini duyurdu.",
     "source_tags": [
       "WIRED",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Yapay Zeka Mutfakta Ne Yapıyor?",
+    "heading": "Neler Değişiyor?",
     "cards": [
       {
-        "card_title": "iOS Beta Süreci",
-        "card_body": "The New York Times, abonelerinin tarifleri kendi tercihlerine göre değiştirmesine olanak tanıyan bir yapay zeka özelliğini iOS beta sürümünde başlattı."
+        "card_title": "Yeni Beta Özelliği",
+        "card_body": "New York Times Cooking, iOS tabanlı beta sürümünde abonelerin tarifleri yapay zeka ile değiştirmesine olanak tanıyor."
       },
       {
-        "card_title": "Geçmiş Deneyimler",
-        "card_body": "Platform, bu yılın başlarında tarif ölçeklendirme ve emperyal ölçü birimlerini metrik sisteme dönüştürme konusunda yapay zekadan destek almaya başlamıştı."
+        "card_title": "Yapay Zeka Geçmişi",
+        "card_body": "Platform daha önce tarif ölçeklendirme ve ölçü birimi dönüştürme gibi alanlarda yapay zekayı kullanmaya başlamıştı."
       }
     ]
   },
   "stat": {
     "big_stat": "514 MİLYON",
-    "stat_caption": "NYT yönetimine göre, 2025 yılında site ve uygulama toplamda bu kadar kez ziyaret edildi.",
-    "stat_quote": "NYT Cooking, her zamankinden daha fazla işe alım yapıyor ve tarif yayınlama sayısını azaltmaya dair sıfır niyeti var. - Camilla Velasquez"
+    "stat_caption": "2025 yılında NYT Cooking platformuna yapılan toplam ziyaret sayısı.",
+    "stat_quote": "New York Times İletişim Direktörü Jordan Cohen, sitenin ve uygulamanın 2025 yılında 514 milyon kez ziyaret edildiğini belirtti."
   },
   "details": {
-    "heading": "Süreç ve Tepkiler",
+    "heading": "Süreç Nasıl İlerliyor?",
     "cards": [
       {
-        "card_title": "Duyuru Tarihi",
-        "card_body": "Yapay zeka destekli tarif düzenleme özelliğini tanıtan makale 23 Ekim tarihinde yayınlandı."
+        "card_title": "Yorum Bölümü Kapatıldı",
+        "card_body": "Yapay zeka değişikliği hakkındaki makaleye dört gün içinde 172 yorum yapıldıktan sonra yorum bölümü erişime kapatıldı."
       },
       {
-        "card_title": "Yorumlar Kapatıldı",
-        "card_body": "Haberle ilgili yorumlar, dört günün sonunda gelen 172 adet neredeyse tamamen olumsuz yorumun ardından kapatıldı."
+        "card_title": "İçerik Stratejisi",
+        "card_body": "NYT Cooking Genel Müdürü Camilla Velasquez, ekibin tarif yayınlama sayısını azaltma niyetinin olmadığını açıkladı."
       },
       {
-        "card_title": "Güçlü Ekip",
-        "card_body": "NYT Cooking bünyesinde editörler, yazarlar ve video gazetecilerinden oluşan 60 kişilik profesyonel bir ekip çalışıyor."
+        "card_title": "Güçlü Topluluk",
+        "card_body": "New York Times Cooking YouTube kanalı, 1,4 milyondan fazla abonesiyle geniş bir kitleye hitap etmeye devam ediyor."
       }
     ]
   },
   "impact": {
-    "heading": "Gelecek ve Etki",
+    "heading": "Sektörel Yansımalar",
     "cards": [
       {
-        "card_title": "Kullanıcı Etkileşimi",
-        "card_body": "NYT Cooking YouTube kanalı 1.4 milyondan fazla aboneye sahip. Bu geniş kitle, platformun dijital içerik stratejisinin merkezinde yer alıyor."
+        "card_title": "Kullanıcı Deneyimi",
+        "card_body": "Yapay zeka destekli tarif düzenleme, kullanıcıların mutfaktaki ihtiyaçlarına göre kişiselleştirilmiş çözümler sunmayı hedefliyor."
       },
       {
-        "card_title": "İçerik Stratejisi",
-        "card_body": "Yapay zeka araçları, platformun tarif yayınlama hızını veya miktarını düşürmek yerine, mevcut içeriklerin kişiselleştirilmesine odaklanıyor."
+        "card_title": "Dijital Yayıncılık",
+        "card_body": "Büyük yayın kuruluşlarının yapay zekayı tarif yönetimi gibi pratik alanlara entegre etmesi, dijital içerik üretimini dönüştürüyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce yapay zeka, geleneksel yemek tariflerini kişiselleştirerek mutfak kültürünü zenginleştirir mi, yoksa özgünlüğü mü bozar?",
+    "question": "Yemek tariflerinizi yapay zekanın değiştirmesine izin verir miydiniz?",
     "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri takip etmek için Tekno Pusula'yı izlemeye devam edin."
   },
   "tag_label_2": "BAĞLAM",
