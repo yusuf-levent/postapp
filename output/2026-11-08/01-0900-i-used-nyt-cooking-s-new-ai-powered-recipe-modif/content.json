@@ -1,65 +1,64 @@
 {
   "cover": {
     "category_label": "YAPAY ZEKA VE YEMEK",
-    "title": "NYT Yapay Zeka ile Yemek Tariflerini Değiştiriyor",
+    "title": "NYT Cooking'e Yapay Zeka Adımı",
     "highlight_words": [
-      "Yapay Zeka",
-      "Tariflerini"
+      "Yapay Zeka"
     ],
-    "highlight_color": "cyan",
-    "subtitle": "iOS kullanıcıları için beta aşamasında test edilen yeni özellik duyuruldu.",
+    "highlight_color": "yellow",
+    "subtitle": "Yemek tariflerini değiştiren yeni özellik tartışma yarattı.",
     "source_tags": [
       "WIRED",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Yemek Tariflerinde Yeni Dönem",
+    "heading": "NYT Cooking'in Dijital Gücü",
     "cards": [
       {
-        "card_title": "iOS Beta Süreci",
-        "card_body": "The New York Times, abonelerin yemek tariflerini değiştirmesine olanak tanıyan yapay zekayı iOS'a özel bir betada kullanıyor."
+        "card_title": "Ziyaretçi Rekoru",
+        "card_body": "The New York Times Cooking sitesi ve uygulaması 2025 yılında 514 milyon kez ziyaret edildi."
       },
       {
-        "card_title": "Duyuru Tarihi",
-        "card_body": "Yapay zeka destekli tarif değiştirme özelliğini duyuran makale 23 Ekim tarihinde yayımlandı."
+        "card_title": "Genişleyen Ekip",
+        "card_body": "The New York Times Cooking ekibi 60 editör, yazar, video gazeteci ve diğer çalışanlardan oluşmaktadır."
       }
     ]
   },
   "stat": {
-    "big_stat": "172",
-    "stat_caption": "Yapay zeka tarifi haberine gelen ve neredeyse tamamı öfkeli olan yorum sayısı.",
-    "stat_quote": "Yapay zeka tarifi hikayesi için yapılan yorumlar, dört gün ve 172 adet neredeyse tamamen öfkeli yorumun ardından kapatıldı."
+    "big_stat": "1,4 MİLYON+",
+    "stat_caption": "The New York Times Cooking YouTube kanalının abone sayısı.",
+    "stat_quote": "Camilla Velasquez, NYT Cooking'in daha az tarif yayınlama niyetinin sıfır olduğunu belirtmiştir."
   },
   "details": {
-    "heading": "Geçmiş Gelişmeler ve Ekip",
+    "heading": "Yapay Zeka Nasıl Çalışıyor?",
     "cards": [
       {
-        "card_title": "Önceki Özellikler",
-        "card_body": "Times, bu yılın başlarında tarif ölçeklendirme ve emperyal ölçümleri metrik birime dönüştürme konusunda yapay zekanın yardımcı olmasına izin vermişti."
+        "card_title": "iOS Beta Sürümü",
+        "card_body": "The New York Times, iOS'e özel bir beta sürümünde abonelerin tarifleri değiştirmesine olanak tanıyan bir yapay zeka özelliği kullanmaya başladı."
       },
       {
-        "card_title": "NYT Cooking Ekibi",
-        "card_body": "NYT Cooking bünyesinde 60 editör, yazar, video gazeteci ve diğer çalışanlar görev yapıyor."
+        "card_title": "Test Edilen Tarifler",
+        "card_body": "Yazar, Alison Roman'ın 6.000'den fazla oylamaya sahip beş yıldızlı tavuk ve mantı tarifini test ederek yapay zeka aracını denemiştir."
       }
     ]
   },
   "impact": {
-    "heading": "Yayın Politikası ve Ziyaretler",
+    "heading": "Kullanıcı Tepkileri ve Gelecek",
     "cards": [
       {
-        "card_title": "Yayın Hedefleri",
-        "card_body": "Camilla Velasquez, NYT Cooking'in daha az tarif yayımlamak gibi bir niyetinin sıfır olduğunu belirtti."
+        "card_title": "Öfkeli Yorumlar",
+        "card_body": "Yapay zeka tarifi özelleştirme duyurusu makalesinin altında dört gün boyunca neredeyse tamamen öfkeli 172 yorum yapıldı."
       },
       {
-        "card_title": "Ziyaretçi Sayısı",
-        "card_body": "NYT iletişim direktörü Jordan Cohen, site ve uygulamanın 2025 yılında 514 milyon kez ziyaret edildiğini belirtti."
+        "card_title": "Yorumların Kapatılması",
+        "card_body": "Yoğun tepkiler üzerine ilgili makaledeki yorum yapma özelliği kapatıldı."
       }
     ]
   },
   "cta": {
-    "question": "Yapay zekanın klasik yemek tariflerini değiştirmesi hakkında ne düşünüyorsunuz?",
-    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için takipte kalın."
+    "question": "Sizce tariflerin yapay zeka ile kişiselleştirilmesi mutfak kültürünü nasıl etkiler?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
