@@ -1,69 +1,64 @@
 {
   "cover": {
-    "category_label": "TEKNOLOJİ REHBERİ",
-    "title": "Apple Music Arşivi Nasıl Eşitlenir?",
+    "category_label": "TEKNOLOJI REHBERI",
+    "title": "Apple Music Kütüphanesini Senkronize Etmek Çok Kolay",
     "highlight_words": [
-      "Apple Music",
-      "Eşitlenir"
+      "Senkronize"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Farklı cihazlarda müzik arşivinizi senkronize etmenin yolları.",
+    "subtitle": "Farklı platformlarda müzik kütüphanenizi nasıl güncel tutarsınız?",
     "source_tags": [
       "ENGADGET",
       "WIRED"
     ]
   },
   "context": {
-    "heading": "Cihazlar Arası Kullanım",
+    "heading": "Farklı Platformlarda Apple Music",
     "cards": [
       {
-        "card_title": "Desteklenen Platformlar",
-        "card_body": "Apple Music, Android telefonlarda, Windows PC'lerde ve akıllı televizyonlarda kullanılabilmektedir."
+        "card_title": "Çoklu Platform Desteği",
+        "card_body": "Apple Music, Android telefonlar, Windows PC'ler ve akıllı televizyonlar gibi farklı platformlarda kullanılabilir."
       },
       {
-        "card_title": "Android'de Varsayılan",
-        "card_body": "Android telefonda Sync Library seçeneği varsayılan olarak etkin gelir."
+        "card_title": "Android Deneyimi",
+        "card_body": "Apple Music uygulamasında Sync Library özelligi Android telefonlarda varsayılan olarak etkindir."
       }
     ]
   },
   "stat": {
     "big_stat": "FARKLI",
-    "stat_caption": "Cihazlarda arşivi güncelleme yöntemleri değişiklik göstermektedir.",
-    "stat_quote": "Mac uygulamasında Dosya menüsünden Arşivi Güncelle seçilerek bulut arşivinin güncellenmesi zorlanabilir."
+    "stat_caption": "Cihazlar Arası Müzik Deneyimi",
+    "stat_quote": "Apple Music kütüphanenizi farklı platformlarda kolayca yönetebilirsiniz."
   },
   "details": {
-    "heading": "Eşitleme Yöntemleri",
+    "heading": "Kütüphane Güncelleme Yöntemleri",
     "cards": [
       {
-        "card_title": "iPhone ve iPad",
-        "card_body": "Ayarlar ve ardından Uygulamalar bölümünden Müzik seçilerek Arşivi Eşitle etkinleştirilebilir."
+        "card_title": "Mac ve iOS Ayarları",
+        "card_body": "Mac'te Music uygulamasının ayarları altındaki General sekmesinden veya iPhone/iPad'de ayarlardan Sync Library etkinleştirilebilir."
       },
       {
-        "card_title": "Mobil Uygulamalar",
-        "card_body": "Android ve iOS uygulamalarında arşivi güncellemeye zorlayan bir seçenek bulunmamaktadır."
-      },
-      {
-        "card_title": "Aboneliksiz Kullanım",
-        "card_body": "Apple Music aboneliği yoksa çevrimdışı arşiv için Müzik klasörünü manuel aktarmak gerekir."
+        "card_title": "Manuel Aktarım",
+        "card_body": "Üye değilseniz ve çevrimdışı kütüphaneniz varsa, Music klasörünü Apple iTunes veya Apple Devices aracılığıyla manuel aktarabilirsiniz."
       }
     ]
   },
   "impact": {
-    "heading": "Kullanıcı Deneyimi",
+    "heading": "Kullanıcılar İçin Kolaylıklar",
     "cards": [
       {
-        "card_title": "Çoklu Platform",
-        "card_body": "Farklı işletim sistemlerinde müzik kütüphanesine erişim sağlanır."
+        "card_title": "Cihaz Uyumu",
+        "card_body": "Farklı işletim sistemlerinde müzik kütüphanesine kesintisiz erişim sağlanır."
       },
       {
-        "card_title": "Manuel İşlemler",
-        "card_body": "Abonelik bulunmayan durumlarda manuel aktarım ihtiyacı doğar."
+        "card_title": "Esnek Yönetim",
+        "card_body": "Bulut kütüphanesini güncellemek veya manuel aktarmak oldukça pratiktir."
       }
     ]
   },
   "cta": {
-    "question": "Apple Music arşivinizi farklı cihazlarda eşitlemekte sorun yaşıyor musunuz?",
-    "reminder_line": "Teknoloji dünyasındaki güncel rehberler için bizi takip etmeye devam edin."
+    "question": "Siz Apple Music kütüphanenizi hangi cihazda senkronize ediyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
