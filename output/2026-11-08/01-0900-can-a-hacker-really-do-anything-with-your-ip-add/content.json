@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "GÜVENLİK VE AĞLAR",
+    "title": "IP Adresleri ve Görünmeyen Riskler",
+    "highlight_words": [
+      "IP Adresleri",
+      "Riskler"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "İnternet dünyasında dijital ayak iziniz ne kadar güvende?",
+    "source_tags": [
+      "WIRED",
+      "ARS TECHNICA"
+    ]
+  },
+  "context": {
+    "heading": "IP Adresi Hakkında Temel Bilgiler",
+    "cards": [
+      {
+        "card_title": "Konum ve Servis Sağlayıcı",
+        "card_body": "Bir IP adresi sorgusu, kullanıcının internet servis sağlayıcısını ve yaklaşık şehir veya bölge bilgisini ortaya çıkarabilir."
+      },
+      {
+        "card_title": "IPv4 ve IPv6 Farkı",
+        "card_body": "IPv4 adresleri genellikle ev yönlendiricilerinde birden fazla cihaz tarafından paylaşılırken, IPv6 her cihaza kendi genel adresini verebilir."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "650 MİLYON",
+    "stat_caption": "MaxMind veritabanındaki hatalı eşleme sonucu mağdur olan IP adresi sayısı.",
+    "stat_quote": "2016 yılında Kansaslı bir aile, MaxMind'ın veritabanının yaklaşık 650 milyon ilgisiz IP adresini çiftliklerine hatalı bir şekilde eşlemesi nedeniyle dava açtı."
+  },
+  "details": {
+    "heading": "Dijital Güvenlik Tehditleri",
+    "cards": [
+      {
+        "card_title": "Oyun Dünyasında DDoS",
+        "card_body": "Kasım 2021'de yayıncı xQc, 'Crab Game' oynarken bağlantısını kaybetti. Geliştiriciler, halka açık lobilerin IP adreslerini DDoS saldırılarına açık hale getirdiğini belirtti."
+      },
+      {
+        "card_title": "Kritik Güvenlik Açığı",
+        "card_body": "Ekim 2026'da Microsoft, Windows üzerindeki .NET uygulamalarında kod yürütülmesine izin verebilecek CVE-2026-105016 kodlu kritik bir QUIC açığını duyurdu."
+      },
+      {
+        "card_title": "IPv6 Uyarısı",
+        "card_body": "Microsoft, IPv6'nın kapatılmasının bazı Windows bileşenlerinde sorunlara yol açabileceğini belirtmektedir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcıya Etkisi",
+    "cards": [
+      {
+        "card_title": "Bağlantı Kesintileri",
+        "card_body": "DDoS saldırıları, oyun oturumlarını, video görüşmelerini veya tüm bir ev internet bağlantısını kesintiye uğratabilir."
+      },
+      {
+        "card_title": "Gizlilik Riski",
+        "card_body": "IP adresinizin ifşa olması, konumunuzun ve servis sağlayıcınızın başkaları tarafından öğrenilmesine neden olabilir."
+      }
+    ]
+  },
+  "cta": {
+    "question": "İnternet bağlantınızın güvenliği için IP gizliliğine ne kadar dikkat ediyorsunuz?",
+    "reminder_line": "Tekno Pusula ile teknolojiyi doğru anlamaya devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

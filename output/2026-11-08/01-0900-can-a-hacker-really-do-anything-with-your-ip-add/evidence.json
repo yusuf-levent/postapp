@@ -1,0 +1,265 @@
+{
+  "title": "Can a hacker really do anything with your IP address?",
+  "canonical_url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+  "source_names": [
+    "Engadget",
+    "The Verge",
+    "Wired",
+    "Ars Technica"
+  ],
+  "checked_at": "2026-11-08T16:52:54+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Kasım 2021'de Twitch yayıncısı xQc, 'Crab Game' oynadıktan kısa bir süre sonra internet bağlantısını kaybetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "In November 2021, Twitch streamer xQc lost his internet connection shortly after playing \"Crab Game.\""
+        }
+      ]
+    },
+    {
+      "claim": "Crab Game'in geliştiricisi, oyunun oyuncuların IP adreslerini DDoS saldırılarına karşı açık hale getirebileceğini keşfettikten sonra yayıncıları halka açık lobilerden kaçınmaları konusunda uyardı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "The game's developer then warned streamers to avoid public lobbies after discovering that the game could expose players' IP addresses to distributed denial-of-service (DDoS) attacks."
+        }
+      ]
+    },
+    {
+      "claim": "2016 yılında Kansaslı bir aile, MaxMind'ın veritabanının yaklaşık 650 milyon ilgisiz IP adresini çiftliklerine hatalı bir şekilde eşlemesi nedeniyle şirkete dava açtı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "Back in 2016, a Kansas family sued MaxMind after its database mapped approximately 650 million unrelated IP addresses to their farm, prompting repeated law enforcement visits over incidents involving people elsewhere."
+        }
+      ]
+    },
+    {
+      "claim": "DDoS saldırıları, oyun oturumlarını, video görüşmelerini veya tüm bir ev internet bağlantısını kesintiye uğratabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "A typical DDoS attack floods a target with traffic from multiple sources. It's the same kind of attack Bluesky blamed for its server outages, and on a smaller scale, it could interrupt gaming sessions, video calls, or even an entire household internet connection."
+        }
+      ]
+    },
+    {
+      "claim": "Ekim 2026'da Microsoft, Windows üzerindeki .NET uygulamalarında kod yürütülmesine izin verebilecek CVE-2026-105016 kodlu kritik bir QUIC güvenlik açığını duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "In October 2026, Microsoft disclosed CVE-2026-105016, a critical vulnerability in its QUIC implementation. It could allow specially crafted IPv6 traffic to execute code in affected .NET applications on Windows."
+        }
+      ]
+    },
+    {
+      "claim": "IPv4 adresleri genellikle ev yönlendiricilerinde birden fazla cihaz tarafından paylaşılırken, IPv6 her cihaza kendi genel adresini verebilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "Now, most home routers let multiple devices share one public IPv4 address, while IPv6 can give each device its own public-facing address."
+        }
+      ]
+    },
+    {
+      "claim": "Bir IP adresi sorgusu, kullanıcının internet servis sağlayıcısını ve yaklaşık şehir veya bölge bilgisini ortaya çıkarabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "An IP lookup is a quick way to reveal your internet service provider and approximate city or region."
+        }
+      ]
+    },
+    {
+      "claim": "Microsoft, IPv6'nın kapatılmasının bazı Windows bileşenlerinde sorunlara yol açabileceğini belirtmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "Microsoft mentions that turning off IPv6 could result in problems with some of the Windows components."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Kasım 2021'de Twitch yayıncısı xQc, 'Crab Game' oynadıktan kısa bir süre sonra internet bağlantısını kaybetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "In November 2021, Twitch streamer xQc lost his internet connection shortly after playing \"Crab Game.\""
+        }
+      ]
+    },
+    {
+      "claim": "Crab Game'in geliştiricisi, oyunun oyuncuların IP adreslerini DDoS saldırılarına karşı açık hale getirebileceğini keşfettikten sonra yayıncıları halka açık lobilerden kaçınmaları konusunda uyardı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "The game's developer then warned streamers to avoid public lobbies after discovering that the game could expose players' IP addresses to distributed denial-of-service (DDoS) attacks."
+        }
+      ]
+    },
+    {
+      "claim": "2016 yılında Kansaslı bir aile, MaxMind'ın veritabanının yaklaşık 650 milyon ilgisiz IP adresini çiftliklerine hatalı bir şekilde eşlemesi nedeniyle şirkete dava açtı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "Back in 2016, a Kansas family sued MaxMind after its database mapped approximately 650 million unrelated IP addresses to their farm, prompting repeated law enforcement visits over incidents involving people elsewhere."
+        }
+      ]
+    },
+    {
+      "claim": "DDoS saldırıları, oyun oturumlarını, video görüşmelerini veya tüm bir ev internet bağlantısını kesintiye uğratabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "A typical DDoS attack floods a target with traffic from multiple sources. It's the same kind of attack Bluesky blamed for its server outages, and on a smaller scale, it could interrupt gaming sessions, video calls, or even an entire household internet connection."
+        }
+      ]
+    },
+    {
+      "claim": "Ekim 2026'da Microsoft, Windows üzerindeki .NET uygulamalarında kod yürütülmesine izin verebilecek CVE-2026-105016 kodlu kritik bir QUIC güvenlik açığını duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "In October 2026, Microsoft disclosed CVE-2026-105016, a critical vulnerability in its QUIC implementation. It could allow specially crafted IPv6 traffic to execute code in affected .NET applications on Windows."
+        }
+      ]
+    },
+    {
+      "claim": "IPv4 adresleri genellikle ev yönlendiricilerinde birden fazla cihaz tarafından paylaşılırken, IPv6 her cihaza kendi genel adresini verebilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "Now, most home routers let multiple devices share one public IPv4 address, while IPv6 can give each device its own public-facing address."
+        }
+      ]
+    },
+    {
+      "claim": "Bir IP adresi sorgusu, kullanıcının internet servis sağlayıcısını ve yaklaşık şehir veya bölge bilgisini ortaya çıkarabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "An IP lookup is a quick way to reveal your internet service provider and approximate city or region."
+        }
+      ]
+    },
+    {
+      "claim": "Microsoft, IPv6'nın kapatılmasının bazı Windows bileşenlerinde sorunlara yol açabileceğini belirtmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "Microsoft mentions that turning off IPv6 could result in problems with some of the Windows components."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Kasım 2021'de Twitch yayıncısı xQc, 'Crab Game' oynadıktan kısa bir süre sonra internet bağlantısını kaybetti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "In November 2021, Twitch streamer xQc lost his internet connection shortly after playing \"Crab Game.\""
+        }
+      ]
+    },
+    {
+      "claim": "Crab Game'in geliştiricisi, oyunun oyuncuların IP adreslerini DDoS saldırılarına karşı açık hale getirebileceğini keşfettikten sonra yayıncıları halka açık lobilerden kaçınmaları konusunda uyardı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "The game's developer then warned streamers to avoid public lobbies after discovering that the game could expose players' IP addresses to distributed denial-of-service (DDoS) attacks."
+        }
+      ]
+    },
+    {
+      "claim": "2016 yılında Kansaslı bir aile, MaxMind'ın veritabanının yaklaşık 650 milyon ilgisiz IP adresini çiftliklerine hatalı bir şekilde eşlemesi nedeniyle şirkete dava açtı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "Back in 2016, a Kansas family sued MaxMind after its database mapped approximately 650 million unrelated IP addresses to their farm, prompting repeated law enforcement visits over incidents involving people elsewhere."
+        }
+      ]
+    },
+    {
+      "claim": "DDoS saldırıları, oyun oturumlarını, video görüşmelerini veya tüm bir ev internet bağlantısını kesintiye uğratabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "A typical DDoS attack floods a target with traffic from multiple sources. It's the same kind of attack Bluesky blamed for its server outages, and on a smaller scale, it could interrupt gaming sessions, video calls, or even an entire household internet connection."
+        }
+      ]
+    },
+    {
+      "claim": "Ekim 2026'da Microsoft, Windows üzerindeki .NET uygulamalarında kod yürütülmesine izin verebilecek CVE-2026-105016 kodlu kritik bir QUIC güvenlik açığını duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "In October 2026, Microsoft disclosed CVE-2026-105016, a critical vulnerability in its QUIC implementation. It could allow specially crafted IPv6 traffic to execute code in affected .NET applications on Windows."
+        }
+      ]
+    },
+    {
+      "claim": "IPv4 adresleri genellikle ev yönlendiricilerinde birden fazla cihaz tarafından paylaşılırken, IPv6 her cihaza kendi genel adresini verebilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "Now, most home routers let multiple devices share one public IPv4 address, while IPv6 can give each device its own public-facing address."
+        }
+      ]
+    },
+    {
+      "claim": "Bir IP adresi sorgusu, kullanıcının internet servis sağlayıcısını ve yaklaşık şehir veya bölge bilgisini ortaya çıkarabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "An IP lookup is a quick way to reveal your internet service provider and approximate city or region."
+        }
+      ]
+    },
+    {
+      "claim": "Microsoft, IPv6'nın kapatılmasının bazı Windows bileşenlerinde sorunlara yol açabileceğini belirtmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "Microsoft mentions that turning off IPv6 could result in problems with some of the Windows components."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/": 3618,
+    "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview": 3148,
+    "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/": 3825,
+    "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/": 2507
+  }
+}

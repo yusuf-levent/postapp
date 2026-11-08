@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 72.9,
+  "candidates_tried": 1,
+  "gemini_calls": 12,
+  "canonical_url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+  "generated_at": "2026-11-08T16:53:35+03:00"
+}
