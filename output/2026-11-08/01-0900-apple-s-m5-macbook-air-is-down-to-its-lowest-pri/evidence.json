@@ -7,12 +7,12 @@
     "Engadget",
     "TechCrunch"
   ],
-  "checked_at": "2026-11-08T19:07:35+03:00",
+  "checked_at": "2026-11-08T19:12:46+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "13 inç MacBook Air şu anda 1.099,99 dolar fiyatla satılmaktadır.",
+      "claim": "13 inç MacBook Air modeli şu anda 1.099,99 dolar fiyatla satılmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "claim": "Amazon, Best Buy ve B&H Photo mağazaları 13 inç MacBook Air için 200 dolarlık indirimi tüm renk seçeneklerinde uygulamaktadır.",
+      "claim": "Amazon, Best Buy ve B&H Photo mağazaları 13 inç MacBook Air için 200 dolarlık indirimi uygulamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -58,7 +58,23 @@
         {
           "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
           "quote": "Apple’s 15-inch MacBook Air is also on sale for $200 off. Amazon, Best Buy, and B&H Photo are each selling the 16GB RAM / 512GB SSD configuration in most colors for $1,299.99."
-        },
+        }
+      ]
+    },
+    {
+      "claim": "15 inç MacBook Air, 13 inç modelden farklı olarak altı hoparlörlü bir sisteme ve iki ek GPU çekirdeğine sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+          "quote": "If you’d prefer something with a larger screen, a six-speaker array instead of four, and slightly more power (with two additional GPU cores in the M5), Apple’s 15-inch MacBook Air is also on sale for $200 off."
+        }
+      ]
+    },
+    {
+      "claim": "15 inç MacBook Air'in indirimli versiyonu 16GB RAM ve 512GB SSD konfigürasyonuna sahiptir.",
+      "verdict": "supported",
+      "evidence": [
         {
           "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
           "quote": "Amazon, Best Buy, and B&H Photo are each selling the 16GB RAM / 512GB SSD configuration in most colors for $1,299.99."
@@ -66,31 +82,7 @@
       ]
     },
     {
-      "claim": "15 inç MacBook Air, 13 inç modelinden farklı olarak altı hoparlörlü bir ses sistemine sahiptir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
-          "quote": "If you’d prefer something with a larger screen, a six-speaker array instead of four, and slightly more power (with two additional GPU cores in the M5), Apple’s 15-inch MacBook Air is also on sale for $200 off."
-        },
-        {
-          "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
-          "quote": "If you’d prefer something with a larger screen, a six-speaker array instead of four"
-        }
-      ]
-    },
-    {
-      "claim": "15 inç MacBook Air'in M5 işlemcisi, 13 inç modeline göre iki ek GPU çekirdeğine sahiptir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
-          "quote": "If you’d prefer something with a larger screen, a six-speaker array instead of four, and slightly more power (with two additional GPU cores in the M5), Apple’s 15-inch MacBook Air is also on sale for $200 off."
-        }
-      ]
-    },
-    {
-      "claim": "Antonio G. Di Benedetto'nun MacBook Air incelemeleri yaz aylarındaki fiyat artışlarından önce yayımlanmıştır.",
+      "claim": "Antonio G. Di Benedetto'nun MacBook Air incelemeleri yaz aylarındaki fiyat artışlarından önce yayınlanmıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -102,7 +94,7 @@
   ],
   "round1": [
     {
-      "claim": "13 inç MacBook Air şu anda 1.099,99 dolar fiyatla satılmaktadır.",
+      "claim": "13 inç MacBook Air modeli şu anda 1.099,99 dolar fiyatla satılmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -132,7 +124,7 @@
       ]
     },
     {
-      "claim": "Amazon, Best Buy ve B&H Photo mağazaları 13 inç MacBook Air için 200 dolarlık indirimi tüm renk seçeneklerinde uygulamaktadır.",
+      "claim": "Amazon, Best Buy ve B&H Photo mağazaları 13 inç MacBook Air için 200 dolarlık indirimi uygulamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -148,7 +140,23 @@
         {
           "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
           "quote": "Apple’s 15-inch MacBook Air is also on sale for $200 off. Amazon, Best Buy, and B&H Photo are each selling the 16GB RAM / 512GB SSD configuration in most colors for $1,299.99."
-        },
+        }
+      ]
+    },
+    {
+      "claim": "15 inç MacBook Air, 13 inç modelden farklı olarak altı hoparlörlü bir sisteme ve iki ek GPU çekirdeğine sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+          "quote": "If you’d prefer something with a larger screen, a six-speaker array instead of four, and slightly more power (with two additional GPU cores in the M5), Apple’s 15-inch MacBook Air is also on sale for $200 off."
+        }
+      ]
+    },
+    {
+      "claim": "15 inç MacBook Air'in indirimli versiyonu 16GB RAM ve 512GB SSD konfigürasyonuna sahiptir.",
+      "verdict": "supported",
+      "evidence": [
         {
           "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
           "quote": "Amazon, Best Buy, and B&H Photo are each selling the 16GB RAM / 512GB SSD configuration in most colors for $1,299.99."
@@ -156,31 +164,7 @@
       ]
     },
     {
-      "claim": "15 inç MacBook Air, 13 inç modelinden farklı olarak altı hoparlörlü bir ses sistemine sahiptir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
-          "quote": "If you’d prefer something with a larger screen, a six-speaker array instead of four, and slightly more power (with two additional GPU cores in the M5), Apple’s 15-inch MacBook Air is also on sale for $200 off."
-        },
-        {
-          "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
-          "quote": "If you’d prefer something with a larger screen, a six-speaker array instead of four"
-        }
-      ]
-    },
-    {
-      "claim": "15 inç MacBook Air'in M5 işlemcisi, 13 inç modeline göre iki ek GPU çekirdeğine sahiptir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
-          "quote": "If you’d prefer something with a larger screen, a six-speaker array instead of four, and slightly more power (with two additional GPU cores in the M5), Apple’s 15-inch MacBook Air is also on sale for $200 off."
-        }
-      ]
-    },
-    {
-      "claim": "Antonio G. Di Benedetto'nun MacBook Air incelemeleri yaz aylarındaki fiyat artışlarından önce yayımlanmıştır.",
+      "claim": "Antonio G. Di Benedetto'nun MacBook Air incelemeleri yaz aylarındaki fiyat artışlarından önce yayınlanmıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -192,7 +176,7 @@
   ],
   "round2": [
     {
-      "claim": "13 inç MacBook Air şu anda 1.099,99 dolar fiyatla satılmaktadır.",
+      "claim": "13 inç MacBook Air modeli şu anda 1.099,99 dolar fiyatla satılmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -222,7 +206,7 @@
       ]
     },
     {
-      "claim": "Amazon, Best Buy ve B&H Photo mağazaları 13 inç MacBook Air için 200 dolarlık indirimi tüm renk seçeneklerinde uygulamaktadır.",
+      "claim": "Amazon, Best Buy ve B&H Photo mağazaları 13 inç MacBook Air için 200 dolarlık indirimi uygulamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -238,7 +222,23 @@
         {
           "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
           "quote": "Apple’s 15-inch MacBook Air is also on sale for $200 off. Amazon, Best Buy, and B&H Photo are each selling the 16GB RAM / 512GB SSD configuration in most colors for $1,299.99."
-        },
+        }
+      ]
+    },
+    {
+      "claim": "15 inç MacBook Air, 13 inç modelden farklı olarak altı hoparlörlü bir sisteme ve iki ek GPU çekirdeğine sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+          "quote": "If you’d prefer something with a larger screen, a six-speaker array instead of four, and slightly more power (with two additional GPU cores in the M5), Apple’s 15-inch MacBook Air is also on sale for $200 off."
+        }
+      ]
+    },
+    {
+      "claim": "15 inç MacBook Air'in indirimli versiyonu 16GB RAM ve 512GB SSD konfigürasyonuna sahiptir.",
+      "verdict": "supported",
+      "evidence": [
         {
           "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
           "quote": "Amazon, Best Buy, and B&H Photo are each selling the 16GB RAM / 512GB SSD configuration in most colors for $1,299.99."
@@ -246,31 +246,7 @@
       ]
     },
     {
-      "claim": "15 inç MacBook Air, 13 inç modelinden farklı olarak altı hoparlörlü bir ses sistemine sahiptir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
-          "quote": "If you’d prefer something with a larger screen, a six-speaker array instead of four, and slightly more power (with two additional GPU cores in the M5), Apple’s 15-inch MacBook Air is also on sale for $200 off."
-        },
-        {
-          "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
-          "quote": "If you’d prefer something with a larger screen, a six-speaker array instead of four"
-        }
-      ]
-    },
-    {
-      "claim": "15 inç MacBook Air'in M5 işlemcisi, 13 inç modeline göre iki ek GPU çekirdeğine sahiptir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
-          "quote": "If you’d prefer something with a larger screen, a six-speaker array instead of four, and slightly more power (with two additional GPU cores in the M5), Apple’s 15-inch MacBook Air is also on sale for $200 off."
-        }
-      ]
-    },
-    {
-      "claim": "Antonio G. Di Benedetto'nun MacBook Air incelemeleri yaz aylarındaki fiyat artışlarından önce yayımlanmıştır.",
+      "claim": "Antonio G. Di Benedetto'nun MacBook Air incelemeleri yaz aylarındaki fiyat artışlarından önce yayınlanmıştır.",
       "verdict": "supported",
       "evidence": [
         {

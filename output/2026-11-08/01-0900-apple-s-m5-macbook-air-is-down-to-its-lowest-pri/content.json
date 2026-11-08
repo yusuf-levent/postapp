@@ -1,69 +1,65 @@
 {
   "cover": {
     "category_label": "DONANIM HABERLERİ",
-    "title": "MacBook Air Modellerinde Büyük İndirim",
+    "title": "MacBook Air Modellerinde 200 Dolar İndirim",
     "highlight_words": [
-      "Büyük",
+      "200 Dolar",
       "İndirim"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Apple'ın popüler dizüstü bilgisayarlarında 200 dolara varan fırsatlar başladı.",
+    "subtitle": "Popüler MacBook Air modelleri için yeni indirim fırsatları başladı.",
     "source_tags": [
       "THE VERGE",
       "ENGADGET"
     ]
   },
   "context": {
-    "heading": "MacBook Air'de Güncel Fırsatlar",
+    "heading": "İndirimli MacBook Air Fırsatları",
     "cards": [
       {
         "card_title": "13 İnç Modelin Özellikleri",
         "card_body": "Mayıs ayında piyasaya sürülen 13 inç MacBook Air, M5 işlemci, 16GB RAM ve 512GB depolama alanı ile geliyor."
       },
       {
-        "card_title": "İndirim Uygulayan Mağazalar",
-        "card_body": "Amazon, Best Buy ve B&H Photo, 13 inç MacBook Air için tüm renk seçeneklerinde 200 dolarlık indirim uyguluyor."
+        "card_title": "İndirim Sunan Mağazalar",
+        "card_body": "Amazon, Best Buy ve B&H Photo mağazaları, 13 inç MacBook Air modeli için 200 dolarlık indirim uyguluyor."
       }
     ]
   },
   "stat": {
-    "big_stat": "200 DOLAR",
-    "stat_caption": "Seçili MacBook Air modellerinde uygulanan güncel indirim tutarı.",
-    "stat_quote": "Antonio G. Di Benedetto'nun incelemeleri, yaz aylarındaki fiyat artışlarından önce yayımlanmıştır."
+    "big_stat": "1.099,99 $",
+    "stat_caption": "13 inç MacBook Air'in güncel indirimli satış fiyatı.",
+    "stat_quote": "Antonio G. Di Benedetto'nun incelemeleri, yaz aylarındaki fiyat artışlarından önce yayınlanmıştır."
   },
   "details": {
     "heading": "15 İnç Modelin Farkları",
     "cards": [
       {
-        "card_title": "Fiyat ve Performans",
-        "card_body": "15 inç MacBook Air modeli 200 dolar indirimle 1.299,99 dolara satılıyor."
+        "card_title": "Donanım Farklılıkları",
+        "card_body": "15 inç model, 13 inç olandan farklı olarak altı hoparlörlü bir ses sistemine ve iki ek GPU çekirdeğine sahip."
       },
       {
-        "card_title": "Ses Sistemi",
-        "card_body": "15 inç model, 13 inç modelinden farklı olarak altı hoparlörlü bir ses sistemine sahip."
-      },
-      {
-        "card_title": "GPU Gücü",
-        "card_body": "15 inç MacBook Air'in M5 işlemcisi, 13 inç modeline kıyasla iki ek GPU çekirdeği barındırıyor."
+        "card_title": "Fiyat ve Konfigürasyon",
+        "card_body": "15 inç MacBook Air, 200 dolar indirimle 1.299,99 dolara satılıyor ve 16GB RAM ile 512GB SSD sunuyor."
       }
     ]
   },
   "impact": {
-    "heading": "Kullanıcılar İçin Ne Değişiyor?",
+    "heading": "Kullanıcılar İçin Ne Anlama Geliyor?",
     "cards": [
       {
         "card_title": "Erişilebilirlik Artıyor",
-        "card_body": "Büyük perakendecilerin uyguladığı indirimler, güncel M5 işlemcili MacBook Air modellerine ulaşmayı kolaylaştırıyor."
+        "card_body": "200 dolarlık indirim, yüksek performanslı M5 işlemcili modellere geçiş yapmak isteyen kullanıcılar için önemli bir fırsat."
       },
       {
         "card_title": "Model Seçimi",
-        "card_body": "Kullanıcılar, ses sistemi ve GPU çekirdek sayısı farklarını göz önünde bulundurarak ihtiyaçlarına uygun modeli seçebiliyor."
+        "card_body": "Daha güçlü grafik performansı ve ses deneyimi arayanlar için 15 inç model, indirimli fiyatıyla öne çıkıyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce taşınabilirlik mi yoksa daha güçlü bir ses ve GPU performansı mı daha önemli?",
-    "reminder_line": "Tekno Pusula ile teknolojiyi yakından takip etmeye devam edin."
+    "question": "Sizce taşınabilirlik mi yoksa daha geniş ekran ve güçlü ses sistemi mi daha önemli?",
+    "reminder_line": "Teknoloji dünyasındaki güncel fırsatları kaçırmamak için bizi takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
