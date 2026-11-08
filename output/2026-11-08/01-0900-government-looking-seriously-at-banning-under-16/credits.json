@@ -1,0 +1,38 @@
+{
+  "images": [
+    {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lisa_Nandy_Official_Cabinet_Portrait%2C_July_2024_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-08/01-0900-government-looking-seriously-at-banning-under-16/images/img-1.png",
+      "license": "",
+      "author": "",
+      "credit_url": "https://en.wikipedia.org/wiki/Lisa%20Nandy",
+      "width": 1734,
+      "height": 2310,
+      "alt_text": "Lisa Nandy"
+    },
+    {
+      "source": "ogimage",
+      "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-08/01-0900-government-looking-seriously-at-banning-under-16/images/img-2.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "width": 1200,
+      "height": 675,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/11781094/pexels-photo-11781094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-08/01-0900-government-looking-seriously-at-banning-under-16/images/img-3.png",
+      "license": "Pexels License — Kulbir",
+      "author": "Kulbir",
+      "credit_url": "https://www.pexels.com/photo/a-brown-cardboard-box-with-fragile-sticker-11781094/",
+      "width": 1152,
+      "height": 1300,
+      "alt_text": "Open cardboard box with fragile sticker and bubble wrap on a white surface."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}

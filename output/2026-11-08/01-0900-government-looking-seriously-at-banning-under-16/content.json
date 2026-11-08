@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ DÜNYASI",
+    "title": "Birleşik Krallık'ta 16 Yaş Altı İçin Yeni Yasaklar",
+    "highlight_words": [
+      "16 Yaş Altı",
+      "Yasaklar"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Çocukların güvenliği için perakende ve sosyal medya kısıtlamaları gündemde.",
+    "source_tags": [
+      "BBC NEWS – TECHNOLOGY",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Gündemdeki Yeni Kısıtlamalar",
+    "cards": [
+      {
+        "card_title": "Perakende Siteleri",
+        "card_body": "Kültür Bakanı Lisa Nandy, 16 yaş altındakilerin Vinted ve eBay gibi sitelerden yasaklanmasını değerlendirdiklerini belirtti."
+      },
+      {
+        "card_title": "Sosyal Medya Yasağı",
+        "card_body": "Birleşik Krallık'ta 16 yaş altındakiler için sosyal medya yasağının gelecek yılın Mart ayında yürürlüğe girmesi planlanıyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "17 MİLYON",
+    "stat_caption": "Vinted'ın Birleşik Krallık'ta ulaştığı toplam kullanıcı sayısı.",
+    "stat_quote": "Vinted ve eBay, platform kullanıcılarının en az 18 yaşında olması gerektiğini belirtmektedir."
+  },
+  "details": {
+    "heading": "Düzenlemenin Detayları",
+    "cards": [
+      {
+        "card_title": "YouTube Durumu",
+        "card_body": "YouTube 16 yaş altındakiler için yasaklanacak ancak YouTube Kids bu yasağa dâhil edilmeyecek."
+      },
+      {
+        "card_title": "Ofcom Önerileri",
+        "card_body": "İletişim düzenleyicisi Ofcom, geçen ay 16 yaş üstü kullanıcıların tespiti için önerilerini açıkladı."
+      },
+      {
+        "card_title": "Uluslararası Örnek",
+        "card_body": "Birleşik Krallık'taki bu yasaktan önce benzer bir yasak geçen yıl Avustralya'da yürürlüğe konuldu."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektör ve Kullanıcı Etkisi",
+    "cards": [
+      {
+        "card_title": "Platform Kuralları",
+        "card_body": "Vinted ve eBay gibi perakende siteleri için yeni yaş doğrulama ve denetim süreçleri gündeme gelebilir."
+      },
+      {
+        "card_title": "Erişim Kısıtlamaları",
+        "card_body": "Genç kullanıcıların popüler çevrim içi alışveriş ve sosyal medya platformlarına erişimi tamamen değişecek."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Çocukların dijital güvenliği için bu tür yaş sınırları ve yasaklar yeterlili mi?",
+    "reminder_line": "Teknoloji ve yapay zeka gündemini kaçırmamak için takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

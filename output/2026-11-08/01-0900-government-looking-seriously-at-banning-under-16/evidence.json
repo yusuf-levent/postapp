@@ -1,0 +1,273 @@
+{
+  "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+  "canonical_url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+  "source_names": [
+    "BBC News – Technology",
+    "TechCrunch"
+  ],
+  "checked_at": "2026-11-08T13:49:35+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Kültür Bakanı Lisa Nandy, çocukların güvenliğini sağlamak için 16 yaş altındakilerin Vinted ve eBay gibi perakende sitelerinden yasaklanmasını ciddi olarak değerlendirdiklerini belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "Lisa Nandy said the government was \"looking seriously\" at including the retailing websites in the social media ban \"in order to keep children safe\"."
+        }
+      ]
+    },
+    {
+      "claim": "Birleşik Krallık'ta 16 yaş altındakiler için sosyal medya yasağının gelecek yılın Mart ayında yürürlüğe girmesi planlanıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "The UK's social media ban for those under the age of 16 is set to come into force in March next year"
+        }
+      ]
+    },
+    {
+      "claim": "Vinted'ın Birleşik Krallık'ta 17 milyon kullanıcıya ulaştığı belirtildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "The site, which mostly sees users buy and sell unwanted clothes and other fashion items, has grown rapidly in recent times to reach 17 million UK users."
+        }
+      ]
+    },
+    {
+      "claim": "Birleşik Krallık hükümeti, 16 yaş altındakilerin sosyal medyaya erişimini yasaklayacağını bu yılın Haziran ayında duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "The government announced it would ban under-16s accessing social media in June this year"
+        }
+      ]
+    },
+    {
+      "claim": "YouTube 16 yaş altındakiler için yasaklanacak ancak YouTube Kids bu yasağa dâhil edilmeyecek.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "YouTube will also be banned for under-16s, but YouTube Kids - a version of the video-sharing app designed to be safe for children - will not be included."
+        }
+      ]
+    },
+    {
+      "claim": "Birleşik Krallık'taki bu yasaktan önce benzer bir yasak geçen yıl Avustralya'da yürürlüğe konuldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "The UK's ban comes after a similar one was introduced in Australia last year."
+        }
+      ]
+    },
+    {
+      "claim": "İletişim düzenleyicisi Ofcom, geçen ay 16 yaş üstü kullanıcıların tespiti için önerilerini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "Last month, the communications regulator Ofcom set out its recommendations for the most effective ways to identify which of the UK's millions of social media users are aged over 16."
+        }
+      ]
+    },
+    {
+      "claim": "Vinted ve eBay, platform kullanıcılarının en az 18 yaşında olması gerektiğini belirtmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "Vinted also says its users need to be at least 18 years old."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "The platform states on its website that it currently requires all of its members to be over 18 years old because listings involve \"entering into a contract\".\nVinted also says its users need to be at least 18 years old."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Kültür Bakanı Lisa Nandy, çocukların güvenliğini sağlamak için 16 yaş altındakilerin Vinted ve eBay gibi perakende sitelerinden yasaklanmasını ciddi olarak değerlendirdiklerini belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "Lisa Nandy said the government was \"looking seriously\" at including the retailing websites in the social media ban \"in order to keep children safe\"."
+        }
+      ]
+    },
+    {
+      "claim": "Birleşik Krallık'ta 16 yaş altındakiler için sosyal medya yasağının gelecek yılın Mart ayında yürürlüğe girmesi planlanıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "The UK's social media ban for those under the age of 16 is set to come into force in March next year"
+        }
+      ]
+    },
+    {
+      "claim": "Vinted'ın Birleşik Krallık'ta 17 milyon kullanıcıya ulaştığı belirtildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "The site, which mostly sees users buy and sell unwanted clothes and other fashion items, has grown rapidly in recent times to reach 17 million UK users."
+        }
+      ]
+    },
+    {
+      "claim": "Birleşik Krallık hükümeti, 16 yaş altındakilerin sosyal medyaya erişimini yasaklayacağını bu yılın Haziran ayında duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "The government announced it would ban under-16s accessing social media in June this year"
+        }
+      ]
+    },
+    {
+      "claim": "YouTube 16 yaş altındakiler için yasaklanacak ancak YouTube Kids bu yasağa dâhil edilmeyecek.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "YouTube will also be banned for under-16s, but YouTube Kids - a version of the video-sharing app designed to be safe for children - will not be included."
+        }
+      ]
+    },
+    {
+      "claim": "Birleşik Krallık'taki bu yasaktan önce benzer bir yasak geçen yıl Avustralya'da yürürlüğe konuldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "The UK's ban comes after a similar one was introduced in Australia last year."
+        }
+      ]
+    },
+    {
+      "claim": "İletişim düzenleyicisi Ofcom, geçen ay 16 yaş üstü kullanıcıların tespiti için önerilerini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "Last month, the communications regulator Ofcom set out its recommendations for the most effective ways to identify which of the UK's millions of social media users are aged over 16."
+        }
+      ]
+    },
+    {
+      "claim": "Vinted ve eBay, platform kullanıcılarının en az 18 yaşında olması gerektiğini belirtmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "Vinted also says its users need to be at least 18 years old."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "The platform states on its website that it currently requires all of its members to be over 18 years old because listings involve \"entering into a contract\".\nVinted also says its users need to be at least 18 years old."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Kültür Bakanı Lisa Nandy, çocukların güvenliğini sağlamak için 16 yaş altındakilerin Vinted ve eBay gibi perakende sitelerinden yasaklanmasını ciddi olarak değerlendirdiklerini belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "Lisa Nandy said the government was \"looking seriously\" at including the retailing websites in the social media ban \"in order to keep children safe\"."
+        }
+      ]
+    },
+    {
+      "claim": "Birleşik Krallık'ta 16 yaş altındakiler için sosyal medya yasağının gelecek yılın Mart ayında yürürlüğe girmesi planlanıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "The UK's social media ban for those under the age of 16 is set to come into force in March next year"
+        }
+      ]
+    },
+    {
+      "claim": "Vinted'ın Birleşik Krallık'ta 17 milyon kullanıcıya ulaştığı belirtildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "The site, which mostly sees users buy and sell unwanted clothes and other fashion items, has grown rapidly in recent times to reach 17 million UK users."
+        }
+      ]
+    },
+    {
+      "claim": "Birleşik Krallık hükümeti, 16 yaş altındakilerin sosyal medyaya erişimini yasaklayacağını bu yılın Haziran ayında duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "The government announced it would ban under-16s accessing social media in June this year"
+        }
+      ]
+    },
+    {
+      "claim": "YouTube 16 yaş altındakiler için yasaklanacak ancak YouTube Kids bu yasağa dâhil edilmeyecek.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "YouTube will also be banned for under-16s, but YouTube Kids - a version of the video-sharing app designed to be safe for children - will not be included."
+        }
+      ]
+    },
+    {
+      "claim": "Birleşik Krallık'taki bu yasaktan önce benzer bir yasak geçen yıl Avustralya'da yürürlüğe konuldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "The UK's ban comes after a similar one was introduced in Australia last year."
+        }
+      ]
+    },
+    {
+      "claim": "İletişim düzenleyicisi Ofcom, geçen ay 16 yaş üstü kullanıcıların tespiti için önerilerini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "Last month, the communications regulator Ofcom set out its recommendations for the most effective ways to identify which of the UK's millions of social media users are aged over 16."
+        }
+      ]
+    },
+    {
+      "claim": "Vinted ve eBay, platform kullanıcılarının en az 18 yaşında olması gerektiğini belirtmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "Vinted also says its users need to be at least 18 years old."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "quote": "The platform states on its website that it currently requires all of its members to be over 18 years old because listings involve \"entering into a contract\".\nVinted also says its users need to be at least 18 years old."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss": 3030,
+    "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/": 7334
+  }
+}
