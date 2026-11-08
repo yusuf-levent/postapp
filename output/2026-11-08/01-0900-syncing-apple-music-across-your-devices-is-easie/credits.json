@@ -1,0 +1,27 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://www.engadget.com/img/gallery/syncing-apple-music-across-your-devices-is-easier-than-you-think/l-intro-1793849755.jpg",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-08/01-0900-syncing-apple-music-across-your-devices-is-easie/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+      "width": 1600,
+      "height": 899,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/19063479/pexels-photo-19063479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-08/01-0900-syncing-apple-music-across-your-devices-is-easie/images/img-2.png",
+      "license": "Pexels License — artawkrn",
+      "author": "artawkrn",
+      "credit_url": "https://www.pexels.com/photo/man-wearing-backpack-in-a-metro-station-19063479/",
+      "width": 1003,
+      "height": 1300,
+      "alt_text": "A man with headphones stands in a metro station as a train speeds by."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}

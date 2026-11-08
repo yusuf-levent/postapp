@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ REHBERİ",
+    "title": "Apple Music Arşivi Nasıl Eşitlenir?",
+    "highlight_words": [
+      "Apple Music",
+      "Eşitlenir"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Farklı cihazlarda müzik arşivinizi senkronize etmenin yolları.",
+    "source_tags": [
+      "ENGADGET",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Cihazlar Arası Kullanım",
+    "cards": [
+      {
+        "card_title": "Desteklenen Platformlar",
+        "card_body": "Apple Music, Android telefonlarda, Windows PC'lerde ve akıllı televizyonlarda kullanılabilmektedir."
+      },
+      {
+        "card_title": "Android'de Varsayılan",
+        "card_body": "Android telefonda Sync Library seçeneği varsayılan olarak etkin gelir."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "FARKLI",
+    "stat_caption": "Cihazlarda arşivi güncelleme yöntemleri değişiklik göstermektedir.",
+    "stat_quote": "Mac uygulamasında Dosya menüsünden Arşivi Güncelle seçilerek bulut arşivinin güncellenmesi zorlanabilir."
+  },
+  "details": {
+    "heading": "Eşitleme Yöntemleri",
+    "cards": [
+      {
+        "card_title": "iPhone ve iPad",
+        "card_body": "Ayarlar ve ardından Uygulamalar bölümünden Müzik seçilerek Arşivi Eşitle etkinleştirilebilir."
+      },
+      {
+        "card_title": "Mobil Uygulamalar",
+        "card_body": "Android ve iOS uygulamalarında arşivi güncellemeye zorlayan bir seçenek bulunmamaktadır."
+      },
+      {
+        "card_title": "Aboneliksiz Kullanım",
+        "card_body": "Apple Music aboneliği yoksa çevrimdışı arşiv için Müzik klasörünü manuel aktarmak gerekir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcı Deneyimi",
+    "cards": [
+      {
+        "card_title": "Çoklu Platform",
+        "card_body": "Farklı işletim sistemlerinde müzik kütüphanesine erişim sağlanır."
+      },
+      {
+        "card_title": "Manuel İşlemler",
+        "card_body": "Abonelik bulunmayan durumlarda manuel aktarım ihtiyacı doğar."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Apple Music arşivinizi farklı cihazlarda eşitlemekte sorun yaşıyor musunuz?",
+    "reminder_line": "Teknoloji dünyasındaki güncel rehberler için bizi takip etmeye devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
