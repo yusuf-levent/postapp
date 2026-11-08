@@ -1,69 +1,70 @@
 {
   "cover": {
-    "category_label": "YENİ TEKNOLOJİ",
-    "title": "Wandrd'den Manyetik Kamera Kayışı",
+    "category_label": "TEKNOLOJİ",
+    "title": "Wandrd Yeni Magnetic Camera Strap Sistemini Duyurdu",
     "highlight_words": [
-      "Manyetik",
-      "Kamera"
+      "Magnetic",
+      "Camera",
+      "Strap"
     ],
-    "highlight_color": "yellow",
-    "subtitle": "Fotoğrafçılık dünyası için geliştirilen yeni manyetik kayış sistemi duyuruldu.",
+    "highlight_color": "cyan",
+    "subtitle": "Fotoğrafçılık dünyası için geliştirilen yeni kayış sistemi Perşembe günü piyasaya sürüldü.",
     "source_tags": [
       "WIRED",
       "MIT TECHNOLOGY REVIEW"
     ]
   },
   "context": {
-    "heading": "Sistemin Öne Çıkan Özellikleri",
+    "heading": "Yeni Sistem Hakkında Bilinenler",
     "cards": [
       {
-        "card_title": "Piyasaya Çıkış",
-        "card_body": "Wandrd, yeni manyetik kamera kayışı sistemini Perşembe günü resmi olarak piyasaya sürdü."
+        "card_title": "Piyasaya Sürülme Tarihi",
+        "card_body": "Wandrd, yeni Magnetic Camera Strap sistemini Perşembe günü resmi olarak piyasaya sürdü."
       },
       {
         "card_title": "Kurucu Ortak",
-        "card_body": "Yenilikçi ürünün arkasındaki isim olan Wandrd kurucu ortağı Ryan Cope'tur."
+        "card_body": "Wandrd şirketinin kurucu ortağı Ryan Cope'dur."
       }
     ]
   },
   "stat": {
     "big_stat": "198 LB",
-    "stat_caption": "Torus Links dairesel ankrajların taşıma kapasitesi",
-    "stat_quote": "Dayanıklı dairesel ankrajlar 198 pound'a kadar taşıma kapasitesine sahiptir."
+    "stat_caption": "Torus Links adı verilen dairesel ankrajların taşıma kapasitesi.",
+    "stat_quote": "Wandrd'in Torus Links dairesel ankrajları 198 pound'a kadar taşıma kapasitesine sahiptir."
   },
   "details": {
     "heading": "Fiyatlandırma ve Seçenekler",
     "cards": [
       {
         "card_title": "Kayış Fiyatları",
-        "card_body": "Manyetik kamera kayışı kitinin 30 mm boyutu 69 dolardan, 15 mm Lite versiyonu ise 49 dolardan satışa sunulmaktadır."
+        "card_body": "Wandrd strap kiti 30-mm boyutu için 69 dolardan, 15-mm Lite versiyonu ise 49 dolardan satılmaktadır."
       },
       {
-        "card_title": "Bilek ve DIY Kiti",
-        "card_body": "Bilek kayışının fiyatı 39 dolardır. Ayrıca kullanıcıların mevcut kayışları için 29 dolara bir DIY kiti satılmaktadır."
+        "card_title": "Bilek Kayışı ve DIY Kiti",
+        "card_body": "Wandrd bilek kayışının fiyatı 39 dolardır. Magnetic CoreLock sistemini bağlayan DIY kiti 29 dolardır."
       },
       {
         "card_title": "Garanti Süresi",
-        "card_body": "Wandrd, kullanıcılarına bu yeni ürün için iki yıllık garanti sunmaktadır."
+        "card_body": "Wandrd, bu yeni ürün için kullanıcılara iki yıllık garanti sunmaktadır."
       }
     ]
   },
   "impact": {
-    "heading": "Kullanıcı ve Sektör Etkisi",
+    "heading": "Sektör ve Kullanıcı Etkisi",
     "cards": [
       {
-        "card_title": "Esnek Kullanım",
-        "card_body": "Kullanıcıların sistemi mevcut kayışlarında da kullanabilmesi için özel DIY kiti sunulmuştur."
+        "card_title": "Taşıma Güvenliği",
+        "card_body": "198 pound taşıma kapasitesine sahip dairesel ankrajlar kullanıcılara güvenli bir deneyim sunar."
       },
       {
-        "card_title": "Güvenilirlik",
-        "card_body": "İki yıllık garanti ve yüksek taşıma kapasitesi fotoğrafçılara güven vermektedir."
+        "card_title": "Esnek Kullanım",
+        "card_body": "Farklı boyut seçenekleri ve DIY kiti ile kullanıcılar sistemi kendi tercihlerine göre bağlayabilir."
       }
     ]
   },
   "cta": {
-    "question": "Kamera ekipmanlarınızda manyetik sistemleri güvenli buluyor musunuz?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın."
+    "question": "Yeni manyetik kamera kayışı sistemini ve fiyat seçeneklerini nasıl buldunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

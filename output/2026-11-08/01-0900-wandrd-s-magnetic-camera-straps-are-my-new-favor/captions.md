@@ -2,42 +2,60 @@
 
 ## INSTAGRAM
 
-Fotoğrafçılık dünyasını sallayacak yeni teknoloji duyuruldu! Wandrd, merakla beklenen yeni manyetik kamera kayışı sistemini resmi olarak piyasaya sürdü. Kurucu ortak Ryan Cope öncülüğünde geliştirilen bu yenilikçi sistem, 198 pound'a kadar taşıma kapasitesi sunan dayanıklı dairesel ankrajlarıyla dikkat çekiyor. 30 mm, 15 mm Lite ve bilek kayışı seçenekleriyle gelen sistem, iki yıllık garanti güvencesiyle fotoğrafçılara sunuluyor. Kayış fiyatları 39 dolardan başlarken, mevcut kayışlar için 29 dolarlık DIY kiti de unutulmamış. Kamera ekipmanlarınızda manyetik sistemleri güvenli buluyor musunuz? Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın. Kaynak: Wired, MIT Technology Review
+Fotoğrafçılık dünyasını sallayacak yeni teknoloji sonunda geldi! Wandrd, Perşembe günü yeni Magnetic Camera Strap sistemini piyasaya sürdü.
 
-#Wandrd #KameraKayisi #Fotografcilik #Teknoloji #YeniTeknoloji #TeknoPusula #KameraEkipmanlari #Wired #MITTechReview
+Dairesel ankrajları tam 198 pound taşıma kapasitesine sahip. Hem güvenli hem de esnek bir kullanım sunan bu sistem, farklı boyut ve fiyat seçenekleriyle fotoğrafçıların işini kolaylaştıracak.
+
+30-mm kit 69$, 15-mm Lite versiyonu 49$ ve bilek kayışı ise 39$ fiyat etiketiyle satışta. Üstelik iki yıllık garanti de sunuluyor.
+
+Yeni manyetik kamera kayışı sistemini ve fiyat seçeneklerini nasıl buldunuz? Kaynak: Wired, MIT Technology Review
+
+#Wandrd #KameraKayışı #Fotoğrafçılık #Teknoloji #MagneticStrap #KameraAksesuarı #TechNews #Photography #Gadgets
 
 ## TIKTOK
 
-Wandrd'den 198 pound taşıma kapasiteli yeni manyetik kamera kayışı çıktı! Fiyatlar 39 dolardan başlıyor. Güvenli buluyor musunuz? Kaynak: Wired, MIT Technology Review
+Wandrd'in yeni manyetik kamera kayışı sistemi 198 pound taşıma kapasitesiyle duyuruldu! Fiyatlar 29 dolardan başlıyor. Yeni sistemi nasıl buldunuz? Kaynak: Wired, MIT Technology Review
 
-#Wandrd #KameraKayisi #Teknoloji #Fotografcilik
+#Wandrd #Fotoğrafçılık #Teknoloji #Kamera #Tech
 
 ## X
 
-Wandrd, 198 lb taşıma kapasiteli yeni manyetik kamera kayışı sistemini duyurdu. Fiyatlar 39 dolardan başlıyor ve 2 yıl garanti sunuluyor. Sizce manyetik sistemler güvenli mi? Kaynak: Wired, MIT Technology Review
+Wandrd, 198 pound taşıma kapasiteli yeni Magnetic Camera Strap sistemini Perşembe günü duyurdu! Fiyatlar 49 dolardan başlıyor. Yeni kayış sistemini nasıl buldunuz? Kaynak: Wired, MIT Technology Review
 
 #Wandrd #Teknoloji
 
 ## THREADS
 
-Wandrd'den Manyetik Kamera Kayışı
+Wandrd Yeni Magnetic Camera Strap Sistemini Duyurdu
 
-Wandrd, 198 pound taşıma kapasitesine sahip yeni manyetik kamera kayışını duyurdu. İki yıl garantili sistemin fiyatları 39 dolardan başlıyor.
+Fotoğrafçılık dünyası için geliştirilen yeni manyetik kayış sistemi Perşembe günü piyasaya sürüldü. 198 pound taşıma kapasitesine sahip Torus Links ankrajlar güvenli bir deneyim sunuyor.
 
-Kamera ekipmanlarınızda manyetik sistemleri güvenli buluyor musunuz? 💭
+Yeni manyetik kamera kayışı sistemini ve fiyat seçeneklerini nasıl buldunuz? 💭
 
 Kaynak: Wired, MIT Technology Review
 
-#Teknoloji
+#Wandrd
 
 ## LINKEDIN
 
-Fotoğrafçılık ekipmanları pazarında yenilikçi bir adım atıldı. Wandrd, kurucu ortak Ryan Cope öncülüğünde geliştirilen yeni manyetik kamera kayışı sistemini resmi olarak duyurdu. 198 pound'a kadar taşıma kapasitesi sunan Torus Links dairesel ankrajlar ve iki yıllık garanti, sektöre güven veriyor. 39 dolardan başlayan farklı model seçeneklerinin yanı sıra, mevcut kayışlar için sunulan 29 dolarlık DIY kiti esneklik sağlıyor. Sektördeki bu tarz mekanik yenilikler hakkında ne düşünüyorsunuz? Kaynak: Wired, MIT Technology Review
+Fotoğrafçılık sektöründe ekipman güvenliği ve esnekliği artırmaya yönelik yeni bir adım atıldı. Wandrd, yeni Magnetic Camera Strap sistemini Perşembe günü resmi olarak piyasaya sürdü.
 
-#Fotografcilik #Teknoloji #Inovasyon #Donanim
+Torus Links adı verilen dairesel ankrajlar 198 pound'a kadar taşıma kapasitesi sunarken, sistem kullanıcılara 30-mm ve 15-mm Lite olmak üzere farklı boyut seçenekleri sağlıyor. 30-mm kit 69$, Lite versiyonu 49$, bilek kayışı ise 39$ fiyatla ve iki yıllık garantiyle satışa sunuldu.
+
+Sektördeki bu yeni donanım ve fiyatlandırma stratejilerini nasıl değerlendiriyorsunuz?
+
+Kaynak: Wired, MIT Technology Review
+
+#Teknoloji #Fotoğrafçılık #İnovasyon #Donanım #SektörelGelişmeler
 
 ## FACEBOOK
 
-Fotoğrafçılık dünyası için geliştirilen yeni manyetik kayış sistemi duyuruldu! Wandrd'in yeni manyetik kamera kayışı, 198 pound taşıma kapasitesi ve iki yıllık garanti süresiyle dikkat çekiyor. Farklı boyut seçenekleri ve mevcut kayışlar için DIY kiti de sunuluyor. Kamera ekipmanlarınızda manyetik sistemleri güvenli buluyor musunuz? Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın. Kaynak: Wired, MIT Technology Review
+Fotoğrafçılık tutkunları buraya! Wandrd, yeni Magnetic Camera Strap sistemini Perşembe günü piyasaya sürdü.
 
-#Wandrd #KameraKayisi #Fotografcilik #Teknoloji #TeknoPusula
+198 pound taşıma kapasitesine sahip dairesel ankrajları ile öne çıkan sistem; farklı boyut seçenekleri, bilek kayışı ve DIY kiti ile esnek bir kullanım sunuyor. Kit fiyatları 49 dolardan başlıyor ve iki yıl garanti veriliyor.
+
+Yeni manyetik kamera kayışı sistemini ve fiyat seçeneklerini nasıl buldunuz?
+
+Kaynak: Wired, MIT Technology Review
+
+#Wandrd #Teknoloji #Fotoğrafçılık #KameraAksesuarı
