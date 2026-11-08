@@ -7,12 +7,12 @@
     "OpenAI News",
     "MIT Technology Review"
   ],
-  "checked_at": "2026-11-08T16:42:37+03:00",
+  "checked_at": "2026-11-08T16:47:56+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Spotify, lossless indirmelerin saatte 1 GB'a kadar veri tüketebileceğini belirtmektedir.",
+      "claim": "Spotify'ın kayıpsız (lossless) indirme seçeneği, oynatma başına saatte 1 GB'a kadar veri tüketebilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "claim": "Spotify'da ses kalitesini kayıpsızdan 'Çok yüksek' (320 kbps) seviyesine düşürmek, veri tüketimini saatte 1 GB'tan 0,14 GB'a indirmektedir.",
+      "claim": "Spotify'da ses kalitesini kayıpsız seviyeden 'Çok yüksek' (320 kbps) seviyesine düşürmek, veri tüketimini saatte 1 GB'tan 0,14 GB'a indirmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "claim": "İndirilen içerikler, düzenli olarak tüketilen medya için genellikle daha verimli bir seçenektir.",
+      "claim": "İndirilen içerikler, düzenli olarak tüketilen medya için genellikle en verimli pil ve veri kullanım seçeneğidir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -42,17 +42,7 @@
       ]
     },
     {
-      "claim": "Video uygulamaları genellikle kaliteyi bit hızı yerine çözünürlük seçenekleri üzerinden yönetmektedir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/",
-          "quote": "Similar principles apply to video apps, although they tend to manage quality via resolution options instead of bitrate."
-        }
-      ]
-    },
-    {
-      "claim": "480p veya 720p çözünürlüğündeki bir video, 1080p çözünürlüğündeki bir videoya göre daha az veri tüketmektedir.",
+      "claim": "Video uygulamalarında 480p veya 720p çözünürlükteki videolar, 1080p çözünürlüğe kıyasla daha az veri tüketmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -62,7 +52,7 @@
       ]
     },
     {
-      "claim": "Bazı uygulamalarda ve cihazlarda 4K çözünürlüğünde indirme seçeneği bulunmayabilir.",
+      "claim": "Bazı cihazlarda veya uygulamalarda 4K video indirme seçeneği bulunmayabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -72,7 +62,7 @@
       ]
     },
     {
-      "claim": "Ses kalitesinin 160 kbps seviyesine düşürülmesi, ses netliğinde fark edilebilir bir azalmaya neden olmaktadır.",
+      "claim": "Ses kalitesini 160 kbps seviyesine düşürmek, ses netliğinde fark edilebilir bir azalmaya neden olmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -82,7 +72,7 @@
       ]
     },
     {
-      "claim": "Akış uygulamaları, kullanıcı bilerek kaydetmese bile arka planda temel düzeyde önbellekleme yapmaktadır.",
+      "claim": "Akış (streaming) uygulamaları, kullanıcı bilerek kaydetmese bile arka planda temel düzeyde önbellekleme (caching) yapmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -94,7 +84,7 @@
   ],
   "round1": [
     {
-      "claim": "Spotify, lossless indirmelerin saatte 1 GB'a kadar veri tüketebileceğini belirtmektedir.",
+      "claim": "Spotify'ın kayıpsız (lossless) indirme seçeneği, oynatma başına saatte 1 GB'a kadar veri tüketebilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -104,7 +94,7 @@
       ]
     },
     {
-      "claim": "Spotify'da ses kalitesini kayıpsızdan 'Çok yüksek' (320 kbps) seviyesine düşürmek, veri tüketimini saatte 1 GB'tan 0,14 GB'a indirmektedir.",
+      "claim": "Spotify'da ses kalitesini kayıpsız seviyeden 'Çok yüksek' (320 kbps) seviyesine düşürmek, veri tüketimini saatte 1 GB'tan 0,14 GB'a indirmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -114,7 +104,7 @@
       ]
     },
     {
-      "claim": "İndirilen içerikler, düzenli olarak tüketilen medya için genellikle daha verimli bir seçenektir.",
+      "claim": "İndirilen içerikler, düzenli olarak tüketilen medya için genellikle en verimli pil ve veri kullanım seçeneğidir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -124,17 +114,7 @@
       ]
     },
     {
-      "claim": "Video uygulamaları genellikle kaliteyi bit hızı yerine çözünürlük seçenekleri üzerinden yönetmektedir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/",
-          "quote": "Similar principles apply to video apps, although they tend to manage quality via resolution options instead of bitrate."
-        }
-      ]
-    },
-    {
-      "claim": "480p veya 720p çözünürlüğündeki bir video, 1080p çözünürlüğündeki bir videoya göre daha az veri tüketmektedir.",
+      "claim": "Video uygulamalarında 480p veya 720p çözünürlükteki videolar, 1080p çözünürlüğe kıyasla daha az veri tüketmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -144,7 +124,7 @@
       ]
     },
     {
-      "claim": "Bazı uygulamalarda ve cihazlarda 4K çözünürlüğünde indirme seçeneği bulunmayabilir.",
+      "claim": "Bazı cihazlarda veya uygulamalarda 4K video indirme seçeneği bulunmayabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -154,7 +134,7 @@
       ]
     },
     {
-      "claim": "Ses kalitesinin 160 kbps seviyesine düşürülmesi, ses netliğinde fark edilebilir bir azalmaya neden olmaktadır.",
+      "claim": "Ses kalitesini 160 kbps seviyesine düşürmek, ses netliğinde fark edilebilir bir azalmaya neden olmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -164,7 +144,7 @@
       ]
     },
     {
-      "claim": "Akış uygulamaları, kullanıcı bilerek kaydetmese bile arka planda temel düzeyde önbellekleme yapmaktadır.",
+      "claim": "Akış (streaming) uygulamaları, kullanıcı bilerek kaydetmese bile arka planda temel düzeyde önbellekleme (caching) yapmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -176,7 +156,7 @@
   ],
   "round2": [
     {
-      "claim": "Spotify, lossless indirmelerin saatte 1 GB'a kadar veri tüketebileceğini belirtmektedir.",
+      "claim": "Spotify'ın kayıpsız (lossless) indirme seçeneği, oynatma başına saatte 1 GB'a kadar veri tüketebilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -186,7 +166,7 @@
       ]
     },
     {
-      "claim": "Spotify'da ses kalitesini kayıpsızdan 'Çok yüksek' (320 kbps) seviyesine düşürmek, veri tüketimini saatte 1 GB'tan 0,14 GB'a indirmektedir.",
+      "claim": "Spotify'da ses kalitesini kayıpsız seviyeden 'Çok yüksek' (320 kbps) seviyesine düşürmek, veri tüketimini saatte 1 GB'tan 0,14 GB'a indirmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -196,7 +176,7 @@
       ]
     },
     {
-      "claim": "İndirilen içerikler, düzenli olarak tüketilen medya için genellikle daha verimli bir seçenektir.",
+      "claim": "İndirilen içerikler, düzenli olarak tüketilen medya için genellikle en verimli pil ve veri kullanım seçeneğidir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -206,17 +186,7 @@
       ]
     },
     {
-      "claim": "Video uygulamaları genellikle kaliteyi bit hızı yerine çözünürlük seçenekleri üzerinden yönetmektedir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/",
-          "quote": "Similar principles apply to video apps, although they tend to manage quality via resolution options instead of bitrate."
-        }
-      ]
-    },
-    {
-      "claim": "480p veya 720p çözünürlüğündeki bir video, 1080p çözünürlüğündeki bir videoya göre daha az veri tüketmektedir.",
+      "claim": "Video uygulamalarında 480p veya 720p çözünürlükteki videolar, 1080p çözünürlüğe kıyasla daha az veri tüketmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -226,7 +196,7 @@
       ]
     },
     {
-      "claim": "Bazı uygulamalarda ve cihazlarda 4K çözünürlüğünde indirme seçeneği bulunmayabilir.",
+      "claim": "Bazı cihazlarda veya uygulamalarda 4K video indirme seçeneği bulunmayabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -236,7 +206,7 @@
       ]
     },
     {
-      "claim": "Ses kalitesinin 160 kbps seviyesine düşürülmesi, ses netliğinde fark edilebilir bir azalmaya neden olmaktadır.",
+      "claim": "Ses kalitesini 160 kbps seviyesine düşürmek, ses netliğinde fark edilebilir bir azalmaya neden olmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -246,7 +216,7 @@
       ]
     },
     {
-      "claim": "Akış uygulamaları, kullanıcı bilerek kaydetmese bile arka planda temel düzeyde önbellekleme yapmaktadır.",
+      "claim": "Akış (streaming) uygulamaları, kullanıcı bilerek kaydetmese bile arka planda temel düzeyde önbellekleme (caching) yapmaktadır.",
       "verdict": "supported",
       "evidence": [
         {

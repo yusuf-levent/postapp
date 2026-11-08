@@ -3,56 +3,50 @@
 **Haber:** Streaming vs. downloading: Which uses more battery and data?
 **Canonical URL:** https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/
 **Kaynaklar:** Engadget, TechCrunch, OpenAI News, MIT Technology Review
-**Kontrol zamanı:** 2026-11-08T16:42:37+03:00
+**Kontrol zamanı:** 2026-11-08T16:47:56+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
 
 ## İddia Bazlı Sonuçlar
 
-### 1. Spotify, lossless indirmelerin saatte 1 GB'a kadar veri tüketebileceğini belirtmektedir.
+### 1. Spotify'ın kayıpsız (lossless) indirme seçeneği, oynatma başına saatte 1 GB'a kadar veri tüketebilmektedir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/](https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/)
     > In app settings, Spotify notes that its lossless downloads can consume up to 1 GB per hour of playback
 
-### 2. Spotify'da ses kalitesini kayıpsızdan 'Çok yüksek' (320 kbps) seviyesine düşürmek, veri tüketimini saatte 1 GB'tan 0,14 GB'a indirmektedir.
+### 2. Spotify'da ses kalitesini kayıpsız seviyeden 'Çok yüksek' (320 kbps) seviyesine düşürmek, veri tüketimini saatte 1 GB'tan 0,14 GB'a indirmektedir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/](https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/)
     > Returning to the Spotify example, even scaling back from lossless quality to "Very high" (320 kbps) drops data consumption from 1 GB per hour to just 0.14 GB, according to the music streaming site.
 
-### 3. İndirilen içerikler, düzenli olarak tüketilen medya için genellikle daha verimli bir seçenektir.
+### 3. İndirilen içerikler, düzenli olarak tüketilen medya için genellikle en verimli pil ve veri kullanım seçeneğidir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/](https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/)
     > For anything you enjoy on a regular basis, downloads win.
 
-### 4. Video uygulamaları genellikle kaliteyi bit hızı yerine çözünürlük seçenekleri üzerinden yönetmektedir.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/](https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/)
-    > Similar principles apply to video apps, although they tend to manage quality via resolution options instead of bitrate.
-
-### 5. 480p veya 720p çözünürlüğündeki bir video, 1080p çözünürlüğündeki bir videoya göre daha az veri tüketmektedir.
+### 4. Video uygulamalarında 480p veya 720p çözünürlükteki videolar, 1080p çözünürlüğe kıyasla daha az veri tüketmektedir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/](https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/)
     > All else being equal, a 480p or 720p version of a video has a far smaller footprint than 1080p.
 
-### 6. Bazı uygulamalarda ve cihazlarda 4K çözünürlüğünde indirme seçeneği bulunmayabilir.
+### 5. Bazı cihazlarda veya uygulamalarda 4K video indirme seçeneği bulunmayabilir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/](https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/)
     > Depending on your app and device, 4K downloads may not even be an option.
 
-### 7. Ses kalitesinin 160 kbps seviyesine düşürülmesi, ses netliğinde fark edilebilir bir azalmaya neden olmaktadır.
+### 6. Ses kalitesini 160 kbps seviyesine düşürmek, ses netliğinde fark edilebilir bir azalmaya neden olmaktadır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/](https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/)
     > While lossless and 320 kbps are virtually indistinguishable in audio, you'll notice a lack of clarity by the time you drop to 160 kbps.
 
-### 8. Akış uygulamaları, kullanıcı bilerek kaydetmese bile arka planda temel düzeyde önbellekleme yapmaktadır.
+### 7. Akış (streaming) uygulamaları, kullanıcı bilerek kaydetmese bile arka planda temel düzeyde önbellekleme (caching) yapmaktadır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/](https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/)
@@ -64,14 +58,13 @@
 
 | İddia | 1. Tur | 2. Tur | Nihai |
 |-------|--------|--------|-------|
-| Spotify, lossless indirmelerin saatte 1 GB'a kadar veri tüke | supported | supported | supported |
-| Spotify'da ses kalitesini kayıpsızdan 'Çok yüksek' (320 kbps | supported | supported | supported |
+| Spotify'ın kayıpsız (lossless) indirme seçeneği, oynatma baş | supported | supported | supported |
+| Spotify'da ses kalitesini kayıpsız seviyeden 'Çok yüksek' (3 | supported | supported | supported |
 | İndirilen içerikler, düzenli olarak tüketilen medya için gen | supported | supported | supported |
-| Video uygulamaları genellikle kaliteyi bit hızı yerine çözün | supported | supported | supported |
-| 480p veya 720p çözünürlüğündeki bir video, 1080p çözünürlüğü | supported | supported | supported |
-| Bazı uygulamalarda ve cihazlarda 4K çözünürlüğünde indirme s | supported | supported | supported |
-| Ses kalitesinin 160 kbps seviyesine düşürülmesi, ses netliği | supported | supported | supported |
-| Akış uygulamaları, kullanıcı bilerek kaydetmese bile arka pl | supported | supported | supported |
+| Video uygulamalarında 480p veya 720p çözünürlükteki videolar | supported | supported | supported |
+| Bazı cihazlarda veya uygulamalarda 4K video indirme seçeneği | supported | supported | supported |
+| Ses kalitesini 160 kbps seviyesine düşürmek, ses netliğinde  | supported | supported | supported |
+| Akış (streaming) uygulamaları, kullanıcı bilerek kaydetmese  | supported | supported | supported |
 
 ## Kaynak Metinleri
 
