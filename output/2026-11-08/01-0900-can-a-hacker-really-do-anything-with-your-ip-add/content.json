@@ -1,49 +1,50 @@
 {
   "cover": {
     "category_label": "GÜVENLİK VE AĞ TEKNOLOJİLERİ",
-    "title": "İnternet Bağlantınız Ne Kadar GÜVENLİ?",
+    "title": "İnternet Güvenliğinde Kritik Riskler: IP ve Ağ Açıkları",
     "highlight_words": [
-      "GÜVENLİ"
+      "IP",
+      "Ağ Açıkları"
     ],
     "highlight_color": "yellow",
-    "subtitle": "IP adresleri ve ağ protokolleri üzerinden gelen siber risklere yakından bakıyoruz.",
+    "subtitle": "Oyun dünyasından kurumsal yazılımlara kadar dijital güvenliğinizi tehdit eden gerçekler.",
     "source_tags": [
       "WIRED",
       "ARS TECHNICA"
     ]
   },
   "context": {
-    "heading": "Ağ Güvenliğinde Kritik Riskler",
+    "heading": "Dijital Güvenlik Neden Önemli?",
     "cards": [
       {
-        "card_title": "DDoS Saldırıları ve Oyunlar",
-        "card_body": "Crab Game gibi oyunlarda halka açık lobiler, oyuncuların IP adreslerini DDoS saldırılarına karşı savunmasız bırakabiliyor."
+        "card_title": "DDoS Saldırıları Nedir?",
+        "card_body": "DDoS saldırıları, bir hedefi birden fazla kaynaktan gelen trafikle boğarak oyun oturumlarını veya internet bağlantısını kesintiye uğratabilir."
       },
       {
-        "card_title": "IPv4 ve Port Yönlendirme",
-        "card_body": "IPv4 protokolü, port yönlendirme özelliği sayesinde cihazlardaki servisleri dışarıdan erişime açık hale getirebiliyor."
+        "card_title": "IP Adresi Riski",
+        "card_body": "Crab Game gibi oyunlarda halka açık lobiler, oyuncuların IP adreslerini DDoS saldırılarına karşı açık hale getirebilir."
       }
     ]
   },
   "stat": {
     "big_stat": "650 MİLYON",
-    "stat_caption": "2016 yılında MaxMind veritabanı hatası nedeniyle yanlış eşlenen IP adresi sayısı.",
-    "stat_quote": "MaxMind'ın veritabanı, 650 milyon ilgisiz IP adresini Kansas'taki bir çiftliğe eşlediği için şirket davalık oldu. - Wired"
+    "stat_caption": "2016 yılında MaxMind veritabanı hatası nedeniyle yanlışlıkla bir çiftliğe eşlenen IP adresi sayısı.",
+    "stat_quote": "Veri eşleme hataları, masum kullanıcıların dijital dünyada yanlış hedefler haline gelmesine neden olabiliyor."
   },
   "details": {
-    "heading": "Protokollerin Gizli Tehlikeleri",
+    "heading": "Teknik Güvenlik Notları",
     "cards": [
       {
-        "card_title": "IPv6 ve Uzaktan Erişim",
-        "card_body": "Bir OpenWrt kullanıcısı, IPv6'yı aktif ettiğinde dosya paylaşım portlarının ağ dışından erişilebilir olduğunu fark etti."
+        "card_title": "IPv6 ve Uzak Erişim",
+        "card_body": "OpenWrt üzerinde IPv6 etkinleştirildiğinde, ev sunucusundaki dosya paylaşım portları ağ dışından erişilebilir hale gelebilir."
       },
       {
-        "card_title": "Windows'ta Kritik Açık",
-        "card_body": "Ekim 2026'da Microsoft, .NET uygulamalarında kod yürütülmesine izin veren CVE-2026-105016 kodlu IPv6 açığını duyurdu."
+        "card_title": "Windows ve QUIC Açığı",
+        "card_body": "Ekim 2026'da Microsoft, Windows .NET uygulamalarında kod yürütülmesine izin verebilecek CVE-2026-105016 açığını duyurdu."
       },
       {
-        "card_title": "Sistem Uyumluluğu",
-        "card_body": "Microsoft, IPv6'nın tamamen kapatılmasının bazı Windows bileşenlerinde çalışma sorunlarına yol açabileceği konusunda uyarıyor."
+        "card_title": "IPv6 Kapatılmalı mı?",
+        "card_body": "Microsoft, IPv6'nın kapatılmasının bazı Windows bileşenlerinde sorunlara yol açabileceği konusunda uyarıyor."
       }
     ]
   },
@@ -51,18 +52,18 @@
     "heading": "Kullanıcı ve Sektör Etkisi",
     "cards": [
       {
-        "card_title": "Bağlantı Kesintileri",
-        "card_body": "DDoS saldırıları sadece oyun oturumlarını değil, video görüşmelerini ve tüm ev internet bağlantısını kesintiye uğratabilir."
+        "card_title": "Yayıncılar İçin Risk",
+        "card_body": "Kasım 2021'de xQc örneğinde olduğu gibi, oyun içi IP sızıntıları yayıncıların internet bağlantısını kaybetmesine yol açabiliyor."
       },
       {
-        "card_title": "Yayıncılar İçin Risk",
-        "card_body": "xQc gibi yayıncılar, oyun oynarken IP adreslerinin açığa çıkması sonucu internet bağlantılarını kaybetme riskiyle karşılaşıyor."
+        "card_title": "Kurumsal Güvenlik",
+        "card_body": "Yazılım geliştiriciler ve sistem yöneticileri, kritik güvenlik açıklarına karşı güncellemeleri yakından takip etmelidir."
       }
     ]
   },
   "cta": {
-    "question": "Sizce ağ güvenliğinizi sağlamak için protokolleri kısıtlamak mı, yoksa yazılım güncellemelerine güvenmek mi daha etkili?",
-    "reminder_line": "Tekno Pusula ile dijital dünyadaki riskleri takipte kalın."
+    "question": "Siz ev ağınızda IPv6 güvenliğini kontrol ettiniz mi?",
+    "reminder_line": "Tekno Pusula ile dijital dünyadaki güncel risklerden haberdar kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
