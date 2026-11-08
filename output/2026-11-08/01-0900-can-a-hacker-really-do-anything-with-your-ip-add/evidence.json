@@ -7,7 +7,7 @@
     "Wired",
     "Ars Technica"
   ],
-  "checked_at": "2026-11-08T16:52:54+03:00",
+  "checked_at": "2026-11-08T16:57:41+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "claim": "Crab Game'in geliştiricisi, oyunun oyuncuların IP adreslerini DDoS saldırılarına karşı açık hale getirebileceğini keşfettikten sonra yayıncıları halka açık lobilerden kaçınmaları konusunda uyardı.",
+      "claim": "Crab Game geliştiricisi, oyunun oyuncuların IP adreslerini DDoS saldırılarına açık hale getirebileceğini keşfettikten sonra yayıncıları halka açık lobilerden kaçınmaları konusunda uyardı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "claim": "2016 yılında Kansaslı bir aile, MaxMind'ın veritabanının yaklaşık 650 milyon ilgisiz IP adresini çiftliklerine hatalı bir şekilde eşlemesi nedeniyle şirkete dava açtı.",
+      "claim": "2016 yılında bir Kansaslı aile, MaxMind'ın veritabanının yaklaşık 650 milyon ilgisiz IP adresini çiftliklerine ataması ve kolluk kuvvetlerinin sürekli ziyaretine neden olması üzerine şirkete dava açtı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -42,42 +42,46 @@
       ]
     },
     {
-      "claim": "DDoS saldırıları, oyun oturumlarını, video görüşmelerini veya tüm bir ev internet bağlantısını kesintiye uğratabilir.",
+      "claim": "Bluesky, sunucu kesintileri için DDoS saldırılarını sorumlu tuttu.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
-          "quote": "A typical DDoS attack floods a target with traffic from multiple sources. It's the same kind of attack Bluesky blamed for its server outages, and on a smaller scale, it could interrupt gaming sessions, video calls, or even an entire household internet connection."
+          "quote": "It's the same kind of attack Bluesky blamed for its server outages"
         }
       ]
     },
     {
-      "claim": "Ekim 2026'da Microsoft, Windows üzerindeki .NET uygulamalarında kod yürütülmesine izin verebilecek CVE-2026-105016 kodlu kritik bir QUIC güvenlik açığını duyurdu.",
+      "claim": "IPv6, cihazlara kendi genel IP adreslerini verebilir.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "while IPv6 can give each device its own public-facing address."
+        }
+      ]
+    },
+    {
+      "claim": "Ekim 2026'da Microsoft, QUIC uygulamasındaki CVE-2026-105016 kodlu kritik bir güvenlik açığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "In October 2026, Microsoft disclosed CVE-2026-105016, a critical vulnerability in its QUIC implementation."
+        }
+      ]
+    },
+    {
+      "claim": "CVE-2026-105016 güvenlik açığı, özel olarak hazırlanmış IPv6 trafiğinin Windows üzerindeki .NET uygulamalarında kod yürütülmesine izin verebilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "It could allow specially crafted IPv6 traffic to execute code in affected .NET applications on Windows."
+        },
         {
           "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
           "quote": "In October 2026, Microsoft disclosed CVE-2026-105016, a critical vulnerability in its QUIC implementation. It could allow specially crafted IPv6 traffic to execute code in affected .NET applications on Windows."
-        }
-      ]
-    },
-    {
-      "claim": "IPv4 adresleri genellikle ev yönlendiricilerinde birden fazla cihaz tarafından paylaşılırken, IPv6 her cihaza kendi genel adresini verebilir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
-          "quote": "Now, most home routers let multiple devices share one public IPv4 address, while IPv6 can give each device its own public-facing address."
-        }
-      ]
-    },
-    {
-      "claim": "Bir IP adresi sorgusu, kullanıcının internet servis sağlayıcısını ve yaklaşık şehir veya bölge bilgisini ortaya çıkarabilir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
-          "quote": "An IP lookup is a quick way to reveal your internet service provider and approximate city or region."
         }
       ]
     },
@@ -104,7 +108,7 @@
       ]
     },
     {
-      "claim": "Crab Game'in geliştiricisi, oyunun oyuncuların IP adreslerini DDoS saldırılarına karşı açık hale getirebileceğini keşfettikten sonra yayıncıları halka açık lobilerden kaçınmaları konusunda uyardı.",
+      "claim": "Crab Game geliştiricisi, oyunun oyuncuların IP adreslerini DDoS saldırılarına açık hale getirebileceğini keşfettikten sonra yayıncıları halka açık lobilerden kaçınmaları konusunda uyardı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -114,7 +118,7 @@
       ]
     },
     {
-      "claim": "2016 yılında Kansaslı bir aile, MaxMind'ın veritabanının yaklaşık 650 milyon ilgisiz IP adresini çiftliklerine hatalı bir şekilde eşlemesi nedeniyle şirkete dava açtı.",
+      "claim": "2016 yılında bir Kansaslı aile, MaxMind'ın veritabanının yaklaşık 650 milyon ilgisiz IP adresini çiftliklerine ataması ve kolluk kuvvetlerinin sürekli ziyaretine neden olması üzerine şirkete dava açtı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -124,42 +128,46 @@
       ]
     },
     {
-      "claim": "DDoS saldırıları, oyun oturumlarını, video görüşmelerini veya tüm bir ev internet bağlantısını kesintiye uğratabilir.",
+      "claim": "Bluesky, sunucu kesintileri için DDoS saldırılarını sorumlu tuttu.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
-          "quote": "A typical DDoS attack floods a target with traffic from multiple sources. It's the same kind of attack Bluesky blamed for its server outages, and on a smaller scale, it could interrupt gaming sessions, video calls, or even an entire household internet connection."
+          "quote": "It's the same kind of attack Bluesky blamed for its server outages"
         }
       ]
     },
     {
-      "claim": "Ekim 2026'da Microsoft, Windows üzerindeki .NET uygulamalarında kod yürütülmesine izin verebilecek CVE-2026-105016 kodlu kritik bir QUIC güvenlik açığını duyurdu.",
+      "claim": "IPv6, cihazlara kendi genel IP adreslerini verebilir.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "while IPv6 can give each device its own public-facing address."
+        }
+      ]
+    },
+    {
+      "claim": "Ekim 2026'da Microsoft, QUIC uygulamasındaki CVE-2026-105016 kodlu kritik bir güvenlik açığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "In October 2026, Microsoft disclosed CVE-2026-105016, a critical vulnerability in its QUIC implementation."
+        }
+      ]
+    },
+    {
+      "claim": "CVE-2026-105016 güvenlik açığı, özel olarak hazırlanmış IPv6 trafiğinin Windows üzerindeki .NET uygulamalarında kod yürütülmesine izin verebilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "It could allow specially crafted IPv6 traffic to execute code in affected .NET applications on Windows."
+        },
         {
           "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
           "quote": "In October 2026, Microsoft disclosed CVE-2026-105016, a critical vulnerability in its QUIC implementation. It could allow specially crafted IPv6 traffic to execute code in affected .NET applications on Windows."
-        }
-      ]
-    },
-    {
-      "claim": "IPv4 adresleri genellikle ev yönlendiricilerinde birden fazla cihaz tarafından paylaşılırken, IPv6 her cihaza kendi genel adresini verebilir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
-          "quote": "Now, most home routers let multiple devices share one public IPv4 address, while IPv6 can give each device its own public-facing address."
-        }
-      ]
-    },
-    {
-      "claim": "Bir IP adresi sorgusu, kullanıcının internet servis sağlayıcısını ve yaklaşık şehir veya bölge bilgisini ortaya çıkarabilir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
-          "quote": "An IP lookup is a quick way to reveal your internet service provider and approximate city or region."
         }
       ]
     },
@@ -186,7 +194,7 @@
       ]
     },
     {
-      "claim": "Crab Game'in geliştiricisi, oyunun oyuncuların IP adreslerini DDoS saldırılarına karşı açık hale getirebileceğini keşfettikten sonra yayıncıları halka açık lobilerden kaçınmaları konusunda uyardı.",
+      "claim": "Crab Game geliştiricisi, oyunun oyuncuların IP adreslerini DDoS saldırılarına açık hale getirebileceğini keşfettikten sonra yayıncıları halka açık lobilerden kaçınmaları konusunda uyardı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -196,7 +204,7 @@
       ]
     },
     {
-      "claim": "2016 yılında Kansaslı bir aile, MaxMind'ın veritabanının yaklaşık 650 milyon ilgisiz IP adresini çiftliklerine hatalı bir şekilde eşlemesi nedeniyle şirkete dava açtı.",
+      "claim": "2016 yılında bir Kansaslı aile, MaxMind'ın veritabanının yaklaşık 650 milyon ilgisiz IP adresini çiftliklerine ataması ve kolluk kuvvetlerinin sürekli ziyaretine neden olması üzerine şirkete dava açtı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -206,42 +214,46 @@
       ]
     },
     {
-      "claim": "DDoS saldırıları, oyun oturumlarını, video görüşmelerini veya tüm bir ev internet bağlantısını kesintiye uğratabilir.",
+      "claim": "Bluesky, sunucu kesintileri için DDoS saldırılarını sorumlu tuttu.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
-          "quote": "A typical DDoS attack floods a target with traffic from multiple sources. It's the same kind of attack Bluesky blamed for its server outages, and on a smaller scale, it could interrupt gaming sessions, video calls, or even an entire household internet connection."
+          "quote": "It's the same kind of attack Bluesky blamed for its server outages"
         }
       ]
     },
     {
-      "claim": "Ekim 2026'da Microsoft, Windows üzerindeki .NET uygulamalarında kod yürütülmesine izin verebilecek CVE-2026-105016 kodlu kritik bir QUIC güvenlik açığını duyurdu.",
+      "claim": "IPv6, cihazlara kendi genel IP adreslerini verebilir.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "while IPv6 can give each device its own public-facing address."
+        }
+      ]
+    },
+    {
+      "claim": "Ekim 2026'da Microsoft, QUIC uygulamasındaki CVE-2026-105016 kodlu kritik bir güvenlik açığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "In October 2026, Microsoft disclosed CVE-2026-105016, a critical vulnerability in its QUIC implementation."
+        }
+      ]
+    },
+    {
+      "claim": "CVE-2026-105016 güvenlik açığı, özel olarak hazırlanmış IPv6 trafiğinin Windows üzerindeki .NET uygulamalarında kod yürütülmesine izin verebilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+          "quote": "It could allow specially crafted IPv6 traffic to execute code in affected .NET applications on Windows."
+        },
         {
           "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
           "quote": "In October 2026, Microsoft disclosed CVE-2026-105016, a critical vulnerability in its QUIC implementation. It could allow specially crafted IPv6 traffic to execute code in affected .NET applications on Windows."
-        }
-      ]
-    },
-    {
-      "claim": "IPv4 adresleri genellikle ev yönlendiricilerinde birden fazla cihaz tarafından paylaşılırken, IPv6 her cihaza kendi genel adresini verebilir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
-          "quote": "Now, most home routers let multiple devices share one public IPv4 address, while IPv6 can give each device its own public-facing address."
-        }
-      ]
-    },
-    {
-      "claim": "Bir IP adresi sorgusu, kullanıcının internet servis sağlayıcısını ve yaklaşık şehir veya bölge bilgisini ortaya çıkarabilir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
-          "quote": "An IP lookup is a quick way to reveal your internet service provider and approximate city or region."
         }
       ]
     },

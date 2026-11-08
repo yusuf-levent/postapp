@@ -1,69 +1,65 @@
 {
   "cover": {
-    "category_label": "GÜVENLİK VE AĞLAR",
-    "title": "IP Adresleri ve Görünmeyen Riskler",
+    "category_label": "GÜVENLİK VE AĞ TEKNOLOJİLERİ",
+    "title": "IPv6 ve Güvenlik: Kritik Açıklar ve Riskler",
     "highlight_words": [
-      "IP Adresleri",
-      "Riskler"
+      "IPv6",
+      "Güvenlik"
     ],
-    "highlight_color": "yellow",
-    "subtitle": "İnternet dünyasında dijital ayak iziniz ne kadar güvende?",
+    "highlight_color": "cyan",
+    "subtitle": "Modern ağ protokollerinin getirdiği avantajlar ve dikkat edilmesi gereken güvenlik riskleri.",
     "source_tags": [
       "WIRED",
       "ARS TECHNICA"
     ]
   },
   "context": {
-    "heading": "IP Adresi Hakkında Temel Bilgiler",
+    "heading": "Ağ Protokollerinde Güvenlik",
     "cards": [
       {
-        "card_title": "Konum ve Servis Sağlayıcı",
-        "card_body": "Bir IP adresi sorgusu, kullanıcının internet servis sağlayıcısını ve yaklaşık şehir veya bölge bilgisini ortaya çıkarabilir."
+        "card_title": "IPv6'nın Yapısı",
+        "card_body": "IPv6, cihazlara kendi genel IP adreslerini verebilme yeteneğine sahiptir. Bu özellik ağ yönetimini kolaylaştırsa da yeni riskleri beraberinde getirir."
       },
       {
-        "card_title": "IPv4 ve IPv6 Farkı",
-        "card_body": "IPv4 adresleri genellikle ev yönlendiricilerinde birden fazla cihaz tarafından paylaşılırken, IPv6 her cihaza kendi genel adresini verebilir."
+        "card_title": "Microsoft'tan Uyarı",
+        "card_body": "Microsoft, IPv6'nın tamamen kapatılmasının bazı Windows bileşenlerinde işlevsel sorunlara yol açabileceği konusunda kullanıcıları uyarıyor."
       }
     ]
   },
   "stat": {
     "big_stat": "650 MİLYON",
-    "stat_caption": "MaxMind veritabanındaki hatalı eşleme sonucu mağdur olan IP adresi sayısı.",
-    "stat_quote": "2016 yılında Kansaslı bir aile, MaxMind'ın veritabanının yaklaşık 650 milyon ilgisiz IP adresini çiftliklerine hatalı bir şekilde eşlemesi nedeniyle dava açtı."
+    "stat_caption": "MaxMind veritabanı hatası nedeniyle yanlış IP adreslemesi yapılan kayıt sayısı.",
+    "stat_quote": "2016 yılında bir Kansaslı aile, veritabanı hatası sonucu kolluk kuvvetlerinin sürekli ziyaretine maruz kalınca şirkete dava açtı. - Wired"
   },
   "details": {
-    "heading": "Dijital Güvenlik Tehditleri",
+    "heading": "Kritik Güvenlik Açıkları",
     "cards": [
       {
-        "card_title": "Oyun Dünyasında DDoS",
-        "card_body": "Kasım 2021'de yayıncı xQc, 'Crab Game' oynarken bağlantısını kaybetti. Geliştiriciler, halka açık lobilerin IP adreslerini DDoS saldırılarına açık hale getirdiğini belirtti."
+        "card_title": "CVE-2026-105016 Açığı",
+        "card_body": "Ekim 2026'da Microsoft, QUIC uygulamasında kritik bir güvenlik açığı duyurdu. Bu açık, Windows üzerindeki .NET uygulamalarını etkiliyor."
       },
       {
-        "card_title": "Kritik Güvenlik Açığı",
-        "card_body": "Ekim 2026'da Microsoft, Windows üzerindeki .NET uygulamalarında kod yürütülmesine izin verebilecek CVE-2026-105016 kodlu kritik bir QUIC açığını duyurdu."
-      },
-      {
-        "card_title": "IPv6 Uyarısı",
-        "card_body": "Microsoft, IPv6'nın kapatılmasının bazı Windows bileşenlerinde sorunlara yol açabileceğini belirtmektedir."
+        "card_title": "Kod Yürütme Riski",
+        "card_body": "CVE-2026-105016 koduyla tanımlanan bu açık, özel olarak hazırlanmış IPv6 trafiği aracılığıyla sistemde kod yürütülmesine izin verebilir."
       }
     ]
   },
   "impact": {
-    "heading": "Kullanıcıya Etkisi",
+    "heading": "Kullanıcı ve Sistem Etkisi",
     "cards": [
       {
-        "card_title": "Bağlantı Kesintileri",
-        "card_body": "DDoS saldırıları, oyun oturumlarını, video görüşmelerini veya tüm bir ev internet bağlantısını kesintiye uğratabilir."
+        "card_title": "Yayıncılar İçin DDoS Riski",
+        "card_body": "Crab Game geliştiricisi, oyunun oyuncuların IP adreslerini DDoS saldırılarına açık hale getirebileceğini belirterek halka açık lobilerden kaçınmayı önerdi."
       },
       {
-        "card_title": "Gizlilik Riski",
-        "card_body": "IP adresinizin ifşa olması, konumunuzun ve servis sağlayıcınızın başkaları tarafından öğrenilmesine neden olabilir."
+        "card_title": "Hizmet Kesintileri",
+        "card_body": "Bluesky gibi platformlar, yaşanan sunucu kesintilerinin temel sebebi olarak DDoS saldırılarını işaret etmektedir."
       }
     ]
   },
   "cta": {
-    "question": "İnternet bağlantınızın güvenliği için IP gizliliğine ne kadar dikkat ediyorsunuz?",
-    "reminder_line": "Tekno Pusula ile teknolojiyi doğru anlamaya devam edin."
+    "question": "Ağ güvenliğinizi sağlamak için protokol ayarlarınızı nasıl yönetiyorsunuz?",
+    "reminder_line": "Tekno Pusula ile güncel güvenlik gelişmelerini takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
