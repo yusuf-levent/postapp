@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "DİJİTAL VERİ YÖNETİMİ",
+    "title": "Veri Kullanımında Spotify Gerçekleri",
+    "highlight_words": [
+      "Spotify",
+      "Veri"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Yüksek ses kalitesi mi, veri tasarrufu mu? İşte bilmeniz gerekenler.",
+    "source_tags": [
+      "ENGADGET",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Ses Kalitesi ve Veri İlişkisi",
+    "cards": [
+      {
+        "card_title": "Kayıpsız Sesin Bedeli",
+        "card_body": "Spotify'ın kayıpsız indirme seçeneği, yüksek ses kalitesi sunsa da oynatma başına saatte 1 GB'a kadar veri tüketebiliyor."
+      },
+      {
+        "card_title": "Ayarları Optimize Edin",
+        "card_body": "Ses kalitesini 'Çok yüksek' yani 320 kbps seviyesine düşürdüğünüzde, veri tüketimi saatte 1 GB'tan 0,14 GB'a kadar inebiliyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "0,14 GB",
+    "stat_caption": "320 kbps kalitesinde saatlik veri tüketimi",
+    "stat_quote": "Ses kalitesini 160 kbps seviyesine düşürmek, 320 kbps seviyesine kıyasla belirgin bir netlik kaybına yol açar. - Engadget"
+  },
+  "details": {
+    "heading": "Veri Tasarrufu İpuçları",
+    "cards": [
+      {
+        "card_title": "İndirmenin Avantajı",
+        "card_body": "İçerikleri önceden indirmek, düzenli tüketilen medya için akışa kıyasla hem pil hem de veri kullanımı açısından daha verimlidir."
+      },
+      {
+        "card_title": "Video Tüketimi",
+        "card_body": "Video uygulamalarında 480p veya 720p çözünürlük, 1080p'ye göre çok daha az veri harcar. Ayrıca bazı cihazlarda 4K indirme seçeneği olmayabilir."
+      },
+      {
+        "card_title": "Arka Plan İşlemleri",
+        "card_body": "Akış uygulamaları, siz özellikle kaydetmeseniz bile arka planda temel düzeyde önbellekleme (caching) işlemi yapmaya devam eder."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcı ve Sektör Etkisi",
+    "cards": [
+      {
+        "card_title": "Kullanıcı Deneyimi",
+        "card_body": "Kullanıcılar, ses kalitesi ve veri tüketimi arasındaki dengeyi kurarak mobil veri paketlerini daha verimli yönetebilirler."
+      },
+      {
+        "card_title": "Sektörel Yaklaşım",
+        "card_body": "Platformlar, yüksek çözünürlüklü içerik sunarken kullanıcıların veri kotalarını göz önünde bulunduran seçenekler sunmaya devam ediyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce yüksek ses kalitesi mi, yoksa veri tasarrufu mu daha önemli?",
+    "reminder_line": "Tekno Pusula ile teknolojiyi verimli kullanın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
