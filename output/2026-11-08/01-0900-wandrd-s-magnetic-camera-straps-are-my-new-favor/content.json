@@ -1,69 +1,70 @@
 {
   "cover": {
-    "category_label": "TEKNOLOJİ DÜNYASI",
-    "title": "Wandrd'den Manyetik Kamera Askı Sistemi",
+    "category_label": "YENİ TEKNOLOJİ",
+    "title": "Wandrd'den Yeni Manyetik Kamera Kayışı",
     "highlight_words": [
       "Manyetik",
-      "Askı"
+      "Kamera",
+      "Kayışı"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Fotoğrafçılar için yeni nesil manyetik bağlantı çözümleri duyuruldu.",
+    "subtitle": "Fotoğrafçılar için geliştirilen yeni manyetik sistem perşembe günü satışa çıktı.",
     "source_tags": [
       "WIRED",
       "MIT TECHNOLOGY REVIEW"
     ]
   },
   "context": {
-    "heading": "Yeni Sistem Duyuruldu",
+    "heading": "Sistemin Öne Çıkan Özellikleri",
     "cards": [
       {
-        "card_title": "Pazara Giriş",
-        "card_body": "Wadndrd, Perşembe günü yeni Manyetik Kamera Askı sistemini duyurdu."
+        "card_title": "Piyasaya Çıkış Tarihi",
+        "card_body": "Wandrd, merakla beklenen yeni manyetik kamera kayışı sistemini perşembe günü resmen piyasaya sürdü."
       },
       {
-        "card_title": "Kurucu Bilgisi",
-        "card_body": "Ryan Cope, Wandrd şirketinin kurucu ortağıdır."
+        "card_title": "Taşıma Kapasitesi",
+        "card_body": "Torus Links adı verilen dairesel çapalar, inanılmaz bir şekilde 198 pound'a kadar ağırlık taşıyabiliyor."
       }
     ]
   },
   "stat": {
-    "big_stat": "198",
-    "stat_caption": "Pound ağırlığa kadar dayanıklı Torus Links bağlantı noktaları.",
-    "stat_quote": "Torus Links anchors are rated to carry up to 198 pounds."
+    "big_stat": "198 LB",
+    "stat_caption": "Torus Links dairesel çapalarının taşıyabildiği maksimum ağırlık kapasitesi.",
+    "stat_quote": "Wandrd tarafından geliştirilen sistem, yüksek taşıma kapasitesiyle dikkat çekiyor."
   },
   "details": {
-    "heading": "Ürün ve Fiyat Seçenekleri",
+    "heading": "Güvenlik ve Fiyat Detayları",
     "cards": [
       {
-        "card_title": "DIY Kiti",
-        "card_body": "Kendi askınızı dönüştürmeniz için 29 dolara DIY kiti sunuluyor."
+        "card_title": "Aşınma Göstergeleri",
+        "card_body": "Kordon aşınmaya başladığında siyah kumaşın altında sarı renk görünür. Kırmızıya döndüğünde ise kullanım derhal bırakılmalıdır."
       },
       {
-        "card_title": "Askı Modelleri",
-        "card_body": "30-mm set 69 dolar, 15-mm Lite set ise 49 dolardan satışta."
+        "card_title": "Fiyatlandırma",
+        "card_body": "30-mm boyutundaki set 69 dolar, 15-mm Lite versiyonu 49 dolar ve bilek kayışı ise 39 dolardan satılmaktadır."
       },
       {
-        "card_title": "Bilek Askısı",
-        "card_body": "Wandrd bilek askısı modeli 39 dolar fiyat etiketiyle alıcı bekliyor."
+        "card_title": "Garanti ve DIY Kiti",
+        "card_body": "Ürünler için iki yıllık garanti sunuluyor. Mevcut kayışlarını kullanmak isteyenler için ise 29 dolara DIY kiti satılıyor."
       }
     ]
   },
   "impact": {
-    "heading": "Kullanıcı ve Sektör Etkisi",
+    "heading": "Kullanıcıya ve Sektöre Etkisi",
     "cards": [
       {
-        "card_title": "Kullanıcı Esnekliği",
-        "card_body": "DIY kiti sayesinde dilediğiniz askıyı Magnetic CoreLock sistemiyle kullanabilirsiniz."
+        "card_title": "Kullanıcı Güvenliği",
+        "card_body": "Renk değiştiren aşınma göstergeleri sayesinde fotoğrafçılar ekipmanlarını güvenle kullanabilecek."
       },
       {
-        "card_title": "Ürün Güvencesi",
-        "card_body": "Wandrd, sunduğu tüm ürünler için iki yıllık garanti imkanı tanıyor."
+        "card_title": "Esnek Çözümler",
+        "card_body": "Mevcut kayışlar için sunulan DIY kiti seçeneği, kullanıcılara ekonomik bir adaptasyon imkanı tanıyor."
       }
     ]
   },
   "cta": {
-    "question": "Kamera askınızda manyetik kilit sistemlerini tercih eder misiniz?",
-    "reminder_line": "Teknoloji dünyasındaki yenilikler için Tekno Pusula'yı takipte kalın!"
+    "question": "Kamera kayışınızda manyetik sistemler kullanmayı tercih eder misiniz?",
+    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

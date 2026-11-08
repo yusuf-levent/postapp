@@ -2,40 +2,36 @@
 
 ## INSTAGRAM
 
-Fotoğrafçılar dikkat! Wandrd, 198 pound'a kadar dayanıklı yeni Manyetik Kamera Askı sistemini duyurdu. Kurucu ortak Ryan Cope öncülüğünde geliştirilen bu sistem, çekim sırasında büyük esneklik sağlıyor. DIY kiti 29$, askı modelleri ise 49$'dan başlayan fiyatlarla satışta. Üstelik tüm ürünler iki yıllık garantiyle geliyor. Kamera askınızda manyetik kilit sistemlerini tercih eder misiniz? Kaynak: Wired
+Fotoğrafçıların uzun süredir beklediği yenilik sonunda geldi! Wandrd, 198 pound taşıma kapasiteli yeni manyetik kamera kayışını perşembe günü satışa çıkardı. Aşınma göstergesi gibi güvenlik detaylarıyla dikkat çeken bu sistem hakkında ne düşünüyorsunuz? Kaynak: Wired, MIT Technology Review
 
-#Wandrd #Fotoğrafçılık #Teknoloji #Kamera #Gadget #Photography #TechNews #Innovation #CameraGear #TeknoPusula
+#Teknoloji #Kamera #Fotoğrafçılık #Wandrd #ManyetikSistem #Gadget #YeniÜrün #Technology #Camera #Photography
 
 ## TIKTOK
 
-Wandrd'den 198 pound taşıyabilen manyetik kamera askısı! Fiyatlar 29$'dan başlıyor. Kaynak: Wired
+Wandrd'in yeni manyetik kamera kayışı 198 pound taşıyor! Perşembe günü satışa çıkan bu sistemin aşınma göstergesi olduğunu biliyor muydunuz? Kaynak: Wired, MIT Technology Review
 
-#Wandrd #Kamera #Teknoloji #Fotoğrafçılık #Tech
+#Teknoloji #Kamera #Fotoğrafçılık #Wandrd
 
 ## X
 
-Wandrd, 198 pound taşıyabilen yeni Manyetik Kamera Askı sistemini duyurdu! DIY kiti 29$, setler ise 49$'dan başlıyor. Kamera askınızda manyetik sistem tercih eder misiniz? Kaynak: Wired
+Wandrd, 198 pound ağırlık taşıyabilen yeni manyetik kamera kayışı sistemini perşembe günü satışa çıkardı. Fiyatlar 39 dolardan başlıyor. Kaynak: Wired, MIT Technology Review
 
-#Wandrd #Teknoloji
+#Teknoloji #Kamera
 
 ## THREADS
 
-Wandrd'den Manyetik Kamera Askı Sistemi 💭
-
-Kurucu ortak Ryan Cope tarafından duyurulan yeni sistem, 198 pound'a kadar dayanıklı Torus Links bağlantı noktalarına sahip. 29$'dan başlayan fiyat seçenekleri de mevcut.
-
-Kamera askınızda manyetik kilit sistemlerini tercih eder misiniz? Kaynak: Wired
+Wandrd'den yeni manyetik kamera kayışı duyuruldu! 💭 Piyasaya perşembe günü çıkan bu sistem, 198 pound taşıma kapasitesi ve renk değiştiren aşınma göstergeleriyle öne çıkıyor. Kamera kayışınızda manyetik sistemler kullanır mısınız? Kaynak: Wired, MIT Technology Review
 
 #Teknoloji
 
 ## LINKEDIN
 
-Fotoğrafçılık ve taşınabilirlik teknolojilerinde yenilikler devam ediyor. Wandrd, kurucu ortağı Ryan Cope öcülüğünde yeni Manyetik Kamera Askı sistemini duyurdu. 198 pound ağırlığa kadar dayanıklı Torus Links bağlantı noktaları sunan sistem, DIY kiti ve çeşitli model seçenekleriyle kullanıcı esnekliğini artırıyor. Tüm ürünler iki yıllık garanti imkanıyla destekleniyor. Sektördeki bu yeni donanım çözümleri hakkında ne düşünüyorsunuz? Kaynak: Wired
+Teknoloji dünyasında yenilikler hız kesmiyor. Wandrd, fotoğrafçılık sektörüne yönelik geliştirdiği yeni manyetik kamera kayışı sistemini perşembe günü resmen piyasaya sürdü. 198 pound taşıma kapasitesi ve akıllı aşınma göstergeleriyle donatılan ürün, kullanıcı güvenliğini ön planda tutuyor. Sektördeki bu tarz inovatif çözümleri nasıl değerlendiriyorsunuz? Kaynak: Wired, MIT Technology Review
 
-#Teknoloji #İnovasyon #Fotoğrafçılık #Donanım #Girişim
+#Teknoloji #İnovasyon #Fotoğrafçılık #Girişim #Donanım
 
 ## FACEBOOK
 
-Fotoğrafçılar için heyecan verici yeni nesil manyetik bağlantı çözümleri duyuruldu! Wandrd'in yeni Manyetik Kamera Askı sistemi, 198 pound ağırlığa kadar dayanıklı Torus Links bağlantı noktalarıyla dikkat çekiyor. DIY kiti ve çeşitli askı modelleri uygun fiyatlarla satışa sunulurken, tüm ürünler iki yıllık garanti güvencesiyle geliyor. Kamera askınızda manyetik kilit sistemlerini tercih eder misiniz? Kaynak: Wired
+Fotoğrafçılar için geliştirilen yeni manyetik kamera kayışı sistemi perşembe günü satışa çıktı! Wandrd imzalı bu yeni ürün, 198 pound taşıma kapasitesi ve güvenlik detaylarıyla dikkat çekiyor. Siz kamera ekipmanlarınızda bu tarz yenilikçi sistemleri tercih eder misiniz? Kaynak: Wired, MIT Technology Review
 
-#Wandrd #Teknoloji #Fotoğrafçılık #KameraAskısı
+#Teknoloji #Kamera #Fotoğrafçılık #Wandrd
