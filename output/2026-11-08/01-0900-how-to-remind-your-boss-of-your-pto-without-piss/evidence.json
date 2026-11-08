@@ -6,12 +6,12 @@
     "Engadget",
     "IEEE Spectrum"
   ],
-  "checked_at": "2026-11-08T14:07:39+03:00",
+  "checked_at": "2026-11-08T14:13:12+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Izin taleplerinin 4 ila 6 ay onceden yapilabilecegi belirtilmistir.",
+      "claim": "Tatil taleplerinin önceden planlanması durumunda dört ila altı ay öncesinden istenebileceği belirtilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "claim": "Izin talebi icin 4 ila 6 haftanin genellikle uygun bir sure oldugu ifade edilmistir.",
+      "claim": "Netlik olmaması durumunda tatilden dört ila altı hafta öncesinin uygun bir zamanlama olabileceği ifade edilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -31,27 +31,35 @@
       ]
     },
     {
-      "claim": "Dugun veya iadesiz seyahat gibi durumlar icin 6 ay veya daha onceden basvurulabilecegi belirtilmistir.",
+      "claim": "Düğün veya iadesiz seyahat gibi masraflı durumlar için altı ay veya daha öncesinden talepte bulunmanın makul olduğu söylenmektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
-          "quote": "In those cases, six months or more is not unreasonable, but bring it up from time to time so no one forgets."
+          "quote": "Occasionally, you need approval well in advance for an event that cannot move and will cost you a lot of money to cancel, like your own wedding or a nonrefundable trip. In those cases, six months or more is not unreasonable"
+        },
+        {
+          "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
+          "quote": "Occasionally, you need approval well in advance for an event that cannot move and will cost you a lot of money to cancel, like your own wedding or a nonrefundable trip. In those cases, six months or more is not unreasonable, but bring it up from time to time so no one forgets."
         }
       ]
     },
     {
-      "claim": "Izin baslangicindan yaklasik iki hafta once yoneticiye ve meslektaslara toplantilarda sozlu hatirlatma yapilmasi tavsiye edilmistir.",
+      "claim": "Tatilden yaklaşık iki hafta önce yöneticiye ve iş arkadaşlarına toplantılarda sözlü olarak hatırlatma yapılması önerilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
           "quote": "About two weeks before your time off, remind your boss and colleagues verbally in meetings."
+        },
+        {
+          "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
+          "quote": "About two weeks before your time off, remind your boss and colleagues verbally in meetings. The ideal settings are in a weekly one-on-one meeting with your direct manager and in a team meeting."
         }
       ]
     },
     {
-      "claim": "Ekip disindaki kisilere veya musterilere izin planinin bir hafta once yazili olarak bildirilmesi gerektigi belirtilmistir.",
+      "claim": "Tatilden bir hafta önce kurum dışındaki kişi, müşteri veya diğer departmanlara yazılı olarak bilgi verilmesi tavsiye edilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -61,7 +69,7 @@
       ]
     },
     {
-      "claim": "Izin baslangicindan iki is gunu once ilgili herkese kisa ve net bir mesaj gonderilmesi gerektigi ifade edilmistir.",
+      "claim": "Tatilin başlamasından iki iş günü önce bilgilendirme mesajı gönderilmesi gerektiği belirtilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -71,9 +79,13 @@
       ]
     },
     {
-      "claim": "Izin baslangicinin Pazartesi olmasi durumunda, mesajin Persembe gunu gonderilmesi gerektigi belirtilmistir.",
+      "claim": "Pazartesi günü başlayacak tatiller için mesajın perşembe günü gönderilmesi gerektiği ifade edilmektedir.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
+          "quote": "Why send this message two business days out? Simple: If your first PTO day is Monday, you send this message on Thursday"
+        },
         {
           "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
           "quote": "Why send this message two business days out? Simple: If your first PTO day is Monday, you send this message on Thursday so that anybody who takes off or calls in sick on Friday still sees it in time."
@@ -81,7 +93,7 @@
       ]
     },
     {
-      "claim": "En unutkan yonetici ve is arkadaslari icin iznin ilk gunu saat 08:30da otomatik bir mesaj ayarlanabilecegi ifade edilmistir.",
+      "claim": "En unutkan yönetici ve iş arkadaşları için izindeki ilk gün saat 08:30'da otomatik bir mesaj ayarlanabileceği söylenmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -93,7 +105,7 @@
   ],
   "round1": [
     {
-      "claim": "Izin taleplerinin 4 ila 6 ay onceden yapilabilecegi belirtilmistir.",
+      "claim": "Tatil taleplerinin önceden planlanması durumunda dört ila altı ay öncesinden istenebileceği belirtilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -103,7 +115,7 @@
       ]
     },
     {
-      "claim": "Izin talebi icin 4 ila 6 haftanin genellikle uygun bir sure oldugu ifade edilmistir.",
+      "claim": "Netlik olmaması durumunda tatilden dört ila altı hafta öncesinin uygun bir zamanlama olabileceği ifade edilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -113,27 +125,35 @@
       ]
     },
     {
-      "claim": "Dugun veya iadesiz seyahat gibi durumlar icin 6 ay veya daha onceden basvurulabilecegi belirtilmistir.",
+      "claim": "Düğün veya iadesiz seyahat gibi masraflı durumlar için altı ay veya daha öncesinden talepte bulunmanın makul olduğu söylenmektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
-          "quote": "In those cases, six months or more is not unreasonable, but bring it up from time to time so no one forgets."
+          "quote": "Occasionally, you need approval well in advance for an event that cannot move and will cost you a lot of money to cancel, like your own wedding or a nonrefundable trip. In those cases, six months or more is not unreasonable"
+        },
+        {
+          "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
+          "quote": "Occasionally, you need approval well in advance for an event that cannot move and will cost you a lot of money to cancel, like your own wedding or a nonrefundable trip. In those cases, six months or more is not unreasonable, but bring it up from time to time so no one forgets."
         }
       ]
     },
     {
-      "claim": "Izin baslangicindan yaklasik iki hafta once yoneticiye ve meslektaslara toplantilarda sozlu hatirlatma yapilmasi tavsiye edilmistir.",
+      "claim": "Tatilden yaklaşık iki hafta önce yöneticiye ve iş arkadaşlarına toplantılarda sözlü olarak hatırlatma yapılması önerilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
           "quote": "About two weeks before your time off, remind your boss and colleagues verbally in meetings."
+        },
+        {
+          "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
+          "quote": "About two weeks before your time off, remind your boss and colleagues verbally in meetings. The ideal settings are in a weekly one-on-one meeting with your direct manager and in a team meeting."
         }
       ]
     },
     {
-      "claim": "Ekip disindaki kisilere veya musterilere izin planinin bir hafta once yazili olarak bildirilmesi gerektigi belirtilmistir.",
+      "claim": "Tatilden bir hafta önce kurum dışındaki kişi, müşteri veya diğer departmanlara yazılı olarak bilgi verilmesi tavsiye edilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -143,7 +163,7 @@
       ]
     },
     {
-      "claim": "Izin baslangicindan iki is gunu once ilgili herkese kisa ve net bir mesaj gonderilmesi gerektigi ifade edilmistir.",
+      "claim": "Tatilin başlamasından iki iş günü önce bilgilendirme mesajı gönderilmesi gerektiği belirtilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -153,9 +173,13 @@
       ]
     },
     {
-      "claim": "Izin baslangicinin Pazartesi olmasi durumunda, mesajin Persembe gunu gonderilmesi gerektigi belirtilmistir.",
+      "claim": "Pazartesi günü başlayacak tatiller için mesajın perşembe günü gönderilmesi gerektiği ifade edilmektedir.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
+          "quote": "Why send this message two business days out? Simple: If your first PTO day is Monday, you send this message on Thursday"
+        },
         {
           "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
           "quote": "Why send this message two business days out? Simple: If your first PTO day is Monday, you send this message on Thursday so that anybody who takes off or calls in sick on Friday still sees it in time."
@@ -163,7 +187,7 @@
       ]
     },
     {
-      "claim": "En unutkan yonetici ve is arkadaslari icin iznin ilk gunu saat 08:30da otomatik bir mesaj ayarlanabilecegi ifade edilmistir.",
+      "claim": "En unutkan yönetici ve iş arkadaşları için izindeki ilk gün saat 08:30'da otomatik bir mesaj ayarlanabileceği söylenmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -175,7 +199,7 @@
   ],
   "round2": [
     {
-      "claim": "Izin taleplerinin 4 ila 6 ay onceden yapilabilecegi belirtilmistir.",
+      "claim": "Tatil taleplerinin önceden planlanması durumunda dört ila altı ay öncesinden istenebileceği belirtilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -185,7 +209,7 @@
       ]
     },
     {
-      "claim": "Izin talebi icin 4 ila 6 haftanin genellikle uygun bir sure oldugu ifade edilmistir.",
+      "claim": "Netlik olmaması durumunda tatilden dört ila altı hafta öncesinin uygun bir zamanlama olabileceği ifade edilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -195,27 +219,35 @@
       ]
     },
     {
-      "claim": "Dugun veya iadesiz seyahat gibi durumlar icin 6 ay veya daha onceden basvurulabilecegi belirtilmistir.",
+      "claim": "Düğün veya iadesiz seyahat gibi masraflı durumlar için altı ay veya daha öncesinden talepte bulunmanın makul olduğu söylenmektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
-          "quote": "In those cases, six months or more is not unreasonable, but bring it up from time to time so no one forgets."
+          "quote": "Occasionally, you need approval well in advance for an event that cannot move and will cost you a lot of money to cancel, like your own wedding or a nonrefundable trip. In those cases, six months or more is not unreasonable"
+        },
+        {
+          "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
+          "quote": "Occasionally, you need approval well in advance for an event that cannot move and will cost you a lot of money to cancel, like your own wedding or a nonrefundable trip. In those cases, six months or more is not unreasonable, but bring it up from time to time so no one forgets."
         }
       ]
     },
     {
-      "claim": "Izin baslangicindan yaklasik iki hafta once yoneticiye ve meslektaslara toplantilarda sozlu hatirlatma yapilmasi tavsiye edilmistir.",
+      "claim": "Tatilden yaklaşık iki hafta önce yöneticiye ve iş arkadaşlarına toplantılarda sözlü olarak hatırlatma yapılması önerilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
           "quote": "About two weeks before your time off, remind your boss and colleagues verbally in meetings."
+        },
+        {
+          "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
+          "quote": "About two weeks before your time off, remind your boss and colleagues verbally in meetings. The ideal settings are in a weekly one-on-one meeting with your direct manager and in a team meeting."
         }
       ]
     },
     {
-      "claim": "Ekip disindaki kisilere veya musterilere izin planinin bir hafta once yazili olarak bildirilmesi gerektigi belirtilmistir.",
+      "claim": "Tatilden bir hafta önce kurum dışındaki kişi, müşteri veya diğer departmanlara yazılı olarak bilgi verilmesi tavsiye edilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -225,7 +257,7 @@
       ]
     },
     {
-      "claim": "Izin baslangicindan iki is gunu once ilgili herkese kisa ve net bir mesaj gonderilmesi gerektigi ifade edilmistir.",
+      "claim": "Tatilin başlamasından iki iş günü önce bilgilendirme mesajı gönderilmesi gerektiği belirtilmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -235,9 +267,13 @@
       ]
     },
     {
-      "claim": "Izin baslangicinin Pazartesi olmasi durumunda, mesajin Persembe gunu gonderilmesi gerektigi belirtilmistir.",
+      "claim": "Pazartesi günü başlayacak tatiller için mesajın perşembe günü gönderilmesi gerektiği ifade edilmektedir.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
+          "quote": "Why send this message two business days out? Simple: If your first PTO day is Monday, you send this message on Thursday"
+        },
         {
           "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
           "quote": "Why send this message two business days out? Simple: If your first PTO day is Monday, you send this message on Thursday so that anybody who takes off or calls in sick on Friday still sees it in time."
@@ -245,7 +281,7 @@
       ]
     },
     {
-      "claim": "En unutkan yonetici ve is arkadaslari icin iznin ilk gunu saat 08:30da otomatik bir mesaj ayarlanabilecegi ifade edilmistir.",
+      "claim": "En unutkan yönetici ve iş arkadaşları için izindeki ilk gün saat 08:30'da otomatik bir mesaj ayarlanabileceği söylenmektedir.",
       "verdict": "supported",
       "evidence": [
         {

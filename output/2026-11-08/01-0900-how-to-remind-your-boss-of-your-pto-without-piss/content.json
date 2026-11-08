@@ -1,68 +1,69 @@
 {
   "cover": {
-    "category_label": "İŞ HAYATI",
-    "title": "İzin Süreçleri İçin Doğru Zamanlama Rehberi",
+    "category_label": "TATİL PLANLAMASI",
+    "title": "Tatil Talepleri Nasıl Planlanmalı?",
     "highlight_words": [
-      "Zamanlama"
+      "Tatil",
+      "Planlanmalı"
     ],
-    "highlight_color": "yellow",
-    "subtitle": "İzin taleplerinden hatırlatmalara kadar bilinmesi gerekenler.",
+    "highlight_color": "cyan",
+    "subtitle": "Tatil talepleri ve bilgilendirme süreçleri için doğru zamanlama rehberi.",
     "source_tags": [
       "WIRED",
       "ENGADGET"
     ]
   },
   "context": {
-    "heading": "İzin Talebi Ne Zaman Yapılmalı?",
+    "heading": "Zamanlama Rehberi",
     "cards": [
       {
-        "card_title": "Genel Süreç",
-        "card_body": "İzin talepleri için 4 ila 6 haftanın genellikle uygun bir süre olduğu ifade edilmiştir."
+        "card_title": "Önceden Planlama",
+        "card_body": "Tatil taleplerinin önceden planlanması durumunda dört ila altı ay öncesinden istenebileceği belirtilmektedir."
       },
       {
-        "card_title": "Özel Durumlar",
-        "card_body": "Düğün veya iadesiz seyahat gibi durumlar için 6 ay veya daha önceden başvurulabileceği belirtilmiştir."
+        "card_title": "Net Olmayan Durumlar",
+        "card_body": "Netlik olmaması durumunda tatilden dört ila altı hafta öncesinin uygun bir zamanlama olabileceği ifade edilmektedir."
       }
     ]
   },
   "stat": {
-    "big_stat": "4-6 AY",
-    "stat_caption": "Önceden yapılabilecek izin talepleri için maksimum süre.",
-    "stat_quote": "İzin taleplerinin 4 ila 6 ay önceden yapılabileceği belirtilmiştir."
+    "big_stat": "6 AY",
+    "stat_caption": "Masraflı durumlar için en erken talep süresi",
+    "stat_quote": "Düğün veya iadesiz seyahat gibi masraflı durumlar için altı ay veya daha öncesinden talepte bulunmanın makul olduğu söylenmektedir."
   },
   "details": {
-    "heading": "İzin Öncesi Hatırlatma Adımları",
+    "heading": "Hatırlatma Adımları",
     "cards": [
       {
         "card_title": "İki Hafta Önce",
-        "card_body": "İzin başlangıcından yaklaşık iki hafta önce yöneticiye ve meslektaşlara toplantılarda sözlü hatırlatma yapılması tavsiye edilmiştir."
+        "card_body": "Tatilden yaklaşık iki hafta önce yöneticiye ve iş arkadaşlarına toplantılarda sözlü olarak hatırlatma yapılması önerilmektedir."
       },
       {
         "card_title": "Bir Hafta Önce",
-        "card_body": "Ekip dışındaki kişilere veya müşterilere izin planının bir hafta önce yazılı olarak bildirilmesi gerektiği belirtilmiştir."
+        "card_body": "Tatilden bir hafta önce kurum dışındaki kişi, müşteri veya diğer departmanlara yazılı olarak bilgi verilmesi tavsiye edilmektedir."
       },
       {
         "card_title": "İki İş Günü Önce",
-        "card_body": "İzin başlangıcından iki iş günü önce ilgili herkese kısa ve net bir mesaj gönderilmesi gerektiği ifade edilmiştir."
+        "card_body": "Tatilin başlamasından iki iş günü önce bilgilendirme mesajı gönderilmesi gerektiği belirtilmektedir."
       }
     ]
   },
   "impact": {
-    "heading": "İletişim ve Otomasyon",
+    "heading": "İletişim ve Süreçler",
     "cards": [
       {
-        "card_title": "Pazartesi Başlangıcı",
-        "card_body": "İzin başlangıcının Pazartesi olması durumunda, mesajın Perşembe günü gönderilmesi gerektiği belirtilmiştir."
+        "card_title": "Pazartesi Tatilleri",
+        "card_body": "Pazartesi günü başlayacak tatiller için mesajın perşembe günü gönderilmesi gerektiği ifade edilmektedir."
       },
       {
-        "card_title": "Otomatik Çözüm",
-        "card_body": "En unutkan yönetici ve iş arkadaşları için iznin ilk günü saat 08:30'da otomatik bir mesaj ayarlanabileceği ifade edilmiştir."
+        "card_title": "Otomatik Mesajlar",
+        "card_body": "En unutkan yönetici ve iş arkadaşları için izindeki ilk gün saat 08:30'da otomatik bir mesaj ayarlanabileceği söylenmektedir."
       }
     ]
   },
   "cta": {
-    "question": "Siz izin planlarınızı ne kadar süre önceden yapıyorsunuz?",
-    "reminder_line": "Tekno Pusula ile güncel kalmaya devam edin."
+    "question": "Tatillerinizi ne kadar süre öncesinden planlamayı tercih ediyorsunuz?",
+    "reminder_line": "Tekno Pusula ile güncel teknolojiler ve ipuçları cebinizde."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
