@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "APPLE GÜNCELLEMELERİ",
+    "title": "Yeni M6 çipli MacBook Pro duyuruldu",
+    "highlight_words": [
+      "M6",
+      "MacBook Pro"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Apple, 14 inç MacBook Pro modelini en son M6 çip ile yeniledi.",
+    "source_tags": [
+      "WIRED",
+      "ENGADGET"
+    ]
+  },
+  "context": {
+    "heading": "MacBook Dünyasında Son Durum",
+    "cards": [
+      {
+        "card_title": "M6 Çipli 14 İnç Model",
+        "card_body": "Apple, geçen ay 14 inç MacBook Pro modelini en son M6 çipi ile yeniledi."
+      },
+      {
+        "card_title": "Önceki Nesil M5",
+        "card_body": "Önceki nesil M5 modeli 2025 yılının sonlarında piyasaya çıkmıştı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "$200",
+    "stat_caption": "Önceki nesil M5 modelinde Amazon ve Walmart üzerinde sunulan indirim miktarı.",
+    "stat_quote": "M5 modeli şu anda Amazon ve Walmart'ta 200 dolar daha ucuz."
+  },
+  "details": {
+    "heading": "M6 Çipinin Yenilikleri",
+    "cards": [
+      {
+        "card_title": "İşlemci ve Grafik",
+        "card_body": "M6, önceki modele kıyasla iki ek CPU ve GPU çekirdeği ile geliyor."
+      },
+      {
+        "card_title": "Yapay Zeka ve Bağlantı",
+        "card_body": "Model, ikinci bir 16 çekirdekli Neural Engine, daha hızlı bellek bant genişliği ve Wi-Fi 7 içeriyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Fiyat ve Piyasaya Etkisi",
+    "cards": [
+      {
+        "card_title": "MacBook Air Fırsatı",
+        "card_body": "16 GB bellek ve 1 terabayt depolama alanına sahip 15 inç MacBook Air 1.549 dolar."
+      },
+      {
+        "card_title": "Haziran'dan Bu Yana En Düşük",
+        "card_body": "1.549 dolarlık fiyat, Apple'ın perakende satış fiyatından 150 dolar indirimli ve Haziran'dan beri en düşük seviyede."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce yeni M6 çipindeki performans artışı günlük işleriniz için yeterli mi?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmelerden haberdar olmak için takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
