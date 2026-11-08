@@ -1,70 +1,69 @@
 {
   "cover": {
-    "category_label": "TEKNOLOJİ",
-    "title": "Wandrd Yeni Manyetik Kamera Askısını Duyurdu",
+    "category_label": "TEKNOLOJİ DÜNYASI",
+    "title": "Wandrd'den Manyetik Kamera Askı Sistemi",
     "highlight_words": [
       "Manyetik",
-      "Kamera",
-      "Askısı"
+      "Askı"
     ],
-    "highlight_color": "yellow",
-    "subtitle": "Wandrd, manyetik bağlantı sistemine sahip yeni kamera askısı serisini tanıttı.",
+    "highlight_color": "cyan",
+    "subtitle": "Fotoğrafçılar için yeni nesil manyetik bağlantı çözümleri duyuruldu.",
     "source_tags": [
       "WIRED",
       "MIT TECHNOLOGY REVIEW"
     ]
   },
   "context": {
-    "heading": "Yeni Askı Sistemi",
+    "heading": "Yeni Sistem Duyuruldu",
     "cards": [
       {
-        "card_title": "Çıkış Tarihi",
-        "card_body": "Wandrd, yeni Manyetik Kamera Askısı sistemini Perşembe günü piyasaya sürdü."
+        "card_title": "Pazara Giriş",
+        "card_body": "Wadndrd, Perşembe günü yeni Manyetik Kamera Askı sistemini duyurdu."
       },
       {
-        "card_title": "Geliştirme Süreci",
-        "card_body": "Şirket, özel sıvı naylon tübüler dokumasını geliştirmek için iki yıl harcadı."
+        "card_title": "Kurucu Bilgisi",
+        "card_body": "Ryan Cope, Wandrd şirketinin kurucu ortağıdır."
       }
     ]
   },
   "stat": {
     "big_stat": "198",
-    "stat_caption": "Pound Taşıma Kapasitesi",
-    "stat_quote": "Wandrd'ın Torus Links bağlantı elemanları 198 pound'a kadar taşıma kapasitesine sahip."
+    "stat_caption": "Pound ağırlığa kadar dayanıklı Torus Links bağlantı noktaları.",
+    "stat_quote": "Torus Links anchors are rated to carry up to 198 pounds."
   },
   "details": {
-    "heading": "Fiyatlar ve Modeller",
+    "heading": "Ürün ve Fiyat Seçenekleri",
     "cards": [
       {
-        "card_title": "30-mm Model",
-        "card_body": "Kayış kiti 69 dolarlık fiyat etiketiyle 30-mm boyutunda sunuluyor."
+        "card_title": "DIY Kiti",
+        "card_body": "Kendi askınızı dönüştürmeniz için 29 dolara DIY kiti sunuluyor."
       },
       {
-        "card_title": "Lite ve El Askısı",
-        "card_body": "Kitin 49 dolarlık 15-mm Lite versiyonu ve 39 dolarlık el askısı seçeneği bulunuyor."
+        "card_title": "Askı Modelleri",
+        "card_body": "30-mm set 69 dolar, 15-mm Lite set ise 49 dolardan satışta."
       },
       {
-        "card_title": "Kendi Kendine Yap Kiti",
-        "card_body": "Manyetik CoreLock sistemini mevcut askınıza takmanızı sağlayan DIY kiti 29 dolara satılıyor."
+        "card_title": "Bilek Askısı",
+        "card_body": "Wandrd bilek askısı modeli 39 dolar fiyat etiketiyle alıcı bekliyor."
       }
     ]
   },
   "impact": {
-    "heading": "Kullanıcı ve Garanti",
+    "heading": "Kullanıcı ve Sektör Etkisi",
     "cards": [
       {
-        "card_title": "Garanti Desteği",
-        "card_body": "Wandrd, yeni geliştirdiği askı sistemi için kullanıcılara iki yıllık garanti sunuyor."
+        "card_title": "Kullanıcı Esnekliği",
+        "card_body": "DIY kiti sayesinde dilediğiniz askıyı Magnetic CoreLock sistemiyle kullanabilirsiniz."
       },
       {
-        "card_title": "Kullanıcı Esnekliği",
-        "card_body": "DIY kiti sayesinde fotoğrafçılar kendi favori askılarını bu sistemle kullanabiliyor."
+        "card_title": "Ürün Güvencesi",
+        "card_body": "Wandrd, sunduğu tüm ürünler için iki yıllık garanti imkanı tanıyor."
       }
     ]
   },
   "cta": {
-    "question": "Kamera askılarında manyetik kilit sistemlerini pratik buluyor musunuz?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+    "question": "Kamera askınızda manyetik kilit sistemlerini tercih eder misiniz?",
+    "reminder_line": "Teknoloji dünyasındaki yenilikler için Tekno Pusula'yı takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
