@@ -2,87 +2,36 @@
 
 ## INSTAGRAM
 
-Tatil planlamak stresli mi geliyor? Doğru zamanlama ile işleri kolaylaştırabilirsiniz! 🏖️
+Tatil planlamasını stressiz yönetmek artık çok kolay! İzin süreçlerinizi doğru zamanlamayla nasıl planlayacağınızı adım adım rehberimizde derledik. Uzun vadeli planlar için 4 ila 6 ay öncesi ideal bir zaman dilimiyken, yakın dönem planlarda bu süre 4 ila 6 haftaya kadar iniyor. Siz tatil planlarınızı ne kadar süre önceden yapıyorsunuz? Kaynak: Wired, Engadget
 
-Büyük planlar (düğün, iadesiz seyahat vb.) için 4-6 ay öncesinden talepte bulunmak en sağlıklısı. Eğer planlar net değilse, 4-6 hafta öncesi ideal bir aralık.
-
-İletişim sürecini yönetmek için:
-- 2 hafta önce: Sözlü hatırlatma yapın.
-- 1 hafta önce: Yazılı bilgilendirme geçin.
-- 2 iş günü önce: Son hatırlatmayı yapın.
-
-Unutmayın, pazartesi başlayacak tatiller için perşembe günü bilgilendirme yapmak hayat kurtarır. Otomatik mesajları da unutmayın!
-
-Siz tatillerinizi ne kadar süre öncesinden planlamayı tercih ediyorsunuz? Yorumlarda buluşalım.
-
-Kaynak: Wired, Engadget
-
-#TatilPlanı #İşHayatı #ZamanYönetimi #Kariyerİpuçları #Tatil #WorkLifeBalance #HolidayPlanning #Productivity #TeknoPusula #İşDünyası
+#tatil #tatilplanlamasi #teknorehber #izin #seyahat #planlama #wired #engadget #travel #vacation #planning
 
 ## TIKTOK
 
-Tatil izni isterken doğru zamanlama rehberi! ✈️
+Tatil planınızı ne zaman yapmalısınız? 4-6 ay önceden planlamanın sırları ve iş yerinde sorunsuz izin süreci rehberi! Kaynak: Wired
 
-Büyük planlar için 6 ay, genel tatiller için 4-6 hafta kuralını uygulayın. İki hafta önce sözlü, bir hafta önce yazılı hatırlatma yaparak işleri profesyonelce yönetin. Pazartesi tatilleri için perşembe günü haber vermeyi unutmayın! 
-
-Sizce en ideal tatil planlama süresi ne kadar? 
-
-Kaynak: Wired, Engadget
-
-#Tatil #İşHayatı #ZamanYönetimi #Kariyer #İpuçları
+#tatil #planlama #wired #traveltok
 
 ## X
 
-Tatil planlamada zamanlama rehberi: Büyük planlar için 4-6 ay, genel durumlar için 4-6 hafta öncesinden talepte bulunun. İzin öncesi 2 hafta, 1 hafta ve 2 gün kala hatırlatma adımlarını takip ederek süreci profesyonelce yönetin. Kaynak: Wired, Engadget
+Tatil planlamasını stressiz yönetmek için doğru zamanlama rehberi yayında! Uzun vadeli planlar için 4-6 ay, yakın dönem için 4-6 hafta önceden bildirim hayat kurtarıyor. Siz tatilleri ne zaman planlıyorsunuz? Kaynak: Wired, Engadget
 
-#TatilPlanı #Kariyer
+#tatil #rehber
 
 ## THREADS
 
-Tatil Planlama Rehberi 🏖️
+Tatil Planlaması İçin Doğru Zamanlama 🌴 İzin süreçlerini stressiz yönetmek için adım adım rehberimiz yayında. Uzun vadeli planlar için 4-6 ay, yakın dönem için 4-6 hafta önceden bildirim yapmak en doğrusu. Siz tatil planlarınızı ne kadar süre önceden yapıyorsunuz? 💭 Kaynak: Wired
 
-Büyük seyahatler için 4-6 ay, genel tatiller için 4-6 hafta öncesinden talepte bulunmak en doğrusu. İzin öncesi 2 hafta, 1 hafta ve 2 gün kala hatırlatma adımlarını takip ederek süreci profesyonelce yönetebilirsiniz.
-
-Siz tatillerinizi ne kadar süre öncesinden planlamayı tercih ediyorsunuz? 💭
-
-Kaynak: Wired, Engadget
-
-#Tatil
+#tatil
 
 ## LINKEDIN
 
-İş ve özel hayat dengesini korumak, doğru planlama ve iletişimden geçer. Tatil taleplerini yönetirken profesyonel bir yaklaşım, hem sizin hem de ekibinizin iş akışını korur.
+İş hayatında izin süreçlerini stressiz ve profesyonel bir şekilde yönetmek doğru zamanlamadan geçer. Tatil taleplerini uzun vadede 4 ila 6 ay, yakın dönemde ise 4 ila 6 hafta öncesinden planlamak hem çalışan hem de ekip için iş süreçlerini aksatmaz. İzin dönemi iletişiminde kısa, net mesajlar ve doğru tarih detayları paylaşmak iletişimin sürekliliğini sağlar. Bu rehber ile izin süreçlerinizi optimize edebilirsiniz. Kaynak: Wired, Engadget, IEEE Spectrum
 
-Stratejik planlama için:
-- Büyük ölçekli planlar (düğün, iadesiz seyahat vb.) için 4-6 ay öncesinden talepte bulunun.
-- Belirsiz durumlarda 4-6 hafta öncesi idealdir.
-
-İletişim takvimi:
-- 2 hafta önce: Sözlü hatırlatma.
-- 1 hafta önce: Yazılı bilgilendirme.
-- 2 iş günü önce: Son hatırlatma.
-
-Bu süreçleri yönetmek, iş yerindeki profesyonel imajınızı da güçlendirir. Siz tatil planlamalarınızda hangi yöntemleri kullanıyorsunuz?
-
-Kaynak: Wired, Engadget
-
-#İşHayatı #ZamanYönetimi #ProfesyonelGelişim #KariyerYönetimi #İletişim
+#isdunyasi #ik #yonetim #kariyer #planlama
 
 ## FACEBOOK
 
-Tatil planlamak stresli mi geliyor? Doğru zamanlama ile işleri kolaylaştırabilirsiniz! 🏖️
+Tatil planlamasını stressiz yönetmek isteyenler için adım adım rehberimiz yayında! İzin süreçlerinizi doğru zamanlamayla planlayarak iş ve tatil dengesini kolayca kurabilirsiniz. Uzun vadeli planlar için 4-6 ay, yakın dönem için 4-6 hafta kuralını unutmayın. Siz tatil planlarınızı ne kadar süre önceden yapıyorsunuz? Kaynak: Wired, Engadget
 
-Büyük planlar için 4-6 ay öncesinden talepte bulunmak en sağlıklısı. Eğer planlar net değilse, 4-6 hafta öncesi ideal bir aralık.
-
-İletişim sürecini yönetmek için:
-- 2 hafta önce: Sözlü hatırlatma yapın.
-- 1 hafta önce: Yazılı bilgilendirme geçin.
-- 2 iş günü önce: Son hatırlatmayı yapın.
-
-Unutmayın, pazartesi başlayacak tatiller için perşembe günü bilgilendirme yapmak hayat kurtarır. Otomatik mesajları da unutmayın!
-
-Siz tatillerinizi ne kadar süre öncesinden planlamayı tercih ediyorsunuz? Yorumlarda buluşalım.
-
-Kaynak: Wired, Engadget
-
-#TatilPlanı #İşHayatı #ZamanYönetimi #Kariyerİpuçları #Tatil
+#tatil #tatilplanlamasi #rehber #seyahat #wired
