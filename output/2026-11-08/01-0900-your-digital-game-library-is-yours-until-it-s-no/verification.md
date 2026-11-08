@@ -3,7 +3,7 @@
 **Haber:** Your digital game library is yours, until it's not
 **Canonical URL:** https://www.engadget.com/2307829/digital-game-library-ownership-uncertainty/
 **Kaynaklar:** Engadget, Ars Technica, Wired, TechCrunch
-**Kontrol zamanı:** 2026-11-08T17:52:58+03:00
+**Kontrol zamanı:** 2026-11-08T17:58:05+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
@@ -36,7 +36,7 @@
   - [https://www.engadget.com/2307829/digital-game-library-ownership-uncertainty/](https://www.engadget.com/2307829/digital-game-library-ownership-uncertainty/)
     > Sony will stop making disc-based PlayStation games starting in January 2028, after which new titles will be sold only in digital formats through the PlayStation Store and retailers.
 
-### 5. Grand Theft Auto VI'nın kutulu versiyonu, disk yerine indirme kodu içermektedir ve 19 Kasım'da piyasaya sürülmüştür.
+### 5. Rockstar'ın Grand Theft Auto VI oyununun kutulu versiyonu, disk yerine indirme kodu içermektedir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.engadget.com/2307829/digital-game-library-ownership-uncertainty/](https://www.engadget.com/2307829/digital-game-library-ownership-uncertainty/)
@@ -70,7 +70,7 @@
 | 2K, NBA 2K25 oyununu 30 Ekim 2026 tarihinde dijital mağazala | supported | supported | supported |
 | Ubisoft, The Crew oyununun sunucularını Mart 2024'te kapatmı | supported | supported | supported |
 | Sony, Ocak 2028'den itibaren disk tabanlı PlayStation oyunu  | supported | supported | supported |
-| Grand Theft Auto VI'nın kutulu versiyonu, disk yerine indirm | supported | supported | supported |
+| Rockstar'ın Grand Theft Auto VI oyununun kutulu versiyonu, d | supported | supported | supported |
 | Kaliforniya'nın AB 2426 yasası, Ocak 2025'te yürürlüğe girmi | supported | supported | supported |
 | Stop Killing Games kampanyası, Avrupa Komisyonu'na sunulmak  | supported | supported | supported |
 | Temsilci Ritchie Torres, satın alınan oyunların mülkiyetini  | supported | supported | supported |

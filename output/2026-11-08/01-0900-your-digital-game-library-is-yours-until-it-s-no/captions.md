@@ -2,66 +2,56 @@
 
 ## INSTAGRAM
 
-Dijital bir oyuna para ödediğinizde, o oyunun sonsuza kadar sizin olacağını mı düşünüyorsunuz? 🎮
+Satın aldığınız oyunlar gerçekten sizin mi? 🎮 Dijital oyun dünyasında mülkiyet krizi büyüyor. Ubisoft'un sunucu kapatmaları ve dijital mağazalardan silinen oyunlar, 'sahip olma' kavramını sorgulatıyor.
 
-Oyun dünyasında mülkiyet kavramı hızla değişiyor. Ubisoft'un The Crew sunucularını kapatması ve fiziksel disk üretiminin azalması, dijital kütüphanelerimizin aslında ne kadar 'bizim' olduğu sorusunu gündeme getiriyor.
+Stop Killing Games kampanyasına 1,29 milyon kişi imza atarak harekete geçti. Kaliforniya'daki yeni düzenlemeler ve fiziksel medyanın yerini alan kodlar, yeni bir dönemin habercisi.
 
-Stop Killing Games kampanyasına verilen 1,29 milyon imza, oyuncuların bu konuda ne kadar kararlı olduğunu gösteriyor. Artık sadece bir tüketici değil, dijital haklarını savunan bir kitle var.
+Sizce ödediğimiz ücret kalıcı mülkiyeti mi yoksa geçici kullanım hakkını mı temsil etmeli? Yorumlarda buluşalım.
 
-Kaliforniya'daki yeni yasalar ve yasal tasarılar, dijital mülkiyetin geleceğini şekillendirmeye başladı. Oyun arşivleme kültürü ise bu değişimle birlikte zorlu bir sınav veriyor.
+Tekno Pusula ile dijital haklarınızı takipte kalın.
 
-Sizce dijital oyunlar için 'satın alma' yerine 'kiralama' terimi mi kullanılmalı? Yorumlarda buluşalım.
-
-Kaynak: Engadget, Ars Technica, Wired, TechCrunch
-
-#dijitaloyun #oyunmülkiyeti #gaming #teknoloji #oyuncu #thecrew #stopkillinggames #dijitalhaklar #digitalownership #videogames #teknopusula
+#DijitalOyun #OyunDünyası #MülkiyetHakları #GamingNews #Teknoloji #StopKillingGames #DijitalHaklar #Gamer
 
 ## TIKTOK
 
-Dijital oyunlar gerçekten sizin mi? 🎮 Ubisoft sunucuları kapattı, fiziksel diskler tarihe karışıyor. 1,29 milyon oyuncu 'Stop Killing Games' diyerek ayağa kalktı. Dijital mülkiyetin geleceği tehlikede mi? Yasal düzenlemeler yeterli olacak mı? Detaylar Tekno Pusula'da! Kaynak: Engadget, Ars Technica, Wired, TechCrunch
+Satın aldığınız oyunlar elinizden alınabilir mi? 🕹️ Dijital oyun dünyasında mülkiyet krizi kapıda! Sunucu kapatmaları ve dijital mağazalardan silinen oyunlar artık bir gerçek. 1,29 milyon oyuncu 'Stop Killing Games' diyerek ayağa kalktı. Peki, ödediğimiz ücret kalıcı mülkiyet mi, yoksa sadece geçici bir kiralama mı? Düşüncelerinizi yazın!
 
-#oyun #gaming #dijitaloyun #teknoloji #oyuncu #teknopusula
+#OyunDünyası #Gaming #DijitalOyun #Teknoloji #Gamer
 
 ## X
 
-Dijital bir oyuna para ödediğinizde, o oyunun sonsuza kadar sizin olacağını mı sanıyorsunuz? Sunucu kapanmaları ve fiziksel medyanın sonu, dijital mülkiyet haklarını tartışmaya açtı. 1,29 milyon imza toplandı bile. Peki, haklarımız neler? Kaynak: Engadget, Ars Technica
+Satın aldığınız oyunlar gerçekten sizin mi? Dijital dünyada mülkiyet krizi büyüyor. Sunucu kapatmaları sonrası 1,29 milyon kişi hakları için imza attı. Sizce bu ücret kalıcı mülkiyet mi, geçici kullanım mı? Kaynak: Wired, Engadget
 
-#gaming #teknoloji
+#Gaming #DijitalOyun
 
 ## THREADS
 
-Dijital Oyun Mülkiyeti: Satın Aldıklarımız Bizim mi?
+Dijital Oyunlarda Mülkiyet Krizi 🎮
 
-Oyun dünyasında mülkiyet hakları ciddi bir krizle karşı karşıya. Sunucu kapanmaları ve fiziksel disklerin rafa kalkması, dijital kütüphanelerimizi savunmasız bırakıyor.
+Satın aldığımız oyunlar gerçekten bizim mi? Ubisoft ve 2K gibi devlerin hamleleri, dijital erişim kısıtlamalarını tartışmaya açtı. 1,29 milyon oyuncu, haklarını korumak için 'Stop Killing Games' kampanyasına destek verdi.
 
-Stop Killing Games kampanyasına 1,29 milyon imza atıldı. Oyuncular artık dijital içeriklerinin kalıcı olmasını talep ediyor. Sizce dijital oyunlarda mülkiyet hakkı nasıl korunmalı? 💭
+Sizce ödediğimiz ücret kalıcı mülkiyeti mi yoksa geçici kullanım hakkını mı temsil etmeli? 💭
 
-Kaynak: Engadget, Ars Technica, Wired, TechCrunch
-
-#teknoloji
+#DijitalOyun
 
 ## LINKEDIN
 
-Dijital oyun sektöründe 'mülkiyet' kavramı, son dönemde yaşanan gelişmelerle birlikte yeniden tanımlanıyor. Ubisoft'un sunucu kapatma kararları ve fiziksel medya üretiminin durdurulması, dijital içeriklerin sürdürülebilirliği konusunda ciddi soru işaretleri yaratıyor.
+Dijital oyun sektöründe 'mülkiyet' kavramı, sunucu kapatmaları ve mağaza kısıtlamalarıyla dönüşüyor. Kullanıcıların içeriklere erişiminin kısıtlanması, hukuki ve etik tartışmaları beraberinde getiriyor.
 
-Stop Killing Games kampanyasına verilen 1,29 milyon imza, kullanıcıların dijital mülkiyet hakları konusundaki hassasiyetini ve yasal düzenleme talebini net bir şekilde ortaya koyuyor. Kaliforniya'daki AB 2426 yasası ve Ritchie Torres'in yasal tasarıları, bu alanda atılan önemli adımlar olarak öne çıkıyor.
+1,29 milyon kişinin desteklediği 'Stop Killing Games' kampanyası, oyuncuların dijital mülkiyet hakları konusundaki kararlılığını gösteriyor. Kaliforniya'daki AB 2426 yasası gibi düzenlemeler, sektörün regülasyonlarla yeniden şekilleneceğini işaret ediyor.
 
-Sektörün dijitalleşme hızı, arşivleme kültürünü ve tüketici haklarını koruma noktasında yeni bir denge arayışına girmesini zorunlu kılıyor. Dijital mülkiyetin geleceği, sadece teknolojik değil, aynı zamanda hukuki bir tartışma konusu haline geldi.
+Fiziksel medyanın yerini indirme kodlarına bırakmasıyla, dijital ürünlerin mülkiyet hakları iş modellerini nasıl etkileyecek? Sektördeki bu değişim, kullanıcı güveni açısından kritik bir dönemeçte.
 
-Kaynak: Engadget, Ars Technica, Wired, TechCrunch
+Sizce dijital oyunlar için ödenen ücret, kalıcı mülkiyeti mi yoksa geçici kullanım hakkını mı temsil etmeli?
 
-#dijitaldönüşüm #oyunsektörü #teknoloji #dijitalhaklar #tüketicihakları
+#DijitalDönüşüm #OyunSektörü #TeknolojiHukuku #DijitalMülkiyet
 
 ## FACEBOOK
 
-Dijital bir oyuna para ödediğinizde, o oyunun sonsuza kadar sizin olacağını mı düşünüyorsunuz? Oyun dünyasında mülkiyet hakları hızla değişiyor.
+Satın aldığınız oyunlar gerçekten sizin mi? Dijital oyun dünyasında mülkiyet krizi büyüyor. Sunucu kapatmaları ve dijital mağazalardan kaldırılan oyunlar, 'sahip olma' kavramını yeniden sorgulatıyor.
 
-Ubisoft'un sunucuları kapatması ve fiziksel disk üretiminin azalması, dijital kütüphanelerimizin geleceğini sorgulatıyor. 1,29 milyon oyuncu, 'Stop Killing Games' kampanyasıyla dijital hakları için sesini yükseltti.
+1,29 milyon kişi 'Stop Killing Games' kampanyasına destek vererek oyuncuların haklarını korumak için harekete geçti. Yeni yasal düzenlemeler ve fiziksel medyanın yerini alan indirme kodları, oyun dünyasında yeni bir dönemin habercisi.
 
-Kaliforniya'daki yeni yasal düzenlemeler ve gündemdeki tasarılar, dijital mülkiyetin korunması için atılan önemli adımlar. Oyun arşivleme kültürü bu değişimle birlikte zorlu bir süreçten geçiyor.
+Sizce dijital oyunlar için ödediğimiz ücret, oyunun kalıcı mülkiyetini mi yoksa sadece geçici bir kullanım hakkını mı temsil etmeli? Yorumlarda buluşalım.
 
-Sizce dijital oyunlar için 'satın alma' yerine 'kiralama' terimi mi kullanılmalı? Yorumlarda buluşalım.
-
-Kaynak: Engadget, Ars Technica, Wired, TechCrunch
-
-#dijitaloyun #oyunmülkiyeti #gaming #teknoloji #teknopusula
+#DijitalOyun #OyunDünyası #MülkiyetHakları #Teknoloji

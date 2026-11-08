@@ -2,9 +2,9 @@
   "slot": "09:00",
   "type": "news",
   "model": "gemini-3.1-flash-lite",
-  "duration_seconds": 105.7,
+  "duration_seconds": 131.1,
   "candidates_tried": 1,
-  "gemini_calls": 13,
+  "gemini_calls": 15,
   "canonical_url": "https://www.engadget.com/2307829/digital-game-library-ownership-uncertainty/",
-  "generated_at": "2026-11-08T17:53:42+03:00"
+  "generated_at": "2026-11-08T17:59:02+03:00"
 }

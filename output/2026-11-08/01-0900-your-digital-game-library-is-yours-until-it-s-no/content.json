@@ -1,46 +1,50 @@
 {
   "cover": {
-    "category_label": "DİJİTAL OYUN MÜLKİYETİ",
-    "title": "Dijital Oyunların Geleceği: Satın Aldıklarımız Bizim mi?",
+    "category_label": "DİJİTAL OYUN DÜNYASI",
+    "title": "Dijital Oyunlarda Mülkiyet Krizi",
     "highlight_words": [
       "Mülkiyet",
-      "Geleceği"
+      "Krizi"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Oyun dünyasında mülkiyet hakları ve sunucu kapanmaları üzerine yaşanan son gelişmeler.",
+    "subtitle": "Satın aldığımız oyunlar gerçekten bizim mi? Sektördeki değişimler ve yasal adımlar.",
     "source_tags": [
-      "ENGADGET",
-      "ARS TECHNICA"
+      "WIRED",
+      "ENGADGET"
     ]
   },
   "context": {
-    "heading": "Oyun Dünyasında Neler Değişiyor?",
+    "heading": "Oyun Sektöründe Neler Değişiyor?",
     "cards": [
       {
-        "card_title": "Sunucu Kapanmaları",
-        "card_body": "Ubisoft, The Crew oyununun sunucularını Mart 2024'te kapattı. 2K ise NBA 2K25'i 30 Ekim 2026'da mağazalardan kaldırdı."
+        "card_title": "Sunucu Kapatmaları",
+        "card_body": "Ubisoft, The Crew oyununun sunucularını Mart 2024'te kapatarak erişimi kısıtladı."
       },
       {
-        "card_title": "Fiziksel Medya Dönüşümü",
-        "card_body": "Sony, Ocak 2028'den itibaren disk tabanlı oyun üretimini durduracağını açıkladı. GTA VI kutuları artık disk içermiyor."
+        "card_title": "Dijital Mağaza Kaldırmaları",
+        "card_body": "2K, NBA 2K25 oyununu 30 Ekim 2026 tarihinde dijital mağazalardan kaldırdı."
       }
     ]
   },
   "stat": {
     "big_stat": "1,29 MİLYON",
-    "stat_caption": "Stop Killing Games kampanyasına verilen geçerli imza sayısı.",
-    "stat_quote": "Avrupa Komisyonu'na sunulan bu imza sayısı, oyuncuların dijital mülkiyet hakları konusundaki kararlılığını gösteriyor."
+    "stat_caption": "Stop Killing Games kampanyasına destek veren geçerli imza sayısı.",
+    "stat_quote": "Avrupa Komisyonu'na sunulmak üzere toplanan bu imzalar, oyuncuların mülkiyet hakları konusundaki kararlılığını gösteriyor."
   },
   "details": {
-    "heading": "Yasal Düzenlemeler ve Adımlar",
+    "heading": "Yasal Düzenlemeler ve Yeni Dönem",
     "cards": [
       {
         "card_title": "Kaliforniya AB 2426",
-        "card_body": "Ocak 2025'te yürürlüğe giren bu yasa, dijital ürünlerin mülkiyeti konusunda önemli bir yasal çerçeve oluşturuyor."
+        "card_body": "Ocak 2025'te yürürlüğe giren bu yasa, dijital ürünlerin mülkiyeti konusunda yeni bir dönemi başlattı."
       },
       {
-        "card_title": "Ritchie Torres'in Tasarısı",
-        "card_body": "Temsilci Ritchie Torres, Ekim ayında satın alınan oyunların mülkiyetini korumayı amaçlayan bir yasa tasarısı duyurdu."
+        "card_title": "Fiziksel Medyanın Sonu",
+        "card_body": "Sony, Ocak 2028'den itibaren disk tabanlı PlayStation oyunu üretimini durduracağını açıkladı."
+      },
+      {
+        "card_title": "Kutulu Oyunların Geleceği",
+        "card_body": "Rockstar'ın Grand Theft Auto VI oyununun kutulu versiyonu, disk yerine indirme kodu içeriyor."
       }
     ]
   },
@@ -48,18 +52,18 @@
     "heading": "Sektör ve Kullanıcı Etkisi",
     "cards": [
       {
-        "card_title": "Sektörel Değişim",
-        "card_body": "Fiziksel disk üretiminin durdurulması ve dijital mağazalardan oyunların kaldırılması, oyun arşivleme kültürünü zorluyor."
+        "card_title": "Siyasi Adımlar",
+        "card_body": "Temsilci Ritchie Torres, satın alınan oyunların mülkiyetini korumayı amaçlayan bir yasa tasarısı sunacağını duyurdu."
       },
       {
-        "card_title": "Kullanıcı Hakları",
-        "card_body": "Oyuncular, satın aldıkları dijital içeriklerin kalıcı olması için yasal düzenlemeler ve kampanyalarla hak arıyor."
+        "card_title": "Kullanıcı Deneyimi",
+        "card_body": "Eylül 2024'te 99,99 dolar fiyatla çıkan NBA 2K25 All-Star Edition gibi yapımlar, dijital erişim kısıtlamalarıyla karşı karşıya."
       }
     ]
   },
   "cta": {
-    "question": "Dijital bir oyuna para ödediğinizde, o oyunun sonsuza kadar sizin olacağını mı düşünüyorsunuz?",
-    "reminder_line": "Tekno Pusula ile teknolojinin nabzını tutmaya devam edin."
+    "question": "Sizce dijital oyunlar için ödediğimiz ücret, oyunun kalıcı mülkiyetini mi yoksa sadece geçici bir kullanım hakkını mı temsil etmeli?",
+    "reminder_line": "Tekno Pusula ile dijital haklarınızı takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
