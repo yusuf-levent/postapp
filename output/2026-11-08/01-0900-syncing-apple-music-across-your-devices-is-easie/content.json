@@ -1,64 +1,68 @@
 {
   "cover": {
-    "category_label": "TEKNOLOJI REHBERI",
-    "title": "Apple Music Kütüphanesini Senkronize Etmek Çok Kolay",
+    "category_label": "MÜZİK TEKNOLOJİLERİ",
+    "title": "Apple Music'te Kütüphane Senkronizasyonu",
     "highlight_words": [
-      "Senkronize"
+      "Senkronizasyonu"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Farklı platformlarda müzik kütüphanenizi nasıl güncel tutarsınız?",
+    "subtitle": "Farklı cihazlarda müzik deneyiminizi nasıl yönetirsiniz?",
     "source_tags": [
       "ENGADGET",
       "WIRED"
     ]
   },
   "context": {
-    "heading": "Farklı Platformlarda Apple Music",
+    "heading": "Apple Music Her Yerde",
     "cards": [
       {
-        "card_title": "Çoklu Platform Desteği",
-        "card_body": "Apple Music, Android telefonlar, Windows PC'ler ve akıllı televizyonlar gibi farklı platformlarda kullanılabilir."
+        "card_title": "Geniş Platform Desteği",
+        "card_body": "Apple Music sadece Apple cihazlarında değil; Android telefonlar, Windows bilgisayarlar ve akıllı televizyonlarda da kullanılabiliyor."
       },
       {
-        "card_title": "Android Deneyimi",
-        "card_body": "Apple Music uygulamasında Sync Library özelligi Android telefonlarda varsayılan olarak etkindir."
+        "card_title": "Hesap Kontrolü",
+        "card_body": "Hesap bilgilerinizi kontrol etmek için uygulamayı açıp Ana Sayfa sekmesindeki profil resminize dokunmanız yeterli."
       }
     ]
   },
   "stat": {
-    "big_stat": "FARKLI",
-    "stat_caption": "Cihazlar Arası Müzik Deneyimi",
-    "stat_quote": "Apple Music kütüphanenizi farklı platformlarda kolayca yönetebilirsiniz."
+    "big_stat": "OTOMATİK",
+    "stat_caption": "Android cihazlarda senkronizasyon varsayılan olarak açıktır.",
+    "stat_quote": "Android kullanıcıları için Sync Library seçeneği uygulama tarafından otomatik olarak yönetilir. - TechCrunch"
   },
   "details": {
-    "heading": "Kütüphane Güncelleme Yöntemleri",
+    "heading": "Senkronizasyonu Yönetin",
     "cards": [
       {
-        "card_title": "Mac ve iOS Ayarları",
-        "card_body": "Mac'te Music uygulamasının ayarları altındaki General sekmesinden veya iPhone/iPad'de ayarlardan Sync Library etkinleştirilebilir."
+        "card_title": "iPhone ve iPad",
+        "card_body": "Ayarlar > Uygulamalar > Müzik yolunu izleyerek Kütüphaneyi Eşzamanla (Sync Library) özelliğini aktif edebilirsiniz."
       },
       {
-        "card_title": "Manuel Aktarım",
-        "card_body": "Üye değilseniz ve çevrimdışı kütüphaneniz varsa, Music klasörünü Apple iTunes veya Apple Devices aracılığıyla manuel aktarabilirsiniz."
+        "card_title": "Mac Bilgisayarlar",
+        "card_body": "Müzik uygulamasında Ayarlar menüsüne giderek Genel sekmesi altından senkronizasyon ayarlarını bulabilirsiniz."
+      },
+      {
+        "card_title": "Manuel Güncelleme",
+        "card_body": "Mac ve Windows uygulamalarında 'Bulut Kütüphanesini Güncelle' seçeneği ile verilerinizi manuel olarak eşitleyebilirsiniz."
       }
     ]
   },
   "impact": {
-    "heading": "Kullanıcılar İçin Kolaylıklar",
+    "heading": "Kullanıcı Deneyimi",
     "cards": [
       {
-        "card_title": "Cihaz Uyumu",
-        "card_body": "Farklı işletim sistemlerinde müzik kütüphanesine kesintisiz erişim sağlanır."
+        "card_title": "Kısıtlamalar",
+        "card_body": "iOS ve Android uygulamalarında 'Bulut Kütüphanesini Güncelle' seçeneği bulunmaz, bu özellik masaüstü sürümlerine özeldir."
       },
       {
-        "card_title": "Esnek Yönetim",
-        "card_body": "Bulut kütüphanesini güncellemek veya manuel aktarmak oldukça pratiktir."
+        "card_title": "Ses Kalitesi",
+        "card_body": "Kullanıcılar, Apple Music ayarları üzerinden ses kalitesi seçeneklerini değiştirerek kayıpsız (lossless) ses deneyimini aktif edebilir."
       }
     ]
   },
   "cta": {
-    "question": "Siz Apple Music kütüphanenizi hangi cihazda senkronize ediyorsunuz?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın."
+    "question": "Apple Music'i en çok hangi cihazınızda kullanmayı tercih ediyorsunuz?",
+    "reminder_line": "Tekno Pusula ile teknolojiyi yakından takip edin."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
