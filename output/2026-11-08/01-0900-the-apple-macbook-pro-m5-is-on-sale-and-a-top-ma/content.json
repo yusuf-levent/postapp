@@ -1,65 +1,65 @@
 {
   "cover": {
-    "category_label": "APPLE GÜNCELLEMELERİ",
-    "title": "Yeni M6 çipli MacBook Pro duyuruldu",
+    "category_label": "TEKNOLOJİ DÜNYASI",
+    "title": "Yeni M6 MacBook Pro ve Fırsatlar",
     "highlight_words": [
       "M6",
       "MacBook Pro"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Apple, 14 inç MacBook Pro modelini en son M6 çip ile yeniledi.",
+    "subtitle": "Apple'ın en güncel M6 çipli MacBook Pro modeli ve fiyat detayları.",
     "source_tags": [
       "WIRED",
       "ENGADGET"
     ]
   },
   "context": {
-    "heading": "MacBook Dünyasında Son Durum",
+    "heading": "Apple'ın Yeni Modelleri",
     "cards": [
       {
-        "card_title": "M6 Çipli 14 İnç Model",
-        "card_body": "Apple, geçen ay 14 inç MacBook Pro modelini en son M6 çipi ile yeniledi."
+        "card_title": "M6 MacBook Pro",
+        "card_body": "Apple, 14 inç MacBook Pro modelini geçen ay en son M6 çipi ile yeniledi."
       },
       {
         "card_title": "Önceki Nesil M5",
-        "card_body": "Önceki nesil M5 modeli 2025 yılının sonlarında piyasaya çıkmıştı."
+        "card_body": "Bir önceki nesil M5 modeli 2025 yılının sonlarında piyasaya çıkmıştı."
       }
     ]
   },
   "stat": {
     "big_stat": "$200",
-    "stat_caption": "Önceki nesil M5 modelinde Amazon ve Walmart üzerinde sunulan indirim miktarı.",
-    "stat_quote": "M5 modeli şu anda Amazon ve Walmart'ta 200 dolar daha ucuz."
+    "stat_caption": "M5 modelinin M6 modeline kıyasla Amazon ve Walmart'taki indirim farkı",
+    "stat_quote": "M5 modeli, M6 modeline kıyasla Amazon ve Walmart'ta şu an 200 dolar daha ucuz."
   },
   "details": {
     "heading": "M6 Çipinin Yenilikleri",
     "cards": [
       {
-        "card_title": "İşlemci ve Grafik",
-        "card_body": "M6, önceki modele kıyasla iki ek CPU ve GPU çekirdeği ile geliyor."
+        "card_title": "Daha Fazla Çekirdek",
+        "card_body": "M6 çipi iki ek CPU ve GPU çekirdeği ile birlikte geliyor."
       },
       {
-        "card_title": "Yapay Zeka ve Bağlantı",
-        "card_body": "Model, ikinci bir 16 çekirdekli Neural Engine, daha hızlı bellek bant genişliği ve Wi-Fi 7 içeriyor."
+        "card_title": "Neural Engine ve Wi-Fi",
+        "card_body": "M6, ikinci bir 16 çekirdekli Neural Engine, daha hızlı bellek bant genişliği ve Wi-Fi 7 kablosuz bağlantı desteği sunuyor."
       }
     ]
   },
   "impact": {
-    "heading": "Fiyat ve Piyasaya Etkisi",
+    "heading": "Fiyat ve Performans",
     "cards": [
       {
         "card_title": "MacBook Air Fırsatı",
-        "card_body": "16 GB bellek ve 1 terabayt depolama alanına sahip 15 inç MacBook Air 1.549 dolar."
+        "card_body": "16 GB bellek ve bir terabayt depolamaya sahip 15 inç MacBook Air, Apple'ın perakende fiyatından 150 dolar indirimle 1.549 dolara satılıyor."
       },
       {
-        "card_title": "Haziran'dan Bu Yana En Düşük",
-        "card_body": "1.549 dolarlık fiyat, Apple'ın perakende satış fiyatından 150 dolar indirimli ve Haziran'dan beri en düşük seviyede."
+        "card_title": "Kullanıcı Tercihi",
+        "card_body": "M5 ve M6 modelleri arasındaki fiyat farkı ve teknik özellikler kullanıcılara alternatif sunuyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce yeni M6 çipindeki performans artışı günlük işleriniz için yeterli mi?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmelerden haberdar olmak için takipte kalın!"
+    "question": "Sizce yeni M6 çipli MacBook Pro'daki yenilikler fiyat farkına değer mi?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

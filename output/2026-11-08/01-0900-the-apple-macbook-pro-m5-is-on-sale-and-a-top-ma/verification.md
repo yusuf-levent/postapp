@@ -3,7 +3,7 @@
 **Haber:** The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now
 **Canonical URL:** https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/
 **Kaynaklar:** Wired, Engadget, TechCrunch, Ars Technica
-**Kontrol zamanı:** 2026-11-08T13:14:08+03:00
+**Kontrol zamanı:** 2026-11-08T13:28:57+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
@@ -22,19 +22,19 @@
   - [https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/](https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/)
     > It's identical to the previous-gen M5 model, which came out in late 2025.
 
-### 3. The M5 model is currently available for $200 less on Amazon and Walmart.
+### 3. The M5 model is currently available for $200 less on Amazon and Walmart compared to the M6 model.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/](https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/)
     > Despite having the exact same laptop specs (save for the chip difference), you can currently get the M5 for $200 less on Amazon and Walmart.
 
-### 4. The M6 comes with two additional CPU and GPU cores compared to the previous model.
+### 4. The M6 chip comes with two additional CPU and GPU cores.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/](https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/)
     > The M6 comes with two additional CPU and GPU cores, which is the origin of most of its gains.
 
-### 5. The M6 model features a second 16-core Neural Engine and faster memory bandwidth.
+### 5. The M6 features a second 16-core Neural Engine and faster memory bandwidth.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/](https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/)
@@ -46,13 +46,7 @@
   - [https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/](https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/)
     > The only other real difference is in wireless connectivity, where you get the bump to Wi-Fi 7 with the M6 model.
 
-### 7. The 15-inch MacBook Air model with 16 GB of memory and a terabyte of storage is priced at $1,549.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/](https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/)
-    > The model with 16 GB of memory and a terabyte of storage is at its lowest price since June: $1,549.
-
-### 8. The $1,549 price for the 15-inch MacBook Air is $150 off Apple's retail price and its lowest price since June.
+### 7. The 15-inch MacBook Air model with 16 GB of memory and a terabyte of storage is priced at $1,549, which is $150 off Apple's retail price.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/](https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/)
@@ -67,11 +61,10 @@
 | Apple refreshed the 14-inch MacBook Pro with the latest M6 c | supported | supported | supported |
 | The previous-gen M5 model came out in late 2025. | supported | supported | supported |
 | The M5 model is currently available for $200 less on Amazon  | supported | supported | supported |
-| The M6 comes with two additional CPU and GPU cores compared  | supported | supported | supported |
-| The M6 model features a second 16-core Neural Engine and fas | supported | supported | supported |
+| The M6 chip comes with two additional CPU and GPU cores. | supported | supported | supported |
+| The M6 features a second 16-core Neural Engine and faster me | supported | supported | supported |
 | The M6 model includes an upgrade to Wi-Fi 7 wireless connect | supported | supported | supported |
 | The 15-inch MacBook Air model with 16 GB of memory and a ter | supported | supported | supported |
-| The $1,549 price for the 15-inch MacBook Air is $150 off App | supported | supported | supported |
 
 ## Kaynak Metinleri
 

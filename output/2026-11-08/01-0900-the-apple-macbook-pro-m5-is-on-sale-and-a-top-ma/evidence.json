@@ -7,7 +7,7 @@
     "TechCrunch",
     "Ars Technica"
   ],
-  "checked_at": "2026-11-08T13:14:08+03:00",
+  "checked_at": "2026-11-08T13:28:57+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "claim": "The M5 model is currently available for $200 less on Amazon and Walmart.",
+      "claim": "The M5 model is currently available for $200 less on Amazon and Walmart compared to the M6 model.",
       "verdict": "supported",
       "evidence": [
         {
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "claim": "The M6 comes with two additional CPU and GPU cores compared to the previous model.",
+      "claim": "The M6 chip comes with two additional CPU and GPU cores.",
       "verdict": "supported",
       "evidence": [
         {
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "claim": "The M6 model features a second 16-core Neural Engine and faster memory bandwidth.",
+      "claim": "The M6 features a second 16-core Neural Engine and faster memory bandwidth.",
       "verdict": "supported",
       "evidence": [
         {
@@ -72,17 +72,7 @@
       ]
     },
     {
-      "claim": "The 15-inch MacBook Air model with 16 GB of memory and a terabyte of storage is priced at $1,549.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
-          "quote": "The model with 16 GB of memory and a terabyte of storage is at its lowest price since June: $1,549."
-        }
-      ]
-    },
-    {
-      "claim": "The $1,549 price for the 15-inch MacBook Air is $150 off Apple's retail price and its lowest price since June.",
+      "claim": "The 15-inch MacBook Air model with 16 GB of memory and a terabyte of storage is priced at $1,549, which is $150 off Apple's retail price.",
       "verdict": "supported",
       "evidence": [
         {
@@ -114,7 +104,7 @@
       ]
     },
     {
-      "claim": "The M5 model is currently available for $200 less on Amazon and Walmart.",
+      "claim": "The M5 model is currently available for $200 less on Amazon and Walmart compared to the M6 model.",
       "verdict": "supported",
       "evidence": [
         {
@@ -124,7 +114,7 @@
       ]
     },
     {
-      "claim": "The M6 comes with two additional CPU and GPU cores compared to the previous model.",
+      "claim": "The M6 chip comes with two additional CPU and GPU cores.",
       "verdict": "supported",
       "evidence": [
         {
@@ -134,7 +124,7 @@
       ]
     },
     {
-      "claim": "The M6 model features a second 16-core Neural Engine and faster memory bandwidth.",
+      "claim": "The M6 features a second 16-core Neural Engine and faster memory bandwidth.",
       "verdict": "supported",
       "evidence": [
         {
@@ -154,17 +144,7 @@
       ]
     },
     {
-      "claim": "The 15-inch MacBook Air model with 16 GB of memory and a terabyte of storage is priced at $1,549.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
-          "quote": "The model with 16 GB of memory and a terabyte of storage is at its lowest price since June: $1,549."
-        }
-      ]
-    },
-    {
-      "claim": "The $1,549 price for the 15-inch MacBook Air is $150 off Apple's retail price and its lowest price since June.",
+      "claim": "The 15-inch MacBook Air model with 16 GB of memory and a terabyte of storage is priced at $1,549, which is $150 off Apple's retail price.",
       "verdict": "supported",
       "evidence": [
         {
@@ -196,7 +176,7 @@
       ]
     },
     {
-      "claim": "The M5 model is currently available for $200 less on Amazon and Walmart.",
+      "claim": "The M5 model is currently available for $200 less on Amazon and Walmart compared to the M6 model.",
       "verdict": "supported",
       "evidence": [
         {
@@ -206,7 +186,7 @@
       ]
     },
     {
-      "claim": "The M6 comes with two additional CPU and GPU cores compared to the previous model.",
+      "claim": "The M6 chip comes with two additional CPU and GPU cores.",
       "verdict": "supported",
       "evidence": [
         {
@@ -216,7 +196,7 @@
       ]
     },
     {
-      "claim": "The M6 model features a second 16-core Neural Engine and faster memory bandwidth.",
+      "claim": "The M6 features a second 16-core Neural Engine and faster memory bandwidth.",
       "verdict": "supported",
       "evidence": [
         {
@@ -236,17 +216,7 @@
       ]
     },
     {
-      "claim": "The 15-inch MacBook Air model with 16 GB of memory and a terabyte of storage is priced at $1,549.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
-          "quote": "The model with 16 GB of memory and a terabyte of storage is at its lowest price since June: $1,549."
-        }
-      ]
-    },
-    {
-      "claim": "The $1,549 price for the 15-inch MacBook Air is $150 off Apple's retail price and its lowest price since June.",
+      "claim": "The 15-inch MacBook Air model with 16 GB of memory and a terabyte of storage is priced at $1,549, which is $150 off Apple's retail price.",
       "verdict": "supported",
       "evidence": [
         {

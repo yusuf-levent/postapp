@@ -2,9 +2,9 @@
   "slot": "09:00",
   "type": "news",
   "model": "gemini-3.5-flash-lite",
-  "duration_seconds": 110.7,
+  "duration_seconds": 122.8,
   "candidates_tried": 1,
-  "gemini_calls": 18,
+  "gemini_calls": 19,
   "canonical_url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
-  "generated_at": "2026-11-08T13:15:29+03:00"
+  "generated_at": "2026-11-08T13:30:31+03:00"
 }
