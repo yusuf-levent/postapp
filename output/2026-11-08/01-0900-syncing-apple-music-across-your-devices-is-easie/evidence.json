@@ -4,15 +4,15 @@
   "source_names": [
     "Engadget",
     "Wired",
-    "TechCrunch",
-    "IEEE Spectrum"
+    "Ars Technica",
+    "BBC News – Technology"
   ],
-  "checked_at": "2026-11-08T11:42:39+03:00",
+  "checked_at": "2026-11-08T11:49:27+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Apple Music, Android telefonlar, Windows PC'ler ve akıllı televizyonlar gibi birden fazla platformda kullanılabilmektedir.",
+      "claim": "Apple Music, Android telefonlarda, Windows PC'lerde ve akıllı televizyonlarda kullanılabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,37 +22,21 @@
       ]
     },
     {
-      "claim": "Apple Music uygulamasında hesap kontrolü için Ana sekmeden profil resmine dokunulması gerekmektedir.",
+      "claim": "Apple Music kütüphanesini cihazlar arasında senkronize etmek için ilgili ayarın açılması gerekir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
-          "quote": "If you're not sure which account you're using, open the Apple Music app and tap your profile picture on the Home tab."
-        }
-      ]
-    },
-    {
-      "claim": "iPhone veya iPad'de Sync Library özelliğini etkinleştirmek için Ayarlar içerisindeki Uygulamalar bölümünden Müzik uygulamasının bulunması gerekir.",
-      "verdict": "supported",
-      "evidence": [
+          "quote": "Changing a single setting in Apple Music will prompt it to sync your music across all your devices, ensuring you don't have to manage your library manually on each one."
+        },
         {
           "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
-          "quote": "On your iPhone or iPad, open Settings and look for Apps. Then, find the Music app in the list and enable Sync Library."
+          "quote": "Changing a single setting in Apple Music will prompt it to sync your music across all your devices"
         }
       ]
     },
     {
-      "claim": "Mac'te Sync Library özelliğini aktif hale getirmek için Müzik uygulamasındaki Ayarlar altından Genel sekmesine gidilmelidir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
-          "quote": "On a Mac, open the Music app and click the \"Music\" menu at the top of the screen, then go to Settings. Now, under the General tab, make sure Sync Library is enabled and click OK to save your settings."
-        }
-      ]
-    },
-    {
-      "claim": "Android telefonlarda Sync Library seçeneği varsayılan olarak etkin gelmektedir.",
+      "claim": "Android telefonda Sync Library seçeneği varsayılan olarak etkin gelir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -62,7 +46,7 @@
       ]
     },
     {
-      "claim": "Mac uygulamasında bulut kütüphanesini güncellemeye zorlamak için Dosya menüsünden Kütüphane ve ardından Update Cloud Library seçeneği seçilmelidir.",
+      "claim": "Mac uygulamasında File menüsünden Library seçeneğine gidilerek Update Cloud Library ile bulut kütüphanesi güncellenebilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -72,7 +56,7 @@
       ]
     },
     {
-      "claim": "Android ve iOS uygulamalarında Update Cloud Library seçeneği bulunmamaktadır.",
+      "claim": "Android ve iOS uygulamalarında Update Cloud Library seçeneği bulunmaz.",
       "verdict": "supported",
       "evidence": [
         {
@@ -82,19 +66,29 @@
       ]
     },
     {
-      "claim": "Apple Music aboneliği olmayan ve Mac veya PC'de çevrimdışı kütüphanesi olan kullanıcılar, iTunes veya Apple Devices aracılığıyla Müzik klasörünü manuel olarak aktarabilirler.",
+      "claim": "Apple Music aboneliği olmayan ve Mac veya PC'de çevrimdışı kütüphanesi olan kullanıcılar, kütüphaneyi manuel olarak iTunes veya Apple Devices üzerinden aktarabilir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
           "quote": "If you don't subscribe to Apple Music and have an offline library on your Mac or PC, the only way to sync your library is to manually transfer the Music folder to another computer via Apple iTunes or Apple Devices."
+        }
+      ]
+    },
+    {
+      "claim": "Apple Music'te ses kalitesi seçenekleri değiştirilerek kayıpsız ses (lossless audio) etkinleştirilebilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+          "quote": "While you're there, it's worth exploring some other toggles, like changing the audio quality options to enable lossless audio."
         }
       ]
     }
   ],
   "round1": [
     {
-      "claim": "Apple Music, Android telefonlar, Windows PC'ler ve akıllı televizyonlar gibi birden fazla platformda kullanılabilmektedir.",
+      "claim": "Apple Music, Android telefonlarda, Windows PC'lerde ve akıllı televizyonlarda kullanılabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -104,37 +98,21 @@
       ]
     },
     {
-      "claim": "Apple Music uygulamasında hesap kontrolü için Ana sekmeden profil resmine dokunulması gerekmektedir.",
+      "claim": "Apple Music kütüphanesini cihazlar arasında senkronize etmek için ilgili ayarın açılması gerekir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
-          "quote": "If you're not sure which account you're using, open the Apple Music app and tap your profile picture on the Home tab."
-        }
-      ]
-    },
-    {
-      "claim": "iPhone veya iPad'de Sync Library özelliğini etkinleştirmek için Ayarlar içerisindeki Uygulamalar bölümünden Müzik uygulamasının bulunması gerekir.",
-      "verdict": "supported",
-      "evidence": [
+          "quote": "Changing a single setting in Apple Music will prompt it to sync your music across all your devices, ensuring you don't have to manage your library manually on each one."
+        },
         {
           "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
-          "quote": "On your iPhone or iPad, open Settings and look for Apps. Then, find the Music app in the list and enable Sync Library."
+          "quote": "Changing a single setting in Apple Music will prompt it to sync your music across all your devices"
         }
       ]
     },
     {
-      "claim": "Mac'te Sync Library özelliğini aktif hale getirmek için Müzik uygulamasındaki Ayarlar altından Genel sekmesine gidilmelidir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
-          "quote": "On a Mac, open the Music app and click the \"Music\" menu at the top of the screen, then go to Settings. Now, under the General tab, make sure Sync Library is enabled and click OK to save your settings."
-        }
-      ]
-    },
-    {
-      "claim": "Android telefonlarda Sync Library seçeneği varsayılan olarak etkin gelmektedir.",
+      "claim": "Android telefonda Sync Library seçeneği varsayılan olarak etkin gelir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -144,7 +122,7 @@
       ]
     },
     {
-      "claim": "Mac uygulamasında bulut kütüphanesini güncellemeye zorlamak için Dosya menüsünden Kütüphane ve ardından Update Cloud Library seçeneği seçilmelidir.",
+      "claim": "Mac uygulamasında File menüsünden Library seçeneğine gidilerek Update Cloud Library ile bulut kütüphanesi güncellenebilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -154,7 +132,7 @@
       ]
     },
     {
-      "claim": "Android ve iOS uygulamalarında Update Cloud Library seçeneği bulunmamaktadır.",
+      "claim": "Android ve iOS uygulamalarında Update Cloud Library seçeneği bulunmaz.",
       "verdict": "supported",
       "evidence": [
         {
@@ -164,19 +142,29 @@
       ]
     },
     {
-      "claim": "Apple Music aboneliği olmayan ve Mac veya PC'de çevrimdışı kütüphanesi olan kullanıcılar, iTunes veya Apple Devices aracılığıyla Müzik klasörünü manuel olarak aktarabilirler.",
+      "claim": "Apple Music aboneliği olmayan ve Mac veya PC'de çevrimdışı kütüphanesi olan kullanıcılar, kütüphaneyi manuel olarak iTunes veya Apple Devices üzerinden aktarabilir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
           "quote": "If you don't subscribe to Apple Music and have an offline library on your Mac or PC, the only way to sync your library is to manually transfer the Music folder to another computer via Apple iTunes or Apple Devices."
+        }
+      ]
+    },
+    {
+      "claim": "Apple Music'te ses kalitesi seçenekleri değiştirilerek kayıpsız ses (lossless audio) etkinleştirilebilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+          "quote": "While you're there, it's worth exploring some other toggles, like changing the audio quality options to enable lossless audio."
         }
       ]
     }
   ],
   "round2": [
     {
-      "claim": "Apple Music, Android telefonlar, Windows PC'ler ve akıllı televizyonlar gibi birden fazla platformda kullanılabilmektedir.",
+      "claim": "Apple Music, Android telefonlarda, Windows PC'lerde ve akıllı televizyonlarda kullanılabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -186,37 +174,21 @@
       ]
     },
     {
-      "claim": "Apple Music uygulamasında hesap kontrolü için Ana sekmeden profil resmine dokunulması gerekmektedir.",
+      "claim": "Apple Music kütüphanesini cihazlar arasında senkronize etmek için ilgili ayarın açılması gerekir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
-          "quote": "If you're not sure which account you're using, open the Apple Music app and tap your profile picture on the Home tab."
-        }
-      ]
-    },
-    {
-      "claim": "iPhone veya iPad'de Sync Library özelliğini etkinleştirmek için Ayarlar içerisindeki Uygulamalar bölümünden Müzik uygulamasının bulunması gerekir.",
-      "verdict": "supported",
-      "evidence": [
+          "quote": "Changing a single setting in Apple Music will prompt it to sync your music across all your devices, ensuring you don't have to manage your library manually on each one."
+        },
         {
           "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
-          "quote": "On your iPhone or iPad, open Settings and look for Apps. Then, find the Music app in the list and enable Sync Library."
+          "quote": "Changing a single setting in Apple Music will prompt it to sync your music across all your devices"
         }
       ]
     },
     {
-      "claim": "Mac'te Sync Library özelliğini aktif hale getirmek için Müzik uygulamasındaki Ayarlar altından Genel sekmesine gidilmelidir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
-          "quote": "On a Mac, open the Music app and click the \"Music\" menu at the top of the screen, then go to Settings. Now, under the General tab, make sure Sync Library is enabled and click OK to save your settings."
-        }
-      ]
-    },
-    {
-      "claim": "Android telefonlarda Sync Library seçeneği varsayılan olarak etkin gelmektedir.",
+      "claim": "Android telefonda Sync Library seçeneği varsayılan olarak etkin gelir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -226,7 +198,7 @@
       ]
     },
     {
-      "claim": "Mac uygulamasında bulut kütüphanesini güncellemeye zorlamak için Dosya menüsünden Kütüphane ve ardından Update Cloud Library seçeneği seçilmelidir.",
+      "claim": "Mac uygulamasında File menüsünden Library seçeneğine gidilerek Update Cloud Library ile bulut kütüphanesi güncellenebilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -236,7 +208,7 @@
       ]
     },
     {
-      "claim": "Android ve iOS uygulamalarında Update Cloud Library seçeneği bulunmamaktadır.",
+      "claim": "Android ve iOS uygulamalarında Update Cloud Library seçeneği bulunmaz.",
       "verdict": "supported",
       "evidence": [
         {
@@ -246,7 +218,7 @@
       ]
     },
     {
-      "claim": "Apple Music aboneliği olmayan ve Mac veya PC'de çevrimdışı kütüphanesi olan kullanıcılar, iTunes veya Apple Devices aracılığıyla Müzik klasörünü manuel olarak aktarabilirler.",
+      "claim": "Apple Music aboneliği olmayan ve Mac veya PC'de çevrimdışı kütüphanesi olan kullanıcılar, kütüphaneyi manuel olarak iTunes veya Apple Devices üzerinden aktarabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -254,12 +226,22 @@
           "quote": "If you don't subscribe to Apple Music and have an offline library on your Mac or PC, the only way to sync your library is to manually transfer the Music folder to another computer via Apple iTunes or Apple Devices."
         }
       ]
+    },
+    {
+      "claim": "Apple Music'te ses kalitesi seçenekleri değiştirilerek kayıpsız ses (lossless audio) etkinleştirilebilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+          "quote": "While you're there, it's worth exploring some other toggles, like changing the audio quality options to enable lossless audio."
+        }
+      ]
     }
   ],
   "source_texts": {
     "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/": 3241,
-    "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/": 4173,
-    "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/": 3146,
-    "https://spectrum.ieee.org/ieee-industry-experts-webinar": 4289
+    "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/": 3825,
+    "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/": 17767,
+    "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss": 3792
   }
 }
