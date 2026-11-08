@@ -4,15 +4,14 @@
   "source_names": [
     "Wired",
     "TechCrunch",
-    "The Verge",
     "MIT Technology Review"
   ],
-  "checked_at": "2026-11-08T15:42:20+03:00",
+  "checked_at": "2026-11-08T15:47:23+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "The New York Times is using AI in an iOS-only beta to allow subscribers to modify recipes.",
+      "claim": "The New York Times is currently using AI in an iOS-only beta to allow subscribers to modify recipes.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,46 +21,22 @@
       ]
     },
     {
-      "claim": "The article announcing the recipe modification change was published on October 23.",
+      "claim": "Following an article announcing the AI recipe change on October 23, the story received 172 almost exclusively angry comments before commenting was turned off after four days.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-          "quote": "Below the article announcing the change on October 23, commenters loudly aired their grievances"
+          "quote": "Below the article announcing the change on October 23, commenters loudly aired their grievances, threatening to cancel subscriptions, asking who wanted this, and how to turn it off. After four days and 172 almost exclusively angry comments, commenting for the story was turned off."
         }
       ]
     },
     {
-      "claim": "Commenting for the recipe modification story was turned off after four days and 172 comments.",
+      "claim": "NYT executive communications director Jordan Cohen stated that the site and app were visited 514 million times in 2025, and its YouTube channel has over 1.4 million subscribers.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-          "quote": "After four days and 172 almost exclusively angry comments, commenting for the story was turned off."
-        }
-      ]
-    },
-    {
-      "claim": "NYT executive communications director Jordan Cohen stated that the site and app were visited 514 million times in 2025.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-          "quote": "NYT executive communications director Jordan Cohen said the site and app were visited 514 million times in 2025"
-        },
-        {
-          "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-          "quote": "The Times doesn't share Cooking's subscriber numbers, but NYT executive communications director Jordan Cohen said the site and app were visited 514 million times in 2025"
-        }
-      ]
-    },
-    {
-      "claim": "The NYT YouTube channel has over 1.4 million subscribers.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-          "quote": "its YouTube channel has over 1.4 million subscribers."
+          "quote": "NYT executive communications director Jordan Cohen said the site and app were visited 514 million times in 2025, and its YouTube channel has over 1.4 million subscribers."
         },
         {
           "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
@@ -70,7 +45,7 @@
       ]
     },
     {
-      "claim": "Earlier this year, the Times allowed AI to help with a recipe-scaling feature and converting from imperial measurements to metric.",
+      "claim": "Earlier this year, The New York Times allowed AI to help with a recipe-scaling feature and converting from imperial measurements to metric.",
       "verdict": "supported",
       "evidence": [
         {
@@ -94,7 +69,7 @@
       ]
     },
     {
-      "claim": "NYT Cooking has a team of 60 editors, writers, video journalists, and other employees.",
+      "claim": "NYT Cooking currently employs 60 editors, writers, video journalists, and other employees.",
       "verdict": "supported",
       "evidence": [
         {
@@ -106,11 +81,30 @@
           "quote": "When I ask what this means for the jobs of 60 editors, writers, video journalists, and other employees—the team that creates the recipes people use and curates the vibe readers relate to—Velasquez stresses..."
         }
       ]
+    },
+    {
+      "claim": "Camilla Velasquez stated that NYT Cooking has been hiring more than ever and has zero intention of publishing fewer recipes.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+          "quote": "Velasquez stresses that NYT Cooking has been \"hiring more than ever\" and that it has \"zero intention of publishing fewer recipes.\""
+        },
+        {
+          "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+          "quote": "When I ask what this means for the jobs of 60 editors, writers, video journalists, and other employees—the team that creates the recipes people use and curates the vibe readers relate to—Velasquez stresses that NYT Cooking has been \"hiring more than ever\" and that it has \"zero intention of publishing fewer recipes.\""
+        }
+      ]
+    },
+    {
+      "claim": "The New York Times plans to allow users to hide the AI feature in the app and is keeping the feature in an iOS-only beta for now.",
+      "verdict": "not_found",
+      "evidence": []
     }
   ],
   "round1": [
     {
-      "claim": "The New York Times is using AI in an iOS-only beta to allow subscribers to modify recipes.",
+      "claim": "The New York Times is currently using AI in an iOS-only beta to allow subscribers to modify recipes.",
       "verdict": "supported",
       "evidence": [
         {
@@ -120,46 +114,22 @@
       ]
     },
     {
-      "claim": "The article announcing the recipe modification change was published on October 23.",
+      "claim": "Following an article announcing the AI recipe change on October 23, the story received 172 almost exclusively angry comments before commenting was turned off after four days.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-          "quote": "Below the article announcing the change on October 23, commenters loudly aired their grievances"
+          "quote": "Below the article announcing the change on October 23, commenters loudly aired their grievances, threatening to cancel subscriptions, asking who wanted this, and how to turn it off. After four days and 172 almost exclusively angry comments, commenting for the story was turned off."
         }
       ]
     },
     {
-      "claim": "Commenting for the recipe modification story was turned off after four days and 172 comments.",
+      "claim": "NYT executive communications director Jordan Cohen stated that the site and app were visited 514 million times in 2025, and its YouTube channel has over 1.4 million subscribers.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-          "quote": "After four days and 172 almost exclusively angry comments, commenting for the story was turned off."
-        }
-      ]
-    },
-    {
-      "claim": "NYT executive communications director Jordan Cohen stated that the site and app were visited 514 million times in 2025.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-          "quote": "NYT executive communications director Jordan Cohen said the site and app were visited 514 million times in 2025"
-        },
-        {
-          "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-          "quote": "The Times doesn't share Cooking's subscriber numbers, but NYT executive communications director Jordan Cohen said the site and app were visited 514 million times in 2025"
-        }
-      ]
-    },
-    {
-      "claim": "The NYT YouTube channel has over 1.4 million subscribers.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-          "quote": "its YouTube channel has over 1.4 million subscribers."
+          "quote": "NYT executive communications director Jordan Cohen said the site and app were visited 514 million times in 2025, and its YouTube channel has over 1.4 million subscribers."
         },
         {
           "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
@@ -168,7 +138,7 @@
       ]
     },
     {
-      "claim": "Earlier this year, the Times allowed AI to help with a recipe-scaling feature and converting from imperial measurements to metric.",
+      "claim": "Earlier this year, The New York Times allowed AI to help with a recipe-scaling feature and converting from imperial measurements to metric.",
       "verdict": "supported",
       "evidence": [
         {
@@ -192,7 +162,7 @@
       ]
     },
     {
-      "claim": "NYT Cooking has a team of 60 editors, writers, video journalists, and other employees.",
+      "claim": "NYT Cooking currently employs 60 editors, writers, video journalists, and other employees.",
       "verdict": "supported",
       "evidence": [
         {
@@ -204,11 +174,30 @@
           "quote": "When I ask what this means for the jobs of 60 editors, writers, video journalists, and other employees—the team that creates the recipes people use and curates the vibe readers relate to—Velasquez stresses..."
         }
       ]
+    },
+    {
+      "claim": "Camilla Velasquez stated that NYT Cooking has been hiring more than ever and has zero intention of publishing fewer recipes.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+          "quote": "Velasquez stresses that NYT Cooking has been \"hiring more than ever\" and that it has \"zero intention of publishing fewer recipes.\""
+        },
+        {
+          "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+          "quote": "When I ask what this means for the jobs of 60 editors, writers, video journalists, and other employees—the team that creates the recipes people use and curates the vibe readers relate to—Velasquez stresses that NYT Cooking has been \"hiring more than ever\" and that it has \"zero intention of publishing fewer recipes.\""
+        }
+      ]
+    },
+    {
+      "claim": "The New York Times plans to allow users to hide the AI feature in the app and is keeping the feature in an iOS-only beta for now.",
+      "verdict": "not_found",
+      "evidence": []
     }
   ],
   "round2": [
     {
-      "claim": "The New York Times is using AI in an iOS-only beta to allow subscribers to modify recipes.",
+      "claim": "The New York Times is currently using AI in an iOS-only beta to allow subscribers to modify recipes.",
       "verdict": "supported",
       "evidence": [
         {
@@ -218,46 +207,22 @@
       ]
     },
     {
-      "claim": "The article announcing the recipe modification change was published on October 23.",
+      "claim": "Following an article announcing the AI recipe change on October 23, the story received 172 almost exclusively angry comments before commenting was turned off after four days.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-          "quote": "Below the article announcing the change on October 23, commenters loudly aired their grievances"
+          "quote": "Below the article announcing the change on October 23, commenters loudly aired their grievances, threatening to cancel subscriptions, asking who wanted this, and how to turn it off. After four days and 172 almost exclusively angry comments, commenting for the story was turned off."
         }
       ]
     },
     {
-      "claim": "Commenting for the recipe modification story was turned off after four days and 172 comments.",
+      "claim": "NYT executive communications director Jordan Cohen stated that the site and app were visited 514 million times in 2025, and its YouTube channel has over 1.4 million subscribers.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-          "quote": "After four days and 172 almost exclusively angry comments, commenting for the story was turned off."
-        }
-      ]
-    },
-    {
-      "claim": "NYT executive communications director Jordan Cohen stated that the site and app were visited 514 million times in 2025.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-          "quote": "NYT executive communications director Jordan Cohen said the site and app were visited 514 million times in 2025"
-        },
-        {
-          "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-          "quote": "The Times doesn't share Cooking's subscriber numbers, but NYT executive communications director Jordan Cohen said the site and app were visited 514 million times in 2025"
-        }
-      ]
-    },
-    {
-      "claim": "The NYT YouTube channel has over 1.4 million subscribers.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-          "quote": "its YouTube channel has over 1.4 million subscribers."
+          "quote": "NYT executive communications director Jordan Cohen said the site and app were visited 514 million times in 2025, and its YouTube channel has over 1.4 million subscribers."
         },
         {
           "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
@@ -266,7 +231,7 @@
       ]
     },
     {
-      "claim": "Earlier this year, the Times allowed AI to help with a recipe-scaling feature and converting from imperial measurements to metric.",
+      "claim": "Earlier this year, The New York Times allowed AI to help with a recipe-scaling feature and converting from imperial measurements to metric.",
       "verdict": "supported",
       "evidence": [
         {
@@ -290,7 +255,7 @@
       ]
     },
     {
-      "claim": "NYT Cooking has a team of 60 editors, writers, video journalists, and other employees.",
+      "claim": "NYT Cooking currently employs 60 editors, writers, video journalists, and other employees.",
       "verdict": "supported",
       "evidence": [
         {
@@ -302,12 +267,30 @@
           "quote": "When I ask what this means for the jobs of 60 editors, writers, video journalists, and other employees—the team that creates the recipes people use and curates the vibe readers relate to—Velasquez stresses..."
         }
       ]
+    },
+    {
+      "claim": "Camilla Velasquez stated that NYT Cooking has been hiring more than ever and has zero intention of publishing fewer recipes.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+          "quote": "Velasquez stresses that NYT Cooking has been \"hiring more than ever\" and that it has \"zero intention of publishing fewer recipes.\""
+        },
+        {
+          "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+          "quote": "When I ask what this means for the jobs of 60 editors, writers, video journalists, and other employees—the team that creates the recipes people use and curates the vibe readers relate to—Velasquez stresses that NYT Cooking has been \"hiring more than ever\" and that it has \"zero intention of publishing fewer recipes.\""
+        }
+      ]
+    },
+    {
+      "claim": "The New York Times plans to allow users to hide the AI feature in the app and is keeping the feature in an iOS-only beta for now.",
+      "verdict": "not_found",
+      "evidence": []
     }
   ],
   "source_texts": {
     "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/": 10719,
     "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/": 5655,
-    "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review": 9799,
     "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/": 5932
   }
 }
