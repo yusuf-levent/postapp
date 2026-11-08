@@ -1,0 +1,72 @@
+{
+  "cover": {
+    "category_label": "İŞ HAYATI",
+    "title": "İzin Süreçleri İçin Doğru Zamanlama Rehberi",
+    "highlight_words": [
+      "Zamanlama"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "İzin taleplerinden hatırlatmalara kadar bilinmesi gerekenler.",
+    "source_tags": [
+      "WIRED",
+      "ENGADGET"
+    ]
+  },
+  "context": {
+    "heading": "İzin Talebi Ne Zaman Yapılmalı?",
+    "cards": [
+      {
+        "card_title": "Genel Süreç",
+        "card_body": "İzin talepleri için 4 ila 6 haftanın genellikle uygun bir süre olduğu ifade edilmiştir."
+      },
+      {
+        "card_title": "Özel Durumlar",
+        "card_body": "Düğün veya iadesiz seyahat gibi durumlar için 6 ay veya daha önceden başvurulabileceği belirtilmiştir."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "4-6 AY",
+    "stat_caption": "Önceden yapılabilecek izin talepleri için maksimum süre.",
+    "stat_quote": "İzin taleplerinin 4 ila 6 ay önceden yapılabileceği belirtilmiştir."
+  },
+  "details": {
+    "heading": "İzin Öncesi Hatırlatma Adımları",
+    "cards": [
+      {
+        "card_title": "İki Hafta Önce",
+        "card_body": "İzin başlangıcından yaklaşık iki hafta önce yöneticiye ve meslektaşlara toplantılarda sözlü hatırlatma yapılması tavsiye edilmiştir."
+      },
+      {
+        "card_title": "Bir Hafta Önce",
+        "card_body": "Ekip dışındaki kişilere veya müşterilere izin planının bir hafta önce yazılı olarak bildirilmesi gerektiği belirtilmiştir."
+      },
+      {
+        "card_title": "İki İş Günü Önce",
+        "card_body": "İzin başlangıcından iki iş günü önce ilgili herkese kısa ve net bir mesaj gönderilmesi gerektiği ifade edilmiştir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "İletişim ve Otomasyon",
+    "cards": [
+      {
+        "card_title": "Pazartesi Başlangıcı",
+        "card_body": "İzin başlangıcının Pazartesi olması durumunda, mesajın Perşembe günü gönderilmesi gerektiği belirtilmiştir."
+      },
+      {
+        "card_title": "Otomatik Çözüm",
+        "card_body": "En unutkan yönetici ve iş arkadaşları için iznin ilk günü saat 08:30'da otomatik bir mesaj ayarlanabileceği ifade edilmiştir."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Siz izin planlarınızı ne kadar süre önceden yapıyorsunuz?",
+    "reminder_line": "Tekno Pusula ile güncel kalmaya devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
