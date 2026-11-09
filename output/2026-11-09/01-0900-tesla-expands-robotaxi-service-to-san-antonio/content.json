@@ -6,60 +6,64 @@
       "Robotaksi",
       "Genişletiyor"
     ],
-    "highlight_color": "cyan",
-    "subtitle": "Tesla otonom araç filosunu yeni şehirlere taşımaya devam ediyor.",
+    "highlight_color": "yellow",
+    "subtitle": "Tesla, otonom araç filosunu yeni şehirlere taşımaya devam ediyor.",
     "source_tags": [
       "TECHCRUNCH",
       "BBC NEWS"
     ]
   },
   "context": {
-    "heading": "Tesla Otonom Sürüşte Ne Durumda?",
+    "heading": "Tesla Otonom Sürüşte İlerliyor",
     "cards": [
       {
-        "card_title": "San Antonio Hamlesi",
-        "card_body": "Tesla, robotaksi servisini yerel saatle pazartesi günü saat 05.00'ten itibaren San Antonio'da kullanıma sunacağını X platformunda duyurdu."
+        "card_title": "Austin Deneyimi",
+        "card_body": "Tesla, Haziran 2025'te Austin'de robotaksi hizmetini başlatmıştı."
       },
       {
-        "card_title": "Austin Başlangıcı",
-        "card_body": "Tesla, Austin'deki robotaksi servisini Haziran 2025'te başlattı ve ocak ayında güvenlik görevlilerini kaldırarak sürücüsüz servise geçti."
+        "card_title": "Güvenlik Sürücüleri",
+        "card_body": "Ocak ayında Austin'deki araçlardan güvenlik monitörleri kaldırıldı."
       }
     ]
   },
   "stat": {
     "big_stat": "400+",
-    "stat_caption": "Tesla'nın Austin filosundaki otonom araç sayısı",
-    "stat_quote": "Teksas araç tescil verileri ve Robotaxi Tracker web sitesine göre Tesla'nın Austin filosunda 400'den fazla otonom araç bulunmaktadır."
+    "stat_caption": "Tesla'nın Austin filosundaki kayıtlı otonom araç sayısı",
+    "stat_quote": "Tesla, Austin'de 400'den fazla otonom araca sahip."
   },
   "details": {
-    "heading": "Diğer Şehirler ve Filo Dağılımı",
+    "heading": "Operasyon Bölgeleri",
     "cards": [
       {
-        "card_title": "Faaliyet Gösterilen Şehirler",
-        "card_body": "Tesla; Miami, Orlando, Dallas, Fort Worth ve Houston şehirlerinin belirli bölgelerinde robotaksi işletmektedir."
+        "card_title": "San Antonio Hamlesi",
+        "card_body": "Tesla, Pazartesi günü yerel saatle sabah 5'ten itibaren San Antonio'da hizmete başlıyor."
       },
       {
-        "card_title": "Filo Verileri",
-        "card_body": "Robotaxi Tracker'a göre Tesla'nın Fort Worth'te 24, Miami'de ise 5 aracı bulunmaktadır."
+        "card_title": "Diğer Şehirler",
+        "card_body": "Miami, Orlando, Dallas, Fort Worth ve Houston'ın sınırlı bölgelerinde faaliyet yürütülüyor."
+      },
+      {
+        "card_title": "San Francisco Durumu",
+        "card_body": "San Francisco Körfez Bölgesi'nde direksiyonda insan sürücü bulunan araçlar işletiliyor."
       }
     ]
   },
   "impact": {
-    "heading": "Sektördeki Rekabet ve Durum",
+    "heading": "Sektörel Rekabet",
     "cards": [
       {
-        "card_title": "Rakip Servisler",
-        "card_body": "Waymo; Austin, Dallas, Houston ve San Antonio'da sürücüsüz Jaguar I-Pace ve Zeekr RT araçlarıyla robotaksi hizmeti vermektedir."
+        "card_title": "Waymo'nun Varlığı",
+        "card_body": "Waymo; Austin, Dallas, Houston ve San Antonio'da araçlarla hizmet veriyor."
       },
       {
-        "card_title": "Mili Verileri",
-        "card_body": "TechCrunch'ın temmuz ayındaki haberine göre Tesla'nın robotaksi ağı, ikinci çeyrekte birinci çeyreğe kıyasla ücretli müşterilerle daha az mil katetti."
+        "card_title": "Araç Çeşitliliği",
+        "card_body": "Waymo operasyonlarında Jaguar I-Pace ve Zeekr RT araçlarını kullanıyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce otonom taksiler şehir içi ulaşımda kısa sürede vazgeçilmez bir hale gelecek mi?",
-    "reminder_line": "En güncel teknoloji gelişmeleri için Tekno Pusula'yı takipte kalın!"
+    "question": "Otonom araçların şehir içi ulaşımdaki rolünü nasıl değerlendiriyorsunuz?",
+    "reminder_line": "Teknoloji gelişmelerini kaçırmamak için bizi takip edin."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
