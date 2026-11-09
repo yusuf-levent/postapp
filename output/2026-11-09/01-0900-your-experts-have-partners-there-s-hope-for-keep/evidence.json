@@ -1,0 +1,247 @@
+{
+  "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+  "canonical_url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+  "source_names": [
+    "Hugging Face Blog",
+    "Engadget",
+    "Wired",
+    "TechCrunch"
+  ],
+  "checked_at": "2026-11-09T15:37:38+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Qwen3.5-122B modeli, 48 MoE katmanının her birinde 256 uzmana sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "For example, Qwen3.5-122B has 256 experts in each of its 48 MoE layers"
+        }
+      ]
+    },
+    {
+      "claim": "Qwen3.5-122B modelinin yaklaşık 250 GB'lık parametre belleğinin %95'i uzman MLP'leri tarafından kaplanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "and 95% of its ~250 GB parameter memory footprint is taken up entirely by these expert MLPs alone."
+        },
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "For example, Qwen3.5-122B has 256 experts in each of its 48 MoE layers, and 95% of its ~250 GB parameter memory footprint is taken up entirely by these expert MLPs alone."
+        }
+      ]
+    },
+    {
+      "claim": "HOPE (Higher-Order Pruning of Experts), uzmanlar arasındaki ikili etkileşimleri hesaba katan ikinci dereceden bir budama yöntemidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "Our newest paper derives HOPE (Higher-Order Pruning of Experts), a second-order method that accounts for pairwise expert interactions."
+        }
+      ]
+    },
+    {
+      "claim": "HOPE yöntemi, %50 budama oranında, en iyi ikinci budama yöntemine kıyasla agentic kodlama görevlerinde %6,1'e varan performans artışı sağlamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "At 50% pruning, HOPE achieves the best average rank of any method, with gains of up to +6.1% on agentic coding tasks over the next-best pruning method."
+        }
+      ]
+    },
+    {
+      "claim": "HOPE yöntemi, tüm koşullar genelinde 5 yöntem arasından 2,07 ortalama sıra ile en iyi performansı göstermiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "Across all conditions, HOPE achieved the best average rank (2.07 out of 5 methods)"
+        }
+      ]
+    },
+    {
+      "claim": "%50 budama oranında HOPE'un ortalama sırası 1,58'e yükselirken, en iyi ikinci yöntem olan REAP'in ortalama sırası 2,42 olarak gerçekleşmiştir.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Qwen3.5-35B-A3B modelinde %50 budama oranında HOPE, SWE-Bench Pro testinde 42,3 puan alarak 41,8 puan alan budanmamış modeli geçmiştir.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "HOPE yönteminin F-matrisi köşegeni, REAP yönteminin uzman sıralamalarını 0,99 Spearman korelasyonu ile neredeyse mükemmel şekilde kurtarmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "The diagonal of recovers REAP's expert rankings almost perfectly (Spearman )."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Qwen3.5-122B modeli, 48 MoE katmanının her birinde 256 uzmana sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "For example, Qwen3.5-122B has 256 experts in each of its 48 MoE layers"
+        }
+      ]
+    },
+    {
+      "claim": "Qwen3.5-122B modelinin yaklaşık 250 GB'lık parametre belleğinin %95'i uzman MLP'leri tarafından kaplanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "and 95% of its ~250 GB parameter memory footprint is taken up entirely by these expert MLPs alone."
+        },
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "For example, Qwen3.5-122B has 256 experts in each of its 48 MoE layers, and 95% of its ~250 GB parameter memory footprint is taken up entirely by these expert MLPs alone."
+        }
+      ]
+    },
+    {
+      "claim": "HOPE (Higher-Order Pruning of Experts), uzmanlar arasındaki ikili etkileşimleri hesaba katan ikinci dereceden bir budama yöntemidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "Our newest paper derives HOPE (Higher-Order Pruning of Experts), a second-order method that accounts for pairwise expert interactions."
+        }
+      ]
+    },
+    {
+      "claim": "HOPE yöntemi, %50 budama oranında, en iyi ikinci budama yöntemine kıyasla agentic kodlama görevlerinde %6,1'e varan performans artışı sağlamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "At 50% pruning, HOPE achieves the best average rank of any method, with gains of up to +6.1% on agentic coding tasks over the next-best pruning method."
+        }
+      ]
+    },
+    {
+      "claim": "HOPE yöntemi, tüm koşullar genelinde 5 yöntem arasından 2,07 ortalama sıra ile en iyi performansı göstermiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "Across all conditions, HOPE achieved the best average rank (2.07 out of 5 methods)"
+        }
+      ]
+    },
+    {
+      "claim": "%50 budama oranında HOPE'un ortalama sırası 1,58'e yükselirken, en iyi ikinci yöntem olan REAP'in ortalama sırası 2,42 olarak gerçekleşmiştir.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Qwen3.5-35B-A3B modelinde %50 budama oranında HOPE, SWE-Bench Pro testinde 42,3 puan alarak 41,8 puan alan budanmamış modeli geçmiştir.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "HOPE yönteminin F-matrisi köşegeni, REAP yönteminin uzman sıralamalarını 0,99 Spearman korelasyonu ile neredeyse mükemmel şekilde kurtarmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "The diagonal of recovers REAP's expert rankings almost perfectly (Spearman )."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Qwen3.5-122B modeli, 48 MoE katmanının her birinde 256 uzmana sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "For example, Qwen3.5-122B has 256 experts in each of its 48 MoE layers"
+        }
+      ]
+    },
+    {
+      "claim": "Qwen3.5-122B modelinin yaklaşık 250 GB'lık parametre belleğinin %95'i uzman MLP'leri tarafından kaplanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "and 95% of its ~250 GB parameter memory footprint is taken up entirely by these expert MLPs alone."
+        },
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "For example, Qwen3.5-122B has 256 experts in each of its 48 MoE layers, and 95% of its ~250 GB parameter memory footprint is taken up entirely by these expert MLPs alone."
+        }
+      ]
+    },
+    {
+      "claim": "HOPE (Higher-Order Pruning of Experts), uzmanlar arasındaki ikili etkileşimleri hesaba katan ikinci dereceden bir budama yöntemidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "Our newest paper derives HOPE (Higher-Order Pruning of Experts), a second-order method that accounts for pairwise expert interactions."
+        }
+      ]
+    },
+    {
+      "claim": "HOPE yöntemi, %50 budama oranında, en iyi ikinci budama yöntemine kıyasla agentic kodlama görevlerinde %6,1'e varan performans artışı sağlamaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "At 50% pruning, HOPE achieves the best average rank of any method, with gains of up to +6.1% on agentic coding tasks over the next-best pruning method."
+        }
+      ]
+    },
+    {
+      "claim": "HOPE yöntemi, tüm koşullar genelinde 5 yöntem arasından 2,07 ortalama sıra ile en iyi performansı göstermiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "Across all conditions, HOPE achieved the best average rank (2.07 out of 5 methods)"
+        }
+      ]
+    },
+    {
+      "claim": "%50 budama oranında HOPE'un ortalama sırası 1,58'e yükselirken, en iyi ikinci yöntem olan REAP'in ortalama sırası 2,42 olarak gerçekleşmiştir.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Qwen3.5-35B-A3B modelinde %50 budama oranında HOPE, SWE-Bench Pro testinde 42,3 puan alarak 41,8 puan alan budanmamış modeli geçmiştir.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "HOPE yönteminin F-matrisi köşegeni, REAP yönteminin uzman sıralamalarını 0,99 Spearman korelasyonu ile neredeyse mükemmel şekilde kurtarmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "The diagonal of recovers REAP's expert rankings almost perfectly (Spearman )."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://huggingface.co/blog/amazon/higher-order-pruning-experts": 13376,
+    "https://www.engadget.com/2309615/safest-laptop-storage-long-term/": 3373,
+    "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/": 5019,
+    "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/": 5761
+  }
+}

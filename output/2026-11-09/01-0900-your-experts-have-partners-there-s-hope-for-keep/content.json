@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA TEKNOLOJİLERİ",
+    "title": "Qwen3.5-122B ve HOPE Yöntemi ile Verimlilik",
+    "highlight_words": [
+      "Qwen3.5-122B",
+      "HOPE"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Büyük dil modellerinde uzman budama teknolojisi yeni bir seviyeye ulaşıyor.",
+    "source_tags": [
+      "HUGGING FACE BLOG",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Qwen3.5-122B Mimarisi",
+    "cards": [
+      {
+        "card_title": "Devasa Uzman Yapısı",
+        "card_body": "Qwen3.5-122B modeli, 48 MoE katmanının her birinde 256 uzman barındıran oldukça karmaşık bir yapıya sahip."
+      },
+      {
+        "card_title": "Bellek Kullanımı",
+        "card_body": "Modelin yaklaşık 250 GB'lık parametre belleğinin %95'i doğrudan uzman MLP'leri tarafından kaplanıyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "%6,1",
+    "stat_caption": "HOPE yöntemi, %50 budama oranında agentic kodlama görevlerinde sağlanan performans artışı.",
+    "stat_quote": "HOPE yöntemi, tüm koşullar genelinde 5 yöntem arasından 2,07 ortalama sıra ile en iyi performansı göstermiştir."
+  },
+  "details": {
+    "heading": "HOPE Yöntemi Nedir?",
+    "cards": [
+      {
+        "card_title": "İkinci Dereceden Budama",
+        "card_body": "HOPE (Higher-Order Pruning of Experts), uzmanlar arasındaki ikili etkileşimleri hesaba katan bir yöntemdir."
+      },
+      {
+        "card_title": "Yüksek Korelasyon",
+        "card_body": "HOPE yönteminin F-matrisi köşegeni, REAP yönteminin uzman sıralamalarını 0,99 Spearman korelasyonu ile kurtarıyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etkiler",
+    "cards": [
+      {
+        "card_title": "Kodlama Performansı",
+        "card_body": "Agentic kodlama görevlerinde sağlanan %6,1'lik artış, karmaşık yazılım süreçlerinde verimliliği doğrudan etkiliyor."
+      },
+      {
+        "card_title": "Model Optimizasyonu",
+        "card_body": "Uzman budama yöntemleri, devasa modellerin daha az kaynakla daha etkili çalışmasının önünü açıyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce modellerin uzman sayısını artırmak mı yoksa mevcut uzmanları daha verimli budamak mı daha önemli?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri takip etmek için Tekno Pusula'yı izlemeye devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
