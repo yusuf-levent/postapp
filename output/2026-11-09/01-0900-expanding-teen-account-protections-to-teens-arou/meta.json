@@ -2,9 +2,9 @@
   "slot": "09:00",
   "type": "news",
   "model": "gemini-3.1-flash-lite",
-  "duration_seconds": 139.2,
+  "duration_seconds": 116.5,
   "candidates_tried": 1,
-  "gemini_calls": 16,
+  "gemini_calls": 15,
   "canonical_url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-  "generated_at": "2026-11-09T15:19:31+03:00"
+  "generated_at": "2026-11-09T15:29:47+03:00"
 }

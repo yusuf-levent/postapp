@@ -3,34 +3,32 @@
 **Haber:** Expanding Teen Account Protections to Teens Around the World
 **Canonical URL:** https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/
 **Kaynaklar:** Meta Newsroom (resmi alternatif), The Verge, Wired, TechCrunch
-**Kontrol zamanı:** 2026-11-09T15:18:10+03:00
+**Kontrol zamanı:** 2026-11-09T15:28:24+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
 
 ## İddia Bazlı Sonuçlar
 
-### 1. Meta, Instagram, Facebook ve Messenger uygulamalarında gençlerin yaşlarına uygun deneyimler yaşaması için yerleşik koruma özellikleri sunmaktadır.
+### 1. Meta, Instagram, Facebook ve Messenger uygulamalarında genç kullanıcılar için otomatik koruma sağlayan 'Genç Hesapları' (Teen Accounts) özelliğini kullanıma sunmuştur.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/](https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/)
     > Teen Accounts on Instagram, Facebook, and Messenger provide teens with a set of built-in protections that automatically limit who can contact them, the content they see, and their time on our apps.
 
-### 2. Meta, kullanıcıların yaşlarını tespit etmek için yapay zeka teknolojisini küresel ölçekte genişletmektedir.
+### 2. Meta, kullanıcıların yaşlarını tespit etmek ve yanlış beyanları belirlemek için yapay zeka teknolojisini küresel çapta genişletmektedir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/](https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/)
-    > Based on that success, today we’re expanding this technology globally.
-  - [https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/](https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/)
     > We use AI technology to find people we suspect to be teens, even if they use an adult birthday, and place them in Teen Account protections. Since first introducing this technology, we’ve been placing more teens in age-appropriate protections and are encouraged by the results. Based on that success, today we’re expanding this technology globally.
 
-### 3. Meta, 52 iki partili eyalet başsavcısı ile çocukların ve 13 yaş altı kullanıcıların tespiti konusunda bir anlaşma yapmıştır.
+### 3. Meta, 52 iki partili eyalet başsavcısı ile çocukların ve 13 yaş altı kullanıcıların kimliklerinin tespitini güçlendirmek için bir anlaşma yapmıştır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/](https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/)
     > This expansion builds on our commitments under our recent agreement with 52 bipartisan attorneys general to strengthen how we identify teens and children under 13 on our apps.
 
-### 4. Meta, Threads uygulamasında benzer yaş doğrulama teknolojisini bu yılın ilerleyen dönemlerinde küresel olarak başlatmayı planlamaktadır.
+### 4. Meta, benzer yaş doğrulama teknolojisini bu yılın ilerleyen dönemlerinde Threads uygulamasına da getirmeyi planlamaktadır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/](https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/)
@@ -48,15 +46,13 @@
   - [https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/](https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/)
     > In Australia, we’ve begun using Apple’s age-range signal as another method to help understand age.
 
-### 7. Meta, 13 yaşından küçük çocuklara ait hesapları tespit etmek için daha güçlü teknolojilere yatırım yapmaktadır.
+### 7. Meta, 13 yaş altındaki çocuklara ait hesapları tespit etmek için daha güçlü teknolojilere yatırım yapmaktadır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/](https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/)
-    > we’re investing in even stronger technology to proactively catch accounts that may belong to children under 13.
-  - [https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/](https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/)
     > That’s why as part of our agreement with 52 bipartisan attorneys general across US states, territories, and the District of Columbia, we’re investing in even stronger technology to proactively catch accounts that may belong to children under 13.
 
-### 8. Meta, TikTok ve YouTube'u gençlerin güvenliğini sağlamak için kendi uyguladıkları yaş koruma pratiklerini benimsemeye çağırmıştır.
+### 8. Meta, TikTok ve YouTube'u gençlerin güvenliğini sağlamak için kendi uyguladıkları yaş doğrulama pratiklerini benimsemeye çağırmıştır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/](https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/)
@@ -68,13 +64,13 @@
 
 | İddia | 1. Tur | 2. Tur | Nihai |
 |-------|--------|--------|-------|
-| Meta, Instagram, Facebook ve Messenger uygulamalarında gençl | supported | supported | supported |
-| Meta, kullanıcıların yaşlarını tespit etmek için yapay zeka  | supported | supported | supported |
+| Meta, Instagram, Facebook ve Messenger uygulamalarında genç  | supported | supported | supported |
+| Meta, kullanıcıların yaşlarını tespit etmek ve yanlış beyanl | supported | supported | supported |
 | Meta, 52 iki partili eyalet başsavcısı ile çocukların ve 13  | supported | supported | supported |
-| Meta, Threads uygulamasında benzer yaş doğrulama teknolojisi | supported | supported | supported |
+| Meta, benzer yaş doğrulama teknolojisini bu yılın ilerleyen  | supported | supported | supported |
 | ConnectSafely'nin CEO'su Larry Magid, Meta'nın yaş doğrulama | supported | supported | supported |
 | Meta, Avustralya'da kullanıcıların yaş aralığını belirlemek  | supported | supported | supported |
-| Meta, 13 yaşından küçük çocuklara ait hesapları tespit etmek | supported | supported | supported |
+| Meta, 13 yaş altındaki çocuklara ait hesapları tespit etmek  | supported | supported | supported |
 | Meta, TikTok ve YouTube'u gençlerin güvenliğini sağlamak içi | supported | supported | supported |
 
 ## Kaynak Metinleri
