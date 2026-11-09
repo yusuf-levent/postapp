@@ -3,14 +3,14 @@
 **Haber:** Your Experts Have Partners. There's HOPE for Keeping Them Together
 **Canonical URL:** https://huggingface.co/blog/amazon/higher-order-pruning-experts
 **Kaynaklar:** Hugging Face Blog, Engadget, Wired, TechCrunch
-**Kontrol zamanı:** 2026-11-09T15:37:38+03:00
+**Kontrol zamanı:** 2026-11-09T15:48:08+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
 
 ## İddia Bazlı Sonuçlar
 
-### 1. Qwen3.5-122B modeli, 48 MoE katmanının her birinde 256 uzmana sahiptir.
+### 1. Qwen3.5-122B modelinde her birinde 256 uzman bulunan 48 adet MoE katmanı mevcuttur.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://huggingface.co/blog/amazon/higher-order-pruning-experts](https://huggingface.co/blog/amazon/higher-order-pruning-experts)
@@ -24,37 +24,41 @@
   - [https://huggingface.co/blog/amazon/higher-order-pruning-experts](https://huggingface.co/blog/amazon/higher-order-pruning-experts)
     > For example, Qwen3.5-122B has 256 experts in each of its 48 MoE layers, and 95% of its ~250 GB parameter memory footprint is taken up entirely by these expert MLPs alone.
 
-### 3. HOPE (Higher-Order Pruning of Experts), uzmanlar arasındaki ikili etkileşimleri hesaba katan ikinci dereceden bir budama yöntemidir.
+### 3. HOPE yöntemi, uzmanlar arasındaki ikili etkileşimleri hesaba katan ikinci dereceden bir budama yöntemidir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://huggingface.co/blog/amazon/higher-order-pruning-experts](https://huggingface.co/blog/amazon/higher-order-pruning-experts)
     > Our newest paper derives HOPE (Higher-Order Pruning of Experts), a second-order method that accounts for pairwise expert interactions.
 
-### 4. HOPE yöntemi, %50 budama oranında, en iyi ikinci budama yöntemine kıyasla agentic kodlama görevlerinde %6,1'e varan performans artışı sağlamaktadır.
+### 4. HOPE yöntemi %50 budama oranında, bir sonraki en iyi budama yöntemine kıyasla agentic kodlama görevlerinde %6,1'e varan performans artışı sağlamaktadır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://huggingface.co/blog/amazon/higher-order-pruning-experts](https://huggingface.co/blog/amazon/higher-order-pruning-experts)
     > At 50% pruning, HOPE achieves the best average rank of any method, with gains of up to +6.1% on agentic coding tasks over the next-best pruning method.
 
-### 5. HOPE yöntemi, tüm koşullar genelinde 5 yöntem arasından 2,07 ortalama sıra ile en iyi performansı göstermiştir.
+### 5. GLM-4.5-Air modeli, katman başına 128 uzman ve toplam 106 milyar parametreye sahiptir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://huggingface.co/blog/amazon/higher-order-pruning-experts](https://huggingface.co/blog/amazon/higher-order-pruning-experts)
-    > Across all conditions, HOPE achieved the best average rank (2.07 out of 5 methods)
+    > Visualization of the interaction matrix F for GLM-4.5-Air (128 experts per layer, 106B parameters total) at three representative layers (early, middle, late).
+  - [https://huggingface.co/blog/amazon/higher-order-pruning-experts](https://huggingface.co/blog/amazon/higher-order-pruning-experts)
+    > Visualization of the interaction matrix F for GLM-4.5-Air (128 experts per layer, 106B parameters total)
 
-### 6. %50 budama oranında HOPE'un ortalama sırası 1,58'e yükselirken, en iyi ikinci yöntem olan REAP'in ortalama sırası 2,42 olarak gerçekleşmiştir.
-- **Karar:** ⚠️ `not_found`
-- **Kanıt:** yok
-
-### 7. Qwen3.5-35B-A3B modelinde %50 budama oranında HOPE, SWE-Bench Pro testinde 42,3 puan alarak 41,8 puan alan budanmamış modeli geçmiştir.
-- **Karar:** ⚠️ `not_found`
-- **Kanıt:** yok
-
-### 8. HOPE yönteminin F-matrisi köşegeni, REAP yönteminin uzman sıralamalarını 0,99 Spearman korelasyonu ile neredeyse mükemmel şekilde kurtarmaktadır.
+### 6. HOPE yöntemi, Qwen3.5-122B, Qwen3.5-35B ve GLM-4.5-Air olmak üzere üç farklı model üzerinde test edilmiştir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://huggingface.co/blog/amazon/higher-order-pruning-experts](https://huggingface.co/blog/amazon/higher-order-pruning-experts)
-    > The diagonal of recovers REAP's expert rankings almost perfectly (Spearman ).
+    > We evaluated HOPE as an expert pruning method using 3 models (Qwen3.5-122B, Qwen3.5-35B, and GLM-4.5-Air)
+
+### 7. HOPE yöntemi, Evol-CodeAlpaca ve SWE-Bench Verified trajectories olmak üzere iki farklı kalibrasyon veri seti kullanılarak değerlendirilmiştir.
+- **Karar:** ✅ `supported`
+- **Kanıtlar:**
+  - [https://huggingface.co/blog/amazon/higher-order-pruning-experts](https://huggingface.co/blog/amazon/higher-order-pruning-experts)
+    > We evaluated HOPE as an expert pruning method using 3 models (Qwen3.5-122B, Qwen3.5-35B, and GLM-4.5-Air), with 2 calibration datasets (Evol-CodeAlpaca and SWE-Bench Verified trajectories).
+
+### 8. Qwen3.5-35B-A3B modelinde %50 budama oranında HOPE yöntemi SWE-Bench Pro üzerinde 42,3 puan alırken, budanmamış model 41,8 puan almıştır.
+- **Karar:** ⚠️ `not_found`
+- **Kanıt:** yok
 
 ---
 
@@ -62,14 +66,14 @@
 
 | İddia | 1. Tur | 2. Tur | Nihai |
 |-------|--------|--------|-------|
-| Qwen3.5-122B modeli, 48 MoE katmanının her birinde 256 uzman | supported | supported | supported |
+| Qwen3.5-122B modelinde her birinde 256 uzman bulunan 48 adet | supported | supported | supported |
 | Qwen3.5-122B modelinin yaklaşık 250 GB'lık parametre belleği | supported | supported | supported |
-| HOPE (Higher-Order Pruning of Experts), uzmanlar arasındaki  | supported | supported | supported |
-| HOPE yöntemi, %50 budama oranında, en iyi ikinci budama yönt | supported | supported | supported |
-| HOPE yöntemi, tüm koşullar genelinde 5 yöntem arasından 2,07 | supported | supported | supported |
-| %50 budama oranında HOPE'un ortalama sırası 1,58'e yükselirk | not_found | not_found | not_found |
-| Qwen3.5-35B-A3B modelinde %50 budama oranında HOPE, SWE-Benc | not_found | not_found | not_found |
-| HOPE yönteminin F-matrisi köşegeni, REAP yönteminin uzman sı | supported | supported | supported |
+| HOPE yöntemi, uzmanlar arasındaki ikili etkileşimleri hesaba | supported | supported | supported |
+| HOPE yöntemi %50 budama oranında, bir sonraki en iyi budama  | supported | supported | supported |
+| GLM-4.5-Air modeli, katman başına 128 uzman ve toplam 106 mi | supported | supported | supported |
+| HOPE yöntemi, Qwen3.5-122B, Qwen3.5-35B ve GLM-4.5-Air olmak | supported | supported | supported |
+| HOPE yöntemi, Evol-CodeAlpaca ve SWE-Bench Verified trajecto | supported | supported | supported |
+| Qwen3.5-35B-A3B modelinde %50 budama oranında HOPE yöntemi S | not_found | not_found | not_found |
 
 ## Kaynak Metinleri
 

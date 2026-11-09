@@ -1,64 +1,64 @@
 {
   "cover": {
     "category_label": "YAPAY ZEKA TEKNOLOJİLERİ",
-    "title": "Qwen3.5-122B ve HOPE Yöntemi ile Verimlilik",
+    "title": "HOPE Yöntemi ile Model Budamada Yeni Dönem",
     "highlight_words": [
-      "Qwen3.5-122B",
-      "HOPE"
+      "HOPE",
+      "Budamada"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Büyük dil modellerinde uzman budama teknolojisi yeni bir seviyeye ulaşıyor.",
+    "subtitle": "Büyük dil modellerinde verimliliği artıran yeni bir yaklaşım.",
     "source_tags": [
       "HUGGING FACE BLOG",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Qwen3.5-122B Mimarisi",
+    "heading": "Modellerin Yapısı ve HOPE",
     "cards": [
       {
-        "card_title": "Devasa Uzman Yapısı",
-        "card_body": "Qwen3.5-122B modeli, 48 MoE katmanının her birinde 256 uzman barındıran oldukça karmaşık bir yapıya sahip."
+        "card_title": "Qwen3.5-122B Mimarisi",
+        "card_body": "Model, her birinde 256 uzman bulunan 48 adet MoE katmanına sahip. Belleğin %95'i uzman MLP'leri tarafından kaplanıyor."
       },
       {
-        "card_title": "Bellek Kullanımı",
-        "card_body": "Modelin yaklaşık 250 GB'lık parametre belleğinin %95'i doğrudan uzman MLP'leri tarafından kaplanıyor."
+        "card_title": "Test Edilen Modeller",
+        "card_body": "HOPE yöntemi; Qwen3.5-122B, Qwen3.5-35B ve 106 milyar parametreli GLM-4.5-Air modelleri üzerinde başarıyla test edildi."
       }
     ]
   },
   "stat": {
     "big_stat": "%6,1",
-    "stat_caption": "HOPE yöntemi, %50 budama oranında agentic kodlama görevlerinde sağlanan performans artışı.",
-    "stat_quote": "HOPE yöntemi, tüm koşullar genelinde 5 yöntem arasından 2,07 ortalama sıra ile en iyi performansı göstermiştir."
+    "stat_caption": "HOPE yönteminin %50 budama oranında sağladığı performans artışı.",
+    "stat_quote": "HOPE, agentic kodlama görevlerinde bir sonraki en iyi budama yöntemine kıyasla %6,1'e varan performans artışı sağlıyor."
   },
   "details": {
-    "heading": "HOPE Yöntemi Nedir?",
+    "heading": "HOPE Nasıl Çalışıyor?",
     "cards": [
       {
         "card_title": "İkinci Dereceden Budama",
-        "card_body": "HOPE (Higher-Order Pruning of Experts), uzmanlar arasındaki ikili etkileşimleri hesaba katan bir yöntemdir."
+        "card_body": "HOPE, uzmanlar arasındaki ikili etkileşimleri hesaba katan gelişmiş bir ikinci dereceden budama yöntemidir."
       },
       {
-        "card_title": "Yüksek Korelasyon",
-        "card_body": "HOPE yönteminin F-matrisi köşegeni, REAP yönteminin uzman sıralamalarını 0,99 Spearman korelasyonu ile kurtarıyor."
+        "card_title": "Kalibrasyon Veri Setleri",
+        "card_body": "Yöntem, Evol-CodeAlpaca ve SWE-Bench Verified trajectories olmak üzere iki farklı veri setiyle değerlendirildi."
       }
     ]
   },
   "impact": {
-    "heading": "Sektörel Etkiler",
+    "heading": "Sektörel ve Teknik Etki",
     "cards": [
       {
-        "card_title": "Kodlama Performansı",
-        "card_body": "Agentic kodlama görevlerinde sağlanan %6,1'lik artış, karmaşık yazılım süreçlerinde verimliliği doğrudan etkiliyor."
+        "card_title": "Verimlilik Odaklı Gelişim",
+        "card_body": "Büyük modellerin parametre belleğinin büyük kısmını oluşturan uzman MLP'lerinin optimize edilmesi, kaynak kullanımını iyileştiriyor."
       },
       {
-        "card_title": "Model Optimizasyonu",
-        "card_body": "Uzman budama yöntemleri, devasa modellerin daha az kaynakla daha etkili çalışmasının önünü açıyor."
+        "card_title": "Kodlama Görevlerinde Başarı",
+        "card_body": "Agentic kodlama görevlerinde elde edilen performans artışı, modellerin karmaşık yazılım süreçlerindeki yetkinliğini güçlendiriyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce modellerin uzman sayısını artırmak mı yoksa mevcut uzmanları daha verimli budamak mı daha önemli?",
+    "question": "Sizce modelleri budamak, gelecekte yapay zekayı yerel cihazlarda çalıştırmanın anahtarı mı?",
     "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri takip etmek için Tekno Pusula'yı izlemeye devam edin."
   },
   "tag_label_2": "BAĞLAM",

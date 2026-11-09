@@ -7,12 +7,12 @@
     "Wired",
     "TechCrunch"
   ],
-  "checked_at": "2026-11-09T15:37:38+03:00",
+  "checked_at": "2026-11-09T15:48:08+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Qwen3.5-122B modeli, 48 MoE katmanının her birinde 256 uzmana sahiptir.",
+      "claim": "Qwen3.5-122B modelinde her birinde 256 uzman bulunan 48 adet MoE katmanı mevcuttur.",
       "verdict": "supported",
       "evidence": [
         {
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "claim": "HOPE (Higher-Order Pruning of Experts), uzmanlar arasındaki ikili etkileşimleri hesaba katan ikinci dereceden bir budama yöntemidir.",
+      "claim": "HOPE yöntemi, uzmanlar arasındaki ikili etkileşimleri hesaba katan ikinci dereceden bir budama yöntemidir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "claim": "HOPE yöntemi, %50 budama oranında, en iyi ikinci budama yöntemine kıyasla agentic kodlama görevlerinde %6,1'e varan performans artışı sağlamaktadır.",
+      "claim": "HOPE yöntemi %50 budama oranında, bir sonraki en iyi budama yöntemine kıyasla agentic kodlama görevlerinde %6,1'e varan performans artışı sağlamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -56,39 +56,48 @@
       ]
     },
     {
-      "claim": "HOPE yöntemi, tüm koşullar genelinde 5 yöntem arasından 2,07 ortalama sıra ile en iyi performansı göstermiştir.",
+      "claim": "GLM-4.5-Air modeli, katman başına 128 uzman ve toplam 106 milyar parametreye sahiptir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-          "quote": "Across all conditions, HOPE achieved the best average rank (2.07 out of 5 methods)"
+          "quote": "Visualization of the interaction matrix F for GLM-4.5-Air (128 experts per layer, 106B parameters total) at three representative layers (early, middle, late)."
+        },
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "Visualization of the interaction matrix F for GLM-4.5-Air (128 experts per layer, 106B parameters total)"
         }
       ]
     },
     {
-      "claim": "%50 budama oranında HOPE'un ortalama sırası 1,58'e yükselirken, en iyi ikinci yöntem olan REAP'in ortalama sırası 2,42 olarak gerçekleşmiştir.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "Qwen3.5-35B-A3B modelinde %50 budama oranında HOPE, SWE-Bench Pro testinde 42,3 puan alarak 41,8 puan alan budanmamış modeli geçmiştir.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "HOPE yönteminin F-matrisi köşegeni, REAP yönteminin uzman sıralamalarını 0,99 Spearman korelasyonu ile neredeyse mükemmel şekilde kurtarmaktadır.",
+      "claim": "HOPE yöntemi, Qwen3.5-122B, Qwen3.5-35B ve GLM-4.5-Air olmak üzere üç farklı model üzerinde test edilmiştir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-          "quote": "The diagonal of recovers REAP's expert rankings almost perfectly (Spearman )."
+          "quote": "We evaluated HOPE as an expert pruning method using 3 models (Qwen3.5-122B, Qwen3.5-35B, and GLM-4.5-Air)"
         }
       ]
+    },
+    {
+      "claim": "HOPE yöntemi, Evol-CodeAlpaca ve SWE-Bench Verified trajectories olmak üzere iki farklı kalibrasyon veri seti kullanılarak değerlendirilmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "We evaluated HOPE as an expert pruning method using 3 models (Qwen3.5-122B, Qwen3.5-35B, and GLM-4.5-Air), with 2 calibration datasets (Evol-CodeAlpaca and SWE-Bench Verified trajectories)."
+        }
+      ]
+    },
+    {
+      "claim": "Qwen3.5-35B-A3B modelinde %50 budama oranında HOPE yöntemi SWE-Bench Pro üzerinde 42,3 puan alırken, budanmamış model 41,8 puan almıştır.",
+      "verdict": "not_found",
+      "evidence": []
     }
   ],
   "round1": [
     {
-      "claim": "Qwen3.5-122B modeli, 48 MoE katmanının her birinde 256 uzmana sahiptir.",
+      "claim": "Qwen3.5-122B modelinde her birinde 256 uzman bulunan 48 adet MoE katmanı mevcuttur.",
       "verdict": "supported",
       "evidence": [
         {
@@ -112,7 +121,7 @@
       ]
     },
     {
-      "claim": "HOPE (Higher-Order Pruning of Experts), uzmanlar arasındaki ikili etkileşimleri hesaba katan ikinci dereceden bir budama yöntemidir.",
+      "claim": "HOPE yöntemi, uzmanlar arasındaki ikili etkileşimleri hesaba katan ikinci dereceden bir budama yöntemidir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -122,7 +131,7 @@
       ]
     },
     {
-      "claim": "HOPE yöntemi, %50 budama oranında, en iyi ikinci budama yöntemine kıyasla agentic kodlama görevlerinde %6,1'e varan performans artışı sağlamaktadır.",
+      "claim": "HOPE yöntemi %50 budama oranında, bir sonraki en iyi budama yöntemine kıyasla agentic kodlama görevlerinde %6,1'e varan performans artışı sağlamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -132,39 +141,48 @@
       ]
     },
     {
-      "claim": "HOPE yöntemi, tüm koşullar genelinde 5 yöntem arasından 2,07 ortalama sıra ile en iyi performansı göstermiştir.",
+      "claim": "GLM-4.5-Air modeli, katman başına 128 uzman ve toplam 106 milyar parametreye sahiptir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-          "quote": "Across all conditions, HOPE achieved the best average rank (2.07 out of 5 methods)"
+          "quote": "Visualization of the interaction matrix F for GLM-4.5-Air (128 experts per layer, 106B parameters total) at three representative layers (early, middle, late)."
+        },
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "Visualization of the interaction matrix F for GLM-4.5-Air (128 experts per layer, 106B parameters total)"
         }
       ]
     },
     {
-      "claim": "%50 budama oranında HOPE'un ortalama sırası 1,58'e yükselirken, en iyi ikinci yöntem olan REAP'in ortalama sırası 2,42 olarak gerçekleşmiştir.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "Qwen3.5-35B-A3B modelinde %50 budama oranında HOPE, SWE-Bench Pro testinde 42,3 puan alarak 41,8 puan alan budanmamış modeli geçmiştir.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "HOPE yönteminin F-matrisi köşegeni, REAP yönteminin uzman sıralamalarını 0,99 Spearman korelasyonu ile neredeyse mükemmel şekilde kurtarmaktadır.",
+      "claim": "HOPE yöntemi, Qwen3.5-122B, Qwen3.5-35B ve GLM-4.5-Air olmak üzere üç farklı model üzerinde test edilmiştir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-          "quote": "The diagonal of recovers REAP's expert rankings almost perfectly (Spearman )."
+          "quote": "We evaluated HOPE as an expert pruning method using 3 models (Qwen3.5-122B, Qwen3.5-35B, and GLM-4.5-Air)"
         }
       ]
+    },
+    {
+      "claim": "HOPE yöntemi, Evol-CodeAlpaca ve SWE-Bench Verified trajectories olmak üzere iki farklı kalibrasyon veri seti kullanılarak değerlendirilmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "We evaluated HOPE as an expert pruning method using 3 models (Qwen3.5-122B, Qwen3.5-35B, and GLM-4.5-Air), with 2 calibration datasets (Evol-CodeAlpaca and SWE-Bench Verified trajectories)."
+        }
+      ]
+    },
+    {
+      "claim": "Qwen3.5-35B-A3B modelinde %50 budama oranında HOPE yöntemi SWE-Bench Pro üzerinde 42,3 puan alırken, budanmamış model 41,8 puan almıştır.",
+      "verdict": "not_found",
+      "evidence": []
     }
   ],
   "round2": [
     {
-      "claim": "Qwen3.5-122B modeli, 48 MoE katmanının her birinde 256 uzmana sahiptir.",
+      "claim": "Qwen3.5-122B modelinde her birinde 256 uzman bulunan 48 adet MoE katmanı mevcuttur.",
       "verdict": "supported",
       "evidence": [
         {
@@ -188,7 +206,7 @@
       ]
     },
     {
-      "claim": "HOPE (Higher-Order Pruning of Experts), uzmanlar arasındaki ikili etkileşimleri hesaba katan ikinci dereceden bir budama yöntemidir.",
+      "claim": "HOPE yöntemi, uzmanlar arasındaki ikili etkileşimleri hesaba katan ikinci dereceden bir budama yöntemidir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -198,7 +216,7 @@
       ]
     },
     {
-      "claim": "HOPE yöntemi, %50 budama oranında, en iyi ikinci budama yöntemine kıyasla agentic kodlama görevlerinde %6,1'e varan performans artışı sağlamaktadır.",
+      "claim": "HOPE yöntemi %50 budama oranında, bir sonraki en iyi budama yöntemine kıyasla agentic kodlama görevlerinde %6,1'e varan performans artışı sağlamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -208,34 +226,43 @@
       ]
     },
     {
-      "claim": "HOPE yöntemi, tüm koşullar genelinde 5 yöntem arasından 2,07 ortalama sıra ile en iyi performansı göstermiştir.",
+      "claim": "GLM-4.5-Air modeli, katman başına 128 uzman ve toplam 106 milyar parametreye sahiptir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-          "quote": "Across all conditions, HOPE achieved the best average rank (2.07 out of 5 methods)"
+          "quote": "Visualization of the interaction matrix F for GLM-4.5-Air (128 experts per layer, 106B parameters total) at three representative layers (early, middle, late)."
+        },
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "Visualization of the interaction matrix F for GLM-4.5-Air (128 experts per layer, 106B parameters total)"
         }
       ]
     },
     {
-      "claim": "%50 budama oranında HOPE'un ortalama sırası 1,58'e yükselirken, en iyi ikinci yöntem olan REAP'in ortalama sırası 2,42 olarak gerçekleşmiştir.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "Qwen3.5-35B-A3B modelinde %50 budama oranında HOPE, SWE-Bench Pro testinde 42,3 puan alarak 41,8 puan alan budanmamış modeli geçmiştir.",
-      "verdict": "not_found",
-      "evidence": []
-    },
-    {
-      "claim": "HOPE yönteminin F-matrisi köşegeni, REAP yönteminin uzman sıralamalarını 0,99 Spearman korelasyonu ile neredeyse mükemmel şekilde kurtarmaktadır.",
+      "claim": "HOPE yöntemi, Qwen3.5-122B, Qwen3.5-35B ve GLM-4.5-Air olmak üzere üç farklı model üzerinde test edilmiştir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-          "quote": "The diagonal of recovers REAP's expert rankings almost perfectly (Spearman )."
+          "quote": "We evaluated HOPE as an expert pruning method using 3 models (Qwen3.5-122B, Qwen3.5-35B, and GLM-4.5-Air)"
         }
       ]
+    },
+    {
+      "claim": "HOPE yöntemi, Evol-CodeAlpaca ve SWE-Bench Verified trajectories olmak üzere iki farklı kalibrasyon veri seti kullanılarak değerlendirilmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "We evaluated HOPE as an expert pruning method using 3 models (Qwen3.5-122B, Qwen3.5-35B, and GLM-4.5-Air), with 2 calibration datasets (Evol-CodeAlpaca and SWE-Bench Verified trajectories)."
+        }
+      ]
+    },
+    {
+      "claim": "Qwen3.5-35B-A3B modelinde %50 budama oranında HOPE yöntemi SWE-Bench Pro üzerinde 42,3 puan alırken, budanmamış model 41,8 puan almıştır.",
+      "verdict": "not_found",
+      "evidence": []
     }
   ],
   "source_texts": {
