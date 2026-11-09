@@ -7,12 +7,12 @@
     "Wired",
     "TechCrunch"
   ],
-  "checked_at": "2026-11-09T15:07:22+03:00",
+  "checked_at": "2026-11-09T15:13:08+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Instagram, Facebook ve Messenger'daki Genç Hesapları, gençlerin kimlerin iletişim kurabileceğini, gördükleri içeriği ve uygulama sürelerini otomatik olarak sınırlar.",
+      "claim": "Meta, Instagram, Facebook ve Messenger uygulamalarında genç hesapları için otomatik korumalar sunmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,27 +22,21 @@
       ]
     },
     {
-      "claim": "Meta, yetişkin doğum günü kullanan kişileri bile genç olarak tespit etmek için yapay zeka teknolojisini küresel olarak genişletmektedir.",
+      "claim": "Meta, kullanıcıların yaşını tahmin etmek ve gençleri koruma altına almak için yapay zeka teknolojisi kullanmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-          "quote": "We use AI technology to find people we suspect to be teens, even if they use an adult birthday, and place them in Teen Account protections. Since first introducing this technology, we’ve been placing more teens in age-appropriate protections and are encouraged by the results. Based on that success, today we’re expanding this technology globally."
-        }
-      ]
-    },
-    {
-      "claim": "Meta, bu yılın ilerleyen zamanlarında benzer teknolojiyi Threads üzerinde küresel olarak kullanmaya başlayacaktır.",
-      "verdict": "supported",
-      "evidence": [
+          "quote": "We use AI technology to find people we suspect to be teens, even if they use an adult birthday, and place them in Teen Account protections."
+        },
         {
-          "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-          "quote": "We’re continuing to roll this technology out on Facebook and, later this year, we’ll begin launching similar technology globally on Threads."
+          "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
+          "quote": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven’t correctly disclosed their age."
         }
       ]
     },
     {
-      "claim": "Bu genişleme, 52 iki partili eyalet başsavcısı ile yapılan anlaşma kapsamındaki taahhütlere dayanmaktadır.",
+      "claim": "Meta, 52 iki partili eyalet başsavcısı ile gençlerin ve 13 yaş altı çocukların tanımlanmasını güçlendirmek için bir anlaşma yapmıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -52,17 +46,17 @@
       ]
     },
     {
-      "claim": "ABD'deki ebeveynler bu ay Instagram'da gençlerin yaşa uygun korumalarda olmasını sağlayan yaklaşımı açıklayan bir akış içi video görmeye başlayacaktır.",
+      "claim": "Meta, Threads uygulamasında benzer yaş doğrulama teknolojisini bu yılın ilerleyen dönemlerinde küresel olarak başlatacaktır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-          "quote": "This month, parents in the United States will begin to see an in-feed video on Instagram explaining our approach to ensuring their teens are in age-appropriate protections."
+          "quote": "We’re continuing to roll this technology out on Facebook and, later this year, we’ll begin launching similar technology globally on Threads."
         }
       ]
     },
     {
-      "claim": "İnternet güvenliği savunucusu ve ConnectSafely Başkanı ve CEO'su Larry Magid, yaş güvencesi yaklaşımını detcelendiren bir makale kaleme almıştır.",
+      "claim": "Larry Magid, ConnectSafely'nin Başkanı ve CEO'su olarak Meta'nın yaş güvencesi yaklaşımını detaylandıran bir makale kaleme almıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -72,37 +66,43 @@
       ]
     },
     {
-      "claim": "Avustralya'da, bir ebeveyn akıllı telefon kurduğunda, uygulama mağazasının kullanıcının yaşını onaylaması ve bir yaş aralığı ataması için seçenek sunulmaktadır.",
+      "claim": "Meta, Avustralya'da kullanıcıların yaş aralığını anlamak için Apple'ın yaş aralığı sinyalini kullanmaya başlamıştır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-          "quote": "When a parent sets up a smartphone for their teen, they have the option for the app store to confirm the age of the person using the device and assign them an age range."
-        },
-        {
-          "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-          "quote": "In Australia, we’ve begun using Apple’s age-range signal as another method to help understand age. The process is simple. When a parent sets up a smartphone for their teen, they have the option for the app store to confirm the age of the person using the device and assign them an age range."
+          "quote": "In Australia, we’ve begun using Apple’s age-range signal as another method to help understand age."
         }
       ]
     },
     {
-      "claim": "Meta, gençleri ve 13 yaşın altındaki çocukları belirleme teknolojisini güçlendirmek için 52 iki partili başsavcı ile anlaşma yapmıştır.",
+      "claim": "Meta, 13 yaşın altındaki çocuklara ait hesapları tespit etmek için daha güçlü teknolojilere yatırım yapmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-          "quote": "That’s why as part of our agreement with 52 bipartisan attorneys general across US states, territories, and the District of Columbia, we’re investing in even stronger technology to proactively catch accounts that may belong to children under 13. We’re also strengthening the technology we use to identify accounts that may belong to teens between the ages of 13 and 17"
+          "quote": "That’s why as part of our agreement with 52 bipartisan attorneys general across US states, territories, and the District of Columbia, we’re investing in even stronger technology to proactively catch accounts that may belong to children under 13."
         },
         {
           "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-          "quote": "That’s why as part of our agreement with 52 bipartisan attorneys general across US states, territories, and the District of Columbia, we’re investing in even stronger technology to proactively catch accounts that may belong to children under 13. We’re also strengthening the technology we use to identify accounts that may belong to teens between the ages of 13 and 17 so we can ensure those accounts are placed in experiences designed for teens"
+          "quote": "that’s why as part of our agreement with 52 bipartisan attorneys general across US states, territories, and the District of Columbia, we’re investing in even stronger technology to proactively catch accounts that may belong to children under 13."
+        }
+      ]
+    },
+    {
+      "claim": "Meta, TikTok ve YouTube'u gençlerin güvenliğini sağlamak için kendi yaş doğrulama uygulamalarını benimsemeye çağırmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
+          "quote": "As Instagram is just one of the many apps teens use, we’re also calling on our industry peers, TikTok and YouTube, to adopt these same practices to keep teens safe."
         }
       ]
     }
   ],
   "round1": [
     {
-      "claim": "Instagram, Facebook ve Messenger'daki Genç Hesapları, gençlerin kimlerin iletişim kurabileceğini, gördükleri içeriği ve uygulama sürelerini otomatik olarak sınırlar.",
+      "claim": "Meta, Instagram, Facebook ve Messenger uygulamalarında genç hesapları için otomatik korumalar sunmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -112,27 +112,21 @@
       ]
     },
     {
-      "claim": "Meta, yetişkin doğum günü kullanan kişileri bile genç olarak tespit etmek için yapay zeka teknolojisini küresel olarak genişletmektedir.",
+      "claim": "Meta, kullanıcıların yaşını tahmin etmek ve gençleri koruma altına almak için yapay zeka teknolojisi kullanmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-          "quote": "We use AI technology to find people we suspect to be teens, even if they use an adult birthday, and place them in Teen Account protections. Since first introducing this technology, we’ve been placing more teens in age-appropriate protections and are encouraged by the results. Based on that success, today we’re expanding this technology globally."
-        }
-      ]
-    },
-    {
-      "claim": "Meta, bu yılın ilerleyen zamanlarında benzer teknolojiyi Threads üzerinde küresel olarak kullanmaya başlayacaktır.",
-      "verdict": "supported",
-      "evidence": [
+          "quote": "We use AI technology to find people we suspect to be teens, even if they use an adult birthday, and place them in Teen Account protections."
+        },
         {
-          "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-          "quote": "We’re continuing to roll this technology out on Facebook and, later this year, we’ll begin launching similar technology globally on Threads."
+          "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
+          "quote": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven’t correctly disclosed their age."
         }
       ]
     },
     {
-      "claim": "Bu genişleme, 52 iki partili eyalet başsavcısı ile yapılan anlaşma kapsamındaki taahhütlere dayanmaktadır.",
+      "claim": "Meta, 52 iki partili eyalet başsavcısı ile gençlerin ve 13 yaş altı çocukların tanımlanmasını güçlendirmek için bir anlaşma yapmıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -142,17 +136,17 @@
       ]
     },
     {
-      "claim": "ABD'deki ebeveynler bu ay Instagram'da gençlerin yaşa uygun korumalarda olmasını sağlayan yaklaşımı açıklayan bir akış içi video görmeye başlayacaktır.",
+      "claim": "Meta, Threads uygulamasında benzer yaş doğrulama teknolojisini bu yılın ilerleyen dönemlerinde küresel olarak başlatacaktır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-          "quote": "This month, parents in the United States will begin to see an in-feed video on Instagram explaining our approach to ensuring their teens are in age-appropriate protections."
+          "quote": "We’re continuing to roll this technology out on Facebook and, later this year, we’ll begin launching similar technology globally on Threads."
         }
       ]
     },
     {
-      "claim": "İnternet güvenliği savunucusu ve ConnectSafely Başkanı ve CEO'su Larry Magid, yaş güvencesi yaklaşımını detcelendiren bir makale kaleme almıştır.",
+      "claim": "Larry Magid, ConnectSafely'nin Başkanı ve CEO'su olarak Meta'nın yaş güvencesi yaklaşımını detaylandıran bir makale kaleme almıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -162,37 +156,43 @@
       ]
     },
     {
-      "claim": "Avustralya'da, bir ebeveyn akıllı telefon kurduğunda, uygulama mağazasının kullanıcının yaşını onaylaması ve bir yaş aralığı ataması için seçenek sunulmaktadır.",
+      "claim": "Meta, Avustralya'da kullanıcıların yaş aralığını anlamak için Apple'ın yaş aralığı sinyalini kullanmaya başlamıştır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-          "quote": "When a parent sets up a smartphone for their teen, they have the option for the app store to confirm the age of the person using the device and assign them an age range."
-        },
-        {
-          "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-          "quote": "In Australia, we’ve begun using Apple’s age-range signal as another method to help understand age. The process is simple. When a parent sets up a smartphone for their teen, they have the option for the app store to confirm the age of the person using the device and assign them an age range."
+          "quote": "In Australia, we’ve begun using Apple’s age-range signal as another method to help understand age."
         }
       ]
     },
     {
-      "claim": "Meta, gençleri ve 13 yaşın altındaki çocukları belirleme teknolojisini güçlendirmek için 52 iki partili başsavcı ile anlaşma yapmıştır.",
+      "claim": "Meta, 13 yaşın altındaki çocuklara ait hesapları tespit etmek için daha güçlü teknolojilere yatırım yapmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-          "quote": "That’s why as part of our agreement with 52 bipartisan attorneys general across US states, territories, and the District of Columbia, we’re investing in even stronger technology to proactively catch accounts that may belong to children under 13. We’re also strengthening the technology we use to identify accounts that may belong to teens between the ages of 13 and 17"
+          "quote": "That’s why as part of our agreement with 52 bipartisan attorneys general across US states, territories, and the District of Columbia, we’re investing in even stronger technology to proactively catch accounts that may belong to children under 13."
         },
         {
           "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-          "quote": "That’s why as part of our agreement with 52 bipartisan attorneys general across US states, territories, and the District of Columbia, we’re investing in even stronger technology to proactively catch accounts that may belong to children under 13. We’re also strengthening the technology we use to identify accounts that may belong to teens between the ages of 13 and 17 so we can ensure those accounts are placed in experiences designed for teens"
+          "quote": "that’s why as part of our agreement with 52 bipartisan attorneys general across US states, territories, and the District of Columbia, we’re investing in even stronger technology to proactively catch accounts that may belong to children under 13."
+        }
+      ]
+    },
+    {
+      "claim": "Meta, TikTok ve YouTube'u gençlerin güvenliğini sağlamak için kendi yaş doğrulama uygulamalarını benimsemeye çağırmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
+          "quote": "As Instagram is just one of the many apps teens use, we’re also calling on our industry peers, TikTok and YouTube, to adopt these same practices to keep teens safe."
         }
       ]
     }
   ],
   "round2": [
     {
-      "claim": "Instagram, Facebook ve Messenger'daki Genç Hesapları, gençlerin kimlerin iletişim kurabileceğini, gördükleri içeriği ve uygulama sürelerini otomatik olarak sınırlar.",
+      "claim": "Meta, Instagram, Facebook ve Messenger uygulamalarında genç hesapları için otomatik korumalar sunmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -202,27 +202,21 @@
       ]
     },
     {
-      "claim": "Meta, yetişkin doğum günü kullanan kişileri bile genç olarak tespit etmek için yapay zeka teknolojisini küresel olarak genişletmektedir.",
+      "claim": "Meta, kullanıcıların yaşını tahmin etmek ve gençleri koruma altına almak için yapay zeka teknolojisi kullanmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-          "quote": "We use AI technology to find people we suspect to be teens, even if they use an adult birthday, and place them in Teen Account protections. Since first introducing this technology, we’ve been placing more teens in age-appropriate protections and are encouraged by the results. Based on that success, today we’re expanding this technology globally."
-        }
-      ]
-    },
-    {
-      "claim": "Meta, bu yılın ilerleyen zamanlarında benzer teknolojiyi Threads üzerinde küresel olarak kullanmaya başlayacaktır.",
-      "verdict": "supported",
-      "evidence": [
+          "quote": "We use AI technology to find people we suspect to be teens, even if they use an adult birthday, and place them in Teen Account protections."
+        },
         {
-          "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-          "quote": "We’re continuing to roll this technology out on Facebook and, later this year, we’ll begin launching similar technology globally on Threads."
+          "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
+          "quote": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven’t correctly disclosed their age."
         }
       ]
     },
     {
-      "claim": "Bu genişleme, 52 iki partili eyalet başsavcısı ile yapılan anlaşma kapsamındaki taahhütlere dayanmaktadır.",
+      "claim": "Meta, 52 iki partili eyalet başsavcısı ile gençlerin ve 13 yaş altı çocukların tanımlanmasını güçlendirmek için bir anlaşma yapmıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -232,17 +226,17 @@
       ]
     },
     {
-      "claim": "ABD'deki ebeveynler bu ay Instagram'da gençlerin yaşa uygun korumalarda olmasını sağlayan yaklaşımı açıklayan bir akış içi video görmeye başlayacaktır.",
+      "claim": "Meta, Threads uygulamasında benzer yaş doğrulama teknolojisini bu yılın ilerleyen dönemlerinde küresel olarak başlatacaktır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-          "quote": "This month, parents in the United States will begin to see an in-feed video on Instagram explaining our approach to ensuring their teens are in age-appropriate protections."
+          "quote": "We’re continuing to roll this technology out on Facebook and, later this year, we’ll begin launching similar technology globally on Threads."
         }
       ]
     },
     {
-      "claim": "İnternet güvenliği savunucusu ve ConnectSafely Başkanı ve CEO'su Larry Magid, yaş güvencesi yaklaşımını detcelendiren bir makale kaleme almıştır.",
+      "claim": "Larry Magid, ConnectSafely'nin Başkanı ve CEO'su olarak Meta'nın yaş güvencesi yaklaşımını detaylandıran bir makale kaleme almıştır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -252,30 +246,36 @@
       ]
     },
     {
-      "claim": "Avustralya'da, bir ebeveyn akıllı telefon kurduğunda, uygulama mağazasının kullanıcının yaşını onaylaması ve bir yaş aralığı ataması için seçenek sunulmaktadır.",
+      "claim": "Meta, Avustralya'da kullanıcıların yaş aralığını anlamak için Apple'ın yaş aralığı sinyalini kullanmaya başlamıştır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-          "quote": "When a parent sets up a smartphone for their teen, they have the option for the app store to confirm the age of the person using the device and assign them an age range."
-        },
-        {
-          "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-          "quote": "In Australia, we’ve begun using Apple’s age-range signal as another method to help understand age. The process is simple. When a parent sets up a smartphone for their teen, they have the option for the app store to confirm the age of the person using the device and assign them an age range."
+          "quote": "In Australia, we’ve begun using Apple’s age-range signal as another method to help understand age."
         }
       ]
     },
     {
-      "claim": "Meta, gençleri ve 13 yaşın altındaki çocukları belirleme teknolojisini güçlendirmek için 52 iki partili başsavcı ile anlaşma yapmıştır.",
+      "claim": "Meta, 13 yaşın altındaki çocuklara ait hesapları tespit etmek için daha güçlü teknolojilere yatırım yapmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-          "quote": "That’s why as part of our agreement with 52 bipartisan attorneys general across US states, territories, and the District of Columbia, we’re investing in even stronger technology to proactively catch accounts that may belong to children under 13. We’re also strengthening the technology we use to identify accounts that may belong to teens between the ages of 13 and 17"
+          "quote": "That’s why as part of our agreement with 52 bipartisan attorneys general across US states, territories, and the District of Columbia, we’re investing in even stronger technology to proactively catch accounts that may belong to children under 13."
         },
         {
           "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-          "quote": "That’s why as part of our agreement with 52 bipartisan attorneys general across US states, territories, and the District of Columbia, we’re investing in even stronger technology to proactively catch accounts that may belong to children under 13. We’re also strengthening the technology we use to identify accounts that may belong to teens between the ages of 13 and 17 so we can ensure those accounts are placed in experiences designed for teens"
+          "quote": "that’s why as part of our agreement with 52 bipartisan attorneys general across US states, territories, and the District of Columbia, we’re investing in even stronger technology to proactively catch accounts that may belong to children under 13."
+        }
+      ]
+    },
+    {
+      "claim": "Meta, TikTok ve YouTube'u gençlerin güvenliğini sağlamak için kendi yaş doğrulama uygulamalarını benimsemeye çağırmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
+          "quote": "As Instagram is just one of the many apps teens use, we’re also calling on our industry peers, TikTok and YouTube, to adopt these same practices to keep teens safe."
         }
       ]
     }
