@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 117.2,
+  "candidates_tried": 1,
+  "gemini_calls": 12,
+  "canonical_url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+  "generated_at": "2026-11-09T16:44:27+03:00"
+}

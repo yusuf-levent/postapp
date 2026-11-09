@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ VE DÜNYA GÜNDEMİ",
+    "title": "Nvidia'da Jensen Huang Krizi ve Teknoloji Dünyası",
+    "highlight_words": [
+      "Nvidia",
+      "Jensen Huang"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Borsa hareketlerinden büyük teknoloji şirketlerine yönelik yeni soruşturmalara kadar haftanın öne çıkan gelişmeleri.",
+    "source_tags": [
+      "NVIDIA NEWSROOM",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Haftanın Öne Çıkan Gelişmeleri",
+    "cards": [
+      {
+        "card_title": "Nvidia'da Casusluk İddiası",
+        "card_body": "Jensen Huang, Çin casusu olduğundan şüphelenilen bir kişiyle ilişkisi olduğu iddiaları üzerine çalışanlarından özür diledi."
+      },
+      {
+        "card_title": "Teknoloji Devlerine Soruşturma",
+        "card_body": "Demokratlar; Apple, Meta ve Elon Musk'ın şirketleri başta olmak üzere büyük teknoloji firmalarına yönelik soruşturma planlıyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "%5",
+    "stat_caption": "Nvidia hisselerinin borsa öncesi işlemlerde yaşadığı değer kaybı.",
+    "stat_quote": "Jensen Huang'ın bir Çin casusu olduğundan şüphelenilen kişiyle ilişkisi olduğu haberlerinin ardından Nvidia hisseleri düşüş yaşadı. - NVIDIA Newsroom"
+  },
+  "details": {
+    "heading": "Teknoloji Dünyasından Notlar",
+    "cards": [
+      {
+        "card_title": "Çinli Yapay Zeka Laboratuvarları",
+        "card_body": "MiniMax ve Moonshot gibi Çinli yapay zeka laboratuvarları, ABD'deki yeni ofislerine çalışan bulmakta zorlanıyor."
+      },
+      {
+        "card_title": "Robotlar ve Hukuk",
+        "card_body": "Philadelphia'da Carolyn Marvin, teslimat robotlarının yolunu kestiği gerekçesiyle mahkemeye çıkacak."
+      },
+      {
+        "card_title": "Tesla'da Üretim Durdu",
+        "card_body": "Tesla, Cybertruck modelinin üretimini durdurma kararı aldı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel ve Çevresel Etkiler",
+    "cards": [
+      {
+        "card_title": "İklim Krizi ve Karbon Yutağı",
+        "card_body": "Dünyanın 1,5 °C ısınma sınırını aşacağı doğrulandı. Tropikal ormanlar, karadaki toplam karbonun %40'ını depolayan en büyük yutak."
+      },
+      {
+        "card_title": "Düzenleyici Baskılar",
+        "card_body": "Büyük teknoloji şirketlerine yönelik planlanan soruşturmalar, sektördeki regülasyonların sıkılaşacağının bir işareti."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Teknoloji devlerine yönelik bu yeni soruşturmalar sizce sektörün geleceğini nasıl etkileyecek?",
+    "reminder_line": "Tekno Pusula ile gündemi yakından takip etmeye devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
