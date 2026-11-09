@@ -3,7 +3,7 @@
 **Haber:** NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum
 **Canonical URL:** https://blogs.nvidia.com/blog/korean-startup-investments-msit/
 **Kaynaklar:** NVIDIA Newsroom, TechCrunch, NVIDIA Newsroom, The Verge
-**Kontrol zamanı:** 2026-11-09T11:47:38+03:00
+**Kontrol zamanı:** 2026-11-09T11:52:57+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
@@ -28,29 +28,27 @@
   - [https://blogs.nvidia.com/blog/korean-startup-investments-msit/](https://blogs.nvidia.com/blog/korean-startup-investments-msit/)
     > NVIDIA also announced an investment in Korean startup Point2, with additional investments planned in Motif Technologies, RLWRLD and Upstage.
 
-### 4. Point2 Technology is an AI interconnect company that builds scalable, radio frequency-based interconnects for AI factories.
+### 4. Point2 Technology builds scalable, radio frequency-based interconnects that move data between chips and racks in AI factories.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://blogs.nvidia.com/blog/korean-startup-investments-msit/](https://blogs.nvidia.com/blog/korean-startup-investments-msit/)
     > Point2 Technology, an AI interconnect company, builds scalable, radio frequency-based interconnects that move data between chips and racks in AI factories
 
-### 5. Motif Technologies is a Seoul-based AI lab that develops foundation models for building AI agents, including the open-weights large language model Motif-3.
+### 5. Motif Technologies develops foundation models for building AI agents, including Motif-3, a large language model released with open weights.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://blogs.nvidia.com/blog/korean-startup-investments-msit/](https://blogs.nvidia.com/blog/korean-startup-investments-msit/)
     > Motif Technologies, a Seoul-based AI lab, develops foundation models for building AI agents that carry out complex tasks, including Motif-3, a large language model released with open weights.
 
-### 6. RLWRLD is a physical AI startup based in San Francisco, Seoul and Tokyo that develops robotics foundation models for humanoid and industrial robots.
+### 6. RLWRLD develops robotics foundation models that enable humanoid and industrial robots to perform complex real-world tasks requiring five-finger dexterity.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://blogs.nvidia.com/blog/korean-startup-investments-msit/](https://blogs.nvidia.com/blog/korean-startup-investments-msit/)
-    > RLWRLD, a physical AI startup based in San Francisco, Seoul and Tokyo, develops robotics foundation models that enable humanoid and industrial robots to perform complex real-world tasks
+    > RLWRLD, a physical AI startup based in San Francisco, Seoul and Tokyo, develops robotics foundation models that enable humanoid and industrial robots to perform complex real-world tasks that require five-finger dexterity
 
-### 7. Upstage is a Korean enterprise AI company that develops Solar language models and document AI tools.
+### 7. Upstage develops Solar language models and document AI tools that help businesses extract information from complex documents and streamline workflows.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
-  - [https://blogs.nvidia.com/blog/korean-startup-investments-msit/](https://blogs.nvidia.com/blog/korean-startup-investments-msit/)
-    > Upstage, a Korean enterprise AI company, develops Solar language models and document AI tools that help businesses extract information from complex documents
   - [https://blogs.nvidia.com/blog/korean-startup-investments-msit/](https://blogs.nvidia.com/blog/korean-startup-investments-msit/)
     > Upstage, a Korean enterprise AI company, develops Solar language models and document AI tools that help businesses extract information from complex documents, streamline workflows and build AI applications for everyday operations.
 
@@ -58,9 +56,9 @@
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://blogs.nvidia.com/blog/korean-startup-investments-msit/](https://blogs.nvidia.com/blog/korean-startup-investments-msit/)
-    > more than 1,000 Korea-based members of NVIDIA Inception, a program that helps startups grow with access to preferred pricing, technical expertise and opportunities for investor introductions.
+    > The planned investments build on NVIDIA’s work with Korea’s startup and venture community, including more than 1,000 Korea-based members of NVIDIA Inception, a program that helps startups grow with access to preferred pricing, technical expertise and opportunities for investor introductions.
   - [https://blogs.nvidia.com/blog/korean-startup-investments-msit/](https://blogs.nvidia.com/blog/korean-startup-investments-msit/)
-    > including more than 1,000 Korea-based members of NVIDIA Inception, a program that helps startups grow with access to preferred pricing, technical expertise and opportunities for investor introductions.
+    > more than 1,000 Korea-based members of NVIDIA Inception, a program that helps startups grow with access to preferred pricing, technical expertise and opportunities for investor introductions.
 
 ---
 
@@ -71,10 +69,10 @@
 | Korea's Ministry of Science and ICT and NVIDIA hosted the MS | supported | supported | supported |
 | Ryu Je-myung, vice minister of science and ICT, met with ove | supported | supported | supported |
 | NVIDIA announced an investment in Korean startup Point2, wit | supported | supported | supported |
-| Point2 Technology is an AI interconnect company that builds  | supported | supported | supported |
-| Motif Technologies is a Seoul-based AI lab that develops fou | supported | supported | supported |
-| RLWRLD is a physical AI startup based in San Francisco, Seou | supported | supported | supported |
-| Upstage is a Korean enterprise AI company that develops Sola | supported | supported | supported |
+| Point2 Technology builds scalable, radio frequency-based int | supported | supported | supported |
+| Motif Technologies develops foundation models for building A | supported | supported | supported |
+| RLWRLD develops robotics foundation models that enable human | supported | supported | supported |
+| Upstage develops Solar language models and document AI tools | supported | supported | supported |
 | More than 1,000 Korea-based members participate in NVIDIA In | supported | supported | supported |
 
 ## Kaynak Metinleri

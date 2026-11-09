@@ -6,28 +6,28 @@
       "NVIDIA",
       "Kore"
     ],
-    "highlight_color": "cyan",
-    "subtitle": "MSIT-NVIDIA AI Startup Partnership Forum COEX'te gerçekleştirildi.",
+    "highlight_color": "yellow",
+    "subtitle": "MSIT-NVIDIA AI Startup Partnership Forum etkinliğinde önemli yatırımlar duyuruldu.",
     "source_tags": [
       "NVIDIA NEWSROOM",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Forum ve Görüşmeler",
+    "heading": "Kore ve NVIDIA Buluşması",
     "cards": [
       {
         "card_title": "MSIT-NVIDIA Forumu",
-        "card_body": "Korea's Ministry of Science and ICT ve NVIDIA, COEX'te MSIT-NVIDIA AI Startup Partnership Forum'una ev sahipliği yaptı."
+        "card_body": "Korea's Ministry of Science and ICT ve NVIDIA, COEX'te ortak bir AI Startup Partnership Forum düzenledi."
       },
       {
         "card_title": "Geniş Katılım",
-        "card_body": "Bakan yardımcısı Ryu Je-myung, temel modeller, fiziksel yapay zeka ve altyapı alanlarında 20'den fazla Koreli girişimle bir araya geldi."
+        "card_body": "Bilim ve BİT Bakan Yardımcısı Ryu Je-myung, temeller, fiziksel AI, altyapı ve yarı iletken alanlarında 20'den fazla Koreli girişimle bir araya geldi."
       }
     ]
   },
   "stat": {
-    "big_stat": "1000+",
+    "big_stat": "1.000+",
     "stat_caption": "NVIDIA Inception programına katılan Kore merkezli üye sayısı.",
     "stat_quote": "More than 1,000 Korea-based members participate in NVIDIA Inception, a program that helps startups grow."
   },
@@ -36,34 +36,34 @@
     "cards": [
       {
         "card_title": "Point2 Technology",
-        "card_body": "Yapay zeka fabrikaları için ölçeklenebilir, radyo frekansı tabanlı bağlantılar üreten bir yapay zeka bağlantı şirketidir."
+        "card_body": "NVIDIA tarafından yatırımı açıklanan Point2, AI fabrikalarında çip ve raflar arasında veri taşıyan ölçeklenebilir bağlantılar geliştiriyor."
       },
       {
         "card_title": "Motif Technologies ve RLWRLD",
-        "card_body": "Motif-3 modelini geliştiren Motif Technologies ve insansı robotlar için robotik temelleri geliştiren fiziksel yapay zeka girişimi RLWRLD."
+        "card_body": "Motif açık ağırlıklı Motif-3 modelini geliştirirken, RLWRLD insansı robotlar için beş parmak mahareti gerektiren görev modelleri üretiyor."
       },
       {
         "card_title": "Upstage",
-        "card_body": "Solar dil modellerini ve belge yapay zeka araçlarını geliştiren Koreli bir kurumsal yapay zeka şirketidir."
+        "card_body": "Upstage, işletmelerin karmaşık belgelerden bilgi çıkarmasını sağlayan Solar dil modelleri ve belge AI araçları geliştiriyor."
       }
     ]
   },
   "impact": {
-    "heading": "Sektörel Etki",
+    "heading": "Sektörel Etkiler",
     "cards": [
       {
-        "card_title": "Yapay Zeka Fabrikaları",
-        "card_body": "Point2 Technology'nin radyo frekansı tabanlı bağlantıları, yapay zeka fabrikalarının altyapısını güçlendiriyor."
+        "card_title": "Yapay Zeka Altyapısı",
+        "card_body": "Point2 ve benzeri girişimler, AI fabrikalarındaki veri akışını hızlandırarak donanım verimliliğini artırıyor."
       },
       {
         "card_title": "Robotik ve Dil Modelleri",
-        "card_body": "RLWRLD ve Upstage gibi şirketler, robotik temelleri ve dil modelleri ile ekosistemi genişletiyor."
+        "card_body": "Fiziksel AI ve açık ağırlıklı dil modelleri, hem endüstriyel otomasyona hem de iş akışı otomasyonuna katkı sunuyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce bu ortaklıklar yapay zeka girişimlerinin global büyümesini nasıl etkiler?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+    "question": "Sizce donanım ve yazılım ortaklıkları yapay zeka ekosistemini nasıl şekillendirecek?",
+    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
