@@ -1,69 +1,69 @@
 {
   "cover": {
     "category_label": "YAPAY ZEKA VE GİRİŞİMCİLİK",
-    "title": "NVIDIA ve Güney Kore Yapay Zeka Ortaklığı",
+    "title": "NVIDIA ve Kore'den Yapay Zeka Hamlesi",
     "highlight_words": [
       "NVIDIA",
-      "Güney Kore"
+      "Kore"
     ],
     "highlight_color": "yellow",
-    "subtitle": "MSIT-NVIDIA AI Startup Partnership Forum COEX'te gerçekleştirildi.",
+    "subtitle": "MSIT-NVIDIA AI Startup Partnership Forum etkinliğinde önemli yatırımlar duyuruldu.",
     "source_tags": [
       "NVIDIA NEWSROOM",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Forum ve Görüşmeler",
+    "heading": "Kore'de Yapay Zeka Buluşması",
     "cards": [
       {
-        "card_title": "MSIT-NVIDIA Forumu",
-        "card_body": "Korea's Ministry of Science and ICT ve NVIDIA, COEX'te ortaklaşa bir AI Startup Partnership Forum düzenledi."
+        "card_title": "MSIT ve NVIDIA İş Birliği",
+        "card_body": "Korea's Ministry of Science and ICT ve NVIDIA, COEX merkezinde MSIT-NVIDIA AI Startup Partnership Forum etkinliğine ev sahipliği yaptı."
       },
       {
-        "card_title": "Geniş Katılım",
-        "card_body": "Bilim ve Bakan Yardımcısı Ryu Je-myung, temeller, fiziksel yapay zeka ve yarı iletkenler alanında 20'den fazla Koreli girişimle bir araya geldi."
+        "card_title": "Geniş Katılımlı Zirve",
+        "card_body": "Bilim ve Bakan Yardımcısı Ryu Je-myung; temel modeller, fiziksel yapay zeka, altyapı ve yarı iletken alanlarında 20'den fazla Koreli girişimle bir araya geldi."
       }
     ]
   },
   "stat": {
     "big_stat": "1.000+",
-    "stat_caption": "NVIDIA Inception programına katılan Güney Kore merkezli üye sayısı.",
-    "stat_quote": "More than 1,000 Korea-based members are part of NVIDIA Inception."
+    "stat_caption": "NVIDIA Inception programına katılan Kore merkezli üye sayısı.",
+    "stat_quote": "More than 1,000 Korea-based members participate in NVIDIA Inception, a program that helps startups grow."
   },
   "details": {
     "heading": "Yatırım Yapılan Girişimler",
     "cards": [
       {
         "card_title": "Point2 Technology",
-        "card_body": "NVIDIA, çip ve raflar arasında veri taşıyan ölçeklenebilir bağlantılar üreten Point2'ye yatırım açıkladı."
+        "card_body": "Yapay zeka fabrikalarındaki çip ve raflar arasında veri taşıyan ölçeklenebilir, radyo frekansı tabanlı bağlantılar geliştiriyor ve NVIDIA bu girişime yatırım açıkladı."
       },
       {
         "card_title": "Motif Technologies ve RLWRLD",
-        "card_body": "Motif açık ağırlıklı Motif-3 modelini geliştirirken, RLWRLD insansı robotlar için temeller sunuyor."
+        "card_body": "Motif, açık ağırlıklı Motif-3 dahil ajan modelleri geliştirirken; RLWRLD, robotların beş parmak hassasiyetiyle karmaşık görevler yapmasını sağlayan modeller üretiyor."
       },
       {
         "card_title": "Upstage",
-        "card_body": "Upstage, işletmeler için Solar dil modelleri ve belge yapay zeka araçları geliştiriyor."
+        "card_body": "Solar dil modelleri ve belge yapay zekası araçları geliştirerek işletmelerin karmaşık belgelerden bilgi ayıklamasını ve iş akışlarını hızlandırmasını sağlıyor."
       }
     ]
   },
   "impact": {
-    "heading": "Sektörel Etki",
+    "heading": "Sektörel Etkiler",
     "cards": [
       {
-        "card_title": "Yapay Zeka Fabrikaları",
-        "card_body": "Radyo frekansı tabanlı bağlantılar, yapay zeka fabrikalarındaki veri akışını güçlendiriyor."
+        "card_title": "Donanım ve Altyapı",
+        "card_body": "Radyo frekansı tabanlı interconnect teknolojileri, yapay zeka fabrikalarındaki veri akışını ve çip arası iletişim verimliliğini artırıyor."
       },
       {
-        "card_title": "Robotik ve Dil Modelleri",
-        "card_body": "Fiziksel yapay zeka ve büyük dil modelleri, endüstriyel görevlerde beş parmak mahareti gibi yetenekler kazandırıyor."
+        "card_title": "Robotik ve İş Akışı",
+        "card_body": "Geliştirilen robotik temel modeller ve Solar dil modelleri, endüstriyel süreçleri ve karmaşık iş akışlarını optimize ediyor."
       }
     ]
   },
   "cta": {
-    "question": "Güney Kore'deki bu yapay zeka girişimleri küresel pazarı nasıl etkiler?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+    "question": "Sence bu yatırımlar Kore'nin yapay zeka ekosistemini nasıl dönüştürecek?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kal!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
