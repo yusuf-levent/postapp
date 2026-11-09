@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE GÜVENLİK",
+    "title": "Meta'dan Gençler İçin Yeni Yapay Zeka Adımı",
+    "highlight_words": [
+      "Gençler",
+      "Yapay Zeka"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Meta, genç hesaplarını korumak için yapay zeka teknolojisini küresel olarak genişletiyor.",
+    "source_tags": [
+      "META NEWSROOM",
+      "THE VERGE"
+    ]
+  },
+  "context": {
+    "heading": "Genç Hesapları Nasıl Sınırlandırılıyor?",
+    "cards": [
+      {
+        "card_title": "Otomatik Sınırlamalar",
+        "card_body": "Instagram, Facebook ve Messenger'daki Genç Hesapları; iletişimi, görülen içeriği ve uygulama sürelerini otomatik olarak sınırlar."
+      },
+      {
+        "card_title": "Küresel Genişleme",
+        "card_body": "Meta, yetişkin doğum günü kullanan kişileri bile genç olarak tespit etmek için yapay zeka teknolojisini küresel olarak genişletmektedir."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "52",
+    "stat_caption": "Meta ve başsavcılar arasındaki anlaşmaya katılan eyalet başsavcısı sayısı.",
+    "stat_quote": "Bu genişleme, 52 iki partili eyalet başsavcısı ile yapılan anlaşma kapsamındaki taahhütlere dayanmaktadır."
+  },
+  "details": {
+    "heading": "Güvenlik ve Yaş Doğrulama Detayları",
+    "cards": [
+      {
+        "card_title": "Threads Entegrasyonu",
+        "card_body": "Meta, bu yılın ilerleyen zamanlarında benzer teknolojiyi Threads üzerinde küresel olarak kullanmaya başlayacaktır."
+      },
+      {
+        "card_title": "Ebeveyn Bilgilendirmesi",
+        "card_body": "ABD'deki ebeveynler bu ay Instagram'da gençlerin yaşa uygun korumalarda olmasını sağlayan yaklaşımı açıklayan bir akış içi video görmeye başlayacaktır."
+      },
+      {
+        "card_title": "Uluslararası Uygulamalar",
+        "card_body": "Avustralya'da, bir ebeveyn akıllı telefon kurduğunda uygulama mağazası kullanıcının yaşını onaylayıp bir yaş aralığı ataması sunmaktadır."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektör ve Kullanıcı Etkisi",
+    "cards": [
+      {
+        "card_title": "Yapay Zeka ile Tespiti Güçlendirme",
+        "card_body": "Meta, gençleri ve 13 yaşın altındaki çocukları belirleme teknolojisini güçlendirmek için 52 iki partili başsavcı ile anlaşma yapmıştır."
+      },
+      {
+        "card_title": "Uzman Görüşleri",
+        "card_body": "İnternet güvenliği savunucusu ve ConnectSafely Başkanı ve CEO'su Larry Magid, yaş güvencesi yaklaşımını detaylandıran bir makale kaleme almıştır."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sosyal medya platformlarının yaş tespiti için yapay zeka kullanması hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki güvenli gelişmeler için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
