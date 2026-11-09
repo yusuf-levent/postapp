@@ -7,12 +7,12 @@
     "Wired",
     "TechCrunch"
   ],
-  "checked_at": "2026-11-09T15:52:55+03:00",
+  "checked_at": "2026-11-09T15:58:08+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Qwen3.5-122B modeli, her biri 48 MoE katmanına sahip ve her katmanda 256 uzman barındıran bir yapıdadır.",
+      "claim": "Qwen3.5-122B modeli, 48 MoE katmanının her birinde 256 uzman içermektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "claim": "Qwen3.5-122B modelinin yaklaşık 250 GB olan parametre belleğinin %95'i tamamen uzman MLP'leri tarafından kaplanmaktadır.",
+      "claim": "Qwen3.5-122B modelinin yaklaşık 250 GB olan parametre belleğinin %95'i uzman MLP'leri tarafından kaplanmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "claim": "HOPE yöntemi, %50 budama oranında, bir sonraki en iyi budama yöntemine kıyasla agentic kodlama görevlerinde %6,1'e varan performans artışı sağlamaktadır.",
+      "claim": "HOPE yöntemi, %50 budama oranında, en iyi ikinci budama yöntemine kıyasla agentic kodlama görevlerinde %6,1'e varan performans artışı sağlamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "claim": "HOPE yöntemi, tüm test koşullarında 5 yöntem arasında 2,07'lik ortalama başarı sıralaması elde etmiştir.",
+      "claim": "HOPE yöntemi, tüm test koşulları genelinde 5 yöntem arasında 2,07'lik ortalama sıralama elde etmiştir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -66,29 +66,33 @@
       ]
     },
     {
-      "claim": "%50 budama oranında HOPE'un ortalama başarı sıralaması 1,58'e yükselirken, bir sonraki en iyi yöntem olan REAP'in sıralaması 2,42'dir.",
+      "claim": "%50 budama oranında HOPE yönteminin ortalama sıralaması 1,58 iken, en iyi ikinci yöntem olan REAP'in sıralaması 2,42'dir.",
       "verdict": "not_found",
       "evidence": []
     },
     {
-      "claim": "Qwen3.5-35B-A3B modeli üzerinde %50 budama oranında HOPE yöntemi SWE-Bench Pro testinde 42,3 puan alarak, budanmamış modelin 41,8'lik skorunu geçmiştir.",
+      "claim": "Qwen3.5-35B-A3B modelinde %50 budama oranında HOPE yöntemi SWE-Bench Pro üzerinde 42,3 puan alırken, budanmamış model 41,8 puan almıştır.",
       "verdict": "not_found",
       "evidence": []
     },
     {
-      "claim": "HOPE yönteminin kullandığı F-matrisinin köşegen değerleri, REAP yönteminin uzman sıralamalarıyla 0,99 Spearman korelasyonuna sahiptir.",
+      "claim": "GLM-4.5-Air modeli, katman başına 128 uzman ve toplamda 106 milyar parametre içermektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-          "quote": "The diagonal of recovers REAP's expert rankings almost perfectly (Spearman )."
+          "quote": "Visualization of the interaction matrix F for GLM-4.5-Air (128 experts per layer, 106B parameters total)"
+        },
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "Visualization of the interaction matrix F for GLM-4.5-Air (128 experts per layer, 106B parameters total) at three representative layers (early, middle, late)."
         }
       ]
     }
   ],
   "round1": [
     {
-      "claim": "Qwen3.5-122B modeli, her biri 48 MoE katmanına sahip ve her katmanda 256 uzman barındıran bir yapıdadır.",
+      "claim": "Qwen3.5-122B modeli, 48 MoE katmanının her birinde 256 uzman içermektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -98,7 +102,7 @@
       ]
     },
     {
-      "claim": "Qwen3.5-122B modelinin yaklaşık 250 GB olan parametre belleğinin %95'i tamamen uzman MLP'leri tarafından kaplanmaktadır.",
+      "claim": "Qwen3.5-122B modelinin yaklaşık 250 GB olan parametre belleğinin %95'i uzman MLP'leri tarafından kaplanmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -122,7 +126,7 @@
       ]
     },
     {
-      "claim": "HOPE yöntemi, %50 budama oranında, bir sonraki en iyi budama yöntemine kıyasla agentic kodlama görevlerinde %6,1'e varan performans artışı sağlamaktadır.",
+      "claim": "HOPE yöntemi, %50 budama oranında, en iyi ikinci budama yöntemine kıyasla agentic kodlama görevlerinde %6,1'e varan performans artışı sağlamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -132,7 +136,7 @@
       ]
     },
     {
-      "claim": "HOPE yöntemi, tüm test koşullarında 5 yöntem arasında 2,07'lik ortalama başarı sıralaması elde etmiştir.",
+      "claim": "HOPE yöntemi, tüm test koşulları genelinde 5 yöntem arasında 2,07'lik ortalama sıralama elde etmiştir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -142,29 +146,33 @@
       ]
     },
     {
-      "claim": "%50 budama oranında HOPE'un ortalama başarı sıralaması 1,58'e yükselirken, bir sonraki en iyi yöntem olan REAP'in sıralaması 2,42'dir.",
+      "claim": "%50 budama oranında HOPE yönteminin ortalama sıralaması 1,58 iken, en iyi ikinci yöntem olan REAP'in sıralaması 2,42'dir.",
       "verdict": "not_found",
       "evidence": []
     },
     {
-      "claim": "Qwen3.5-35B-A3B modeli üzerinde %50 budama oranında HOPE yöntemi SWE-Bench Pro testinde 42,3 puan alarak, budanmamış modelin 41,8'lik skorunu geçmiştir.",
+      "claim": "Qwen3.5-35B-A3B modelinde %50 budama oranında HOPE yöntemi SWE-Bench Pro üzerinde 42,3 puan alırken, budanmamış model 41,8 puan almıştır.",
       "verdict": "not_found",
       "evidence": []
     },
     {
-      "claim": "HOPE yönteminin kullandığı F-matrisinin köşegen değerleri, REAP yönteminin uzman sıralamalarıyla 0,99 Spearman korelasyonuna sahiptir.",
+      "claim": "GLM-4.5-Air modeli, katman başına 128 uzman ve toplamda 106 milyar parametre içermektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-          "quote": "The diagonal of recovers REAP's expert rankings almost perfectly (Spearman )."
+          "quote": "Visualization of the interaction matrix F for GLM-4.5-Air (128 experts per layer, 106B parameters total)"
+        },
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "Visualization of the interaction matrix F for GLM-4.5-Air (128 experts per layer, 106B parameters total) at three representative layers (early, middle, late)."
         }
       ]
     }
   ],
   "round2": [
     {
-      "claim": "Qwen3.5-122B modeli, her biri 48 MoE katmanına sahip ve her katmanda 256 uzman barındıran bir yapıdadır.",
+      "claim": "Qwen3.5-122B modeli, 48 MoE katmanının her birinde 256 uzman içermektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -174,7 +182,7 @@
       ]
     },
     {
-      "claim": "Qwen3.5-122B modelinin yaklaşık 250 GB olan parametre belleğinin %95'i tamamen uzman MLP'leri tarafından kaplanmaktadır.",
+      "claim": "Qwen3.5-122B modelinin yaklaşık 250 GB olan parametre belleğinin %95'i uzman MLP'leri tarafından kaplanmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -198,7 +206,7 @@
       ]
     },
     {
-      "claim": "HOPE yöntemi, %50 budama oranında, bir sonraki en iyi budama yöntemine kıyasla agentic kodlama görevlerinde %6,1'e varan performans artışı sağlamaktadır.",
+      "claim": "HOPE yöntemi, %50 budama oranında, en iyi ikinci budama yöntemine kıyasla agentic kodlama görevlerinde %6,1'e varan performans artışı sağlamaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -208,7 +216,7 @@
       ]
     },
     {
-      "claim": "HOPE yöntemi, tüm test koşullarında 5 yöntem arasında 2,07'lik ortalama başarı sıralaması elde etmiştir.",
+      "claim": "HOPE yöntemi, tüm test koşulları genelinde 5 yöntem arasında 2,07'lik ortalama sıralama elde etmiştir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -218,22 +226,26 @@
       ]
     },
     {
-      "claim": "%50 budama oranında HOPE'un ortalama başarı sıralaması 1,58'e yükselirken, bir sonraki en iyi yöntem olan REAP'in sıralaması 2,42'dir.",
+      "claim": "%50 budama oranında HOPE yönteminin ortalama sıralaması 1,58 iken, en iyi ikinci yöntem olan REAP'in sıralaması 2,42'dir.",
       "verdict": "not_found",
       "evidence": []
     },
     {
-      "claim": "Qwen3.5-35B-A3B modeli üzerinde %50 budama oranında HOPE yöntemi SWE-Bench Pro testinde 42,3 puan alarak, budanmamış modelin 41,8'lik skorunu geçmiştir.",
+      "claim": "Qwen3.5-35B-A3B modelinde %50 budama oranında HOPE yöntemi SWE-Bench Pro üzerinde 42,3 puan alırken, budanmamış model 41,8 puan almıştır.",
       "verdict": "not_found",
       "evidence": []
     },
     {
-      "claim": "HOPE yönteminin kullandığı F-matrisinin köşegen değerleri, REAP yönteminin uzman sıralamalarıyla 0,99 Spearman korelasyonuna sahiptir.",
+      "claim": "GLM-4.5-Air modeli, katman başına 128 uzman ve toplamda 106 milyar parametre içermektedir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-          "quote": "The diagonal of recovers REAP's expert rankings almost perfectly (Spearman )."
+          "quote": "Visualization of the interaction matrix F for GLM-4.5-Air (128 experts per layer, 106B parameters total)"
+        },
+        {
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "quote": "Visualization of the interaction matrix F for GLM-4.5-Air (128 experts per layer, 106B parameters total) at three representative layers (early, middle, late)."
         }
       ]
     }

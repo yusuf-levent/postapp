@@ -3,20 +3,20 @@
 **Haber:** Your Experts Have Partners. There's HOPE for Keeping Them Together
 **Canonical URL:** https://huggingface.co/blog/amazon/higher-order-pruning-experts
 **Kaynaklar:** Hugging Face Blog, Engadget, Wired, TechCrunch
-**Kontrol zamanı:** 2026-11-09T15:52:55+03:00
+**Kontrol zamanı:** 2026-11-09T15:58:08+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
 
 ## İddia Bazlı Sonuçlar
 
-### 1. Qwen3.5-122B modeli, her biri 48 MoE katmanına sahip ve her katmanda 256 uzman barındıran bir yapıdadır.
+### 1. Qwen3.5-122B modeli, 48 MoE katmanının her birinde 256 uzman içermektedir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://huggingface.co/blog/amazon/higher-order-pruning-experts](https://huggingface.co/blog/amazon/higher-order-pruning-experts)
     > For example, Qwen3.5-122B has 256 experts in each of its 48 MoE layers
 
-### 2. Qwen3.5-122B modelinin yaklaşık 250 GB olan parametre belleğinin %95'i tamamen uzman MLP'leri tarafından kaplanmaktadır.
+### 2. Qwen3.5-122B modelinin yaklaşık 250 GB olan parametre belleğinin %95'i uzman MLP'leri tarafından kaplanmaktadır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://huggingface.co/blog/amazon/higher-order-pruning-experts](https://huggingface.co/blog/amazon/higher-order-pruning-experts)
@@ -30,31 +30,33 @@
   - [https://huggingface.co/blog/amazon/higher-order-pruning-experts](https://huggingface.co/blog/amazon/higher-order-pruning-experts)
     > However, for any given token, only 8 experts in each layer are actually used.
 
-### 4. HOPE yöntemi, %50 budama oranında, bir sonraki en iyi budama yöntemine kıyasla agentic kodlama görevlerinde %6,1'e varan performans artışı sağlamaktadır.
+### 4. HOPE yöntemi, %50 budama oranında, en iyi ikinci budama yöntemine kıyasla agentic kodlama görevlerinde %6,1'e varan performans artışı sağlamaktadır.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://huggingface.co/blog/amazon/higher-order-pruning-experts](https://huggingface.co/blog/amazon/higher-order-pruning-experts)
     > At 50% pruning, HOPE achieves the best average rank of any method, with gains of up to +6.1% on agentic coding tasks over the next-best pruning method.
 
-### 5. HOPE yöntemi, tüm test koşullarında 5 yöntem arasında 2,07'lik ortalama başarı sıralaması elde etmiştir.
+### 5. HOPE yöntemi, tüm test koşulları genelinde 5 yöntem arasında 2,07'lik ortalama sıralama elde etmiştir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://huggingface.co/blog/amazon/higher-order-pruning-experts](https://huggingface.co/blog/amazon/higher-order-pruning-experts)
     > Across all conditions, HOPE achieved the best average rank (2.07 out of 5 methods)
 
-### 6. %50 budama oranında HOPE'un ortalama başarı sıralaması 1,58'e yükselirken, bir sonraki en iyi yöntem olan REAP'in sıralaması 2,42'dir.
+### 6. %50 budama oranında HOPE yönteminin ortalama sıralaması 1,58 iken, en iyi ikinci yöntem olan REAP'in sıralaması 2,42'dir.
 - **Karar:** ⚠️ `not_found`
 - **Kanıt:** yok
 
-### 7. Qwen3.5-35B-A3B modeli üzerinde %50 budama oranında HOPE yöntemi SWE-Bench Pro testinde 42,3 puan alarak, budanmamış modelin 41,8'lik skorunu geçmiştir.
+### 7. Qwen3.5-35B-A3B modelinde %50 budama oranında HOPE yöntemi SWE-Bench Pro üzerinde 42,3 puan alırken, budanmamış model 41,8 puan almıştır.
 - **Karar:** ⚠️ `not_found`
 - **Kanıt:** yok
 
-### 8. HOPE yönteminin kullandığı F-matrisinin köşegen değerleri, REAP yönteminin uzman sıralamalarıyla 0,99 Spearman korelasyonuna sahiptir.
+### 8. GLM-4.5-Air modeli, katman başına 128 uzman ve toplamda 106 milyar parametre içermektedir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://huggingface.co/blog/amazon/higher-order-pruning-experts](https://huggingface.co/blog/amazon/higher-order-pruning-experts)
-    > The diagonal of recovers REAP's expert rankings almost perfectly (Spearman ).
+    > Visualization of the interaction matrix F for GLM-4.5-Air (128 experts per layer, 106B parameters total)
+  - [https://huggingface.co/blog/amazon/higher-order-pruning-experts](https://huggingface.co/blog/amazon/higher-order-pruning-experts)
+    > Visualization of the interaction matrix F for GLM-4.5-Air (128 experts per layer, 106B parameters total) at three representative layers (early, middle, late).
 
 ---
 
@@ -62,14 +64,14 @@
 
 | İddia | 1. Tur | 2. Tur | Nihai |
 |-------|--------|--------|-------|
-| Qwen3.5-122B modeli, her biri 48 MoE katmanına sahip ve her  | supported | supported | supported |
+| Qwen3.5-122B modeli, 48 MoE katmanının her birinde 256 uzman | supported | supported | supported |
 | Qwen3.5-122B modelinin yaklaşık 250 GB olan parametre belleğ | supported | supported | supported |
 | Qwen3.5-122B modelinde her bir token için katman başına sade | supported | supported | supported |
-| HOPE yöntemi, %50 budama oranında, bir sonraki en iyi budama | supported | supported | supported |
-| HOPE yöntemi, tüm test koşullarında 5 yöntem arasında 2,07'l | supported | supported | supported |
-| %50 budama oranında HOPE'un ortalama başarı sıralaması 1,58' | not_found | not_found | not_found |
-| Qwen3.5-35B-A3B modeli üzerinde %50 budama oranında HOPE yön | not_found | not_found | not_found |
-| HOPE yönteminin kullandığı F-matrisinin köşegen değerleri, R | supported | supported | supported |
+| HOPE yöntemi, %50 budama oranında, en iyi ikinci budama yönt | supported | supported | supported |
+| HOPE yöntemi, tüm test koşulları genelinde 5 yöntem arasında | supported | supported | supported |
+| %50 budama oranında HOPE yönteminin ortalama sıralaması 1,58 | not_found | not_found | not_found |
+| Qwen3.5-35B-A3B modelinde %50 budama oranında HOPE yöntemi S | not_found | not_found | not_found |
+| GLM-4.5-Air modeli, katman başına 128 uzman ve toplamda 106  | supported | supported | supported |
 
 ## Kaynak Metinleri
 

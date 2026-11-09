@@ -1,69 +1,65 @@
 {
   "cover": {
-    "category_label": "YAPAY ZEKA TEKNOLOJİLERİ",
-    "title": "Qwen3.5-122B ve HOPE Yöntemi: Yeni Nesil Mimari",
+    "category_label": "YAPAY ZEKA GELİŞMELERİ",
+    "title": "Qwen3.5-122B ve HOPE Yöntemi: Yeni Standartlar",
     "highlight_words": [
       "Qwen3.5-122B",
       "HOPE"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Devasa modellerde verimliliği artıran yeni mimari ve optimizasyon teknikleri.",
+    "subtitle": "Büyük dil modellerinde uzman mimarisi ve budama tekniklerinde yeni veriler.",
     "source_tags": [
       "HUGGING FACE BLOG",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Qwen3.5-122B'nin İç Yapısı",
+    "heading": "Yeni Model Mimarileri",
     "cards": [
       {
-        "card_title": "Devasa Uzman Yapısı",
-        "card_body": "Model, her biri 48 MoE katmanına sahip ve her katmanda 256 uzman barındıran oldukça güçlü bir mimariyle geliyor."
+        "card_title": "Qwen3.5-122B Yapısı",
+        "card_body": "Model, 48 MoE katmanının her birinde 256 uzman içeriyor. Belleğin %95'i uzman MLP'leri tarafından kaplanıyor."
       },
       {
-        "card_title": "Seçici Uzman Kullanımı",
-        "card_body": "Modelin devasa kapasitesine rağmen, her bir token için katman başına sadece 8 uzman aktif olarak kullanılıyor."
+        "card_title": "GLM-4.5-Air Detayları",
+        "card_body": "Bu model ise katman başına 128 uzman kullanarak toplamda 106 milyar parametreye ulaşıyor."
       }
     ]
   },
   "stat": {
-    "big_stat": "%95",
-    "stat_caption": "Qwen3.5-122B modelinin yaklaşık 250 GB olan parametre belleğinin büyük çoğunluğu uzman MLP'lerine ayrılmış durumda.",
-    "stat_quote": "Modelin parametre belleğinin %95'i tamamen uzman MLP'leri tarafından kaplanmaktadır. - Hugging Face Blog"
+    "big_stat": "%6,1",
+    "stat_caption": "HOPE yönteminin agentic kodlama görevlerinde sağladığı performans artışı.",
+    "stat_quote": "HOPE yöntemi, tüm test koşulları genelinde 5 yöntem arasında 2,07'lik ortalama sıralama elde etmiştir."
   },
   "details": {
-    "heading": "HOPE Yöntemi ile Optimizasyon",
+    "heading": "Teknik Detaylar",
     "cards": [
       {
-        "card_title": "Performans Artışı",
-        "card_body": "HOPE yöntemi, %50 budama oranında, agentic kodlama görevlerinde bir sonraki en iyi yönteme göre %6,1'e varan artış sağlıyor."
+        "card_title": "Verimli Uzman Kullanımı",
+        "card_body": "Qwen3.5-122B modelinde, işlem sırasında her bir token için katman başına sadece 8 uzman aktif olarak kullanılıyor."
       },
       {
-        "card_title": "Başarı Sıralaması",
-        "card_body": "HOPE yöntemi, tüm test koşullarında 5 farklı yöntem arasında 2,07'lik ortalama başarı sıralaması elde etti."
-      },
-      {
-        "card_title": "Güçlü Korelasyon",
-        "card_body": "HOPE yönteminin kullandığı F-matrisinin köşegen değerleri, REAP yönteminin uzman sıralamalarıyla 0,99 Spearman korelasyonuna sahip."
+        "card_title": "HOPE Yöntemi Başarısı",
+        "card_body": "HOPE yöntemi, %50 budama oranında, en iyi ikinci budama yöntemine kıyasla belirgin bir performans artışı sunuyor."
       }
     ]
   },
   "impact": {
-    "heading": "Sektörel ve Teknik Etki",
+    "heading": "Sektörel Etki",
     "cards": [
       {
-        "card_title": "Kodlama Görevlerinde Verimlilik",
-        "card_body": "Agentic kodlama süreçlerinde sağlanan %6,1'lik performans artışı, karmaşık yazılım görevlerinde daha hızlı sonuç demek."
+        "card_title": "Model Verimliliği",
+        "card_body": "Uzman MLP'lerinin yoğun kullanımı ve seçici uzman aktivasyonu, büyük modellerin bellek yönetimini optimize ediyor."
       },
       {
-        "card_title": "Model Optimizasyonu",
-        "card_body": "Yüksek budama oranlarında bile yüksek başarı elde edilmesi, büyük dil modellerinin daha verimli çalıştırılmasının önünü açıyor."
+        "card_title": "Kodlama Performansı",
+        "card_body": "Budama yöntemlerindeki gelişmeler, agentic kodlama görevlerinde daha yüksek doğruluk ve verimlilik sağlıyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce devasa modellerde uzman seçimi mi yoksa budama yöntemleri mi daha kritik?",
-    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri takip etmek için Tekno Pusula'yı izlemeye devam edin."
+    "question": "Sizce modellerin parametre sayısını artırmak mı yoksa budama yöntemlerini iyileştirmek mi daha önemli?",
+    "reminder_line": "Tekno Pusula'yı takip ederek güncel yapay zeka gelişmelerinden haberdar olun."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
