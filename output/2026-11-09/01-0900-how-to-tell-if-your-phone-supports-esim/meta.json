@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 106.7,
+  "candidates_tried": 1,
+  "gemini_calls": 14,
+  "canonical_url": "https://www.engadget.com/2306210/how-to-check-esim-compatibility-phone/",
+  "generated_at": "2026-11-09T16:29:40+03:00"
+}

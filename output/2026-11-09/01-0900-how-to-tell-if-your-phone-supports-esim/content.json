@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "MOBİL TEKNOLOJİLER",
+    "title": "eSIM Teknolojisi Hakkında Bilmeniz Gerekenler",
+    "highlight_words": [
+      "eSIM",
+      "Teknolojisi"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Dijital SIM kart dünyasına dair bilmeniz gereken temel bilgiler ve cihaz uyumluluğu.",
+    "source_tags": [
+      "THE VERGE",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "eSIM Nedir ve Nasıl Çalışır?",
+    "cards": [
+      {
+        "card_title": "EID Numarası Nedir?",
+        "card_body": "EID, eSIM çipine bağlı olan ve cihazınızın dijital kimliğini temsil eden 32 haneli özel bir numaradır."
+      },
+      {
+        "card_title": "Nasıl Kontrol Edilir?",
+        "card_body": "Telefonunuzun eSIM desteğini öğrenmek için arama ekranına *#06# tuşlayarak EID bilginize kolayca ulaşabilirsiniz."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "32 HANE",
+    "stat_caption": "eSIM çipinizin kimliğini oluşturan benzersiz EID numarasının uzunluğu.",
+    "stat_quote": "Dijitalleşen dünyada fiziksel kartlara olan bağımlılık, yerini eSIM gibi yazılımsal çözümlere bırakıyor. - Wired"
+  },
+  "details": {
+    "heading": "Cihaz Uyumluluk Geçmişi",
+    "cards": [
+      {
+        "card_title": "İlk Adımlar",
+        "card_body": "Android dünyasında eSIM desteği 2017 yılında Google Pixel 2 ve 2 XL modelleriyle hayatımıza girdi."
+      },
+      {
+        "card_title": "Apple Cephesi",
+        "card_body": "iPhone XS, XS Max, XR ve sonraki modeller eSIM desteği sunarken, iPhone 13 ve sonrası iki eSIM'i aynı anda çalıştırabiliyor."
+      },
+      {
+        "card_title": "Diğer Markalar",
+        "card_body": "Motorola 2019 yılında, Samsung ise 2020 yılında Galaxy S20 serisi ile eSIM teknolojisine geçiş yaptı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcı Deneyimi ve Kontroller",
+    "cards": [
+      {
+        "card_title": "Operatör Kilidi Kontrolü",
+        "card_body": "iPhone cihazlarda operatör kilidi olup olmadığını Ayarlar > Genel > Hakkında > Operatör Kilidi yolundan görebilirsiniz."
+      },
+      {
+        "card_title": "Çift eSIM Avantajı",
+        "card_body": "iPhone 13 ve daha yeni modellerde aynı anda iki eSIM kullanabilmek, hat yönetiminde büyük bir esneklik sağlıyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce fiziksel SIM kartlar tamamen tarihe karışacak mı?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeler için Tekno Pusula'yı takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
