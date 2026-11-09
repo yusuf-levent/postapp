@@ -1,69 +1,65 @@
 {
   "cover": {
-    "category_label": "OTONOM ARAÇLAR",
-    "title": "Tesla Robotaksi Hizmetini Genişletiyor",
+    "category_label": "YAPAY ZEKA VE ULAŞIM",
+    "title": "Tesla Robotaksi Servisini Genişletiyor",
     "highlight_words": [
-      "Tesla",
-      "Robotaksi"
+      "Robotaksi",
+      "Genişletiyor"
     ],
-    "highlight_color": "yellow",
-    "subtitle": "Tesla, otonom sürüş ağını Teksas'ta büyütmeye devam ediyor.",
+    "highlight_color": "cyan",
+    "subtitle": "Tesla otonom araç filosunu yeni şehirlere taşımaya devam ediyor.",
     "source_tags": [
       "TECHCRUNCH",
-      "IEEE SPECTRUM"
+      "BBC NEWS"
     ]
   },
   "context": {
-    "heading": "Teksas'ta Yeni Dönem",
+    "heading": "Tesla Otonom Sürüşte Ne Durumda?",
     "cards": [
       {
-        "card_title": "San Antonio Başlangıcı",
-        "card_body": "Tesla, robotaksi servisini pazartesi günü yerel saatle sabah 5.00'te San Antonio'da başlatacağını duyurdu."
+        "card_title": "San Antonio Hamlesi",
+        "card_body": "Tesla, robotaksi servisini yerel saatle pazartesi günü saat 05.00'ten itibaren San Antonio'da kullanıma sunacağını X platformunda duyurdu."
       },
       {
-        "card_title": "Austin'deki Gelişim",
-        "card_body": "Tesla, Austin'deki robotaksi servisini Haziran 2025'te duyurdu ve Ocak ayında araçlardan güvenlik görevlilerini kaldırdı."
+        "card_title": "Austin Başlangıcı",
+        "card_body": "Tesla, Austin'deki robotaksi servisini Haziran 2025'te başlattı ve ocak ayında güvenlik görevlilerini kaldırarak sürücüsüz servise geçti."
       }
     ]
   },
   "stat": {
     "big_stat": "400+",
-    "stat_caption": "Austin'deki Tesla otonom araç filosu büyüklüğü",
-    "stat_quote": "Texas araç tescil verileri ve Robotaxi Tracker, Austin'de 400'den fazla otonom Tesla aracı olduğunu doğruluyor."
+    "stat_caption": "Tesla'nın Austin filosundaki otonom araç sayısı",
+    "stat_quote": "Teksas araç tescil verileri ve Robotaxi Tracker web sitesine göre Tesla'nın Austin filosunda 400'den fazla otonom araç bulunmaktadır."
   },
   "details": {
-    "heading": "Güncel Hizmet Bölgeleri",
+    "heading": "Diğer Şehirler ve Filo Dağılımı",
     "cards": [
       {
-        "card_title": "Genişleyen Ağ",
-        "card_body": "Tesla şu anda Miami, Orlando, Dallas, Fort Worth ve Houston şehirlerinin sınırlı bölgelerinde robotaksi işletmektedir."
+        "card_title": "Faaliyet Gösterilen Şehirler",
+        "card_body": "Tesla; Miami, Orlando, Dallas, Fort Worth ve Houston şehirlerinin belirli bölgelerinde robotaksi işletmektedir."
       },
       {
-        "card_title": "Diğer Şehirler",
-        "card_body": "Robotaxi Tracker verilerine göre Tesla'nın Fort Worth'te 24 ve Miami'de 5 aracı bulunuyor. San Francisco'da ise insan sürücülü servis var."
-      },
-      {
-        "card_title": "Rekabet Durumu",
-        "card_body": "Waymo; Austin, Dallas, Houston ve San Antonio'da sürücüsüz Jaguar I-Pace ve Zeekr RT araçlarıyla hizmet veriyor."
+        "card_title": "Filo Verileri",
+        "card_body": "Robotaxi Tracker'a göre Tesla'nın Fort Worth'te 24, Miami'de ise 5 aracı bulunmaktadır."
       }
     ]
   },
   "impact": {
-    "heading": "Sektörel Yansımalar",
+    "heading": "Sektördeki Rekabet ve Durum",
     "cards": [
       {
-        "card_title": "Otonom Ulaşım Rekabeti",
-        "card_body": "Tesla ve Waymo gibi devlerin aynı şehirlerde hizmet vermesi, otonom araç pazarındaki rekabetin hızla arttığını gösteriyor."
+        "card_title": "Rakip Servisler",
+        "card_body": "Waymo; Austin, Dallas, Houston ve San Antonio'da sürücüsüz Jaguar I-Pace ve Zeekr RT araçlarıyla robotaksi hizmeti vermektedir."
       },
       {
-        "card_title": "Kullanıcı Deneyimi",
-        "card_body": "Güvenlik görevlilerinin araçlardan çekilmesi ve hizmetin genişlemesi, otonom sürüş teknolojilerinin günlük hayata entegrasyonunu hızlandırıyor."
+        "card_title": "Mili Verileri",
+        "card_body": "TechCrunch'ın temmuz ayındaki haberine göre Tesla'nın robotaksi ağı, ikinci çeyrekte birinci çeyreğe kıyasla ücretli müşterilerle daha az mil katetti."
       }
     ]
   },
   "cta": {
-    "question": "Sizce otonom araçlar şehir içi ulaşımda geleneksel taksilerin yerini tamamen alabilir mi?",
-    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri kaçırmamak için Tekno Pusula'yı takipte kalın!"
+    "question": "Sizce otonom taksiler şehir içi ulaşımda kısa sürede vazgeçilmez bir hale gelecek mi?",
+    "reminder_line": "En güncel teknoloji gelişmeleri için Tekno Pusula'yı takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
