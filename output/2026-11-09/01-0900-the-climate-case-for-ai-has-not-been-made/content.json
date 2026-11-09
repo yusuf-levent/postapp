@@ -1,0 +1,72 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ VE İKLİM",
+    "title": "İklim Krizinde YAPAY ZEKA Dönemi",
+    "highlight_words": [
+      "YAPAY ZEKA"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Yapay zekanın iklim üzerindeki etkileri ve güncel gelişmeler.",
+    "source_tags": [
+      "MIT TECHNOLOGY REVIEW",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Gündemdeki Gelişmeler",
+    "cards": [
+      {
+        "card_title": "ANTALYA ZİRVESİ",
+        "card_body": "Birleşmiş Milletler iklim konferansı bu hafta Türkiye'nin Antalya şehrinde gerçekleşmektedir."
+      },
+      {
+        "card_title": "SAM ALTMAN AÇIKLAMASI",
+        "card_body": "OpenAI CEO'su Sam Altman 2024 yılında yapay zekanın iklimi düzeltmek dahil muazzam başarılar ortaya koyacağını belirtmiştir."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "%5 - %10",
+    "stat_caption": "Google yöneticisinin paylaştığına göre yapay zekanın küresel emisyonları azaltma potansiyeli.",
+    "stat_quote": "Yapay zeka küresel emisyonları 2030 yılına kadar yüzde 5 ila yüzde 10 oranında azaltabilir."
+  },
+  "details": {
+    "heading": "Araştırmalar ve Projeler",
+    "cards": [
+      {
+        "card_title": "EMİSYON KESİNTİSİ",
+        "card_body": "London School of Economics ve Systemiq çalışmasına göre yapay zeka 2035'e kadar yıllık milyarlarca ton CO2 kesintisi sağlayabilir."
+      },
+      {
+        "card_title": "GÜNEŞ TAHMİNİ",
+        "card_body": "National Grid ESO ve Open Climate Fix ortaklığı güneş tahmini hatasını düşürerek yüz binlerce ton CO2 salınımını önlemiştir."
+      },
+      {
+        "card_title": "CATL YAPAY ZEKA SİSTEMİ",
+        "card_body": "CATL, 100.000'den fazla batarya tasarım vakası ve 600 terabayt test verisiyle eğitilmiş yapay zeka sistemi piyasaya sürmüştür."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etkiler",
+    "cards": [
+      {
+        "card_title": "KÜLTÜRE EDİLMİŞ ET",
+        "card_body": "Kültüre edilmiş ete akan risk sermayesi 2021 yılında 989 milyon dolara ulaşırken geçen yıl yaklaşık 83 milyon dolara gerilemiştir."
+      },
+      {
+        "card_title": "VERİ MERKEZİ EMİSYONLARI",
+        "card_body": "Uluslararası Enerji Ajansı'nın tahminine göre küresel veri merkezi emisyonları 2035 yılında yıllık 300 milyon tonu aşabilir."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce yapay zeka teknolojileri iklim krizinin çözümünde ne kadar etkili olacak?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki gelişmeler için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
