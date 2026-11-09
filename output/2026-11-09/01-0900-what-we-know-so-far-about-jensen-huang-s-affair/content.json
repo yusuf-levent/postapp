@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ DÜNYASI",
+    "title": "Jensen Huang Hakkında Önemli Gelişme",
+    "highlight_words": [
+      "Jensen Huang",
+      "Gelişme"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Nvidia CEO'su Jensen Huang, kişisel hayatıyla ilgili iddialar üzerine açıklama yaptı.",
+    "source_tags": [
+      "BBC NEWS",
+      "NVIDIA NEWSROOM"
+    ]
+  },
+  "context": {
+    "heading": "Olayın Arka Planı",
+    "cards": [
+      {
+        "card_title": "Kişisel Açıklama",
+        "card_body": "Nvidia CEO'su Jensen Huang, Pazar günü yaptığı açıklamada eşini aldattığını kabul ederek özür diledi."
+      },
+      {
+        "card_title": "Kurumsal Adım",
+        "card_body": "Nvidia, ortaya atılan iddialar üzerine konuyla ilgili bağımsız bir soruşturma başlattığını duyurdu."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "4,5 TRİLYON $",
+    "stat_caption": "Nvidia'nın güncel piyasa değeri.",
+    "stat_quote": "Bloomberg Milyarderler Endeksi'ne göre Jensen Huang'ın tahmini serveti 155 milyar dolar seviyesinde."
+  },
+  "details": {
+    "heading": "Detaylar ve Geçmiş",
+    "cards": [
+      {
+        "card_title": "Evlilik Geçmişi",
+        "card_body": "Jensen Huang ve eşi Lori Mills, 1985 yılından bu yana evli."
+      },
+      {
+        "card_title": "Nvidia'nın Kuruluşu",
+        "card_body": "Şirket, 1993 yılında Jensen Huang, Chris Malachowsky ve Curtis Priem tarafından kuruldu."
+      },
+      {
+        "card_title": "İlgili İsim",
+        "card_body": "Alice Huang, Singapur merkezli veri merkezi firması Megaspeed'de üst düzey yönetici olarak görev yapmıştır."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Süreç Nasıl İlerliyor?",
+    "cards": [
+      {
+        "card_title": "Şirket Yönetimi",
+        "card_body": "Nvidia, iddiaların doğruluğunu ve etkilerini belirlemek adına bağımsız bir soruşturma yürütüyor."
+      },
+      {
+        "card_title": "Kurumsal Şeffaflık",
+        "card_body": "Teknoloji dünyasının dev isimlerinden biri olan Huang'ın açıklaması, kurumsal yönetim süreçleri açısından takip ediliyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce büyük teknoloji şirketlerinin CEO'larının özel hayatı, şirket yönetimini ne kadar etkilemeli?",
+    "reminder_line": "Gelişmeleri Tekno Pusula üzerinden takip etmeye devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

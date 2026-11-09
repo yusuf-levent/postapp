@@ -1,0 +1,274 @@
+{
+  "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+  "canonical_url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+  "source_names": [
+    "BBC News – Technology",
+    "NVIDIA Newsroom",
+    "TechCrunch",
+    "NVIDIA Newsroom"
+  ],
+  "checked_at": "2026-11-09T16:18:35+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Nvidia CEO'su Jensen Huang, eşini aldattığını Pazar günü kabul ederek özür diledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "On Sunday, Huang admitted, external to having been \"unfaithful\" to his wife and apologised for hurting her and their children."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia, Jensen Huang hakkındaki iddialar üzerine bağımsız bir soruşturma başlattı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "US tech giant Nvidia, one of the most valuable companies in the world, has opened an independent investigation into the reports."
+        }
+      ]
+    },
+    {
+      "claim": "Alice Huang, Singapur merkezli veri merkezi firması Megaspeed'de üst düzey yönetici olarak görev yapmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Alice Huang, who is of no relation to Jensen Huang, was a top executive at Singapore-based data centre firm Megaspeed."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia, 1993 yılında Jensen Huang, Chris Malachowsky ve Curtis Priem tarafından kurulmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Founded by Huang and fellow electrical engineers Chris Malachowsky and Curtis Priem in 1993, the company was originally known for chips that process graphics, particularly for computer games."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Founded by Huang and fellow electrical engineers Chris Malachowsky and Curtis Priem in 1993"
+        }
+      ]
+    },
+    {
+      "claim": "Bloomberg Milyarderler Endeksi'ne göre Jensen Huang'ın tahmini serveti 155 milyar dolardır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "He has an estimated fortune of $155bn (Â£115bn), according to the Bloomberg Billionaires Index."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia'nın piyasa değeri yaklaşık 4,5 trilyon dolardır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Currently worth $4.5tn (Â£3.4tn), Nvidia is one of the most valuable companies ever."
+        }
+      ]
+    },
+    {
+      "claim": "Jensen Huang ve eşi Lori Mills 1985 yılında evlenmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "They married in 1985, about eight years before he co-founded Nvidia, and have two children, Madison and Spencer."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "They married in 1985, about eight years before he co-founded Nvidia"
+        }
+      ]
+    },
+    {
+      "claim": "Jen-Hsun ve Lori Huang Vakfı'nın varlıklarının 9 milyar dolardan fazla olduğu tahmin edilmektedir.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Nvidia CEO'su Jensen Huang, eşini aldattığını Pazar günü kabul ederek özür diledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "On Sunday, Huang admitted, external to having been \"unfaithful\" to his wife and apologised for hurting her and their children."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia, Jensen Huang hakkındaki iddialar üzerine bağımsız bir soruşturma başlattı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "US tech giant Nvidia, one of the most valuable companies in the world, has opened an independent investigation into the reports."
+        }
+      ]
+    },
+    {
+      "claim": "Alice Huang, Singapur merkezli veri merkezi firması Megaspeed'de üst düzey yönetici olarak görev yapmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Alice Huang, who is of no relation to Jensen Huang, was a top executive at Singapore-based data centre firm Megaspeed."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia, 1993 yılında Jensen Huang, Chris Malachowsky ve Curtis Priem tarafından kurulmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Founded by Huang and fellow electrical engineers Chris Malachowsky and Curtis Priem in 1993, the company was originally known for chips that process graphics, particularly for computer games."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Founded by Huang and fellow electrical engineers Chris Malachowsky and Curtis Priem in 1993"
+        }
+      ]
+    },
+    {
+      "claim": "Bloomberg Milyarderler Endeksi'ne göre Jensen Huang'ın tahmini serveti 155 milyar dolardır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "He has an estimated fortune of $155bn (Â£115bn), according to the Bloomberg Billionaires Index."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia'nın piyasa değeri yaklaşık 4,5 trilyon dolardır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Currently worth $4.5tn (Â£3.4tn), Nvidia is one of the most valuable companies ever."
+        }
+      ]
+    },
+    {
+      "claim": "Jensen Huang ve eşi Lori Mills 1985 yılında evlenmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "They married in 1985, about eight years before he co-founded Nvidia, and have two children, Madison and Spencer."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "They married in 1985, about eight years before he co-founded Nvidia"
+        }
+      ]
+    },
+    {
+      "claim": "Jen-Hsun ve Lori Huang Vakfı'nın varlıklarının 9 milyar dolardan fazla olduğu tahmin edilmektedir.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Nvidia CEO'su Jensen Huang, eşini aldattığını Pazar günü kabul ederek özür diledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "On Sunday, Huang admitted, external to having been \"unfaithful\" to his wife and apologised for hurting her and their children."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia, Jensen Huang hakkındaki iddialar üzerine bağımsız bir soruşturma başlattı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "US tech giant Nvidia, one of the most valuable companies in the world, has opened an independent investigation into the reports."
+        }
+      ]
+    },
+    {
+      "claim": "Alice Huang, Singapur merkezli veri merkezi firması Megaspeed'de üst düzey yönetici olarak görev yapmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Alice Huang, who is of no relation to Jensen Huang, was a top executive at Singapore-based data centre firm Megaspeed."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia, 1993 yılında Jensen Huang, Chris Malachowsky ve Curtis Priem tarafından kurulmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Founded by Huang and fellow electrical engineers Chris Malachowsky and Curtis Priem in 1993, the company was originally known for chips that process graphics, particularly for computer games."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Founded by Huang and fellow electrical engineers Chris Malachowsky and Curtis Priem in 1993"
+        }
+      ]
+    },
+    {
+      "claim": "Bloomberg Milyarderler Endeksi'ne göre Jensen Huang'ın tahmini serveti 155 milyar dolardır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "He has an estimated fortune of $155bn (Â£115bn), according to the Bloomberg Billionaires Index."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia'nın piyasa değeri yaklaşık 4,5 trilyon dolardır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "Currently worth $4.5tn (Â£3.4tn), Nvidia is one of the most valuable companies ever."
+        }
+      ]
+    },
+    {
+      "claim": "Jensen Huang ve eşi Lori Mills 1985 yılında evlenmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "They married in 1985, about eight years before he co-founded Nvidia, and have two children, Madison and Spencer."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "quote": "They married in 1985, about eight years before he co-founded Nvidia"
+        }
+      ]
+    },
+    {
+      "claim": "Jen-Hsun ve Lori Huang Vakfı'nın varlıklarının 9 milyar dolardan fazla olduğu tahmin edilmektedir.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "source_texts": {
+    "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss": 8716,
+    "https://blogs.nvidia.com/blog/korean-startup-investments-msit/": 1960,
+    "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/": 7639,
+    "https://nvidianews.nvidia.com/news/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion": 6605
+  }
+}
