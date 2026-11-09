@@ -1,50 +1,50 @@
 {
   "cover": {
-    "category_label": "SOSYAL MEDYA GÜVENLİĞİ",
-    "title": "Meta'dan Gençler İçin Yeni Yapay Zeka Korumaları",
+    "category_label": "DİJİTAL GÜVENLİK",
+    "title": "Meta'dan Gençler İçin Yeni Yaş Doğrulama Teknolojisi",
     "highlight_words": [
-      "Yapay Zeka",
-      "Korumaları"
+      "Yaş Doğrulama",
+      "Teknoloji"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Instagram, Facebook ve Messenger'da genç kullanıcıları korumak için atılan adımlar.",
+    "subtitle": "Meta, platformlarında gençlerin güvenliğini artırmak için yapay zeka yatırımlarını genişletiyor.",
     "source_tags": [
       "META NEWSROOM",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Meta'nın Yeni Güvenlik Adımları",
+    "heading": "Meta'nın Güvenlik Adımları",
     "cards": [
       {
-        "card_title": "Otomatik Korumalar Devrede",
-        "card_body": "Meta, Instagram, Facebook ve Messenger uygulamalarında genç hesapları için otomatik koruma mekanizmalarını devreye aldı."
+        "card_title": "Kapsamlı Koruma",
+        "card_body": "Meta, Instagram, Facebook ve Messenger uygulamalarında gençlerin yaşlarına uygun deneyimler yaşaması için yerleşik koruma özellikleri sunuyor."
       },
       {
-        "card_title": "Yapay Zeka Destekli Tespit",
-        "card_body": "Şirket, kullanıcıların yaşını tahmin etmek ve gençleri koruma altına almak için yapay zeka teknolojisinden yararlanıyor."
+        "card_title": "Yapay Zeka Desteği",
+        "card_body": "Şirket, kullanıcıların yaşlarını tespit etmek için geliştirdiği yapay zeka teknolojisini küresel ölçekte genişletmeye devam ediyor."
       }
     ]
   },
   "stat": {
     "big_stat": "52",
-    "stat_caption": "Meta, gençlerin ve 13 yaş altı çocukların tanımlanmasını güçlendirmek için 52 eyalet başsavcısı ile anlaştı.",
-    "stat_quote": "Larry Magid, ConnectSafely'nin Başkanı ve CEO'su, Meta'nın yaş güvencesi yaklaşımını detaylandıran bir makale kaleme aldı."
+    "stat_caption": "Meta, çocukların ve 13 yaş altı kullanıcıların tespiti konusunda 52 eyalet başsavcısı ile anlaşma sağladı.",
+    "stat_quote": "ConnectSafely CEO'su Larry Magid, Meta'nın bu yaş doğrulama yaklaşımını detaylandıran bir makale kaleme aldı."
   },
   "details": {
-    "heading": "Yaş Doğrulama Teknolojileri",
+    "heading": "Yeni Teknolojiler ve Hedefler",
     "cards": [
       {
-        "card_title": "Küresel Threads Genişlemesi",
-        "card_body": "Meta, Threads uygulamasında benzer yaş doğrulama teknolojisini bu yılın ilerleyen dönemlerinde küresel olarak başlatacak."
+        "card_title": "Threads'e Geliyor",
+        "card_body": "Meta, Threads uygulamasında benzer yaş doğrulama teknolojisini bu yılın ilerleyen dönemlerinde küresel olarak başlatmayı planlıyor."
       },
       {
-        "card_title": "Avustralya'da Yeni Sinyaller",
-        "card_body": "Meta, Avustralya'da kullanıcıların yaş aralığını daha iyi anlamak için Apple'ın yaş aralığı sinyalini kullanmaya başladı."
+        "card_title": "Avustralya Denemesi",
+        "card_body": "Şirket, Avustralya'da kullanıcıların yaş aralığını belirlemek için Apple'ın yaş aralığı sinyalini kullanmaya başladı."
       },
       {
-        "card_title": "13 Yaş Altı Koruması",
-        "card_body": "Şirket, 13 yaşın altındaki çocuklara ait hesapları tespit etmek için daha güçlü teknolojilere yatırım yapmaya devam ediyor."
+        "card_title": "Daha Güçlü Yatırım",
+        "card_body": "Meta, 13 yaşından küçük çocuklara ait hesapları tespit etmek için daha güçlü teknolojilere yatırım yapmaya devam ediyor."
       }
     ]
   },
@@ -53,17 +53,17 @@
     "cards": [
       {
         "card_title": "Sektöre Çağrı",
-        "card_body": "Meta, TikTok ve YouTube'u gençlerin güvenliğini sağlamak adına kendi yaş doğrulama uygulamalarını benimsemeye çağırdı."
+        "card_body": "Meta, TikTok ve YouTube'u gençlerin güvenliğini sağlamak için kendi uyguladıkları yaş koruma pratiklerini benimsemeye çağırdı."
       },
       {
-        "card_title": "Daha Güvenli Deneyim",
-        "card_body": "Geliştirilen bu teknolojiler, genç kullanıcıların sosyal medya platformlarında daha güvenli bir deneyim yaşaması için tasarlandı."
+        "card_title": "Güvenli Deneyim",
+        "card_body": "Bu adımlar, genç kullanıcıların platformlarda yaşlarına uygun içeriklerle karşılaşmasını ve daha güvenli bir dijital ortamda bulunmasını hedefliyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce sosyal medya platformlarında yaş doğrulama teknolojileri gençleri korumak için yeterli mi?",
-    "reminder_line": "Tekno Pusula ile teknolojiyi yakından takip etmeye devam edin."
+    "question": "Sizce sosyal medya platformlarında yaş doğrulaması için en etkili yöntem hangisi olmalı?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeler için Tekno Pusula'yı takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

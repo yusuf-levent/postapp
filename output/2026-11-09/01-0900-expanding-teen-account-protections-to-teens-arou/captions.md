@@ -2,75 +2,36 @@
 
 ## INSTAGRAM
 
-Sosyal medyada gençleri korumak için yeni bir dönem başlıyor! 🛡️ Meta, Instagram, Facebook ve Messenger'da genç kullanıcıları korumak adına yapay zeka destekli yeni güvenlik önlemlerini devreye aldı.
+Meta, gençlerin güvenliğini artırmak için vites yükseltiyor! 🛡️ Yapay zeka destekli yeni yaş doğrulama teknolojileri Instagram, Facebook ve Messenger'da genişliyor. 52 eyalet başsavcısı ile yapılan anlaşma kapsamında 13 yaş altı kullanıcıların tespiti güçlendirilirken, bu sistemin Threads'e de gelmesi planlanıyor. Meta, diğer platformları da benzer güvenlik pratiklerini benimsemeye çağırıyor. Sizce en etkili yaş doğrulama yöntemi ne olmalı? Yorumlarda buluşalım! Kaynak: Meta Newsroom, TechCrunch
 
-Meta, yaş tahmini ve hesap güvenliği için yapay zekayı aktif olarak kullanıyor. 52 eyalet başsavcısı ile iş birliği yaparak 13 yaş altı hesapların tespitini güçlendiren şirket, bu teknolojiyi Threads'e de taşımaya hazırlanıyor.
-
-Sadece kendi platformlarıyla sınırlı kalmayan Meta, TikTok ve YouTube gibi diğer devleri de benzer yaş doğrulama standartlarını benimsemeye çağırıyor.
-
-Sizce sosyal medya platformlarında yaş doğrulama teknolojileri gençleri korumak için yeterli mi? Yorumlarda buluşalım.
-
-Tekno Pusula ile teknolojiyi yakından takip etmeye devam edin.
-
-Kaynak: Meta Newsroom, TechCrunch
-
-#SosyalMedya #YapayZeka #Meta #Güvenlik #DijitalGüvenlik #TeknolojiHaberleri #Gençlik #Instagram #Facebook #AI #OnlineSafety #TechNews
+#Meta #DijitalGüvenlik #YapayZeka #SosyalMedya #TeknolojiHaberleri #GençlikGüvenliği #Instagram #Threads
 
 ## TIKTOK
 
-Meta'dan genç kullanıcılar için devrim niteliğinde yapay zeka korumaları! 🤖 Instagram ve Facebook artık daha güvenli. Şirket, 13 yaş altı hesapları tespit etmek için yapay zekayı kullanıyor ve diğer platformları da bu konuda adım atmaya davet ediyor. Sizce bu önlemler yeterli mi? 
+Meta'dan gençlerin güvenliği için dev adım! 🚀 Yapay zeka artık yaş doğrulamada daha aktif rol oynuyor. Instagram ve Facebook'ta başlayan bu süreç, yakında Threads'e de geliyor. Sizce bu yöntemler yeterli mi? Kaynak: Meta Newsroom, TechCrunch
 
-Kaynak: Meta Newsroom
-
-#Meta #YapayZeka #SosyalMedya #Güvenlik #Teknoloji
+#Meta #DijitalGüvenlik #Teknoloji #YapayZeka
 
 ## X
 
-Meta, genç kullanıcıları korumak için yapay zeka destekli yeni güvenlik önlemlerini devreye aldı. 52 eyalet başsavcısı ile iş birliği yapan şirket, yaş doğrulama teknolojisini Threads'e de getirmeye hazırlanıyor. Sizce bu adımlar yeterli mi? 
+Meta, gençlerin güvenliğini artırmak için yapay zeka destekli yaş doğrulama teknolojisini genişletiyor. 52 eyalet başsavcısı ile anlaşan şirket, sistemi Threads'e de getirmeyi planlıyor. Sizce en etkili yaş doğrulama yöntemi ne olmalı? Kaynak: Meta Newsroom, TechCrunch
 
-Kaynak: Meta Newsroom
-
-#Meta #YapayZeka
+#Meta #DijitalGüvenlik
 
 ## THREADS
 
-Meta'nın Gençler İçin Yeni Yapay Zeka Korumaları 🛡️
+Meta, gençlerin güvenliğini korumak adına yapay zeka yatırımlarını artırıyor. Instagram ve Facebook'taki yaş doğrulama sistemleri yakında Threads'e de entegre edilecek. 13 yaş altı kullanıcıların tespiti için 52 eyalet başsavcısı ile iş birliği yapan Meta, sektörü daha güvenli bir dijital ortam için ortak hareket etmeye çağırıyor. 💭 Sizce sosyal medyada yaş doğrulaması için en etkili yöntem hangisi olmalı? Kaynak: Meta Newsroom, TechCrunch
 
-Meta, Instagram ve Facebook'ta gençleri korumak için yapay zeka destekli yeni güvenlik mekanizmalarını başlattı. 13 yaş altı hesapları tespit etmek için teknolojisini güçlendiren şirket, bu sistemi yakında Threads'e de getirecek.
-
-Sizce sosyal medya platformlarında yaş doğrulama teknolojileri gençleri korumak için yeterli mi? 💭
-
-Kaynak: Meta Newsroom
-
-#Teknoloji
+#DijitalGüvenlik
 
 ## LINKEDIN
 
-Sosyal medya platformlarında güvenlik standartları yeniden şekilleniyor. Meta, genç kullanıcıların korunması amacıyla yapay zeka destekli yaş doğrulama ve güvenlik teknolojilerini devreye aldığını duyurdu.
+Meta, dijital güvenlik stratejilerini yapay zeka destekli yaş doğrulama teknolojileriyle güçlendiriyor. Genç kullanıcıların platformlarda yaşlarına uygun deneyimler yaşaması adına küresel çapta önemli adımlar atılıyor. Öne çıkanlar: 52 eyalet başsavcısı ile 13 yaş altı kullanıcıların tespiti konusunda anlaşma sağlandı ve Threads uygulamasına benzer güvenlik teknolojilerinin entegrasyonu planlanıyor. Meta, diğer platformları da benzer güvenlik pratiklerini benimsemeye teşvik ederek sektörel bir standart oluşturmayı hedefliyor. Sizce bu tür önlemler yeterli mi? Kaynak: Meta Newsroom, TechCrunch
 
-Öne çıkan gelişmeler:
-- 52 eyalet başsavcısı ile iş birliği yapılarak 13 yaş altı hesapların tespiti güçlendirildi.
-- Yapay zeka, kullanıcıların yaşını tahmin etmek ve güvenli bir deneyim sunmak için aktif olarak kullanılıyor.
-- Meta, Threads uygulamasında da benzer teknolojileri küresel ölçekte yaygınlaştırmayı hedefliyor.
-
-Meta'nın sektörel bir çağrıda bulunarak TikTok ve YouTube gibi platformları da benzer yaş doğrulama uygulamalarını benimsemeye davet etmesi, dijital güvenlik konusunda ortak bir standart arayışının önemini vurguluyor.
-
-Sizce platformlar arası bu iş birliği dijital güvenliği ne ölçüde artırabilir?
-
-Kaynak: Meta Newsroom, TechCrunch
-
-#DijitalGüvenlik #YapayZeka #Meta #SosyalMedyaStratejisi #Teknoloji
+#DijitalGüvenlik #YapayZeka #Meta #TeknolojiStratejisi
 
 ## FACEBOOK
 
-Meta, genç kullanıcılar için güvenlik önlemlerini artırıyor! 🛡️ Instagram, Facebook ve Messenger'da devreye alınan yeni yapay zeka destekli korumalar, gençlerin dijital deneyimini daha güvenli hale getirmeyi hedefliyor.
+Meta, gençlerin güvenliğini artırmak için yapay zeka destekli yeni yaş doğrulama teknolojilerini devreye alıyor! 🛡️ Instagram, Facebook ve Messenger'da yerleşik koruma özellikleri genişletiliyor. 52 eyalet başsavcısı ile yapılan anlaşma kapsamında 13 yaş altı kullanıcıların tespiti güçlendirilirken, benzer teknolojilerin Threads'e de gelmesi planlanıyor. Meta, diğer platformları da gençlerin güvenliği için ortak hareket etmeye çağırıyor. Sizce en etkili yöntem hangisi? Kaynak: Meta Newsroom, TechCrunch
 
-52 eyalet başsavcısı ile yapılan iş birliğiyle 13 yaş altı hesapların tespiti güçlendirilirken, bu teknolojinin Threads'e de entegre edilmesi planlanıyor. Meta ayrıca diğer platformları da benzer adımlar atmaya çağırıyor.
-
-Sizce sosyal medya platformlarında yaş doğrulama teknolojileri gençleri korumak için yeterli mi? Yorumlarınızı bekliyoruz.
-
-Tekno Pusula ile teknolojiyi yakından takip etmeye devam edin.
-
-Kaynak: Meta Newsroom
-
-#Meta #Güvenlik #YapayZeka #SosyalMedya #Teknoloji
+#Meta #DijitalGüvenlik #YapayZeka #SosyalMedya
