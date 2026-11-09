@@ -1,0 +1,273 @@
+{
+  "title": "Scientists May Have Discovered a Massive Starless Galaxy",
+  "canonical_url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+  "source_names": [
+    "Wired",
+    "Ars Technica"
+  ],
+  "checked_at": "2026-11-09T14:18:01+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Lambda-CDM modeli, evrendeki maddenin yaklaşık yüzde 85'inin soğuk karanlık maddeden oluştuğunu varsayar.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "Researchers’ most successful model of the cosmos, known as Lambda-CDM, assumes the existence of two invisible ingredients: dark energy, the mysterious property thought to be driving the accelerating expansion of the universe, as well as cold dark matter, a hypothetical substance that physicists think makes up about 85 percent of the universe’s matter."
+        }
+      ]
+    },
+    {
+      "claim": "AGC 322753 adlı nesne, güneşin kütlesinin yaklaşık 2 milyar katı kadar hidrojen içermektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "The object, known as AGC 322753, contains roughly 2 billion times the sun's mass in hydrogen, yet appears to have no stars"
+        },
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "The object, known as AGC 322753, contains roughly 2 billion times the sun's mass in hydrogen"
+        }
+      ]
+    },
+    {
+      "claim": "AGC 322753 hakkındaki bulgular Monthly Notices of the Royal Astronomical Society dergisinde yayımlanmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "Now, researchers have found a promising candidate for such a dark galaxy and published their findings in the Monthly Notices of the Royal Astronomical Society."
+        }
+      ]
+    },
+    {
+      "claim": "Avustralya'daki Swinburne Teknoloji Üniversitesi'nden araştırmacılar, Arecibo Gözlemevi ve Çin'in Beş Yüz Metrelik Diyaframlı Küresel Radyo Teleskobu'ndan gelen verileri karşılaştırarak keşfi yapmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "Researchers at Swinburne University of Technology in Australia made the discovery by comparing observations from two existing radio surveys, one conducted by the Arecibo Observatory in Puerto Rico and the other by China's Five-Hundred-Meter Aperture Spherical Radio Telescope."
+        }
+      ]
+    },
+    {
+      "claim": "Araştırmacılar, AGC 322753'ün hidrojen kütlesinin yıldız kütlesinden en az 40 kat daha fazla olduğunu tahmin etmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "From this, the team estimates that AGC322753 contains at least 40 times more mass in hydrogen than in stars"
+        }
+      ]
+    },
+    {
+      "claim": "DESI Legacy Imaging Surveys tarafından yapılan derin optik görüntüler, AGC 322753'te herhangi bir yıldız ışığı tespit edememiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "If so, they must be very faint indeed, because even deep optical images from the DESI Legacy Imaging Surveys, which search for starlight rather than the hydrogen gas detected by radio telescopes, reveal none."
+        }
+      ]
+    },
+    {
+      "claim": "Robert Minchin, 2000'lerin başında keşfedilen VIRGOHI21 adlı karanlık galaksi adayının daha sonra yakındaki bir galaksiden kopan hidrojen gazı akıntısı (gelgit kuyruğu) olarak yeniden yorumlandığını belirtmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "He was involved in the discovery of VIRGOHI21, a dark galaxy candidate found in the early 2000s that was later reinterpreted as a long stream of hydrogen gas pulled from a nearby galaxy by gravity, known as a tidal tail."
+        }
+      ]
+    },
+    {
+      "claim": "Swinburne Teknoloji Üniversitesi'nden Marco Monaci, teorik modellerin ve simülasyonların karanlık galaksilerin dönmemesi gerektiğini gösterdiğini ifade etmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "\"The theoretical models and the simulations show us that dark galaxies shouldn't rotate, so this is extremely interesting,\" says Marco Monaci, an author of the study at Swinburne University of Technology."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Lambda-CDM modeli, evrendeki maddenin yaklaşık yüzde 85'inin soğuk karanlık maddeden oluştuğunu varsayar.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "Researchers’ most successful model of the cosmos, known as Lambda-CDM, assumes the existence of two invisible ingredients: dark energy, the mysterious property thought to be driving the accelerating expansion of the universe, as well as cold dark matter, a hypothetical substance that physicists think makes up about 85 percent of the universe’s matter."
+        }
+      ]
+    },
+    {
+      "claim": "AGC 322753 adlı nesne, güneşin kütlesinin yaklaşık 2 milyar katı kadar hidrojen içermektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "The object, known as AGC 322753, contains roughly 2 billion times the sun's mass in hydrogen, yet appears to have no stars"
+        },
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "The object, known as AGC 322753, contains roughly 2 billion times the sun's mass in hydrogen"
+        }
+      ]
+    },
+    {
+      "claim": "AGC 322753 hakkındaki bulgular Monthly Notices of the Royal Astronomical Society dergisinde yayımlanmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "Now, researchers have found a promising candidate for such a dark galaxy and published their findings in the Monthly Notices of the Royal Astronomical Society."
+        }
+      ]
+    },
+    {
+      "claim": "Avustralya'daki Swinburne Teknoloji Üniversitesi'nden araştırmacılar, Arecibo Gözlemevi ve Çin'in Beş Yüz Metrelik Diyaframlı Küresel Radyo Teleskobu'ndan gelen verileri karşılaştırarak keşfi yapmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "Researchers at Swinburne University of Technology in Australia made the discovery by comparing observations from two existing radio surveys, one conducted by the Arecibo Observatory in Puerto Rico and the other by China's Five-Hundred-Meter Aperture Spherical Radio Telescope."
+        }
+      ]
+    },
+    {
+      "claim": "Araştırmacılar, AGC 322753'ün hidrojen kütlesinin yıldız kütlesinden en az 40 kat daha fazla olduğunu tahmin etmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "From this, the team estimates that AGC322753 contains at least 40 times more mass in hydrogen than in stars"
+        }
+      ]
+    },
+    {
+      "claim": "DESI Legacy Imaging Surveys tarafından yapılan derin optik görüntüler, AGC 322753'te herhangi bir yıldız ışığı tespit edememiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "If so, they must be very faint indeed, because even deep optical images from the DESI Legacy Imaging Surveys, which search for starlight rather than the hydrogen gas detected by radio telescopes, reveal none."
+        }
+      ]
+    },
+    {
+      "claim": "Robert Minchin, 2000'lerin başında keşfedilen VIRGOHI21 adlı karanlık galaksi adayının daha sonra yakındaki bir galaksiden kopan hidrojen gazı akıntısı (gelgit kuyruğu) olarak yeniden yorumlandığını belirtmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "He was involved in the discovery of VIRGOHI21, a dark galaxy candidate found in the early 2000s that was later reinterpreted as a long stream of hydrogen gas pulled from a nearby galaxy by gravity, known as a tidal tail."
+        }
+      ]
+    },
+    {
+      "claim": "Swinburne Teknoloji Üniversitesi'nden Marco Monaci, teorik modellerin ve simülasyonların karanlık galaksilerin dönmemesi gerektiğini gösterdiğini ifade etmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "\"The theoretical models and the simulations show us that dark galaxies shouldn't rotate, so this is extremely interesting,\" says Marco Monaci, an author of the study at Swinburne University of Technology."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Lambda-CDM modeli, evrendeki maddenin yaklaşık yüzde 85'inin soğuk karanlık maddeden oluştuğunu varsayar.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "Researchers’ most successful model of the cosmos, known as Lambda-CDM, assumes the existence of two invisible ingredients: dark energy, the mysterious property thought to be driving the accelerating expansion of the universe, as well as cold dark matter, a hypothetical substance that physicists think makes up about 85 percent of the universe’s matter."
+        }
+      ]
+    },
+    {
+      "claim": "AGC 322753 adlı nesne, güneşin kütlesinin yaklaşık 2 milyar katı kadar hidrojen içermektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "The object, known as AGC 322753, contains roughly 2 billion times the sun's mass in hydrogen, yet appears to have no stars"
+        },
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "The object, known as AGC 322753, contains roughly 2 billion times the sun's mass in hydrogen"
+        }
+      ]
+    },
+    {
+      "claim": "AGC 322753 hakkındaki bulgular Monthly Notices of the Royal Astronomical Society dergisinde yayımlanmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "Now, researchers have found a promising candidate for such a dark galaxy and published their findings in the Monthly Notices of the Royal Astronomical Society."
+        }
+      ]
+    },
+    {
+      "claim": "Avustralya'daki Swinburne Teknoloji Üniversitesi'nden araştırmacılar, Arecibo Gözlemevi ve Çin'in Beş Yüz Metrelik Diyaframlı Küresel Radyo Teleskobu'ndan gelen verileri karşılaştırarak keşfi yapmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "Researchers at Swinburne University of Technology in Australia made the discovery by comparing observations from two existing radio surveys, one conducted by the Arecibo Observatory in Puerto Rico and the other by China's Five-Hundred-Meter Aperture Spherical Radio Telescope."
+        }
+      ]
+    },
+    {
+      "claim": "Araştırmacılar, AGC 322753'ün hidrojen kütlesinin yıldız kütlesinden en az 40 kat daha fazla olduğunu tahmin etmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "From this, the team estimates that AGC322753 contains at least 40 times more mass in hydrogen than in stars"
+        }
+      ]
+    },
+    {
+      "claim": "DESI Legacy Imaging Surveys tarafından yapılan derin optik görüntüler, AGC 322753'te herhangi bir yıldız ışığı tespit edememiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "If so, they must be very faint indeed, because even deep optical images from the DESI Legacy Imaging Surveys, which search for starlight rather than the hydrogen gas detected by radio telescopes, reveal none."
+        }
+      ]
+    },
+    {
+      "claim": "Robert Minchin, 2000'lerin başında keşfedilen VIRGOHI21 adlı karanlık galaksi adayının daha sonra yakındaki bir galaksiden kopan hidrojen gazı akıntısı (gelgit kuyruğu) olarak yeniden yorumlandığını belirtmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "He was involved in the discovery of VIRGOHI21, a dark galaxy candidate found in the early 2000s that was later reinterpreted as a long stream of hydrogen gas pulled from a nearby galaxy by gravity, known as a tidal tail."
+        }
+      ]
+    },
+    {
+      "claim": "Swinburne Teknoloji Üniversitesi'nden Marco Monaci, teorik modellerin ve simülasyonların karanlık galaksilerin dönmemesi gerektiğini gösterdiğini ifade etmiştir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+          "quote": "\"The theoretical models and the simulations show us that dark galaxies shouldn't rotate, so this is extremely interesting,\" says Marco Monaci, an author of the study at Swinburne University of Technology."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/": 6588,
+    "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/": 17458
+  }
+}

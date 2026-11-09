@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "UZAY BİLİMLERİ",
+    "title": "Karanlık Galaksi Adayı: AGC 322753",
+    "highlight_words": [
+      "Karanlık",
+      "Galaksi"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Yıldız ışığı barındırmayan devasa hidrojen kütlesi keşfedildi.",
+    "source_tags": [
+      "WIRED",
+      "ARS TECHNICA"
+    ]
+  },
+  "context": {
+    "heading": "AGC 322753 Nedir?",
+    "cards": [
+      {
+        "card_title": "Devasa Hidrojen Kütlesi",
+        "card_body": "AGC 322753 adlı nesne, Güneş'in kütlesinin yaklaşık 2 milyar katı kadar hidrojen içermektedir."
+      },
+      {
+        "card_title": "Keşif Süreci",
+        "card_body": "Swinburne Teknoloji Üniversitesi araştırmacıları, Arecibo ve Çin'deki FAST teleskop verilerini karşılaştırarak keşfi yaptı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "40 KAT",
+    "stat_caption": "AGC 322753'ün hidrojen kütlesinin, içerdiği yıldız kütlesine oranı.",
+    "stat_quote": "DESI Legacy Imaging Surveys tarafından yapılan derin optik görüntüler, AGC 322753'te herhangi bir yıldız ışığı tespit edememiştir."
+  },
+  "details": {
+    "heading": "Neden Önemli?",
+    "cards": [
+      {
+        "card_title": "Yıldızsız Yapı",
+        "card_body": "Araştırmacılar, nesnenin hidrojen kütlesinin yıldız kütlesinden en az 40 kat daha fazla olduğunu tahmin ediyor."
+      },
+      {
+        "card_title": "Karanlık Galaksi Tartışması",
+        "card_body": "Marco Monaci, teorik modellerin ve simülasyonların karanlık galaksilerin dönmemesi gerektiğini gösterdiğini belirtiyor."
+      },
+      {
+        "card_title": "Geçmiş Deneyimler",
+        "card_body": "Robert Minchin, geçmişteki VIRGOHI21 adayının aslında bir gelgit kuyruğu olarak yeniden yorumlandığını hatırlatıyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Bilimsel Etkisi",
+    "cards": [
+      {
+        "card_title": "Kozmolojik Modeller",
+        "card_body": "Lambda-CDM modeli, evrendeki maddenin yaklaşık yüzde 85'inin soğuk karanlık maddeden oluştuğunu varsayıyor."
+      },
+      {
+        "card_title": "Akademik Yayın",
+        "card_body": "AGC 322753 hakkındaki tüm bulgular Monthly Notices of the Royal Astronomical Society dergisinde yayımlandı."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce AGC 322753 gerçekten karanlık bir galaksi mi, yoksa başka bir kozmik olayın sonucu mu?",
+    "reminder_line": "Bilimsel gelişmelerden haberdar olmak için Tekno Pusula'yı takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
