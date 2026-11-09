@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE GİRİŞİMCİLİK",
+    "title": "NVIDIA ve MSIT Yapay Zeka Zirvesi",
+    "highlight_words": [
+      "NVIDIA",
+      "MSIT"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Güney Kore'deki yapay zeka girişimleri için yeni iş birliği ve yatırımlar duyuruldu.",
+    "source_tags": [
+      "NVIDIA NEWSROOM",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "COEX'te Gerçekleşen Zirve",
+    "cards": [
+      {
+        "card_title": "MSIT-NVIDIA Ortaklığı",
+        "card_body": "Güney Kore Bilim ve Bilişim Bakanlığı (MSIT) ile NVIDIA, COEX'te ortak bir yapay zeka girişim ortaklığı forumu düzenledi."
+      },
+      {
+        "card_title": "Geniş Katılım",
+        "card_body": "Bakan yardımcısı Ryu Je-myung; temel modeller, fiziksel yapay zeka, altyapı ve yarı iletken alanlarında 20'den fazla girişimle buluştu."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "1.000+",
+    "stat_caption": "NVIDIA Inception programına katılan Kore merkezli üye sayısı.",
+    "stat_quote": "NVIDIA Inception, girişimlerin büyümesini destekleyen küresel bir program olarak faaliyet gösteriyor."
+  },
+  "details": {
+    "heading": "Yatırım Yapılan Girişimler",
+    "cards": [
+      {
+        "card_title": "Point2 Technology",
+        "card_body": "Yapay zeka fabrikalarında çip ve raflar arası ölçeklenebilir bağlantılar üreten bir girişim."
+      },
+      {
+        "card_title": "Motif Technologies",
+        "card_body": "Motif-3 açık ağırlıklı büyük dil modelini geliştiren Seul merkezli yapay zeka laboratuvarı."
+      },
+      {
+        "card_title": "RLWRLD ve Upstage",
+        "card_body": "RLWRLD robotik modeller geliştirirken, Upstage Solar dil modelleri ve belge araçları sunuyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Etkiler",
+    "cards": [
+      {
+        "card_title": "Donanım ve Altyapı",
+        "card_body": "Point2 gibi girişimler yapay zeka fabrikalarının iletişim ve altyapı gücünü artırıyor."
+      },
+      {
+        "card_title": "Model ve Robotik Gelişimi",
+        "card_body": "Motif, Upstage ve RLWRLD gibi şirketler dil modelleri ve insansı robot teknolojilerine odaklanıyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "NVIDIA'nın bu yatırımları Kore'deki yapay zeka ekosistemini nasıl dönüştürür?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}
