@@ -7,26 +7,22 @@
     "IEEE Spectrum",
     "OpenAI News"
   ],
-  "checked_at": "2026-11-09T14:52:45+03:00",
+  "checked_at": "2026-11-09T14:57:24+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Tesla is expanding its robotaxi service to San Antonio starting at 5 a.m. local time on Monday.",
+      "claim": "Tesla, robotaksi servisini yerel saatle pazartesi günü saat 05.00'ten itibaren San Antonio'da kullanıma sunacağını X platformunda duyurdu.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
           "quote": "The company said in a post on X that it will make its robotaxis available in San Antonio starting at 5 a.m. local time on Monday."
-        },
-        {
-          "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
-          "quote": "Tesla is expanding its robotaxi service to another Texas city as it seeks to compete with Waymo and position itself as more than just an automaker. The company said in a post on X that it will make its robotaxis available in San Antonio starting at 5 a.m. local time on Monday."
         }
       ]
     },
     {
-      "claim": "Tesla launched a robotaxi service in Austin in June 2025.",
+      "claim": "Tesla, Austin'deki robotaksi servisini Haziran 2025'te başlattı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -40,7 +36,7 @@
       ]
     },
     {
-      "claim": "In January, Tesla removed safety monitors from its robotaxis in Austin to start a true driverless service.",
+      "claim": "Tesla, ocak ayında Austin'deki robotaksilerinden güvenlik görevlilerini kaldırarak gerçek sürücüsüz hizmet başlattı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -50,7 +46,7 @@
       ]
     },
     {
-      "claim": "Tesla currently operates robotaxis in limited areas of Miami, Orlando, Dallas, Fort Worth, and Houston.",
+      "claim": "Tesla; Miami, Orlando, Dallas, Fort Worth ve Houston şehirlerinin sınırlı bölgelerinde robotaksi işletmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -60,7 +56,7 @@
       ]
     },
     {
-      "claim": "Waymo operates a robotaxi service in Austin, Dallas, Houston, and San Antonio using Jaguar I-Pace and Zeekr RT vehicles.",
+      "claim": "Waymo, Austin, Dallas, Houston ve San Antonio'da sürücüsüz Jaguar I-Pace ve Zeekr RT araçlarıyla robotaksi hizmeti vermektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -70,13 +66,9 @@
       ]
     },
     {
-      "claim": "Tesla has more than 400 autonomous vehicles registered in its Austin fleet.",
+      "claim": "Texas araç kayıt verileri ve Robotaxi Tracker web sitesine göre Tesla'nın Austin filosunda 400'den fazla otonom araç bulunmaktadır.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
-          "quote": "While Tesla has more than 400 autonomous vehicles registered in its Austin fleet"
-        },
         {
           "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
           "quote": "While Tesla has more than 400 autonomous vehicles registered in its Austin fleet, its fleets in other cities have numbered between a handful and a few dozen, according to Texas vehicle registration data and the Robotaxi Tracker website."
@@ -84,7 +76,7 @@
       ]
     },
     {
-      "claim": "Tesla has 24 vehicles in Fort Worth and five in Miami according to the tracker.",
+      "claim": "Robotaxi Tracker verilerine göre Tesla'nın Fort Worth'te 24, Miami'de ise 5 aracı bulunmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -94,33 +86,29 @@
       ]
     },
     {
-      "claim": "Tesla operates a ride-hailing service with a human behind the wheel in the San Francisco Bay Area.",
+      "claim": "TechCrunch'ın temmuz ayındaki haberine göre Tesla'nın robotaksi ağı ikinci çeyrekte, ilk çeyreğe göre ücretli yolcularla daha az mil katetti.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
-          "quote": "Tesla also has a ride-hailing service, under a transportation charter permit, that it operates in the San Francisco Bay Area. While the vehicles are often described as robotaxis, they are operated by a human behind the wheel."
+          "quote": "In spite of this expansion push, the company released data this summer that showed its robotaxi network drove fewer miles with paying customers in the second quarter than it did in the first, TechCrunch reported in July."
         }
       ]
     }
   ],
   "round1": [
     {
-      "claim": "Tesla is expanding its robotaxi service to San Antonio starting at 5 a.m. local time on Monday.",
+      "claim": "Tesla, robotaksi servisini yerel saatle pazartesi günü saat 05.00'ten itibaren San Antonio'da kullanıma sunacağını X platformunda duyurdu.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
           "quote": "The company said in a post on X that it will make its robotaxis available in San Antonio starting at 5 a.m. local time on Monday."
-        },
-        {
-          "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
-          "quote": "Tesla is expanding its robotaxi service to another Texas city as it seeks to compete with Waymo and position itself as more than just an automaker. The company said in a post on X that it will make its robotaxis available in San Antonio starting at 5 a.m. local time on Monday."
         }
       ]
     },
     {
-      "claim": "Tesla launched a robotaxi service in Austin in June 2025.",
+      "claim": "Tesla, Austin'deki robotaksi servisini Haziran 2025'te başlattı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -134,7 +122,7 @@
       ]
     },
     {
-      "claim": "In January, Tesla removed safety monitors from its robotaxis in Austin to start a true driverless service.",
+      "claim": "Tesla, ocak ayında Austin'deki robotaksilerinden güvenlik görevlilerini kaldırarak gerçek sürücüsüz hizmet başlattı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -144,7 +132,7 @@
       ]
     },
     {
-      "claim": "Tesla currently operates robotaxis in limited areas of Miami, Orlando, Dallas, Fort Worth, and Houston.",
+      "claim": "Tesla; Miami, Orlando, Dallas, Fort Worth ve Houston şehirlerinin sınırlı bölgelerinde robotaksi işletmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -154,7 +142,7 @@
       ]
     },
     {
-      "claim": "Waymo operates a robotaxi service in Austin, Dallas, Houston, and San Antonio using Jaguar I-Pace and Zeekr RT vehicles.",
+      "claim": "Waymo, Austin, Dallas, Houston ve San Antonio'da sürücüsüz Jaguar I-Pace ve Zeekr RT araçlarıyla robotaksi hizmeti vermektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -164,13 +152,9 @@
       ]
     },
     {
-      "claim": "Tesla has more than 400 autonomous vehicles registered in its Austin fleet.",
+      "claim": "Texas araç kayıt verileri ve Robotaxi Tracker web sitesine göre Tesla'nın Austin filosunda 400'den fazla otonom araç bulunmaktadır.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
-          "quote": "While Tesla has more than 400 autonomous vehicles registered in its Austin fleet"
-        },
         {
           "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
           "quote": "While Tesla has more than 400 autonomous vehicles registered in its Austin fleet, its fleets in other cities have numbered between a handful and a few dozen, according to Texas vehicle registration data and the Robotaxi Tracker website."
@@ -178,7 +162,7 @@
       ]
     },
     {
-      "claim": "Tesla has 24 vehicles in Fort Worth and five in Miami according to the tracker.",
+      "claim": "Robotaxi Tracker verilerine göre Tesla'nın Fort Worth'te 24, Miami'de ise 5 aracı bulunmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -188,33 +172,29 @@
       ]
     },
     {
-      "claim": "Tesla operates a ride-hailing service with a human behind the wheel in the San Francisco Bay Area.",
+      "claim": "TechCrunch'ın temmuz ayındaki haberine göre Tesla'nın robotaksi ağı ikinci çeyrekte, ilk çeyreğe göre ücretli yolcularla daha az mil katetti.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
-          "quote": "Tesla also has a ride-hailing service, under a transportation charter permit, that it operates in the San Francisco Bay Area. While the vehicles are often described as robotaxis, they are operated by a human behind the wheel."
+          "quote": "In spite of this expansion push, the company released data this summer that showed its robotaxi network drove fewer miles with paying customers in the second quarter than it did in the first, TechCrunch reported in July."
         }
       ]
     }
   ],
   "round2": [
     {
-      "claim": "Tesla is expanding its robotaxi service to San Antonio starting at 5 a.m. local time on Monday.",
+      "claim": "Tesla, robotaksi servisini yerel saatle pazartesi günü saat 05.00'ten itibaren San Antonio'da kullanıma sunacağını X platformunda duyurdu.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
           "quote": "The company said in a post on X that it will make its robotaxis available in San Antonio starting at 5 a.m. local time on Monday."
-        },
-        {
-          "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
-          "quote": "Tesla is expanding its robotaxi service to another Texas city as it seeks to compete with Waymo and position itself as more than just an automaker. The company said in a post on X that it will make its robotaxis available in San Antonio starting at 5 a.m. local time on Monday."
         }
       ]
     },
     {
-      "claim": "Tesla launched a robotaxi service in Austin in June 2025.",
+      "claim": "Tesla, Austin'deki robotaksi servisini Haziran 2025'te başlattı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -228,7 +208,7 @@
       ]
     },
     {
-      "claim": "In January, Tesla removed safety monitors from its robotaxis in Austin to start a true driverless service.",
+      "claim": "Tesla, ocak ayında Austin'deki robotaksilerinden güvenlik görevlilerini kaldırarak gerçek sürücüsüz hizmet başlattı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -238,7 +218,7 @@
       ]
     },
     {
-      "claim": "Tesla currently operates robotaxis in limited areas of Miami, Orlando, Dallas, Fort Worth, and Houston.",
+      "claim": "Tesla; Miami, Orlando, Dallas, Fort Worth ve Houston şehirlerinin sınırlı bölgelerinde robotaksi işletmektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -248,7 +228,7 @@
       ]
     },
     {
-      "claim": "Waymo operates a robotaxi service in Austin, Dallas, Houston, and San Antonio using Jaguar I-Pace and Zeekr RT vehicles.",
+      "claim": "Waymo, Austin, Dallas, Houston ve San Antonio'da sürücüsüz Jaguar I-Pace ve Zeekr RT araçlarıyla robotaksi hizmeti vermektedir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -258,13 +238,9 @@
       ]
     },
     {
-      "claim": "Tesla has more than 400 autonomous vehicles registered in its Austin fleet.",
+      "claim": "Texas araç kayıt verileri ve Robotaxi Tracker web sitesine göre Tesla'nın Austin filosunda 400'den fazla otonom araç bulunmaktadır.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
-          "quote": "While Tesla has more than 400 autonomous vehicles registered in its Austin fleet"
-        },
         {
           "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
           "quote": "While Tesla has more than 400 autonomous vehicles registered in its Austin fleet, its fleets in other cities have numbered between a handful and a few dozen, according to Texas vehicle registration data and the Robotaxi Tracker website."
@@ -272,7 +248,7 @@
       ]
     },
     {
-      "claim": "Tesla has 24 vehicles in Fort Worth and five in Miami according to the tracker.",
+      "claim": "Robotaxi Tracker verilerine göre Tesla'nın Fort Worth'te 24, Miami'de ise 5 aracı bulunmaktadır.",
       "verdict": "supported",
       "evidence": [
         {
@@ -282,12 +258,12 @@
       ]
     },
     {
-      "claim": "Tesla operates a ride-hailing service with a human behind the wheel in the San Francisco Bay Area.",
+      "claim": "TechCrunch'ın temmuz ayındaki haberine göre Tesla'nın robotaksi ağı ikinci çeyrekte, ilk çeyreğe göre ücretli yolcularla daha az mil katetti.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
-          "quote": "Tesla also has a ride-hailing service, under a transportation charter permit, that it operates in the San Francisco Bay Area. While the vehicles are often described as robotaxis, they are operated by a human behind the wheel."
+          "quote": "In spite of this expansion push, the company released data this summer that showed its robotaxi network drove fewer miles with paying customers in the second quarter than it did in the first, TechCrunch reported in July."
         }
       ]
     }

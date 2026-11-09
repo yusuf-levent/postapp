@@ -1,69 +1,68 @@
 {
   "cover": {
     "category_label": "YAPAY ZEKA VE ULAŞIM",
-    "title": "Tesla Robotaksi Servisini Genişletiyor",
+    "title": "Tesla Robotaksi Servisi San Antonio'da Başlıyor",
     "highlight_words": [
-      "Robotaksi",
-      "Genişletiyor"
+      "San Antonio"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Tesla, otonom araç filosunu yeni şehirlere taşımaya devam ediyor.",
+    "subtitle": "Tesla, robotaksi ağını genişletmeye devam ediyor.",
     "source_tags": [
       "TECHCRUNCH",
       "BBC NEWS"
     ]
   },
   "context": {
-    "heading": "Tesla Otonom Sürüşte İlerliyor",
+    "heading": "Robotaksi Ağında Yeni Adım",
     "cards": [
       {
-        "card_title": "Austin Deneyimi",
-        "card_body": "Tesla, Haziran 2025'te Austin'de robotaksi hizmetini başlatmıştı."
+        "card_title": "San Antonio'da Hizmet",
+        "card_body": "Tesla, robotaksi servisini yerel saatle pazartesi günü saat 05.00'ten itibaren San Antonio'da kullanıma sunacağını duyurdu."
       },
       {
-        "card_title": "Güvenlik Sürücüleri",
-        "card_body": "Ocak ayında Austin'deki araçlardan güvenlik monitörleri kaldırıldı."
+        "card_title": "Austin Geçmişi",
+        "card_body": "Tesla, Austin'deki robotaksi servisini Haziran 2025'te başlatmış ve ocak ayında güvenlik görevlilerini kaldırarak gerçek sürücüsüz hizmete geçmiştir."
       }
     ]
   },
   "stat": {
     "big_stat": "400+",
-    "stat_caption": "Tesla'nın Austin filosundaki kayıtlı otonom araç sayısı",
-    "stat_quote": "Tesla, Austin'de 400'den fazla otonom araca sahip."
+    "stat_caption": "Texas araç kayıt verilerine göre Tesla'nın Austin filosundaki otonom araç sayısı.",
+    "stat_quote": "Robotaxi Tracker ve resmi verilere göre Austin'de büyük bir filo bulunuyor."
   },
   "details": {
-    "heading": "Operasyon Bölgeleri",
+    "heading": "Güncel Filo ve Şehirler",
     "cards": [
       {
-        "card_title": "San Antonio Hamlesi",
-        "card_body": "Tesla, Pazartesi günü yerel saatle sabah 5'ten itibaren San Antonio'da hizmete başlıyor."
+        "card_title": "Faaliyet Gösterilen Şehirler",
+        "card_body": "Tesla; Miami, Orlando, Dallas, Fort Worth ve Houston şehirlerinin sınırlı bölgelerinde robotaksi işletmektedir."
       },
       {
-        "card_title": "Diğer Şehirler",
-        "card_body": "Miami, Orlando, Dallas, Fort Worth ve Houston'ın sınırlı bölgelerinde faaliyet yürütülüyor."
+        "card_title": "Filo Dağılımı",
+        "card_body": "Robotaxi Tracker verilerine göre Tesla'nın Fort Worth'te 24, Miami'de ise 5 aracı bulunmaktadır."
       },
       {
-        "card_title": "San Francisco Durumu",
-        "card_body": "San Francisco Körfez Bölgesi'nde direksiyonda insan sürücü bulunan araçlar işletiliyor."
+        "card_title": "Rakip Durumu",
+        "card_body": "Waymo da Austin, Dallas, Houston ve San Antonio'da sürücüsüz Jaguar I-Pace ve Zeekr RT araçlarıyla hizmet vermektedir."
       }
     ]
   },
   "impact": {
-    "heading": "Sektörel Rekabet",
+    "heading": "Sektörel Gelişmeler",
     "cards": [
       {
-        "card_title": "Waymo'nun Varlığı",
-        "card_body": "Waymo; Austin, Dallas, Houston ve San Antonio'da araçlarla hizmet veriyor."
+        "card_title": "Ağ Performansı",
+        "card_body": "TechCrunch'ın temmuz ayındaki haberine göre Tesla'nın robotaksi ağı ikinci çeyrekte ücretli yolcularla daha az mil katetti."
       },
       {
-        "card_title": "Araç Çeşitliliği",
-        "card_body": "Waymo operasyonlarında Jaguar I-Pace ve Zeekr RT araçlarını kullanıyor."
+        "card_title": "Sürücüsüz Dönüşüm",
+        "card_body": "Araçlardaki güvenlik görevlilerinin kaldırılması, otonom sürüş teknolojilerinde yeni bir dönemi işaret ediyor."
       }
     ]
   },
   "cta": {
-    "question": "Otonom araçların şehir içi ulaşımdaki rolünü nasıl değerlendiriyorsunuz?",
-    "reminder_line": "Teknoloji gelişmelerini kaçırmamak için bizi takip edin."
+    "question": "Sizce robotaksi hizmetleri şehir içi ulaşımı tamamen değiştirecek mi?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
