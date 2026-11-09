@@ -6,8 +6,8 @@
       "NVIDIA",
       "Kore"
     ],
-    "highlight_color": "yellow",
-    "subtitle": "MSIT-NVIDIA AI Startup Partnership Forum COEX'te gerçekleşti.",
+    "highlight_color": "cyan",
+    "subtitle": "MSIT-NVIDIA AI Startup Partnership Forum COEX'te gerçekleştirildi.",
     "source_tags": [
       "NVIDIA NEWSROOM",
       "TECHCRUNCH"
@@ -17,53 +17,53 @@
     "heading": "Forum ve Görüşmeler",
     "cards": [
       {
-        "card_title": "MSIT ve NVIDIA Buluşması",
-        "card_body": "Korea's Ministry of Science and ICT ve NVIDIA, COEX'te ortak bir AI Startup Partnership Forum düzenledi."
+        "card_title": "MSIT-NVIDIA Forumu",
+        "card_body": "Korea's Ministry of Science and ICT ve NVIDIA, COEX'te MSIT-NVIDIA AI Startup Partnership Forum'una ev sahipliği yaptı."
       },
       {
-        "card_title": "20'den Fazla Girişim",
-        "card_body": "Bilim ve Bakan Yardımcısı Ryu Je-myung, 20'den fazla Koreli girişimle bir araya geldi."
+        "card_title": "Geniş Katılım",
+        "card_body": "Bilim ve İK Bakan Yardımcısı Ryu Je-myung; temel modeller, fiziksel AI, altyapı ve yarı iletken alanlarında 20'den fazla Koreli girişimle bir araya geldi."
       }
     ]
   },
   "stat": {
     "big_stat": "1.000+",
-    "stat_caption": "NVIDIA Inception programında yer alan Kore merkezli üye sayısı.",
-    "stat_quote": "More than 1,000 Korea-based members are part of NVIDIA Inception."
+    "stat_caption": "NVIDIA Inception programında 1.000'den fazla Kore merkezli üye bulunuyor.",
+    "stat_quote": "NVIDIA Inception, girişimlerin büyümesine yardımcı olan bir program olarak öne çıkıyor."
   },
   "details": {
     "heading": "Yatırım Yapılan Girişimler",
     "cards": [
       {
         "card_title": "Point2 Technology",
-        "card_body": "NVIDIA, Point2'ye yatırım açıkladı. Şirket, yapay zeka fabrikalarında veri taşıyan ölçeklenebilir bağlantılar geliştiriyor."
+        "card_body": "NVIDIA, yapay zeka fabrikaları için radyo frekansı tabanlı ölçeklenebilir bağlantılar kuran Point2 girişimine yatırım açıkladı."
       },
       {
-        "card_title": "Motif Technologies ve RLWRLD",
-        "card_body": "Motif Technologies açık ağırlıklı Motif-3 modelini geliştirdi; RLWRLD ise robotik temel modelleri üzerine çalışıyor."
+        "card_title": "Motif Technologies",
+        "card_body": "Seul merkezli bu yapay zeka laboratuvarı, Motif-3 açık ağırlıklı büyük dil modeli dahil olmak üzere ajan modelleri geliştiriyor."
       },
       {
-        "card_title": "Upstage",
-        "card_body": "Upstage, Solar dil modelleri ve işletmeler için belge yapay zeka araçları geliştiriyor."
+        "card_title": "RLWRLD ve Upstage",
+        "card_body": "RLWRLD robotik modeller geliştirirken, Upstage Solar dil modelleri ve belge araçları sunan bir kurumsal yapay zeka şirketi."
       }
     ]
   },
   "impact": {
-    "heading": "Ekosisteme Etkisi",
+    "heading": "Sektörel Etkiler",
     "cards": [
       {
         "card_title": "Donanım ve Altyapı",
-        "card_body": "Radyo frekansı tabanlı bağlantılar ve yapay zeka yarı iletkenleri altyapıyı güçlendiriyor."
+        "card_body": "Point2 Technology'nin geliştirdiği radyo frekansı tabanlı bağlantılar, yapay zeka fabrikalarının ölçeklenebilirliğini artırıyor."
       },
       {
-        "card_title": "Temel Modeller",
-        "card_body": "Dil modelleri ve fiziksel yapay zeka çalışmaları ekosistemi büyütüyor."
+        "card_title": "Fiziksel AI ve Modeller",
+        "card_body": "RLWRLD insansı ve endüstriyel robotlar için robotik modeller geliştirirken, Upstage ve Motif yeni nesil dil modelleri sunuyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce bu tür küresel iş birlikleri yerel yapay zeka girişimlerini nasıl etkiler?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeler için takipte kalın."
+    "question": "Sizce NVIDIA'nın bu girişim yatırımları yapay zeka ekosistemini nasıl dönüştürecek?",
+    "reminder_line": "Tekno Pusula ile güncel teknolojileri takip etmeye devam edin."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
