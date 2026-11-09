@@ -1,69 +1,69 @@
 {
   "cover": {
-    "category_label": "YAPAY ZEKA EKOSİSTEMİ",
-    "title": "NVIDIA'dan Koreli Girişimlere Dev Yatırım",
+    "category_label": "YAPAY ZEKA VE GİRİŞİMCİLİK",
+    "title": "NVIDIA ve Kore'den Yapay Zeka Hamlesi",
     "highlight_words": [
       "NVIDIA",
-      "Yatırım"
+      "Kore"
     ],
     "highlight_color": "yellow",
-    "subtitle": "MSIT-NVIDIA AI Startup Partnership Forum'da geleceğin teknolojileri masaya yatırıldı.",
+    "subtitle": "MSIT-NVIDIA AI Startup Partnership Forum COEX'te gerçekleştirildi.",
     "source_tags": [
       "NVIDIA NEWSROOM",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Forumda Neler Konuşuldu?",
+    "heading": "Forum ve Görüşmeler",
     "cards": [
       {
-        "card_title": "Stratejik Buluşma",
-        "card_body": "Bilim ve Bilişim Bakanlığı ile NVIDIA, COEX'te AI Startup Partnership Forum'u düzenledi."
+        "card_title": "MSIT ve NVIDIA İş Birliği",
+        "card_body": "Korea's Ministry of Science and ICT ve NVIDIA, COEX'te MSIT-NVIDIA AI Startup Partnership Forum'a ev sahipliği yaptı."
       },
       {
         "card_title": "Geniş Katılım",
-        "card_body": "Bakan Yardımcısı Ryu Je-myung, 20'den fazla Koreli yapay zeka girişimiyle bir araya geldi."
+        "card_body": "Bakan yardımcısı Ryu Je-myung, temel modeller, fiziksel yapay zeka, altyapı ve yarı iletken alanlarında 20'den fazla Koreli girişimle buluştu."
       }
     ]
   },
   "stat": {
-    "big_stat": "20+",
-    "stat_caption": "Forumda bir araya gelen Koreli yapay zeka girişimi sayısı.",
-    "stat_quote": "NVIDIA, Kore ekosistemindeki inovasyonu desteklemek için Point2, Motif Technologies, RLWRLD ve Upstage'e yatırım planlarını açıkladı."
+    "big_stat": "1.000+",
+    "stat_caption": "NVIDIA Inception programına dahil olan Kore merkezli üye sayısı.",
+    "stat_quote": "More than 1,000 Korea-based members belong to NVIDIA Inception, a program that helps startups grow."
   },
   "details": {
-    "heading": "Yatırım Alan Girişimler",
+    "heading": "Desteklenen Girişimler",
     "cards": [
       {
         "card_title": "Point2 Technology",
-        "card_body": "Yapay zeka fabrikalarında çipler ve raflar arasında veri taşıyan, ölçeklenebilir radyo frekansı tabanlı bağlantılar geliştiriyor."
+        "card_body": "NVIDIA, çip ve raflar arası veri taşıyan ölçeklenebilir radyo frekansı tabanlı bağlantılar üreten Point2'ye yatırım açıkladı."
       },
       {
-        "card_title": "Motif ve Upstage",
-        "card_body": "Motif, açık ağırlıklı Motif-3 modelini geliştirirken; Upstage, Solar dil modelleri ve kurumsal doküman yapay zekası üzerine çalışıyor."
+        "card_title": "Motif Technologies ve RLWRLD",
+        "card_body": "Motif-3 modelini geliştiren Motif Technologies ve robotik temel modelleri geliştiren RLWRLD için yatırımlar planlanıyor."
       },
       {
-        "card_title": "RLWRLD",
-        "card_body": "İnsansı ve endüstriyel robotların karmaşık gerçek dünya görevlerini yerine getirmesini sağlayan robotik temel modelleri geliştiriyor."
+        "card_title": "Upstage",
+        "card_body": "Solar dil modelleri ve belge yapay zeka araçları geliştiren Koreli kurumsal yapay zeka şirketi Upstage de yatırım planlananlar arasında."
       }
     ]
   },
   "impact": {
-    "heading": "Sektörel Dönüşüm",
+    "heading": "Sektörel Etki",
     "cards": [
       {
-        "card_title": "Donanım ve Altyapı",
-        "card_body": "Point2 gibi girişimler, yapay zeka fabrikalarının veri iletim hızını artırarak altyapı darboğazlarını çözmeyi hedefliyor."
+        "card_title": "Yapay Zeka Fabrikaları",
+        "card_body": "Radyo frekansı tabanlı bağlantılar ve yeni donanım çözümleri, AI fabrikalarındaki veri akışını dönüştürüyor."
       },
       {
-        "card_title": "Yazılım ve Robotik",
-        "card_body": "Upstage ve RLWRLD'ün çalışmaları, hem iş dünyasındaki verimliliği hem de robotik sistemlerin yeteneklerini ileri taşıyor."
+        "card_title": "Küresel Ekosistem",
+        "card_body": "Koreli girişimlerin temel modeller, robotik ve kurumsal yapay zeka alanındaki çalışmaları küresel ölçekte büyüyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce NVIDIA'nın bu bölgesel yatırımları, küresel yapay zeka rekabetini nasıl etkileyecek?",
-    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri kaçırmamak için takipte kalın!"
+    "question": "Sizce fiziksel yapay zeka ve robotik alanındaki bu gelişmeler gelecekte hayatımızı nasıl etkileyecek?",
+    "reminder_line": "Teknoloji dünyasındaki en güncel ve doğrulanmış gelişmeler için takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
