@@ -7,64 +7,68 @@
     "MIT Technology Review",
     "Google Blog"
   ],
-  "checked_at": "2026-11-09T13:52:41+03:00",
+  "checked_at": "2026-11-09T13:57:18+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Delft University of Technology's research team developed a soft robotic arm colonized by algae on its surface.",
+      "claim": "Delft University of Technology'deki bir araştırma ekibi, yüzeyi alglerle kolonize edilmiş yumuşak bir robotik kol geliştirmiştir.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
-          "quote": "a research team at Delft University of Technology in the Netherlands has developed a soft robotic arm colonized by algae on its surface"
-        },
         {
           "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
           "quote": "now a research team at Delft University of Technology in the Netherlands has developed a soft robotic arm colonized by algae on its surface"
+        },
+        {
+          "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
+          "quote": "now a research team at Delft University of Technology in the Netherlands has developed a soft robotic arm colonized by algae on its surface, and when the microbes photosynthesize, the arm moves."
         }
       ]
     },
     {
-      "claim": "Marie-Eve Aubin-Tam led the research at Delft University of Technology in the Netherlands.",
+      "claim": "Araştırmayı yöneten Marie-Eve Aubin-Tam'dır.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
+          "quote": "“We didn’t start with a specific application. Our goal has always been to bring the research of living materials to new levels,” Marie-Eve Aubin-Tam, who led the research"
+        },
         {
           "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
           "quote": "“We didn’t start with a specific application. Our goal has always been to bring the research of living materials to new levels,” Marie-Eve Aubin-Tam, who led the research, explained in a press release."
-        },
-        {
-          "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
-          "quote": "now a research team at Delft University of Technology in the Netherlands has developed a soft robotic arm colonized by algae on its surface... “We didn’t start with a specific application. Our goal has always been to bring the research of living materials to new levels,” Marie-Eve Aubin-Tam, who led the research, explained"
         }
       ]
     },
     {
-      "claim": "The tiny robot arms are about three-quarters of an inch long and about as thick as a credit card.",
+      "claim": "Küçük robot kolları yaklaşık üçte dört inç uzunluğunda ve bir kredi kartı kalınlığındadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
-          "quote": "The tiny robot arms—about three-quarters of an inch long and about as thick as a credit card—are constructed of two layers of hydrogel that the algal cells live on."
+          "quote": "The tiny robot arms—about three-quarters of an inch long and about as thick as a credit card"
         },
         {
           "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
-          "quote": "The tiny robot arms—about three-quarters of an inch long and about as thick as a credit card—are constructed of two layers of hydrogel"
+          "quote": "The tiny robot arms—about three-quarters of an inch long and about as thick as a credit card—are constructed of two layers of hydrogel that the algal cells live on."
         }
       ]
     },
     {
-      "claim": "The robot arms are constructed of two layers of hydrogel that the algal cells live on.",
+      "claim": "Robot kolları alglerin yaşadığı iki katmanlı hidrojelden inşa edilmiştir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
           "quote": "are constructed of two layers of hydrogel that the algal cells live on."
+        },
+        {
+          "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
+          "quote": "The tiny robot arms—about three-quarters of an inch long and about as thick as a credit card—are constructed of two layers of hydrogel that the algal cells live on."
         }
       ]
     },
     {
-      "claim": "In acidic conditions between pH 3 and 7, the hydrogel layer was approximately 37 percent of its original weight, but it had quadruple its original weight at pH 11.",
+      "claim": "Asidik koşullarda, pH 3 ile 7 arasında, katman orijinal ağırlığının yaklaşık yüzde 37'si kadardı, ancak pH 11'de orijinal ağırlığının dört katına çıktı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -74,31 +78,27 @@
       ]
     },
     {
-      "claim": "The chemical shift begins about 20 seconds after light is applied and about 10 seconds after it becomes dark.",
+      "claim": "Kimyasal değişim, ışık uygulandıktan yaklaşık 20 saniye ve karanlık olduktan yaklaşık 10 saniye sonra hızlı bir şekilde başlar, ancak hidrojelin belirgin şekilde bükülmesi birkaç saat sürer.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
-          "quote": "The chemical shift begins quickly, about 20 seconds after light is applied and about 10 seconds after it becomes dark"
+          "quote": "The chemical shift begins quickly, about 20 seconds after light is applied and about 10 seconds after it becomes dark, but it takes several hours for the hydrogel to bend significantly."
         }
       ]
     },
     {
-      "claim": "The research team constructed a four-fingered gripper that closes when exposed to light and successfully grasped and lifted a hollow metal sphere.",
+      "claim": "Araştırma ekibi, ışığa maruz kaldığında kapanan dört parmaklı bir tutucu da dahil olmak üzere birkaç algal cihaz inşa etti.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
-          "quote": "One was a four-fingered gripper that closes when exposed to light. It successfully grasped and lifted a hollow metal sphere"
-        },
-        {
-          "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
-          "quote": "One was a four-fingered gripper that closes when exposed to light. It successfully grasped and lifted a hollow metal sphere, releasing it when the light was turned off."
+          "quote": "After their first proof of concept, the research team constructed several more algal devices. One was a four-fingered gripper that closes when exposed to light."
         }
       ]
     },
     {
-      "claim": "This story originally appeared on WIRED Japan and has been translated from Japanese.",
+      "claim": "Bu hikaye orijinal olarak WIRED Japan'da yayınlanmıştır ve Japoncadan çevrilmiştir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -110,59 +110,63 @@
   ],
   "round1": [
     {
-      "claim": "Delft University of Technology's research team developed a soft robotic arm colonized by algae on its surface.",
+      "claim": "Delft University of Technology'deki bir araştırma ekibi, yüzeyi alglerle kolonize edilmiş yumuşak bir robotik kol geliştirmiştir.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
-          "quote": "a research team at Delft University of Technology in the Netherlands has developed a soft robotic arm colonized by algae on its surface"
-        },
         {
           "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
           "quote": "now a research team at Delft University of Technology in the Netherlands has developed a soft robotic arm colonized by algae on its surface"
+        },
+        {
+          "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
+          "quote": "now a research team at Delft University of Technology in the Netherlands has developed a soft robotic arm colonized by algae on its surface, and when the microbes photosynthesize, the arm moves."
         }
       ]
     },
     {
-      "claim": "Marie-Eve Aubin-Tam led the research at Delft University of Technology in the Netherlands.",
+      "claim": "Araştırmayı yöneten Marie-Eve Aubin-Tam'dır.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
+          "quote": "“We didn’t start with a specific application. Our goal has always been to bring the research of living materials to new levels,” Marie-Eve Aubin-Tam, who led the research"
+        },
         {
           "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
           "quote": "“We didn’t start with a specific application. Our goal has always been to bring the research of living materials to new levels,” Marie-Eve Aubin-Tam, who led the research, explained in a press release."
-        },
-        {
-          "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
-          "quote": "now a research team at Delft University of Technology in the Netherlands has developed a soft robotic arm colonized by algae on its surface... “We didn’t start with a specific application. Our goal has always been to bring the research of living materials to new levels,” Marie-Eve Aubin-Tam, who led the research, explained"
         }
       ]
     },
     {
-      "claim": "The tiny robot arms are about three-quarters of an inch long and about as thick as a credit card.",
+      "claim": "Küçük robot kolları yaklaşık üçte dört inç uzunluğunda ve bir kredi kartı kalınlığındadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
-          "quote": "The tiny robot arms—about three-quarters of an inch long and about as thick as a credit card—are constructed of two layers of hydrogel that the algal cells live on."
+          "quote": "The tiny robot arms—about three-quarters of an inch long and about as thick as a credit card"
         },
         {
           "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
-          "quote": "The tiny robot arms—about three-quarters of an inch long and about as thick as a credit card—are constructed of two layers of hydrogel"
+          "quote": "The tiny robot arms—about three-quarters of an inch long and about as thick as a credit card—are constructed of two layers of hydrogel that the algal cells live on."
         }
       ]
     },
     {
-      "claim": "The robot arms are constructed of two layers of hydrogel that the algal cells live on.",
+      "claim": "Robot kolları alglerin yaşadığı iki katmanlı hidrojelden inşa edilmiştir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
           "quote": "are constructed of two layers of hydrogel that the algal cells live on."
+        },
+        {
+          "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
+          "quote": "The tiny robot arms—about three-quarters of an inch long and about as thick as a credit card—are constructed of two layers of hydrogel that the algal cells live on."
         }
       ]
     },
     {
-      "claim": "In acidic conditions between pH 3 and 7, the hydrogel layer was approximately 37 percent of its original weight, but it had quadruple its original weight at pH 11.",
+      "claim": "Asidik koşullarda, pH 3 ile 7 arasında, katman orijinal ağırlığının yaklaşık yüzde 37'si kadardı, ancak pH 11'de orijinal ağırlığının dört katına çıktı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -172,31 +176,27 @@
       ]
     },
     {
-      "claim": "The chemical shift begins about 20 seconds after light is applied and about 10 seconds after it becomes dark.",
+      "claim": "Kimyasal değişim, ışık uygulandıktan yaklaşık 20 saniye ve karanlık olduktan yaklaşık 10 saniye sonra hızlı bir şekilde başlar, ancak hidrojelin belirgin şekilde bükülmesi birkaç saat sürer.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
-          "quote": "The chemical shift begins quickly, about 20 seconds after light is applied and about 10 seconds after it becomes dark"
+          "quote": "The chemical shift begins quickly, about 20 seconds after light is applied and about 10 seconds after it becomes dark, but it takes several hours for the hydrogel to bend significantly."
         }
       ]
     },
     {
-      "claim": "The research team constructed a four-fingered gripper that closes when exposed to light and successfully grasped and lifted a hollow metal sphere.",
+      "claim": "Araştırma ekibi, ışığa maruz kaldığında kapanan dört parmaklı bir tutucu da dahil olmak üzere birkaç algal cihaz inşa etti.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
-          "quote": "One was a four-fingered gripper that closes when exposed to light. It successfully grasped and lifted a hollow metal sphere"
-        },
-        {
-          "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
-          "quote": "One was a four-fingered gripper that closes when exposed to light. It successfully grasped and lifted a hollow metal sphere, releasing it when the light was turned off."
+          "quote": "After their first proof of concept, the research team constructed several more algal devices. One was a four-fingered gripper that closes when exposed to light."
         }
       ]
     },
     {
-      "claim": "This story originally appeared on WIRED Japan and has been translated from Japanese.",
+      "claim": "Bu hikaye orijinal olarak WIRED Japan'da yayınlanmıştır ve Japoncadan çevrilmiştir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -208,59 +208,63 @@
   ],
   "round2": [
     {
-      "claim": "Delft University of Technology's research team developed a soft robotic arm colonized by algae on its surface.",
+      "claim": "Delft University of Technology'deki bir araştırma ekibi, yüzeyi alglerle kolonize edilmiş yumuşak bir robotik kol geliştirmiştir.",
       "verdict": "supported",
       "evidence": [
-        {
-          "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
-          "quote": "a research team at Delft University of Technology in the Netherlands has developed a soft robotic arm colonized by algae on its surface"
-        },
         {
           "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
           "quote": "now a research team at Delft University of Technology in the Netherlands has developed a soft robotic arm colonized by algae on its surface"
+        },
+        {
+          "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
+          "quote": "now a research team at Delft University of Technology in the Netherlands has developed a soft robotic arm colonized by algae on its surface, and when the microbes photosynthesize, the arm moves."
         }
       ]
     },
     {
-      "claim": "Marie-Eve Aubin-Tam led the research at Delft University of Technology in the Netherlands.",
+      "claim": "Araştırmayı yöneten Marie-Eve Aubin-Tam'dır.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
+          "quote": "“We didn’t start with a specific application. Our goal has always been to bring the research of living materials to new levels,” Marie-Eve Aubin-Tam, who led the research"
+        },
         {
           "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
           "quote": "“We didn’t start with a specific application. Our goal has always been to bring the research of living materials to new levels,” Marie-Eve Aubin-Tam, who led the research, explained in a press release."
-        },
-        {
-          "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
-          "quote": "now a research team at Delft University of Technology in the Netherlands has developed a soft robotic arm colonized by algae on its surface... “We didn’t start with a specific application. Our goal has always been to bring the research of living materials to new levels,” Marie-Eve Aubin-Tam, who led the research, explained"
         }
       ]
     },
     {
-      "claim": "The tiny robot arms are about three-quarters of an inch long and about as thick as a credit card.",
+      "claim": "Küçük robot kolları yaklaşık üçte dört inç uzunluğunda ve bir kredi kartı kalınlığındadır.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
-          "quote": "The tiny robot arms—about three-quarters of an inch long and about as thick as a credit card—are constructed of two layers of hydrogel that the algal cells live on."
+          "quote": "The tiny robot arms—about three-quarters of an inch long and about as thick as a credit card"
         },
         {
           "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
-          "quote": "The tiny robot arms—about three-quarters of an inch long and about as thick as a credit card—are constructed of two layers of hydrogel"
+          "quote": "The tiny robot arms—about three-quarters of an inch long and about as thick as a credit card—are constructed of two layers of hydrogel that the algal cells live on."
         }
       ]
     },
     {
-      "claim": "The robot arms are constructed of two layers of hydrogel that the algal cells live on.",
+      "claim": "Robot kolları alglerin yaşadığı iki katmanlı hidrojelden inşa edilmiştir.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
           "quote": "are constructed of two layers of hydrogel that the algal cells live on."
+        },
+        {
+          "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
+          "quote": "The tiny robot arms—about three-quarters of an inch long and about as thick as a credit card—are constructed of two layers of hydrogel that the algal cells live on."
         }
       ]
     },
     {
-      "claim": "In acidic conditions between pH 3 and 7, the hydrogel layer was approximately 37 percent of its original weight, but it had quadruple its original weight at pH 11.",
+      "claim": "Asidik koşullarda, pH 3 ile 7 arasında, katman orijinal ağırlığının yaklaşık yüzde 37'si kadardı, ancak pH 11'de orijinal ağırlığının dört katına çıktı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -270,31 +274,27 @@
       ]
     },
     {
-      "claim": "The chemical shift begins about 20 seconds after light is applied and about 10 seconds after it becomes dark.",
+      "claim": "Kimyasal değişim, ışık uygulandıktan yaklaşık 20 saniye ve karanlık olduktan yaklaşık 10 saniye sonra hızlı bir şekilde başlar, ancak hidrojelin belirgin şekilde bükülmesi birkaç saat sürer.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
-          "quote": "The chemical shift begins quickly, about 20 seconds after light is applied and about 10 seconds after it becomes dark"
+          "quote": "The chemical shift begins quickly, about 20 seconds after light is applied and about 10 seconds after it becomes dark, but it takes several hours for the hydrogel to bend significantly."
         }
       ]
     },
     {
-      "claim": "The research team constructed a four-fingered gripper that closes when exposed to light and successfully grasped and lifted a hollow metal sphere.",
+      "claim": "Araştırma ekibi, ışığa maruz kaldığında kapanan dört parmaklı bir tutucu da dahil olmak üzere birkaç algal cihaz inşa etti.",
       "verdict": "supported",
       "evidence": [
         {
           "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
-          "quote": "One was a four-fingered gripper that closes when exposed to light. It successfully grasped and lifted a hollow metal sphere"
-        },
-        {
-          "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
-          "quote": "One was a four-fingered gripper that closes when exposed to light. It successfully grasped and lifted a hollow metal sphere, releasing it when the light was turned off."
+          "quote": "After their first proof of concept, the research team constructed several more algal devices. One was a four-fingered gripper that closes when exposed to light."
         }
       ]
     },
     {
-      "claim": "This story originally appeared on WIRED Japan and has been translated from Japanese.",
+      "claim": "Bu hikaye orijinal olarak WIRED Japan'da yayınlanmıştır ve Japoncadan çevrilmiştir.",
       "verdict": "supported",
       "evidence": [
         {

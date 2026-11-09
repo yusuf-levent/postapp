@@ -2,29 +2,39 @@
 
 ## INSTAGRAM
 
-Yüzeyinde canlı algler yaşayan yenilikçi yumuşak robot kol geliştirildi! Delft Üniversitesi'nden Marie-Eve Aubin-Tam liderliğindeki ekip, minik hidrojel tabakalı robotlar tasarladı. Işığa duyarlı bu robot kollar, pH 11 seviyesinde ağırlığının dört katına ulaşabiliyor ve nesneleri başarıyla kaldırabiliyor. Sizce bu teknoloji gelecekte nerelerde kullanılacak? Kaynak: Wired, TechCrunch
+Doğa ve teknoloji hiç bu kadar iç içe olmamıştı! 🌿🤖 Delft University of Technology araştırmacıları, yüzeyi alglerle kaplı, yumuşak bir robotik kol geliştirdi. 
 
-#YapayZeka #Robotik #Teknoloji #Inovasyon #Gelecek #Bilim #Wired #TechCrunch #AI #Robotics #FutureTech
+Bu ilginç tasarım, iki katmanlı bir hidrojel yapısından oluşuyor. İşin en şaşırtıcı kısmı ise pH seviyesine verdiği tepki: pH 11 seviyesinde, bu malzeme kendi ağırlığının dört katına kadar çıkabiliyor!
+
+Işık ve karanlık değişimlerine tepki vererek hareket eden bu yapılar, gelecekteki akıllı cihazlar için yepyeni bir kapı aralıyor. Işığa maruz kaldığında kapanan dört parmaklı tutucular, yumuşak robotiğin sınırlarını zorluyor.
+
+Sizce alglerle güçlendirilmiş bu yumuşak robotik kollar gelecekte hangi alanlarda kullanılabilir? Yorumlarda buluşalım!
+
+Kaynak: Wired, TechCrunch
+
+#YumuşakRobotik #Teknoloji #İnovasyon #Biyoteknoloji #Gelecek #Robotik #Bilim #SoftRobotics #TechNews #Innovation #Biotech
 
 ## TIKTOK
 
-Alglerle kaplı yumuşak robot kol üretildi! Işığa duyarlı bu minik robotlar ağırlığının 4 katına çıkabiliyor. Kaynak: Wired, TechCrunch
+Alglerle kaplı robotik kol mu? 🌿🤖 Delft Üniversitesi'nden araştırmacılar, ışığa ve pH seviyesine tepki veren yumuşak robotik kollar geliştirdi. pH 11'de kendi ağırlığının 4 katına çıkabiliyor! Geleceğin teknolojisi doğadan ilham alıyor. Sizce bu teknoloji nerede kullanılır? Kaynak: Wired, TechCrunch
 
-#teknoloji #robot #bilim #AI #future
+#teknoloji #robotik #bilim #inovasyon #gelecek
 
 ## X
 
-Delft Üniversitesi araştırmacıları, yüzeyinde canlı algler yaşayan ve ışığa tepki veren yumuşak robot kol geliştirdi. pH 11'de ağırlığının 4 katına ulaşabilen bu kollar nesneleri kaldırabiliyor. Kaynak: Wired, TechCrunch
+Doğadan ilham alan teknoloji: Delft Üniversitesi araştırmacıları, alglerle kaplı yumuşak bir robotik kol geliştirdi. Işık ve pH değişimlerine tepki veren bu yapı, kendi ağırlığının 4 katına çıkabiliyor. Geleceğin akıllı cihazları için yeni bir adım. Kaynak: Wired, TechCrunch
 
-#Teknoloji #Robotik
+#Robotik #Teknoloji
 
 ## THREADS
 
-Alglerle Kaplı Yumuşak Robot Kol 🌿
+Alglerle kaplı yumuşak robotik kol dönemi başlıyor! 🌿🤖
 
-Delft Üniversitesi'nde geliştirilen yenilikçi robot kollar, yüzeyindeki algler ve hidrojel tabaka sayesinde ışığa duyarlı olarak çalışıyor ve nesneleri kaldırabiliyor.
+Delft Üniversitesi araştırmacıları, ışık ve pH değişimlerine tepki veren, hidrojel tabanlı robotik kollar geliştirdi. Bu yapılar, belirli koşullarda ağırlıklarının 4 katına çıkabiliyor.
 
-Sizce bu teknoloji hangi alanlarda devrim yaratır? 💭
+Doğanın gücünü teknolojiyle birleştiren bu çalışma, gelecekteki akıllı cihazlar için ilham verici bir yaklaşım sunuyor. 💭
+
+Sizce bu teknoloji hangi alanlarda devrim yaratabilir?
 
 Kaynak: Wired, TechCrunch
 
@@ -32,18 +42,26 @@ Kaynak: Wired, TechCrunch
 
 ## LINKEDIN
 
-Yapay zeka ve robotik alanında sınırları zorlayan bir gelişme: Delft Üniversitesi'nden araştırmacılar, yüzeyinde canlı alg hücreleri barındıran yenilikçi yumuşak robot kolları tanıttı. Marie-Eve Aubin-Tam liderliğindeki ekip, ışığa duyarlı ve kimyasal değişimlere tepki verebilen bu hidrojel bazlı yapıların pH 11 seviyesinde orijinal ağırlığının dört katına ulaşabildiğini gözlemledi. Dört parmaklı tutucu tasarımıyla nesne kaldırma testlerini başarıyla geçen bu teknoloji, sürdürülebilir robotik uygulamaları için yeni kapılar aralıyor. Sektördeki bu tür biyolojik entegrasyonları nasıl değerlendiriyorsunuz?
+Yumuşak robotik teknolojilerinde biyomimetik yaklaşımlar yeni bir boyut kazanıyor. Delft University of Technology bünyesindeki araştırmacılar, yüzeyi alglerle kolonize edilmiş, hidrojel tabanlı yumuşak bir robotik kol geliştirdi.
+
+Marie-Eve Aubin-Tam liderliğindeki ekip, malzemenin çevresel faktörlere (ışık ve pH seviyesi) verdiği tepkileri optimize ederek, pH 11 seviyesinde orijinal ağırlığının dört katına ulaşabilen bir yapı elde etti. Bu çalışma, sadece malzeme bilimi açısından değil, aynı zamanda dış etkenlere duyarlı akıllı cihazların geliştirilmesi noktasında da önemli bir potansiyel taşıyor.
+
+Sektörel açıdan bakıldığında, bu tür biyolojik ve sentetik entegrasyonlar, yumuşak robotiğin uygulama alanlarını genişletme kapasitesine sahip. Alglerle güçlendirilmiş bu yapıların gelecekteki endüstriyel veya tıbbi uygulamalarda nasıl bir rol oynayacağını öngörüyorsunuz?
 
 Kaynak: Wired, TechCrunch
 
-#Robotik #YapayZeka #Inovasyon #ArGe #GeleceginTeknolojileri
+#Robotik #Biyoteknoloji #İnovasyon #ArGe #Teknoloji
 
 ## FACEBOOK
 
-Yüzeyinde algler yaşayan yenilikçi yumuşak robot kol geliştirildi! Delft Üniversitesi'nde hayata geçirilen projede, ışığa duyarlı hidrojel tabakalı robotların ağırlığının 4 katına çıkabildiği ve nesneleri başarıyla kaldırabildiği kanıtlandı. 
+Doğa ve teknoloji hiç bu kadar iç içe olmamıştı! 🌿🤖 Delft University of Technology araştırmacıları, yüzeyi alglerle kaplı, yumuşak bir robotik kol geliştirdi.
 
-Alglerle kaplı bu yumuşak robotların gelecekte hangi alanlarda kullanılabileceğini düşünüyorsunuz?
+Bu ilginç tasarım, iki katmanlı bir hidrojel yapısından oluşuyor. İşin en şaşırtıcı kısmı ise pH seviyesine verdiği tepki: pH 11 seviyesinde, bu malzeme kendi ağırlığının dört katına kadar çıkabiliyor!
+
+Işık ve karanlık değişimlerine tepki vererek hareket eden bu yapılar, gelecekteki akıllı cihazlar için yepyeni bir kapı aralıyor. Işığa maruz kaldığında kapanan dört parmaklı tutucular, yumuşak robotiğin sınırlarını zorluyor.
+
+Sizce alglerle güçlendirilmiş bu yumuşak robotik kollar gelecekte hangi alanlarda kullanılabilir? Yorumlarda buluşalım!
 
 Kaynak: Wired, TechCrunch
 
-#Teknoloji #Robotik #Bilim #Inovasyon #Gelecek
+#YumuşakRobotik #Teknoloji #İnovasyon #Biyoteknoloji #Gelecek

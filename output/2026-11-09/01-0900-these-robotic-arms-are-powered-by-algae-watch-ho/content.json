@@ -1,69 +1,68 @@
 {
   "cover": {
-    "category_label": "YAPAY ZEKA VE ROBOTİK",
-    "title": "Alglerle Kaplı Yumuşak Robot Kol",
+    "category_label": "YENİ NESİL TEKNOLOJİ",
+    "title": "Alglerle Kaplı Yumușak Robotik Kol Geliştirildi",
     "highlight_words": [
-      "Yumuşak",
-      "Robot"
+      "Yumușak Robotik Kol"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Yüzeyinde algler yaşayan yenilikçi bir robot kol geliştirildi.",
+    "subtitle": "Delft University of Technology araştırmacılarından doğadan ilham alan yenilikçi bir robotik çalışma.",
     "source_tags": [
       "WIRED",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Araştırmanın Arka Planı",
+    "heading": "Projenin Arka Planı",
     "cards": [
       {
-        "card_title": "Delft Üniversitesi",
-        "card_body": "Hollanda'daki Delft University of Technology araştırma ekibi bu yenilikçi projeyi hayata geçirdi."
+        "card_title": "Araştırma Ekibi",
+        "card_body": "Delft University of Technology'deki araştırma ekibi, yüzeyi alglerle kolonize edilmiş yumuşak bir robotik kol geliştirmiştir. Araştırmayı yöneten Marie-Eve Aubin-Tam'dır."
       },
       {
-        "card_title": "Marie-Eve Aubin-Tam",
-        "card_body": "Araştırma, ekip lideri Marie-Eve Aubin-Tam yöneterken gerçekleştirildi."
+        "card_title": "Malzeme Yapısı",
+        "card_body": "Küçük robot kolları yaklaşık üçte dört inç uzunluğunda ve bir kredi kartı kalınlığındadır. Robot kolları alglerin yaşadığı iki katmanlı hidrojelden inşa edilmiştir."
       }
     ]
   },
   "stat": {
-    "big_stat": "4 KAT",
-    "stat_caption": "pH 11 seviyesinde hidrojel tabakasının ulaştığı ağırlık kat sayısı.",
-    "stat_quote": "pH 3 ve 7 arasındaki asidik koşullarda hidrojel orijinal ağırlığının yüzde 37'si kadardı, pH 11'de ise orijinal ağırlığının dört katına ulaştı."
+    "big_stat": "4 KATI",
+    "stat_caption": "pH 11 seviyesinde katmanın ulaştığı ağırlık oranı.",
+    "stat_quote": "Asidik koşullarda, pH 3 ile 7 arasında, katman orijinal ağırlığının yaklaşık yüzde 37'si kadardı, ancak pH 11'de orijinal ağırlığının dört katına çıktı."
   },
   "details": {
-    "heading": "Teknik Detaylar",
+    "heading": "Çalışma Mekaniği",
     "cards": [
       {
-        "card_title": "Boyutlar",
-        "card_body": "Minik robot kollar yaklaşık üç çeyrek inç uzunluğunda ve bir kredi kartı kalınlığındadır."
+        "card_title": "Kimyasal Değişim Süresi",
+        "card_body": "Kimyasal değişim, ışık uygulandıktan yaklaşık 20 saniye ve karanlık olduktan yaklaşık 10 saniye sonra hızlı bir şekilde başlar."
       },
       {
-        "card_title": "Yapı ve Malzeme",
-        "card_body": "Robot kollar, alg hücrelerinin üzerinde yaşadığı iki kat hidrojenden inşa edilmiştir."
+        "card_title": "Bükülme Süreci",
+        "card_body": "Işık ve karanlık geçişleri hızlı başlasa da, hidrojelin belirgin şekilde bükülmesi birkaç saat sürer."
       },
       {
-        "card_title": "Işık Tepkisi",
-        "card_body": "Kimyasal değişim ışık uygulandıktan yaklaşık 20 saniye, karanlık olduktan ise yaklaşık 10 saniye sonra başlar."
+        "card_title": "Algal Cihazlar",
+        "card_body": "Araştırma ekibi, ışığa maruz kaldığında kapanan dört parmaklı bir tutucu da dahil olmak üzere birkaç algal cihaz inşa etti."
       }
     ]
   },
   "impact": {
-    "heading": "Gelecek ve Uygulamalar",
+    "heading": "Potansiyel Etki",
     "cards": [
       {
-        "card_title": "Dört Parmaklı Tutucu",
-        "card_body": "Araştırma ekibi ışığa maruz kaldığında kapanan dört parmaklı bir tutucu inşa etti."
+        "card_title": "Yumuşak Robotik",
+        "card_body": "Hidrojel ve alg kombinasyonu, yumuşak robotik teknolojileri için yeni malzeme ve tasarım yaklaşımları sunuyor."
       },
       {
-        "card_title": "Nesne Kaldırma",
-        "card_body": "Geliştirilen tutucu, içi boş bir metal küreyi başarıyla kavrayıp kaldırdı."
+        "card_title": "Çevresel Tepki",
+        "card_body": "Işık ve pH gibi dış etkenlere duyarlı yapılar, gelecekteki akıllı cihaz geliştirme süreçlerine ilham veriyor."
       }
     ]
   },
   "cta": {
-    "question": "Alglerle kaplı bu yumuşak robotların gelecekte hangi alanlarda kullanılabileceğini düşünüyorsunuz?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
+    "question": "Alglerle güçlendirilmiş bu yumuşak robotik kollar gelecekte hangi alanlarda kullanılabilir?",
+    "reminder_line": "Teknoloji dünyasındaki en güncel ve doğrulanmış gelişmeler için bizi takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
