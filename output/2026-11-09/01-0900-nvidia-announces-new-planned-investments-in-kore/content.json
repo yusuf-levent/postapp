@@ -22,48 +22,48 @@
       },
       {
         "card_title": "Geniş Katılım",
-        "card_body": "Bilim ve BİT Bakan Yardımcısı Ryu Je-myung, temeller, fiziksel AI, altyapı ve yarı iletken alanlarında 20'den fazla Koreli girişimle bir araya geldi."
+        "card_body": "Bilim ve İİT Bakan Yardımcısı Ryu Je-myung, NVIDIA liderleriyle birlikte 20'den fazla Koreli girişimle bir araya geldi."
       }
     ]
   },
   "stat": {
     "big_stat": "1.000+",
-    "stat_caption": "NVIDIA Inception programına katılan Kore merkezli üye sayısı.",
-    "stat_quote": "More than 1,000 Korea-based members participate in NVIDIA Inception, a program that helps startups grow."
+    "stat_caption": "NVIDIA Inception programına dahil olan Kore merkezli üye sayısı.",
+    "stat_quote": "More than 1,000 Korea-based members are part of NVIDIA Inception, a program that helps startups grow."
   },
   "details": {
     "heading": "Yatırım Yapılan Girişimler",
     "cards": [
       {
         "card_title": "Point2 Technology",
-        "card_body": "NVIDIA tarafından yatırımı açıklanan Point2, AI fabrikalarında çip ve raflar arasında veri taşıyan ölçeklenebilir bağlantılar geliştiriyor."
+        "card_body": "Ölçeklenebilir, radyo frekansı tabanlı bağlantılar inşa eden bir yapay zeka bağlantı şirketidir."
       },
       {
         "card_title": "Motif Technologies ve RLWRLD",
-        "card_body": "Motif açık ağırlıklı Motif-3 modelini geliştirirken, RLWRLD insansı robotlar için beş parmak mahareti gerektiren görev modelleri üretiyor."
+        "card_body": "Motif-3 dahil temel modeller geliştiren Motif ile robotik vakıf modelleri geliştiren RLWRLD yatırımdan pay alıyor."
       },
       {
         "card_title": "Upstage",
-        "card_body": "Upstage, işletmelerin karmaşık belgelerden bilgi çıkarmasını sağlayan Solar dil modelleri ve belge AI araçları geliştiriyor."
+        "card_body": "Solar dil modelleri ve belge yapay zeka araçları geliştiren Koreli bir kurumsal yapay zeka şirketidir."
       }
     ]
   },
   "impact": {
-    "heading": "Sektörel Etkiler",
+    "heading": "Girişim Ekosistemine Etki",
     "cards": [
       {
-        "card_title": "Yapay Zeka Altyapısı",
-        "card_body": "Point2 ve benzeri girişimler, AI fabrikalarındaki veri akışını hızlandırarak donanım verimliliğini artırıyor."
+        "card_title": "Yatırım Planları",
+        "card_body": "NVIDIA, Point2 yatırımını açıklarken Motif Technologies, RLWRLD ve Upstage için ek yatırımlar planlıyor."
       },
       {
-        "card_title": "Robotik ve Dil Modelleri",
-        "card_body": "Fiziksel AI ve açık ağırlıklı dil modelleri, hem endüstriyel otomasyona hem de iş akışı otomasyonuna katkı sunuyor."
+        "card_title": "Büyüme Desteği",
+        "card_body": "NVIDIA Inception programı, Kore merkezli binin üzerindeki üyesiyle girişimlerin büyümesine katkı sağlamaya devam ediyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce donanım ve yazılım ortaklıkları yapay zeka ekosistemini nasıl şekillendirecek?",
-    "reminder_line": "Teknoloji dünyasındaki en güncel gelişmeler için Tekno Pusula'yı takipte kalın!"
+    "question": "Sizce teknoloji devlerinin yerel girişimlerle ortaklıkları sektörü nasıl dönüştürecek?",
+    "reminder_line": "Düşüncelerinizi yorumlarda bizimle paylaşın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
