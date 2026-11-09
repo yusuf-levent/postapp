@@ -7,12 +7,12 @@
     "BBC News – Technology",
     "Engadget"
   ],
-  "checked_at": "2026-11-09T13:22:57+03:00",
+  "checked_at": "2026-11-09T13:27:25+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "OpenAI CEO'su Sam Altman 2024 yılında yapay zekanın iklimi düzeltmek dahil şaşırtıcı zaferler getireceğini beyan etti.",
+      "claim": "In 2024, OpenAI CEO Sam Altman declared that AI would fix the climate.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "claim": "Google'ın sürdürülebilirlik başkanı ve ortak yazarı 2023 yılında yayınlanan bir makalede yapay zekanın küresel emisyonları 2030 yılına kadar %5 ila %10 oranında azaltabileceğini öne sürdü.",
+      "claim": "Google sustainability leaders wrote in a 2023 op-ed that AI could reduce global emissions 5% to 10% by 2030.",
       "verdict": "supported",
       "evidence": [
         {
@@ -32,9 +32,13 @@
       ]
     },
     {
-      "claim": "London School of Economics Grantham Araştırma Enstitüsü ve Systemiq tarafından yayınlanan bir çalışma, yapay zekanın 2035 yılına kadar yıllık 3,2 ila 5,4 milyar ton karbondioksite eşdeğer emisyon azaltımına yardımcı olabileceğini tahmin etti.",
+      "claim": "A peer-reviewed study published last year estimated that AI could help cut global emissions by the equivalent of 3.2 to 5.4 billion tons of carbon dioxide annually by 2035.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+          "quote": "A peer-reviewed study published last year, led by researchers at the London School of Economics’ Grantham Research Institute and the firm Systemiq, estimated that AI could help cut global emissions by the equivalent of 3.2 to 5.4 billion tons of carbon dioxide annually by 2035—roughly on par with the US’s annual energy-related emissions on the high end, even after subtracting AI’s own energy footprint."
+        },
         {
           "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
           "quote": "A peer-reviewed study published last year, led by researchers at the London School of Economics’ Grantham Research Institute and the firm Systemiq, estimated that AI could help cut global emissions by the equivalent of 3.2 to 5.4 billion tons of carbon dioxide annually by 2035"
@@ -42,17 +46,7 @@
       ]
     },
     {
-      "claim": "Yapay zeka destekli tahminleme sistemlerinin, güneş ve rüzgar tesislerinden şebekeye ulaşan yenilenebilir elektrik miktarını %20'ye kadar artırabileceği öngörülmektedir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-          "quote": "AI-driven forecasting of supply and demand could increase the amount of renewable electricity that reaches the grid from already-built solar and wind facilities by up to 20%"
-        }
-      ]
-    },
-    {
-      "claim": "Birleşik Krallık'taki National Grid ESO ve Open Climate Fix arasındaki ortaklık, şebeke operatörünün güneş enerjisi tahmin hatasını yarıya indirdi.",
+      "claim": "A partnership between the UK’s National Grid ESO and Open Climate Fix halved the grid operator’s solar-forecast error.",
       "verdict": "supported",
       "evidence": [
         {
@@ -62,7 +56,7 @@
       ]
     },
     {
-      "claim": "Kültüre et sektörüne akan risk sermayesi 2021'de 989 milyon dolarlık zirveden geçen yıl yaklaşık 83 milyon dolara düştü.",
+      "claim": "Venture capital flowing into cultivated meat fell from a $989 million peak in 2021 to around $83 million last year.",
       "verdict": "supported",
       "evidence": [
         {
@@ -72,7 +66,7 @@
       ]
     },
     {
-      "claim": "Küresel elektrikli araç batarya pazarının yaklaşık %40'ını kontrol eden CATL, 100.000'den fazla batarya tasarım vakası ve 600 terabaytlık test verisiyle eğitilmiş bir yapay zeka sistemi başlattı.",
+      "claim": "CATL controls roughly 40% of the global market for electric-vehicle batteries.",
       "verdict": "supported",
       "evidence": [
         {
@@ -82,7 +76,17 @@
       ]
     },
     {
-      "claim": "Uluslararası Enerji Ajansı'nın (IEA) temel tahminine göre, küresel veri merkezleriyle ilişkili emisyonlar 2035 yılında yıllık 300 milyon tonu aşabilir.",
+      "claim": "CATL launched an AI system trained on more than 100,000 battery design cases and 600 terabytes of test data.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+          "quote": "CATL—which controls roughly 40% of the global market for electric-vehicle batteries—launched an AI system trained on more than 100,000 battery design cases and 600 terabytes of test data."
+        }
+      ]
+    },
+    {
+      "claim": "Emissions associated with global data centers could exceed 300 million tons annually in 2035 according to the IEA’s base forecast.",
       "verdict": "supported",
       "evidence": [
         {
@@ -94,7 +98,7 @@
   ],
   "round1": [
     {
-      "claim": "OpenAI CEO'su Sam Altman 2024 yılında yapay zekanın iklimi düzeltmek dahil şaşırtıcı zaferler getireceğini beyan etti.",
+      "claim": "In 2024, OpenAI CEO Sam Altman declared that AI would fix the climate.",
       "verdict": "supported",
       "evidence": [
         {
@@ -104,7 +108,7 @@
       ]
     },
     {
-      "claim": "Google'ın sürdürülebilirlik başkanı ve ortak yazarı 2023 yılında yayınlanan bir makalede yapay zekanın küresel emisyonları 2030 yılına kadar %5 ila %10 oranında azaltabileceğini öne sürdü.",
+      "claim": "Google sustainability leaders wrote in a 2023 op-ed that AI could reduce global emissions 5% to 10% by 2030.",
       "verdict": "supported",
       "evidence": [
         {
@@ -114,9 +118,13 @@
       ]
     },
     {
-      "claim": "London School of Economics Grantham Araştırma Enstitüsü ve Systemiq tarafından yayınlanan bir çalışma, yapay zekanın 2035 yılına kadar yıllık 3,2 ila 5,4 milyar ton karbondioksite eşdeğer emisyon azaltımına yardımcı olabileceğini tahmin etti.",
+      "claim": "A peer-reviewed study published last year estimated that AI could help cut global emissions by the equivalent of 3.2 to 5.4 billion tons of carbon dioxide annually by 2035.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+          "quote": "A peer-reviewed study published last year, led by researchers at the London School of Economics’ Grantham Research Institute and the firm Systemiq, estimated that AI could help cut global emissions by the equivalent of 3.2 to 5.4 billion tons of carbon dioxide annually by 2035—roughly on par with the US’s annual energy-related emissions on the high end, even after subtracting AI’s own energy footprint."
+        },
         {
           "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
           "quote": "A peer-reviewed study published last year, led by researchers at the London School of Economics’ Grantham Research Institute and the firm Systemiq, estimated that AI could help cut global emissions by the equivalent of 3.2 to 5.4 billion tons of carbon dioxide annually by 2035"
@@ -124,17 +132,7 @@
       ]
     },
     {
-      "claim": "Yapay zeka destekli tahminleme sistemlerinin, güneş ve rüzgar tesislerinden şebekeye ulaşan yenilenebilir elektrik miktarını %20'ye kadar artırabileceği öngörülmektedir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-          "quote": "AI-driven forecasting of supply and demand could increase the amount of renewable electricity that reaches the grid from already-built solar and wind facilities by up to 20%"
-        }
-      ]
-    },
-    {
-      "claim": "Birleşik Krallık'taki National Grid ESO ve Open Climate Fix arasındaki ortaklık, şebeke operatörünün güneş enerjisi tahmin hatasını yarıya indirdi.",
+      "claim": "A partnership between the UK’s National Grid ESO and Open Climate Fix halved the grid operator’s solar-forecast error.",
       "verdict": "supported",
       "evidence": [
         {
@@ -144,7 +142,7 @@
       ]
     },
     {
-      "claim": "Kültüre et sektörüne akan risk sermayesi 2021'de 989 milyon dolarlık zirveden geçen yıl yaklaşık 83 milyon dolara düştü.",
+      "claim": "Venture capital flowing into cultivated meat fell from a $989 million peak in 2021 to around $83 million last year.",
       "verdict": "supported",
       "evidence": [
         {
@@ -154,7 +152,7 @@
       ]
     },
     {
-      "claim": "Küresel elektrikli araç batarya pazarının yaklaşık %40'ını kontrol eden CATL, 100.000'den fazla batarya tasarım vakası ve 600 terabaytlık test verisiyle eğitilmiş bir yapay zeka sistemi başlattı.",
+      "claim": "CATL controls roughly 40% of the global market for electric-vehicle batteries.",
       "verdict": "supported",
       "evidence": [
         {
@@ -164,7 +162,17 @@
       ]
     },
     {
-      "claim": "Uluslararası Enerji Ajansı'nın (IEA) temel tahminine göre, küresel veri merkezleriyle ilişkili emisyonlar 2035 yılında yıllık 300 milyon tonu aşabilir.",
+      "claim": "CATL launched an AI system trained on more than 100,000 battery design cases and 600 terabytes of test data.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+          "quote": "CATL—which controls roughly 40% of the global market for electric-vehicle batteries—launched an AI system trained on more than 100,000 battery design cases and 600 terabytes of test data."
+        }
+      ]
+    },
+    {
+      "claim": "Emissions associated with global data centers could exceed 300 million tons annually in 2035 according to the IEA’s base forecast.",
       "verdict": "supported",
       "evidence": [
         {
@@ -176,7 +184,7 @@
   ],
   "round2": [
     {
-      "claim": "OpenAI CEO'su Sam Altman 2024 yılında yapay zekanın iklimi düzeltmek dahil şaşırtıcı zaferler getireceğini beyan etti.",
+      "claim": "In 2024, OpenAI CEO Sam Altman declared that AI would fix the climate.",
       "verdict": "supported",
       "evidence": [
         {
@@ -186,7 +194,7 @@
       ]
     },
     {
-      "claim": "Google'ın sürdürülebilirlik başkanı ve ortak yazarı 2023 yılında yayınlanan bir makalede yapay zekanın küresel emisyonları 2030 yılına kadar %5 ila %10 oranında azaltabileceğini öne sürdü.",
+      "claim": "Google sustainability leaders wrote in a 2023 op-ed that AI could reduce global emissions 5% to 10% by 2030.",
       "verdict": "supported",
       "evidence": [
         {
@@ -196,9 +204,13 @@
       ]
     },
     {
-      "claim": "London School of Economics Grantham Araştırma Enstitüsü ve Systemiq tarafından yayınlanan bir çalışma, yapay zekanın 2035 yılına kadar yıllık 3,2 ila 5,4 milyar ton karbondioksite eşdeğer emisyon azaltımına yardımcı olabileceğini tahmin etti.",
+      "claim": "A peer-reviewed study published last year estimated that AI could help cut global emissions by the equivalent of 3.2 to 5.4 billion tons of carbon dioxide annually by 2035.",
       "verdict": "supported",
       "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+          "quote": "A peer-reviewed study published last year, led by researchers at the London School of Economics’ Grantham Research Institute and the firm Systemiq, estimated that AI could help cut global emissions by the equivalent of 3.2 to 5.4 billion tons of carbon dioxide annually by 2035—roughly on par with the US’s annual energy-related emissions on the high end, even after subtracting AI’s own energy footprint."
+        },
         {
           "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
           "quote": "A peer-reviewed study published last year, led by researchers at the London School of Economics’ Grantham Research Institute and the firm Systemiq, estimated that AI could help cut global emissions by the equivalent of 3.2 to 5.4 billion tons of carbon dioxide annually by 2035"
@@ -206,17 +218,7 @@
       ]
     },
     {
-      "claim": "Yapay zeka destekli tahminleme sistemlerinin, güneş ve rüzgar tesislerinden şebekeye ulaşan yenilenebilir elektrik miktarını %20'ye kadar artırabileceği öngörülmektedir.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-          "quote": "AI-driven forecasting of supply and demand could increase the amount of renewable electricity that reaches the grid from already-built solar and wind facilities by up to 20%"
-        }
-      ]
-    },
-    {
-      "claim": "Birleşik Krallık'taki National Grid ESO ve Open Climate Fix arasındaki ortaklık, şebeke operatörünün güneş enerjisi tahmin hatasını yarıya indirdi.",
+      "claim": "A partnership between the UK’s National Grid ESO and Open Climate Fix halved the grid operator’s solar-forecast error.",
       "verdict": "supported",
       "evidence": [
         {
@@ -226,7 +228,7 @@
       ]
     },
     {
-      "claim": "Kültüre et sektörüne akan risk sermayesi 2021'de 989 milyon dolarlık zirveden geçen yıl yaklaşık 83 milyon dolara düştü.",
+      "claim": "Venture capital flowing into cultivated meat fell from a $989 million peak in 2021 to around $83 million last year.",
       "verdict": "supported",
       "evidence": [
         {
@@ -236,7 +238,7 @@
       ]
     },
     {
-      "claim": "Küresel elektrikli araç batarya pazarının yaklaşık %40'ını kontrol eden CATL, 100.000'den fazla batarya tasarım vakası ve 600 terabaytlık test verisiyle eğitilmiş bir yapay zeka sistemi başlattı.",
+      "claim": "CATL controls roughly 40% of the global market for electric-vehicle batteries.",
       "verdict": "supported",
       "evidence": [
         {
@@ -246,7 +248,17 @@
       ]
     },
     {
-      "claim": "Uluslararası Enerji Ajansı'nın (IEA) temel tahminine göre, küresel veri merkezleriyle ilişkili emisyonlar 2035 yılında yıllık 300 milyon tonu aşabilir.",
+      "claim": "CATL launched an AI system trained on more than 100,000 battery design cases and 600 terabytes of test data.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+          "quote": "CATL—which controls roughly 40% of the global market for electric-vehicle batteries—launched an AI system trained on more than 100,000 battery design cases and 600 terabytes of test data."
+        }
+      ]
+    },
+    {
+      "claim": "Emissions associated with global data centers could exceed 300 million tons annually in 2035 according to the IEA’s base forecast.",
       "verdict": "supported",
       "evidence": [
         {

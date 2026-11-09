@@ -1,69 +1,65 @@
 {
   "cover": {
-    "category_label": "YAPAY ZEKA VE SÜRDÜRÜLEBİLİRLİK",
-    "title": "Yapay Zeka İklimi Kurtarabilir mi?",
+    "category_label": "YAPAY ZEKA VE İKLİM",
+    "title": "Yapay Zeka İklim Krizini Çözebilir mi?",
     "highlight_words": [
       "Yapay Zeka",
-      "İklimi"
+      "İklim"
     ],
-    "highlight_color": "cyan",
-    "subtitle": "Teknolojinin çevresel hedeflere katkısı ve önündeki zorluklar.",
+    "highlight_color": "yellow",
+    "subtitle": "Yapay zekanın enerji ve karbon salınımı üzerindeki etkilerine yakından bakıyoruz.",
     "source_tags": [
       "MIT TECHNOLOGY REVIEW",
       "WIRED"
     ]
   },
   "context": {
-    "heading": "Yapay Zekanın İklim Potansiyeli",
+    "heading": "Yapay Zeka ve Çevre",
     "cards": [
       {
-        "card_title": "Emisyonlarda Büyük Azalış",
-        "card_body": "Google'ın sürdürülebilirlik araştırmalarına göre yapay zeka, küresel emisyonları 2030 yılına kadar %5 ila %10 oranında azaltabilir."
+        "card_title": "Sam Altman'ın Açıklaması",
+        "card_body": "2024 yılında OpenAI CEO'su Sam Altman, yapay zekanın iklim sorununu çözeceğini belirtti."
       },
       {
-        "card_title": "Sam Altman'ın Beklentisi",
-        "card_body": "OpenAI CEO'su Sam Altman, 2024 yılında yapay zekanın iklimi düzeltmek dahil pek çok alanda şaşırtıcı zaferler getireceğini öngörüyor."
+        "card_title": "Google Sürdürülebilirlik Vizyonu",
+        "card_body": "Google sürdürülebilirlik liderleri, yapay zekanın 2030'a kadar küresel emisyonları %5 ile %10 arasında azaltabileceğini ifade etti."
       }
     ]
   },
   "stat": {
-    "big_stat": "%20",
-    "stat_caption": "Yapay zeka destekli tahminleme sistemlerinin, şebekeye aktarılan yenilenebilir enerji miktarındaki artış potansiyeli.",
-    "stat_quote": "National Grid ESO ve Open Climate Fix ortaklığı, güneş enerjisi tahmin hatasını yarıya indirdi. - BBC News"
+    "big_stat": "%40",
+    "stat_caption": "CATL'in küresel elektrikli araç batarya pazarındaki payı.",
+    "stat_quote": "CATL, elektrikli araç batarya pazarının yaklaşık yüzde 40'ını kontrol ediyor."
   },
   "details": {
-    "heading": "Teknolojik Dönüşümün Detayları",
+    "heading": "Teknoloji ve Veri Kullanımı",
     "cards": [
       {
-        "card_title": "Devasa Emisyon Azaltımı",
-        "card_body": "Grantham Araştırma Enstitüsü'ne göre yapay zeka, 2035 yılına kadar yıllık 3,2 ila 5,4 milyar ton CO2 eşdeğeri emisyon azaltımına yardımcı olabilir."
+        "card_title": "CATL Yapay Zeka Sistemi",
+        "card_body": "CATL, 100 binden fazla batarya tasarım vakası ve 600 terabayt test verisiyle eğitilen bir yapay zeka sistemi başlattı."
       },
       {
-        "card_title": "Batarya Teknolojisinde AI",
-        "card_body": "CATL, 600 terabaytlık test verisiyle eğitilmiş yapay zeka sistemiyle batarya tasarım süreçlerini optimize ediyor."
-      },
-      {
-        "card_title": "Veri Merkezi Riski",
-        "card_body": "Uluslararası Enerji Ajansı'na göre, küresel veri merkezleriyle ilişkili emisyonlar 2035 yılında yıllık 300 milyon tonu aşabilir."
+        "card_title": "Şebeke Tahminleri",
+        "card_body": "Birleşik Krallık Ulusal Şebeke ESO ve Open Climate Fix ortaklığı, şebeke operatörünün güneş tahmin hatasını yarıya indirdi."
       }
     ]
   },
   "impact": {
-    "heading": "Sektörel ve Çevresel Etki",
+    "heading": "Emisyon ve Yatırım Trendleri",
     "cards": [
       {
-        "card_title": "Yenilenebilir Enerji Verimliliği",
-        "card_body": "Yapay zeka, güneş ve rüzgar enerjisi tesislerinden şebekeye ulaşan elektriği daha hassas yöneterek verimliliği artırıyor."
+        "card_title": "Veri Merkezi Emisyonları",
+        "card_body": "Uluslararası Enerji Ajansı'nın (IEA) temel tahminine göre, küresel veri merkezleriyle ilişkili emisyonlar 2035'te yılda 300 milyon tonu aşabilir."
       },
       {
-        "card_title": "Yatırım Trendleri",
-        "card_body": "Kültüre et sektörüne akan risk sermayesi 2021'deki 989 milyon dolarlık zirveden geçen yıl 83 milyon dolara geriledi."
+        "card_title": "Kültür Eti Yatırımları",
+        "card_body": "Kültür eti alanına akan risk sermayesi, 2021'deki 989 milyon dolarlık zirveden geçen yıl yaklaşık 83 milyon dolara düştü."
       }
     ]
   },
   "cta": {
-    "question": "Sizce yapay zekanın enerji tüketimi mi, yoksa iklim krizine getirdiği çözümler mi daha ağır basıyor?",
-    "reminder_line": "Teknoloji dünyasındaki güncel ve doğrulanmış gelişmeler için Tekno Pusula'yı takipte kalın."
+    "question": "Sizce yapay zeka teknolojileri iklim krizine karşı yeterli çözümler sunabilecek mi?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için bizi takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
