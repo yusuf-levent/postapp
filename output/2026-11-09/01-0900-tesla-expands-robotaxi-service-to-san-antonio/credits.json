@@ -1,0 +1,38 @@
+{
+  "images": [
+    {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Elon_Musk_-_54820081119_%283x4_cropped%2C_Rule_of_thirds%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-09/01-0900-tesla-expands-robotaxi-service-to-san-antonio/images/img-1.png",
+      "license": "",
+      "author": "",
+      "credit_url": "https://en.wikipedia.org/wiki/Elon%20Musk",
+      "width": 2617,
+      "height": 3489,
+      "alt_text": "Elon Musk"
+    },
+    {
+      "source": "ogimage",
+      "url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1200,801",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-09/01-0900-tesla-expands-robotaxi-service-to-san-antonio/images/img-2.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
+      "width": 1200,
+      "height": 801,
+      "alt_text": ""
+    },
+    {
+      "source": "pexels",
+      "url": "https://images.pexels.com/photos/18569455/pexels-photo-18569455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-09/01-0900-tesla-expands-robotaxi-service-to-san-antonio/images/img-3.png",
+      "license": "Pexels License — Luke Miller",
+      "author": "Luke Miller",
+      "credit_url": "https://www.pexels.com/photo/a-black-tesla-model-3-is-parked-on-the-street-18569455/",
+      "width": 1040,
+      "height": 1300,
+      "alt_text": "A sleek black sedan driving through city streets at night, showcasing urban transportation dynamics."
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}

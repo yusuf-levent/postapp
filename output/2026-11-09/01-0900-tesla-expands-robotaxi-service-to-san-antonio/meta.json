@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 147.3,
+  "candidates_tried": 1,
+  "gemini_calls": 29,
+  "canonical_url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
+  "generated_at": "2026-11-09T14:44:30+03:00"
+}
