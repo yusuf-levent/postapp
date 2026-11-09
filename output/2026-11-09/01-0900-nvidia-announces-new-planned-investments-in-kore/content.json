@@ -1,50 +1,50 @@
 {
   "cover": {
     "category_label": "YAPAY ZEKA VE GİRİŞİMCİLİK",
-    "title": "NVIDIA ve Kore'den Yapay Zeka Hamlesi",
+    "title": "NVIDIA'dan Koreli Yapay Zeka Girişimlerine Dev Yatırım",
     "highlight_words": [
       "NVIDIA",
-      "Kore"
+      "Yatırım"
     ],
     "highlight_color": "cyan",
-    "subtitle": "MSIT-NVIDIA AI Startup Partnership Forum COEX'te gerçekleştirildi.",
+    "subtitle": "MSIT-NVIDIA AI Startup Partnership Forum kapsamında önemli yatırımlar duyuruldu.",
     "source_tags": [
       "NVIDIA NEWSROOM",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Forum ve Görüşmeler",
+    "heading": "Kore ve NVIDIA Buluşması",
     "cards": [
       {
         "card_title": "MSIT-NVIDIA Forumu",
-        "card_body": "Korea's Ministry of Science and ICT ve NVIDIA, COEX'te MSIT-NVIDIA AI Startup Partnership Forum'una ev sahipliği yaptı."
+        "card_body": "Korea’s Ministry of Science and ICT ve NVIDIA, COEX'te MSIT-NVIDIA AI Startup Partnership Forum'una ev sahipliği yaptı."
       },
       {
-        "card_title": "Geniş Katılım",
-        "card_body": "Bilim ve İK Bakan Yardımcısı Ryu Je-myung; temel modeller, fiziksel AI, altyapı ve yarı iletken alanlarında 20'den fazla Koreli girişimle bir araya geldi."
+        "card_title": "Üst Düzey Katılım",
+        "card_body": "Bakan yardımcısı Ryu Je-myung ve NVIDIA liderleri, 20'den fazla Koreli girişimle bir araya geldi."
       }
     ]
   },
   "stat": {
     "big_stat": "1.000+",
-    "stat_caption": "NVIDIA Inception programında 1.000'den fazla Kore merkezli üye bulunuyor.",
-    "stat_quote": "NVIDIA Inception, girişimlerin büyümesine yardımcı olan bir program olarak öne çıkıyor."
+    "stat_caption": "NVIDIA Inception programına katılan Kore merkezli üye sayısı.",
+    "stat_quote": "More than 1,000 Korea-based members are part of NVIDIA Inception, a program that helps startups grow."
   },
   "details": {
     "heading": "Yatırım Yapılan Girişimler",
     "cards": [
       {
         "card_title": "Point2 Technology",
-        "card_body": "NVIDIA, yapay zeka fabrikaları için radyo frekansı tabanlı ölçeklenebilir bağlantılar kuran Point2 girişimine yatırım açıkladı."
+        "card_body": "Yapay zeka fabrikalarındaki çipler ve raflar arasında ölçeklenebilir, radyo frekansı tabanlı bağlantılar kuran bir yapay zeka bağlantı şirketi."
       },
       {
-        "card_title": "Motif Technologies",
-        "card_body": "Seul merkezli bu yapay zeka laboratuvarı, Motif-3 açık ağırlıklı büyük dil modeli dahil olmak üzere ajan modelleri geliştiriyor."
+        "card_title": "Motif Technologies ve RLWRLD",
+        "card_body": "Motif-3 modelini geliştiren Motif Technologies ve insansı robotlar için temeller oluşturan fiziksel yapay zeka girişimi RLWRLD."
       },
       {
-        "card_title": "RLWRLD ve Upstage",
-        "card_body": "RLWRLD robotik modeller geliştirirken, Upstage Solar dil modelleri ve belge araçları sunan bir kurumsal yapay zeka şirketi."
+        "card_title": "Upstage",
+        "card_body": "İşletmeler için Solar dil modelleri ve belge yapay zeka araçları geliştiren bir Kore kurumsal yapay zeka şirketi."
       }
     ]
   },
@@ -52,18 +52,18 @@
     "heading": "Sektörel Etkiler",
     "cards": [
       {
-        "card_title": "Donanım ve Altyapı",
-        "card_body": "Point2 Technology'nin geliştirdiği radyo frekansı tabanlı bağlantılar, yapay zeka fabrikalarının ölçeklenebilirliğini artırıyor."
+        "card_title": "Donanım ve Bağlantı",
+        "card_body": "Yapay zeka fabrikalarının altyapısını güçlendiren radyo frekansı tabanlı bağlantı teknolojileri gelişiyor."
       },
       {
-        "card_title": "Fiziksel AI ve Modeller",
-        "card_body": "RLWRLD insansı ve endüstriyel robotlar için robotik modeller geliştirirken, Upstage ve Motif yeni nesil dil modelleri sunuyor."
+        "card_title": "Robotik ve Modeller",
+        "card_body": "Fiziksel yapay zeka ve open-weight büyük dil modelleri sektördeki yenilikleri hızlandırıyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce NVIDIA'nın bu girişim yatırımları yapay zeka ekosistemini nasıl dönüştürecek?",
-    "reminder_line": "Tekno Pusula ile güncel teknolojileri takip etmeye devam edin."
+    "question": "Sizce bu tür stratejik ortaklıklar yapay zeka ekosistemini nasıl dönüştürecek?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
