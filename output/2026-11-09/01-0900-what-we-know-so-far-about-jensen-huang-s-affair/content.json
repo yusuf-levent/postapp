@@ -1,69 +1,69 @@
 {
   "cover": {
     "category_label": "TEKNOLOJİ DÜNYASI",
-    "title": "Jensen Huang Hakkında Önemli Gelişme",
+    "title": "Jensen Huang Hakkında Şaşırtan İtiraf",
     "highlight_words": [
       "Jensen Huang",
-      "Gelişme"
+      "İtiraf"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Nvidia CEO'su Jensen Huang, kişisel hayatıyla ilgili iddialar üzerine açıklama yaptı.",
+    "subtitle": "Nvidia CEO'su Jensen Huang'ın özel hayatına dair yaptığı açıklama gündeme oturdu.",
     "source_tags": [
-      "BBC NEWS",
-      "NVIDIA NEWSROOM"
+      "BBC NEWS – TECHNOLOGY",
+      "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Olayın Arka Planı",
+    "heading": "Nvidia'nın Kurucusu Kimdir?",
     "cards": [
       {
-        "card_title": "Kişisel Açıklama",
-        "card_body": "Nvidia CEO'su Jensen Huang, Pazar günü yaptığı açıklamada eşini aldattığını kabul ederek özür diledi."
+        "card_title": "Şirketin Kuruluşu",
+        "card_body": "Nvidia, 1993 yılında Jensen Huang, Chris Malachowsky ve Curtis Priem tarafından kurulmuştur."
       },
       {
-        "card_title": "Kurumsal Adım",
-        "card_body": "Nvidia, ortaya atılan iddialar üzerine konuyla ilgili bağımsız bir soruşturma başlattığını duyurdu."
+        "card_title": "Jensen Huang'ın Kökeni",
+        "card_body": "Başarılı yönetici Jensen Huang, 1963 yılında Tayvan'da dünyaya gelmiştir."
       }
     ]
   },
   "stat": {
-    "big_stat": "4,5 TRİLYON $",
-    "stat_caption": "Nvidia'nın güncel piyasa değeri.",
-    "stat_quote": "Bloomberg Milyarderler Endeksi'ne göre Jensen Huang'ın tahmini serveti 155 milyar dolar seviyesinde."
+    "big_stat": "4,5 TRİLYON DOLAR",
+    "stat_caption": "Nvidia'nın güncel piyasa değeri, teknoloji dünyasındaki devasa etkisini kanıtlıyor.",
+    "stat_quote": "Nvidia'nın piyasa değeri 4,5 trilyon dolar seviyesine ulaştı. - NVIDIA Newsroom"
   },
   "details": {
-    "heading": "Detaylar ve Geçmiş",
+    "heading": "Öne Çıkan Detaylar",
     "cards": [
       {
         "card_title": "Evlilik Geçmişi",
-        "card_body": "Jensen Huang ve eşi Lori Mills, 1985 yılından bu yana evli."
+        "card_body": "Jensen Huang ve Lori Mills, 1985 yılında dünyaevine girmiştir."
       },
       {
-        "card_title": "Nvidia'nın Kuruluşu",
-        "card_body": "Şirket, 1993 yılında Jensen Huang, Chris Malachowsky ve Curtis Priem tarafından kuruldu."
-      },
-      {
-        "card_title": "İlgili İsim",
+        "card_title": "Alice Huang'ın Kariyeri",
         "card_body": "Alice Huang, Singapur merkezli veri merkezi firması Megaspeed'de üst düzey yönetici olarak görev yapmıştır."
+      },
+      {
+        "card_title": "Gündemdeki İtiraf",
+        "card_body": "Jensen Huang, Pazar günü eşini aldattığını kamuoyuna itiraf etti."
       }
     ]
   },
   "impact": {
-    "heading": "Süreç Nasıl İlerliyor?",
+    "heading": "Bu Gelişme Neleri Etkiler?",
     "cards": [
       {
-        "card_title": "Şirket Yönetimi",
-        "card_body": "Nvidia, iddiaların doğruluğunu ve etkilerini belirlemek adına bağımsız bir soruşturma yürütüyor."
+        "card_title": "Sektörel Yansımalar",
+        "card_body": "Teknoloji dünyasının en büyük şirketlerinden birinin CEO'sunun özel hayatındaki bu durum, sektörde geniş yankı uyandırdı."
       },
       {
-        "card_title": "Kurumsal Şeffaflık",
-        "card_body": "Teknoloji dünyasının dev isimlerinden biri olan Huang'ın açıklaması, kurumsal yönetim süreçleri açısından takip ediliyor."
+        "card_title": "Kullanıcı Algısı",
+        "card_body": "Liderlerin özel hayatlarındaki açıklamalar, şirketlerin kurumsal imajı ve kamuoyu algısı üzerinde doğrudan etkili olabiliyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce büyük teknoloji şirketlerinin CEO'larının özel hayatı, şirket yönetimini ne kadar etkilemeli?",
-    "reminder_line": "Gelişmeleri Tekno Pusula üzerinden takip etmeye devam edin."
+    "question": "Sizce teknoloji dünyasındaki liderlerin özel hayatları, şirketlerinin geleceğini ne kadar etkiler?",
+    "reminder_line": "Tekno Pusula'yı takipte kalın, gelişmelerden haberdar olun."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

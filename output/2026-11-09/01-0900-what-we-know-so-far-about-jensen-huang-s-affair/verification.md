@@ -3,24 +3,22 @@
 **Haber:** What we know so far about Jensen Huang's affair with suspected Chinese spy
 **Canonical URL:** https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss
 **Kaynaklar:** BBC News – Technology, NVIDIA Newsroom, TechCrunch, NVIDIA Newsroom
-**Kontrol zamanı:** 2026-11-09T16:18:35+03:00
+**Kontrol zamanı:** 2026-11-09T16:23:00+03:00
 **Sonuç:** ✅ YAYINLANABİLİR
 
 ---
 
 ## İddia Bazlı Sonuçlar
 
-### 1. Nvidia CEO'su Jensen Huang, eşini aldattığını Pazar günü kabul ederek özür diledi.
+### 1. Nvidia CEO'su Jensen Huang, Pazar günü eşini aldattığını itiraf etti.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss)
     > On Sunday, Huang admitted, external to having been "unfaithful" to his wife and apologised for hurting her and their children.
 
-### 2. Nvidia, Jensen Huang hakkındaki iddialar üzerine bağımsız bir soruşturma başlattı.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss)
-    > US tech giant Nvidia, one of the most valuable companies in the world, has opened an independent investigation into the reports.
+### 2. Nvidia, Jensen Huang hakkındaki iddialara ilişkin bağımsız bir soruşturma başlattı.
+- **Karar:** ⚠️ `not_found`
+- **Kanıt:** yok
 
 ### 3. Alice Huang, Singapur merkezli veri merkezi firması Megaspeed'de üst düzey yönetici olarak görev yapmıştır.
 - **Karar:** ✅ `supported`
@@ -28,7 +26,13 @@
   - [https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss)
     > Alice Huang, who is of no relation to Jensen Huang, was a top executive at Singapore-based data centre firm Megaspeed.
 
-### 4. Nvidia, 1993 yılında Jensen Huang, Chris Malachowsky ve Curtis Priem tarafından kurulmuştur.
+### 4. Jensen Huang 1963 yılında Tayvan'da doğmuştur.
+- **Karar:** ✅ `supported`
+- **Kanıtlar:**
+  - [https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss)
+    > Born in Taiwan in 1963, Huang was nine years old when his family moved to the West Coast of the US.
+
+### 5. Nvidia şirketi 1993 yılında Jensen Huang, Chris Malachowsky ve Curtis Priem tarafından kurulmuştur.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss)
@@ -36,25 +40,17 @@
   - [https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss)
     > Founded by Huang and fellow electrical engineers Chris Malachowsky and Curtis Priem in 1993
 
-### 5. Bloomberg Milyarderler Endeksi'ne göre Jensen Huang'ın tahmini serveti 155 milyar dolardır.
-- **Karar:** ✅ `supported`
-- **Kanıtlar:**
-  - [https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss)
-    > He has an estimated fortune of $155bn (Â£115bn), according to the Bloomberg Billionaires Index.
-
-### 6. Nvidia'nın piyasa değeri yaklaşık 4,5 trilyon dolardır.
+### 6. Nvidia'nın güncel piyasa değeri 4,5 trilyon dolar seviyesindedir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss)
     > Currently worth $4.5tn (Â£3.4tn), Nvidia is one of the most valuable companies ever.
 
-### 7. Jensen Huang ve eşi Lori Mills 1985 yılında evlenmiştir.
+### 7. Jensen Huang ve Lori Mills 1985 yılında evlenmiştir.
 - **Karar:** ✅ `supported`
 - **Kanıtlar:**
   - [https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss)
     > They married in 1985, about eight years before he co-founded Nvidia, and have two children, Madison and Spencer.
-  - [https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss)
-    > They married in 1985, about eight years before he co-founded Nvidia
 
 ### 8. Jen-Hsun ve Lori Huang Vakfı'nın varlıklarının 9 milyar dolardan fazla olduğu tahmin edilmektedir.
 - **Karar:** ⚠️ `not_found`
@@ -66,13 +62,13 @@
 
 | İddia | 1. Tur | 2. Tur | Nihai |
 |-------|--------|--------|-------|
-| Nvidia CEO'su Jensen Huang, eşini aldattığını Pazar günü kab | supported | supported | supported |
-| Nvidia, Jensen Huang hakkındaki iddialar üzerine bağımsız bi | supported | supported | supported |
+| Nvidia CEO'su Jensen Huang, Pazar günü eşini aldattığını iti | supported | supported | supported |
+| Nvidia, Jensen Huang hakkındaki iddialara ilişkin bağımsız b | not_found | not_found | not_found |
 | Alice Huang, Singapur merkezli veri merkezi firması Megaspee | supported | supported | supported |
-| Nvidia, 1993 yılında Jensen Huang, Chris Malachowsky ve Curt | supported | supported | supported |
-| Bloomberg Milyarderler Endeksi'ne göre Jensen Huang'ın tahmi | supported | supported | supported |
-| Nvidia'nın piyasa değeri yaklaşık 4,5 trilyon dolardır. | supported | supported | supported |
-| Jensen Huang ve eşi Lori Mills 1985 yılında evlenmiştir. | supported | supported | supported |
+| Jensen Huang 1963 yılında Tayvan'da doğmuştur. | supported | supported | supported |
+| Nvidia şirketi 1993 yılında Jensen Huang, Chris Malachowsky  | supported | supported | supported |
+| Nvidia'nın güncel piyasa değeri 4,5 trilyon dolar seviyesind | supported | supported | supported |
+| Jensen Huang ve Lori Mills 1985 yılında evlenmiştir. | supported | supported | supported |
 | Jen-Hsun ve Lori Huang Vakfı'nın varlıklarının 9 milyar dola | not_found | not_found | not_found |
 
 ## Kaynak Metinleri
