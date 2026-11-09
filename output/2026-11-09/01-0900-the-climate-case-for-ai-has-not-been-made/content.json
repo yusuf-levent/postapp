@@ -1,65 +1,69 @@
 {
   "cover": {
-    "category_label": "YAPAY ZEKA VE İKLİM",
-    "title": "Yapay Zeka İklim Krizine Çözüm Olabilir mi?",
+    "category_label": "YAPAY ZEKA VE SÜRDÜRÜLEBİLİRLİK",
+    "title": "Yapay Zeka İklimi Kurtarabilir mi?",
     "highlight_words": [
       "Yapay Zeka",
-      "İklim"
+      "İklimi"
     ],
-    "highlight_color": "yellow",
-    "subtitle": "Antalya'daki BM iklim konferansında yapay zekanın çevresel etkileri ele alındı.",
+    "highlight_color": "cyan",
+    "subtitle": "Teknolojinin çevresel hedeflere katkısı ve önündeki zorluklar.",
     "source_tags": [
       "MIT TECHNOLOGY REVIEW",
       "WIRED"
     ]
   },
   "context": {
-    "heading": "Küresel İklim Zirvesi ve Görüşler",
+    "heading": "Yapay Zekanın İklim Potansiyeli",
     "cards": [
       {
-        "card_title": "Antalya Buluşması",
-        "card_body": "Birleşik Devletler ve diğer ülkelerin temsilcileri Antalya, Türkiye'deki Birleşmiş Milletler iklim konferansında bir araya geldi."
+        "card_title": "Emisyonlarda Büyük Azalış",
+        "card_body": "Google'ın sürdürülebilirlik araştırmalarına göre yapay zeka, küresel emisyonları 2030 yılına kadar %5 ila %10 oranında azaltabilir."
       },
       {
-        "card_title": "Sam Altman'ın Açıklaması",
-        "card_body": "OpenAI CEO'su Sam Altman 2024 yılında yapay zekanın iklimi düzeltmek dahil muhteşem zaferler ortaya çıkaracağını ilan etti."
+        "card_title": "Sam Altman'ın Beklentisi",
+        "card_body": "OpenAI CEO'su Sam Altman, 2024 yılında yapay zekanın iklimi düzeltmek dahil pek çok alanda şaşırtıcı zaferler getireceğini öngörüyor."
       }
     ]
   },
   "stat": {
-    "big_stat": "%5 - %10",
-    "stat_caption": "Google'ın sürdürülebilirlik başkanının makalesine göre emisyon azaltım oranı.",
-    "stat_quote": "Yapay zeka küresel emisyonları 2030 yılına kadar yüzde 5 ila yüzde 10 oranında azaltabilir."
+    "big_stat": "%20",
+    "stat_caption": "Yapay zeka destekli tahminleme sistemlerinin, şebekeye aktarılan yenilenebilir enerji miktarındaki artış potansiyeli.",
+    "stat_quote": "National Grid ESO ve Open Climate Fix ortaklığı, güneş enerjisi tahmin hatasını yarıya indirdi. - BBC News"
   },
   "details": {
-    "heading": "Araştırmalar ve Veriler",
+    "heading": "Teknolojik Dönüşümün Detayları",
     "cards": [
       {
-        "card_title": "Emisyon Azaltım Potansiyeli",
-        "card_body": "London School of Economics Grantham Araştırma Enstitüsü ve Systemiq firması araştırmacılarının çalışmasına göre yapay zeka 2035 yılına kadar yıllık 3.2 ila 5.4 milyar ton karbondioksit eşdeğeri azaltabilir."
+        "card_title": "Devasa Emisyon Azaltımı",
+        "card_body": "Grantham Araştırma Enstitüsü'ne göre yapay zeka, 2035 yılına kadar yıllık 3,2 ila 5,4 milyar ton CO2 eşdeğeri emisyon azaltımına yardımcı olabilir."
       },
       {
-        "card_title": "Veri Merkezi Emisyonları",
-        "card_body": "Uluslararası Enerji Ajansı'nın (IEA) temel tahminine göre küresel veri merkezleriyle ilişkili emisyonlar 2035 yılında yıllık 300 milyon tonu aşabilir."
+        "card_title": "Batarya Teknolojisinde AI",
+        "card_body": "CATL, 600 terabaytlık test verisiyle eğitilmiş yapay zeka sistemiyle batarya tasarım süreçlerini optimize ediyor."
+      },
+      {
+        "card_title": "Veri Merkezi Riski",
+        "card_body": "Uluslararası Enerji Ajansı'na göre, küresel veri merkezleriyle ilişkili emisyonlar 2035 yılında yıllık 300 milyon tonu aşabilir."
       }
     ]
   },
   "impact": {
-    "heading": "Sektörel Gelişmeler",
+    "heading": "Sektörel ve Çevresel Etki",
     "cards": [
       {
-        "card_title": "CATL Batarya Sistemi",
-        "card_body": "Elektrikli araç bataryaları için küresel pazarın yaklaşık yüzde 40'ını kontrol eden CATL, 100.000'den fazla batarya tasarım vakası ve 600 terabayt test verisiyle eğitilmiş bir yapay zeka sistemi başlattı."
+        "card_title": "Yenilenebilir Enerji Verimliliği",
+        "card_body": "Yapay zeka, güneş ve rüzgar enerjisi tesislerinden şebekeye ulaşan elektriği daha hassas yöneterek verimliliği artırıyor."
       },
       {
-        "card_title": "Didi Chuxing Rotaları",
-        "card_body": "Bağımsız araştırmacılar, araç paylaşım platformu Didi Chuxing'in yapay zeka optimize rota kullanarak se başına emisyonları ortalama yüzde 16 oranında azaltabildiğini buldu."
+        "card_title": "Yatırım Trendleri",
+        "card_body": "Kültüre et sektörüne akan risk sermayesi 2021'deki 989 milyon dolarlık zirveden geçen yıl 83 milyon dolara geriledi."
       }
     ]
   },
   "cta": {
-    "question": "Sizce yapay zeka teknolojileri iklim krizinin çözümünde yeterince hızlı rol alabiliyor mu?",
-    "reminder_line": "Daha fazla teknoloji haberi için Tekno Pusula'yı takipte kalın!"
+    "question": "Sizce yapay zekanın enerji tüketimi mi, yoksa iklim krizine getirdiği çözümler mi daha ağır basıyor?",
+    "reminder_line": "Teknoloji dünyasındaki güncel ve doğrulanmış gelişmeler için Tekno Pusula'yı takipte kalın."
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

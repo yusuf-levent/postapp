@@ -7,22 +7,12 @@
     "BBC News – Technology",
     "Engadget"
   ],
-  "checked_at": "2026-11-09T13:13:21+03:00",
+  "checked_at": "2026-11-09T13:22:57+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Birleşik Devletler ve diğer ülkelerin temsilcileri Antalya, Türkiye'deki Birleşmiş Milletler iklim konferansında bir araya geldi.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-          "quote": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence."
-        }
-      ]
-    },
-    {
-      "claim": "OpenAI CEO'su Sam Altman 2024 yılında yapay zekanın iklimi düzeltmek dahil muhteşem zaferler ortaya çıkaracağını ilan etti.",
+      "claim": "OpenAI CEO'su Sam Altman 2024 yılında yapay zekanın iklimi düzeltmek dahil şaşırtıcı zaferler getireceğini beyan etti.",
       "verdict": "supported",
       "evidence": [
         {
@@ -32,7 +22,7 @@
       ]
     },
     {
-      "claim": "Google'ın sürdürülebilirlik başkanı ve ortak yazarı 2023 yılında yazdığı bir makalede yapay zekanın küresel emisyonları 2030 yılına kadar yüzde 5 ila yüzde 10 oranında azaltabileceğini belirtti.",
+      "claim": "Google'ın sürdürülebilirlik başkanı ve ortak yazarı 2023 yılında yayınlanan bir makalede yapay zekanın küresel emisyonları 2030 yılına kadar %5 ila %10 oranında azaltabileceğini öne sürdü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -42,7 +32,7 @@
       ]
     },
     {
-      "claim": "London School of Economics Grantham Araştırma Enstitüsü ve Systemiq firması araştırmacılarının öncülük ettiği çalışmaya göre yapay zeka 2035 yılına kadar küresel emisyonları yıllık 3.2 ila 5.4 milyar ton karbondioksit eşdeğeri azaltabilir.",
+      "claim": "London School of Economics Grantham Araştırma Enstitüsü ve Systemiq tarafından yayınlanan bir çalışma, yapay zekanın 2035 yılına kadar yıllık 3,2 ila 5,4 milyar ton karbondioksite eşdeğer emisyon azaltımına yardımcı olabileceğini tahmin etti.",
       "verdict": "supported",
       "evidence": [
         {
@@ -52,7 +42,27 @@
       ]
     },
     {
-      "claim": "Kültüre edilmiş ete akan risk sermayesi 2021 yılındaki 989 milyon dolarlık zirvesinden geçen yıl yaklaşık 83 milyon dolara düştü.",
+      "claim": "Yapay zeka destekli tahminleme sistemlerinin, güneş ve rüzgar tesislerinden şebekeye ulaşan yenilenebilir elektrik miktarını %20'ye kadar artırabileceği öngörülmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+          "quote": "AI-driven forecasting of supply and demand could increase the amount of renewable electricity that reaches the grid from already-built solar and wind facilities by up to 20%"
+        }
+      ]
+    },
+    {
+      "claim": "Birleşik Krallık'taki National Grid ESO ve Open Climate Fix arasındaki ortaklık, şebeke operatörünün güneş enerjisi tahmin hatasını yarıya indirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+          "quote": "A partnership between the UK’s National Grid ESO and Open Climate Fix halved the grid operator’s solar-forecast error"
+        }
+      ]
+    },
+    {
+      "claim": "Kültüre et sektörüne akan risk sermayesi 2021'de 989 milyon dolarlık zirveden geçen yıl yaklaşık 83 milyon dolara düştü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -62,7 +72,7 @@
       ]
     },
     {
-      "claim": "Elektrikli araç bataryaları için küresel pazarın yaklaşık yüzde 40'ını kontrol eden CATL, 100.000'den fazla batarya tasarım vakası ve 600 terabayt test verisiyle eğitilmiş bir yapay zeka sistemi başlattı.",
+      "claim": "Küresel elektrikli araç batarya pazarının yaklaşık %40'ını kontrol eden CATL, 100.000'den fazla batarya tasarım vakası ve 600 terabaytlık test verisiyle eğitilmiş bir yapay zeka sistemi başlattı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -72,17 +82,7 @@
       ]
     },
     {
-      "claim": "Bağımsız araştırmacılar, araç paylaşım platformu Didi Chuxing'in yapay zeka optimize rota kullanarak se başına emisyonları ortalama yüzde 16 oranında azaltabildiğini buldu.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-          "quote": "Independent researchers also found that the ride-sharing platform Didi Chuxing was able cut per-trip emissions 16% on average by using AI-optimized routing to minimize detours."
-        }
-      ]
-    },
-    {
-      "claim": "Uluslararası Enerji Ajansı'nın (IEA) temel tahminine göre küresel veri merkezleriyle ilişkili emisyonlar 2035 yılında yıllık 300 milyon tonu aşabilir.",
+      "claim": "Uluslararası Enerji Ajansı'nın (IEA) temel tahminine göre, küresel veri merkezleriyle ilişkili emisyonlar 2035 yılında yıllık 300 milyon tonu aşabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -94,17 +94,7 @@
   ],
   "round1": [
     {
-      "claim": "Birleşik Devletler ve diğer ülkelerin temsilcileri Antalya, Türkiye'deki Birleşmiş Milletler iklim konferansında bir araya geldi.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-          "quote": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence."
-        }
-      ]
-    },
-    {
-      "claim": "OpenAI CEO'su Sam Altman 2024 yılında yapay zekanın iklimi düzeltmek dahil muhteşem zaferler ortaya çıkaracağını ilan etti.",
+      "claim": "OpenAI CEO'su Sam Altman 2024 yılında yapay zekanın iklimi düzeltmek dahil şaşırtıcı zaferler getireceğini beyan etti.",
       "verdict": "supported",
       "evidence": [
         {
@@ -114,7 +104,7 @@
       ]
     },
     {
-      "claim": "Google'ın sürdürülebilirlik başkanı ve ortak yazarı 2023 yılında yazdığı bir makalede yapay zekanın küresel emisyonları 2030 yılına kadar yüzde 5 ila yüzde 10 oranında azaltabileceğini belirtti.",
+      "claim": "Google'ın sürdürülebilirlik başkanı ve ortak yazarı 2023 yılında yayınlanan bir makalede yapay zekanın küresel emisyonları 2030 yılına kadar %5 ila %10 oranında azaltabileceğini öne sürdü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -124,7 +114,7 @@
       ]
     },
     {
-      "claim": "London School of Economics Grantham Araştırma Enstitüsü ve Systemiq firması araştırmacılarının öncülük ettiği çalışmaya göre yapay zeka 2035 yılına kadar küresel emisyonları yıllık 3.2 ila 5.4 milyar ton karbondioksit eşdeğeri azaltabilir.",
+      "claim": "London School of Economics Grantham Araştırma Enstitüsü ve Systemiq tarafından yayınlanan bir çalışma, yapay zekanın 2035 yılına kadar yıllık 3,2 ila 5,4 milyar ton karbondioksite eşdeğer emisyon azaltımına yardımcı olabileceğini tahmin etti.",
       "verdict": "supported",
       "evidence": [
         {
@@ -134,7 +124,27 @@
       ]
     },
     {
-      "claim": "Kültüre edilmiş ete akan risk sermayesi 2021 yılındaki 989 milyon dolarlık zirvesinden geçen yıl yaklaşık 83 milyon dolara düştü.",
+      "claim": "Yapay zeka destekli tahminleme sistemlerinin, güneş ve rüzgar tesislerinden şebekeye ulaşan yenilenebilir elektrik miktarını %20'ye kadar artırabileceği öngörülmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+          "quote": "AI-driven forecasting of supply and demand could increase the amount of renewable electricity that reaches the grid from already-built solar and wind facilities by up to 20%"
+        }
+      ]
+    },
+    {
+      "claim": "Birleşik Krallık'taki National Grid ESO ve Open Climate Fix arasındaki ortaklık, şebeke operatörünün güneş enerjisi tahmin hatasını yarıya indirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+          "quote": "A partnership between the UK’s National Grid ESO and Open Climate Fix halved the grid operator’s solar-forecast error"
+        }
+      ]
+    },
+    {
+      "claim": "Kültüre et sektörüne akan risk sermayesi 2021'de 989 milyon dolarlık zirveden geçen yıl yaklaşık 83 milyon dolara düştü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -144,7 +154,7 @@
       ]
     },
     {
-      "claim": "Elektrikli araç bataryaları için küresel pazarın yaklaşık yüzde 40'ını kontrol eden CATL, 100.000'den fazla batarya tasarım vakası ve 600 terabayt test verisiyle eğitilmiş bir yapay zeka sistemi başlattı.",
+      "claim": "Küresel elektrikli araç batarya pazarının yaklaşık %40'ını kontrol eden CATL, 100.000'den fazla batarya tasarım vakası ve 600 terabaytlık test verisiyle eğitilmiş bir yapay zeka sistemi başlattı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -154,17 +164,7 @@
       ]
     },
     {
-      "claim": "Bağımsız araştırmacılar, araç paylaşım platformu Didi Chuxing'in yapay zeka optimize rota kullanarak se başına emisyonları ortalama yüzde 16 oranında azaltabildiğini buldu.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-          "quote": "Independent researchers also found that the ride-sharing platform Didi Chuxing was able cut per-trip emissions 16% on average by using AI-optimized routing to minimize detours."
-        }
-      ]
-    },
-    {
-      "claim": "Uluslararası Enerji Ajansı'nın (IEA) temel tahminine göre küresel veri merkezleriyle ilişkili emisyonlar 2035 yılında yıllık 300 milyon tonu aşabilir.",
+      "claim": "Uluslararası Enerji Ajansı'nın (IEA) temel tahminine göre, küresel veri merkezleriyle ilişkili emisyonlar 2035 yılında yıllık 300 milyon tonu aşabilir.",
       "verdict": "supported",
       "evidence": [
         {
@@ -176,17 +176,7 @@
   ],
   "round2": [
     {
-      "claim": "Birleşik Devletler ve diğer ülkelerin temsilcileri Antalya, Türkiye'deki Birleşmiş Milletler iklim konferansında bir araya geldi.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-          "quote": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence."
-        }
-      ]
-    },
-    {
-      "claim": "OpenAI CEO'su Sam Altman 2024 yılında yapay zekanın iklimi düzeltmek dahil muhteşem zaferler ortaya çıkaracağını ilan etti.",
+      "claim": "OpenAI CEO'su Sam Altman 2024 yılında yapay zekanın iklimi düzeltmek dahil şaşırtıcı zaferler getireceğini beyan etti.",
       "verdict": "supported",
       "evidence": [
         {
@@ -196,7 +186,7 @@
       ]
     },
     {
-      "claim": "Google'ın sürdürülebilirlik başkanı ve ortak yazarı 2023 yılında yazdığı bir makalede yapay zekanın küresel emisyonları 2030 yılına kadar yüzde 5 ila yüzde 10 oranında azaltabileceğini belirtti.",
+      "claim": "Google'ın sürdürülebilirlik başkanı ve ortak yazarı 2023 yılında yayınlanan bir makalede yapay zekanın küresel emisyonları 2030 yılına kadar %5 ila %10 oranında azaltabileceğini öne sürdü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -206,7 +196,7 @@
       ]
     },
     {
-      "claim": "London School of Economics Grantham Araştırma Enstitüsü ve Systemiq firması araştırmacılarının öncülük ettiği çalışmaya göre yapay zeka 2035 yılına kadar küresel emisyonları yıllık 3.2 ila 5.4 milyar ton karbondioksit eşdeğeri azaltabilir.",
+      "claim": "London School of Economics Grantham Araştırma Enstitüsü ve Systemiq tarafından yayınlanan bir çalışma, yapay zekanın 2035 yılına kadar yıllık 3,2 ila 5,4 milyar ton karbondioksite eşdeğer emisyon azaltımına yardımcı olabileceğini tahmin etti.",
       "verdict": "supported",
       "evidence": [
         {
@@ -216,7 +206,27 @@
       ]
     },
     {
-      "claim": "Kültüre edilmiş ete akan risk sermayesi 2021 yılındaki 989 milyon dolarlık zirvesinden geçen yıl yaklaşık 83 milyon dolara düştü.",
+      "claim": "Yapay zeka destekli tahminleme sistemlerinin, güneş ve rüzgar tesislerinden şebekeye ulaşan yenilenebilir elektrik miktarını %20'ye kadar artırabileceği öngörülmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+          "quote": "AI-driven forecasting of supply and demand could increase the amount of renewable electricity that reaches the grid from already-built solar and wind facilities by up to 20%"
+        }
+      ]
+    },
+    {
+      "claim": "Birleşik Krallık'taki National Grid ESO ve Open Climate Fix arasındaki ortaklık, şebeke operatörünün güneş enerjisi tahmin hatasını yarıya indirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+          "quote": "A partnership between the UK’s National Grid ESO and Open Climate Fix halved the grid operator’s solar-forecast error"
+        }
+      ]
+    },
+    {
+      "claim": "Kültüre et sektörüne akan risk sermayesi 2021'de 989 milyon dolarlık zirveden geçen yıl yaklaşık 83 milyon dolara düştü.",
       "verdict": "supported",
       "evidence": [
         {
@@ -226,7 +236,7 @@
       ]
     },
     {
-      "claim": "Elektrikli araç bataryaları için küresel pazarın yaklaşık yüzde 40'ını kontrol eden CATL, 100.000'den fazla batarya tasarım vakası ve 600 terabayt test verisiyle eğitilmiş bir yapay zeka sistemi başlattı.",
+      "claim": "Küresel elektrikli araç batarya pazarının yaklaşık %40'ını kontrol eden CATL, 100.000'den fazla batarya tasarım vakası ve 600 terabaytlık test verisiyle eğitilmiş bir yapay zeka sistemi başlattı.",
       "verdict": "supported",
       "evidence": [
         {
@@ -236,17 +246,7 @@
       ]
     },
     {
-      "claim": "Bağımsız araştırmacılar, araç paylaşım platformu Didi Chuxing'in yapay zeka optimize rota kullanarak se başına emisyonları ortalama yüzde 16 oranında azaltabildiğini buldu.",
-      "verdict": "supported",
-      "evidence": [
-        {
-          "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-          "quote": "Independent researchers also found that the ride-sharing platform Didi Chuxing was able cut per-trip emissions 16% on average by using AI-optimized routing to minimize detours."
-        }
-      ]
-    },
-    {
-      "claim": "Uluslararası Enerji Ajansı'nın (IEA) temel tahminine göre küresel veri merkezleriyle ilişkili emisyonlar 2035 yılında yıllık 300 milyon tonu aşabilir.",
+      "claim": "Uluslararası Enerji Ajansı'nın (IEA) temel tahminine göre, küresel veri merkezleriyle ilişkili emisyonlar 2035 yılında yıllık 300 milyon tonu aşabilir.",
       "verdict": "supported",
       "evidence": [
         {

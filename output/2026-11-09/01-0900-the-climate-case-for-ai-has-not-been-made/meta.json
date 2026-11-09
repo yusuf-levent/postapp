@@ -1,10 +1,10 @@
 {
   "slot": "09:00",
   "type": "news",
-  "model": "gemini-3.5-flash-lite",
-  "duration_seconds": 75.3,
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 88.5,
   "candidates_tried": 1,
   "gemini_calls": 12,
   "canonical_url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-  "generated_at": "2026-11-09T13:14:05+03:00"
+  "generated_at": "2026-11-09T13:23:43+03:00"
 }
