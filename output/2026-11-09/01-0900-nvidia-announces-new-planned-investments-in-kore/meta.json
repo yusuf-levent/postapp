@@ -2,9 +2,9 @@
   "slot": "09:00",
   "type": "news",
   "model": "gemini-3.5-flash-lite",
-  "duration_seconds": 71.1,
+  "duration_seconds": 101.0,
   "candidates_tried": 1,
-  "gemini_calls": 13,
+  "gemini_calls": 12,
   "canonical_url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
-  "generated_at": "2026-11-09T11:58:09+03:00"
+  "generated_at": "2026-11-09T12:04:22+03:00"
 }

@@ -1,69 +1,69 @@
 {
   "cover": {
     "category_label": "YAPAY ZEKA VE GİRİŞİMCİLİK",
-    "title": "NVIDIA ve Kore'den Yapay Zeka Hamlesi",
+    "title": "NVIDIA ve Güney Kore Yapay Zeka Ortaklığı",
     "highlight_words": [
       "NVIDIA",
-      "Kore"
+      "Güney Kore"
     ],
     "highlight_color": "yellow",
-    "subtitle": "MSIT-NVIDIA AI Startup Partnership Forum etkinliğinde önemli yatırımlar duyuruldu.",
+    "subtitle": "MSIT-NVIDIA AI Startup Partnership Forum COEX'te gerçekleştirildi.",
     "source_tags": [
       "NVIDIA NEWSROOM",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Kore ve NVIDIA Buluşması",
+    "heading": "Forum ve Görüşmeler",
     "cards": [
       {
         "card_title": "MSIT-NVIDIA Forumu",
-        "card_body": "Korea's Ministry of Science and ICT ve NVIDIA, COEX'te ortak bir AI Startup Partnership Forum düzenledi."
+        "card_body": "Korea's Ministry of Science and ICT ve NVIDIA, COEX'te ortaklaşa bir AI Startup Partnership Forum düzenledi."
       },
       {
         "card_title": "Geniş Katılım",
-        "card_body": "Bilim ve İİT Bakan Yardımcısı Ryu Je-myung, NVIDIA liderleriyle birlikte 20'den fazla Koreli girişimle bir araya geldi."
+        "card_body": "Bilim ve Bakan Yardımcısı Ryu Je-myung, temeller, fiziksel yapay zeka ve yarı iletkenler alanında 20'den fazla Koreli girişimle bir araya geldi."
       }
     ]
   },
   "stat": {
     "big_stat": "1.000+",
-    "stat_caption": "NVIDIA Inception programına dahil olan Kore merkezli üye sayısı.",
-    "stat_quote": "More than 1,000 Korea-based members are part of NVIDIA Inception, a program that helps startups grow."
+    "stat_caption": "NVIDIA Inception programına katılan Güney Kore merkezli üye sayısı.",
+    "stat_quote": "More than 1,000 Korea-based members are part of NVIDIA Inception."
   },
   "details": {
     "heading": "Yatırım Yapılan Girişimler",
     "cards": [
       {
         "card_title": "Point2 Technology",
-        "card_body": "Ölçeklenebilir, radyo frekansı tabanlı bağlantılar inşa eden bir yapay zeka bağlantı şirketidir."
+        "card_body": "NVIDIA, çip ve raflar arasında veri taşıyan ölçeklenebilir bağlantılar üreten Point2'ye yatırım açıkladı."
       },
       {
         "card_title": "Motif Technologies ve RLWRLD",
-        "card_body": "Motif-3 dahil temel modeller geliştiren Motif ile robotik vakıf modelleri geliştiren RLWRLD yatırımdan pay alıyor."
+        "card_body": "Motif açık ağırlıklı Motif-3 modelini geliştirirken, RLWRLD insansı robotlar için temeller sunuyor."
       },
       {
         "card_title": "Upstage",
-        "card_body": "Solar dil modelleri ve belge yapay zeka araçları geliştiren Koreli bir kurumsal yapay zeka şirketidir."
+        "card_body": "Upstage, işletmeler için Solar dil modelleri ve belge yapay zeka araçları geliştiriyor."
       }
     ]
   },
   "impact": {
-    "heading": "Girişim Ekosistemine Etki",
+    "heading": "Sektörel Etki",
     "cards": [
       {
-        "card_title": "Yatırım Planları",
-        "card_body": "NVIDIA, Point2 yatırımını açıklarken Motif Technologies, RLWRLD ve Upstage için ek yatırımlar planlıyor."
+        "card_title": "Yapay Zeka Fabrikaları",
+        "card_body": "Radyo frekansı tabanlı bağlantılar, yapay zeka fabrikalarındaki veri akışını güçlendiriyor."
       },
       {
-        "card_title": "Büyüme Desteği",
-        "card_body": "NVIDIA Inception programı, Kore merkezli binin üzerindeki üyesiyle girişimlerin büyümesine katkı sağlamaya devam ediyor."
+        "card_title": "Robotik ve Dil Modelleri",
+        "card_body": "Fiziksel yapay zeka ve büyük dil modelleri, endüstriyel görevlerde beş parmak mahareti gibi yetenekler kazandırıyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce teknoloji devlerinin yerel girişimlerle ortaklıkları sektörü nasıl dönüştürecek?",
-    "reminder_line": "Düşüncelerinizi yorumlarda bizimle paylaşın!"
+    "question": "Güney Kore'deki bu yapay zeka girişimleri küresel pazarı nasıl etkiler?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",
