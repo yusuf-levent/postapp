@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 95.2,
+  "candidates_tried": 1,
+  "gemini_calls": 15,
+  "canonical_url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
+  "generated_at": "2026-11-09T13:43:40+03:00"
+}

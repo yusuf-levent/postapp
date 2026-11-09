@@ -1,0 +1,68 @@
+{
+  "cover": {
+    "category_label": "YENİ NESİL TEKNOLOJİ",
+    "title": "Alglerle Kaplı Yumuşak Robot Kol Geliştirildi",
+    "highlight_words": [
+      "Yumuşak Robot"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Delft University of Technology ekibinden doğadan ilham alan yeni bir çalışma.",
+    "source_tags": [
+      "WIRED",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Araştırmanın Temelleri",
+    "cards": [
+      {
+        "card_title": "Boyutlar ve Tasarım",
+        "card_body": "Küçük robot kolları yaklaşık üç çeyrek inç uzunluğundadır ve bir kredi kartı kalınlığındadır."
+      },
+      {
+        "card_title": "Malzeme Yapısı",
+        "card_body": "Robot kolları, yüzeyi alglerle kolonize edilmiş iki katmanlı hidrojenden inşa edilmiştir."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "4 KAT",
+    "stat_caption": "pH 11 koşullarında hidrojel katmanın ulaştığı ağırlık oranı",
+    "stat_quote": "Hidrojel katman asidik koşullarda orijinal ağırlığının yüzde 37'si kadardı ancak pH 11'de orijinal ağırlığının dört katına çıktı."
+  },
+  "details": {
+    "heading": "Teknik Detaylar",
+    "cards": [
+      {
+        "card_title": "Kimyasal Değişim Süresi",
+        "card_body": "Kimyasal değişim ışık uygulandıktan yaklaşık 20 saniye sonra ve karanlık olduktan yaklaşık 10 saniye sonra hızla başlar."
+      },
+      {
+        "card_title": "Dört Parmaklı Tutucu",
+        "card_body": "Araştırma ekibi, ışığa maruz kaldığında kapanan dört parmaklı bir tutucu inşa etmeyi başardı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Olası Etkiler",
+    "cards": [
+      {
+        "card_title": "Yumuşak Robotik",
+        "card_body": "Alglerle kolonize edilmiş yumuşak robot kollar, biyouyumlu malzeme alanında yeni yaklaşımlar sunuyor."
+      },
+      {
+        "card_title": "Işık ve Kimya Tepkimesi",
+        "card_body": "Işık ve karanlık döngüsüyle tetiklenen hızlı kimyasal değişimler, kontrollü hareket kabiliyeti sağlıyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Doğadan ilham alan bu tarz yumuşak robotların gelecekte hangi alanlarda kullanılmasını bekliyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM"
+}

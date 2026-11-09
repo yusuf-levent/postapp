@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://media.wired.com/photos/6aeb82bb5d3f8b6dd9946810/191:100/w_1280,c_limit/Soft-robot-arm_3.jpeg",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-09/01-0900-these-robotic-arms-are-powered-by-algae-watch-ho/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
+      "width": 1280,
+      "height": 670,
+      "alt_text": ""
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir.",
+  "music": [
+    {
+      "title": "Torley Wong - The Final Selection ::: 230 diverse MP3s",
+      "artist": "Torley Wong",
+      "license": "Creative Commons (ticari kullanıma uygun)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/us/",
+      "source_url": "https://archive.org/details/Torley_Wong_-_The_Final_Selection"
+    }
+  ]
+}
