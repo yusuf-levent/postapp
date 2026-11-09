@@ -7,12 +7,12 @@
     "NVIDIA Newsroom",
     "The Verge"
   ],
-  "checked_at": "2026-11-09T11:14:14+03:00",
+  "checked_at": "2026-11-09T11:17:51+03:00",
   "accepted": true,
   "reject_reason": "",
   "claims": [
     {
-      "claim": "Korea's Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX.",
+      "claim": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX.",
       "verdict": "supported",
       "evidence": [
         {
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "claim": "Ryu Je-myung, vice minister of science and ICT, met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors.",
+      "claim": "Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups.",
       "verdict": "supported",
       "evidence": [
         {
@@ -48,6 +48,10 @@
         {
           "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
           "quote": "Point2 Technology, an AI interconnect company, builds scalable, radio frequency-based interconnects that move data between chips and racks in AI factories"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+          "quote": "Point2 Technology, an AI interconnect company, builds scalable, radio frequency-based interconnects that move data between chips and racks in AI factories, offering an innovative alternative to conventional copper and optical interconnect solutions for AI cluster scale-up, delivering the reach, performance and efficiency needed for next-generation AI infrastructure."
         }
       ]
     },
@@ -68,11 +72,15 @@
         {
           "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
           "quote": "RLWRLD, a physical AI startup based in San Francisco, Seoul and Tokyo, develops robotics foundation models that enable humanoid and industrial robots to perform complex real-world tasks"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+          "quote": "RLWRLD, a physical AI startup based in San Francisco, Seoul and Tokyo, develops robotics foundation models that enable humanoid and industrial robots to perform complex real-world tasks that require five-finger dexterity, such as precisely inserting components, threading nuts onto bolts and kitting parts from moving conveyors."
         }
       ]
     },
     {
-      "claim": "Upstage is a Korean enterprise AI company that develops Solar language models and document AI tools for businesses.",
+      "claim": "Upstage is a Korean enterprise AI company that develops Solar language models and document AI tools.",
       "verdict": "supported",
       "evidence": [
         {
@@ -86,7 +94,7 @@
       ]
     },
     {
-      "claim": "More than 1,000 Korea-based members are part of NVIDIA Inception, a program helping startups grow.",
+      "claim": "NVIDIA Inception includes more than 1,000 Korea-based members to help startups grow with technical expertise and investor introductions.",
       "verdict": "supported",
       "evidence": [
         {
@@ -95,14 +103,14 @@
         },
         {
           "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
-          "quote": "The planned investments build on NVIDIA’s work with Korea’s startup and venture community, including more than 1,000 Korea-based members of NVIDIA Inception, a program that helps startups grow"
+          "quote": "The planned investments build on NVIDIA’s work with Korea’s startup and venture community, including more than 1,000 Korea-based members of NVIDIA Inception, a program that helps startups grow with access to preferred pricing, technical expertise and opportunities for investor introductions."
         }
       ]
     }
   ],
   "round1": [
     {
-      "claim": "Korea's Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX.",
+      "claim": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX.",
       "verdict": "supported",
       "evidence": [
         {
@@ -112,7 +120,7 @@
       ]
     },
     {
-      "claim": "Ryu Je-myung, vice minister of science and ICT, met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors.",
+      "claim": "Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups.",
       "verdict": "supported",
       "evidence": [
         {
@@ -138,6 +146,10 @@
         {
           "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
           "quote": "Point2 Technology, an AI interconnect company, builds scalable, radio frequency-based interconnects that move data between chips and racks in AI factories"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+          "quote": "Point2 Technology, an AI interconnect company, builds scalable, radio frequency-based interconnects that move data between chips and racks in AI factories, offering an innovative alternative to conventional copper and optical interconnect solutions for AI cluster scale-up, delivering the reach, performance and efficiency needed for next-generation AI infrastructure."
         }
       ]
     },
@@ -158,11 +170,15 @@
         {
           "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
           "quote": "RLWRLD, a physical AI startup based in San Francisco, Seoul and Tokyo, develops robotics foundation models that enable humanoid and industrial robots to perform complex real-world tasks"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+          "quote": "RLWRLD, a physical AI startup based in San Francisco, Seoul and Tokyo, develops robotics foundation models that enable humanoid and industrial robots to perform complex real-world tasks that require five-finger dexterity, such as precisely inserting components, threading nuts onto bolts and kitting parts from moving conveyors."
         }
       ]
     },
     {
-      "claim": "Upstage is a Korean enterprise AI company that develops Solar language models and document AI tools for businesses.",
+      "claim": "Upstage is a Korean enterprise AI company that develops Solar language models and document AI tools.",
       "verdict": "supported",
       "evidence": [
         {
@@ -176,7 +192,7 @@
       ]
     },
     {
-      "claim": "More than 1,000 Korea-based members are part of NVIDIA Inception, a program helping startups grow.",
+      "claim": "NVIDIA Inception includes more than 1,000 Korea-based members to help startups grow with technical expertise and investor introductions.",
       "verdict": "supported",
       "evidence": [
         {
@@ -185,14 +201,14 @@
         },
         {
           "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
-          "quote": "The planned investments build on NVIDIA’s work with Korea’s startup and venture community, including more than 1,000 Korea-based members of NVIDIA Inception, a program that helps startups grow"
+          "quote": "The planned investments build on NVIDIA’s work with Korea’s startup and venture community, including more than 1,000 Korea-based members of NVIDIA Inception, a program that helps startups grow with access to preferred pricing, technical expertise and opportunities for investor introductions."
         }
       ]
     }
   ],
   "round2": [
     {
-      "claim": "Korea's Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX.",
+      "claim": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX.",
       "verdict": "supported",
       "evidence": [
         {
@@ -202,7 +218,7 @@
       ]
     },
     {
-      "claim": "Ryu Je-myung, vice minister of science and ICT, met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors.",
+      "claim": "Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups.",
       "verdict": "supported",
       "evidence": [
         {
@@ -228,6 +244,10 @@
         {
           "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
           "quote": "Point2 Technology, an AI interconnect company, builds scalable, radio frequency-based interconnects that move data between chips and racks in AI factories"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+          "quote": "Point2 Technology, an AI interconnect company, builds scalable, radio frequency-based interconnects that move data between chips and racks in AI factories, offering an innovative alternative to conventional copper and optical interconnect solutions for AI cluster scale-up, delivering the reach, performance and efficiency needed for next-generation AI infrastructure."
         }
       ]
     },
@@ -248,11 +268,15 @@
         {
           "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
           "quote": "RLWRLD, a physical AI startup based in San Francisco, Seoul and Tokyo, develops robotics foundation models that enable humanoid and industrial robots to perform complex real-world tasks"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+          "quote": "RLWRLD, a physical AI startup based in San Francisco, Seoul and Tokyo, develops robotics foundation models that enable humanoid and industrial robots to perform complex real-world tasks that require five-finger dexterity, such as precisely inserting components, threading nuts onto bolts and kitting parts from moving conveyors."
         }
       ]
     },
     {
-      "claim": "Upstage is a Korean enterprise AI company that develops Solar language models and document AI tools for businesses.",
+      "claim": "Upstage is a Korean enterprise AI company that develops Solar language models and document AI tools.",
       "verdict": "supported",
       "evidence": [
         {
@@ -266,7 +290,7 @@
       ]
     },
     {
-      "claim": "More than 1,000 Korea-based members are part of NVIDIA Inception, a program helping startups grow.",
+      "claim": "NVIDIA Inception includes more than 1,000 Korea-based members to help startups grow with technical expertise and investor introductions.",
       "verdict": "supported",
       "evidence": [
         {
@@ -275,7 +299,7 @@
         },
         {
           "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
-          "quote": "The planned investments build on NVIDIA’s work with Korea’s startup and venture community, including more than 1,000 Korea-based members of NVIDIA Inception, a program that helps startups grow"
+          "quote": "The planned investments build on NVIDIA’s work with Korea’s startup and venture community, including more than 1,000 Korea-based members of NVIDIA Inception, a program that helps startups grow with access to preferred pricing, technical expertise and opportunities for investor introductions."
         }
       ]
     }
