@@ -1,46 +1,50 @@
 {
   "cover": {
     "category_label": "YAPAY ZEKA TEKNOLOJİLERİ",
-    "title": "HOPE Yöntemi ile Model Budamada Yeni Dönem",
+    "title": "Qwen3.5-122B ve HOPE Yöntemi: Yeni Nesil Mimari",
     "highlight_words": [
-      "HOPE",
-      "Budamada"
+      "Qwen3.5-122B",
+      "HOPE"
     ],
     "highlight_color": "cyan",
-    "subtitle": "Büyük dil modellerinde verimliliği artıran yeni bir yaklaşım.",
+    "subtitle": "Devasa modellerde verimliliği artıran yeni mimari ve optimizasyon teknikleri.",
     "source_tags": [
       "HUGGING FACE BLOG",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Modellerin Yapısı ve HOPE",
+    "heading": "Qwen3.5-122B'nin İç Yapısı",
     "cards": [
       {
-        "card_title": "Qwen3.5-122B Mimarisi",
-        "card_body": "Model, her birinde 256 uzman bulunan 48 adet MoE katmanına sahip. Belleğin %95'i uzman MLP'leri tarafından kaplanıyor."
+        "card_title": "Devasa Uzman Yapısı",
+        "card_body": "Model, her biri 48 MoE katmanına sahip ve her katmanda 256 uzman barındıran oldukça güçlü bir mimariyle geliyor."
       },
       {
-        "card_title": "Test Edilen Modeller",
-        "card_body": "HOPE yöntemi; Qwen3.5-122B, Qwen3.5-35B ve 106 milyar parametreli GLM-4.5-Air modelleri üzerinde başarıyla test edildi."
+        "card_title": "Seçici Uzman Kullanımı",
+        "card_body": "Modelin devasa kapasitesine rağmen, her bir token için katman başına sadece 8 uzman aktif olarak kullanılıyor."
       }
     ]
   },
   "stat": {
-    "big_stat": "%6,1",
-    "stat_caption": "HOPE yönteminin %50 budama oranında sağladığı performans artışı.",
-    "stat_quote": "HOPE, agentic kodlama görevlerinde bir sonraki en iyi budama yöntemine kıyasla %6,1'e varan performans artışı sağlıyor."
+    "big_stat": "%95",
+    "stat_caption": "Qwen3.5-122B modelinin yaklaşık 250 GB olan parametre belleğinin büyük çoğunluğu uzman MLP'lerine ayrılmış durumda.",
+    "stat_quote": "Modelin parametre belleğinin %95'i tamamen uzman MLP'leri tarafından kaplanmaktadır. - Hugging Face Blog"
   },
   "details": {
-    "heading": "HOPE Nasıl Çalışıyor?",
+    "heading": "HOPE Yöntemi ile Optimizasyon",
     "cards": [
       {
-        "card_title": "İkinci Dereceden Budama",
-        "card_body": "HOPE, uzmanlar arasındaki ikili etkileşimleri hesaba katan gelişmiş bir ikinci dereceden budama yöntemidir."
+        "card_title": "Performans Artışı",
+        "card_body": "HOPE yöntemi, %50 budama oranında, agentic kodlama görevlerinde bir sonraki en iyi yönteme göre %6,1'e varan artış sağlıyor."
       },
       {
-        "card_title": "Kalibrasyon Veri Setleri",
-        "card_body": "Yöntem, Evol-CodeAlpaca ve SWE-Bench Verified trajectories olmak üzere iki farklı veri setiyle değerlendirildi."
+        "card_title": "Başarı Sıralaması",
+        "card_body": "HOPE yöntemi, tüm test koşullarında 5 farklı yöntem arasında 2,07'lik ortalama başarı sıralaması elde etti."
+      },
+      {
+        "card_title": "Güçlü Korelasyon",
+        "card_body": "HOPE yönteminin kullandığı F-matrisinin köşegen değerleri, REAP yönteminin uzman sıralamalarıyla 0,99 Spearman korelasyonuna sahip."
       }
     ]
   },
@@ -48,17 +52,17 @@
     "heading": "Sektörel ve Teknik Etki",
     "cards": [
       {
-        "card_title": "Verimlilik Odaklı Gelişim",
-        "card_body": "Büyük modellerin parametre belleğinin büyük kısmını oluşturan uzman MLP'lerinin optimize edilmesi, kaynak kullanımını iyileştiriyor."
+        "card_title": "Kodlama Görevlerinde Verimlilik",
+        "card_body": "Agentic kodlama süreçlerinde sağlanan %6,1'lik performans artışı, karmaşık yazılım görevlerinde daha hızlı sonuç demek."
       },
       {
-        "card_title": "Kodlama Görevlerinde Başarı",
-        "card_body": "Agentic kodlama görevlerinde elde edilen performans artışı, modellerin karmaşık yazılım süreçlerindeki yetkinliğini güçlendiriyor."
+        "card_title": "Model Optimizasyonu",
+        "card_body": "Yüksek budama oranlarında bile yüksek başarı elde edilmesi, büyük dil modellerinin daha verimli çalıştırılmasının önünü açıyor."
       }
     ]
   },
   "cta": {
-    "question": "Sizce modelleri budamak, gelecekte yapay zekayı yerel cihazlarda çalıştırmanın anahtarı mı?",
+    "question": "Sizce devasa modellerde uzman seçimi mi yoksa budama yöntemleri mi daha kritik?",
     "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri takip etmek için Tekno Pusula'yı izlemeye devam edin."
   },
   "tag_label_2": "BAĞLAM",

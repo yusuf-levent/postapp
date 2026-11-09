@@ -1,64 +1,63 @@
 {
   "captions": {
     "instagram": {
-      "text": "Yapay zeka modellerini küçültürken performans artırmak mümkün mü? HOPE yöntemi, büyük dil modellerinde (LLM) devrim yaratıyor! 🚀\n\nQwen3.5 ve GLM-4.5-Air gibi devasa modeller üzerinde test edilen HOPE, uzmanlar arasındaki etkileşimleri analiz eden ikinci dereceden bir budama yöntemi kullanıyor.\n\nSonuç mu? Agentic kodlama görevlerinde %6,1'e varan performans artışı! Bu, modellerin daha az kaynakla daha zeki çalışabileceği anlamına geliyor.\n\nSizce modelleri budamak, gelecekte yapay zekayı yerel cihazlarda çalıştırmanın anahtarı mı? Yorumlarda buluşalım.\n\nKaynak: Hugging Face Blog, TechCrunch",
+      "text": "Yapay zeka dünyasında devrim niteliğinde bir gelişme! Qwen3.5-122B modeli ve HOPE optimizasyon yöntemi, büyük dil modellerinin çalışma mantığını değiştiriyor. \n\nModel, 48 MoE katmanı ve her katmanda 256 uzman ile devasa bir kapasiteye sahip. Ancak işin sırrı seçicilikte; her token için sadece 8 uzman aktif kullanılıyor. Bu da devasa modellerin verimliliğini zirveye taşıyor.\n\nHOPE yöntemi ise budama süreçlerinde %6,1'lik bir performans artışı sağlayarak, özellikle agentic kodlama görevlerinde rakiplerini geride bırakıyor. Yüksek budama oranlarında bile başarısını koruması, geleceğin daha verimli modelleri için büyük bir adım.\n\nSizce devasa modellerde uzman seçimi mi yoksa budama yöntemleri mi daha kritik? Yorumlarda buluşalım!\n\nKaynak: Hugging Face Blog, TechCrunch",
       "hashtags": [
         "YapayZeka",
-        "AI",
-        "Teknoloji",
+        "Qwen35",
         "MachineLearning",
-        "LLM",
+        "Teknoloji",
+        "AI",
+        "DeepLearning",
         "HOPE",
         "Yazılım",
-        "Verimlilik",
-        "ArtificialIntelligence",
+        "Innovation",
         "TechNews",
-        "DeepLearning",
-        "Innovation"
+        "VeriBilimi"
       ]
     },
     "tiktok": {
-      "text": "Yapay zeka modelleri artık daha verimli! HOPE yöntemi ile tanışın. Büyük modelleri budayarak %6,1 performans artışı sağlamak mümkün. Gelecek yerel cihazlarda mı? 🤖✨\n\nKaynak: Hugging Face Blog, TechCrunch",
+      "text": "Yapay zekada yeni dönem! Qwen3.5-122B ve HOPE yöntemiyle tanışın. Devasa modeller artık çok daha verimli çalışıyor. Kodlama görevlerinde %6,1 performans artışı sağlayan bu teknoloji, geleceğin AI mimarisini şekillendiriyor. Sizce hangisi daha önemli: Uzman seçimi mi, budama mı? \n\nKaynak: Hugging Face Blog, TechCrunch",
       "hashtags": [
         "YapayZeka",
+        "Qwen35",
         "AI",
         "Teknoloji",
-        "Kodlama",
-        "Gelecek",
+        "Yazılım",
         "TechTok"
       ]
     },
     "x": {
-      "text": "Büyük dil modellerinde verimlilik dönemi! HOPE yöntemi, uzman etkileşimlerini optimize ederek agentic kodlama görevlerinde %6,1 performans artışı sağlıyor. Modelleri budamak, yerel cihazlarda AI'nın geleceği mi? \n\nKaynak: Hugging Face Blog, TechCrunch",
+      "text": "Qwen3.5-122B ve HOPE yöntemi, büyük dil modellerinde verimlilik çıtasını yükseltiyor. 48 MoE katmanı ve seçici uzman kullanımıyla, agentic kodlama görevlerinde %6,1 performans artışı mümkün. Geleceğin AI mimarisi şekilleniyor. \n\nKaynak: Hugging Face Blog, TechCrunch",
       "hashtags": [
         "YapayZeka",
         "AI"
       ]
     },
     "threads": {
-      "text": "HOPE Yöntemi ile Model Budamada Yeni Dönem\n\nBüyük dil modellerinin (LLM) verimliliğini artırmak için geliştirilen HOPE, uzmanlar arasındaki etkileşimleri analiz eden ikinci dereceden bir budama yöntemi sunuyor. Qwen3.5 ve GLM-4.5-Air modellerinde test edilen bu yaklaşım, %6,1'e varan performans artışı sağlıyor.\n\nSizce modelleri budamak, gelecekte yapay zekayı yerel cihazlarda çalıştırmanın anahtarı mı? 💭\n\nKaynak: Hugging Face Blog, TechCrunch",
+      "text": "Qwen3.5-122B ve HOPE Yöntemi: Yeni Nesil Mimari\n\nDevasa modellerde verimlilik artık daha kritik. Qwen3.5-122B, 48 MoE katmanı ve seçici uzman kullanımıyla dikkat çekiyor. HOPE yöntemi ise %50 budama oranında bile %6,1 performans artışı sunarak büyük dil modellerinin geleceğini optimize ediyor.\n\nSizce devasa modellerde uzman seçimi mi yoksa budama yöntemleri mi daha kritik? 💭\n\nKaynak: Hugging Face Blog, TechCrunch",
       "hashtags": [
         "YapayZeka"
       ]
     },
     "linkedin": {
-      "text": "Yapay zeka dünyasında verimlilik odaklı yeni bir gelişme: HOPE yöntemi.\n\nBüyük dil modellerinin (LLM) parametre belleğinin büyük kısmını oluşturan uzman MLP'lerinin optimize edilmesi, kaynak kullanımı açısından kritik bir öneme sahip. HOPE, uzmanlar arasındaki ikili etkileşimleri hesaba katan gelişmiş bir ikinci dereceden budama yöntemi olarak öne çıkıyor.\n\nQwen3.5-122B ve GLM-4.5-Air gibi modeller üzerinde yapılan testlerde, agentic kodlama görevlerinde %6,1'e varan performans artışı gözlemlendi. Bu teknoloji, karmaşık yazılım süreçlerinde modellerin yetkinliğini güçlendirirken, donanım kaynaklarının daha verimli kullanılmasını sağlıyor.\n\nSizce bu tür optimizasyon yöntemleri, yapay zekanın yerel cihazlarda yaygınlaşmasını hızlandıracak mı?\n\nKaynak: Hugging Face Blog, TechCrunch",
+      "text": "Yapay zeka teknolojilerinde verimlilik odaklı yeni bir döneme giriyoruz. Qwen3.5-122B modeli, 48 MoE katmanı ve her katmanda 256 uzman barındıran mimarisiyle dikkat çekiyor. Ancak bu devasa yapının asıl başarısı, her token için sadece 8 uzmanı aktif kullanan seçici mimarisinde yatıyor.\n\nBununla birlikte, HOPE optimizasyon yöntemi, %50 budama oranında dahi agentic kodlama görevlerinde %6,1'lik bir performans artışı sağlayarak, büyük dil modellerinin daha verimli çalıştırılması konusunda önemli bir eşiği aşıyor. Bu gelişmeler, karmaşık yazılım süreçlerinde hız ve verimlilik arayan sektörler için kritik bir öneme sahip.\n\nSizce büyük dil modellerinin optimizasyonunda uzman seçimi mi yoksa budama teknikleri mi daha belirleyici bir rol oynayacak?\n\nKaynak: Hugging Face Blog, TechCrunch",
       "hashtags": [
         "YapayZeka",
         "AI",
-        "Verimlilik",
         "MachineLearning",
-        "Teknoloji"
+        "Teknoloji",
+        "Verimlilik"
       ]
     },
     "facebook": {
-      "text": "Yapay zeka modelleri artık daha az kaynakla daha çok iş yapabiliyor! HOPE yöntemi, büyük dil modellerinde (LLM) verimliliği artıran yeni bir yaklaşım sunuyor.\n\nQwen3.5 ve GLM-4.5-Air modelleri üzerinde başarıyla test edilen bu yöntem, uzmanlar arasındaki etkileşimleri optimize ederek %6,1'e varan performans artışı sağlıyor. Bu gelişme, modellerin karmaşık yazılım süreçlerindeki yetkinliğini güçlendiriyor.\n\nSizce modelleri budamak, gelecekte yapay zekayı yerel cihazlarda çalıştırmanın anahtarı mı? Düşüncelerinizi bekliyoruz.\n\nKaynak: Hugging Face Blog, TechCrunch",
+      "text": "Yapay zeka dünyasında heyecan verici gelişmeler! Qwen3.5-122B modeli ve HOPE optimizasyon yöntemi, büyük dil modellerinin çalışma mantığını kökten değiştiriyor. \n\nModel, 48 MoE katmanı ve her katmanda 256 uzman ile devasa bir kapasiteye sahip. HOPE yöntemi ise budama süreçlerinde %6,1'lik bir performans artışı sağlayarak, özellikle karmaşık kodlama görevlerinde fark yaratıyor. \n\nSizce devasa modellerde uzman seçimi mi yoksa budama yöntemleri mi daha kritik? Yorumlarınızı bekliyoruz.\n\nKaynak: Hugging Face Blog, TechCrunch",
       "hashtags": [
         "YapayZeka",
+        "Qwen35",
         "Teknoloji",
         "AI",
-        "Yazılım",
-        "Gelecek"
+        "Yazılım"
       ]
     }
   },
