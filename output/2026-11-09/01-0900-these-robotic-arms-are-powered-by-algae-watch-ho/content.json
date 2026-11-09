@@ -1,64 +1,69 @@
 {
   "cover": {
-    "category_label": "YENİ NESİL TEKNOLOJİ",
-    "title": "Alglerle Kaplı Yumuşak Robot Kol Geliştirildi",
+    "category_label": "YAPAY ZEKA VE ROBOTİK",
+    "title": "Alglerle Kaplı Yumuşak Robot Kol",
     "highlight_words": [
-      "Yumuşak Robot"
+      "Yumuşak",
+      "Robot"
     ],
     "highlight_color": "yellow",
-    "subtitle": "Delft University of Technology ekibinden doğadan ilham alan yeni bir çalışma.",
+    "subtitle": "Yüzeyinde algler yaşayan yenilikçi bir robot kol geliştirildi.",
     "source_tags": [
       "WIRED",
       "TECHCRUNCH"
     ]
   },
   "context": {
-    "heading": "Araştırmanın Temelleri",
+    "heading": "Araştırmanın Arka Planı",
     "cards": [
       {
-        "card_title": "Boyutlar ve Tasarım",
-        "card_body": "Küçük robot kolları yaklaşık üç çeyrek inç uzunluğundadır ve bir kredi kartı kalınlığındadır."
+        "card_title": "Delft Üniversitesi",
+        "card_body": "Hollanda'daki Delft University of Technology araştırma ekibi bu yenilikçi projeyi hayata geçirdi."
       },
       {
-        "card_title": "Malzeme Yapısı",
-        "card_body": "Robot kolları, yüzeyi alglerle kolonize edilmiş iki katmanlı hidrojenden inşa edilmiştir."
+        "card_title": "Marie-Eve Aubin-Tam",
+        "card_body": "Araştırma, ekip lideri Marie-Eve Aubin-Tam yöneterken gerçekleştirildi."
       }
     ]
   },
   "stat": {
     "big_stat": "4 KAT",
-    "stat_caption": "pH 11 koşullarında hidrojel katmanın ulaştığı ağırlık oranı",
-    "stat_quote": "Hidrojel katman asidik koşullarda orijinal ağırlığının yüzde 37'si kadardı ancak pH 11'de orijinal ağırlığının dört katına çıktı."
+    "stat_caption": "pH 11 seviyesinde hidrojel tabakasının ulaştığı ağırlık kat sayısı.",
+    "stat_quote": "pH 3 ve 7 arasındaki asidik koşullarda hidrojel orijinal ağırlığının yüzde 37'si kadardı, pH 11'de ise orijinal ağırlığının dört katına ulaştı."
   },
   "details": {
     "heading": "Teknik Detaylar",
     "cards": [
       {
-        "card_title": "Kimyasal Değişim Süresi",
-        "card_body": "Kimyasal değişim ışık uygulandıktan yaklaşık 20 saniye sonra ve karanlık olduktan yaklaşık 10 saniye sonra hızla başlar."
+        "card_title": "Boyutlar",
+        "card_body": "Minik robot kollar yaklaşık üç çeyrek inç uzunluğunda ve bir kredi kartı kalınlığındadır."
       },
       {
-        "card_title": "Dört Parmaklı Tutucu",
-        "card_body": "Araştırma ekibi, ışığa maruz kaldığında kapanan dört parmaklı bir tutucu inşa etmeyi başardı."
+        "card_title": "Yapı ve Malzeme",
+        "card_body": "Robot kollar, alg hücrelerinin üzerinde yaşadığı iki kat hidrojenden inşa edilmiştir."
+      },
+      {
+        "card_title": "Işık Tepkisi",
+        "card_body": "Kimyasal değişim ışık uygulandıktan yaklaşık 20 saniye, karanlık olduktan ise yaklaşık 10 saniye sonra başlar."
       }
     ]
   },
   "impact": {
-    "heading": "Olası Etkiler",
+    "heading": "Gelecek ve Uygulamalar",
     "cards": [
       {
-        "card_title": "Yumuşak Robotik",
-        "card_body": "Alglerle kolonize edilmiş yumuşak robot kollar, biyouyumlu malzeme alanında yeni yaklaşımlar sunuyor."
+        "card_title": "Dört Parmaklı Tutucu",
+        "card_body": "Araştırma ekibi ışığa maruz kaldığında kapanan dört parmaklı bir tutucu inşa etti."
       },
       {
-        "card_title": "Işık ve Kimya Tepkimesi",
-        "card_body": "Işık ve karanlık döngüsüyle tetiklenen hızlı kimyasal değişimler, kontrollü hareket kabiliyeti sağlıyor."
+        "card_title": "Nesne Kaldırma",
+        "card_body": "Geliştirilen tutucu, içi boş bir metal küreyi başarıyla kavrayıp kaldırdı."
       }
     ]
   },
   "cta": {
-    "question": "Doğadan ilham alan bu tarz yumuşak robotların gelecekte hangi alanlarda kullanılmasını bekliyorsunuz?",
-    "reminder_line": "Teknoloji dünyasındaki gelişmeler için Tekno Pusula'yı takipte kalın!"
+    "question": "Alglerle kaplı bu yumuşak robotların gelecekte hangi alanlarda kullanılabileceğini düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın!"
   },
   "tag_label_2": "BAĞLAM",
   "tag_label_3": "ÖNE ÇIKAN RAKAM",

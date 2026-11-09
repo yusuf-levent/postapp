@@ -2,36 +2,48 @@
 
 ## INSTAGRAM
 
-Doğadan ilham alan yeni nesil teknoloji: Alglerle kaplı yumuşak robot kol geliştirildi! Delft University of Technology ekibi, kredi kartı kalınlığındaki bu robotlarla biyouyumlu malzeme alanında çığır açıyor. Işık ve karanlık döngüsüyle kontrol edilen bu kollar geleceğin teknolojisini şekillendiriyor. Sizce bu robotlar hangi alanda kullanılmalı? Kaynak: Wired
+Yüzeyinde canlı algler yaşayan yenilikçi yumuşak robot kol geliştirildi! Delft Üniversitesi'nden Marie-Eve Aubin-Tam liderliğindeki ekip, minik hidrojel tabakalı robotlar tasarladı. Işığa duyarlı bu robot kollar, pH 11 seviyesinde ağırlığının dört katına ulaşabiliyor ve nesneleri başarıyla kaldırabiliyor. Sizce bu teknoloji gelecekte nerelerde kullanılacak? Kaynak: Wired, TechCrunch
 
-#Teknoloji #YumuşakRobot #Bilim #Inovasyon #Gelecek #Robotik #ArGe #Technology #SoftRobot #Science
+#YapayZeka #Robotik #Teknoloji #Inovasyon #Gelecek #Bilim #Wired #TechCrunch #AI #Robotics #FutureTech
 
 ## TIKTOK
 
-Alglerle kaplı yumuşak robot kol geliştirildi! Doğadan ilham alan bu teknoloji ışıkla kontrol ediliyor. Kaynak: TechCrunch
+Alglerle kaplı yumuşak robot kol üretildi! Işığa duyarlı bu minik robotlar ağırlığının 4 katına çıkabiliyor. Kaynak: Wired, TechCrunch
 
-#teknoloji #robot #bilim #gelecek #keşfet
+#teknoloji #robot #bilim #AI #future
 
 ## X
 
-Delft University of Technology ekibi, alglerle kaplı ve ışıkla kontrol edilebilen yumuşak robot kol geliştirdi. Doğadan ilham alan bu biyouyumlu teknoloji gelecekte robotik dünyasını değiştirebilir. Kaynak: Wired
+Delft Üniversitesi araştırmacıları, yüzeyinde canlı algler yaşayan ve ışığa tepki veren yumuşak robot kol geliştirdi. pH 11'de ağırlığının 4 katına ulaşabilen bu kollar nesneleri kaldırabiliyor. Kaynak: Wired, TechCrunch
 
 #Teknoloji #Robotik
 
 ## THREADS
 
-Alglerle Kaplı Yumuşak Robot Kol Geliştirildi! Delft University of Technology ekibi doğadan ilham alarak yeni bir çalışmaya imza attı. Işık ve karanlık döngüsüyle hareket eden bu kollar biyouyumlu malzeme alanında yeni yaklaşımlar sunuyor. Bu tarz robotların gelecekte hangi alanlarda kullanılmasını bekliyorsunuz? 💭 Kaynak: TechCrunch
+Alglerle Kaplı Yumuşak Robot Kol 🌿
+
+Delft Üniversitesi'nde geliştirilen yenilikçi robot kollar, yüzeyindeki algler ve hidrojel tabaka sayesinde ışığa duyarlı olarak çalışıyor ve nesneleri kaldırabiliyor.
+
+Sizce bu teknoloji hangi alanlarda devrim yaratır? 💭
+
+Kaynak: Wired, TechCrunch
 
 #Teknoloji
 
 ## LINKEDIN
 
-Delft University of Technology araştırmacıları, alglerle kolonize edilmiş hidrojenden oluşan yumuşak robot kollar geliştirerek biyouyumlu malzeme alanında önemli bir adım attı. Kredi kartı kalınlığındaki bu kollar, ışık ve karanlık döngüsüyle tetiklenen kimyasal değişimler sayesinde kontrollü hareket kabiliyeti sunuyor. Robotik ve malzeme bilimi açısından çığır açıcı bu gelişmenin endüstriyel yansımalarını yakından takip ediyoruz. Kaynak: Wired
+Yapay zeka ve robotik alanında sınırları zorlayan bir gelişme: Delft Üniversitesi'nden araştırmacılar, yüzeyinde canlı alg hücreleri barındıran yenilikçi yumuşak robot kolları tanıttı. Marie-Eve Aubin-Tam liderliğindeki ekip, ışığa duyarlı ve kimyasal değişimlere tepki verebilen bu hidrojel bazlı yapıların pH 11 seviyesinde orijinal ağırlığının dört katına ulaşabildiğini gözlemledi. Dört parmaklı tutucu tasarımıyla nesne kaldırma testlerini başarıyla geçen bu teknoloji, sürdürülebilir robotik uygulamaları için yeni kapılar aralıyor. Sektördeki bu tür biyolojik entegrasyonları nasıl değerlendiriyorsunuz?
 
-#Teknoloji #ArGe #İnovasyon #Robotik #Bilim
+Kaynak: Wired, TechCrunch
+
+#Robotik #YapayZeka #Inovasyon #ArGe #GeleceginTeknolojileri
 
 ## FACEBOOK
 
-Doğadan ilham alan harika bir teknoloji gelişmesi! Delft University of Technology ekibi, alglerle kaplı yumuşak robot kol geliştirdi. Işıkla kontrol edilebilen ve kredi kartı kalınlığındaki bu kollar biyouyumlu malzeme alanında yeni kapılar aralıyor. Sizce bu teknolojinin kullanım alanları neler olmalı? Kaynak: TechCrunch
+Yüzeyinde algler yaşayan yenilikçi yumuşak robot kol geliştirildi! Delft Üniversitesi'nde hayata geçirilen projede, ışığa duyarlı hidrojel tabakalı robotların ağırlığının 4 katına çıkabildiği ve nesneleri başarıyla kaldırabildiği kanıtlandı. 
 
-#Teknoloji #Bilim #Gelecek #Inovasyon
+Alglerle kaplı bu yumuşak robotların gelecekte hangi alanlarda kullanılabileceğini düşünüyorsunuz?
+
+Kaynak: Wired, TechCrunch
+
+#Teknoloji #Robotik #Bilim #Inovasyon #Gelecek
