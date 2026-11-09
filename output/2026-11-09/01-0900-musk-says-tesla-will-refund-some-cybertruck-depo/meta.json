@@ -1,0 +1,10 @@
+{
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 183.9,
+  "candidates_tried": 1,
+  "gemini_calls": 20,
+  "canonical_url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+  "generated_at": "2026-11-09T16:50:06+03:00"
+}

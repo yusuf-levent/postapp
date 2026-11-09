@@ -1,0 +1,277 @@
+{
+  "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
+  "canonical_url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+  "source_names": [
+    "TechCrunch",
+    "NVIDIA Newsroom",
+    "BBC News – Technology",
+    "Ars Technica"
+  ],
+  "checked_at": "2026-11-09T16:47:36+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Tesla, Cybertruck üretimini yaklaşık sekiz ay içinde durduracak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "Tesla will shut down production of the Cybertruck in about eight months Musk said in an X post on Monday."
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk, Tesla'nın Cybertruck için alınan birçok depozitoyu iade etmek zorunda kalacağını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "He also said the company will try to make as many of the vehicles as possible before then, though Tesla will “have to return deposits for a lot of people.”"
+        }
+      ]
+    },
+    {
+      "claim": "İlk Cybertruck teslimatları 2023 yılının sonlarında yapıldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "The first Cybertrucks were delivered to customers in late 2023"
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk, Cybertruck için 1 milyon rezervasyon yapıldığını açıklamıştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "Reservations for the vehicle had ballooned to 1 million, according to Musk"
+        }
+      ]
+    },
+    {
+      "claim": "Sektör uzmanları, Kasım 2023'teki ilk teslimatlardan bu yana yaklaşık 71.000 adet Cybertruck satıldığını tahmin ediyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "Tesla doesn’t break out sales of the Cybertrucks, but industry experts estimate a total of about 71,000 Cybertrucks have been sold since the first deliveries began in November 2023."
+        }
+      ]
+    },
+    {
+      "claim": "SpaceX, 2025 yılında Tesla'dan 131 milyon dolar değerinde Cybertruck satın aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "For instance, SpaceX (now known as SpaceXSI), which he also leads and is the largest shareholder of, purchased $131 million worth of Cybertrucks from Tesla in 2025, according to the company’s S-1 registration statement ahead of its IPO."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "For instance, SpaceX (now known as SpaceXSI), which he also leads and is the largest shareholder of, purchased $131 million worth of Cybertrucks from Tesla in 2025"
+        }
+      ]
+    },
+    {
+      "claim": "xAI şirketi, SpaceX ile birleşmeden önce Tesla'dan 430 milyon dolar değerinde Megapack satın aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "Another Musk company, xAI, also bought $430 million worth of Tesla Megapacks for its data centers, before it merged with SpaceX."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla, Cybertruck üretim hattını iki kişilik Cybercab araçlarının üretimi için kullanmayı planlıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "Musk said last week that Tesla plans to use the factory space to build more two-seater Cybercabs."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Tesla, Cybertruck üretimini yaklaşık sekiz ay içinde durduracak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "Tesla will shut down production of the Cybertruck in about eight months Musk said in an X post on Monday."
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk, Tesla'nın Cybertruck için alınan birçok depozitoyu iade etmek zorunda kalacağını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "He also said the company will try to make as many of the vehicles as possible before then, though Tesla will “have to return deposits for a lot of people.”"
+        }
+      ]
+    },
+    {
+      "claim": "İlk Cybertruck teslimatları 2023 yılının sonlarında yapıldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "The first Cybertrucks were delivered to customers in late 2023"
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk, Cybertruck için 1 milyon rezervasyon yapıldığını açıklamıştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "Reservations for the vehicle had ballooned to 1 million, according to Musk"
+        }
+      ]
+    },
+    {
+      "claim": "Sektör uzmanları, Kasım 2023'teki ilk teslimatlardan bu yana yaklaşık 71.000 adet Cybertruck satıldığını tahmin ediyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "Tesla doesn’t break out sales of the Cybertrucks, but industry experts estimate a total of about 71,000 Cybertrucks have been sold since the first deliveries began in November 2023."
+        }
+      ]
+    },
+    {
+      "claim": "SpaceX, 2025 yılında Tesla'dan 131 milyon dolar değerinde Cybertruck satın aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "For instance, SpaceX (now known as SpaceXSI), which he also leads and is the largest shareholder of, purchased $131 million worth of Cybertrucks from Tesla in 2025, according to the company’s S-1 registration statement ahead of its IPO."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "For instance, SpaceX (now known as SpaceXSI), which he also leads and is the largest shareholder of, purchased $131 million worth of Cybertrucks from Tesla in 2025"
+        }
+      ]
+    },
+    {
+      "claim": "xAI şirketi, SpaceX ile birleşmeden önce Tesla'dan 430 milyon dolar değerinde Megapack satın aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "Another Musk company, xAI, also bought $430 million worth of Tesla Megapacks for its data centers, before it merged with SpaceX."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla, Cybertruck üretim hattını iki kişilik Cybercab araçlarının üretimi için kullanmayı planlıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "Musk said last week that Tesla plans to use the factory space to build more two-seater Cybercabs."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Tesla, Cybertruck üretimini yaklaşık sekiz ay içinde durduracak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "Tesla will shut down production of the Cybertruck in about eight months Musk said in an X post on Monday."
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk, Tesla'nın Cybertruck için alınan birçok depozitoyu iade etmek zorunda kalacağını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "He also said the company will try to make as many of the vehicles as possible before then, though Tesla will “have to return deposits for a lot of people.”"
+        }
+      ]
+    },
+    {
+      "claim": "İlk Cybertruck teslimatları 2023 yılının sonlarında yapıldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "The first Cybertrucks were delivered to customers in late 2023"
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk, Cybertruck için 1 milyon rezervasyon yapıldığını açıklamıştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "Reservations for the vehicle had ballooned to 1 million, according to Musk"
+        }
+      ]
+    },
+    {
+      "claim": "Sektör uzmanları, Kasım 2023'teki ilk teslimatlardan bu yana yaklaşık 71.000 adet Cybertruck satıldığını tahmin ediyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "Tesla doesn’t break out sales of the Cybertrucks, but industry experts estimate a total of about 71,000 Cybertrucks have been sold since the first deliveries began in November 2023."
+        }
+      ]
+    },
+    {
+      "claim": "SpaceX, 2025 yılında Tesla'dan 131 milyon dolar değerinde Cybertruck satın aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "For instance, SpaceX (now known as SpaceXSI), which he also leads and is the largest shareholder of, purchased $131 million worth of Cybertrucks from Tesla in 2025, according to the company’s S-1 registration statement ahead of its IPO."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "For instance, SpaceX (now known as SpaceXSI), which he also leads and is the largest shareholder of, purchased $131 million worth of Cybertrucks from Tesla in 2025"
+        }
+      ]
+    },
+    {
+      "claim": "xAI şirketi, SpaceX ile birleşmeden önce Tesla'dan 430 milyon dolar değerinde Megapack satın aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "Another Musk company, xAI, also bought $430 million worth of Tesla Megapacks for its data centers, before it merged with SpaceX."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla, Cybertruck üretim hattını iki kişilik Cybercab araçlarının üretimi için kullanmayı planlıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+          "quote": "Musk said last week that Tesla plans to use the factory space to build more two-seater Cybercabs."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/": 2135,
+    "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/": 910,
+    "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss": 3125,
+    "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/": 1261
+  }
+}
