@@ -4,6 +4,7 @@ from __future__ import annotations
 import logging
 
 from app.config import sources_config
+from app.common import source_identity
 from app.llm import prompts
 from app.llm.gemini import GeminiClient
 from app.models import Candidate, Claim, ClaimList, CrosscheckInfo
@@ -100,7 +101,7 @@ def corroborating_from_rss(
 
     out: list[dict[str, str]] = []
     seen_domains: set[str] = set()
-    sel_domain = selected.url.split("/")[2] if "//" in selected.url else ""
+    sel_domain = source_identity(selected.url)
     if sel_domain:
         seen_domains.add(sel_domain)
 
@@ -109,7 +110,7 @@ def corroborating_from_rss(
     for cand in all_candidates:
         if cand.url == selected.url:
             continue
-        domain = cand.url.split("/")[2] if "//" in cand.url else ""
+        domain = source_identity(cand.url)
         if domain in seen_domains:
             continue
         sim = title_similarity(cand.title, selected.title)

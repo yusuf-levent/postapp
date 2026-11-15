@@ -28,3 +28,10 @@ def test_unparseable_visual_qa_cannot_pass():
 def test_a_quote_from_a_different_url_is_not_evidence():
     item = ClaimVerification(claim="a", verdict="supported", evidence=[Evidence(url="https://wrong.com", quote="exact text")])
     assert validate_evidence([item], [item], {"https://right.com":"exact text"})[0].verdict == "not_found"
+
+
+def test_same_publisher_aliases_are_not_independent_sources():
+    from app.common import source_identity
+    assert source_identity("https://blog.google/story") == source_identity("https://deepmind.google/blog/story")
+    assert source_identity("https://www.bbc.com/news/1") == source_identity("https://news.bbc.co.uk/2")
+    assert source_identity("https://blogs.microsoft.com/1") == source_identity("https://microsoft.com/2")

@@ -16,7 +16,7 @@ from pathlib import Path
 from app.collect.article import enrich_candidate
 from app.collect.dates import nearest_slot, slot_type, today_label, within_lookback
 from app.collect.rss import collect_all
-from app.common import now_istanbul, slugify, turkish_upper
+from app.common import now_istanbul, slugify, turkish_upper, source_identity
 from app.config import OUTPUT_DIR, platforms_config, schedule_config, settings
 from app.llm.gemini import GeminiClient
 from app.media.collector import collect_images, make_abstract_background
@@ -656,11 +656,7 @@ def _verify_candidate(
     has_official = any(
         any(d in candidate.url.lower() for d in official_domains) for _ in [0]
     ) or any(any(d in u.lower() for d in official_domains) for u in cross_urls)
-    from urllib.parse import urlsplit
-    independent_sources = len({
-        (urlsplit(u).hostname or "").lower().removeprefix("www.")
-        for u in source_texts
-    })
+    independent_sources = len({source_identity(u) for u in source_texts})
 
     if has_official:
         if independent_sources < 2:
@@ -686,8 +682,7 @@ def _verify_candidate(
         log.info("Karar: RED — %s", reason)
         return None
 
-    main_domains = {(urlsplit(ev.url).hostname or "").lower().removeprefix("www.")
-                    for ev in final[0].evidence}
+    main_domains = {source_identity(ev.url) for ev in final[0].evidence}
     if len(main_domains) < sched_min_sources():
         log.info("Ana iddia iki ayrı kaynakta kanıtlanamadı; aday reddedildi.")
         return None

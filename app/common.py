@@ -34,6 +34,23 @@ def now_istanbul() -> datetime:
     return datetime.now(ISTANBUL)
 
 
+def source_identity(url: str) -> str:
+    """Subdomains and known aliases must not count as independent sources."""
+    from urllib.parse import urlsplit
+
+    host = (urlsplit(url).hostname or "").lower().removeprefix("www.")
+    groups = {
+        "google": ("google.com", "blog.google", "deepmind.google"),
+        "meta": ("meta.com", "fb.com", "facebook.com"),
+        "bbc": ("bbc.com", "bbc.co.uk", "bbci.co.uk"),
+    }
+    for group, domains in groups.items():
+        if any(host == d or host.endswith("." + d) for d in domains):
+            return group
+    labels = host.split(".")
+    return ".".join(labels[-2:])
+
+
 def istanbul_day(offset_days: int = 0) -> datetime:
     """Europe/Istanbul'a göre bugün (offset ile geriye/ileriye)."""
     base = now_istanbul().replace(hour=0, minute=0, second=0, microsecond=0)
