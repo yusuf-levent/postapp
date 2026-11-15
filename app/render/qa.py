@@ -42,6 +42,9 @@ def run_qa(
                 "\nAyrıca ciddi BİLGİ HATALARINI denetle. Aşağıdaki doğrulanmış iddialar dışında yeni bir "
                 "olgu, rakam, isim, tarih veya sonuç eklenmişse, haberle çelişen görsel kullanılmışsa, "
                 "kaynakta olmayan alıntı veya kesinlik varsa fail ver. Bu içerik kontrolü görsel stil toleransından bağımsızdır.\n"
+                "Referanstaki doğrulanmış iddia ve birebir kaynak kanıtını otorite kabul et; genel dünya bilgisiyle tersini iddia etme. "
+                "Aynı haberde ayrı bileşenlerin (ör. üst kademe ve güçlendirici) farklı sonuçları olabilir. "
+                "Bir bileşenin başarısını diğerine atayan yeni bir düzeltme önerme.\n"
                 "DOĞRULANMIŞ İDDİALAR:\n" + "\n".join(verified_claims)
                 + "\nPLATFORM AÇIKLAMALARI:\n" + captions_json
             )

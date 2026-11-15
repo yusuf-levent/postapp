@@ -261,23 +261,32 @@ def run(
     # 11) Render (fontlar önce hazır olsun)
     fonts_dir = ensure_fonts()
     deck["logo_svg"] = logo_svg
-    render_inputs = []
-    for i in range(1, 7):
-        d = dict(deck)
-        d["bg_image"] = _to_file_url(deck_bg[i - 1])
-        render_inputs.append(d)
-    # render_deck tek deck bekler; slayt bazlı bg için özel render
-    rendered = _render_with_backgrounds(render_inputs, post_dir, fonts_dir)
-
     # Reserve required text/vision calls before optional video searches.
-    content_summary = json.dumps(deck, ensure_ascii=False)[:6000]
-    captions = generate_captions(llm, content_summary, source_names)
-    qa_ok, qa_issues = run_qa(llm, rendered["slides"],
-                             verified_claims=[v.claim for v in verified_claims],
-                             captions_json=captions.model_dump_json())
-    if not qa_ok:
-        (post_dir / "qa_issues.json").write_text(json.dumps(qa_issues, ensure_ascii=False), encoding="utf-8")
-        raise RuntimeError(f"Görsel/içerik kalite kontrolü geçmedi: {qa_issues}")
+    reference_claims = [f"{v.claim}\n" + "\n".join(f"Kaynak ({e.url}): {e.quote}" for e in v.evidence)
+                        for v in verified_claims]
+    for qa_attempt in range(2):
+        (post_dir / "content.json").write_text(json.dumps(deck, ensure_ascii=False, indent=2), encoding="utf-8")
+        render_inputs = []
+        for i in range(1, 7):
+            d = dict(deck)
+            d["bg_image"] = _to_file_url(deck_bg[i - 1])
+            render_inputs.append(d)
+        rendered = _render_with_backgrounds(render_inputs, post_dir, fonts_dir)
+        captions = generate_captions(llm, json.dumps(deck, ensure_ascii=False)[:6000], source_names)
+        qa_ok, qa_issues = run_qa(llm, rendered["slides"], verified_claims=reference_claims,
+                                 captions_json=captions.model_dump_json())
+        if qa_ok:
+            break
+        (post_dir / f"qa_issues-{qa_attempt + 1}.json").write_text(
+            json.dumps(qa_issues, ensure_ascii=False, indent=2), encoding="utf-8")
+        if qa_attempt or any("servisine erişilemedi" in str(i.get("problem", "")) for i in qa_issues):
+            raise RuntimeError(f"Görsel/içerik kalite kontrolü geçmedi: {qa_issues}")
+        feedback = "\n".join(str(i.get("problem", "")) for i in qa_issues)
+        if ptype == "edu":
+            deck = _edu_deck_to_dict(generate_edu_deck(llm, "\n".join(reference_claims), source_names, feedback=feedback))
+        else:
+            deck = _slide_deck_to_dict(generate_slides(llm, verified_claims, source_names, feedback=feedback), source_names)
+        deck["logo_svg"] = logo_svg
 
     # 11b) Reels & TikTok için gerçek video topla + 9:16 video (reel.mp4) üret
     reel_path: Path | None = None
