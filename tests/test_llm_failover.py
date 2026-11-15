@@ -43,6 +43,25 @@ def test_all_daily_quotas_stop_without_repeated_requests(monkeypatch):
     assert sum(c.models.generate_content.call_count for c in clients) == 4
 
 
+def test_last_available_model_recovers_from_a_transient_503(monkeypatch):
+    llm, clients = client(monkeypatch)
+    from app.llm import gemini
+    monkeypatch.setattr(gemini.time, "sleep", lambda seconds: None)
+    clients[0].models.generate_content.side_effect = quota_error()
+    attempts = []
+    def generate(**kwargs):
+        attempts.append(kwargs["model"])
+        if kwargs["model"] == "gemini-3.5-flash-lite":
+            raise quota_error()
+        if attempts.count("gemini-3.1-flash-lite") == 1:
+            raise errors.ServerError(503, {"error":{"code":503,"message":"Service unavailable"}})
+        return SimpleNamespace(text="ok")
+    clients[1].models.generate_content.side_effect = generate
+    assert llm.generate_text("test") == "ok"
+    assert attempts.count("gemini-3.5-flash-lite") == 1
+    assert attempts.count("gemini-3.1-flash-lite") == 2
+
+
 @responses.activate
 def test_optional_text_provider_validates_schema(monkeypatch):
     monkeypatch.setenv("TEXT_FALLBACK_API_KEY", "test-text-key")

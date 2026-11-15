@@ -841,7 +841,7 @@ def _edu_deck_to_dict(deck) -> dict:
 
 
 def _assign_backgrounds(paths: list[str]) -> list[str]:
-    """6 slayt için arka plan atar; aynı görsel iki kez kullanılmaz (6 slaytta)."""
+    """Doğrulanmış görselleri slaytlara dağıtır."""
     if not paths:
         return [""] * 6
     out = []

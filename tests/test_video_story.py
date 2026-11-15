@@ -35,3 +35,22 @@ def test_same_publisher_aliases_are_not_independent_sources():
     assert source_identity("https://blog.google/story") == source_identity("https://deepmind.google/blog/story")
     assert source_identity("https://www.bbc.com/news/1") == source_identity("https://news.bbc.co.uk/2")
     assert source_identity("https://blogs.microsoft.com/1") == source_identity("https://microsoft.com/2")
+
+
+def test_event_image_is_preferred_to_an_incidental_ceo_portrait(tmp_path, monkeypatch):
+    from unittest.mock import Mock
+    from app.media import collector
+    from app.models import Candidate, ImageCandidate
+    event = ImageCandidate(source="ogimage", url="https://example.com/rocket.png")
+    monkeypatch.setattr(collector.ogimage, "og_image", lambda *a, **kw: event)
+    def accept(llm, image, candidate, directory, width, selected):
+        selected.append(image)
+        return True
+    monkeypatch.setattr(collector, "_accept_and_save", accept)
+    portrait, stock = Mock(), Mock()
+    monkeypatch.setattr(collector.wikimedia, "person_image", portrait)
+    monkeypatch.setattr(collector.pexels, "search_images", stock)
+    result = collector.collect_images(Mock(), Candidate(title="SpaceX catches Starship", url="u"), ["Elon Musk"], tmp_path)
+    assert result == [event]
+    portrait.assert_not_called()
+    stock.assert_not_called()

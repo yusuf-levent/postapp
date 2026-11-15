@@ -74,10 +74,11 @@ class GeminiClient:
         self._last_call = time.monotonic()
 
     def _call_with_fallback(
-        self, fn: Callable[[str], Any], *, label: str, _allow_wait: bool = True
+        self, fn: Callable[[str], Any], *, label: str, _allow_wait: bool = True, _transient_round: int = 0
     ) -> Any:
         """fn(model_name) çağrısını 429/404/5xx hatasında model havuzundaki sıradaki modelle tekrarlar."""
         last_exc: Exception | None = None
+        transient_seen = False
         for key_index, client in enumerate(self._clients):
             if key_index in self._disabled_keys:
                 continue
@@ -98,6 +99,7 @@ class GeminiClient:
                         break
                     if status not in RETRYABLE_STATUS:
                         raise LLMError(f"{label}: Gemini yapılandırma/istek hatası (HTTP {status}).") from exc
+                    transient_seen = transient_seen or status >= 500
                     message = str(exc).lower()
                     if status == 404 or (status == 429 and any(
                         marker in message for marker in ("perday", "per_day", "daily", "limit: 0", "limit:0")
@@ -111,12 +113,17 @@ class GeminiClient:
                                 label, key_index + 1, model_name, status)
                 except (TimeoutError, ConnectionError) as exc:
                     last_exc = exc
+                    transient_seen = True
         waits = [deadline - time.monotonic() for (key, model), deadline in self._cooldowns.items()
                  if key not in self._disabled_keys and (key, model) not in self._exhausted_models
                  and deadline > time.monotonic()]
         if _allow_wait and waits:
             time.sleep(max(0, min(waits)))
-            return self._call_with_fallback(fn, label=label, _allow_wait=False)
+            return self._call_with_fallback(fn, label=label, _allow_wait=False, _transient_round=_transient_round)
+        if transient_seen and _transient_round < 2:
+            time.sleep(2 * (_transient_round + 1))
+            return self._call_with_fallback(fn, label=label, _allow_wait=_allow_wait,
+                                            _transient_round=_transient_round + 1)
         # Exhausted pairs remain exhausted for this run. Never reset the pool
         # for every image/QA call and hammer a daily quota again.
         raise LLMError(f"{label}: kullanılabilir Gemini model/anahtarı kalmadı.") from last_exc

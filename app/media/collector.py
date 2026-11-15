@@ -37,21 +37,26 @@ def collect_images(
     images_dir.mkdir(parents=True, exist_ok=True)
     selected: list[ImageCandidate] = []
 
-    # 1. Gerçek kişiler (haberde CEO/araştırmacı vb. geçiyorsa)
+    # Prefer the actual event/product, not a CEO portrait mentioned in the text.
+    article_image = ogimage.og_image(candidate.url, min_width=min_width)
+    if article_image:
+        _accept_and_save(llm, article_image, candidate, images_dir, min_width, selected)
+
+    # A portrait is appropriate when the person is the headline's subject.
     for person in _person_entities(entities):
+        if person.casefold() not in candidate.title.casefold():
+            continue
         if len(selected) >= 3:
             break
         cand = wikimedia.person_image(person)
         if cand and _accept_and_save(llm, cand, candidate, images_dir, min_width, selected):
             log.info("Kişi görseli alındı: %s", person)
 
-    # 2. Ürün/olay görseli: makalenin og:image'i
-    if len(selected) < 3:
-        cand = ogimage.og_image(candidate.url, min_width=min_width)
-        if cand and _accept_and_save(llm, cand, candidate, images_dir, min_width, selected):
-            log.info("og:image alındı")
+    if selected:
+        _write_credits(post_dir, selected)
+        return selected
 
-    # 3. Pexels — Gemini'nin ürettiği İngilizce sorgularla
+    # Stock search is a fallback, not filler that spends extra vision quota.
     queries = _image_queries(llm, candidate)
     for query in queries:
         if len(selected) >= 3:

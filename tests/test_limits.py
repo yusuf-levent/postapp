@@ -75,3 +75,10 @@ def test_linkedin_limit_ok():
         facebook=Caption(text="a" * 100, hashtags=["ai"]),
     )
     assert _find_limit_violations(caps) == {}
+def test_threads_multibyte_trim_really_respects_byte_limit():
+    from app.models import Captions, Caption
+    from app.write.captions import _force_trim, _find_limit_violations
+    captions = Captions(**{p:Caption(text="ğ" * 500) for p in ("instagram","tiktok","x","threads","linkedin","facebook")})
+    result = _force_trim(captions, _find_limit_violations(captions))
+    assert len(result.threads.text.encode("utf-8")) <= 500
+    assert not _find_limit_violations(result)
