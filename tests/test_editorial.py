@@ -7,6 +7,7 @@ from app.models import Candidate, EditorialBatch, EditorialDecision, HistoryEntr
 from app.scheduling import due_slots
 from app.select.dedup import is_duplicate
 from app.select.editorial import annotate, rejection_reason, shortlist
+from app.select.editorial import canonical_entity
 from app.select.scoring import score_candidates
 
 
@@ -39,6 +40,8 @@ def test_brand_aliases_count_as_same_company():
                             entities=["Google"], primary_entity="Google", title_tr="Maps güncellendi")]
     c = annotate(Candidate(title="DeepMind releases a new reasoning system", url="u"))
     assert is_duplicate(c, [], today_posts=history)[0]
+    assert canonical_entity("Google DeepMind") == canonical_entity("Alphabet Inc.") == "google"
+    assert canonical_entity("Canon Inc.") == "canon"
 
 
 def test_editor_cannot_pass_unreviewed_or_low_importance_candidates():

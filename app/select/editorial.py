@@ -12,7 +12,7 @@ from app.models import Candidate, EditorialBatch, HistoryEntry
 log = logging.getLogger("tekno-pusula.editorial")
 
 BRANDS = {
-    "Google": ("google", "deepmind", "gemini"),
+    "Google": ("google", "deepmind", "gemini", "alphabet"),
     "OpenAI": ("openai", "chatgpt"),
     "Microsoft": ("microsoft", "copilot", "xbox"),
     "Apple": ("apple", "iphone", "ipad", "macbook", "watchos"),
@@ -46,7 +46,7 @@ TOPICS = (
 def canonical_entity(value: str) -> str:
     value = normalize_text(value)
     for brand, aliases in BRANDS.items():
-        if value in aliases or value == normalize_text(brand):
+        if any(re.search(r"\b" + re.escape(alias) + r"\b", value) for alias in aliases):
             return brand.casefold()
     return value
 
