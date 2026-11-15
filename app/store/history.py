@@ -11,6 +11,21 @@ from app.models import HistoryEntry
 log = logging.getLogger("tekno-pusula.history")
 
 HISTORY_FILE = DATA_DIR / "history.json"
+SKIPPED_FILE = DATA_DIR / "skipped_slots.json"
+
+
+def load_skipped_slots() -> list[dict]:
+    if not SKIPPED_FILE.exists():
+        return []
+    return json.loads(SKIPPED_FILE.read_text(encoding="utf-8"))
+
+
+def mark_slot_skipped(date: str, slot: str, reason: str) -> None:
+    entries = [e for e in load_skipped_slots() if e.get("date", "") >= date
+               and (e.get("date"), e.get("slot")) != (date, slot)]
+    entries.append({"date": date, "slot": slot, "reason": reason})
+    SKIPPED_FILE.parent.mkdir(parents=True, exist_ok=True)
+    SKIPPED_FILE.write_text(json.dumps(entries, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
 def load_history() -> list[HistoryEntry]:

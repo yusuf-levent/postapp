@@ -38,6 +38,25 @@ class CrosscheckInfo(BaseModel):
     event_type: str = ""
 
 
+class SearchQueries(BaseModel):
+    queries: list[str] = Field(default_factory=list, max_length=3)
+
+
+class EditorialDecision(BaseModel):
+    index: int
+    publishable: bool
+    importance: int = Field(ge=0, le=10)
+    education_value: int = Field(default=0, ge=0, le=10)
+    topic: Literal["ai", "software", "security", "chips", "robotics", "space", "consumer", "other"]
+    primary_entity: str = ""
+    event_key: str = ""
+    reason: str = ""
+
+
+class EditorialBatch(BaseModel):
+    items: list[EditorialDecision] = Field(default_factory=list)
+
+
 # -------------------------------------------------------------------- içerik
 class Card(BaseModel):
     card_title: str
@@ -172,6 +191,7 @@ class PlatformStatus(BaseModel):
     permalink: str = ""
     attempts: int = 0
     last_error: str = ""
+    remote_status: str = ""
 
     @field_validator("external_id", "permalink", "last_error", mode="before")
     @classmethod
@@ -194,6 +214,9 @@ class HistoryEntry(BaseModel):
     status_per_platform: list[PlatformStatus] = Field(default_factory=list)
     created_at: str = ""
     verified_claims_count: int = 0
+    topic: str = ""
+    primary_entity: str = ""
+    event_key: str = ""
 
 
 class Candidate(BaseModel):
@@ -210,3 +233,6 @@ class Candidate(BaseModel):
     embedding: list[float] = Field(default_factory=list)
     score: float = 0.0
     raw: dict[str, Any] = Field(default_factory=dict)
+    topic: str = ""
+    primary_entity: str = ""
+    event_key: str = ""

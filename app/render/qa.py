@@ -30,14 +30,25 @@ def run_qa(
     slide_paths: list[Path],
     *,
     max_retries: int = 1,
+    verified_claims: list[str] | None = None,
+    captions_json: str = "",
 ) -> tuple[bool, list[dict[str, str]]]:
     """6 PNG'yi Gemini'ye gönderip kalite kontrolü yapar."""
     paths = [str(p) for p in slide_paths]
     try:
-        answer = llm.analyze_images(QA_PROMPT, paths, label="qa")
+        prompt = QA_PROMPT
+        if verified_claims:
+            prompt += (
+                "\nAyrıca ciddi BİLGİ HATALARINI denetle. Aşağıdaki doğrulanmış iddialar dışında yeni bir "
+                "olgu, rakam, isim, tarih veya sonuç eklenmişse, haberle çelişen görsel kullanılmışsa, "
+                "kaynakta olmayan alıntı veya kesinlik varsa fail ver. Bu içerik kontrolü görsel stil toleransından bağımsızdır.\n"
+                "DOĞRULANMIŞ İDDİALAR:\n" + "\n".join(verified_claims)
+                + "\nPLATFORM AÇIKLAMALARI:\n" + captions_json
+            )
+        answer = llm.analyze_images(prompt, paths, label="qa")
     except Exception as exc:
         log.warning("QA çağrısı başarısız: %s", exc)
-        return True, []
+        return False, [{"slide": "?", "problem": "Görsel QA servisine erişilemedi", "fix": "yeniden dene"}]
 
     verdict, issues = _parse_qa(answer)
     if verdict == "pass":
@@ -58,7 +69,7 @@ def _parse_qa(answer: str) -> tuple[str, list[dict[str, str]]]:
     if m:
         try:
             data = json.loads(m.group(0))
-            verdict = str(data.get("verdict", "pass")).lower()
+            verdict = str(data.get("verdict", "fail")).lower()
             issues = data.get("issues", []) or []
             return verdict, issues
         except json.JSONDecodeError:
@@ -67,4 +78,4 @@ def _parse_qa(answer: str) -> tuple[str, list[dict[str, str]]]:
     lowered = answer.lower()
     if any(k in lowered for k in ("fail", "sorun", "hata", "taşma", "bozuk")):
         return "fail", [{"slide": "?", "problem": answer[:300], "fix": ""}]
-    return "pass", []
+    return "fail", [{"slide": "?", "problem": "QA yanıtı geçerli JSON değil", "fix": "yeniden dene"}]

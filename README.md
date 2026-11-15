@@ -1,264 +1,144 @@
 # Tekno Pusula 🧭
 
-**Tam otomatik, haber doğrulamalı, ücretsiz sosyal medya post sistemi.**
+Kaynakları kontrol edilen Türkçe teknoloji / yapay zekâ içeriği üretir; altı slayt ve uygun gerçek video varsa Reels/TikTok videosu hazırlar. GitHub Actions üzerinde çalışır.
 
-Bu sistem, GitHub Actions üzerinde **tamamen ücretsiz** çalışır. Bilgisayarınızın
-açık olmasına gerek yoktur. Günde **5 kez** teknoloji / yapay zeka içeriği üretir:
+## İçerik politikası
 
-1. Haberi güvenilir kaynaklardan toplar (RSS)
-2. **Çok aşamalı doğrulama** yapar — doğrulanamayan haber **asla yayınlanmaz**
-3. 6 slaytlık görsel üretir (1080×1350 + TikTok için 1080×1920)
-4. Platforma özel açıklamalar yazar
-5. 6 platformda paylaşır (Instagram, TikTok, X, Facebook, LinkedIn, Threads)
-6. Her şeyi repoda arşivler (kanıtlar, raporlar, istatistikler)
+- Öncelik: anlamlı AI gelişmeleri, yazılım, siber güvenlik, çipler, robotik ve uzay/bilim.
+- Aksesuar, indirim, küçük ürün varyantı, rutin ürün tanıtımı, inceleme özeti, dedikodu, siyaset/magazin ve kripto fiyatları haber seçiminin dışında tutulur.
+- Adaylar tek bir toplu editör değerlendirmesinden geçer. Önemi 7/10 altında veya somut okur faydası olmayan haber seçilmez. Karar ve gerekçesi `meta.json` içinde saklanır.
+- Aynı şirket günde en fazla 1, aynı konu en fazla 2, tüketici elektroniği en fazla 1 paylaşımda ana konu olur.
+- Şirket/konu bilgisi tekrar kontrolünden **önce** hazırlanır. Olay kimliği ve geçmiş başlıklar, farklı kaynakların aynı haberi yeniden paylaşmasını azaltır.
+- Haber metni iki tur kontrol edilir. Alıntı, belirtilen kaynak URL'sinin gerçek metninde bulunmalıdır. Ana iddia için en az iki ayrı kaynak alan adından kanıt gerekir.
+- Doğrulanmış haber bulunmazsa slot atlanır; boşluğu doldurmak için rastgele eğitim içeriği üretilmez. Atlanan slot, aynı gün tekrar tekrar denenmez.
+- 18:00 eğitim slotunda haberin uygulanabilir bir kavramı öğretmeye uygunluğu da değerlendirilir.
+- Son slayt metni sınır ve rakam kontrollerini, görseller de DOM/vision kalite kontrolünü geçmeden paylaşım başlamaz.
 
----
+Bu kontroller otomatik doğrulamadır; hatasız editörlük garantisi değildir.
 
-## 📋 İçindekiler
+## Zamanlama
 
-1. [Repoyu oluşturma](#1-repoyu-oluşturma)
-2. [GitHub ayarları](#2-github-ayarları)
-3. [Secrets tanımlama](#3-secrets-tanımlama)
-4. [Buffer profil ID'lerini bulma](#4-buffer-profil-idlerini-bulma)
-5. [İlk test (dry run)](#5-ilk-test-dry-run)
-6. [Canlıya alma](#6-canlıya-alma)
-7. [Sorun giderme](#7-sorun-giderme)
-8. [Bilinen kısıtlar](#8-bilinen-kısıtlar)
+Türkiye saatiyle 09:00, 12:00, 15:00, 18:00 (eğitim) ve 21:00 hedeflenir. Bunlar üst sınırdır; içerik kalitesi için beşinin de dolması zorlanmaz.
 
----
+GitHub cron her 15 dakikada kontrol eder. İstenirse mevcut harici tetikleyici aynı workflow'u daha sık çağırabilir. `cancel-in-progress: false` sayesinde yeni tetik, devam eden üretimi iptal etmez. Önizlemeler ayrı concurrency grubundadır.
 
-## 1. Repoyu oluşturma
+Bir çalışmada yalnızca tek güncel slot işlenir. 90 dakikadan eski kaçırılmış slotlar topluca yayımlanmaz; gelecek slot erken başlatılmaz. Slot yoksa ağır kurulum/üretim atlanır. Son 48 saatin bekleyen gönderileri ayrıca sorgulanır.
 
-1. GitHub'da **yeni bir depo** oluşturun.
-   - ⚠️ Depo **PUBLIC** olmalı (GitHub Actions'ın ücretsiz çalışması için zorunlu).
-   - İsim önerisi: `tekno-pusula`
-2. Bu klasördeki tüm dosyaları o depoya yükleyin.
+Ayarlar: [schedule.yaml](config/schedule.yaml), [publish.yml](.github/workflows/publish.yml).
 
-Yerel bilgisayarınızda git varsa:
+## AI modelleri ve yedekler
 
-```powershell
-cd tekno-pusula
-git init
-git add .
-git commit -m "Tekno Pusula: ilk kurulum"
-git branch -M main
-git remote add origin https://github.com/KULLANICI_ADINIZ/tekno-pusula.git
-git push -u origin main
-```
+Varsayılan:
+- Ana model: `gemini-3.5-flash-lite`.
+- Yedek model: `gemini-3.1-flash-lite`.
+- İsteğe bağlı ikinci Google anahtarı: `GEMINI_BACKUP_API_KEY`.
 
-## 2. GitHub ayarları
+Bu modeller yapılandırılmış metin ve görüntü değerlendirmesi için kullanılır. Otomatik havuz ücretli modellere veya görüntü değerlendiremeyen metin modellerine geçmez. Günlük kotası bitmiş model/anahtar aynı çalışma içinde tekrar tekrar çağrılmaz. Dakikalık limitte sınırlı bekleme uygulanır. Kullanılan modeller ve başarılı çağrı sayıları `meta.json → model_usage` içinde görülebilir.
 
-Depo sayfasında:
+**Google kotayı anahtar değil proje bazında uygular.** Aynı projeye ait iki anahtar bağımsız kapasite sağlamaz. Yedek, kendi kullanım şartları ve kotası olan yetkili bir projeye ait olmalıdır. Anahtarlar sohbete/koda yazılmaz.
 
-1. **Settings → Actions → General**
-2. **Workflow permissions** bölümü:
-   - ✅ **"Read and write permissions"** seçeneğini işaretleyin
-   - ✅ "Allow GitHub Actions to create and approve pull requests" işaretli olabilir
-3. **Save** butonuna basın.
+İsteğe bağlı ayrı metin sağlayıcısı:
 
-> Bu ayar olmadan workflow commit atamaz ve paylaşım durumlarını kaydedemez.
+| GitHub ayarı | Tür | Varsayılan / amaç |
+|---|---|---|
+| `TEXT_FALLBACK_API_KEY` | Secret | Sağlayıcının kendi API anahtarı |
+| `TEXT_FALLBACK_BASE_URL` | Variable | `https://api.groq.com/openai/v1` |
+| `TEXT_FALLBACK_MODEL` | Variable | `llama-3.3-70b-versatile` |
 
-## 3. Secrets tanımlama
+Google metin isteği başarısız olursa bu sağlayıcı denenir. JSON şeması yine doğrulanır. Bu yedek, görüntü veya Google Search değerlendirmesini taklit etmez; görsel kontrolü yapılamazsa kalite kapısı kapanır. Hesabın ücretsiz planını ve güncel kotalarını sağlayıcının panelinden kontrol et.
 
-**Settings → Secrets and variables → Actions → "New repository secret"** ile
-aşağıdaki secret'ları ekleyin. **Hiçbir anahtar koda yazılmaz, loglanmaz.**
+[FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi) ve [OmniRoute](https://github.com/diegosouzapw/OmniRoute), sağlayıcıları birleştiren yönlendiricilerdir; kendiliğinden sınırsız ücretsiz model sağlamaz. FreeLLMAPI kendisini kişisel deneme kullanımı için tanımlar. Bu proje ek bir yönlendirici sunucusuna bağlı değildir. Kendi kurduğun ve kullanmaya yetkili olduğun bir /v1 endpoint'i isteğe bağlı metin yedeğine bağlanabilir.
 
-| Secret | Nereden alınır | Zorunlu mu? |
-|--------|----------------|-------------|
-| `GEMINI_API_KEY` | [Google AI Studio](https://aistudio.google.com/apikey) — "Create API key" | ✅ Evet |
-| `PEXELS_API_KEY` | [Pexels API](https://www.pexels.com/api/) — ücretsiz kayıt | ✅ Evet |
-| `BUFFER_ACCESS_TOKEN_A` | Buffer → [Settings → API](https://publish.buffer.com/settings/api) | ✅ Evet |
-| `BUFFER_ACCESS_TOKEN_B` | Aynı sayfadan (ikinci anahtar) veya aynı anahtar | ✅ Evet |
-| `BUFFER_PROFILE_INSTAGRAM` | [Bölüm 4](#4-buffer-profil-idlerini-bulma) | ✅ Evet |
-| `BUFFER_PROFILE_TIKTOK` | [Bölüm 4](#4-buffer-profil-idlerini-bulma) | ✅ Evet |
-| `BUFFER_PROFILE_X` | [Bölüm 4](#4-buffer-profil-idlerini-bulma) | ✅ Evet |
-| `BUFFER_PROFILE_FACEBOOK` | [Bölüm 4](#4-buffer-profil-idlerini-bulma) | ✅ Evet |
-| `BUFFER_PROFILE_LINKEDIN` | [Bölüm 4](#4-buffer-profil-idlerini-bulma) | ✅ Evet |
-| `THREADS_ACCESS_TOKEN` | [Meta for Developers](https://developers.facebook.com/docs/threads/) — Threads API | ✅ Evet (Threads için) |
-| `THREADS_USER_ID` | Aynı yerden (Threads kullanıcı ID) | ✅ Evet (Threads için) |
-| `GH_PAT` | [GitHub → Settings → Developer settings → Personal access tokens](https://github.com/settings/tokens) — `repo` + `secrets` izinli | ✅ Evet (Threads token yenileme için) |
+Google Search grounding varsayılan kapalıdır: güncel Gemini 3 ücretsiz API katmanında kullanılabilir değildir. Çapraz kontrol RSS kaynaklarıyla yapılır. Ücretli araç kullanımını bilerek açmak istersen `GEMINI_ENABLE_GROUNDING=true` kullan.
 
-### Secret detayları
+Güncel sağlayıcı belgeleri:
+- [Google modelleri](https://ai.google.dev/gemini-api/docs/models)
+- [Google fiyatlandırması](https://ai.google.dev/gemini-api/docs/pricing)
+- [Google kota kuralları](https://ai.google.dev/gemini-api/docs/rate-limits)
+- [Groq modelleri](https://console.groq.com/docs/models), [Groq kotaları](https://console.groq.com/docs/rate-limits)
 
-- **GEMINI_API_KEY:** Ücretsiz katman yeterlidir. Model adı gerekirse
-  **Settings → Actions → Variables** kısmından `GEMINI_MODEL` değişkenini
-  ekleyin (varsayılan: `gemini-2.5-flash`).
-- **BUFFER_ACCESS_TOKEN_A / B:** Buffer'ın yeni GraphQL API'si tek bir API anahtarı
-  kullanır. İki hesabınız varsa iki ayrı anahtar; tek hesap için aynı anahtarı
-  iki yere de yazabilirsiniz.
-- **GH_PAT:** Threads token yenileme (60 günde bir) repo secret'ını güncellemek
-  için gerekir. `GITHUB_TOKEN` secret yazma iznine sahip **değildir**.
-  En az `repo` ve `secrets` izinlerini verin.
+Ücretsiz kotalar değişebilir; bu proje sabit bir günlük kapasite veya sınırsız ücretsiz kullanım vaat etmez.
 
-## 4. Buffer profil ID'lerini bulma
+## Video
 
-1. GitHub'da **Actions** sekmesine gidin.
-2. **"tools"** workflow'unu seçin.
-3. **"Run workflow"** butonuna basın.
-4. `tool` seçeneğinden **"list_buffer_profiles"** seçin → **Run workflow**.
-5. Birkaç dakika sonra işin log'larını açın. Tüm kanallarınız listelenir:
+- Öncelik haberin kendi videosu; ardından Wikimedia, Pexels, Pixabay ve NASA.
+- En fazla dört farklı video indirme adayı denenir. İndirilen gerçek dosyadan üç kare çıkarılır ve görüntüler birlikte değerlendirilir. Dosya adı/thumbnail tek başına yeterli değildir.
+- Çok kısa, düşük çözünürlüklü veya alakasız video reddedilir. Stok/arşiv görüntüsü videoda “Temsili görüntü” olarak işaretlenir.
+- 8–26 saniyelik 1080×1920 MP4: kısa giriş, sırayla gösterilen üç somut bilgi, kaynak ve ilerleme göstergesi. Kartların gerçek `card_title/card_body` alanları kullanılır.
+- Kaynak görüntünün konusu kırpılarak kaybedilmez; arka planda bulanık dolgu kullanılır. Yazılar sağdaki düğmelerden ve alttaki açıklama alanından uzak tutulur.
+- Orijinal ses varsa korunup seviyesi dengelenir; yoksa uygun lisanslı müzik aranır. Video çözünürlüğü/süresi encode sonrası tekrar ölçülür.
+- Uygun gerçek video yoksa karusel gönderilir. Slayt yakınlaştırması video diye paylaşılmaz.
 
-```
-- Tekno Pusula (instagram, hesap A)
-  channel_id: 1234567890abcdef
-  secret adı: BUFFER_PROFILE_INSTAGRAM
-```
+## Platformlar ve durum takibi
 
-6. Her `channel_id` değerini ilgili secret olarak ekleyin (Bölüm 3).
+Instagram, TikTok, X, Facebook, LinkedIn: Buffer GraphQL API. Threads: Threads Graph API.
 
-## 5. İlk test (dry run)
+`status.json` durumları:
+- `pending`: Henüz gönderilmedi.
+- `submitted`: İstek gönderildi veya Buffer kabul etti; yayına çıktığı henüz doğrulanmadı.
+- `published`: Buffer `sent` döndürdü veya Threads yayın kimliği alındı.
+- `failed`: Gönderim reddedildi ya da Buffer hata bildirdi.
 
-> **Önemli:** İlk testi `dry_run=true` ile yapın. Bu mod her şeyi üretir ve
-> commit eder ama **hiçbir platforma paylaşmaz**.
+Buffer ID'si bulunan gönderi tekrar oluşturulmaz; var olan ID sorgulanır. Sonucu belirsiz, ID'siz isteğin yeniden gönderimi de otomatik yapılmaz. Her platform isteğinden önce ve sonra durum günlüğü kaydedilir. Yarım kalan hazırlanmış içerik sonraki çalışmada sürdürülebilir. Medya GitHub'a yüklenememişse veya herkese açık URL'leri erişilemiyorsa paylaşım başlamaz.
 
-1. **Actions → "post" → Run workflow**
-2. `dry_run` = ✅ işaretleyin
-3. **Run workflow** deyin.
-4. İş bittiğinde depodaki `output/YYYY-MM-DD/...` klasörünü kontrol edin:
+Buffer'da `sent` görünmesine rağmen platformda yayın yoksa hesabın otomatik yayın / bildirimle yayın ayarlarını da kontrol et. [Buffer açıklaması](https://support.buffer.com/articles/scheduling-instagram-posts-reels-stories-and-notifications-3XA98S9Q5p).
 
-```
-output/2026-10-15/01-0900-ornek-baslik/
-├── slides/            slide-1.png ... slide-6.png   (1080×1350)
-├── slides_9x16/       slide-1.png ... slide-6.png   (1080×1920, TikTok)
-├── images/            indirilen görseller
-├── sources/           kaynak metin alıntıları (.txt)
-├── content.json       slayt metinleri
-├── captions.json      platform açıklamaları
-├── captions.md        okunabilir açıklamalar
-├── verification.md    doğrulama raporu (iddia-kanıt eşleşmesi)
-├── evidence.json      makine okunur doğrulama verisi
-├── credits.json       görsel lisans/kaynakları
-├── status.json        platform paylaşım durumları
-└── meta.json          slot, tip, model, süre vb.
-```
+## GitHub kurulumu
 
-**Kontrol edin:**
-- Slaytlarda taşmış/kesik yazı var mı? (yoksa iyi)
-- Türkçe karakterler doğru mu? ("İÇİN" yazmalı, "IÇIN" **yazmamalı**)
-- `verification.md` içinde her iddia ve kanıtı görünüyor mu?
-- `captions.md` içindeki açıklamalar mantıklı mı?
+Python 3.12 kullanılır. Depo public ise GitHub Actions ve raw medya URL'leri kullanılabilir. Actions → General → Workflow permissions altında içerik yazma izni gerekir.
 
-### Yerelde test (opsiyonel)
+Settings → Secrets and variables → Actions:
 
-Python 3.12+ kuruluysa:
+| Secret | Amaç |
+|---|---|
+| `GEMINI_API_KEY` | Ana Google API anahtarı |
+| `GEMINI_BACKUP_API_KEY` | İsteğe bağlı Google yedeği |
+| `PEXELS_API_KEY` | Pexels görsel/video |
+| `PIXABAY_API_KEY`, `NASA_API_KEY` | İsteğe bağlı video kaynakları |
+| `BUFFER_ACCESS_TOKEN_A`, `BUFFER_ACCESS_TOKEN_B` | Buffer hesapları |
+| `BUFFER_PROFILE_INSTAGRAM`, `BUFFER_PROFILE_TIKTOK`, `BUFFER_PROFILE_X`, `BUFFER_PROFILE_FACEBOOK`, `BUFFER_PROFILE_LINKEDIN` | Kanallar |
+| `THREADS_ACCESS_TOKEN`, `THREADS_USER_ID` | Threads |
+| `GH_PAT` | İsteğe bağlı: Threads token'ını repo secret'ında yenileme |
+| `TEXT_FALLBACK_API_KEY` | İsteğe bağlı metin sağlayıcısı |
 
-```powershell
+A/B eşleşmesi `config/platforms.yaml` içindedir. `tools → list_buffer_profiles` kanalları listeler. `tools → refresh_threads_token` token'ı yeniler. `GH_PAT` yoksa otomatik secret yenileme kullanılamaz; Threads token'ını süresi dolmadan panelden güncelle.
+
+Model adları `GEMINI_MODEL` / `GEMINI_FALLBACK_MODEL` Variables ile değiştirilebilir.
+
+## Önizleme
+
+Actions → **post** → Run workflow → `dry_run=true`.
+
+Bu mod içerik/görsel/video üretir; Buffer/Threads'e göndermez, Git'e commit/push yapmaz ve yayın geçmişini değiştirmez. Sonuçlar workflow'un **post-preview-…** artifact'ında 7 gün saklanır. Hata durumunda o ana kadar üretilmiş güncel tarih klasörü de artifact'a alınır.
+
+Canlı çalışma için `dry_run=false`. Üretim başlamadan mevcut kanal ve anahtar ayarlarını kontrol et.
+
+## Yerel geliştirme ve test
+
+```sh
+python3.12 -m venv .venv
+. .venv/bin/activate
 pip install -r requirements.txt
-python -m playwright install chromium
-python -m app.render.sample          # örnek post üretir (Gemini gerektirmez)
-python -m app.tools.preview output\_sample
-python -m pytest tests/ -v           # testler
+python -m playwright install --with-deps chromium
+# Sistem paket yöneticisiyle FFmpeg / ffprobe ve Noto fontlarını kur.
+python -m pytest tests/ -q
+python scripts/smoke_render.py
 ```
 
-## 6. Canlıya alma
+Smoke testi gerçek Chromium ile 12 PNG ve FFmpeg ile H.264/AAC MP4 üretir. API anahtarı veya sosyal medya bağlantısı gerektirmez. Çıktısı `output/_sample/` içindedir ve Git'e dahil edilmez. CI aynı smoke testini çalıştırır.
 
-1. Dry run sonucundan memnun kaldıysanız **Actions → "post" → Run workflow**
-2. `dry_run` **işaretli OLMAMALI** → **Run workflow**
-3. İlk paylaşım 5-10 dakika sürebilir.
-4. `status.json` dosyasında her platformun durumu görünür:
-   - `published` ✅ paylaşılıldı
-   - `failed` ❌ hata (aynı zamanda GitHub Issue açılır)
+Playwright ve Google SDK sürümleri sabitlenmiştir. Workflow, browser cache bulunsa bile kurulu Playwright'ın gerektirdiği Chromium sürümünün varlığını doğrular.
 
-Otomatik zamanlama zaten tanımlıdır:
-**Her gün 09:00, 12:00, 15:00, 18:00, 21:00** (Türkiye saati).
-18:00 slotu eğitim/bilgi postudur; diğerleri haberdir.
+## Dosyalar
 
-## 7. Sorun giderme
+- `app/main.py`: ana akış.
+- `app/select/`: editör filtresi, puanlama, tekrar ve çeşitlilik.
+- `app/verify/`: kaynak ve iddia kontrolü.
+- `app/llm/`: model/anahtar failover.
+- `app/media/`, `app/render/`: medya, slayt ve video.
+- `app/publish/`: API istemcileri, durum günlüğü ve kurtarma.
+- `config/`: kaynak, marka, takvim ve platform ayarları.
+- `data/history.json`: yayın geçmişi; `data/skipped_slots.json`: atlanan slotlar.
+- `output/TARİH/POST/`: içerik, açıklamalar, doğrulama, lisanslar, medya, metadata ve platform durumları.
 
-| Belirti | Çözüm |
-|---------|-------|
-| Workflow "Resource not accessible by integration" hatası | Bölüm 2'deki "Read and write permissions" ayarını yapın |
-| `GEMINI_API_KEY tanımlı değil` | Secret adını tam olarak `GEMINI_API_KEY` yapın |
-| `Buffer API anahtarı geçersiz (401)` | Buffer → Settings → API'den yeni anahtar alın, secret'ı güncelleyin |
-| `THREADS_ACCESS_TOKEN / THREADS_USER_ID tanımlı değil` | İki secret'ı da ekleyin; Threads kullanmıyorsanız boş bırakabilirsiniz (loglarda uyarı çıkar) |
-| `Slot atlandı` mesajı | O saatte doğrulanabilir haber bulunamadı — normal, bir sonraki slotta devam eder |
-| Slaytlarda taşmış yazı | Nadirdir; sistem otomatik küçültür. Tekrarlarsa `content.json`'daki metinleri kısaltıp tekrar çalıştırın |
-| Paylaşım `failed` | Depoda otomatik açılan issue'ya bakın. Çözüldüğünde sonraki başarılı paylaşım issue'yu otomatik kapatır |
-| Cron hiç çalışmıyor | GitHub, 60 gün hareketsiz depolarda cron'u kapatır. Bu sistem her gün commit attığı için kapanmaz; yine de Actions sekmesinden manuel çalıştırabilirsiniz |
-
-### ⏱️ Zamanlama gecikmelerini tamamen önleme (external cron — önerilen)
-
-GitHub Actions `schedule` yoğunlukta **saatlerce gecikebilir** (cron UTC'de
-planlanır ama GitHub koşuları erteleyip atlayabilir). Sistem bunu bir sonraki
-çalışmada telafi eder (catch-up), yani postlar kaybolmaz; sadece geç paylaşılır.
-Tam dakikasında paylaşım için harici bir tetikleyici kullanın:
-
-1. GitHub'da **Settings → Developer settings → Personal access tokens →
-   Fine-grained token** oluşturun.
-   - Repository access: yalnızca bu depo
-   - Permissions: `Actions` → **Read and write**, `Contents` → **Read and write**
-2. Ücretsiz bir cron servisine kaydolun: [cron-job.org](https://cron-job.org),
-   [EasyCron](https://www.easycron.com) veya benzeri.
-3. Şu ayarlarla bir görev oluşturun:
-   - **URL:** `https://api.github.com/repos/KULLANICI_ADINIZ/tekno-pusula/actions/workflows/publish.yml/dispatches`
-   - **Method:** `POST`
-   - **Headers:** `Authorization: Bearer <TOKEN>` ve `Accept: application/vnd.github+json`
-   - **Body:** `{"ref":"main","inputs":{"dry_run":"false","force_type":"auto"}}`
-   - **Sıklık:** her 5 dakikada bir
-4. Görevin çalıştığını [cron-job.org](https://cron-job.org) loglarından doğrulayın.
-
-Bu kurulum GitHub'ın kendi cron'unu tamamen devre dışı bırakır; kontrol sizde olur.
-`post` workflow'u idempotent olduğu için sık tetiklemek zararsızdır.
-| Threads "token süresi dolmuş" | **Actions → tools → refresh_threads_token** ile yenileyin (`force` işaretleyin) |
-
-## 8. Bilinen kısıtlar
-
-- **Reuters ve Anthropic'in halka açık RSS beslemesi yoktur** (2026-10 kontrolü:
-  Reuters 401/engelli, Anthropic 404). Bu iki kaynak doğrulama amacıyla
-  grounding üzerinden kullanılır; birincil kaynak listesinde yer almaz.
-- **Buffer Carousel/TikTok modu:** Buffer API'si çoklu görsel (`assets` listesi)
-  destekler; TikTok'a 9:16 varyantı gönderilir. Buffer'ın TikTok'ta tam video
-  desteğini sizin hesap ayarlarınız belirler. Görsel karusel her platformda
-  Buffer destekliyorsa gönderilir; desteklenmiyorsa ilk görsel kullanılır.
-- **X (Twitter) 4 görsel sınırı:** X tek tweette en fazla 4 görsel kabul eder.
-  5-6. görseller yanıt tweetine eklenir (thread). Buffer thread desteklemezse
-  yalnızca ilk 4 görsel paylaşılır.
-- **Threads karakter sayımı:** Threads'te emojiler UTF-8 byte olarak sayılır.
-  Kod bu sayımı uygular; 500 karakter sınırı aşılmaz.
-- **Ücretsiz API limitleri:** Gemini ücretsiz katmanında dakikada sınırlı istek
-  vardır. Sistem rate limiter + yedek model kullanır. Günde 5 post için yeterlidir;
-  aşarsa `GEMINI_FALLBACK_MODEL` devreye girer.
-- **Buffer rate limit:** Ücretsiz planda 15 dakikada 100, günde 250 istek.
-  Sistem bunu aşmaz (bir post ~5-8 API çağrısı yapar).
-- **60 günlük Threads token:** Long-lived token 60 gün geçerlidir. Sistem 40.
-  günde otomatik yeniler (GH_PAT gerekli). GitHub cron kapansa bile token
-  yenileme manuel yapılabilir.
-
----
-
-## 📁 Proje yapısı
-
-```
-tekno-pusula/
-├── .github/workflows/
-│   ├── post.yml            ana zamanlanmış iş
-│   ├── cleanup.yml         haftalık temizlik (eski görseller)
-│   ├── tools.yml           manuel yardımcılar (Buffer profil, token yenileme)
-│   └── test.yml            push'ta testler
-├── app/
-│   ├── main.py             orkestrasyon (CLI)
-│   ├── config.py           pydantic-settings + YAML
-│   ├── collect/            RSS, makale metni, tarih/slot
-│   ├── select/             puanlama, tekrar önleme
-│   ├── verify/             iddia çıkarımı, çapraz kaynak, doğrulama, rapor
-│   ├── write/              slayt metinleri, platform açıklamaları
-│   ├── media/              Wikimedia, Pexels, og:image, logolar
-│   ├── render/             HTML şablonları, Playwright render, taşma kontrolü, QA
-│   ├── publish/            Buffer (GraphQL), Threads (Graph API), retry
-│   ├── store/              history, git işlemleri, GitHub issues
-│   ├── llm/                Gemini istemcisi + prompt'lar
-│   └── tools/              yardımcı araçlar
-├── config/                 sources.yaml, platforms.yaml, schedule.yaml, brand.yaml
-├── data/                   history.json, token_state.json
-├── assets/fonts/           Google Fonts (yerel, indirilir)
-├── tests/                  pytest testleri
-└── output/                 üretilen postlar (commit edilir)
-```
-
-## 🛡️ Güvenlik
-
-- Hiçbir token/anahtar koda, loga veya commit'e yazılmaz. Hepsi GitHub Secrets'tan.
-- Loglarda secret değerleri maskelenir (`mask_secret`).
-- Görsel alıntıları kodla doğrulanır: kaynak metinde geçmeyen alıntı reddedilir.
-- `contradicted` tek bir iddia bile varsa haber yayınlanmaz.
-- 2 bağımsız kaynak doğrulaması olmadan haber yayınlanmaz.
+Haftalık cleanup 30 günden eski indirilen `images/` klasörlerini temizler. Slaytlar ve kanıtlar kalır.

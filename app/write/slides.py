@@ -55,7 +55,8 @@ def generate_slides(
         violations = _check_limits(deck)
         if violations:
             deck = _shorten(llm, deck, violations)
-
+    if _check_limits(deck) or not _content_only_uses_verified(deck, verifications):
+        raise ContentValidationError("Slayt, kısaltma/yenileme sonrası doğrulanmış bilgi sınırını geçemedi.")
     return deck
 
 

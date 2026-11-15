@@ -1,546 +1,177 @@
-"""9:16 Reels & TikTok video üretici (1080×1920 MP4).
-
-Üst pencerede internetten indirilen gerçek ve doğrulanmış video kendi doğal akışıyla oynar,
-alt kısımda ise haberin başlığı + somut bilgi maddeleri (rakamlar, gerçek detaylar) yer alır.
-Video bulunamazsa veya doğrulanamazsa None döner ve sistem otomatik olarak
-Instagram/TikTok'a 6'lı görsel slayt paylaşır.
-"""
+"""Real footage with timed, readable news captions for Reels and TikTok."""
 from __future__ import annotations
 
 import asyncio
-import html as _html
+import base64
+import html
+import json
 import logging
-import re
 import shutil
 import subprocess
+from dataclasses import asdict, dataclass
 from pathlib import Path
 from typing import Any
 
 from app.config import brand_config
-from app.render.renderer import render_slide_html
+from app.media.video_probe import probe_video
 
 log = logging.getLogger("tekno-pusula.video_renderer")
-
 MIN_REEL_DURATION = 8.0
-MAX_REEL_DURATION = 45.0
-DEFAULT_REEL_DURATION = 15.0
+MAX_REEL_DURATION = 26.0
 
 
-def render_reel_video(
-    deck: dict[str, Any],
-    source_video: Path,
-    post_dir: Path,
-    *,
-    fonts_dir: Path | None = None,
-    music_info: dict[str, Any] | None = None,
-) -> Path | None:
-    """Gerçek video + alt kısımda somut haber özeti/maddeleri + müzik ile 1080×1920 MP4 üretir.
-
-    Ses mantığı (hibrit):
-    - Orijinal videoda ses akışı VARSA → %100 orijinal ses kullanılır (müzik eklenmez)
-    - Orijinal videoda ses YOKSA → music_info ile gelen telifsiz müzik kullanılır
-    - Müzik de yoksa → sessiz video (sessiz Reels normaldir, kullanıcı kendi müziğini ekler)
-    """
-    if not source_video or not source_video.exists():
-        log.warning("Kaynak video bulunamadı, Reels/TikTok videosu üretilmiyor (6'lı slayt paylaşılacak).")
-        return None
-    if not shutil.which("ffmpeg"):
-        log.warning("Sistemde ffmpeg kurulu değil, Reels/TikTok videosu üretilmiyor (6'lı slayt paylaşılacak).")
-        source_video.unlink(missing_ok=True)
-        return None
-
-    video_dir = post_dir / "video"
-    video_dir.mkdir(parents=True, exist_ok=True)
-    overlay_png = video_dir / "overlay.png"
-    out_mp4 = video_dir / "reel.mp4"
-
-    try:
-        asyncio.run(_render_single_overlay(deck, overlay_png, fonts_dir=fonts_dir))
-    except Exception as exc:
-        log.warning("Video tekli yazı katmanı render hatası: %s", exc)
-        overlay_png.unlink(missing_ok=True)
-        source_video.unlink(missing_ok=True)
-        return None
-
-    natural_dur = _get_video_duration(source_video)
-    target_duration = max(MIN_REEL_DURATION, min(MAX_REEL_DURATION, natural_dur))
-
-    has_audio = _video_has_audio(source_video)
-
-    # Ses mantığı: orijinal ses varsa %100 kullan, yoksa telifsiz müzik, o da yoksa sessiz
-    music_wav = None
-    if not has_audio and music_info and music_info.get("path"):
-        music_path = Path(music_info["path"])
-        if music_path.exists():
-            music_wav = video_dir / "music.wav"
-            # Müziği video süresine göre loop + kırp
-            mcmd = [
-                "ffmpeg", "-y",
-                "-stream_loop", "-1",
-                "-t", f"{target_duration:.2f}",
-                "-i", str(music_path.resolve()),
-                "-ac", "2", "-ar", "44100",
-                "-b:a", "128k",
-                str(music_wav.resolve()),
-            ]
-            mp = subprocess.run(mcmd, capture_output=True, text=True, timeout=60)
-            if mp.returncode != 0:
-                log.warning("Müzik dönüştürme başarısız: %s", mp.stderr[-300:])
-                music_wav.unlink(missing_ok=True)
-                music_wav = None
-
-    filter_complex = (
-        "[0:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,"
-        "boxblur=24:2,eq=brightness=-0.45[bg];"
-        "[0:v]scale=1080:940:force_original_aspect_ratio=increase,crop=1080:940[topvid];"
-        "[bg][topvid]overlay=0:0[base];"
-        "[base][1:v]overlay=0:0:format=auto,format=yuv420p[vout]"
-    )
-
-    if has_audio:
-        # Orijinal ses %100 kullanılır (müzik eklenmez)
-        audio_filter = ";[0:a]aresample=44100[aout]"
-        full_filter = filter_complex + audio_filter
-        audio_map = "[aout]"
-    elif music_wav:
-        # Müzik %100 (orijinal ses yoksa)
-        audio_filter = ";[2:a]aresample=44100,volume=0.85[aout]"
-        full_filter = filter_complex + audio_filter
-        audio_map = "[aout]"
-    else:
-        # Sessiz video (kullanıcı kendi müziğini ekler)
-        full_filter = filter_complex
-        audio_map = "2:a"
-
-    cmd = [
-        "ffmpeg",
-        "-y",
-        "-stream_loop", "-1",
-        "-t", f"{target_duration:.2f}",
-        "-i", str(source_video.resolve()),
-        "-loop", "1",
-        "-t", f"{target_duration:.2f}",
-        "-i", str(overlay_png.resolve()),
-    ]
-    if music_wav:
-        cmd += ["-i", str(music_wav.resolve())]
-
-    if music_wav and not has_audio:
-        # Sessiz video + müzik ekle
-        cmd += ["-shortest"]
-        audio_map = "[aout]"
-        output_codec = ["-c:a", "aac", "-b:a", "128k"]
-    elif has_audio:
-        # Orijinal ses kullan
-        output_codec = ["-c:a", "aac", "-b:a", "128k"]
-    else:
-        # Tamamen sessiz (audio stream yok)
-        audio_map = ""
-        output_codec = []
-
-    cmd += [
-        "-filter_complex", full_filter,
-        "-map", "[vout]",
-    ]
-    if audio_map:
-        cmd += ["-map", audio_map]
-    cmd += [
-        "-t", f"{target_duration:.2f}",
-        "-r", "30",
-        "-c:v", "libx264",
-        "-preset", "fast",
-        "-crf", "23",
-        "-pix_fmt", "yuv420p",
-    ]
-    cmd += output_codec
-    cmd += [
-        "-movflags", "+faststart",
-        str(out_mp4.resolve()),
-    ]
-
-    proc = subprocess.run(cmd, capture_output=True, text=True, timeout=180)
-    overlay_png.unlink(missing_ok=True)
-    if music_wav:
-        music_wav.unlink(missing_ok=True)
-    source_video.unlink(missing_ok=True)
-
-    if proc.returncode != 0 or not out_mp4.exists() or out_mp4.stat().st_size < 50_000:
-        log.warning("FFmpeg video üretimi başarısız (rc=%s): %s", proc.returncode, proc.stderr[-500:])
-        out_mp4.unlink(missing_ok=True)
-        return None
-
-    log.info(
-        "Reels/TikTok videosu üretildi: %s (%.1f sn, %.1f MB)",
-        out_mp4.name,
-        target_duration,
-        out_mp4.stat().st_size / (1024 * 1024),
-    )
-    return out_mp4
+@dataclass
+class ReelScene:
+    label: str
+    heading: str
+    body: str
 
 
-def render_slideshow_reel(
-    slide_images: list[Path],
-    deck: dict[str, Any],
-    post_dir: Path,
-    *,
-    fonts_dir: Path | None = None,
-    music_info: dict[str, Any] | None = None,
-    per_slide_seconds: float = 3.0,
-) -> Path | None:
-    """Gerçek video bulunamazsa 6 slayt görselini hareketli (zoom + fade) 1080×1920 Reel'e çevirir.
-
-    Her slayt hafifçe zoom yapar (Ken Burns) ve bir sonrakine fade ile geçer.
-    Müzik verilmişse video süresine göre loop edilir; yoksa sessiz bırakılır.
-    """
-    if not slide_images:
-        return None
-    if not shutil.which("ffmpeg"):
-        log.warning("Sistemde ffmpeg kurulu değil, slideshow reel üretilemiyor.")
-        return None
-
-    video_dir = post_dir / "video"
-    video_dir.mkdir(parents=True, exist_ok=True)
-    out_mp4 = video_dir / "reel.mp4"
-
-    n = len(slide_images)
-    target_duration = max(8.0, min(45.0, per_slide_seconds * n))
-    per_slide = target_duration / n
-
-    # Zoom + fade filtre zinciri (fade out YOK — son slaytta kararma olmasın diye)
-    inputs = []
-    filter_parts = []
-    for i, img in enumerate(slide_images):
-        inputs += ["-loop", "1", "-t", f"{per_slide:.2f}", "-i", str(img.resolve())]
-        # Her slayt: ölçekle + hafif zoom (çok az — aşırı yakınlaştırmayı önlemek için)
-        # + fade-in (ilk slaytta) / sabit durum (son slayt dahil — fade out yok)
-        fade_in = f"fade=t=in:st=0:d=0.25," if i == 0 else ""
-        filter_parts.append(
-            f"[{i}:v]scale=1080:1920:force_original_aspect_ratio=decrease,"
-            f"pad=1080:1920:(ow-iw)/2:(oh-ih)/2:color=black,"
-            f"zoompan=z='min(zoom+0.0008,1.04)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)'"
-            f":d={int(30*per_slide)}:s=1080x1920:fps=30,"
-            f"{fade_in}"
-            f"format=yuv420p[v{i}]"
-        )
-
-    # Birleştir (crossfade yok — slaytlar doğrudan geçişli, fade out kararması yok)
-    concat_inputs = "".join(f"[v{i}]" for i in range(n))
-    filter_parts.append(f"{concat_inputs}concat=n={n}:v=1:a=0[vout]")
-    full_filter = ";".join(filter_parts)
-
-    music_wav = None
-    if music_info and music_info.get("path"):
-        music_path = Path(music_info["path"])
-        if music_path.exists():
-            music_wav = video_dir / "music.wav"
-            mcmd = [
-                "ffmpeg", "-y",
-                "-stream_loop", "-1",
-                "-t", f"{target_duration:.2f}",
-                "-i", str(music_path.resolve()),
-                "-ac", "2", "-ar", "44100",
-                "-b:a", "128k",
-                str(music_wav.resolve()),
-            ]
-            mp = subprocess.run(mcmd, capture_output=True, text=True, timeout=60)
-            if mp.returncode != 0:
-                music_wav.unlink(missing_ok=True)
-                music_wav = None
-
-    cmd = ["ffmpeg", "-y"] + inputs
-    if music_wav:
-        cmd += ["-i", str(music_wav.resolve())]
-        filter_parts.append("[{}]aresample=44100[aout]".format(n))
-        full_filter = ";".join(filter_parts)
-        cmd += ["-filter_complex", full_filter, "-map", "[vout]", "-map", "[aout]"]
-    else:
-        cmd += ["-filter_complex", full_filter, "-map", "[vout]"]
-
-    cmd += [
-        "-t", f"{target_duration:.2f}",
-        "-r", "30",
-        "-c:v", "libx264",
-        "-preset", "fast",
-        "-crf", "23",
-        "-pix_fmt", "yuv420p",
-    ]
-    if music_wav:
-        cmd += ["-c:a", "aac", "-b:a", "128k"]
-    cmd += ["-movflags", "+faststart", str(out_mp4.resolve())]
-
-    proc = subprocess.run(cmd, capture_output=True, text=True, timeout=180)
-    if music_wav:
-        music_wav.unlink(missing_ok=True)
-
-    if proc.returncode != 0 or not out_mp4.exists() or out_mp4.stat().st_size < 30_000:
-        log.warning("Slideshow reel üretimi başarısız (rc=%s): %s", proc.returncode, proc.stderr[-400:])
-        out_mp4.unlink(missing_ok=True)
-        return None
-
-    log.info("Slideshow Reels/TikTok videosu üretildi: %s (%.1f sn)", out_mp4.name, target_duration)
-    return out_mp4
+def build_storyboard(deck: dict[str, Any]) -> list[ReelScene]:
+    """Reuse verified slide copy; no new claims or extra LLM calls."""
+    cover = deck.get("cover") or {}
+    scenes = [ReelScene("NE OLDU?", str(cover.get("title") or ""),
+                        str(cover.get("subtitle") or ""))]
+    for key, label in (("context", "BİLMEN GEREKEN"), ("details", "DETAY"), ("impact", "NEDEN ÖNEMLİ?")):
+        cards = (deck.get(key) or {}).get("cards") or []
+        for card in cards:
+            # The real schema is card_title/card_body. Reading title/body
+            # silently dropped almost all facts in the previous renderer.
+            heading = str(card.get("card_title") or card.get("title") or "").strip()
+            body = str(card.get("card_body") or card.get("body") or "").strip()
+            if body:
+                scenes.append(ReelScene(label, heading, body))
+                break
+    return scenes[:4]
 
 
-def _extract_fact_bullets(deck: dict[str, Any]) -> list[str]:
-    """Slayt destesindeki doğrulanmış kartlardan en somut 3 bilgi maddesini çıkarır."""
-    bullets: list[str] = []
+def overlay_html(scene: ReelScene, *, index: int, total: int, sources: list[str], fonts_dir: Path | None,
+                 illustrative: bool = False) -> str:
+    font_css = ""
+    if fonts_dir:
+        for family, name in (("Inter", "Inter-Regular.ttf"), ("Montserrat", "Montserrat-Bold.ttf")):
+            font = fonts_dir / name
+            if font.exists():
+                encoded = base64.b64encode(font.read_bytes()).decode()
+                font_css += f"@font-face{{font-family:'{family}';src:url(data:font/ttf;base64,{encoded})}}"
+    handle = html.escape(brand_config().get("handle", "@tekno_pusula"))
+    source = html.escape(" · ".join(sources[:2]) or "Tekno Pusula")
+    return f"""<!DOCTYPE html><html lang="tr"><meta charset="utf-8"><style>
+{font_css}
+*{{box-sizing:border-box}}html,body{{width:1080px;height:1920px;margin:0;background:transparent}}
+body{{font-family:Inter,sans-serif;color:#fff}}
+.shade{{position:absolute;inset:0;background:linear-gradient(transparent 49%,rgba(7,9,13,.86) 59%,#07090d 73%)}}
+.brand{{position:absolute;top:160px;left:64px;font-size:27px;background:#07090dcc;padding:15px 22px;border-radius:12px}}
+.footage{{position:absolute;top:176px;right:180px;font-size:20px;color:#d9e0e7;background:#07090dcc;padding:8px 12px;border-radius:8px}}
+.panel{{position:absolute;left:64px;right:180px;top:1120px;height:470px;display:flex;flex-direction:column}}
+.label{{color:#ffe000;font-size:23px;letter-spacing:2px;margin-bottom:22px}}
+h1{{font-family:Montserrat,Inter,sans-serif;font-size:{64 if index == 0 else 52}px;line-height:1.16;margin:0 0 24px;overflow-wrap:anywhere}}
+.body{{font-size:38px;line-height:1.36;margin:0;overflow-wrap:anywhere}}
+.footer{{position:absolute;top:1630px;left:64px;right:180px;color:#a9b4c2;font-size:21px;display:flex;justify-content:space-between;gap:20px}}
+.source{{max-width:690px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}}
+.progress{{position:absolute;left:64px;right:180px;top:1690px;height:5px;background:#ffffff28}}
+.progress span{{display:block;height:100%;background:#ffe000;width:{100 * (index + 1) / total}%}}
+</style><body><div class="shade"></div><div class="brand">{handle}</div>
+<div class="footage">{'Temsili görüntü' if illustrative else ''}</div>
+<section class="panel"><div class="label">{html.escape(scene.label)}</div>
+<h1>{html.escape(scene.heading)}</h1><p class="body">{html.escape(scene.body)}</p></section>
+<div class="footer"><span class="source">Kaynak: {source}</span><span>{index + 1:02d} / {total:02d}</span></div>
+<div class="progress"><span></span></div></body></html>"""
 
-    stat = deck.get("stat") or {}
-    big_stat = str(stat.get("big_stat") or "").strip()
-    stat_cap = str(stat.get("stat_caption") or "").strip()
-    if big_stat and big_stat != "💡" and stat_cap:
-        bullets.append(f"<strong>{_html.escape(big_stat)}:</strong> {_html.escape(stat_cap)}")
 
-    for section_key in ("context", "details", "impact"):
-        sec = deck.get(section_key) or {}
-        for card in sec.get("cards") or []:
-            ctitle = str(card.get("title") or "").strip()
-            cbody = str(card.get("body") or "").strip()
-            if ctitle and cbody:
-                bullets.append(f"<strong>{_html.escape(ctitle)}:</strong> {_html.escape(cbody)}")
-            elif cbody:
-                bullets.append(_html.escape(cbody))
-            if len(bullets) >= 3:
-                return bullets[:3]
-    return bullets[:3]
-
-
-async def _render_single_overlay(
-    deck: dict[str, Any],
-    dest_png: Path,
-    *,
-    fonts_dir: Path | None = None,
-) -> Path:
-    """Üst kısmı şeffaf (gerçek videonun görüneceği), alt kısmında başlık + 3 somut haber maddesi olan 1080×1920 PNG üretir."""
+async def _render_overlays(scenes: list[ReelScene], video_dir: Path, sources: list[str], fonts_dir: Path | None,
+                           *, illustrative: bool = False) -> list[Path]:
     from playwright.async_api import async_playwright
 
-    brand = brand_config()
-    w916 = brand["canvas"]["width_9x16"]
-    h916 = brand["canvas"]["height_9x16"]
-    accent = brand.get("colors", {}).get("accent_yellow", "#FFE000")
-    handle = _html.escape(brand.get("handle", "@tekno_pusula"))
-
-    d = dict(deck)
-    d["bg_image"] = ""
-    raw_html = render_slide_html(d, 1)
-    styles = "\n".join(re.findall(r"<style>(.*?)</style>", raw_html, re.DOTALL))
-
-    cover = deck.get("cover", {}) or {}
-    category = _html.escape(str(cover.get("category_tag") or "TEKNOLOJİ GÜNDEMİ").upper())
-    title_raw = str(cover.get("title") or "")
-    highlight_words = cover.get("highlight_words") or []
-    sources = deck.get("source_names") or []
-    source_label = _html.escape(" · ".join(sources[:2])) if sources else "Tekno Pusula"
-
-    title_html = _html.escape(title_raw)
-    for hw in highlight_words:
-        hw_esc = _html.escape(str(hw).strip())
-        if hw_esc:
-            pattern = re.compile(re.escape(hw_esc), re.IGNORECASE)
-            title_html = pattern.sub(
-                lambda m: f'<span class="hl">{m.group(0)}</span>', title_html, count=1
-            )
-
-    bullets = _extract_fact_bullets(deck)
-    bullets_html = "\n".join(
-        f'<div class="fact-item"><span class="fact-dot">▸</span><span class="fact-text">{b}</span></div>'
-        for b in bullets
-    )
-
-    overlay_html = f"""<!DOCTYPE html>
-<html lang="tr"><head><meta charset="utf-8"><style>
-{styles}
-html, body {{
-  width: {w916}px !important;
-  height: {h916}px !important;
-  margin: 0;
-  padding: 0;
-  background: transparent !important;
-  overflow: hidden;
-}}
-.reel-frame {{
-  position: relative;
-  width: {w916}px;
-  height: {h916}px;
-  background: linear-gradient(
-    to bottom,
-    rgba(7,9,13,0.45) 0px,
-    rgba(7,9,13,0.0) 140px,
-    rgba(7,9,13,0.0) 780px,
-    rgba(7,9,13,0.94) 930px,
-    #07090d 990px,
-    #07090d 1920px
-  );
-  box-sizing: border-box;
-}}
-.top-pill {{
-  position: absolute;
-  top: 52px;
-  left: 56px;
-  padding: 10px 22px;
-  border-radius: 999px;
-  background: rgba(12, 16, 23, 0.80);
-  border: 1px solid rgba(255, 255, 255, 0.16);
-  color: #f5f7fa;
-  font-family: 'Inter', sans-serif;
-  font-size: 22px;
-  font-weight: 600;
-}}
-.caption-panel {{
-  position: absolute;
-  left: 56px;
-  right: 56px;
-  top: 940px;
-  bottom: 64px;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-}}
-.cat-badge {{
-  display: inline-flex;
-  align-self: flex-start;
-  align-items: center;
-  gap: 10px;
-  padding: 8px 20px;
-  border-radius: 999px;
-  background: rgba(255, 224, 0, 0.14);
-  border: 1.5px solid {accent};
-  color: {accent};
-  font-family: 'JetBrains Mono', monospace;
-  font-size: 19px;
-  font-weight: 700;
-  letter-spacing: 1.2px;
-  margin-bottom: 18px;
-}}
-.reel-title {{
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 800;
-  font-size: 46px;
-  line-height: 1.15;
-  color: #ffffff;
-  margin: 0 0 22px 0;
-  letter-spacing: -0.5px;
-}}
-.reel-title .hl {{
-  color: {accent};
-}}
-.facts-box {{
-  display: flex;
-  flex-direction: column;
-  gap: 14px;
-  margin-bottom: 22px;
-}}
-.fact-item {{
-  display: flex;
-  align-items: flex-start;
-  gap: 14px;
-  background: rgba(255, 255, 255, 0.05);
-  border-left: 4px solid {accent};
-  border-radius: 10px;
-  padding: 14px 18px;
-}}
-.fact-dot {{
-  color: {accent};
-  font-size: 24px;
-  line-height: 1.3;
-  font-weight: 700;
-}}
-.fact-text {{
-  font-family: 'Inter', sans-serif;
-  font-weight: 400;
-  font-size: 24px;
-  line-height: 1.36;
-  color: #e2e8f0;
-}}
-.fact-text strong {{
-  color: #ffffff;
-  font-weight: 700;
-}}
-.reel-footer {{
-  margin-top: auto;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding-top: 16px;
-  border-top: 1px solid rgba(255, 255, 255, 0.12);
-  color: #8b95a5;
-  font-family: 'Inter', sans-serif;
-  font-size: 20px;
-  font-weight: 500;
-}}
-</style></head><body>
-  <div class="reel-frame">
-    <div class="top-pill">{handle}</div>
-    <div class="caption-panel">
-      <div class="cat-badge">● {category}</div>
-      <h1 class="reel-title">{title_html}</h1>
-      <div class="facts-box">
-        {bullets_html}
-      </div>
-      <div class="reel-footer">
-        <span>Kaynak: {source_label}</span>
-        <span>{handle}</span>
-      </div>
-    </div>
-  </div>
-</body></html>"""
-
+    outputs = []
     async with async_playwright() as pw:
         browser = await pw.chromium.launch()
-        page = await browser.new_page(
-            viewport={"width": w916, "height": h916}, device_scale_factor=1
-        )
-        await page.set_content(overlay_html, wait_until="networkidle")
-        await page.evaluate("document.fonts.ready")
-        await page.screenshot(path=str(dest_png), type="png", omit_background=True)
+        page = await browser.new_page(viewport={"width": 1080, "height": 1920}, device_scale_factor=1)
+        for index, scene in enumerate(scenes):
+            await page.set_content(overlay_html(scene, index=index, total=len(scenes), sources=sources,
+                                               fonts_dir=fonts_dir, illustrative=illustrative))
+            await page.evaluate("document.fonts.ready")
+            fits = await page.evaluate("""() => {
+              const panel = document.querySelector('.panel');
+              for (let i=0; i<20 && panel.scrollHeight>panel.clientHeight; i++) {
+                for (const el of panel.querySelectorAll('h1,.body')) {
+                  const size=parseFloat(getComputedStyle(el).fontSize);
+                  if(size<=28) return false;
+                  el.style.fontSize=(size-2)+'px';
+                }
+              }
+              return panel.scrollHeight<=panel.clientHeight;
+            }""")
+            if not fits:
+                raise ValueError("Video metni güvenli alana sığmıyor.")
+            dest = video_dir / f"overlay-{index + 1}.png"
+            await page.screenshot(path=str(dest), omit_background=True)
+            outputs.append(dest)
         await browser.close()
-    return dest_png
+    return outputs
 
 
-def _get_video_duration(video_path: Path) -> float:
-    """ffprobe ile kaynak videonun gerçek süresini (saniye) döndürür."""
-    if not shutil.which("ffprobe"):
-        return DEFAULT_REEL_DURATION
-    try:
-        proc = subprocess.run(
-            [
-                "ffprobe", "-v", "error",
-                "-show_entries", "format=duration",
-                "-of", "default=noprint_wrappers=1:nokey=1",
-                str(video_path.resolve()),
-            ],
-            capture_output=True,
-            text=True,
-            timeout=10,
-        )
-        val = float((proc.stdout or "").strip())
-        if val > 0:
-            return val
-    except Exception:
-        pass
-    return DEFAULT_REEL_DURATION
-
-
-def _video_has_audio(video_path: Path) -> bool:
-    """ffprobe ile kaynak videoda ses akışı olup olmadığını kontrol eder."""
-    if not shutil.which("ffprobe"):
-        return False
-    try:
-        proc = subprocess.run(
-            [
-                "ffprobe", "-v", "error",
-                "-select_streams", "a",
-                "-show_entries", "stream=codec_type",
-                "-of", "csv=p=0",
-                str(video_path.resolve()),
-            ],
-            capture_output=True,
-            text=True,
-            timeout=10,
-        )
-        return "audio" in (proc.stdout or "").lower()
-    except Exception:
-        return False
-
-
-
+def render_reel_video(deck: dict[str, Any], source_video: Path, post_dir: Path, *,
+                      fonts_dir: Path | None = None, music_info: dict[str, Any] | None = None) -> Path | None:
+    if not source_video or not source_video.exists() or not shutil.which("ffmpeg"):
+        return None
+    info = probe_video(source_video)
+    duration = min(MAX_REEL_DURATION, info.get("duration", 0))
+    if duration < MIN_REEL_DURATION:
+        log.info("Video çok kısa veya çözümlenemedi; karusel kullanılacak.")
+        return None
+    scenes = build_storyboard(deck)
+    if len(scenes) < 3 or not scenes[0].heading:
+        log.info("Video için yeterli doğrulanmış bilgi yok; karusel kullanılacak.")
+        return None
+    video_dir = post_dir / "video"
+    video_dir.mkdir(parents=True, exist_ok=True)
+    overlays = asyncio.run(_render_overlays(scenes, video_dir, deck.get("source_names") or [], fonts_dir,
+                                           illustrative=bool(deck.get("video_illustrative"))))
+    hook = min(3.5, duration / len(scenes))
+    scene_duration = (duration - hook) / (len(scenes) - 1)
+    bounds = [0.0, hook] + [hook + scene_duration * n for n in range(1, len(scenes))]
+    cmd = ["ffmpeg", "-y", "-filter_complex_threads", "2", "-i", str(source_video.resolve())]
+    for overlay in overlays:
+        cmd += ["-loop", "1", "-i", str(overlay.resolve())]
+    has_audio = bool(info.get("has_audio"))
+    music = Path(music_info["path"]) if music_info and music_info.get("path") else None
+    if music and music.exists() and not has_audio:
+        cmd += ["-stream_loop", "-1", "-i", str(music.resolve())]
+    else:
+        music = None
+    filters = [
+        "[0:v]split=2[bgsrc][fgsrc]",
+        "[bgsrc]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=20:2,eq=brightness=-0.4[bg]",
+        "[fgsrc]scale=1080:1080:force_original_aspect_ratio=decrease[fg]",
+        "[bg][fg]overlay=x=(W-w)/2:y=180+(940-h)/2[base]",
+    ]
+    current = "base"
+    for i in range(len(overlays)):
+        output = f"scene{i}"
+        filters.append(f"[{current}][{i+1}:v]overlay=0:0:enable='gte(t,{bounds[i]:.3f})*lt(t,{bounds[i+1]:.3f})'[{output}]")
+        current = output
+    audio_index = 0 if has_audio else len(overlays) + 1
+    if has_audio or music:
+        filters.append(f"[{audio_index}:a]loudnorm=I=-16:TP=-1.5:LRA=11,afade=t=out:st={max(0,duration-1):.2f}:d=1[aout]")
+    out = video_dir / "reel.mp4"
+    cmd += ["-filter_complex", ";".join(filters), "-map", f"[{current}]", "-t", f"{duration:.3f}",
+            "-r", "30", "-c:v", "libx264", "-threads", "2", "-preset", "fast", "-crf", "21", "-pix_fmt", "yuv420p"]
+    if has_audio or music:
+        cmd += ["-map", "[aout]", "-c:a", "aac", "-ar", "48000", "-b:a", "160k"]
+    cmd += ["-movflags", "+faststart", str(out.resolve())]
+    proc = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
+    if proc.returncode != 0 or not out.exists():
+        log.warning("Video render başarısız: %s", proc.stderr[-800:])
+        out.unlink(missing_ok=True)
+        return None
+    rendered = probe_video(out)
+    if (rendered.get("width"), rendered.get("height")) != (1080, 1920) or rendered.get("duration", 0) < 7.8:
+        out.unlink(missing_ok=True)
+        return None
+    (video_dir / "storyboard.json").write_text(json.dumps({
+        "duration": duration, "scenes": [asdict(s) for s in scenes],
+        "bounds": bounds, "probe": rendered,
+    }, ensure_ascii=False, indent=2), encoding="utf-8")
+    source_video.unlink(missing_ok=True)
+    return out

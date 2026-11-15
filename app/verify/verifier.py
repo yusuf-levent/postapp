@@ -30,7 +30,7 @@ def verify_claims_round(
     sources_block = "\n\n".join(
         f"=== KAYNAK: {url} ===\n{text[:8000]}" for url, text in source_texts.items()
     )
-    claims_block = "\n".join(f"{i+1}. {c.claim}" for i, c in enumerate(ordered))
+    claims_block = "\n".join(f"{i+1}. {'[ANA İDDİA] ' if c.is_main else ''}{c.claim}" for i, c in enumerate(ordered))
 
     if round_number == 1:
         system, template = prompts.VERIFICATION_SYSTEM, prompts.VERIFICATION_PROMPT
@@ -41,6 +41,7 @@ def verify_claims_round(
         )
 
     prompt = template.format(sources_block=sources_block, claims_block=claims_block)
+    prompt += "\nANA İDDİA için iki farklı kaynak alan adından doğrudan destekleyen ayrı alıntılar ver. İkinci destek yoksa not_found."
     result = llm.generate_structured(
         prompt,
         ClaimVerificationList,
@@ -107,12 +108,12 @@ def validate_evidence(
         evidence: list[Evidence] = []
         if verdict == "supported":
             # Her iki turun kanıtlarını birleştir, alıntıları doğrula
-            seen: set[str] = set()
+            seen: set[tuple[str, str]] = set()
             for ev in list(v1.evidence) + list(v2.evidence):
-                if ev.quote in seen:
+                if (ev.url, ev.quote) in seen:
                     continue
-                seen.add(ev.quote)
-                if quote_in_source(ev.quote, source_texts):
+                seen.add((ev.url, ev.quote))
+                if ev.url in source_texts and quote_in_source(ev.quote, {ev.url: source_texts[ev.url]}):
                     evidence.append(ev)
                 else:
                     log.warning("Uydurma alıntı tespit edildi, kanıt iptal: %r", ev.quote[:80])

@@ -15,7 +15,7 @@ from app.config import brand_config
 from app.llm import prompts
 from app.llm.gemini import GeminiClient
 from app.media import ogimage, pexels, wikimedia
-from app.models import Candidate, ImageCandidate
+from app.models import Candidate, ImageCandidate, SearchQueries
 
 log = logging.getLogger("tekno-pusula.media")
 
@@ -39,14 +39,14 @@ def collect_images(
 
     # 1. Gerçek kişiler (haberde CEO/araştırmacı vb. geçiyorsa)
     for person in _person_entities(entities):
-        if len(selected) >= 6:
+        if len(selected) >= 3:
             break
         cand = wikimedia.person_image(person)
         if cand and _accept_and_save(llm, cand, candidate, images_dir, min_width, selected):
             log.info("Kişi görseli alındı: %s", person)
 
     # 2. Ürün/olay görseli: makalenin og:image'i
-    if len(selected) < 6:
+    if len(selected) < 3:
         cand = ogimage.og_image(candidate.url, min_width=min_width)
         if cand and _accept_and_save(llm, cand, candidate, images_dir, min_width, selected):
             log.info("og:image alındı")
@@ -54,24 +54,15 @@ def collect_images(
     # 3. Pexels — Gemini'nin ürettiği İngilizce sorgularla
     queries = _image_queries(llm, candidate)
     for query in queries:
-        if len(selected) >= 6:
+        if len(selected) >= 3:
             break
-        for cand in pexels.search_images(query, min_width=min_width):
-            if len(selected) >= 6:
+        for cand in pexels.search_images(query, min_width=min_width)[:2]:
+            if len(selected) >= 3:
                 break
             if _accept_and_save(llm, cand, candidate, images_dir, min_width, selected):
                 log.info("Pexels görseli alındı: %s", query)
 
-    # 4. 6 görsel dolmadıysa Pexels'tan ek genel aramalar
-    if len(selected) < 6:
-        for extra in ("technology dark", "computer chip", "data center"):
-            if len(selected) >= 6:
-                break
-            for cand in pexels.search_images(extra, min_width=min_width):
-                if len(selected) >= 6:
-                    break
-                _accept_and_save(llm, cand, candidate, images_dir, min_width, selected)
-
+    # Do not fill remaining slots with unrelated generic chips/office images.
     _write_credits(post_dir, selected)
     return selected
 
@@ -123,8 +114,8 @@ def _is_relevant(llm: GeminiClient, img: ImageCandidate, candidate: Candidate) -
             prompt, [img.local_path], label="img-relevance"
         )
     except Exception as exc:
-        log.warning("Görsel alakalılık kontrolü başarısız, kabul ediliyor: %s", exc)
-        return True
+        log.warning("Görsel alakalılık kontrolü yapılamadı, görsel atlandı: %s", exc)
+        return False
     normalized = turkish_lower(answer.strip())[:20]
     return normalized.startswith("evet") or normalized.startswith("yes")
 
@@ -135,12 +126,14 @@ def _image_queries(llm: GeminiClient, candidate: Candidate) -> list[str]:
         title=candidate.title, summary=candidate.summary[:1000]
     )
     try:
-        text = llm.generate_text(prompt, label="img-queries", temperature=0.3)
+        result = llm.generate_structured(
+            prompt + "\nReturn queries as a JSON list field, at most 2 short English noun phrases. No introduction.",
+            SearchQueries, label="img-queries",
+        )
     except Exception as exc:
         log.warning("Görsel sorgusu üretilemedi: %s", exc)
-        return [candidate.title[:60]]
-    queries = [line.strip("-•* ").strip() for line in text.splitlines() if line.strip()]
-    return [q for q in queries if q][:3] or [candidate.title[:60]]
+        return []
+    return [q.strip() for q in result.queries if 3 < len(q.strip()) <= 60][:2]
 
 
 def _person_entities(entities: list[str]) -> list[str]:

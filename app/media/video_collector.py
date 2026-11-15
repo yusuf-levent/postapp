@@ -48,92 +48,53 @@ def collect_video(
     entities: list[str],
     post_dir: Path,
 ) -> Path | None:
-    """Konuyla birebir ilgili, tekrarsız ve doğrulanmış gerçek MP4 video indirir.
-
-    Doğrulanmış gerçek video bulunamazsa None döner (6'lı slayta düşer).
-    """
+    """Bounded search; validate frames of the downloaded video, not its filename."""
     if not candidate:
         return None
-
-    used_urls = _load_used_video_urls()
+    used = _load_used_video_urls()
     video_dir = post_dir / "video"
     video_dir.mkdir(parents=True, exist_ok=True)
     dest = video_dir / "source_video.mp4"
+    attempted: set[str] = set()
 
-    # 1) Haber makalesinin kendi içindeki gömülü gerçek video (en güvenilir kaynak)
-    if candidate.url:
-        article_vid = _find_article_video(candidate.url)
-        if article_vid and article_vid not in used_urls:
-            if _download_video(article_vid, dest):
-                _save_video_meta(video_dir, article_vid, "article")
-                log.info("Makale içinden gerçek video indirildi: %s", article_vid)
-                return dest
+    def accept(item: dict[str, str], source: str) -> bool:
+        url = item.get("video_url", "")
+        if not url or url in used or url in attempted or len(attempted) >= 4:
+            return False
+        attempted.add(url)
+        if any(word in item.get("slug", "").lower() for word in BANNED_SLUG_WORDS):
+            return False
+        if not _download_video(url, dest):
+            return False
+        if not _verify_downloaded_video(llm, candidate.title, entities, dest):
+            dest.unlink(missing_ok=True)
+            return False
+        meta = _save_video_meta(video_dir, url, source)
+        meta.update({key: item.get(key, "") for key in ("license", "author", "page_url")})
+        meta["illustrative"] = source != "article"
+        (video_dir / "video_meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
+        return True
 
-    # 2) Gerçek ürün/haber videoları: Wikimedia Commons B-roll (CC lisanslı, atıf otomatik)
+    article_url = _find_article_video(candidate.url) if candidate.url else None
+    if article_url and accept({"video_url": article_url, "slug": candidate.title}, "article"):
+        return dest
+
     queries = _strict_video_queries(llm, candidate, entities)
-    # B-roll sorguları: "NVIDIA RTX 5090 b-roll", "iPhone unboxing" vb.
-    broll_queries = []
-    for q in queries:
-        broll_queries.append(f"{q} b-roll")
-        broll_queries.append(q)
-    if entities:
-        broll_queries.insert(0, f"{entities[0]} b-roll")
-
-    for q in broll_queries[:4]:
-        for cand_vid in _search_wikimedia_video_candidates(q):
-            vurl = cand_vid["video_url"]
-            slug = cand_vid["slug"].lower()
-            thumb_url = cand_vid["thumb_url"]
-            if vurl in used_urls:
-                continue
-            if any(bw in slug for bw in BANNED_SLUG_WORDS):
-                log.info("Alakasız video elendi (yasaklı kelime): %s", slug)
-                continue
-            if not _verify_video_relevance(llm, candidate.title, entities, slug, thumb_url):
-                log.info("Video Gemini doğrulamasından geçemedi, elendi: %s", slug)
-                continue
-            if _download_video(vurl, dest):
-                meta = _save_video_meta(video_dir, vurl, f"wikimedia:{q}")
-                if meta is not None:
-                    meta["license"] = cand_vid.get("license", "")
-                    meta["author"] = cand_vid.get("author", "")
-                    meta["credit_url"] = cand_vid.get("page_url", "")
-                    (video_dir / "video_meta.json").write_text(
-                        json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8"
-                    )
-                log.info("Gerçek ürün videosu (Wikimedia B-roll) indirildi (%s): %s", slug, vurl)
+    for query in queries[:2]:
+        for item in _search_wikimedia_video_candidates(query, limit=2):
+            if accept(item, "wikimedia"):
                 return dest
-
-    # 3) Stok video API'leri (Pexels → Pixabay → NASA) — Gemini Vision ile doğrulanırsa!
-    # Her sağlayıcıdan aday topla (öncelik: Pexels → Pixabay → NASA)
-    providers = [
-        ("pexels", _search_pexels_candidates),
-        ("pixabay", _search_pixabay_candidates),
-        ("nasa", _search_nasa_candidates),
-    ]
-    for q in queries:
-        for provider_name, search_fn in providers:
-            for cand_vid in search_fn(q):
-                vurl = cand_vid["video_url"]
-                slug = cand_vid["slug"].lower()
-                thumb_url = cand_vid["thumb_url"]
-                if vurl in used_urls:
-                    continue
-                if any(bw in slug for bw in BANNED_SLUG_WORDS):
-                    log.info("Alakasız video elendi (yasaklı kelime): %s", slug)
-                    continue
-                if not _verify_video_relevance(llm, candidate.title, entities, slug, thumb_url):
-                    log.info("Video Gemini doğrulamasından geçemedi, elendi: %s", slug)
-                    continue
-                if _download_video(vurl, dest):
-                    _save_video_meta(video_dir, vurl, f"{provider_name}:{q}")
-                    log.info("Doğrulanmış gerçek video indirildi (%s:%s): %s", provider_name, q, vurl)
+            if len(attempted) >= 4:
+                return None
+        for provider, search in (("pexels", _search_pexels_candidates),
+                                 ("pixabay", _search_pixabay_candidates),
+                                 ("nasa", _search_nasa_candidates)):
+            for item in search(query)[:2]:
+                if accept(item, provider):
                     return dest
-
-    log.info("Bu haber için birebir uyumlu gerçek video bulunamadı; 6'lı slayt paylaşılacak.")
+                if len(attempted) >= 4:
+                    return None
     return None
-
-
 def _load_used_video_urls() -> set[str]:
     """Daha önceki postlarda kullanılmış tüm video URL'lerini döndürür (aynı video tekrarlanmaz)."""
     used: set[str] = set()
@@ -462,28 +423,57 @@ def _search_nasa_candidates(query: str, *, per_page: int = 10) -> list[dict[str,
     return out
 
 
+def _verify_downloaded_video(llm: GeminiClient, headline: str, entities: list[str], path: Path) -> bool:
+    import subprocess
+    from app.media.video_probe import probe_video
+
+    info = probe_video(path)
+    if (info.get("duration", 0) < 8 or min(info.get("width", 0), info.get("height", 0)) < 480):
+        return False
+    frames = []
+    try:
+        for index, fraction in enumerate((0.15, 0.5, 0.8)):
+            frame = path.parent / f"check-{index}.jpg"
+            proc = subprocess.run(["ffmpeg", "-y", "-ss", str(info["duration"] * fraction), "-i", str(path),
+                                   "-frames:v", "1", "-vf", "scale=640:-2", str(frame)],
+                                  capture_output=True, timeout=30)
+            if proc.returncode != 0 or not frame.exists():
+                return False
+            frames.append(frame)
+        prompt = (f"Headline: {headline}\nEntities: {', '.join(entities)}\n"
+                  "These are three frames from ONE candidate news video. Inspect ALL frames. "
+                  "Is this real, clear footage directly relevant to the specific subject? "
+                  "Reject unrelated scenery, generic offices, games, abstract animations, wrong products/brands, "
+                  "static screenshots, watermarks across the subject, or illegible footage. "
+                  "A real screen recording demonstrating the named software is acceptable. Do not infer unseen details. "
+                  "Respond with one word: YES or NO.")
+        answer = llm.analyze_images(prompt, [str(p) for p in frames], label="video-frames-check")
+        return answer.strip().upper() in ("YES", "EVET")
+    except Exception as exc:
+        log.warning("Gerçek video kareleri doğrulanamadı: %s", type(exc).__name__)
+        return False
+    finally:
+        for frame in frames:
+            frame.unlink(missing_ok=True)
+
+
 def _strict_video_queries(llm: GeminiClient, candidate: Candidate, entities: list[str]) -> list[str]:
     """Haberdeki somut donanım/cihaz için 4 spesifik İngilizce arama terimi üretir."""
     prompt = (
         f"News headline: {candidate.title}\n"
         f"Entities: {', '.join(entities or candidate.entities or [])}\n\n"
-        "Task: If this news is about a specific physical hardware device (e.g. smartwatch, GPU chip, "
-        "electric car, robot, VR headset, earbuds), output at most 2 ultra-specific English search queries "
-        "describing ONLY the physical device itself (e.g. 'smartwatch screen closeup', 'computer graphics card gpu'). "
+        "Task: Output at most 2 ultra-specific English video search queries for the exact product or research. "
+        "For hardware use the actual product/device. For AI/software use the named product's real demo or screen recording, "
+        "not generic keyboards, office workers, or unrelated computer chips. "
         "NEVER use ambiguous brand names alone like 'Amazon' (returns jungle), 'Disney' (returns theme park), "
         "or 'Apple' (returns fruit). If the news is purely about corporate lawsuits, bankruptcy, or abstract policy "
         "with no physical device to show, output ONLY the word: NONE"
     )
     try:
-        ans = llm.generate_text(prompt, label="video-strict-query").strip()
-        if "NONE" in ans.upper():
-            return []
-        out: list[str] = []
-        for line in ans.splitlines():
-            q = line.strip().strip("-•*0123456789. \"'").strip()
-            if 3 < len(q) < 55 and "none" not in q.lower():
-                out.append(q)
-        return out[:4]
+        from app.models import SearchQueries
+        result = llm.generate_structured(prompt + "\nReturn {queries: []} for NONE, otherwise at most 2 short queries.",
+                                         SearchQueries, label="video-strict-query")
+        return [q.strip() for q in result.queries if 3 < len(q.strip()) < 55 and q.upper() != "NONE"][:2]
     except Exception:
         return []
 

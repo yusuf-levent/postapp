@@ -30,8 +30,8 @@ def commit_paths(message: str, paths: list[str | Path]) -> bool:
     for p in paths:
         _run(["git", "add", "-A", str(p)], check=False)
 
-    status = _run(["git", "status", "--porcelain"], check=False)
-    if not status.stdout.strip():
+    status = _run(["git", "diff", "--cached", "--quiet"], check=False)
+    if status.returncode == 0:
         log.info("Commit edilecek değişiklik yok.")
         return True
 

@@ -10,6 +10,7 @@ from app.common import normalize_text, now_istanbul, to_istanbul
 from app.config import schedule_config
 from app.llm.gemini import cosine_similarity
 from app.models import Candidate, HistoryEntry
+from app.select.editorial import annotate, canonical_entity
 
 log = logging.getLogger("tekno-pusula.dedup")
 
@@ -46,11 +47,12 @@ def is_duplicate(
     emb_threshold = cfg["embedding_similarity_threshold"]
     news_window = cfg["news_event_window_days"]
     edu_window = cfg["edu_topic_window_days"]
-    max_per_entity = schedule_config().get("max_posts_per_entity_per_day", 2)
+    max_per_entity = schedule_config().get("max_posts_per_entity_per_day", 1)
+    annotate(candidate)
 
     cand_url = normalize_url(candidate.url)
     cand_norm_title = normalize_text(candidate.title)
-    is_edu = candidate.event_type == "edu_topic" or candidate.source_kind == "official"
+    is_edu = candidate.event_type == "edu_topic"
 
     for entry in history:
         # 1. Aynı canonical URL
@@ -70,6 +72,8 @@ def is_duplicate(
         age_days = (now_istanbul() - entry_dt).days
         window = edu_window if is_edu else news_window
         if age_days <= window:
+            if candidate.event_key and entry.event_key == candidate.event_key:
+                return True, f"aynı olay kimliği: {candidate.event_key}"
             if candidate.embedding and entry.embedding:
                 cos = cosine_similarity(candidate.embedding, entry.embedding)
                 if cos >= emb_threshold:
@@ -77,9 +81,12 @@ def is_duplicate(
             if (
                 candidate.entities
                 and entry.entities
-                and set(candidate.entities) & set(entry.entities)
+                and {canonical_entity(e) for e in candidate.entities}
+                & {canonical_entity(e) for e in entry.entities}
                 and candidate.event_type
                 and candidate.event_type == entry.event_type
+                and not candidate.event_key and not entry.event_key
+                and sim >= 55
             ):
                 return True, (
                     f"aynı olay: entity {set(candidate.entities) & set(entry.entities)} "
@@ -88,16 +95,19 @@ def is_duplicate(
 
     # 4. Aynı gün aynı şirket hakkında en fazla N post
     if today_posts:
-        for entity in candidate.entities:
-            count = sum(1 for e in today_posts if entity in e.entities)
+        for entity in ([candidate.primary_entity] if candidate.primary_entity else candidate.entities):
+            count = sum(1 for e in today_posts if canonical_entity(entity) in {
+                canonical_entity(n) for n in ([e.primary_entity] if e.primary_entity else e.entities)
+            })
             if count >= max_per_entity:
                 return True, f"günlük entity limiti: {entity} ({count}/{max_per_entity})"
-            for e in today_posts:
-                if entity in e.entities and (
-                    not candidate.entities
-                    or not (set(candidate.entities) & set(e.entities))
-                ):
-                    continue
+        editorial = schedule_config().get("editorial", {})
+        topics = [e.topic or annotate(Candidate(title=e.original_title or e.title_tr, url="")).topic
+                  for e in today_posts]
+        limit = (editorial.get("max_consumer_posts_per_day", 1) if candidate.topic == "consumer"
+                 else editorial.get("max_posts_per_topic_per_day", 2))
+        if candidate.topic != "other" and topics.count(candidate.topic) >= limit:
+            return True, f"günlük konu limiti: {candidate.topic} ({limit})"
 
     return False, ""
 

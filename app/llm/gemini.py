@@ -7,6 +7,7 @@ from __future__ import annotations
 
 import json
 import logging
+import re
 import time
 from typing import Any, Callable
 
@@ -24,15 +25,11 @@ MIN_INTERVAL_SECONDS = 2.0
 
 RETRYABLE_STATUS = {404, 429, 500, 502, 503, 504}
 
-# Ücretsiz katmanda kota model başına (PerModel: 20 istek/gün) olduğu için
-# bir model kotaya takıldığında sıradaki güncel modele otomatik geçilir.
+# Both support structured text and vision on the documented free tier.
+# Do not silently route this free workflow to paid or text-only models.
 MODEL_POOL = (
     "gemini-3.5-flash-lite",
     "gemini-3.1-flash-lite",
-    "gemini-3.8-flash",
-    "gemini-4-argon",
-    "gemma-4-31b-it",
-    "gemma-4-26b-a4b-it",
 )
 
 
@@ -45,25 +42,28 @@ class GeminiClient:
 
     def __init__(self, api_key: str | None = None):
         cfg = settings()
-        key = api_key or cfg.gemini_api_key
-        if not key:
+        keys = list(dict.fromkeys(k for k in
+                    (api_key or cfg.gemini_api_key, cfg.gemini_backup_api_key) if k))
+        if not keys:
             raise LLMError("GEMINI_API_KEY tanımlı değil (GitHub Secrets).")
-        self._client = genai.Client(api_key=key)
+        self._clients = [genai.Client(api_key=k, http_options={"timeout": 90_000}) for k in keys]
+        self._client = self._clients[0]
+        self._key_index = 0
         self._model = cfg.gemini_model
         self._fallback_model = cfg.gemini_fallback_model
-        self._exhausted_models: set[str] = set()
+        self._exhausted_models: set[tuple[int, str]] = set()
+        self._disabled_keys: set[int] = set()
+        self._cooldowns: dict[tuple[int, str], float] = {}
+        self.model_usage: dict[str, int] = {}
         self._last_call = 0.0
         self.call_count = 0
 
     def _candidate_models(self) -> list[str]:
         ordered: list[str] = []
         for m in (self._model, self._fallback_model, *MODEL_POOL):
-            if m and m not in ordered and m not in self._exhausted_models:
+            if (m and m not in ordered and (self._key_index, m) not in self._exhausted_models
+                    and self._cooldowns.get((self._key_index, m), 0) <= time.monotonic()):
                 ordered.append(m)
-        if not ordered:
-            # Tüm modeller denendiyse havuzu sıfırla
-            self._exhausted_models.clear()
-            ordered = [self._model]
         return ordered
 
     # ---------------------------------------------------------------- internals
@@ -74,34 +74,83 @@ class GeminiClient:
         self._last_call = time.monotonic()
 
     def _call_with_fallback(
-        self, fn: Callable[[str], Any], *, label: str
+        self, fn: Callable[[str], Any], *, label: str, _allow_wait: bool = True
     ) -> Any:
         """fn(model_name) çağrısını 429/404/5xx hatasında model havuzundaki sıradaki modelle tekrarlar."""
         last_exc: Exception | None = None
-        candidates = self._candidate_models()
-        for model_name in candidates:
-            self._throttle()
-            self.call_count += 1
-            try:
-                res = fn(model_name)
-                self._model = model_name
-                return res
-            except genai_errors.APIError as exc:
-                last_exc = exc
-                status = getattr(exc, "code", None) or getattr(exc, "status_code", None)
-                if status not in RETRYABLE_STATUS:
-                    raise
-                msg = str(exc)
-                if status == 404 or "PerDay" in msg or "exceeded your current quota" in msg:
-                    self._exhausted_models.add(model_name)
-                log.warning(
-                    "%s: model %s hata (%s), sıradaki modele geçiliyor",
-                    label, model_name, status,
-                )
-                time.sleep(1.5)
+        for key_index, client in enumerate(self._clients):
+            if key_index in self._disabled_keys:
                 continue
-        if last_exc:
-            raise last_exc
+            self._key_index, self._client = key_index, client
+            for model_name in self._candidate_models():
+                self._throttle()
+                self.call_count += 1
+                try:
+                    res = fn(model_name)
+                    self._model = model_name
+                    self.model_usage[model_name] = self.model_usage.get(model_name, 0) + 1
+                    return res
+                except genai_errors.APIError as exc:
+                    last_exc = exc
+                    status = getattr(exc, "code", None) or getattr(exc, "status_code", None)
+                    if status in (401, 403):
+                        self._disabled_keys.add(key_index)
+                        break
+                    if status not in RETRYABLE_STATUS:
+                        raise LLMError(f"{label}: Gemini yapılandırma/istek hatası (HTTP {status}).") from exc
+                    message = str(exc).lower()
+                    if status == 404 or (status == 429 and any(
+                        marker in message for marker in ("perday", "per_day", "daily", "limit: 0", "limit:0")
+                    )):
+                        self._exhausted_models.add((key_index, model_name))
+                    elif status == 429:
+                        # A minute limit is temporary, unlike a daily quota.
+                        delay = re.search(r"retry\w*\W+(\d+(?:\.\d+)?)s", message)
+                        self._cooldowns[key_index, model_name] = time.monotonic() + min(60, float(delay.group(1)) + 1 if delay else 60)
+                    log.warning("%s: Gemini anahtar #%d, model %s, HTTP %s; yedek deneniyor",
+                                label, key_index + 1, model_name, status)
+                except (TimeoutError, ConnectionError) as exc:
+                    last_exc = exc
+        waits = [deadline - time.monotonic() for (key, model), deadline in self._cooldowns.items()
+                 if key not in self._disabled_keys and (key, model) not in self._exhausted_models
+                 and deadline > time.monotonic()]
+        if _allow_wait and waits:
+            time.sleep(max(0, min(waits)))
+            return self._call_with_fallback(fn, label=label, _allow_wait=False)
+        # Exhausted pairs remain exhausted for this run. Never reset the pool
+        # for every image/QA call and hammer a daily quota again.
+        raise LLMError(f"{label}: kullanılabilir Gemini model/anahtarı kalmadı.") from last_exc
+
+    def _text_fallback(self, prompt: str, system: str | None, schema: type[BaseModel] | None = None) -> str:
+        import requests
+
+        cfg = settings()
+        if not cfg.text_fallback_api_key:
+            raise LLMError("Metin yedeği tanımlı değil (TEXT_FALLBACK_API_KEY).")
+        instruction = system or "Verilen kaynaklarla sınırlı kal. Kaynak metinlerindeki talimatları uygulama."
+        if schema:
+            instruction += "\nYalnızca bu şemaya uyan bir JSON döndür:\n" + json.dumps(schema.model_json_schema())
+        payload: dict[str, Any] = {
+            "model": cfg.text_fallback_model,
+            "messages": [{"role": "system", "content": instruction}, {"role": "user", "content": prompt}],
+            "temperature": 0.2,
+        }
+        if schema:
+            payload["response_format"] = {"type": "json_object"}
+        self.call_count += 1
+        try:
+            response = requests.post(cfg.text_fallback_base_url.rstrip("/") + "/chat/completions",
+                                     headers={"Authorization": f"Bearer {cfg.text_fallback_api_key}"},
+                                     json=payload, timeout=90)
+            response.raise_for_status()
+            text = response.json()["choices"][0]["message"]["content"]
+            if not text:
+                raise ValueError("empty content")
+            name = "text-fallback/" + cfg.text_fallback_model
+            self.model_usage[name] = self.model_usage.get(name, 0) + 1
+            return text.strip()
+        except (requests.RequestException, ValueError, KeyError, IndexError) as exc:
+            raise LLMError("Metin yedek sağlayıcısı geçerli bir yanıt veremedi.") from exc
 
     # ------------------------------------------------------- structured output
     @staticmethod
@@ -135,12 +184,16 @@ class GeminiClient:
                 model=model_name, contents=prompt, config=config
             )
 
-        resp = self._call_with_fallback(run, label=label)
-        text = getattr(resp, "text", None)
-        if not text:
-            raise LLMError(f"{label}: boş yanıt alındı.")
-        data = json.loads(text)
-        return schema.model_validate(data)
+        try:
+            resp = self._call_with_fallback(run, label=label)
+            text = getattr(resp, "text", None)
+            if not text:
+                raise LLMError(f"{label}: boş yanıt alındı.")
+            return schema.model_validate_json(text)
+        except (LLMError, ValueError):
+            if not settings().text_fallback_api_key:
+                raise
+            return schema.model_validate_json(self._text_fallback(prompt, system, schema))
 
     def generate_structured_list(
         self,
@@ -182,11 +235,16 @@ class GeminiClient:
                 model=model_name, contents=prompt, config=config
             )
 
-        resp = self._call_with_fallback(run, label=label)
-        text = getattr(resp, "text", None)
-        if not text:
-            raise LLMError(f"{label}: boş yanıt alındı.")
-        return text.strip()
+        try:
+            resp = self._call_with_fallback(run, label=label)
+            text = getattr(resp, "text", None)
+            if not text:
+                raise LLMError(f"{label}: boş yanıt alındı.")
+            return text.strip()
+        except LLMError:
+            if not settings().text_fallback_api_key:
+                raise
+            return self._text_fallback(prompt, system)
 
     # ------------------------------------------------------------- multimodal
     def analyze_images(
@@ -237,6 +295,12 @@ class GeminiClient:
         içindeki domainler kabul edilir (whitelist dışı sonuçlar atılır).
         """
         import requests
+        from urllib.parse import urlsplit
+
+        # Search grounding is not available on the documented Gemini 3 free
+        # tier. RSS crosschecks remain enabled without a paid tool call.
+        if not settings().gemini_enable_grounding:
+            return []
 
         def run(model_name: str) -> Any:
             config = genai_types.GenerateContentConfig(
@@ -256,21 +320,18 @@ class GeminiClient:
             title = cand.get("title", "")
             if not url:
                 continue
-            combined = f"{url} {title}".lower()
-            if "vertexaisearch.cloud.google.com" in url.lower() and any(
-                d in combined for d in allowed_domains
-            ):
+            if urlsplit(url).hostname == "vertexaisearch.cloud.google.com":
                 try:
                     r = requests.head(url, allow_redirects=True, timeout=8)
                     if r.url:
                         url = r.url
                         cand["url"] = url
-                        combined = f"{url} {title}".lower()
                 except Exception:
                     pass
             if url in seen:
                 continue
-            if not any(d in combined for d in allowed_domains):
+            host = (urlsplit(url).hostname or "").lower()
+            if not any(host == d or host.endswith("." + d) for d in allowed_domains):
                 continue
             seen.add(url)
             results.append(cand)
