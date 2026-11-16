@@ -66,7 +66,7 @@ Güncel sağlayıcı belgeleri:
 - En fazla dört farklı video indirme adayı denenir. İndirilen gerçek dosyadan üç kare çıkarılır ve görüntüler birlikte değerlendirilir. Dosya adı/thumbnail tek başına yeterli değildir.
 - Çok kısa, düşük çözünürlüklü veya alakasız video reddedilir. Stok/arşiv görüntüsü videoda “Temsili görüntü” olarak işaretlenir.
 - 8–26 saniyelik 1080×1920 MP4: kısa giriş, sırayla gösterilen üç somut bilgi, kaynak ve ilerleme göstergesi. Kartların gerçek `card_title/card_body` alanları kullanılır.
-- Kaynak görüntünün konusu kırpılarak kaybedilmez; arka planda bulanık dolgu kullanılır. Yazılar sağdaki düğmelerden ve alttaki açıklama alanından uzak tutulur.
+- Görüntü oranı korunur. Yatay video, yan kenarlardan sınırlı merkez kırpmasıyla %22 büyütülür; dikey video için daha yüksek alan ayrılır. Arka planda bulanık dolgu kullanılır. Alttaki metinler daha küçük ve dar bir panelde gösterilir; sağdaki düğmelerden ve alttaki açıklama alanından uzak tutulur.
 - Orijinal ses varsa korunup seviyesi dengelenir; yoksa uygun lisanslı müzik aranır. Video çözünürlüğü/süresi encode sonrası tekrar ölçülür.
 - Uygun gerçek video yoksa karusel gönderilir. Slayt yakınlaştırması video diye paylaşılmaz.
 

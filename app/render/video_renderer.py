@@ -60,13 +60,14 @@ def overlay_html(scene: ReelScene, *, index: int, total: int, sources: list[str]
 {font_css}
 *{{box-sizing:border-box}}html,body{{width:1080px;height:1920px;margin:0;background:transparent}}
 body{{font-family:Inter,sans-serif;color:#fff}}
-.shade{{position:absolute;inset:0;background:linear-gradient(transparent 49%,rgba(7,9,13,.86) 59%,#07090d 73%)}}
+.shade{{position:absolute;inset:0;background:linear-gradient(transparent 58%,rgba(7,9,13,.86) 67%,#07090d 80%)}}
 .brand{{position:absolute;top:160px;left:64px;font-size:27px;background:#07090dcc;padding:15px 22px;border-radius:12px}}
 .footage{{position:absolute;top:176px;right:180px;font-size:20px;color:#d9e0e7;background:#07090dcc;padding:8px 12px;border-radius:8px}}
-.panel{{position:absolute;left:64px;right:180px;top:1120px;height:470px;display:flex;flex-direction:column}}
-.label{{color:#ffe000;font-size:23px;letter-spacing:2px;margin-bottom:22px}}
-h1{{font-family:Montserrat,Inter,sans-serif;font-size:{64 if index == 0 else 52}px;line-height:1.16;margin:0 0 24px;overflow-wrap:anywhere}}
-.body{{font-size:38px;line-height:1.36;margin:0;overflow-wrap:anywhere}}
+.footage:empty{{display:none}}
+.panel{{position:absolute;left:64px;right:180px;top:1250px;height:360px;display:flex;flex-direction:column}}
+.label{{color:#ffe000;font-size:20px;letter-spacing:2px;margin-bottom:14px}}
+h1{{font-family:Montserrat,Inter,sans-serif;font-size:{54 if index == 0 else 44}px;line-height:1.14;margin:0 0 16px;overflow-wrap:anywhere}}
+.body{{font-size:32px;line-height:1.32;margin:0;overflow-wrap:anywhere}}
 .footer{{position:absolute;top:1630px;left:64px;right:180px;color:#a9b4c2;font-size:21px;display:flex;justify-content:space-between;gap:20px}}
 .source{{max-width:690px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}}
 .progress{{position:absolute;left:64px;right:180px;top:1690px;height:5px;background:#ffffff28}}
@@ -143,8 +144,10 @@ def render_reel_video(deck: dict[str, Any], source_video: Path, post_dir: Path, 
     filters = [
         "[0:v]split=2[bgsrc][fgsrc]",
         "[bgsrc]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=20:2,eq=brightness=-0.4[bg]",
-        "[fgsrc]scale=1080:1080:force_original_aspect_ratio=decrease[fg]",
-        "[bg][fg]overlay=x=(W-w)/2:y=180+(940-h)/2[base]",
+        # A bounded centre crop makes landscape footage 22% larger without
+        # stretching it. Portrait footage gains height in the taller frame.
+        "[fgsrc]scale=1320:1180:force_original_aspect_ratio=decrease,crop=w='min(iw,1080)':h=ih[fg]",
+        "[bg][fg]overlay=x=(W-w)/2:y=150+(1180-h)/2[base]",
     ]
     current = "base"
     for i in range(len(overlays)):
