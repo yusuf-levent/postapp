@@ -30,7 +30,8 @@
         "external_id": "6adafdaf9ef33e7811c03e3f",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -38,7 +39,8 @@
         "external_id": "6adafdc61dc335d347fa579c",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -46,7 +48,8 @@
         "external_id": "6adafdddd447d56a647eea01",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2113517165634535453",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -54,7 +57,8 @@
         "external_id": "17910776553664897",
         "permalink": "https://www.threads.com/@tekno_pusula/post/De06PUIFMDD",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -62,7 +66,8 @@
         "external_id": "6adafe008d2197cb2a1cd007",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -70,11 +75,15 @@
         "external_id": "6adafe171dc335d347fa829a",
         "permalink": "https://facebook.com/1351036918092059_122117760363484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-23T09:26:41+03:00",
-    "verified_claims_count": 5
+    "verified_claims_count": 5,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-23-1200",
@@ -101,7 +110,8 @@
         "external_id": "6adb1df7e2b536ff313e01b2",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -109,7 +119,8 @@
         "external_id": "6adb1e0ebab742f874b7df22",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -117,7 +128,8 @@
         "external_id": "6adb1e252baa602d024031cf",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2113551832073093159",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -125,7 +137,8 @@
         "external_id": "17948208900068659",
         "permalink": "https://www.threads.com/@tekno_pusula/post/De1KAGFliFt",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -133,7 +146,8 @@
         "external_id": "6adb1e482baa602d024034f2",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -141,11 +155,15 @@
         "external_id": "6adb1e5fe2b536ff313e1124",
         "permalink": "https://facebook.com/1351036918092059_122117786889484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-23T11:44:31+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-23-1500",
@@ -180,7 +198,8 @@
         "external_id": "6adb5d81ce9fbd2e3b4a42c8",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -188,7 +207,8 @@
         "external_id": "6adb5d987af932dee4df3ea5",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -196,7 +216,8 @@
         "external_id": "6adb5daf10223fea5664f3a5",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2113620053933367676",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -204,7 +225,8 @@
         "external_id": "18501335719097715",
         "permalink": "https://www.threads.com/@tekno_pusula/post/De1pBXjlmha",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -212,7 +234,8 @@
         "external_id": "6adb5dcece9fbd2e3b4a54ec",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -220,11 +243,15 @@
         "external_id": "6adb5de57af932dee4df5e39",
         "permalink": "https://facebook.com/1351036918092059_122117842137484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-23T16:15:31+03:00",
-    "verified_claims_count": 6
+    "verified_claims_count": 6,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-23-1800",
@@ -254,7 +281,8 @@
         "external_id": "6adb7636ce9fbd2e3b51ede4",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -262,7 +290,8 @@
         "external_id": "6adb764e91ffb6bdb08d6dcd",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -270,7 +299,8 @@
         "external_id": "6adb76656fe59a6ed27dc836",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2113646586307682683",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -278,7 +308,8 @@
         "external_id": "18169199116485384",
         "permalink": "https://www.threads.com/@tekno_pusula/post/De11Ge9G_f-",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -286,7 +317,8 @@
         "external_id": "6adb768e6bf37011a37f6ba7",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -294,11 +326,15 @@
         "external_id": "6adb76a6ce9fbd2e3b52460d",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-23T18:01:17+03:00",
-    "verified_claims_count": 5
+    "verified_claims_count": 5,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-23-2100",
@@ -328,7 +364,8 @@
         "external_id": "6adb9de4bd33ce99c3e316a4",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -336,7 +373,8 @@
         "external_id": "6adb9dfb8b3d437ddc7c3cf5",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -344,7 +382,8 @@
         "external_id": "6adb9e12e4be8a4d861b9834",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2113689190504251652",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -352,7 +391,8 @@
         "external_id": "18098624429425100",
         "permalink": "https://www.threads.com/@tekno_pusula/post/De2IdwvFCf1",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -360,7 +400,8 @@
         "external_id": "6adb9e348b3d437ddc7c4d4b",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -368,11 +409,15 @@
         "external_id": "6adb9e4b9acae620d80f70a3",
         "permalink": "https://facebook.com/1351036918092059_122117916513484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-23T20:50:20+03:00",
-    "verified_claims_count": 6
+    "verified_claims_count": 6,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-24-0900",
@@ -400,7 +445,8 @@
         "external_id": "6adc45700b5343d070697e3b",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -408,7 +454,8 @@
         "external_id": "6adc45870b5343d0706983b3",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -416,7 +463,8 @@
         "external_id": "6adc459e8b3d437ddca2a764",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2113869088900440489",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -424,7 +472,8 @@
         "external_id": "18609975889066351",
         "permalink": "https://www.threads.com/@tekno_pusula/post/De3aRqmnLku",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -432,7 +481,8 @@
         "external_id": "6adc45c33d5b27036b6bdfb6",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -440,11 +490,15 @@
         "external_id": "6adc45da3d5b27036b6be165",
         "permalink": "https://facebook.com/1351036918092059_122118036735484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-24T08:45:14+03:00",
-    "verified_claims_count": 6
+    "verified_claims_count": 6,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-24-1200",
@@ -477,7 +531,8 @@
         "external_id": "6adc6f73e4be8a4d864b8590",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -485,7 +540,8 @@
         "external_id": "6adc6f8a6887a2efc1a86f67",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -493,7 +549,8 @@
         "external_id": "6adc6fa18b3d437ddcabf44d",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2113914199923396918",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -501,7 +558,8 @@
         "external_id": "18397588633204798",
         "permalink": "https://www.threads.com/@tekno_pusula/post/De3uyM8Fffn",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -509,7 +567,8 @@
         "external_id": "6adc6fc20b5343d07072f66c",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -517,11 +576,15 @@
         "external_id": "6adc6fd98b3d437ddcabfdb2",
         "permalink": "https://facebook.com/1351036918092059_122118070293484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-24T11:44:22+03:00",
-    "verified_claims_count": 7
+    "verified_claims_count": 7,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-24-1500",
@@ -552,7 +615,8 @@
         "external_id": "6adc99a63d5b27036b801264",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -560,7 +624,8 @@
         "external_id": "6adc99bc0b5343d0707e5767",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -568,7 +633,8 @@
         "external_id": "6adc99d36887a2efc1b3e05e",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2113959507537563841",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -576,7 +642,8 @@
         "external_id": "18013645526978788",
         "permalink": "https://www.threads.com/@tekno_pusula/post/De4DZyvEWvK",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -584,7 +651,8 @@
         "external_id": "6adc99fb3d5b27036b80242d",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -592,11 +660,15 @@
         "external_id": "6adc9a12bd33ce99c31e3d68",
         "permalink": "https://facebook.com/1351036918092059_122118107355484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-24T14:44:31+03:00",
-    "verified_claims_count": 6
+    "verified_claims_count": 6,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-24-1800",
@@ -626,7 +698,8 @@
         "external_id": "6adcdf136887a2efc1c7e3e7",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -634,7 +707,8 @@
         "external_id": "6adcdf2ae4be8a4d866b9944",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -642,7 +716,8 @@
         "external_id": "6adcdf406887a2efc1c7ea7a",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2114034053556867548",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -650,7 +725,8 @@
         "external_id": "18116547929169494",
         "permalink": "https://www.threads.com/@tekno_pusula/post/De4mGAEFAZH",
         "attempts": 2,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -658,7 +734,8 @@
         "external_id": "6adcdf588b3d437ddccc48f0",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -666,11 +743,15 @@
         "external_id": "6adcdf6f3d5b27036b94247a",
         "permalink": "https://facebook.com/1351036918092059_122118167151484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-24T19:40:29+03:00",
-    "verified_claims_count": 7
+    "verified_claims_count": 7,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-24-2100",
@@ -697,7 +778,8 @@
         "external_id": "6adcee418b3d437ddccfc059",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -705,7 +787,8 @@
         "external_id": "6adcee58e4be8a4d866f516d",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -713,7 +796,8 @@
         "external_id": "6adcee6f8b3d437ddccfcb69",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2114050356162204010",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -721,7 +805,8 @@
         "external_id": "18634129177059227",
         "permalink": "https://www.threads.com/@tekno_pusula/post/De4stDKFeqr",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -729,7 +814,8 @@
         "external_id": "6adcee938b3d437ddccfd46f",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -737,11 +823,15 @@
         "external_id": "6adceeaae4be8a4d866f6612",
         "permalink": "https://facebook.com/1351036918092059_122118180351484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-24T20:45:24+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-25-0900",
@@ -768,7 +858,8 @@
         "external_id": "6add996ce4be8a4d869263e6",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -776,7 +867,8 @@
         "external_id": "6add99838b3d437ddcf2c55a",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -784,7 +876,8 @@
         "external_id": "6add999a3d5b27036bbabdef",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2114234145593266524",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -792,7 +885,8 @@
         "external_id": "18118341286956129",
         "permalink": "https://www.threads.com/@tekno_pusula/post/De6AR3VlSlo",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -800,7 +894,8 @@
         "external_id": "6add99bbe4be8a4d869268ac",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -808,11 +903,15 @@
         "external_id": "6add99d18b3d437ddcf2cd27",
         "permalink": "https://facebook.com/1351036918092059_122118304173484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-25T08:55:43+03:00",
-    "verified_claims_count": 4
+    "verified_claims_count": 4,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-25-1200",
@@ -845,7 +944,8 @@
         "external_id": "6addc36ebd33ce99c3626e93",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -853,7 +953,8 @@
         "external_id": "6addc3853d5b27036bc39cba",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -861,7 +962,8 @@
         "external_id": "6addc39ce4be8a4d869b5654",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2114279249506947262",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -869,7 +971,8 @@
         "external_id": "18145837183568622",
         "permalink": "https://www.threads.com/@tekno_pusula/post/De6Uyg_FSIN",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -877,7 +980,8 @@
         "external_id": "6addc3bce4be8a4d869b5b10",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -885,11 +989,15 @@
         "external_id": "6addc3d3e4be8a4d869b5d9c",
         "permalink": "https://facebook.com/1351036918092059_122118331389484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-25T11:54:53+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-25-1500",
@@ -918,7 +1026,8 @@
         "external_id": "6addeb680b5343d070ccf170",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -926,7 +1035,8 @@
         "external_id": "6addeb7f3d5b27036bcdbe3d",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -934,7 +1044,8 @@
         "external_id": "6addeb968b3d437ddc05d998",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2114322175070986542",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -942,7 +1053,8 @@
         "external_id": "18097119683671072",
         "permalink": "https://www.threads.com/@tekno_pusula/post/De6pGyQkXd2",
         "attempts": 2,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -950,7 +1062,8 @@
         "external_id": "6addebb33d5b27036bcdc5a9",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -958,11 +1071,15 @@
         "external_id": "6addebca6887a2efc101eae3",
         "permalink": "https://facebook.com/1351036918092059_122118363945484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-25T14:45:27+03:00",
-    "verified_claims_count": 6
+    "verified_claims_count": 6,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-25-1800",
@@ -989,7 +1106,8 @@
         "external_id": "6ade1db2bd33ce99c379a58a",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -997,7 +1115,8 @@
         "external_id": "6ade1dc93d5b27036bdb606d",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -1005,7 +1124,8 @@
         "external_id": "6ade1de1e4be8a4d86b28e16",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2114376175204118905",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -1013,7 +1133,8 @@
         "external_id": "18153040393535793",
         "permalink": "https://www.threads.com/@tekno_pusula/post/De7A4NqG3c5",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -1021,7 +1142,8 @@
         "external_id": "6ade1e086887a2efc10f7c32",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -1029,11 +1151,15 @@
         "external_id": "6ade1e203d5b27036bdb6d4b",
         "permalink": "https://facebook.com/1351036918092059_122118412155484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-25T18:20:10+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-25-2100",
@@ -1058,7 +1184,8 @@
         "external_id": "6ade45998b3d437ddc1e9de3",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -1066,7 +1193,8 @@
         "external_id": "6ade45b0bd33ce99c384bbae",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -1074,7 +1202,8 @@
         "external_id": "6ade45c73d5b27036be681a0",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2114419018538823963",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -1082,7 +1211,8 @@
         "external_id": "17996053794044760",
         "permalink": "https://www.threads.com/@tekno_pusula/post/De7UWZCFhSp",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -1090,7 +1220,8 @@
         "external_id": "6ade45e86887a2efc11a89ef",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -1098,11 +1229,15 @@
         "external_id": "6ade45ffe4be8a4d86bd8435",
         "permalink": "https://facebook.com/1351036918092059_122118446169484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-25T21:10:20+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-26-0900",
@@ -1131,7 +1266,8 @@
         "external_id": "6adee8663c2b9287727be3e7",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -1139,7 +1275,8 @@
         "external_id": "6adee87e14e7509845acf70c",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -1147,7 +1284,8 @@
         "external_id": "6adee895a59aa33bb57621c1",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2114593827151315241",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -1155,7 +1293,8 @@
         "external_id": "17985280521093502",
         "permalink": "https://www.threads.com/@tekno_pusula/post/De8j2KLlImE",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -1163,7 +1302,8 @@
         "external_id": "6adee8b7a59aa33bb57625b6",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -1171,11 +1311,15 @@
         "external_id": "6adee8ce906a941b7222f960",
         "permalink": "https://facebook.com/1351036918092059_122118556749484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-26T08:44:57+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-26-1200",
@@ -1208,7 +1352,8 @@
         "external_id": "6adf13f1411d512f6d6e25b0",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -1216,7 +1361,8 @@
         "external_id": "6adf14083d81d7f49b73be8a",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -1224,7 +1370,8 @@
         "external_id": "6adf141f2d4c1c99b88f5ba8",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2114640578725945509",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -1232,7 +1379,8 @@
         "external_id": "17894846109433504",
         "permalink": "https://www.threads.com/@tekno_pusula/post/De85GyqHIxt",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -1240,7 +1388,8 @@
         "external_id": "6adf143c3d81d7f49b73c920",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -1248,11 +1397,15 @@
         "external_id": "6adf1453c869bde1a47f1eed",
         "permalink": "https://facebook.com/1351036918092059_122118584961484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-26T11:50:37+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-26-1500",
@@ -1281,7 +1434,8 @@
         "external_id": "6adf58c2ea9e83a81e6f86ee",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -1289,7 +1443,8 @@
         "external_id": "6adf58d9db969f175440f1c6",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -1297,7 +1452,8 @@
         "external_id": "6adf58f007b13e9a888f0707",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2114714469796303220",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -1305,7 +1461,8 @@
         "external_id": "18002273397046084",
         "permalink": "https://www.threads.com/@tekno_pusula/post/De9atE4lsbd",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -1313,7 +1470,8 @@
         "external_id": "6adf590f00bfbbae70043a2e",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -1321,11 +1479,15 @@
         "external_id": "6adf59278f8d1eab42d0bcec",
         "permalink": "https://facebook.com/1351036918092059_122118648993484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-26T16:44:20+03:00",
-    "verified_claims_count": 5
+    "verified_claims_count": 5,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-27-0900",
@@ -1356,7 +1518,8 @@
         "external_id": "6ae0506e4c0869d0f8d7dc11",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -1364,7 +1527,8 @@
         "external_id": "6ae05085da2ca338b15078eb",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -1372,7 +1536,8 @@
         "external_id": "6ae0509b6546b985f8d63cf2",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2114980402091708591",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -1380,7 +1545,8 @@
         "external_id": "18113353901230928",
         "permalink": "https://www.threads.com/@tekno_pusula/post/De_TpI0HIRe",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -1388,7 +1554,8 @@
         "external_id": "6ae050c0ab50f19da3646b73",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -1396,11 +1563,15 @@
         "external_id": "6ae050d74c0869d0f8d80886",
         "permalink": "https://facebook.com/1351036918092059_122118828273484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-27T10:21:15+03:00",
-    "verified_claims_count": 4
+    "verified_claims_count": 4,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-27-1200",
@@ -1426,7 +1597,8 @@
         "external_id": "6ae06406ca5d1844c7bf5cbe",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -1434,7 +1606,8 @@
         "external_id": "6ae0641d2445d7d8cabb2f22",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -1442,7 +1615,8 @@
         "external_id": "6ae06434138eb60a0fd61fe3",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2115001441135812978",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -1450,7 +1624,8 @@
         "external_id": "18014396597970676",
         "permalink": "https://www.threads.com/@tekno_pusula/post/De_dM8tnMxB",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -1458,7 +1633,8 @@
         "external_id": "6ae0645288a6e988c9d409a4",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -1466,11 +1642,15 @@
         "external_id": "6ae06469ca5d1844c7bf6dba",
         "permalink": "https://facebook.com/1351036918092059_122118846927484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-27T11:44:35+03:00",
-    "verified_claims_count": 5
+    "verified_claims_count": 5,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-27-1500",
@@ -1495,7 +1675,8 @@
         "external_id": "6ae08e52a21f4739ba9bc01f",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -1503,7 +1684,8 @@
         "external_id": "6ae08e6998c25f90461c1fc2",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -1511,7 +1693,8 @@
         "external_id": "6ae08e8098c25f90461c248a",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2115046861266464908",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -1519,7 +1702,8 @@
         "external_id": "17935813113404056",
         "permalink": "https://www.threads.com/@tekno_pusula/post/De_x3OmFnDr",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -1527,7 +1711,8 @@
         "external_id": "6ae08ea383416db301eba4e1",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -1535,11 +1720,15 @@
         "external_id": "6ae08ebaa21f4739ba9bdd9c",
         "permalink": "https://facebook.com/1351036918092059_122118886173484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-27T14:45:11+03:00",
-    "verified_claims_count": 5
+    "verified_claims_count": 5,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-27-1800",
@@ -1568,7 +1757,8 @@
         "external_id": "6ae0bb1fcbba2af26a9ab095",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -1576,7 +1766,8 @@
         "external_id": "6ae0bb3601a7b9ebe43da118",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -1584,7 +1775,8 @@
         "external_id": "6ae0bb4d30edb436ffcc274b",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2115094962861670709",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -1592,7 +1784,8 @@
         "external_id": "18031950170686363",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfAHu4yFeis",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -1600,7 +1793,8 @@
         "external_id": "6ae0bb6d30edb436ffcc2f80",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -1608,11 +1802,15 @@
         "external_id": "6ae0bb847d2301ca995daa87",
         "permalink": "https://facebook.com/1351036918092059_122118931515484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-27T17:56:14+03:00",
-    "verified_claims_count": 7
+    "verified_claims_count": 7,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-27-2100",
@@ -1642,7 +1840,8 @@
         "external_id": "6ae0ed55d7b92f839146b904",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -1650,7 +1849,8 @@
         "external_id": "6ae0ed6ca7712201c2183338",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -1658,7 +1858,8 @@
         "external_id": "6ae0ed832d4e3ce4bcb13eee",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2115148878806720602",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -1666,7 +1867,8 @@
         "external_id": "18023125214952211",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfAgQMfFH10",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -1674,7 +1876,8 @@
         "external_id": "6ae0eda6d7b92f839146c94b",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -1682,11 +1885,15 @@
         "external_id": "6ae0edbe229a249d534a8d41",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-27T21:30:44+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-28-0900",
@@ -1719,7 +1926,8 @@
         "external_id": "6ae18b881b33b85d1be613d6",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -1727,7 +1935,8 @@
         "external_id": "6ae18ba056ec3750d255d136",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -1735,7 +1944,8 @@
         "external_id": "6ae18bb756ec3750d255d3e7",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2115318745560162525",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -1743,7 +1953,8 @@
         "external_id": "18111136985111853",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfBuUHFFQQK",
         "attempts": 2,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -1751,7 +1962,8 @@
         "external_id": "6ae18bd456ec3750d255d6b3",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -1759,11 +1971,15 @@
         "external_id": "6ae18beb1b33b85d1be62368",
         "permalink": "https://facebook.com/1351036918092059_122119085001484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-28T08:45:28+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-28-1200",
@@ -1792,7 +2008,8 @@
         "external_id": "6ae1b58adeb69b3963bc23ee",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -1800,7 +2017,8 @@
         "external_id": "6ae1b5a10e101a27fcd2f4c5",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -1808,7 +2026,8 @@
         "external_id": "6ae1b5b8af9616deeb9a084b",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2115363846927892652",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -1816,7 +2035,8 @@
         "external_id": "17985734337104347",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfCCAgXlr6D",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -1824,7 +2044,8 @@
         "external_id": "6ae1b5d80e101a27fcd2fdfe",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -1832,11 +2053,15 @@
         "external_id": "6ae1b5ee92a79b7aa16d70cb",
         "permalink": "https://facebook.com/1351036918092059_122119112205484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-28T11:44:41+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-28-1500",
@@ -1863,7 +2088,8 @@
         "external_id": "6ae1dfc738e33389fb5e2f8b",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -1871,7 +2097,8 @@
         "external_id": "6ae1dfde38e33389fb5e364d",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -1879,7 +2106,8 @@
         "external_id": "6ae1dff563bb1a485a2b293d",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2115409200222249436",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -1887,7 +2115,8 @@
         "external_id": "17995774068048342",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfCWpH0kaAX",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -1895,7 +2124,8 @@
         "external_id": "6ae1e01dd47ee8ef2fb4e404",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -1903,11 +2133,15 @@
         "external_id": "6ae1e034768df719cebae4e3",
         "permalink": "https://facebook.com/1351036918092059_122119143441484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-28T14:45:05+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-28-1800",
@@ -1934,7 +2168,8 @@
         "external_id": "6ae25400ba9a64c574833667",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -1942,7 +2177,8 @@
         "external_id": "6ae25417787994b5227a705c",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -1950,7 +2186,8 @@
         "external_id": "6ae2542ea5c5e21e3b04b3d3",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2115533995697942753",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -1958,7 +2195,8 @@
         "external_id": "18171975784459197",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfDPYnylH8n",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -1966,7 +2204,8 @@
         "external_id": "6ae25453a5c5e21e3b04d3e4",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -1974,11 +2213,15 @@
         "external_id": "6ae2546b3e779512a883de68",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-28T23:01:06+03:00",
-    "verified_claims_count": 5
+    "verified_claims_count": 5,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-29-0900",
@@ -2009,7 +2252,8 @@
         "external_id": "6ae2dcf46b4b6463f8ca1d27",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -2017,7 +2261,8 @@
         "external_id": "6ae2dd0c6b4b6463f8ca226b",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -2025,7 +2270,8 @@
         "external_id": "6ae2dd236b4b6463f8ca257d",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2115681051213218107",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -2033,7 +2279,8 @@
         "external_id": "18059557082660487",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfESQS6FF2-",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -2041,7 +2288,8 @@
         "external_id": "6ae2dd452cd0d708938fef93",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -2049,11 +2297,15 @@
         "external_id": "6ae2dd5c5b14165ff7527b11",
         "permalink": "https://facebook.com/1351036918092059_122119338183484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-29T08:45:14+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-29-1200",
@@ -2088,7 +2340,8 @@
         "external_id": "6ae30708b8abb6631d18c574",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -2096,7 +2349,8 @@
         "external_id": "6ae3071f9c8338621358b6d3",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -2104,7 +2358,8 @@
         "external_id": "6ae307368d517922b23c5a7c",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2115726226522353864",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -2112,7 +2367,8 @@
         "external_id": "17941795170379432",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfEmzBTldDK",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -2120,7 +2376,8 @@
         "external_id": "6ae307572467e67f128b0234",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -2128,11 +2385,15 @@
         "external_id": "6ae3076eb8abb6631d18deca",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-29T11:44:52+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-29-1500",
@@ -2161,7 +2422,8 @@
         "external_id": "6ae334d064fcf825949e8b6a",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -2169,7 +2431,8 @@
         "external_id": "6ae334e764fcf825949e9416",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -2177,7 +2440,8 @@
         "external_id": "6ae334fe44715b877827702b",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2115775384306225587",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -2185,7 +2449,8 @@
         "external_id": "18135659389673369",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfE9KMsIMGb",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -2193,7 +2458,8 @@
         "external_id": "6ae33524d747cf479b1f60d4",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -2201,11 +2467,15 @@
         "external_id": "6ae3353bb36cf8170e7b15cc",
         "permalink": "https://facebook.com/1351036918092059_122119407207484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-29T15:00:12+03:00",
-    "verified_claims_count": 6
+    "verified_claims_count": 6,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-29-1800",
@@ -2233,7 +2503,8 @@
         "external_id": "6ae3928e4ae687d9696aad4a",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -2241,7 +2512,8 @@
         "external_id": "6ae392a59b320e38551135d9",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -2249,7 +2521,8 @@
         "external_id": "6ae392a618a6132aaf6bd184",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2115875948566315314",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -2257,7 +2530,8 @@
         "external_id": "18180483715452705",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfFq4kWFnxg",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -2265,7 +2539,8 @@
         "external_id": "6ae392c69b320e3855113aed",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -2273,11 +2548,15 @@
         "external_id": "6ae392dd780a8b491853a87f",
         "permalink": "https://facebook.com/1351036918092059_122119489863484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-29T21:39:35+03:00",
-    "verified_claims_count": 7
+    "verified_claims_count": 7,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-29-2100",
@@ -2307,7 +2586,8 @@
         "external_id": "6ae393d818a6132aaf6c1e7a",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -2315,7 +2595,8 @@
         "external_id": "6ae393ef382173074be6604c",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -2323,7 +2604,8 @@
         "external_id": "6ae393f018a6132aaf6c2206",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2115877332778946728",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -2331,7 +2613,8 @@
         "external_id": "18059030948570072",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfFrhDnoIF9",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -2339,7 +2622,8 @@
         "external_id": "6ae3941e382173074be6671f",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -2347,11 +2631,15 @@
         "external_id": "6ae39435382173074be67319",
         "permalink": "https://facebook.com/1351036918092059_122119492305484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-29T21:45:19+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-30-0900",
@@ -2382,7 +2670,8 @@
         "external_id": "6ae42e6b56e01b97638b2201",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -2390,7 +2679,8 @@
         "external_id": "6ae42e82a83a7fb63c97ae24",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -2398,7 +2688,8 @@
         "external_id": "6ae42e996385db216a285518",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2116043394191392905",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -2406,7 +2697,8 @@
         "external_id": "18016900943985513",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfG3CESFnXd",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -2414,7 +2706,8 @@
         "external_id": "6ae42eba4b8768bfb2e0513e",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -2422,11 +2715,15 @@
         "external_id": "6ae42ed0a83a7fb63c97b53f",
         "permalink": "https://facebook.com/1351036918092059_122119600509484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-30T08:45:02+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-30-1200",
@@ -2457,7 +2754,8 @@
         "external_id": "6ae458a036e83ed16366366b",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -2465,7 +2763,8 @@
         "external_id": "6ae458b736e83ed163663a9f",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -2473,7 +2772,8 @@
         "external_id": "6ae458ceceb12661efd699bc",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2116088714803761339",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -2481,7 +2781,8 @@
         "external_id": "17911825158479394",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfHLo9mFfyD",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -2489,7 +2790,8 @@
         "external_id": "6ae458efceb12661efd6a4ab",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -2497,11 +2799,15 @@
         "external_id": "6ae45906d518fcaf80a7a085",
         "permalink": "https://facebook.com/1351036918092059_122119627539484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-30T11:45:04+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-30-1500",
@@ -2526,7 +2832,8 @@
         "external_id": "6ae48686c56bf7afb3b1cc5d",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -2534,7 +2841,8 @@
         "external_id": "6ae4869cc56bf7afb3b1d057",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -2542,7 +2850,8 @@
         "external_id": "6ae486b314812ff5967b2e40",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2116137993861804208",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -2550,7 +2859,8 @@
         "external_id": "18100142882105913",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfHiC_SnDXx",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -2558,7 +2868,8 @@
         "external_id": "6ae486d4e9727055055a2ada",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -2566,11 +2877,15 @@
         "external_id": "6ae486eb14812ff5967b7682",
         "permalink": "https://facebook.com/1351036918092059_122119664643484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-30T15:01:04+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-30-1800",
@@ -2599,7 +2914,8 @@
         "external_id": "6ae4b7969394ea34c12042b5",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -2607,7 +2923,8 @@
         "external_id": "6ae4b7ad3faa32d97824044c",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -2615,7 +2932,8 @@
         "external_id": "6ae4b7c479ddf9a28a018f0f",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2116190679437119911",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -2623,7 +2941,8 @@
         "external_id": "18153858964485416",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfH6A5OmzIT",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -2631,7 +2950,8 @@
         "external_id": "6ae4b7e979ddf9a28a01a111",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -2639,11 +2959,15 @@
         "external_id": "6ae4b8019394ea34c1206d10",
         "permalink": "https://facebook.com/1351036918092059_122119704531484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-30T18:30:19+03:00",
-    "verified_claims_count": 7
+    "verified_claims_count": 7,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-30-2100",
@@ -2679,7 +3003,8 @@
         "external_id": "6ae4f6d8a11457434967b17c",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -2687,7 +3012,8 @@
         "external_id": "6ae4f6ef406ab8a0187cd7fb",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -2695,7 +3021,8 @@
         "external_id": "6ae4f6f1a11457434967b60e",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2116258512875516078",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -2703,7 +3030,8 @@
         "external_id": "18157425874515787",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfIY3QSnb6z",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -2711,7 +3039,8 @@
         "external_id": "6ae4f716fc1ac02b6ed98c1d",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -2719,11 +3048,15 @@
         "external_id": "6ae4f72da11457434967c284",
         "permalink": "https://facebook.com/1351036918092059_122119758813484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-30T22:59:51+03:00",
-    "verified_claims_count": 5
+    "verified_claims_count": 5,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-31-0900",
@@ -2753,7 +3086,8 @@
         "external_id": "6ae588331891472093b8c67a",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -2761,7 +3095,8 @@
         "external_id": "6ae5884aa1145743498c5a62",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -2769,7 +3104,8 @@
         "external_id": "6ae5884ba1145743498c5abc",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2116414584001073314",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -2777,7 +3113,8 @@
         "external_id": "18344715490249360",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfJf06QFf1g",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -2785,7 +3122,8 @@
         "external_id": "6ae5886ba1145743498c6123",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -2793,11 +3131,15 @@
         "external_id": "6ae58882eaa24d6f9a5bf452",
         "permalink": "https://facebook.com/1351036918092059_122119866003484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-31T09:19:56+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-31-1200",
@@ -2831,7 +3173,8 @@
         "external_id": "6ae5ab581891472093c17016",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -2839,7 +3182,8 @@
         "external_id": "6ae5ab6f406ab8a018a9e012",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -2847,7 +3191,8 @@
         "external_id": "6ae5ab70a1145743499536cd",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2116452318912577799",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -2855,7 +3200,8 @@
         "external_id": "18144207544588828",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfJw_VzFmRG",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -2863,7 +3209,8 @@
         "external_id": "6ae5ab95406ab8a018a9e9d3",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -2871,11 +3218,15 @@
         "external_id": "6ae5ababa1145743499548f9",
         "permalink": "https://facebook.com/1351036918092059_122119893339484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-31T11:49:57+03:00",
-    "verified_claims_count": 7
+    "verified_claims_count": 7,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-31-1500",
@@ -2904,7 +3255,8 @@
         "external_id": "6ae5d474b84259308bd3b7f6",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -2912,7 +3264,8 @@
         "external_id": "6ae5d48bceb491e585f3bd66",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -2920,7 +3273,8 @@
         "external_id": "6ae5d48da114574349a13dd7",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2116496464520081910",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -2928,7 +3282,8 @@
         "external_id": "18132889165688444",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfKFD-6lP_e",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -2936,7 +3291,8 @@
         "external_id": "6ae5d4ad1891472093cda3b5",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -2944,11 +3300,15 @@
         "external_id": "6ae5d4c4a114574349a15468",
         "permalink": "https://facebook.com/1351036918092059_122119929867484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-31T14:45:28+03:00",
-    "verified_claims_count": 7
+    "verified_claims_count": 7,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-31-1800",
@@ -2982,7 +3342,8 @@
         "external_id": "6ae5fe71ab019b90870a890b",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -2990,7 +3351,8 @@
         "external_id": "6ae5fe88f0984eef33144aca",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -2998,7 +3360,8 @@
         "external_id": "6ae5fe9f1ee172cd6da83458",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2116541636100448340",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -3006,7 +3369,8 @@
         "external_id": "17980475735916150",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfKZnLukask",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -3014,7 +3378,8 @@
         "external_id": "6ae5fec537c1acd2a0b45c22",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -3022,11 +3387,15 @@
         "external_id": "6ae5fedcab019b90870a9e65",
         "permalink": "https://facebook.com/1351036918092059_122119970787484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-31T17:44:57+03:00",
-    "verified_claims_count": 7
+    "verified_claims_count": 7,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-10-31-2100",
@@ -3057,7 +3426,8 @@
         "external_id": "6ae63a4a21c807e9d57d6097",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -3065,7 +3435,8 @@
         "external_id": "6ae63a6137c1acd2a0c5bd27",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -3073,7 +3444,8 @@
         "external_id": "6ae63a781ee172cd6dba0624",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2116605900408381546",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -3081,7 +3453,8 @@
         "external_id": "17988634152087251",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfK22WlgezZ",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -3089,7 +3462,8 @@
         "external_id": "6ae63aa7f0984eef33269f54",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -3097,11 +3471,15 @@
         "external_id": "6ae63ac01ee172cd6dba2757",
         "permalink": "https://facebook.com/1351036918092059_122120024037484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-10-31T22:00:26+03:00",
-    "verified_claims_count": 4
+    "verified_claims_count": 4,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-01-0900",
@@ -3131,7 +3509,8 @@
         "external_id": "6ae6d15521c807e9d5a23ad7",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -3139,7 +3518,8 @@
         "external_id": "6ae6d16cab019b9087421c78",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -3147,7 +3527,8 @@
         "external_id": "6ae6d18321c807e9d5a243f1",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2116768079430422691",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -3155,7 +3536,8 @@
         "external_id": "17992007205027094",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfMAlX4DkvB",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -3163,7 +3545,8 @@
         "external_id": "6ae6d1a937c1acd2a0eb7a02",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -3171,11 +3554,15 @@
         "external_id": "6ae6d1c01ee172cd6ddee2a7",
         "permalink": "https://facebook.com/1351036918092059_122120143029484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-01T08:44:48+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-01-1200",
@@ -3209,7 +3596,8 @@
         "external_id": "6ae6fb8d21c807e9d5abee1e",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -3217,7 +3605,8 @@
         "external_id": "6ae6fba3ab019b90874bf53d",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -3225,7 +3614,8 @@
         "external_id": "6ae6fbba37c1acd2a0f52417",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2116813408683102451",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -3233,7 +3623,8 @@
         "external_id": "17867463063679117",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfMVMX_FRlV",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -3241,7 +3632,8 @@
         "external_id": "6ae6fbe1cf3a3112f3e9970d",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -3249,11 +3641,15 @@
         "external_id": "6ae6fbf837c1acd2a0f52e87",
         "permalink": "https://facebook.com/1351036918092059_122120174727484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-01T11:44:53+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-01-1500",
@@ -3283,7 +3679,8 @@
         "external_id": "6ae73aecab019b90875e1125",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -3291,7 +3688,8 @@
         "external_id": "6ae73b03f0984eef3367f668",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -3299,7 +3697,8 @@
         "external_id": "6ae73b0537c1acd2a00684b6",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2116881367489290678",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -3307,7 +3706,8 @@
         "external_id": "18158711311510035",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfM0Gt-kUGj",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -3315,7 +3715,8 @@
         "external_id": "6ae73b2bf0984eef33680119",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -3323,11 +3724,15 @@
         "external_id": "6ae73b4237c1acd2a006a42c",
         "permalink": "https://facebook.com/1351036918092059_122120229987484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-01T16:14:52+03:00",
-    "verified_claims_count": 7
+    "verified_claims_count": 7,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-01-1800",
@@ -3358,7 +3763,8 @@
         "external_id": "6ae7511ffa39ab5d4d7d488f",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -3366,7 +3772,8 @@
         "external_id": "6ae75136354a6ae7df83cdff",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -3374,7 +3781,8 @@
         "external_id": "6ae751378755094b828b31b4",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2116905201080705078",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -3382,7 +3790,8 @@
         "external_id": "18096583568661085",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfM-7w0limx",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -3390,7 +3799,8 @@
         "external_id": "6ae75158fa39ab5d4d7d5908",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -3398,11 +3808,15 @@
         "external_id": "6ae7516fcd0d0de2bf7fe959",
         "permalink": "https://facebook.com/1351036918092059_122120252769484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-01T17:49:39+03:00",
-    "verified_claims_count": 4
+    "verified_claims_count": 4,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-01-2100",
@@ -3432,7 +3846,8 @@
         "external_id": "6ae77c80142f545151f26ec6",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -3440,7 +3855,8 @@
         "external_id": "6ae77c98a9b1b4ba58f6f409",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -3448,7 +3864,8 @@
         "external_id": "6ae77caf7c4e5559266a8624",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2116951873236213986",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -3456,7 +3873,8 @@
         "external_id": "18115629113594545",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfNUKEAlKmQ",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -3464,7 +3882,8 @@
         "external_id": "6ae77cd07c4e5559266a90c3",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -3472,11 +3891,15 @@
         "external_id": "6ae77ce77c4e5559266a9882",
         "permalink": "https://facebook.com/1351036918092059_122120290953484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-01T20:55:00+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-02-0900",
@@ -3504,7 +3927,8 @@
         "external_id": "6ae8405476279ec7eb9d340a",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -3512,7 +3936,8 @@
         "external_id": "6ae8406b76279ec7eb9d37d6",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -3520,7 +3945,8 @@
         "external_id": "6ae8408276279ec7eb9d3c01",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2117162139660042288",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -3528,7 +3954,8 @@
         "external_id": "18102771245374410",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfOzxupFkFP",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -3536,7 +3963,8 @@
         "external_id": "6ae840a376279ec7eb9d422d",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -3544,11 +3972,15 @@
         "external_id": "6ae840ba76279ec7eb9d4b58",
         "permalink": "https://facebook.com/1351036918092059_122120424393484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-02T10:50:28+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-02-1200",
@@ -3579,7 +4011,8 @@
         "external_id": "6ae85ed3796ca84be0cc9377",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -3587,7 +4020,8 @@
         "external_id": "6ae85eea55a230dd71a30ec0",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -3595,7 +4029,8 @@
         "external_id": "6ae85f01c100ba337af173af",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2117194885631557779",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -3603,7 +4038,8 @@
         "external_id": "18027508055871418",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfPCrgxEZ4o",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -3611,7 +4047,8 @@
         "external_id": "6ae85f27bc7258b27b3d2624",
         "permalink": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7522960822768361473",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -3619,11 +4056,15 @@
         "external_id": "6ae85f424a24ce7f3633be1a",
         "permalink": "https://facebook.com/1351036918092059_122120452437484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-02T13:00:54+03:00",
-    "verified_claims_count": 5
+    "verified_claims_count": 5,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-02-1500",
@@ -3651,7 +4092,8 @@
         "external_id": "6ae87742339e85e6016abb77",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -3659,7 +4101,8 @@
         "external_id": "6ae877596d4b19decd40377f",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -3667,7 +4110,8 @@
         "external_id": "6ae87770339e85e6016ad12f",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2117221120352874960",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -3675,7 +4119,8 @@
         "external_id": "17880015507635432",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfPOmPxFQfI",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -3683,7 +4128,8 @@
         "external_id": "6ae87791e364127fe0d92ed7",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -3691,11 +4137,15 @@
         "external_id": "6ae877a8e364127fe0d933d4",
         "permalink": "https://facebook.com/1351036918092059_122120470329484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-02T14:44:57+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-02-1800",
@@ -3724,7 +4174,8 @@
         "external_id": "6ae8a41e2810e4a79d3140b3",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -3732,7 +4183,8 @@
         "external_id": "6ae8a43604fa73faa22bc76d",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -3740,7 +4192,8 @@
         "external_id": "6ae8a44df1669be3eab95176",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2117269292056023272",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -3748,7 +4201,8 @@
         "external_id": "18642123412020680",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfPkgzUm7DX",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -3756,7 +4210,8 @@
         "external_id": "6ae8a47404fa73faa22bdc71",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -3764,11 +4219,15 @@
         "external_id": "6ae8a48ba8c7e34921545b86",
         "permalink": "https://facebook.com/1351036918092059_122120513799484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-02T17:56:21+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-02-2100",
@@ -3799,7 +4258,8 @@
         "external_id": "6ae8dfcf8009965bdafa80de",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -3807,7 +4267,8 @@
         "external_id": "6ae8dfe68009965bdafa8c1b",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -3815,7 +4276,8 @@
         "external_id": "6ae8dffd417f5affa9440fd0",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2117333382354833640",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -3823,7 +4285,8 @@
         "external_id": "18117810101601684",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfQBpn4FNOC",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -3831,7 +4294,8 @@
         "external_id": "6ae8e01f1a18b06086c5eab3",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -3839,11 +4303,15 @@
         "external_id": "6ae8e0367aa9f7a66fec9d77",
         "permalink": "https://facebook.com/1351036918092059_122120558667484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-02T22:10:56+03:00",
-    "verified_claims_count": 6
+    "verified_claims_count": 6,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-03-0900",
@@ -3873,7 +4341,8 @@
         "external_id": "6ae97f4c6896a4441f6555b5",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -3881,7 +4350,8 @@
         "external_id": "6ae97f62ee93f2557f2ab6c1",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -3889,7 +4359,8 @@
         "external_id": "6ae97f7aee93f2557f2ac190",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2117504627675386091",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -3897,7 +4368,8 @@
         "external_id": "17899349772674764",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfRPh2jFZQN",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -3905,7 +4377,8 @@
         "external_id": "6ae97f9e3f84a453ac0a859e",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -3913,11 +4386,15 @@
         "external_id": "6ae97fb564e1ad8ea2ead850",
         "permalink": "https://facebook.com/1351036918092059_122120664897484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-03T09:31:30+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-03-1200",
@@ -3950,7 +4427,8 @@
         "external_id": "6ae9aa8bb0e17c0fb57164ea",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -3958,7 +4436,8 @@
         "external_id": "6ae9aaa2749426a5a468fb36",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -3966,7 +4445,8 @@
         "external_id": "6ae9aab988eaa32c1641b41a",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2117551063100170638",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -3974,7 +4454,8 @@
         "external_id": "18430512367148024",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfRkp5Pkarl",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -3982,7 +4463,8 @@
         "external_id": "6ae9aae4749426a5a4691871",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -3990,11 +4472,15 @@
         "external_id": "6ae9aafbbe1f6ddaea3c7d75",
         "permalink": "https://facebook.com/1351036918092059_122120697771484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-03T12:36:11+03:00",
-    "verified_claims_count": 7
+    "verified_claims_count": 7,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-03-1500",
@@ -4020,7 +4506,8 @@
         "external_id": "6ae9c8bae9a91b5943ce021c",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -4028,7 +4515,8 @@
         "external_id": "6ae9c8d147205d2c3996b5cf",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -4036,7 +4524,8 @@
         "external_id": "6ae9c8e7e9a91b5943ce0e8e",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2117583471488978999",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -4044,7 +4533,8 @@
         "external_id": "18427799368152347",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfRzYn8kXrY",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -4052,7 +4542,8 @@
         "external_id": "6ae9c90fe9a91b5943ce14a9",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -4060,11 +4551,15 @@
         "external_id": "6ae9c9263b7ecdee655c9134",
         "permalink": "https://facebook.com/1351036918092059_122120721111484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-03T14:44:54+03:00",
-    "verified_claims_count": 1
+    "verified_claims_count": 1,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-03-1800",
@@ -4091,7 +4586,8 @@
         "external_id": "6aea0e2dce22073f337e0abf",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -4099,7 +4595,8 @@
         "external_id": "6aea0e45985f73e5825b0663",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -4107,7 +4604,8 @@
         "external_id": "6aea0e5ceeb5512868739b02",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2117658048458060109",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -4115,7 +4613,8 @@
         "external_id": "18213157126366099",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfSWQdiGwZJ",
         "attempts": 2,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -4123,7 +4622,8 @@
         "external_id": "6aea0e79b75704f9ac63ef13",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -4131,11 +4631,15 @@
         "external_id": "6aea0e9001362e3aaea68bcf",
         "permalink": "https://facebook.com/1351036918092059_122120776311484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-03T19:41:02+03:00",
-    "verified_claims_count": 5
+    "verified_claims_count": 5,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-04-0900",
@@ -4163,7 +4667,8 @@
         "external_id": "6aeaf042394911f9f1323f39",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -4171,7 +4676,8 @@
         "external_id": "6aeaf059dc38f4d7bae62524",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -4179,7 +4685,8 @@
         "external_id": "6aeaf071394911f9f1325b34",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2117900802601648329",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -4187,7 +4694,8 @@
         "external_id": "17944982844092411",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfUDshfkaHg",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -4195,7 +4703,8 @@
         "external_id": "6aeaf096dc38f4d7bae68661",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -4203,11 +4712,15 @@
         "external_id": "6aeaf0addc38f4d7bae68b21",
         "permalink": "https://facebook.com/1351036918092059_122120919579484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-04T11:45:46+03:00",
-    "verified_claims_count": 6
+    "verified_claims_count": 6,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-04-1200",
@@ -4234,7 +4747,8 @@
         "external_id": "6aeaf73b0eea02ace3263572",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -4242,7 +4756,8 @@
         "external_id": "6aeaf7511d881477a61456a3",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -4250,7 +4765,8 @@
         "external_id": "6aeaf7690eea02ace3266c6d",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2117908284225032276",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -4258,7 +4774,8 @@
         "external_id": "18099321002440120",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfUHFsvFo3Y",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -4266,7 +4783,8 @@
         "external_id": "6aeaf790961fae078ac1b8a7",
         "permalink": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7523674225627467776",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -4274,11 +4792,15 @@
         "external_id": "6aeaf7a7ce16a24329e62d68",
         "permalink": "https://facebook.com/1351036918092059_122120926689484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-04T12:15:36+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-04-1500",
@@ -4305,7 +4827,8 @@
         "external_id": "6aeb1a78108e302037fd85dc",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -4313,7 +4836,8 @@
         "external_id": "6aeb1a799074318735750d08",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -4321,7 +4845,8 @@
         "external_id": "6aeb1a909074318735750fec",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2117946031396487261",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -4329,7 +4854,8 @@
         "external_id": "18116687660588324",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfUYQxokdic",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -4337,7 +4863,8 @@
         "external_id": "6aeb1abadde3f600e592e644",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -4345,11 +4872,15 @@
         "external_id": "6aeb1ad16e21919416d74f06",
         "permalink": "https://facebook.com/1351036918092059_122120952123484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-04T14:45:38+03:00",
-    "verified_claims_count": 7
+    "verified_claims_count": 7,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-04-1800",
@@ -4376,7 +4907,8 @@
         "external_id": "6aeb89d5c6d064586b7c7018",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -4384,7 +4916,8 @@
         "external_id": "6aeb89d78ee551b5aa788f8f",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -4392,7 +4925,8 @@
         "external_id": "6aeb89ee8ee551b5aa789805",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2118065609002909873",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -4400,7 +4934,8 @@
         "external_id": "18206680711375029",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfVOpA8D9wJ",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -4408,7 +4943,8 @@
         "external_id": "6aeb8a1723e3db949c15a7e7",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -4416,11 +4952,15 @@
         "external_id": "6aeb8a2e6cbba97f5cc017c1",
         "permalink": "https://facebook.com/1351036918092059_122121049773484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-04T22:40:44+03:00",
-    "verified_claims_count": 7
+    "verified_claims_count": 7,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-04-2100",
@@ -4448,7 +4988,8 @@
         "external_id": "6aeb8e80d0337bbdcd467a6b",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -4456,7 +4997,8 @@
         "external_id": "6aeb8e8101a8211417269af4",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -4464,7 +5006,8 @@
         "external_id": "6aeb8e9960e67ef1d1cb7396",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2118070628280385915",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -4472,7 +5015,8 @@
         "external_id": "18388270492236690",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfVQ6bJFFkp",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -4480,7 +5024,8 @@
         "external_id": "6aeb8ebf01a821141726af68",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -4488,11 +5033,15 @@
         "external_id": "6aeb8ed960e67ef1d1cba118",
         "permalink": "https://facebook.com/1351036918092059_122121054171484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-04T23:00:42+03:00",
-    "verified_claims_count": 2
+    "verified_claims_count": 2,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-05-0900",
@@ -4523,7 +5072,8 @@
         "external_id": "6aec179480f7fd0537f15765",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -4531,7 +5081,8 @@
         "external_id": "6aec17953ddb81d22108fa74",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -4539,7 +5090,8 @@
         "external_id": "6aec17ad7877e0eab278c864",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2118217806390948179",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -4547,7 +5099,8 @@
         "external_id": "18230577982327136",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfWT1voFH6k",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -4555,7 +5108,8 @@
         "external_id": "6aec17cd660b2991f1544540",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -4563,11 +5117,15 @@
         "external_id": "6aec17e475052a1eb821c3e9",
         "permalink": "https://facebook.com/1351036918092059_122121142047484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-05T08:45:22+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-05-1200",
@@ -4594,7 +5152,8 @@
         "external_id": "6aec4423660b2991f16a9c0b",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -4602,7 +5161,8 @@
         "external_id": "6aec443a7877e0eab28e4f55",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -4610,7 +5170,8 @@
         "external_id": "6aec445180f7fd0537080abc",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2118265740365115591",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -4618,7 +5179,8 @@
         "external_id": "18101063132192666",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfWposxlloq",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -4626,7 +5188,8 @@
         "external_id": "6aec44716cf2d12918719a30",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -4634,11 +5197,15 @@
         "external_id": "6aec44883ddb81d2211f9f8d",
         "permalink": "https://facebook.com/1351036918092059_122121174333484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-05T11:55:50+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-05-1500",
@@ -4668,7 +5235,8 @@
         "external_id": "6aec6d1b9e9fe9dc2c11cead",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -4676,7 +5244,8 @@
         "external_id": "6aec6d31507ac1b75df70b6c",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -4684,7 +5253,8 @@
         "external_id": "6aec6d48a622b08bbb8439a6",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2118309726660308992",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -4692,7 +5262,8 @@
         "external_id": "18039539984907452",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfW9phiG0Jq",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -4700,7 +5271,8 @@
         "external_id": "6aec6d6fe5718a454c3e3b25",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -4708,11 +5280,15 @@
         "external_id": "6aec6d869e9fe9dc2c11ef8b",
         "permalink": "https://facebook.com/1351036918092059_122121205917484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-05T14:50:44+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-05-1800",
@@ -4745,7 +5321,8 @@
         "external_id": "6aeca1f42eedef58a9d5000d",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -4753,7 +5330,8 @@
         "external_id": "6aeca20c14c42730f5c0ce5e",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -4761,7 +5339,8 @@
         "external_id": "6aeca223a3148845e40b1194",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2118366479242432735",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -4769,7 +5348,8 @@
         "external_id": "17890414716689838",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfXXcUWldhr",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -4777,7 +5357,8 @@
         "external_id": "6aeca24214c42730f5c0df03",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -4785,11 +5366,15 @@
         "external_id": "6aeca259a3148845e40b27fa",
         "permalink": "https://facebook.com/1351036918092059_122121259551484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-05T18:36:13+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-05-2100",
@@ -4823,7 +5408,8 @@
         "external_id": "6aecc169b09a1f8d3e2948b8",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -4831,7 +5417,8 @@
         "external_id": "6aecc180eb7f28c390f7b2df",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -4839,7 +5426,8 @@
         "external_id": "6aecc197d7d39142cf522d03",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2118400254219309427",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -4847,7 +5435,8 @@
         "external_id": "17945839494128046",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfXmz_lCcwa",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -4855,7 +5444,8 @@
         "external_id": "6aecc1bdb943974e73163db9",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -4863,11 +5453,15 @@
         "external_id": "6aecc1d4d7d39142cf523def",
         "permalink": "https://facebook.com/1351036918092059_122121287463484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-05T20:50:26+03:00",
-    "verified_claims_count": 5
+    "verified_claims_count": 5,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
   },
   {
     "id": "2026-11-06-0900",
@@ -4900,7 +5494,8 @@
         "external_id": "6aed68cb07f945cca94311e2",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "tiktok",
@@ -4908,7 +5503,8 @@
         "external_id": "6aed68e2c1e74b84e5cbfc82",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "x",
@@ -4916,7 +5512,8 @@
         "external_id": "6aed68f97b7e47e8f40dc0ef",
         "permalink": "https://twitter.com/tekno_pusulatr/status/2118579979520733643",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "threads",
@@ -4924,7 +5521,8 @@
         "external_id": "18449036953132683",
         "permalink": "https://www.threads.com/@tekno_pusula/post/DfY4j3Clkv2",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "linkedin",
@@ -4932,7 +5530,8 @@
         "external_id": "6aed692807f945cca9431f69",
         "permalink": "",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       },
       {
         "platform": "facebook",
@@ -4940,10 +5539,100 @@
         "external_id": "6aed693ef3498efda7713133",
         "permalink": "https://facebook.com/1351036918092059_122121403743484840",
         "attempts": 1,
-        "last_error": ""
+        "last_error": "",
+        "remote_status": ""
       }
     ],
     "created_at": "2026-11-06T08:44:44+03:00",
-    "verified_claims_count": 8
+    "verified_claims_count": 8,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": ""
+  },
+  {
+    "id": "2026-11-16-1200",
+    "date": "2026-11-16",
+    "slot": "12:00",
+    "type": "news",
+    "title_tr": "ULA Vulcan roketi ilk görevinde başarısız oldu",
+    "original_title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+    "source_urls": [
+      "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites"
+    ],
+    "canonical_url": "https://theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+    "entities": [
+      "United Launch Alliance",
+      "Amazon",
+      "ULA",
+      "Leo",
+      "SpaceX",
+      "Starlink",
+      "Vulcan",
+      "Space Launch Complex 41",
+      "LV-01"
+    ],
+    "event_type": "launch_failure",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": ""
+      },
+      {
+        "platform": "x",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": ""
+      },
+      {
+        "platform": "threads",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": ""
+      }
+    ],
+    "created_at": "2026-11-16T12:04:24+03:00",
+    "verified_claims_count": 6,
+    "topic": "space",
+    "primary_entity": "United Launch Alliance",
+    "event_key": "ula_vulcan_launch_failure"
   }
 ]

@@ -1,0 +1,251 @@
+{
+  "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+  "canonical_url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+  "source_names": [
+    "The Verge",
+    "Ars Technica",
+    "Engadget"
+  ],
+  "checked_at": "2026-11-16T12:03:33+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "United Launch Alliance (ULA) 20 yıllık tarihinde ilk kez bir görev başarısızlığı yaşadığını bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+          "quote": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history"
+        },
+        {
+          "url": "https://www.engadget.com/2317283/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/",
+          "quote": "It’s the alliance's first launch failure since it formed in 2006."
+        }
+      ]
+    },
+    {
+      "claim": "ULA'nın Vulcan roketi, 40 adet Amazon Leo uydusunu yörüngeye yerleştiremedi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+          "quote": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit."
+        },
+        {
+          "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+          "quote": "United Launch Alliance’s Vulcan rocket and 40 Amazon Leo broadband satellites fell back to Earth minutes after liftoff Sunday"
+        }
+      ]
+    },
+    {
+      "claim": "Amazon, ULA'dan toplam 38 fırlatma satın almıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+          "quote": "Today’s launch was supposed to be the first of 38 flights Amazon purchased from ULA."
+        }
+      ]
+    },
+    {
+      "claim": "ULA, Vulcan aracının Space Launch Complex 41'den fırlatıldığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+          "quote": "In a statement posted on X, ULA said, “Based on data received by our Launch Director, we confirm that the Vulcan vehicle launched from Space Launch Complex 41 suffered an anomaly 10 minutes into the flight"
+        }
+      ]
+    },
+    {
+      "claim": "ULA, Vulcan aracının uçuşun 10. dakikasında bir anomali yaşadığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+          "quote": "In a statement posted on X, ULA said, “Based on data received by our Launch Director, we confirm that the Vulcan vehicle launched from Space Launch Complex 41 suffered an anomaly 10 minutes into the flight"
+        },
+        {
+          "url": "https://www.engadget.com/2317283/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/",
+          "quote": "\"Based on data received by our Launch Director, we confirm that the Vulcan vehicle launched from Space Launch Complex 41 suffered an anomaly 10 minutes into the flight and failed to deliver the Amazon mission to orbit,\""
+        },
+        {
+          "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+          "quote": "In a statement, ULA said the rocket “suffered an anomaly 10 minutes into the flight and failed to deliver the Amazon mission to orbit.”"
+        }
+      ]
+    },
+    {
+      "claim": "Amazon'un başarısız olan görevi LV-01 olarak adlandırılan bir ilk uçuş görevidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+          "quote": "There is risk with any launch, and that’s especially true for inaugural missions like LV-01."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "United Launch Alliance (ULA) 20 yıllık tarihinde ilk kez bir görev başarısızlığı yaşadığını bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+          "quote": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history"
+        },
+        {
+          "url": "https://www.engadget.com/2317283/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/",
+          "quote": "It’s the alliance's first launch failure since it formed in 2006."
+        }
+      ]
+    },
+    {
+      "claim": "ULA'nın Vulcan roketi, 40 adet Amazon Leo uydusunu yörüngeye yerleştiremedi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+          "quote": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit."
+        },
+        {
+          "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+          "quote": "United Launch Alliance’s Vulcan rocket and 40 Amazon Leo broadband satellites fell back to Earth minutes after liftoff Sunday"
+        }
+      ]
+    },
+    {
+      "claim": "Amazon, ULA'dan toplam 38 fırlatma satın almıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+          "quote": "Today’s launch was supposed to be the first of 38 flights Amazon purchased from ULA."
+        }
+      ]
+    },
+    {
+      "claim": "ULA, Vulcan aracının Space Launch Complex 41'den fırlatıldığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+          "quote": "In a statement posted on X, ULA said, “Based on data received by our Launch Director, we confirm that the Vulcan vehicle launched from Space Launch Complex 41 suffered an anomaly 10 minutes into the flight"
+        }
+      ]
+    },
+    {
+      "claim": "ULA, Vulcan aracının uçuşun 10. dakikasında bir anomali yaşadığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+          "quote": "In a statement posted on X, ULA said, “Based on data received by our Launch Director, we confirm that the Vulcan vehicle launched from Space Launch Complex 41 suffered an anomaly 10 minutes into the flight"
+        },
+        {
+          "url": "https://www.engadget.com/2317283/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/",
+          "quote": "\"Based on data received by our Launch Director, we confirm that the Vulcan vehicle launched from Space Launch Complex 41 suffered an anomaly 10 minutes into the flight and failed to deliver the Amazon mission to orbit,\""
+        },
+        {
+          "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+          "quote": "In a statement, ULA said the rocket “suffered an anomaly 10 minutes into the flight and failed to deliver the Amazon mission to orbit.”"
+        }
+      ]
+    },
+    {
+      "claim": "Amazon'un başarısız olan görevi LV-01 olarak adlandırılan bir ilk uçuş görevidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+          "quote": "There is risk with any launch, and that’s especially true for inaugural missions like LV-01."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "United Launch Alliance (ULA) 20 yıllık tarihinde ilk kez bir görev başarısızlığı yaşadığını bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+          "quote": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history"
+        },
+        {
+          "url": "https://www.engadget.com/2317283/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/",
+          "quote": "It’s the alliance's first launch failure since it formed in 2006."
+        }
+      ]
+    },
+    {
+      "claim": "ULA'nın Vulcan roketi, 40 adet Amazon Leo uydusunu yörüngeye yerleştiremedi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+          "quote": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit."
+        },
+        {
+          "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+          "quote": "United Launch Alliance’s Vulcan rocket and 40 Amazon Leo broadband satellites fell back to Earth minutes after liftoff Sunday"
+        }
+      ]
+    },
+    {
+      "claim": "Amazon, ULA'dan toplam 38 fırlatma satın almıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+          "quote": "Today’s launch was supposed to be the first of 38 flights Amazon purchased from ULA."
+        }
+      ]
+    },
+    {
+      "claim": "ULA, Vulcan aracının Space Launch Complex 41'den fırlatıldığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+          "quote": "In a statement posted on X, ULA said, “Based on data received by our Launch Director, we confirm that the Vulcan vehicle launched from Space Launch Complex 41 suffered an anomaly 10 minutes into the flight"
+        }
+      ]
+    },
+    {
+      "claim": "ULA, Vulcan aracının uçuşun 10. dakikasında bir anomali yaşadığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+          "quote": "In a statement posted on X, ULA said, “Based on data received by our Launch Director, we confirm that the Vulcan vehicle launched from Space Launch Complex 41 suffered an anomaly 10 minutes into the flight"
+        },
+        {
+          "url": "https://www.engadget.com/2317283/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/",
+          "quote": "\"Based on data received by our Launch Director, we confirm that the Vulcan vehicle launched from Space Launch Complex 41 suffered an anomaly 10 minutes into the flight and failed to deliver the Amazon mission to orbit,\""
+        },
+        {
+          "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+          "quote": "In a statement, ULA said the rocket “suffered an anomaly 10 minutes into the flight and failed to deliver the Amazon mission to orbit.”"
+        }
+      ]
+    },
+    {
+      "claim": "Amazon'un başarısız olan görevi LV-01 olarak adlandırılan bir ilk uçuş görevidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+          "quote": "There is risk with any launch, and that’s especially true for inaugural missions like LV-01."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites": 1292,
+    "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/": 11690,
+    "https://www.engadget.com/2317283/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/": 3474
+  }
+}

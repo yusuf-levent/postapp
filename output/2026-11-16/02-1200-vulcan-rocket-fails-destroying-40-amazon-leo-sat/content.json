@@ -1,0 +1,70 @@
+{
+  "cover": {
+    "category_label": "UZAY TEKNOLOJİLERİ",
+    "title": "ULA Vulcan roketi ilk görevinde başarısız oldu",
+    "highlight_words": [
+      "ilk görevinde",
+      "başarısız"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "20 yıllık tarihinde ilk kez bir görev başarısızlığı yaşayan ULA, 40 uyduyu kaybetti.",
+    "source_tags": [
+      "THE VERGE",
+      "ARS TECHNICA"
+    ]
+  },
+  "context": {
+    "heading": "Fırlatma sürecinde neler yaşandı?",
+    "cards": [
+      {
+        "card_title": "Anomali tespiti",
+        "card_body": "Space Launch Complex 41'den kalkan Vulcan roketi, uçuşun 10. dakikasında bir anomali yaşadı."
+      },
+      {
+        "card_title": "Görev kaybı",
+        "card_body": "Yaşanan teknik sorun nedeniyle 40 adet Amazon Leo geniş bant uydusu yörüngeye yerleştirilemedi."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "20 YIL",
+    "stat_caption": "United Launch Alliance'ın kuruluşundan bu yana yaşadığı ilk görev başarısızlığı.",
+    "stat_quote": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history. - The Verge"
+  },
+  "details": {
+    "heading": "Görev detayları ve süreç",
+    "cards": [
+      {
+        "card_title": "LV-01 uçuşu",
+        "card_body": "Başarısız olan görev, Amazon'un ULA ile anlaştığı 38 fırlatmalık serinin ilk uçuşu olan LV-01 idi."
+      },
+      {
+        "card_title": "Amazon'un planı",
+        "card_body": "Amazon, geniş bant internet ağı projesi kapsamında ULA'dan toplam 38 adet fırlatma hizmeti satın almıştı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel yansımalar",
+    "cards": [
+      {
+        "card_title": "Fırlatma güvenliği",
+        "card_body": "Uzay görevlerinde, özellikle LV-01 gibi ilk uçuşlarda teknik risklerin her zaman mevcut olduğu bir kez daha görüldü."
+      },
+      {
+        "card_title": "Stratejik planlama",
+        "card_body": "Amazon'un geniş bant uydu ağı kurulumu için planladığı 38 uçuşluk takvimin başlangıcı bu olayla sekteye uğradı."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce uzay görevlerinde ilk uçuşlarda yaşanan bu tür riskler, uzun vadeli projeleri nasıl etkiler?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeler için Tekno Pusula'yı takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": ""
+}

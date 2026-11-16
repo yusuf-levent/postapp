@@ -1,0 +1,39 @@
+{
+  "pipeline_version": 2,
+  "slot": "12:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 96.7,
+  "candidates_tried": 1,
+  "gemini_calls": 15,
+  "model_usage": {
+    "gemini-3.1-flash-lite": 14
+  },
+  "canonical_url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+  "entities": [
+    "United Launch Alliance",
+    "Amazon",
+    "ULA",
+    "Leo",
+    "SpaceX",
+    "Starlink",
+    "Vulcan",
+    "Space Launch Complex 41",
+    "LV-01"
+  ],
+  "event_type": "launch_failure",
+  "topic": "space",
+  "primary_entity": "United Launch Alliance",
+  "event_key": "ula_vulcan_launch_failure",
+  "editorial": {
+    "index": 0,
+    "publishable": true,
+    "importance": 8,
+    "education_value": 4,
+    "topic": "space",
+    "primary_entity": "United Launch Alliance",
+    "event_key": "ula_vulcan_launch_failure",
+    "reason": "Uzay taşımacılığında kritik bir oyuncu olan ULA'nın 20 yıllık tarihinde ilk kez tam görev başarısızlığı yaşaması ve Amazon'un Starlink rakibi projesini sekteye uğratması önemli bir sektörel gelişme."
+  },
+  "generated_at": "2026-11-16T12:04:24+03:00"
+}
