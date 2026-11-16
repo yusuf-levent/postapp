@@ -48,11 +48,11 @@
     },
     "facebook": {
       "platform": "facebook",
-      "state": "submitted",
+      "state": "failed",
       "external_id": "",
       "permalink": "",
       "attempts": 4,
-      "last_error": "Buffer rate limit (429), bekleme: 124949s",
+      "last_error": "Buffer rate limit (429), bekleme: 123970s",
       "remote_status": ""
     }
   }
