@@ -5658,56 +5658,56 @@
     "status_per_platform": [
       {
         "platform": "instagram",
-        "state": "pending",
+        "state": "failed",
         "external_id": "",
         "permalink": "",
-        "attempts": 0,
-        "last_error": "",
+        "attempts": 1,
+        "last_error": "Buffer rate limit (429), bekleme: 115370s",
         "remote_status": ""
       },
       {
         "platform": "tiktok",
-        "state": "pending",
+        "state": "failed",
         "external_id": "",
         "permalink": "",
-        "attempts": 0,
-        "last_error": "",
+        "attempts": 1,
+        "last_error": "Buffer rate limit (429), bekleme: 115217s",
         "remote_status": ""
       },
       {
         "platform": "x",
-        "state": "pending",
+        "state": "submitted",
         "external_id": "",
         "permalink": "",
-        "attempts": 0,
-        "last_error": "",
-        "remote_status": ""
+        "attempts": 1,
+        "last_error": "Buffer yayını henüz doğrulanmadı (unknown).",
+        "remote_status": "unknown"
       },
       {
         "platform": "threads",
-        "state": "pending",
-        "external_id": "",
-        "permalink": "",
-        "attempts": 0,
+        "state": "published",
+        "external_id": "18648430141027045",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfzWtzNFlbr",
+        "attempts": 1,
         "last_error": "",
         "remote_status": ""
       },
       {
         "platform": "linkedin",
-        "state": "pending",
+        "state": "failed",
         "external_id": "",
         "permalink": "",
-        "attempts": 0,
-        "last_error": "",
+        "attempts": 1,
+        "last_error": "Buffer rate limit (429), bekleme: 115025s",
         "remote_status": ""
       },
       {
         "platform": "facebook",
-        "state": "pending",
+        "state": "failed",
         "external_id": "",
         "permalink": "",
-        "attempts": 0,
-        "last_error": "",
+        "attempts": 1,
+        "last_error": "Buffer rate limit (429), bekleme: 114872s",
         "remote_status": ""
       }
     ],
