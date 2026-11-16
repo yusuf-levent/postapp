@@ -36,19 +36,12 @@ def generate_captions(
         cap = getattr(captions, key)
         cap.hashtags = [h.lstrip("#").strip() for h in cap.hashtags if h.lstrip("#").strip()]
 
-    for attempt in range(max_retries + 1):
-        over = _find_limit_violations(captions)
-        if not over:
-            return captions
-        log.warning("Karakter limiti aşımları: %s", over)
-        if attempt == max_retries:
-            # Son çare: koda kısalt (hashtag'leri azalt, sonra kes)
-            captions = _force_trim(captions, over)
-            return captions
-        captions = _request_shortening(llm, captions, over)
-        for key in PLATFORM_KEYS:
-            cap = getattr(captions, key)
-            cap.hashtags = [h.lstrip("#").strip() for h in cap.hashtags if h.lstrip("#").strip()]
+    over = _find_limit_violations(captions)
+    if over:
+        # Re-generating all six platforms for a five-character X overflow
+        # wasted quota and sometimes returned the same invalid length again.
+        log.info("Açıklama sınırları kodla uygulanıyor: %s", over)
+        captions = _force_trim(captions, over)
     return captions
 
 
@@ -110,8 +103,11 @@ def _force_trim(captions: Captions, over: dict[str, int]) -> Captions:
             cap.hashtags = cap.hashtags[: rules.hashtags[1]]
         # Hâlâ aşıyorsa metni kes ve "..." ekle
         if _effective_length(platform, cap.text) > rules.limit:
-            max_len = rules.limit - 3
-            cap.text = cap.text[:max_len].rsplit(" ", 1)[0] + "…"
+            text = cap.text.rstrip()
+            while text and _effective_length(platform, text + "…") > rules.limit:
+                parts = text.rsplit(None, 1)
+                text = parts[0] if len(parts) > 1 else text[:-1]
+            cap.text = text.rstrip(" .") + "…"
         setattr(captions, platform, cap)
     return captions
 

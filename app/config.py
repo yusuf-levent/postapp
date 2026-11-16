@@ -27,10 +27,16 @@ class Settings(BaseSettings):
 
     # Gemini
     gemini_api_key: str = Field(default="", alias="GEMINI_API_KEY")
+    gemini_backup_api_key: str = Field(default="", alias="GEMINI_BACKUP_API_KEY")
     gemini_model: str = Field(default="gemini-3.5-flash-lite", alias="GEMINI_MODEL")
     gemini_fallback_model: str = Field(
         default="gemini-3.1-flash-lite", alias="GEMINI_FALLBACK_MODEL"
     )
+    # Optional text-only fallback. Can also point to a self-hosted /v1 router.
+    text_fallback_api_key: str = Field(default="", alias="TEXT_FALLBACK_API_KEY")
+    text_fallback_base_url: str = Field(default="https://api.groq.com/openai/v1", alias="TEXT_FALLBACK_BASE_URL")
+    text_fallback_model: str = Field(default="llama-3.3-70b-versatile", alias="TEXT_FALLBACK_MODEL")
+    gemini_enable_grounding: bool = Field(default=False, alias="GEMINI_ENABLE_GROUNDING")
 
     # Görseller / videolar
     pexels_api_key: str = Field(default="", alias="PEXELS_API_KEY")
@@ -77,8 +83,12 @@ class SourcesConfig(BaseModel):
         return [s.domain for s in self.all_feeds] + self.verification_only_domains
 
     def is_allowed_url(self, url: str) -> bool:
-        u = url.lower()
-        return any(d in u for d in self.allowed_domains)
+        from urllib.parse import urlsplit
+        parts = urlsplit(url)
+        host = (parts.hostname or "").lower()
+        return parts.scheme in ("http", "https") and any(
+            host == d or host.endswith("." + d) for d in self.allowed_domains
+        )
 
 
 class PlatformRules(BaseModel):

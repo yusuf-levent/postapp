@@ -15,16 +15,23 @@ slots:
     type: news
 
 # Haber bulunamazsa slot eğitim postuna düşer (auto), o da olmazsa slot atlanır
-fallback_to_edu: true
+fallback_to_edu: false
+max_catchup_minutes: 90
 
 # Tarih önceliği: bugün -> dün -> ... en fazla N gün geriye
-max_lookback_days: 7
+max_lookback_days: 2
 
 # Bir çalışmada en fazla kaç aday denenir
 max_candidates_per_run: 8
 
 # Aynı gün aynı şirket hakkında en fazla kaç post
-max_posts_per_entity_per_day: 2
+max_posts_per_entity_per_day: 1
+
+editorial:
+  shortlist_size: 24
+  min_importance: 7
+  max_posts_per_topic_per_day: 2
+  max_consumer_posts_per_day: 1
 
 # Dedup eşikleri
 dedup:

@@ -48,9 +48,9 @@ def test_two_rounds_disagree_becomes_not_found():
 def test_two_rounds_agree_and_quote_valid():
     quote = "%40 daha verimli olduğunu açıkladı"
     r1 = [ClaimVerification(claim="X %40 arttı", verdict="supported",
-                            evidence=[Evidence(url="u", quote=quote)])]
+                            evidence=[Evidence(url="https://a.com/1", quote=quote)])]
     r2 = [ClaimVerification(claim="X %40 arttı", verdict="supported",
-                            evidence=[Evidence(url="u", quote=quote)])]
+                            evidence=[Evidence(url="https://a.com/1", quote=quote)])]
     final = validate_evidence(r1, r2, SOURCE_TEXTS)
     assert final[0].verdict == "supported"
     assert len(final[0].evidence) == 1

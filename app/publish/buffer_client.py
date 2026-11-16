@@ -19,7 +19,7 @@ from typing import Any
 import requests
 
 from app.config import platforms_config, settings
-from app.publish.retry import PermanentError, TransientError, raise_for_status
+from app.publish.retry import AmbiguousError, PermanentError, TransientError, raise_for_status
 
 log = logging.getLogger("tekno-pusula.buffer")
 
@@ -131,6 +131,8 @@ class BufferClient:
         if resp.status_code == 429:
             retry_after = resp.headers.get("Retry-After", "60")
             raise TransientError(f"Buffer rate limit (429), bekleme: {retry_after}s")
+        if query.lstrip().startswith("mutation") and (resp.status_code >= 500 or resp.status_code == 408):
+            raise AmbiguousError(f"Buffer yazma isteği HTTP {resp.status_code}; kabul edilmiş olabilir.")
         raise_for_status(resp.status_code, resp.text)
 
         data = resp.json()
@@ -256,6 +258,7 @@ class BufferClient:
             post_id = post.get("id", "")
             status = post.get("status", "")
             ext_link = post.get("externalLink", "")
+            post_error = post.get("error") or {}
             log.info("Buffer post oluşturuldu: %s (%s)", post_id, status)
             # ÖNEMLİ: PostActionSuccess = post Buffer'a KAYDEDİLDİ.
             # Buradan sonra exception fırlatmak, retry mekanizmasının AYNI postu
@@ -272,18 +275,20 @@ class BufferClient:
                     status = polled.get("status") or status
                     ext_link = polled.get("externalLink") or ext_link
                     err = (polled.get("error") or {}).get("message")
+                    post_error = polled.get("error") or {}
                     if err:
                         log.error("Buffer gönderim hatası (%s): %s", post_id, err)
             return {
                 "id": post_id,
                 "status": status,
                 "externalLink": ext_link,
+                "error": post_error,
             }
 
         message = payload.get("message", f"bilinmeyen Buffer hatası: {typename}")
-        if typename in ("UnauthorizedError", "LimitReachedError"):
+        if typename in ("UnauthorizedError", "LimitReachedError", "InvalidInputError", "NotFoundError"):
             raise PermanentError(f"Buffer {typename}: {message}")
-        raise TransientError(f"Buffer {typename}: {message}")
+        raise AmbiguousError(f"Buffer {typename}: {message}")
 
     def create_video_post(
         self,
@@ -335,6 +340,7 @@ class BufferClient:
                     post_id = post.get("id", "")
                     status = post.get("status", "")
                     ext_link = post.get("externalLink", "")
+                    post_error = post.get("error") or {}
                     log.info("Buffer video post oluşturuldu (%s): %s (%s)", platform, post_id, status)
                     if post_id and share_now and status not in ("sent", "error"):
                         polled = self._poll_post_status(post_id)
@@ -342,12 +348,14 @@ class BufferClient:
                             status = polled.get("status") or status
                             ext_link = polled.get("externalLink") or ext_link
                             err = (polled.get("error") or {}).get("message")
+                            post_error = polled.get("error") or {}
                             if err:
                                 log.error("Buffer video gönderim hatası (%s): %s", post_id, err)
                     return {
                         "id": post_id,
                         "status": status,
                         "externalLink": ext_link,
+                        "error": post_error,
                     }
                 # Yalnızca post HİÇ kaydedilmediyse sonraki meta denenir.
                 if typename == "InvalidInputError":
@@ -356,15 +364,13 @@ class BufferClient:
                 # Diğer hatalarda post kaydedilmiş olabilir → tekrar deneme YOK.
                 log.error("Buffer video denemesi (%s, %s) sonuç: %s — tekrar denenmiyor.", platform, meta, typename or payload.get("message"))
                 break
+            except (PermanentError, TransientError):
+                raise
             except Exception as exc:
                 log.warning("Buffer video denemesi (%s, %s) hata verdi: %s", platform, meta, exc)
                 # Ağ hatası vb.: post kaydedilmiş olabilir → fallback'e GEÇME,
                 # tekrar deneme YOK (çift paylaşım engeli).
-                return {
-                    "id": "",
-                    "status": "unknown",
-                    "externalLink": "",
-                }
+                raise AmbiguousError("Buffer video isteğinin sonucu doğrulanamadı.") from exc
 
         # Yalnızca hiçbir deneme post kaydetmediyse fallback'e geç.
         # (PostActionSuccess alan herhangi bir deneme yukarıda döndü.)

@@ -95,13 +95,13 @@ def test_duplicate_similar_title():
 
 def test_duplicate_same_event_within_window():
     cand = Candidate(
-        title="Tamamen farklı bir başlık",
+        title="OpenAI GPT-5 model release brings new reasoning",
         url="https://example.com/a",
         entities=["OpenAI"],
         event_type="product_launch",
         published=datetime.now(timezone.utc),
     )
-    hist = [_hist("Bambaşka başlık", url="https://example.com/b",
+    hist = [_hist("OpenAI unveils GPT-5 capabilities for developers", url="https://example.com/b",
                   entities=["OpenAI"], event_type="product_launch", days_ago=3)]
     dup, reason = is_duplicate(cand, hist)
     assert dup

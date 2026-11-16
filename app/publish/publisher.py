@@ -9,6 +9,7 @@ from __future__ import annotations
 import json
 import logging
 from pathlib import Path
+from typing import Callable
 
 from app.config import platforms_config, settings
 from app.models import PlatformStatus
@@ -68,11 +69,26 @@ def publish_platform(
     account: str = "A",
     status: PlatformStatus | None = None,
     thread_replies: list[dict] | None = None,
+    before_submit: Callable[[], None] | None = None,
 ) -> PlatformStatus:
     """Tek platforma paylaşım yapar (retry + idempotent)."""
     st = status or PlatformStatus(platform=platform)
     if st.state == "published":
         log.info("%s zaten yayınlanmış, atlanıyor (idempotent)", platform)
+        return st
+
+    # An accepted Buffer ID must only be queried, never submitted a second time.
+    if st.external_id and platform != "threads":
+        try:
+            value = client_for_account(account).get_post_status(st.external_id)
+            _apply_result(st, value)
+        except Exception as exc:
+            log.warning("%s durum sorgusu başarısız: %s", platform, type(exc).__name__)
+        return st
+    if st.state == "submitted":
+        return st  # unknown result without an ID needs manual reconciliation
+    if platform != "threads" and not channel_id:
+        st.state, st.last_error = "failed", "Buffer kanal kimliği tanımlı değil."
         return st
 
     def _do() -> dict:
@@ -115,13 +131,12 @@ def publish_platform(
 
     st.attempts += 1
     st.state = "submitted"
+    if before_submit:
+        before_submit()  # durable journal BEFORE the external side effect
     result = with_retry(_do, max_attempts=3, label=f"publish:{platform}")
     if result.ok:
         value = result.value or {}
-        st.external_id = str(value.get("id") or "")
-        st.permalink = str(value.get("permalink") or value.get("externalLink") or "")
-        st.state = "published"
-        st.last_error = ""
+        _apply_result(st, value)
     elif result.ambiguous:
         # İstek gönderildi ama sonuç doğrulanamadı (timeout vb.).
         # Post PAYLAŞILMIŞ OLABİLİR → `submitted` olarak bırakılır.
@@ -139,6 +154,22 @@ def publish_platform(
     return st
 
 
+def _apply_result(st: PlatformStatus, value: dict) -> None:
+    st.external_id = str(value.get("id") or st.external_id or "")
+    st.permalink = str(value.get("permalink") or value.get("externalLink") or st.permalink or "")
+    remote = str(value.get("status") or "").lower()
+    st.remote_status = remote
+    error = value.get("error") or {}
+    message = error.get("message", "") if isinstance(error, dict) else str(error)
+    if st.external_id and (remote == "sent" or st.platform == "threads"):
+        st.state, st.last_error = "published", ""
+    elif remote == "error":
+        st.state, st.last_error = "failed", message or "Buffer gönderimi hata ile tamamlandı."
+    else:
+        st.state = "submitted"
+        st.last_error = message or f"Buffer yayını henüz doğrulanmadı ({remote or 'bilinmiyor'})."
+
+
 def publish_all(
     post_dir: Path,
     *,
@@ -149,6 +180,7 @@ def publish_all(
     channel_map: dict[str, tuple[str, str]],  # platform → (account, channel_id)
     thread_replies: list[dict] | None = None,
     dry_run: bool = False,
+    checkpoint: Callable[[], None] | None = None,
 ) -> dict[str, PlatformStatus]:
     """Tüm platformlara paylaşım yapar. status.json + history.json güncellenir.
 
@@ -171,12 +203,12 @@ def publish_all(
         log.warning("Threads token yenileme atlandı: %s", exc)
 
     # Görsellerin ve videonun herkese açık URL'lerinin yayılmasını bekle
-    check_urls = list(image_urls or [])
+    check_urls = list(dict.fromkeys([*(image_urls or []), *(image_urls_9x16 or [])]))
     if video_url:
         check_urls.append(video_url)
     if check_urls:
         if not wait_for_public_urls(check_urls):
-            log.warning("Görsel/video URL'leri zamanında herkese açılmadı, devam ediliyor")
+            raise PublisherError("Medya URL'leri erişilebilir değil; paylaşım başlatılmadı.")
 
     existing_map: dict[str, PlatformStatus] = {}
     status_file = post_dir / "status.json"
@@ -189,11 +221,19 @@ def publish_all(
         except Exception:
             pass
 
+    statuses = {name: existing_map.get(name) or PlatformStatus(platform=name)
+                for name in platforms if name in captions}
+
+    def save_status() -> None:
+        _write_status(post_dir, statuses, dry_run=False)
+        if checkpoint:
+            checkpoint()
+
     for name, rules in platforms.items():
         if name not in captions:
             continue
         # Idempotent: daha önce published ise tekrar gönderme (çift paylaşım engeli)
-        prev = existing_map.get(name)
+        prev = statuses.get(name)
         if prev and prev.state == "published":
             log.info("%s zaten yayınlanmış (idempotent), atlanıyor", name)
             statuses[name] = prev
@@ -211,10 +251,12 @@ def publish_all(
             video_url=video_url if name in ("instagram", "tiktok") else "",
             channel_id=channel_id,
             account=account,
-            status=existing_map.get(name),
+            status=prev,
             thread_replies=thread_replies,
+            before_submit=save_status,
         )
         statuses[name] = status
+        save_status()
 
     _write_status(post_dir, statuses, dry_run=False)
     return statuses
@@ -232,6 +274,7 @@ def recover_failed(
     thread_replies: list[dict] | None = None,
     max_total_attempts: int = 5,
     dry_run: bool = False,
+    checkpoint: Callable[[], None] | None = None,
 ) -> dict[str, PlatformStatus]:
     """Son 24 saatteki failed/pending platformları yeniden dener.
 
@@ -244,11 +287,27 @@ def recover_failed(
             recovered[st.platform] = st
         return recovered
     platforms = platforms_config().platforms
+    latest = {s.platform: s for s in history_statuses}
+    status_file = post_dir / "status.json"
+    if status_file.exists():
+        saved = json.loads(status_file.read_text(encoding="utf-8")).get("platforms", {})
+        latest.update({k: PlatformStatus.model_validate(v) for k, v in saved.items()})
+    history_statuses = list(latest.values())
+    if any(st.state in ("pending", "failed") and not st.external_id for st in history_statuses):
+        urls = list(dict.fromkeys([*image_urls, *(image_urls_9x16 or []), *([video_url] if video_url else [])]))
+        if urls and not wait_for_public_urls(urls):
+            raise PublisherError("Kurtarma için medya URL'leri erişilebilir değil; yeni gönderim başlatılmadı.")
+
+    def save_status() -> None:
+        _write_status(post_dir, latest, dry_run=False)
+        if checkpoint:
+            checkpoint()
+
     for st in history_statuses:
         if st.state == "published":
             recovered[st.platform] = st
             continue
-        if st.attempts >= max_total_attempts:
+        if st.attempts >= max_total_attempts and not st.external_id:
             log.warning(
                 "%s için deneme sınırı doldu (%d), atlanıyor",
                 st.platform, st.attempts,
@@ -273,8 +332,11 @@ def recover_failed(
             account=account,
             status=st,
             thread_replies=thread_replies,
+            before_submit=save_status,
         )
         recovered[st.platform] = new_status
+        latest[st.platform] = new_status
+        save_status()
 
     _write_status(post_dir, recovered, dry_run=False)
     return recovered

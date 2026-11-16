@@ -22,14 +22,22 @@ def generate_slides(
     llm: GeminiClient,
     verifications: list[ClaimVerification],
     source_names: list[str],
+    *, feedback: str = "",
 ) -> SlideDeck:
     """Doğrulanmış iddialardan 6 slaytlık içerik üretir + son kontrol yapar."""
     claims_text = "\n".join(
-        f"- {v.claim}" for v in verifications if v.verdict == "supported"
+        f"- {v.claim}\n" + "\n".join(f"  Kaynak kanıtı ({e.url}): {e.quote}" for e in v.evidence)
+        for v in verifications if v.verdict == "supported"
     )
     prompt = prompts.SLIDES_PROMPT.format(
         claims=claims_text, source_names=", ".join(source_names)
     )
+    if feedback:
+        prompt += (
+            "\nÖnceki taslakta şu anlatım/kalite sorunları bulundu:\n" + feedback
+            + "\nKaynak kanıtlarını öncelikli kabul et. Farklı cihaz/kademe/model/sürüm adlarını açıkça ayır. "
+              "Kaynakta doğru olan bir olguyu tersine çevirme. Yalnızca doğrulanmış bilgilerle taslağı yeniden yaz."
+        )
     deck = llm.generate_structured(
         prompt, SlideDeck, system=prompts.CONTENT_SYSTEM, label="slides"
     )
@@ -55,11 +63,12 @@ def generate_slides(
         violations = _check_limits(deck)
         if violations:
             deck = _shorten(llm, deck, violations)
-
+    if _check_limits(deck) or not _content_only_uses_verified(deck, verifications):
+        raise ContentValidationError("Slayt, kısaltma/yenileme sonrası doğrulanmış bilgi sınırını geçemedi.")
     return deck
 
 
-def generate_edu_deck(llm: GeminiClient, claims_text: str, source_names: list[str]) -> EduDeck:
+def generate_edu_deck(llm: GeminiClient, claims_text: str, source_names: list[str], *, feedback: str = "") -> EduDeck:
     """Eğitim postu yapısı: kapak, problem, adım adım ipuçları, CTA."""
     prompt = (
         "Aşağıdaki doğrulanmış bilgilerle 6 slaytlık EĞİTİM/BİLGİ postu üret.\n\n"
@@ -70,6 +79,8 @@ def generate_edu_deck(llm: GeminiClient, claims_text: str, source_names: list[st
         "gerekiyorsa code_block — örnek kod/prompt), cta (question, reminder_line).\n"
         "Adım adım, pratik ve uygulanabilir olsun. Doğrulanmamış bilgi ekleme."
     )
+    if feedback:
+        prompt += "\nÖnceki taslağın sorunları (yalnızca kaynaklarla tutarlı düzelt):\n" + feedback
     return llm.generate_structured(
         prompt, EduDeck, system=prompts.CONTENT_SYSTEM, label="edu-slides"
     )

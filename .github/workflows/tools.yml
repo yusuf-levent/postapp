@@ -9,6 +9,7 @@ on:
         options:
           - list_buffer_profiles
           - refresh_threads_token
+          - check_ai_backup
         default: list_buffer_profiles
       force:
         type: boolean
@@ -43,6 +44,12 @@ jobs:
           BUFFER_ACCESS_TOKEN_A: ${{ secrets.BUFFER_ACCESS_TOKEN_A }}
           BUFFER_ACCESS_TOKEN_B: ${{ secrets.BUFFER_ACCESS_TOKEN_B }}
         run: python -m app.tools.list_buffer_profiles
+
+      - name: Yedek AI anahtarını doğrula
+        if: github.event.inputs.tool == 'check_ai_backup'
+        env:
+          GEMINI_BACKUP_API_KEY: ${{ secrets.GEMINI_BACKUP_API_KEY }}
+        run: python -m app.tools.check_ai_backup
 
       - name: Threads token yenile
         if: github.event.inputs.tool == 'refresh_threads_token'

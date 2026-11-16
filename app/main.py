@@ -16,7 +16,7 @@ from pathlib import Path
 from app.collect.article import enrich_candidate
 from app.collect.dates import nearest_slot, slot_type, today_label, within_lookback
 from app.collect.rss import collect_all
-from app.common import now_istanbul, slugify, turkish_upper
+from app.common import now_istanbul, slugify, turkish_upper, source_identity
 from app.config import OUTPUT_DIR, platforms_config, schedule_config, settings
 from app.llm.gemini import GeminiClient
 from app.media.collector import collect_images, make_abstract_background
@@ -34,8 +34,11 @@ from app.render.qa import run_qa
 from app.render.renderer import render_deck
 from app.render.templates.styles import CSS
 from app.render.video_renderer import render_reel_video
+from app.media.video_probe import probe_video
 from app.select.dedup import is_duplicate, normalize_url
 from app.select.scoring import build_source_index, score_candidates
+from app.select.editorial import annotate, rejection_reason, shortlist
+from app.scheduling import due_slots as find_due_slots
 from app.store import history as history_store
 from app.store.git_ops import commit_and_push
 from app.store.issues import close_resolved_issues, notify_post_published, open_issue
@@ -71,23 +74,13 @@ def run(
     sched = schedule_config()
 
     date_label = today_label()
-    llm = GeminiClient()
-
-    # 1) Kurtarma turu: son 48 saatte failed/pending olanlar
-    _recovery_pass(llm, dry_run=dry_run)
-
+    _recovery_pass(dry_run=dry_run)
     # 2) Slot ve tip
     if slot == "auto":
         if not dry_run:
-            from datetime import timedelta as _td
             now_ist = now_istanbul()
-            cutoff_hm = (now_ist + _td(minutes=20)).strftime("%H:%M")
-            due_slots = [
-                s["time"]
-                for s in sched.get("slots", [])
-                if s["time"] <= cutoff_hm
-                and not history_store.slot_already_done(date_label, s["time"])
-            ]
+            due_slots = find_due_slots(sched, [e.model_dump() for e in history_store.load_history()]
+                                      + history_store.load_skipped_slots(), now_ist)
             if not due_slots:
                 log.info("Bugün (%s) için saati gelmiş bekleyen slot yok (hepsi yayınlanmış veya henüz saati gelmedi), çıkılıyor.", date_label)
                 return 0
@@ -125,6 +118,8 @@ def run(
         if existing_rc is not None:
             return existing_rc
 
+    llm = GeminiClient()
+
     # 4) Toplama
     all_candidates = collect_all(max_days=sched["max_lookback_days"], include_official=True)
     if not all_candidates:
@@ -132,14 +127,17 @@ def run(
         if ptype == "news" and sched.get("fallback_to_edu"):
             ptype = "edu"
         else:
-            _skip_slot(date_label, slot, "aday bulunamadı")
+            _skip_slot(date_label, slot, "aday bulunamadı", dry_run=dry_run)
             return 0
 
     # 5) Seçim: dedup + puanlama
     history = history_store.load_history()
     today_posts = history_store.entries_for_day(date_label)
     source_index = build_source_index(all_candidates)
-    scored = score_candidates(all_candidates, source_index=source_index)
+    editorial_candidates = [annotate(c) for c in all_candidates if not rejection_reason(c)]
+    scored = score_candidates(editorial_candidates, source_index=source_index)
+    scored = [c for c in scored if not is_duplicate(c, history, today_posts=today_posts)[0]]
+    scored = shortlist(llm, scored, history, mode=ptype)
 
     selected: Candidate | None = None
     verifications = []
@@ -150,7 +148,7 @@ def run(
     tried = 0
 
     for cand in scored:
-        if tried >= MAX_CANDIDATES:
+        if tried >= sched.get("max_candidates_per_run", MAX_CANDIDATES):
             break
         dup, reason = is_duplicate(cand, history, today_posts=today_posts)
         if dup:
@@ -185,6 +183,11 @@ def run(
             log.info("Aday doğrulanamadı, sıradaki adaya geçiliyor.")
             continue
 
+        dup, reason = is_duplicate(enriched, history, today_posts=today_posts)
+        if dup:
+            log.info("Doğrulama sonrası tekrar/çeşitlilik kontrolü: %s", reason)
+            continue
+
         selected = enriched
         verifications = result["verifications"]
         verified_claims = result["usable"]
@@ -199,7 +202,7 @@ def run(
             log.warning("Doğrulanabilir haber bulunamadı, eğitim postuna dönülüyor.")
             ptype = "edu"
         else:
-            _skip_slot(date_label, slot, "doğrulanabilir aday yok")
+            _skip_slot(date_label, slot, "editöryal ve doğrulama kurallarını geçen aday yok", dry_run=dry_run)
             return 0
 
     # 7) Post klasörü
@@ -258,13 +261,32 @@ def run(
     # 11) Render (fontlar önce hazır olsun)
     fonts_dir = ensure_fonts()
     deck["logo_svg"] = logo_svg
-    render_inputs = []
-    for i in range(1, 7):
-        d = dict(deck)
-        d["bg_image"] = _to_file_url(deck_bg[i - 1])
-        render_inputs.append(d)
-    # render_deck tek deck bekler; slayt bazlı bg için özel render
-    rendered = _render_with_backgrounds(render_inputs, post_dir, fonts_dir)
+    # Reserve required text/vision calls before optional video searches.
+    reference_claims = [f"{v.claim}\n" + "\n".join(f"Kaynak ({e.url}): {e.quote}" for e in v.evidence)
+                        for v in verified_claims]
+    for qa_attempt in range(2):
+        (post_dir / "content.json").write_text(json.dumps(deck, ensure_ascii=False, indent=2), encoding="utf-8")
+        render_inputs = []
+        for i in range(1, 7):
+            d = dict(deck)
+            d["bg_image"] = _to_file_url(deck_bg[i - 1])
+            render_inputs.append(d)
+        rendered = _render_with_backgrounds(render_inputs, post_dir, fonts_dir)
+        captions = generate_captions(llm, json.dumps(deck, ensure_ascii=False)[:6000], source_names)
+        qa_ok, qa_issues = run_qa(llm, rendered["slides"], verified_claims=reference_claims,
+                                 captions_json=captions.model_dump_json(), content_json=json.dumps(deck, ensure_ascii=False))
+        if qa_ok:
+            break
+        (post_dir / f"qa_issues-{qa_attempt + 1}.json").write_text(
+            json.dumps(qa_issues, ensure_ascii=False, indent=2), encoding="utf-8")
+        if qa_attempt or any("servisine erişilemedi" in str(i.get("problem", "")) for i in qa_issues):
+            raise RuntimeError(f"Görsel/içerik kalite kontrolü geçmedi: {qa_issues}")
+        feedback = "\n".join(str(i.get("problem", "")) for i in qa_issues)
+        if ptype == "edu":
+            deck = _edu_deck_to_dict(generate_edu_deck(llm, "\n".join(reference_claims), source_names, feedback=feedback))
+        else:
+            deck = _slide_deck_to_dict(generate_slides(llm, verified_claims, source_names, feedback=feedback), source_names)
+        deck["logo_svg"] = logo_svg
 
     # 11b) Reels & TikTok için gerçek video topla + 9:16 video (reel.mp4) üret
     reel_path: Path | None = None
@@ -276,11 +298,13 @@ def run(
             try:
                 vmeta_path = post_dir / "video" / "video_meta.json"
                 if vmeta_path.exists():
-                    _write_video_credit(post_dir, json.loads(vmeta_path.read_text(encoding="utf-8")))
+                    video_meta = json.loads(vmeta_path.read_text(encoding="utf-8"))
+                    _write_video_credit(post_dir, video_meta)
+                    deck["video_illustrative"] = bool(video_meta.get("illustrative"))
             except Exception:
                 pass
             # Orijinal ses yoksa telifsiz müzik ara (konuya göre)
-            if not _video_has_audio_track(source_video):
+            if not probe_video(source_video).get("has_audio"):
                 from app.media.music import find_music as _find_music
 
                 dest_music = post_dir / "video" / "music.mp3"
@@ -308,29 +332,52 @@ def run(
             "sahte slideshow video ÜRETİLMEDİ. Instagram/TikTok'a görsel carousel gönderilecek."
         )
 
-    # 12) QA (6 PNG Gemini ile kontrol — Playwright DOM taşma kontrolü zaten yapıldı)
-    qa_ok, qa_issues = run_qa(llm, rendered["slides"])
-    if not qa_ok:
-        log.warning("QA uyarıları kaydedildi (Playwright DOM taşma kontrolü geçti, yayına devam ediliyor): %s", qa_issues)
-
-    # 13) Açıklamalar
-    content_summary = json.dumps(deck, ensure_ascii=False)[:6000]
-    captions = generate_captions(llm, content_summary, source_names)
-    _write_captions(post_dir, captions, source_names, selected)
+    _write_captions(post_dir, captions, source_names, selected,
+                    title_tr=deck.get("cover", {}).get("title", ""))
 
     # 14) Meta
     _write_meta(post_dir, slot, ptype, llm, started, tried, selected)
 
     # 15) Commit + push (görseller ve reel.mp4 herkese açık URL için)
+    title_tr = deck.get("cover", {}).get("title", "")
+    entry = HistoryEntry(
+        id=f"{date_label}-{slot.replace(':', '')}",
+        date=date_label,
+        slot=slot,
+        type=ptype,
+        title_tr=title_tr,
+        original_title=selected.title if selected else "",
+        source_urls=[selected.url] if selected else [],
+        canonical_url=normalize_url(selected.url) if selected else "",
+        entities=entities,
+        event_type=selected.event_type if selected else "",
+        embedding=selected.embedding if selected else [],
+        status_per_platform=[PlatformStatus(platform=name) for name in platforms_config().platforms],
+        created_at=now_istanbul().isoformat(timespec="seconds"),
+        verified_claims_count=len(verified_claims),
+        topic=selected.topic if selected else "",
+        primary_entity=selected.primary_entity if selected else "",
+        event_key=selected.event_key if selected else "",
+    )
+    if not dry_run:
+        (post_dir / "status.json").write_text(json.dumps({
+            "dry_run": False,
+            "platforms": {name: PlatformStatus(platform=name).model_dump()
+                          for name in platforms_config().platforms},
+        }, ensure_ascii=False, indent=2), encoding="utf-8")
+        # Recovery must find a prepared post even if the process stops before
+        # final history update or its original catch-up window has expired.
+        history_store.append_entry(entry)
     commit_msg = (
         f"🤖 post: {date_label} {slot} – "
         f"{(selected.title if selected else ptype)[:60]}"
     )
-    if not dry_run or True:  # dry_run'da da commit edilir (bölüm 15)
-        commit_and_push(commit_msg, [post_dir.relative_to(_repo_root())])
+    if not dry_run:
+        if not commit_and_push(commit_msg, [post_dir.relative_to(_repo_root()), "data/history.json"]):
+            raise RuntimeError("Medya dosyaları GitHub'a kaydedilemedi; paylaşım başlatılmadı.")
 
     # 16) Paylaşım
-    channel_map = _channel_map()
+    channel_map = _channel_map() if not dry_run else {}
     image_urls = _public_urls(date_label, post_dir, rendered["slides"])
     image_urls_9x16 = _public_urls(
         date_label, post_dir, rendered.get("slides_9x16", []), subdir="slides_9x16"
@@ -351,31 +398,16 @@ def run(
         channel_map=channel_map,
         thread_replies=thread_replies,
         dry_run=dry_run,
+        checkpoint=(lambda: _checkpoint_post(post_dir)) if not dry_run else None,
     )
 
-    # 17) History güncelle + HEMEN commit (paylaşım biter bitmez, daha öncesi değil).
+    # 17) Final platform states replace the durable pending reservation.
     #
     # KRİTİK: history.json commit'i, bildirim/issue adımından ÖNCE yapılmalıdır.
     # Bu sıra garanti edilmezse bildirim exception'ı workflow'u çökertir ve
     # history push EDİLEMEZ → sonraki cron turu aynı slotu TEKRAR YAYINLAR
     # (tüm platformlarda aynı post birden fazla gider).
-    title_tr = deck.get("cover", {}).get("title", "")
-    entry = HistoryEntry(
-        id=f"{date_label}-{slot.replace(':', '')}",
-        date=date_label,
-        slot=slot,
-        type=ptype,
-        title_tr=title_tr,
-        original_title=selected.title if selected else "",
-        source_urls=[selected.url] if selected else [],
-        canonical_url=normalize_url(selected.url) if selected else "",
-        entities=entities,
-        event_type=selected.event_type if selected else "",
-        embedding=selected.embedding if selected else [],
-        status_per_platform=list(statuses.values()),
-        created_at=now_istanbul().isoformat(timespec="seconds"),
-        verified_claims_count=len(verified_claims),
-    )
+    entry.status_per_platform = list(statuses.values())
     if not dry_run:
         history_store.append_entry(entry)
 
@@ -385,7 +417,7 @@ def run(
 
     # history + status + daily_summary commit — EN KRİTİK ADIM, ilk sırada.
     # Bu commit başarılıysa slot tamamlanmış sayılır ve tekrar yayınlanmaz.
-    commit_and_push(
+    if not dry_run and not commit_and_push(
         f"🤖 status: {date_label} {slot}",
         [
             "data/history.json",
@@ -393,7 +425,8 @@ def run(
             post_dir.relative_to(_repo_root()),
             summary_path.relative_to(_repo_root()),
         ],
-    )
+    ):
+        raise RuntimeError("Paylaşım günlüğü GitHub'a kaydedilemedi.")
 
     # 18) Başarısız platformlar için issue; başarılılar için açık issue kapat.
     # Bu adımlar ASLA workflow'u çökertmemeli (history zaten yukarıda push edildi).
@@ -482,7 +515,8 @@ def _publish_existing_dry_run(
             meta_data = json.loads(meta_file.read_text(encoding="utf-8")) if meta_file.exists() else {}
         except Exception:
             continue
-        if not st_data.get("dry_run"):
+        # Old previews were not editorially reviewed by this pipeline version.
+        if meta_data.get("pipeline_version") != 2 or meta_data.get("slot") != slot:
             continue
         if force_type in ("news", "edu") and meta_data.get("type") and meta_data.get("type") != force_type:
             continue
@@ -524,6 +558,7 @@ def _publish_existing_dry_run(
         channel_map=_channel_map(),
         thread_replies=thread_replies,
         dry_run=False,
+        checkpoint=lambda: _checkpoint_post(target_dir),
     )
 
     canonical_url = cap_doc.get("canonical_url") or meta_doc.get("canonical_url") or ""
@@ -538,14 +573,22 @@ def _publish_existing_dry_run(
         original_title=title_tr,
         source_urls=[canonical_url] if canonical_url else [],
         canonical_url=normalize_url(canonical_url) if canonical_url else "",
-        entities=[],
-        event_type="",
+        entities=meta_doc.get("entities", []),
+        event_type=meta_doc.get("event_type", ""),
         embedding=[],
         status_per_platform=list(statuses.values()),
         created_at=now_istanbul().isoformat(timespec="seconds"),
         verified_claims_count=1,
+        topic=meta_doc.get("topic", ""),
+        primary_entity=meta_doc.get("primary_entity", ""),
+        event_key=meta_doc.get("event_key", ""),
     )
     history_store.append_entry(entry)
+
+    # Save history before optional notification/issue requests, also on resume.
+    if not commit_and_push(f"🤖 status: {date_label} {slot}",
+                           ["data/history.json", target_dir.relative_to(_repo_root())]):
+        raise RuntimeError("Yayın geçmişi kaydedilemedi.")
 
     failed = [s for s in statuses.values() if s.state == "failed"]
     for st in failed:
@@ -594,7 +637,7 @@ def _verify_candidate(
 
     # Aşama 1: çapraz kaynak araması (önce RSS eşleşmesi, yoksa grounding)
     info = crosscheck_query(llm, candidate)
-    candidate.entities = info.entities
+    candidate.entities = list(dict.fromkeys([*candidate.entities, *info.entities]))
     candidate.event_type = info.event_type
 
     rss_cross = corroborating_from_rss(all_candidates, candidate, info)
@@ -626,7 +669,7 @@ def _verify_candidate(
     has_official = any(
         any(d in candidate.url.lower() for d in official_domains) for _ in [0]
     ) or any(any(d in u.lower() for d in official_domains) for u in cross_urls)
-    independent_sources = 1 + len(cross_urls)
+    independent_sources = len({source_identity(u) for u in source_texts})
 
     if has_official:
         if independent_sources < 2:
@@ -652,6 +695,11 @@ def _verify_candidate(
         log.info("Karar: RED — %s", reason)
         return None
 
+    main_domains = {source_identity(ev.url) for ev in final[0].evidence}
+    if len(main_domains) < sched_min_sources():
+        log.info("Ana iddia iki ayrı kaynakta kanıtlanamadı; aday reddedildi.")
+        return None
+
     return {
         "verifications": final,
         "usable": usable,
@@ -661,7 +709,11 @@ def _verify_candidate(
     }
 
 
-def _recovery_pass(llm: GeminiClient, *, dry_run: bool) -> None:
+def sched_min_sources() -> int:
+    return schedule_config().get("verification", {}).get("min_independent_sources", 2)
+
+
+def _recovery_pass(*, dry_run: bool) -> None:
     """Son 48 saatte failed/pending platformları yeniden dener."""
     if dry_run:
         return
@@ -670,7 +722,7 @@ def _recovery_pass(llm: GeminiClient, *, dry_run: bool) -> None:
         return
     for entry in recent:
         needs = [
-            s for s in entry.status_per_platform if s.state in ("failed", "pending")
+            s for s in entry.status_per_platform if s.state in ("failed", "pending", "submitted")
         ]
         if not needs:
             continue
@@ -712,6 +764,7 @@ def _recovery_pass(llm: GeminiClient, *, dry_run: bool) -> None:
                 history_statuses=entry.status_per_platform,
                 thread_replies=_thread_replies(captions.get("x", ""), image_urls),
                 dry_run=dry_run,
+                checkpoint=lambda: _checkpoint_post(post_dir),
             )
             if recovered:
                 entry.status_per_platform = list(recovered.values())
@@ -801,7 +854,7 @@ def _edu_deck_to_dict(deck) -> dict:
 
 
 def _assign_backgrounds(paths: list[str]) -> list[str]:
-    """6 slayt için arka plan atar; aynı görsel iki kez kullanılmaz (6 slaytta)."""
+    """Doğrulanmış görselleri slaytlara dağıtır."""
     if not paths:
         return [""] * 6
     out = []
@@ -855,13 +908,14 @@ def _render_with_backgrounds(
 
 
 def _write_captions(
-    post_dir: Path, captions, source_names: list[str], selected: Candidate | None
+    post_dir: Path, captions, source_names: list[str], selected: Candidate | None,
+    *, title_tr: str = "",
 ) -> None:
     """captions.json + captions.md yazar."""
     doc = {
         "captions": captions.model_dump(),
         "source_names": source_names,
-        "title_tr": selected.title if selected else "",
+        "title_tr": title_tr or (selected.title if selected else ""),
         "canonical_url": selected.url if selected else "",
     }
     (post_dir / "captions.json").write_text(
@@ -889,13 +943,21 @@ def _write_meta(
     selected: Candidate | None,
 ) -> None:
     meta = {
+        "pipeline_version": 2,
         "slot": slot,
         "type": ptype,
         "model": llm._model,
         "duration_seconds": round(time.time() - started, 1),
         "candidates_tried": tried,
         "gemini_calls": llm.call_count,
+        "model_usage": llm.model_usage,
         "canonical_url": selected.url if selected else "",
+        "entities": selected.entities if selected else [],
+        "event_type": selected.event_type if selected else "",
+        "topic": selected.topic if selected else "",
+        "primary_entity": selected.primary_entity if selected else "",
+        "event_key": selected.event_key if selected else "",
+        "editorial": selected.raw.get("editorial", {}) if selected else {},
         "generated_at": now_istanbul().isoformat(timespec="seconds"),
     }
     (post_dir / "meta.json").write_text(
@@ -955,6 +1017,11 @@ def _channel_map() -> dict[str, tuple[str, str]]:
         log.warning("Buffer kanal otomatik keşfi başarısız: %s", exc)
 
     return out
+
+
+def _checkpoint_post(post_dir: Path) -> None:
+    if not commit_and_push("🤖 publish: platform durum günlüğü", [post_dir.relative_to(_repo_root()) / "status.json"]):
+        raise RuntimeError("Platform durum günlüğü kaydedilemedi; yayın durduruldu.")
 
 
 def _public_urls(
@@ -1044,7 +1111,7 @@ def _write_video_credit(post_dir: Path, video_meta: dict[str, Any]) -> None:
             "url": video_meta.get("video_url", ""),
             "license": video_meta.get("license", ""),
             "author": video_meta.get("author", ""),
-            "credit_url": video_meta.get("credit_url", ""),
+            "credit_url": video_meta.get("credit_url") or video_meta.get("page_url", ""),
         })
     credits_path.write_text(
         _json.dumps(credits, ensure_ascii=False, indent=2), encoding="utf-8"
@@ -1066,7 +1133,7 @@ def _repo_root() -> Path:
     return REPO_ROOT
 
 
-def _skip_slot(date_label: str, slot: str, reason: str) -> None:
+def _skip_slot(date_label: str, slot: str, reason: str, *, dry_run: bool = False) -> None:
     """Slot atlanır; sebep loglanır ve günlük özet yazılır. Workflow BAŞARISIZ DEĞİL."""
     log.warning("SLOT ATLANDI: %s %s — %s", date_label, slot, reason)
     summary = OUTPUT_DIR / date_label / "daily_summary.md"
@@ -1078,10 +1145,11 @@ def _skip_slot(date_label: str, slot: str, reason: str) -> None:
             summary.write_text(content + line, encoding="utf-8")
     else:
         summary.write_text(f"# Günlük Özet — {date_label}\n\n{line}", encoding="utf-8")
-    commit_and_push(
-        f"🤖 skip: {date_label} {slot}",
-        [summary.relative_to(_repo_root())],
-    )
+    if not dry_run:
+        history_store.mark_slot_skipped(date_label, slot, reason)
+        if not commit_and_push(f"🤖 skip: {date_label} {slot}",
+                               [summary.relative_to(_repo_root()), "data/skipped_slots.json"]):
+            raise RuntimeError("Atlanan slot kaydedilemedi.")
 
 
 def _update_daily_summary(date_label: str) -> None:

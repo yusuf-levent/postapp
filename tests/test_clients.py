@@ -6,10 +6,29 @@ import responses
 
 from app.publish.buffer_client import BufferClient, API_URL
 from app.publish.retry import PermanentError, TransientError
+from app.publish.retry import AmbiguousError
 from app.publish.threads_client import GRAPH_BASE, ThreadsClient, threads_char_length
 
 
 # ------------------------------------------------------------- BufferClient
+@responses.activate
+def test_buffer_write_5xx_is_ambiguous_and_never_retried():
+    responses.post(API_URL, status=503, json={})
+    client = BufferClient(access_token="test-token")
+    with pytest.raises(AmbiguousError):
+        client.create_post(channel_id="ch-1", text="text", image_urls=["https://example.com/a.png"])
+    assert len(responses.calls) == 1
+
+
+@responses.activate
+def test_video_rate_limit_keeps_its_retryable_classification():
+    responses.post(API_URL, status=429, json={}, headers={"Retry-After":"60"})
+    client = BufferClient(access_token="test-token")
+    with pytest.raises(TransientError):
+        client.create_video_post(channel_id="ch-1", text="text", video_url="https://example.com/video.mp4", platform="instagram")
+    assert len(responses.calls) == 1
+
+
 @responses.activate
 def test_buffer_create_post_success():
     responses.add(

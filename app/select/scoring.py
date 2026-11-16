@@ -111,13 +111,9 @@ def score_candidates(
             * _source_count(cand, idx)
             * cross_bonus
         )
-    candidates.sort(
-        key=lambda c: (
-            c.published or datetime.min,  # tarih önceliği: bugün → dün → ...
-            c.score,
-        ),
-        reverse=True,
-    )
+    # Freshness is already part of the score. Sorting by exact publication time
+    # first used to put a fresh accessory/deal above an important AI release.
+    candidates.sort(key=lambda c: c.score, reverse=True)
     return candidates
 
 
