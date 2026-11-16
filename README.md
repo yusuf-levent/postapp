@@ -104,6 +104,8 @@ Settings → Secrets and variables → Actions:
 
 A/B eşleşmesi `config/platforms.yaml` içindedir. `tools → list_buffer_profiles` kanalları listeler. `tools → refresh_threads_token` token'ı yeniler. `GH_PAT` yoksa otomatik secret yenileme kullanılamaz; Threads token'ını süresi dolmadan panelden güncelle.
 
+`tools → check_ai_backup`, yedek anahtarı küçük bir JSON isteği ve bir renk görseliyle doğrular; anahtarı loglamaz veya sosyal medyaya paylaşım yapmaz.
+
 Model adları `GEMINI_MODEL` / `GEMINI_FALLBACK_MODEL` Variables ile değiştirilebilir.
 
 ## Önizleme
