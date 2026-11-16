@@ -21,6 +21,15 @@ def test_buffer_write_5xx_is_ambiguous_and_never_retried():
 
 
 @responses.activate
+def test_video_rate_limit_keeps_its_retryable_classification():
+    responses.post(API_URL, status=429, json={}, headers={"Retry-After":"60"})
+    client = BufferClient(access_token="test-token")
+    with pytest.raises(TransientError):
+        client.create_video_post(channel_id="ch-1", text="text", video_url="https://example.com/video.mp4", platform="instagram")
+    assert len(responses.calls) == 1
+
+
+@responses.activate
 def test_buffer_create_post_success():
     responses.add(
         responses.POST,

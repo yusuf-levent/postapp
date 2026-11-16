@@ -364,7 +364,7 @@ class BufferClient:
                 # Diğer hatalarda post kaydedilmiş olabilir → tekrar deneme YOK.
                 log.error("Buffer video denemesi (%s, %s) sonuç: %s — tekrar denenmiyor.", platform, meta, typename or payload.get("message"))
                 break
-            except PermanentError:
+            except (PermanentError, TransientError):
                 raise
             except Exception as exc:
                 log.warning("Buffer video denemesi (%s, %s) hata verdi: %s", platform, meta, exc)
