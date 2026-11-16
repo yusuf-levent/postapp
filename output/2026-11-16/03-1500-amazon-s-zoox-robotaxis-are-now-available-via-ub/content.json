@@ -1,0 +1,74 @@
+{
+  "cover": {
+    "category_label": "ULAŞIM VE TEKNOLOJİ",
+    "title": "Uber ve Zoox Las Vegas'ta Ortaklık Başlattı",
+    "highlight_words": [
+      "Zoox",
+      "Las Vegas"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Amazon'un otonom araç şirketi Zoox, ilk kez üçüncü taraf bir uygulamada yer alıyor.",
+    "source_tags": [
+      "THE VERGE",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Las Vegas'ta Otonom Dönem",
+    "cards": [
+      {
+        "card_title": "Uber Uygulamasında Zoox",
+        "card_body": "Las Vegas'taki Uber yolcuları, Amazon'a ait Zoox'un direksiyonsuz robotaksileriyle eşleşmeye başladı."
+      },
+      {
+        "card_title": "İlk Üçürcü Taraf Platform",
+        "card_body": "Bu hamle, otonom araç şirketinin bir ilk kez üçüncü taraf bir yolculuk paylaşım platformuyla çalışmasını sağlıyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "İLK KEZ",
+    "stat_caption": "Zoox ilk kez üçüncü taraf bir uygulama üzerinden hizmet veriyor.",
+    "stat_quote": "Zoox robotaxis are officially available through the Uber app in Las Vegas."
+  },
+  "details": {
+    "heading": "Ortaklık Detayları ve Kapsam",
+    "cards": [
+      {
+        "card_title": "MGM Resorts Ortaklığı",
+        "card_body": "Uber ve Zoox, MGM Resorts International için resmi yolculuk paylaşımı ve robotaksi ortağı oldu."
+      },
+      {
+        "card_title": "Hizmet Bölgeleri",
+        "card_body": "Robotaksiler yalnızca Strip, şehir merkezi ve Sanat Bölgesi gibi yoğun turistik alanları kapsıyor."
+      },
+      {
+        "card_title": "Ek Ücret Yok",
+        "card_body": "UberX, Uber Comfort, Uber Electric veya Wait & Save sipariş eden yolcular ek ücret ödemeden Zoox ile eşleşebiliyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Gelecek Planları ve Sektör",
+    "cards": [
+      {
+        "card_title": "Los Angeles Hedefi",
+        "card_body": "Zoox, 2026 sonundan önce Los Angeles'ta kendi uygulamasıyla bağımsız operasyon başlatmayı planlıyor."
+      },
+      {
+        "card_title": "Uber Entegrasyonu",
+        "card_body": "Los Angeles'taki operasyonların 2027 yılında tam olarak Uber entegrasyonuna kavuşması öngörülüyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Direksiyonsuz robotaksileri şehir içinde deneme fırsatınız oldu mu?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": ""
+}

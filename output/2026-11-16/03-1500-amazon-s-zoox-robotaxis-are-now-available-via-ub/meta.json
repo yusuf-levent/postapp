@@ -1,0 +1,36 @@
+{
+  "pipeline_version": 2,
+  "slot": "15:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 854.8,
+  "candidates_tried": 2,
+  "gemini_calls": 40,
+  "model_usage": {
+    "gemini-3.5-flash-lite": 9,
+    "gemini-3.1-flash-lite": 6
+  },
+  "canonical_url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+  "entities": [
+    "Zoox",
+    "Amazon",
+    "Uber",
+    "MGM Resorts International",
+    "Waymo"
+  ],
+  "event_type": "product_launch",
+  "topic": "robotics",
+  "primary_entity": "Zoox",
+  "event_key": "zoox_uber_launch_las_vegas",
+  "editorial": {
+    "index": 0,
+    "publishable": true,
+    "importance": 8,
+    "education_value": 6,
+    "topic": "robotics",
+    "primary_entity": "Zoox",
+    "event_key": "zoox_uber_launch_las_vegas",
+    "reason": "Amazon'un otonom robotaksi servisi Zoox'un Uber entegrasyonu geniş kitleler için somut bir adımdır."
+  },
+  "generated_at": "2026-11-16T15:22:02+03:00"
+}

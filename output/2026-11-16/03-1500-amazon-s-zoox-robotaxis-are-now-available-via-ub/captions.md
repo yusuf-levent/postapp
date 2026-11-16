@@ -1,0 +1,37 @@
+# Platform Açıklamaları
+
+## INSTAGRAM
+
+Las Vegas'ta otonom araç dönemi resmi olarak başladı! Amazon'un otonom araç şirketi Zoox, ilk kez üçüncü taraf bir uygulama olan Uber ile güçlerini birleştirdi. Las Vegas'taki Uber kullanıcıları artık ek ücret ödemeden direksiyonsuz robotaksilerle eşleşebiliyor. MGM Resorts iş birliğiyle hayata geçen bu hizmet, şimdilik Strip ve şehir merkezini kapsıyor. Gelecekte Los Angeles gibi yeni şehirlerin de eklenmesi planlanıyor. Direksiyonsuz robotaksileri şehir içinde deneme fırsatınız oldu mu? Kaynak: The Verge, TechCrunch
+
+#Uber #Zoox #Las Vegas #OtonomAraç #Robotaksi #Teknoloji #Gelecek #Amazon #MGMResorts #YapayZeka #TechNews #Autonomous #FutureOfTransportation
+
+## TIKTOK
+
+Amazon'un otonom araç şirketi Zoox, ilk kez Uber uygulamasında yer almaya başladı! Las Vegas'taki yolcular artık ek ücret ödemeden direksiyonsuz robotaksilerle seyahat edebiliyor. Kaynak: The Verge, TechCrunch
+
+#Uber #Zoox #Las Vegas #Robotaksi #Teknoloji
+
+## X
+
+Amazon'un otonom araç şirketi Zoox, Las Vegas'ta Uber ile ortaklık başlattı. Kullanıcılar artık ek ücret ödemeden direksiyonsuz robotaksilerle eşleşebiliyor. Kaynak: The Verge, TechCrunch
+
+#Uber #Zoox
+
+## THREADS
+
+Las Vegas'ta Otonom Dönem Başladı! Amazon'un otonom araç şirketi Zoox, ilk kez üçüncü taraf bir uygulama olarak Uber entegrasyonunu hayata geçirdi. Las Vegas yolcuları artık ek ücret ödemeden direksiyonsuz robotaksilerle seyahat edebiliyor. Direksiyonsuz robotaksileri şehir içinde deneme fırsatınız oldu mu? 💭 Kaynak: The Verge, TechCrunch
+
+#Uber
+
+## LINKEDIN
+
+Ulaşım ve teknoloji dünyasında çığır açan bir gelişme yaşandı. Amazon'un otonom araç şirketi Zoox, ilk kez üçüncü taraf bir platform olan Uber ile ortaklık kurarak Las Vegas'ta hizmet vermeye başladı. MGM Resorts iş birliğiyle Strip ve şehir merkezinde aktif olan robotaksiler, kullanıcılara ek ücret ödemeden otonom seyahat deneyimi sunuyor. Sektördeki bu büyük entegrasyonun gelecekte Los Angeles gibi farklı metropollere de taşınması planlanıyor. Otonom sürüş teknolojilerinin ticari ölçeklenmesi hakkında ne düşünüyorsunuz? Kaynak: The Verge, TechCrunch
+
+#Ulaşım #Teknoloji #OtonomAraçlar #İnovasyon #Gelecek
+
+## FACEBOOK
+
+Las Vegas'ta otonom araç dönemi başladı! Amazon'un otonom araç şirketi Zoox, ilk kez üçüncü taraf bir uygulama olan Uber ile ortaklık kurdu. Las Vegas'taki Uber yolcuları artık ek ücret ödemeden direksiyonsuz robotaksilerle eşleşebiliyor. MGM Resorts ortaklığıyla hayata geçen bu hizmet şimdilik yoğun turistik bölgeleri kapsıyor. Direksiyonsuz robotaksileri şehir içinde deneme fırsatınız oldu mu? Kaynak: The Verge, TechCrunch
+
+#Uber #Zoox #Las Vegas #Teknoloji #Robotaksi

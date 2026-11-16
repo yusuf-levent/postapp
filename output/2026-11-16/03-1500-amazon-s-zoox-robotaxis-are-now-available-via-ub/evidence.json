@@ -1,0 +1,255 @@
+{
+  "title": "Amazon’s Zoox robotaxis are now available via Uber",
+  "canonical_url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+  "source_names": [
+    "The Verge",
+    "TechCrunch"
+  ],
+  "checked_at": "2026-11-16T15:08:30+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Uber ve Amazon'a ait Zoox, Las Vegas'taki Uber yolcularının Zoox'un direksiyonsuz robotaksileriyle eşleştirileceğini duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+          "quote": "Starting today, Uber riders in Las Vegas can be matched with Amazon-owned Zoox’s purpose-built, bidirectional robotaxis."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
+          "quote": "Zoox robotaxis are officially available through the Uber app in Las Vegas, marking the Amazon-owned autonomous vehicle company’s first partnership with a third-party ride-hailing platform."
+        }
+      ]
+    },
+    {
+      "claim": "Uber ve Zoox, Las Vegas'taki MGM Resorts International için resmi yolculuk paylaşımı ve robotaksi ortaklığı duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+          "quote": "Alongside the launch, Uber and Zoox announced a multiyear deal making them the official rideshare and robotaxi partners for MGM Resorts International in Las Vegas."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
+          "quote": "The two companies also announced a multi-year partnership with MGM Resorts International: they’re rideshare and robotaxi partners for MGM Resorts properties in Las Vegas."
+        }
+      ]
+    },
+    {
+      "claim": "Zoox, 2026 yılının sonundan önce Los Angeles'ta kendi uygulaması üzerinden bağımsız operasyonlar başlatmayı planladığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+          "quote": "Zoox plans to launch initial standalone operations in LA through its own app before the end of 2026"
+        }
+      ]
+    },
+    {
+      "claim": "Zoox'un Los Angeles'taki operasyonlarının 2027 yılında tam olarak Uber entegrasyonuna kavuşacağı ifade edildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+          "quote": "followed by a full Uber integration sometime in 2027."
+        }
+      ]
+    },
+    {
+      "claim": "Waymo Eş CEO'su Tekedra Mawakana, Austin ve Atlanta'daki Uber ile özel ortaklığın Ocak 2028'e kadar sona ereceğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+          "quote": "Waymo co-CEO Tekedra Mawakana recently announced an end to her company’s exclusive partnership with Uber in Austin and Atlanta by January 2028"
+        }
+      ]
+    },
+    {
+      "claim": "Las Vegas'ta UberX, Uber Comfort, Uber Electric, Uber Comfort Electric veya Wait & Save sipariş eden yolcuların ek ücret ödemeden Zoox ile eşleşebileceği belirtildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+          "quote": "Uber says that anyone ordering an UberX, Uber Comfort, Uber Electric, Uber Comfort Electric, or Wait & Save in Sin City can get matched with a Zoox at no extra charge."
+        }
+      ]
+    },
+    {
+      "claim": "Zoox robotaksilerinin Las Vegas'ta yalnızca Strip, şehir merkezi ve Sanat Bölgesi gibi yoğun turistik bölgeleri kapsadığı açıklandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+          "quote": "The company’s robotaxis only cover heavy tourist zones, like the Strip, downtown Las Vegas, and the Arts District."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Uber ve Amazon'a ait Zoox, Las Vegas'taki Uber yolcularının Zoox'un direksiyonsuz robotaksileriyle eşleştirileceğini duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+          "quote": "Starting today, Uber riders in Las Vegas can be matched with Amazon-owned Zoox’s purpose-built, bidirectional robotaxis."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
+          "quote": "Zoox robotaxis are officially available through the Uber app in Las Vegas, marking the Amazon-owned autonomous vehicle company’s first partnership with a third-party ride-hailing platform."
+        }
+      ]
+    },
+    {
+      "claim": "Uber ve Zoox, Las Vegas'taki MGM Resorts International için resmi yolculuk paylaşımı ve robotaksi ortaklığı duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+          "quote": "Alongside the launch, Uber and Zoox announced a multiyear deal making them the official rideshare and robotaxi partners for MGM Resorts International in Las Vegas."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
+          "quote": "The two companies also announced a multi-year partnership with MGM Resorts International: they’re rideshare and robotaxi partners for MGM Resorts properties in Las Vegas."
+        }
+      ]
+    },
+    {
+      "claim": "Zoox, 2026 yılının sonundan önce Los Angeles'ta kendi uygulaması üzerinden bağımsız operasyonlar başlatmayı planladığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+          "quote": "Zoox plans to launch initial standalone operations in LA through its own app before the end of 2026"
+        }
+      ]
+    },
+    {
+      "claim": "Zoox'un Los Angeles'taki operasyonlarının 2027 yılında tam olarak Uber entegrasyonuna kavuşacağı ifade edildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+          "quote": "followed by a full Uber integration sometime in 2027."
+        }
+      ]
+    },
+    {
+      "claim": "Waymo Eş CEO'su Tekedra Mawakana, Austin ve Atlanta'daki Uber ile özel ortaklığın Ocak 2028'e kadar sona ereceğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+          "quote": "Waymo co-CEO Tekedra Mawakana recently announced an end to her company’s exclusive partnership with Uber in Austin and Atlanta by January 2028"
+        }
+      ]
+    },
+    {
+      "claim": "Las Vegas'ta UberX, Uber Comfort, Uber Electric, Uber Comfort Electric veya Wait & Save sipariş eden yolcuların ek ücret ödemeden Zoox ile eşleşebileceği belirtildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+          "quote": "Uber says that anyone ordering an UberX, Uber Comfort, Uber Electric, Uber Comfort Electric, or Wait & Save in Sin City can get matched with a Zoox at no extra charge."
+        }
+      ]
+    },
+    {
+      "claim": "Zoox robotaksilerinin Las Vegas'ta yalnızca Strip, şehir merkezi ve Sanat Bölgesi gibi yoğun turistik bölgeleri kapsadığı açıklandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+          "quote": "The company’s robotaxis only cover heavy tourist zones, like the Strip, downtown Las Vegas, and the Arts District."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Uber ve Amazon'a ait Zoox, Las Vegas'taki Uber yolcularının Zoox'un direksiyonsuz robotaksileriyle eşleştirileceğini duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+          "quote": "Starting today, Uber riders in Las Vegas can be matched with Amazon-owned Zoox’s purpose-built, bidirectional robotaxis."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
+          "quote": "Zoox robotaxis are officially available through the Uber app in Las Vegas, marking the Amazon-owned autonomous vehicle company’s first partnership with a third-party ride-hailing platform."
+        }
+      ]
+    },
+    {
+      "claim": "Uber ve Zoox, Las Vegas'taki MGM Resorts International için resmi yolculuk paylaşımı ve robotaksi ortaklığı duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+          "quote": "Alongside the launch, Uber and Zoox announced a multiyear deal making them the official rideshare and robotaxi partners for MGM Resorts International in Las Vegas."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
+          "quote": "The two companies also announced a multi-year partnership with MGM Resorts International: they’re rideshare and robotaxi partners for MGM Resorts properties in Las Vegas."
+        }
+      ]
+    },
+    {
+      "claim": "Zoox, 2026 yılının sonundan önce Los Angeles'ta kendi uygulaması üzerinden bağımsız operasyonlar başlatmayı planladığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+          "quote": "Zoox plans to launch initial standalone operations in LA through its own app before the end of 2026"
+        }
+      ]
+    },
+    {
+      "claim": "Zoox'un Los Angeles'taki operasyonlarının 2027 yılında tam olarak Uber entegrasyonuna kavuşacağı ifade edildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+          "quote": "followed by a full Uber integration sometime in 2027."
+        }
+      ]
+    },
+    {
+      "claim": "Waymo Eş CEO'su Tekedra Mawakana, Austin ve Atlanta'daki Uber ile özel ortaklığın Ocak 2028'e kadar sona ereceğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+          "quote": "Waymo co-CEO Tekedra Mawakana recently announced an end to her company’s exclusive partnership with Uber in Austin and Atlanta by January 2028"
+        }
+      ]
+    },
+    {
+      "claim": "Las Vegas'ta UberX, Uber Comfort, Uber Electric, Uber Comfort Electric veya Wait & Save sipariş eden yolcuların ek ücret ödemeden Zoox ile eşleşebileceği belirtildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+          "quote": "Uber says that anyone ordering an UberX, Uber Comfort, Uber Electric, Uber Comfort Electric, or Wait & Save in Sin City can get matched with a Zoox at no extra charge."
+        }
+      ]
+    },
+    {
+      "claim": "Zoox robotaksilerinin Las Vegas'ta yalnızca Strip, şehir merkezi ve Sanat Bölgesi gibi yoğun turistik bölgeleri kapsadığı açıklandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+          "quote": "The company’s robotaxis only cover heavy tourist zones, like the Strip, downtown Las Vegas, and the Arts District."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles": 2961,
+    "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/": 3367
+  }
+}
