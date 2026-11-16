@@ -5550,6 +5550,88 @@
     "event_key": ""
   },
   {
+    "id": "2026-11-16-1500",
+    "date": "2026-11-16",
+    "slot": "15:00",
+    "type": "news",
+    "title_tr": "Uber ve Zoox Las Vegas'ta Ortaklık Başlattı",
+    "original_title": "Amazon’s Zoox robotaxis are now available via Uber",
+    "source_urls": [
+      "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles"
+    ],
+    "canonical_url": "https://theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+    "entities": [
+      "Zoox",
+      "Amazon",
+      "Uber",
+      "MGM Resorts International",
+      "Waymo"
+    ],
+    "event_type": "product_launch",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "failed",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 2,
+        "last_error": "Buffer rate limit (429), bekleme: 114470s",
+        "remote_status": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "failed",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 2,
+        "last_error": "Buffer rate limit (429), bekleme: 114317s",
+        "remote_status": ""
+      },
+      {
+        "platform": "x",
+        "state": "submitted",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": "Buffer yayını henüz doğrulanmadı (unknown).",
+        "remote_status": "unknown"
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18648430141027045",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfzWtzNFlbr",
+        "attempts": 1,
+        "last_error": "",
+        "remote_status": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "failed",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 2,
+        "last_error": "Buffer rate limit (429), bekleme: 114161s",
+        "remote_status": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "failed",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 2,
+        "last_error": "Buffer rate limit (429), bekleme: 114005s",
+        "remote_status": ""
+      }
+    ],
+    "created_at": "2026-11-16T15:22:02+03:00",
+    "verified_claims_count": 7,
+    "topic": "robotics",
+    "primary_entity": "Zoox",
+    "event_key": "zoox_uber_launch_las_vegas"
+  },
+  {
     "id": "2026-11-16-1200",
     "date": "2026-11-16",
     "slot": "12:00",
@@ -5634,87 +5716,5 @@
     "topic": "space",
     "primary_entity": "United Launch Alliance",
     "event_key": "ula_vulcan_launch_failure"
-  },
-  {
-    "id": "2026-11-16-1500",
-    "date": "2026-11-16",
-    "slot": "15:00",
-    "type": "news",
-    "title_tr": "Uber ve Zoox Las Vegas'ta Ortaklık Başlattı",
-    "original_title": "Amazon’s Zoox robotaxis are now available via Uber",
-    "source_urls": [
-      "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles"
-    ],
-    "canonical_url": "https://theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
-    "entities": [
-      "Zoox",
-      "Amazon",
-      "Uber",
-      "MGM Resorts International",
-      "Waymo"
-    ],
-    "event_type": "product_launch",
-    "embedding": [],
-    "status_per_platform": [
-      {
-        "platform": "instagram",
-        "state": "failed",
-        "external_id": "",
-        "permalink": "",
-        "attempts": 2,
-        "last_error": "Buffer rate limit (429), bekleme: 114470s",
-        "remote_status": ""
-      },
-      {
-        "platform": "tiktok",
-        "state": "failed",
-        "external_id": "",
-        "permalink": "",
-        "attempts": 2,
-        "last_error": "Buffer rate limit (429), bekleme: 114317s",
-        "remote_status": ""
-      },
-      {
-        "platform": "x",
-        "state": "submitted",
-        "external_id": "",
-        "permalink": "",
-        "attempts": 1,
-        "last_error": "Buffer yayını henüz doğrulanmadı (unknown).",
-        "remote_status": "unknown"
-      },
-      {
-        "platform": "threads",
-        "state": "published",
-        "external_id": "18648430141027045",
-        "permalink": "https://www.threads.com/@tekno_pusula/post/DfzWtzNFlbr",
-        "attempts": 1,
-        "last_error": "",
-        "remote_status": ""
-      },
-      {
-        "platform": "linkedin",
-        "state": "failed",
-        "external_id": "",
-        "permalink": "",
-        "attempts": 2,
-        "last_error": "Buffer rate limit (429), bekleme: 114161s",
-        "remote_status": ""
-      },
-      {
-        "platform": "facebook",
-        "state": "failed",
-        "external_id": "",
-        "permalink": "",
-        "attempts": 2,
-        "last_error": "Buffer rate limit (429), bekleme: 114005s",
-        "remote_status": ""
-      }
-    ],
-    "created_at": "2026-11-16T15:22:02+03:00",
-    "verified_claims_count": 7,
-    "topic": "robotics",
-    "primary_entity": "Zoox",
-    "event_key": "zoox_uber_launch_las_vegas"
   }
 ]
