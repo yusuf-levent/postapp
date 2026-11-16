@@ -136,5 +136,20 @@ def test_invalid_gemma_json_tries_next_variant_without_bypassing_schema(monkeypa
             raise quota_error()
         return SimpleNamespace(text='not JSON' if "31b" in kwargs["model"] else '{"queries":["valid"]}')
     clients[0].models.generate_content.side_effect = generate
+    clients[1].models.generate_content.side_effect = quota_error()
     assert llm.generate_structured("search", SearchQueries).queries == ["valid"]
     assert llm._model == "gemma-4-26b-a4b-it"
+
+
+def test_healthy_backup_gemini_is_preferred_to_gemma(monkeypatch):
+    llm, clients = client(monkeypatch)
+    from app.llm import gemini
+    monkeypatch.setattr(gemini, "MODEL_POOL", ("gemma-4-31b-it",))
+    def generate(**kwargs):
+        if kwargs["model"].startswith("gemini-"):
+            raise quota_error()
+        return SimpleNamespace(text="slower fallback")
+    clients[0].models.generate_content.side_effect = generate
+    clients[1].models.generate_content.return_value = SimpleNamespace(text="backup")
+    assert llm.generate_text("test") == "backup"
+    assert all(not c.kwargs["model"].startswith("gemma-") for c in clients[0].models.generate_content.call_args_list)

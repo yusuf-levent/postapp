@@ -95,46 +95,55 @@ class GeminiClient:
         """fn(model_name) çağrısını 429/404/5xx hatasında model havuzundaki sıradaki modelle tekrarlar."""
         last_exc: Exception | None = None
         transient_seen = False
-        for key_index, client in enumerate(self._clients):
+        routes = []
+        # Try native Gemini on both authorized keys before slower model
+        # fallbacks, so a healthy backup key is actually preferred.
+        for gemma_stage in (False, True):
+            for key_index, client in enumerate(self._clients):
+                self._key_index = key_index
+                for model_name in self._candidate_models():
+                    if model_name.startswith("gemma-") != gemma_stage:
+                        continue
+                    if model_filter and not model_filter(model_name):
+                        continue
+                    routes.append((key_index, client, model_name))
+        for key_index, client, model_name in routes:
             if key_index in self._disabled_keys:
                 continue
             self._key_index, self._client = key_index, client
-            for model_name in self._candidate_models():
-                if model_filter and not model_filter(model_name):
+            self._throttle()
+            self.call_count += 1
+            try:
+                res = fn(model_name)
+                self._model = model_name
+                self.model_usage[model_name] = self.model_usage.get(model_name, 0) + 1
+                return res
+            except ModelOutputError as exc:
+                last_exc = exc
+                log.warning("%s: %s çıktısı şemaya uymadı; sonraki model deneniyor", label, model_name)
+            except genai_errors.APIError as exc:
+                last_exc = exc
+                status = getattr(exc, "code", None) or getattr(exc, "status_code", None)
+                if status in (401, 403):
+                    self._disabled_keys.add(key_index)
                     continue
-                self._throttle()
-                self.call_count += 1
-                try:
-                    res = fn(model_name)
-                    self._model = model_name
-                    self.model_usage[model_name] = self.model_usage.get(model_name, 0) + 1
-                    return res
-                except ModelOutputError as exc:
-                    last_exc = exc
-                    log.warning("%s: %s çıktısı şemaya uymadı; sonraki model deneniyor", label, model_name)
-                except genai_errors.APIError as exc:
-                    last_exc = exc
-                    status = getattr(exc, "code", None) or getattr(exc, "status_code", None)
-                    if status in (401, 403):
-                        self._disabled_keys.add(key_index)
-                        break
-                    if status not in RETRYABLE_STATUS:
-                        raise LLMError(f"{label}: Gemini yapılandırma/istek hatası (HTTP {status}).") from exc
-                    transient_seen = transient_seen or status >= 500
-                    message = str(exc).lower()
-                    if status == 404 or (status == 429 and any(
-                        marker in message for marker in ("perday", "per_day", "daily", "limit: 0", "limit:0")
-                    )):
-                        self._exhausted_models.add((key_index, model_name))
-                    elif status == 429:
-                        # A minute limit is temporary, unlike a daily quota.
-                        delay = re.search(r"retry\w*\W+(\d+(?:\.\d+)?)s", message)
-                        self._cooldowns[key_index, model_name] = time.monotonic() + min(60, float(delay.group(1)) + 1 if delay else 60)
-                    log.warning("%s: Gemini anahtar #%d, model %s, HTTP %s; yedek deneniyor",
-                                label, key_index + 1, model_name, status)
-                except (TimeoutError, ConnectionError) as exc:
-                    last_exc = exc
-                    transient_seen = True
+                if status not in RETRYABLE_STATUS:
+                    raise LLMError(f"{label}: Gemini yapılandırma/istek hatası (HTTP {status}).") from exc
+                transient_seen = transient_seen or status >= 500
+                message = str(exc).lower()
+                if status == 404 or (status == 429 and any(
+                    marker in message for marker in ("perday", "per_day", "daily", "limit: 0", "limit:0")
+                )):
+                    self._exhausted_models.add((key_index, model_name))
+                elif status == 429:
+                    # A minute limit is temporary, unlike a daily quota.
+                    delay = re.search(r"retry\w*\W+(\d+(?:\.\d+)?)s", message)
+                    self._cooldowns[key_index, model_name] = time.monotonic() + min(60, float(delay.group(1)) + 1 if delay else 60)
+                log.warning("%s: Gemini anahtar #%d, model %s, HTTP %s; yedek deneniyor",
+                            label, key_index + 1, model_name, status)
+            except (TimeoutError, ConnectionError) as exc:
+                last_exc = exc
+                transient_seen = True
         waits = [deadline - time.monotonic() for (key, model), deadline in self._cooldowns.items()
                  if key not in self._disabled_keys and (key, model) not in self._exhausted_models
                  and deadline > time.monotonic()]
