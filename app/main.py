@@ -274,7 +274,7 @@ def run(
         rendered = _render_with_backgrounds(render_inputs, post_dir, fonts_dir)
         captions = generate_captions(llm, json.dumps(deck, ensure_ascii=False)[:6000], source_names)
         qa_ok, qa_issues = run_qa(llm, rendered["slides"], verified_claims=reference_claims,
-                                 captions_json=captions.model_dump_json())
+                                 captions_json=captions.model_dump_json(), content_json=json.dumps(deck, ensure_ascii=False))
         if qa_ok:
             break
         (post_dir / f"qa_issues-{qa_attempt + 1}.json").write_text(

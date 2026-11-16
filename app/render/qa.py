@@ -7,10 +7,24 @@ from __future__ import annotations
 
 import logging
 from pathlib import Path
+from typing import Literal
+
+from pydantic import BaseModel, Field
 
 from app.llm.gemini import GeminiClient
 
 log = logging.getLogger("tekno-pusula.qa")
+
+
+class ReviewIssue(BaseModel):
+    slide: int = 0
+    problem: str
+    fix: str = ""
+
+
+class TextReview(BaseModel):
+    verdict: Literal["pass", "fail"]
+    issues: list[ReviewIssue] = Field(default_factory=list)
 
 QA_PROMPT = """Aşağıdaki 6 sosyal medya slayt görselini teknik render kontrolünden geçir.
 
@@ -18,6 +32,7 @@ QA_PROMPT = """Aşağıdaki 6 sosyal medya slayt görselini teknik render kontro
 - Yabancı özel isimler ve marka adlarındaki aksanlı harfler (örn. Spéirling, Citroën vb.) HATA DEĞİLDİR.
 - Slayt şablonundaki sabit marka sloganları ("Tekno Pusula", "Yazılım ve Yapay Zeka İçerikleri İçin" vb.) HATA DEĞİLDİR.
 - Yalnızca CİDDİ görsel bozulma varsa (yazıların üst üste binip tamamen okunamaz hale gelmesi veya görselin tamamen bozuk/siyah çıkması) "fail" döndür. Küçük stil/ifade tercihlerinde her zaman "pass" döndür.
+- Bu görev yalnızca teknik görsel kontroldür. Haberin doğruluğunu genel dünya bilgisiyle değerlendirme; metin kaynaklarla ayrı kontrolden geçmiştir. Roket/ürün/model kimlikleri hakkında düzeltme önerme.
 
 Yanıt formatı — JSON:
 {"verdict": "pass" | "fail", "issues": [{"slide": 1, "problem": "...", "fix": "..."}]}
@@ -32,23 +47,29 @@ def run_qa(
     max_retries: int = 1,
     verified_claims: list[str] | None = None,
     captions_json: str = "",
+    content_json: str = "",
 ) -> tuple[bool, list[dict[str, str]]]:
     """6 PNG'yi Gemini'ye gönderip kalite kontrolü yapar."""
     paths = [str(p) for p in slide_paths]
     try:
-        prompt = QA_PROMPT
-        if verified_claims:
-            prompt += (
-                "\nAyrıca ciddi BİLGİ HATALARINI denetle. Aşağıdaki doğrulanmış iddialar dışında yeni bir "
-                "olgu, rakam, isim, tarih veya sonuç eklenmişse, haberle çelişen görsel kullanılmışsa, "
-                "kaynakta olmayan alıntı veya kesinlik varsa fail ver. Bu içerik kontrolü görsel stil toleransından bağımsızdır.\n"
-                "Referanstaki doğrulanmış iddia ve birebir kaynak kanıtını otorite kabul et; genel dünya bilgisiyle tersini iddia etme. "
-                "Aynı haberde ayrı bileşenlerin (ör. üst kademe ve güçlendirici) farklı sonuçları olabilir. "
-                "Bir bileşenin başarısını diğerine atayan yeni bir düzeltme önerme.\n"
-                "DOĞRULANMIŞ İDDİALAR:\n" + "\n".join(verified_claims)
-                + "\nPLATFORM AÇIKLAMALARI:\n" + captions_json
+        if verified_claims and content_json:
+            review = llm.generate_structured(
+                "Görev: Aşağıdaki taslakta kaynakların DESTEKLEMEDİĞİ yeni bir olgu eklenmiş mi? "
+                "Yalnızca verilen kaynak alıntılarını kullan. Dünya bilgini, eski olayları veya tahminleri KULLANMA. "
+                "Kaynak alıntısı bir olguyu açıkça söylüyorsa, alışılmadık olsa bile o olguyu yanlış diye işaretleme. "
+                "Aynı haberde farklı bileşenlerin farklı sonuçları olabilir; bunları birbirine eşitleme. "
+                "Fail yalnızca açıkça desteksiz yeni olgu, yanlış rakam/tarih/özne veya atlanmış önemli koşul içindir. "
+                "Stil, soru, CTA, marka sloganı ve zararsız özet tercihleri hata değildir. "
+                "Her hata için taslaktaki somut ifadeyi problem alanında belirt. Desteksiz yeni bilgi yoksa pass.\n"
+                "KAYNAK ALINTILARI VE DOĞRULANMIŞ İDDİALAR:\n" + "\n".join(verified_claims)
+                + "\nSLAYT TASLAĞI:\n" + content_json
+                + "\nPLATFORM AÇIKLAMALARI:\n" + captions_json,
+                TextReview, label="content-review",
             )
-        answer = llm.analyze_images(prompt, paths, label="qa")
+            if review.verdict == "fail":
+                return False, [issue.model_dump() for issue in review.issues] or [
+                    {"slide": 0, "problem": "Metin kaynağa bağlılık kontrolünü geçmedi", "fix": ""}]
+        answer = llm.analyze_images(QA_PROMPT, paths, label="qa")
     except Exception as exc:
         log.warning("QA çağrısı başarısız: %s", exc)
         return False, [{"slide": "?", "problem": "Görsel QA servisine erişilemedi", "fix": "yeniden dene"}]

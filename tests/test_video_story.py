@@ -54,3 +54,19 @@ def test_event_image_is_preferred_to_an_incidental_ceo_portrait(tmp_path, monkey
     assert result == [event]
     portrait.assert_not_called()
     stock.assert_not_called()
+
+
+def test_factual_review_uses_source_text_and_visual_review_only_checks_rendering():
+    from unittest.mock import Mock
+    from app.render.qa import run_qa, TextReview
+    llm = Mock()
+    llm.generate_structured.return_value = TextReview(verdict="pass")
+    llm.analyze_images.return_value = '{"verdict":"pass","issues":[]}'
+    assert run_qa(llm, [], verified_claims=["The upper stage was caught; the booster was not."],
+                  content_json='{"title":"Upper stage caught"}', captions_json="captions")[0]
+    text_prompt = llm.generate_structured.call_args.args[0]
+    assert "The upper stage was caught" in text_prompt
+    assert '"title":"Upper stage caught"' in text_prompt
+    visual_prompt = llm.analyze_images.call_args.args[0]
+    assert "The upper stage was caught" not in visual_prompt
+    assert "yalnızca teknik görsel" in visual_prompt
