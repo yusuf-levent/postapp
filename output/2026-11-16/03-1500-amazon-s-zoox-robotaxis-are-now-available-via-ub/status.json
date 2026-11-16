@@ -39,11 +39,11 @@
     },
     "linkedin": {
       "platform": "linkedin",
-      "state": "submitted",
+      "state": "failed",
       "external_id": "",
       "permalink": "",
       "attempts": 3,
-      "last_error": "Buffer rate limit (429), bekleme: 114161s",
+      "last_error": "Buffer rate limit (429), bekleme: 113196s",
       "remote_status": ""
     },
     "facebook": {
