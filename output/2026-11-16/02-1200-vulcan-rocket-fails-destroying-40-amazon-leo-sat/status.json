@@ -3,10 +3,10 @@
   "platforms": {
     "instagram": {
       "platform": "instagram",
-      "state": "failed",
+      "state": "submitted",
       "external_id": "",
       "permalink": "",
-      "attempts": 1,
+      "attempts": 2,
       "last_error": "Buffer rate limit (429), bekleme: 127228s",
       "remote_status": ""
     },
