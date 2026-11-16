@@ -5703,11 +5703,11 @@
       },
       {
         "platform": "facebook",
-        "state": "failed",
+        "state": "submitted",
         "external_id": "",
         "permalink": "",
         "attempts": 5,
-        "last_error": "Buffer rate limit (429), bekleme: 111013s",
+        "last_error": "Buffer rate limit (429), bekleme: 112089s",
         "remote_status": ""
       }
     ],
