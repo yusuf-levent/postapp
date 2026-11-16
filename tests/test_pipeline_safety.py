@@ -1,5 +1,6 @@
 from datetime import datetime, timezone
 from unittest.mock import Mock
+import pytest
 
 from app import main
 from app.models import Candidate
@@ -43,7 +44,8 @@ def test_pending_buffer_id_triggers_recovery_even_without_a_due_slot():
     assert not needs_recovery(h, now)
 
 
-def test_failed_quality_review_repairs_once_and_preview_never_publishes(tmp_path, monkeypatch):
+@pytest.mark.parametrize("dry_run", [True, False])
+def test_quality_repair_and_durable_history_before_publication(tmp_path, monkeypatch, dry_run):
     from types import SimpleNamespace
     from app.models import Caption, Captions, ClaimVerification, Evidence, SlideDeck
     from app.render.sample import sample_deck
@@ -51,10 +53,13 @@ def test_failed_quality_review_repairs_once_and_preview_never_publishes(tmp_path
     post = tmp_path / "post"
     post.mkdir()
     monkeypatch.setattr(main, "OUTPUT_DIR", tmp_path)
+    monkeypatch.setattr(main, "_repo_root", lambda: tmp_path)
     monkeypatch.setattr(main, "GeminiClient", lambda: SimpleNamespace(_model="test", call_count=0, model_usage={}))
     monkeypatch.setattr(main.history_store, "slot_already_done", lambda *args: False)
     monkeypatch.setattr(main.history_store, "load_history", lambda: [])
     monkeypatch.setattr(main.history_store, "entries_for_day", lambda *args: [])
+    saved = []
+    monkeypatch.setattr(main.history_store, "append_entry", lambda e: saved.append(e.model_dump()))
     cand = Candidate(title="An important AI release", url="https://a.com/news", published=datetime.now(timezone.utc))
     monkeypatch.setattr(main, "collect_all", lambda **kwargs: [cand])
     monkeypatch.setattr(main, "shortlist", lambda llm, candidates, history, **kwargs: candidates)
@@ -77,13 +82,28 @@ def test_failed_quality_review_repairs_once_and_preview_never_publishes(tmp_path
     monkeypatch.setattr(main, "run_qa", review)
     monkeypatch.setattr(main, "_public_urls", lambda *args, **kwargs: [])
     monkeypatch.setattr(main, "_public_video_url", lambda *args: "")
-    commit = Mock(side_effect=AssertionError("Preview must not commit"))
-    channels = Mock(side_effect=AssertionError("Preview must not connect to Buffer"))
+    commit = Mock(return_value=True) if not dry_run else Mock(side_effect=AssertionError("Preview must not commit"))
+    channels = Mock(return_value={}) if not dry_run else Mock(side_effect=AssertionError("Preview must not connect to Buffer"))
     monkeypatch.setattr(main, "commit_and_push", commit)
     monkeypatch.setattr(main, "_channel_map", channels)
-    assert main.run(slot="09:00", force_type="news", dry_run=True) == 0
+    if not dry_run:
+        from app.models import PlatformStatus
+        def publish(post_dir, **kwargs):
+            assert len(saved) == 1
+            assert all(s["state"] == "pending" for s in saved[0]["status_per_platform"])
+            assert "data/history.json" in commit.call_args.args[1]
+            return {p:PlatformStatus(platform=p, state="published") for p in type(captions).model_fields}
+        monkeypatch.setattr(main, "publish_all", publish)
+        monkeypatch.setattr(main, "notify_post_published", Mock())
+        monkeypatch.setattr(main, "close_resolved_issues", Mock())
+    assert main.run(slot="09:00", force_type="news", dry_run=dry_run) == 0
     assert generate.call_count == 2 and review.call_count == 2
     assert generate.call_args.kwargs["feedback"] == "Bileşen adını açık yaz"
     assert (post / "status.json").exists()
-    commit.assert_not_called()
-    channels.assert_not_called()
+    if dry_run:
+        commit.assert_not_called()
+        channels.assert_not_called()
+        assert not saved
+    else:
+        assert len(saved) == 2
+        assert all(s["state"] == "published" for s in saved[1]["status_per_platform"])

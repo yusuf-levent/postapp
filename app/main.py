@@ -339,18 +339,41 @@ def run(
     _write_meta(post_dir, slot, ptype, llm, started, tried, selected)
 
     # 15) Commit + push (görseller ve reel.mp4 herkese açık URL için)
+    title_tr = deck.get("cover", {}).get("title", "")
+    entry = HistoryEntry(
+        id=f"{date_label}-{slot.replace(':', '')}",
+        date=date_label,
+        slot=slot,
+        type=ptype,
+        title_tr=title_tr,
+        original_title=selected.title if selected else "",
+        source_urls=[selected.url] if selected else [],
+        canonical_url=normalize_url(selected.url) if selected else "",
+        entities=entities,
+        event_type=selected.event_type if selected else "",
+        embedding=selected.embedding if selected else [],
+        status_per_platform=[PlatformStatus(platform=name) for name in platforms_config().platforms],
+        created_at=now_istanbul().isoformat(timespec="seconds"),
+        verified_claims_count=len(verified_claims),
+        topic=selected.topic if selected else "",
+        primary_entity=selected.primary_entity if selected else "",
+        event_key=selected.event_key if selected else "",
+    )
     if not dry_run:
         (post_dir / "status.json").write_text(json.dumps({
             "dry_run": False,
             "platforms": {name: PlatformStatus(platform=name).model_dump()
                           for name in platforms_config().platforms},
         }, ensure_ascii=False, indent=2), encoding="utf-8")
+        # Recovery must find a prepared post even if the process stops before
+        # final history update or its original catch-up window has expired.
+        history_store.append_entry(entry)
     commit_msg = (
         f"🤖 post: {date_label} {slot} – "
         f"{(selected.title if selected else ptype)[:60]}"
     )
     if not dry_run:
-        if not commit_and_push(commit_msg, [post_dir.relative_to(_repo_root())]):
+        if not commit_and_push(commit_msg, [post_dir.relative_to(_repo_root()), "data/history.json"]):
             raise RuntimeError("Medya dosyaları GitHub'a kaydedilemedi; paylaşım başlatılmadı.")
 
     # 16) Paylaşım
@@ -378,32 +401,13 @@ def run(
         checkpoint=(lambda: _checkpoint_post(post_dir)) if not dry_run else None,
     )
 
-    # 17) History güncelle + HEMEN commit (paylaşım biter bitmez, daha öncesi değil).
+    # 17) Final platform states replace the durable pending reservation.
     #
     # KRİTİK: history.json commit'i, bildirim/issue adımından ÖNCE yapılmalıdır.
     # Bu sıra garanti edilmezse bildirim exception'ı workflow'u çökertir ve
     # history push EDİLEMEZ → sonraki cron turu aynı slotu TEKRAR YAYINLAR
     # (tüm platformlarda aynı post birden fazla gider).
-    title_tr = deck.get("cover", {}).get("title", "")
-    entry = HistoryEntry(
-        id=f"{date_label}-{slot.replace(':', '')}",
-        date=date_label,
-        slot=slot,
-        type=ptype,
-        title_tr=title_tr,
-        original_title=selected.title if selected else "",
-        source_urls=[selected.url] if selected else [],
-        canonical_url=normalize_url(selected.url) if selected else "",
-        entities=entities,
-        event_type=selected.event_type if selected else "",
-        embedding=selected.embedding if selected else [],
-        status_per_platform=list(statuses.values()),
-        created_at=now_istanbul().isoformat(timespec="seconds"),
-        verified_claims_count=len(verified_claims),
-        topic=selected.topic if selected else "",
-        primary_entity=selected.primary_entity if selected else "",
-        event_key=selected.event_key if selected else "",
-    )
+    entry.status_per_platform = list(statuses.values())
     if not dry_run:
         history_store.append_entry(entry)
 

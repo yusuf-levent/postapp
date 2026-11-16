@@ -86,3 +86,14 @@ def test_recovery_uses_newer_journal_instead_of_stale_history(tmp_path, monkeypa
                                       history_statuses=[PlatformStatus(platform="facebook")])
     assert result["facebook"].state == "published"
     api.create_post.assert_not_called()
+
+
+def test_recovery_does_not_submit_unavailable_media(tmp_path, monkeypatch):
+    api = Mock()
+    monkeypatch.setattr(publisher, "client_for_account", api)
+    monkeypatch.setattr(publisher, "wait_for_public_urls", lambda urls: False)
+    with pytest.raises(publisher.PublisherError):
+        publisher.recover_failed(tmp_path, captions={"facebook":"text"}, image_urls=["missing"],
+                                  channel_map={"facebook":("A","channel")},
+                                  history_statuses=[PlatformStatus(platform="facebook")])
+    api.assert_not_called()

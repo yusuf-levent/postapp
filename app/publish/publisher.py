@@ -293,6 +293,10 @@ def recover_failed(
         saved = json.loads(status_file.read_text(encoding="utf-8")).get("platforms", {})
         latest.update({k: PlatformStatus.model_validate(v) for k, v in saved.items()})
     history_statuses = list(latest.values())
+    if any(st.state in ("pending", "failed") and not st.external_id for st in history_statuses):
+        urls = list(dict.fromkeys([*image_urls, *(image_urls_9x16 or []), *([video_url] if video_url else [])]))
+        if urls and not wait_for_public_urls(urls):
+            raise PublisherError("Kurtarma için medya URL'leri erişilebilir değil; yeni gönderim başlatılmadı.")
 
     def save_status() -> None:
         _write_status(post_dir, latest, dry_run=False)
