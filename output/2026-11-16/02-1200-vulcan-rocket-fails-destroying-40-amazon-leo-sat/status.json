@@ -12,11 +12,11 @@
     },
     "tiktok": {
       "platform": "tiktok",
-      "state": "submitted",
+      "state": "failed",
       "external_id": "",
       "permalink": "",
       "attempts": 3,
-      "last_error": "Buffer rate limit (429), bekleme: 126268s",
+      "last_error": "Buffer rate limit (429), bekleme: 125255s",
       "remote_status": ""
     },
     "x": {
