@@ -3,11 +3,11 @@
   "platforms": {
     "instagram": {
       "platform": "instagram",
-      "state": "submitted",
+      "state": "failed",
       "external_id": "",
       "permalink": "",
       "attempts": 1,
-      "last_error": "",
+      "last_error": "Buffer rate limit (429), bekleme: 127228s",
       "remote_status": ""
     },
     "tiktok": {
