@@ -5579,8 +5579,8 @@
         "state": "failed",
         "external_id": "",
         "permalink": "",
-        "attempts": 4,
-        "last_error": "Buffer rate limit (429), bekleme: 124433s",
+        "attempts": 5,
+        "last_error": "Buffer rate limit (429), bekleme: 123381s",
         "remote_status": ""
       },
       {
@@ -5588,8 +5588,8 @@
         "state": "failed",
         "external_id": "",
         "permalink": "",
-        "attempts": 4,
-        "last_error": "Buffer rate limit (429), bekleme: 124281s",
+        "attempts": 5,
+        "last_error": "Buffer rate limit (429), bekleme: 123227s",
         "remote_status": ""
       },
       {
@@ -5615,8 +5615,8 @@
         "state": "failed",
         "external_id": "",
         "permalink": "",
-        "attempts": 4,
-        "last_error": "Buffer rate limit (429), bekleme: 124123s",
+        "attempts": 5,
+        "last_error": "Buffer rate limit (429), bekleme: 123074s",
         "remote_status": ""
       },
       {
@@ -5624,8 +5624,8 @@
         "state": "failed",
         "external_id": "",
         "permalink": "",
-        "attempts": 4,
-        "last_error": "Buffer rate limit (429), bekleme: 123970s",
+        "attempts": 5,
+        "last_error": "Buffer rate limit (429), bekleme: 122920s",
         "remote_status": ""
       }
     ],
