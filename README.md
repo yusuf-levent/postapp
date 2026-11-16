@@ -31,6 +31,7 @@ Ayarlar: [schedule.yaml](config/schedule.yaml), [publish.yml](.github/workflows/
 Varsayılan:
 - Ana model: `gemini-3.5-flash-lite`.
 - Yedek model: `gemini-3.1-flash-lite`.
+- Ek ücretsiz metin/görsel yedekleri: `gemma-4-31b-it`, `gemma-4-26b-a4b-it`. Gemma'da JSON, prompt ile istenir ve yerelde aynı Pydantic şemasıyla doğrulanır.
 - İsteğe bağlı ikinci Google anahtarı: `GEMINI_BACKUP_API_KEY`.
 
 Bu modeller yapılandırılmış metin ve görüntü değerlendirmesi için kullanılır. Otomatik havuz ücretli modellere veya görüntü değerlendiremeyen metin modellerine geçmez. Günlük kotası bitmiş model/anahtar aynı çalışma içinde tekrar tekrar çağrılmaz. Dakikalık limitte sınırlı bekleme uygulanır. Kullanılan modeller ve başarılı çağrı sayıları `meta.json → model_usage` içinde görülebilir.

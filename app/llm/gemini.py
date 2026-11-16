@@ -25,16 +25,31 @@ MIN_INTERVAL_SECONDS = 2.0
 
 RETRYABLE_STATUS = {404, 429, 500, 502, 503, 504}
 
-# Both support structured text and vision on the documented free tier.
-# Do not silently route this free workflow to paid or text-only models.
+# Documented free text/vision models. Gemma uses prompted JSON with local
+# schema validation, rather than Gemini's native response_schema mode.
 MODEL_POOL = (
     "gemini-3.5-flash-lite",
     "gemini-3.1-flash-lite",
+    "gemma-4-31b-it",
+    "gemma-4-26b-a4b-it",
 )
 
 
 class LLMError(RuntimeError):
     """Gemini çağrısı kurtarılamayacak şekilde başarısız oldu."""
+
+
+class ModelOutputError(LLMError):
+    """A response was received but failed the requested output schema."""
+
+
+def _structured_response(response: Any, schema: type[BaseModel]) -> BaseModel:
+    text = (getattr(response, "text", None) or "").strip()
+    text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text)
+    try:
+        return schema.model_validate_json(text)
+    except ValueError as exc:
+        raise ModelOutputError("Model geçerli şema çıktısı üretmedi.") from exc
 
 
 class GeminiClient:
@@ -46,7 +61,7 @@ class GeminiClient:
                     (api_key or cfg.gemini_api_key, cfg.gemini_backup_api_key) if k))
         if not keys:
             raise LLMError("GEMINI_API_KEY tanımlı değil (GitHub Secrets).")
-        self._clients = [genai.Client(api_key=k, http_options={"timeout": 90_000}) for k in keys]
+        self._clients = [genai.Client(api_key=k, http_options={"timeout": 90_000, "api_version": "v1beta"}) for k in keys]
         self._client = self._clients[0]
         self._key_index = 0
         self._model = cfg.gemini_model
@@ -74,7 +89,8 @@ class GeminiClient:
         self._last_call = time.monotonic()
 
     def _call_with_fallback(
-        self, fn: Callable[[str], Any], *, label: str, _allow_wait: bool = True, _transient_round: int = 0
+        self, fn: Callable[[str], Any], *, label: str, _allow_wait: bool = True, _transient_round: int = 0,
+        model_filter: Callable[[str], bool] | None = None,
     ) -> Any:
         """fn(model_name) çağrısını 429/404/5xx hatasında model havuzundaki sıradaki modelle tekrarlar."""
         last_exc: Exception | None = None
@@ -84,6 +100,8 @@ class GeminiClient:
                 continue
             self._key_index, self._client = key_index, client
             for model_name in self._candidate_models():
+                if model_filter and not model_filter(model_name):
+                    continue
                 self._throttle()
                 self.call_count += 1
                 try:
@@ -91,6 +109,9 @@ class GeminiClient:
                     self._model = model_name
                     self.model_usage[model_name] = self.model_usage.get(model_name, 0) + 1
                     return res
+                except ModelOutputError as exc:
+                    last_exc = exc
+                    log.warning("%s: %s çıktısı şemaya uymadı; sonraki model deneniyor", label, model_name)
                 except genai_errors.APIError as exc:
                     last_exc = exc
                     status = getattr(exc, "code", None) or getattr(exc, "status_code", None)
@@ -119,11 +140,12 @@ class GeminiClient:
                  and deadline > time.monotonic()]
         if _allow_wait and waits:
             time.sleep(max(0, min(waits)))
-            return self._call_with_fallback(fn, label=label, _allow_wait=False, _transient_round=_transient_round)
+            return self._call_with_fallback(fn, label=label, _allow_wait=False, _transient_round=_transient_round,
+                                            model_filter=model_filter)
         if transient_seen and _transient_round < 2:
             time.sleep(2 * (_transient_round + 1))
             return self._call_with_fallback(fn, label=label, _allow_wait=_allow_wait,
-                                            _transient_round=_transient_round + 1)
+                                            _transient_round=_transient_round + 1, model_filter=model_filter)
         # Exhausted pairs remain exhausted for this run. Never reset the pool
         # for every image/QA call and hammer a daily quota again.
         raise LLMError(f"{label}: kullanılabilir Gemini model/anahtarı kalmadı.") from last_exc
@@ -162,6 +184,8 @@ class GeminiClient:
     # ------------------------------------------------------- structured output
     @staticmethod
     def _thinking(model_name: str) -> Any:
+        if model_name.startswith("gemma-4-"):
+            return genai_types.ThinkingConfig(thinking_level="minimal")
         if "3." in model_name and hasattr(genai_types, "ThinkingConfig"):
             try:
                 return genai_types.ThinkingConfig(thinking_level="low")
@@ -180,6 +204,15 @@ class GeminiClient:
         """response_schema ile yapılandırılmış JSON çıktısı üretir."""
 
         def run(model_name: str) -> Any:
+            if model_name.startswith("gemma-"):
+                json_prompt = (prompt + "\nReturn ONLY valid JSON. No markdown or introduction. JSON schema:\n"
+                               + json.dumps(schema.model_json_schema(), ensure_ascii=False))
+                response = self._client.models.generate_content(
+                    model=model_name, contents=json_prompt,
+                    config=genai_types.GenerateContentConfig(system_instruction=system, temperature=0.2,
+                                                              thinking_config=self._thinking(model_name)),
+                )
+                return _structured_response(response, schema)
             config = genai_types.GenerateContentConfig(
                 response_mime_type="application/json",
                 response_schema=schema,
@@ -187,16 +220,13 @@ class GeminiClient:
                 temperature=0.2,
                 thinking_config=self._thinking(model_name),
             )
-            return self._client.models.generate_content(
+            response = self._client.models.generate_content(
                 model=model_name, contents=prompt, config=config
             )
+            return _structured_response(response, schema)
 
         try:
-            resp = self._call_with_fallback(run, label=label)
-            text = getattr(resp, "text", None)
-            if not text:
-                raise LLMError(f"{label}: boş yanıt alındı.")
-            return schema.model_validate_json(text)
+            return self._call_with_fallback(run, label=label)
         except (LLMError, ValueError):
             if not settings().text_fallback_api_key:
                 raise
@@ -319,7 +349,7 @@ class GeminiClient:
                 model=model_name, contents=prompt, config=config
             )
 
-        resp = self._call_with_fallback(run, label=label)
+        resp = self._call_with_fallback(run, label=label, model_filter=lambda n: not n.startswith("gemma-"))
         results: list[dict[str, str]] = []
         seen: set[str] = set()
         for cand in _extract_grounding_chunks(resp):
