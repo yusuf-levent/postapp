@@ -5550,89 +5550,6 @@
     "event_key": ""
   },
   {
-    "id": "2026-11-17-0900",
-    "date": "2026-11-17",
-    "slot": "09:00",
-    "type": "news",
-    "title_tr": "California Başsavcılığı OpenAI'a Dava Açtı",
-    "original_title": "California state AG sues OpenAI over rogue agent incidents",
-    "source_urls": [
-      "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
-    ],
-    "canonical_url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents",
-    "entities": [
-      "OpenAI",
-      "California Attorney General",
-      "Hugging Face",
-      "RubyGems",
-      "DseWiki",
-      "Wikimedia Foundation"
-    ],
-    "event_type": "lawsuit",
-    "embedding": [],
-    "status_per_platform": [
-      {
-        "platform": "instagram",
-        "state": "failed",
-        "external_id": "",
-        "permalink": "",
-        "attempts": 3,
-        "last_error": "Buffer rate limit (429), bekleme: 49830s",
-        "remote_status": ""
-      },
-      {
-        "platform": "tiktok",
-        "state": "failed",
-        "external_id": "",
-        "permalink": "",
-        "attempts": 3,
-        "last_error": "Buffer rate limit (429), bekleme: 49678s",
-        "remote_status": ""
-      },
-      {
-        "platform": "x",
-        "state": "submitted",
-        "external_id": "",
-        "permalink": "",
-        "attempts": 1,
-        "last_error": "Buffer yayını henüz doğrulanmadı (unknown).",
-        "remote_status": "unknown"
-      },
-      {
-        "platform": "threads",
-        "state": "published",
-        "external_id": "18428896756155661",
-        "permalink": "https://www.threads.com/@tekno_pusula/post/Df1QVETFl4C",
-        "attempts": 1,
-        "last_error": "",
-        "remote_status": ""
-      },
-      {
-        "platform": "linkedin",
-        "state": "failed",
-        "external_id": "",
-        "permalink": "",
-        "attempts": 3,
-        "last_error": "Buffer rate limit (429), bekleme: 49525s",
-        "remote_status": ""
-      },
-      {
-        "platform": "facebook",
-        "state": "failed",
-        "external_id": "",
-        "permalink": "",
-        "attempts": 3,
-        "last_error": "Buffer rate limit (429), bekleme: 49372s",
-        "remote_status": ""
-      }
-    ],
-    "created_at": "2026-11-17T09:04:51+03:00",
-    "verified_claims_count": 7,
-    "topic": "ai",
-    "primary_entity": "OpenAI",
-    "event_key": "openai_rogue_agent_lawsuit"
-  },
-  {
     "id": "2026-11-16-1200",
     "date": "2026-11-16",
     "slot": "12:00",
@@ -5799,5 +5716,88 @@
     "topic": "robotics",
     "primary_entity": "Zoox",
     "event_key": "zoox_uber_launch_las_vegas"
+  },
+  {
+    "id": "2026-11-17-0900",
+    "date": "2026-11-17",
+    "slot": "09:00",
+    "type": "news",
+    "title_tr": "California Başsavcılığı OpenAI'a Dava Açtı",
+    "original_title": "California state AG sues OpenAI over rogue agent incidents",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+    ],
+    "canonical_url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents",
+    "entities": [
+      "OpenAI",
+      "California Attorney General",
+      "Hugging Face",
+      "RubyGems",
+      "DseWiki",
+      "Wikimedia Foundation"
+    ],
+    "event_type": "lawsuit",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "failed",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 4,
+        "last_error": "Buffer rate limit (429), bekleme: 48895s",
+        "remote_status": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "failed",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 4,
+        "last_error": "Buffer rate limit (429), bekleme: 48743s",
+        "remote_status": ""
+      },
+      {
+        "platform": "x",
+        "state": "submitted",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": "Buffer yayını henüz doğrulanmadı (unknown).",
+        "remote_status": "unknown"
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "18428896756155661",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/Df1QVETFl4C",
+        "attempts": 1,
+        "last_error": "",
+        "remote_status": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "failed",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 4,
+        "last_error": "Buffer rate limit (429), bekleme: 48590s",
+        "remote_status": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "failed",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 4,
+        "last_error": "Buffer rate limit (429), bekleme: 48436s",
+        "remote_status": ""
+      }
+    ],
+    "created_at": "2026-11-17T09:04:51+03:00",
+    "verified_claims_count": 7,
+    "topic": "ai",
+    "primary_entity": "OpenAI",
+    "event_key": "openai_rogue_agent_lawsuit"
   }
 ]
