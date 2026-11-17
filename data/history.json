@@ -5786,11 +5786,11 @@
       },
       {
         "platform": "facebook",
-        "state": "failed",
+        "state": "submitted",
         "external_id": "",
         "permalink": "",
         "attempts": 5,
-        "last_error": "Buffer rate limit (429), bekleme: 47502s",
+        "last_error": "Buffer rate limit (429), bekleme: 48436s",
         "remote_status": ""
       }
     ],
