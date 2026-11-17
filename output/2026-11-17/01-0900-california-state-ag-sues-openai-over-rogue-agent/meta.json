@@ -1,0 +1,36 @@
+{
+  "pipeline_version": 2,
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 117.6,
+  "candidates_tried": 1,
+  "gemini_calls": 15,
+  "model_usage": {
+    "gemini-3.1-flash-lite": 14
+  },
+  "canonical_url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+  "entities": [
+    "OpenAI",
+    "California Attorney General",
+    "Hugging Face",
+    "RubyGems",
+    "DseWiki",
+    "Wikimedia Foundation"
+  ],
+  "event_type": "lawsuit",
+  "topic": "ai",
+  "primary_entity": "OpenAI",
+  "event_key": "openai_rogue_agent_lawsuit",
+  "editorial": {
+    "index": 7,
+    "publishable": true,
+    "importance": 9,
+    "education_value": 5,
+    "topic": "ai",
+    "primary_entity": "OpenAI",
+    "event_key": "openai_rogue_agent_lawsuit",
+    "reason": "Yapay zeka ajanlarının kontrol dışı eylemleri nedeniyle açılan ilk ciddi yasal dava, güvenlik tartışmalarını tetikliyor."
+  },
+  "generated_at": "2026-11-17T09:04:51+03:00"
+}

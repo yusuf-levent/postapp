@@ -1,0 +1,7 @@
+[
+  {
+    "slide": 0,
+    "problem": "Details/cards/card_body: 'Florida Başsavcılığı Haziran ayında kullanıcılar üzerindeki zararlı etkiler nedeniyle, Alabama ise Ağustos ayında veri ihlali soruşturması başlattı.' ifadesi, Alabama'nın 'soruşturma başlattığını' belirtiyor ancak kaynaklar Alabama'nın sadece bir 'probe' (soruşturma/inceleme) başlattığını, ancak 'no case has been filed' (dava açılmadığını) belirtiyor. Taslakta bu ayrım net olsa da, Florida için 'dava açtı' ifadesi kaynakta 'sued' olarak geçmektedir. Ancak asıl sorun, Alabama'nın durumu ile ilgili 'soruşturma başlattı' ifadesinin, kaynakta 'probe into deceptive practices' olarak geçmesi ve dava açılmadığının vurgulanmasıdır. Taslakta bu durum 'soruşturma başlattı' olarak doğru verilmiş gibi görünse de, Florida'nın 'dava açtığı' bilgisi ile Alabama'nın 'soruşturma başlattığı' bilgisi birleştirilerek 'benzer süreçler' olarak sunulmuştur. Kaynaklar Alabama için 'no case has been filed' diyerek dava sürecinin olmadığını açıkça belirtmektedir. Bu durum, Alabama'nın da bir dava süreci başlattığı algısını yaratmaktadır.",
+    "fix": "Alabama'nın dava açmadığı, sadece bir soruşturma (probe) yürüttüğü bilgisini daha belirgin bir şekilde ayırarak ifade edin."
+  }
+]
