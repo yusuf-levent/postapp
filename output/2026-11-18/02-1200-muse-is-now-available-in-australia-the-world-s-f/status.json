@@ -48,12 +48,12 @@
     },
     "facebook": {
       "platform": "facebook",
-      "state": "submitted",
-      "external_id": "",
-      "permalink": "",
+      "state": "published",
+      "external_id": "6afd6febcf3d6249439a9568",
+      "permalink": "https://facebook.com/1351036918092059_122124235611484840",
       "attempts": 1,
       "last_error": "",
-      "remote_status": ""
+      "remote_status": "sent"
     }
   }
 }
