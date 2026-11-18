@@ -199,6 +199,7 @@ def render_slide_html(deck: dict[str, Any], page_index: int) -> str:
                 "accent": "cyan",
                 "tag_label": tr_upper(deck.get("tag_label_6", "ETKİLEŞİM")),
                 "question": cta["question"],
+                "show_follow_cta": deck.get("show_follow_cta", True),
                 "reminder_line": cta.get(
                     "reminder_line", "Düşüncelerini yorumlarda paylaşmayı unutma! 💬"
                 ),

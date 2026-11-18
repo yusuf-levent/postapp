@@ -12,7 +12,7 @@
     <div class="card {{ 'yellow' if loop.index0 % 2 == 0 else 'cyan' }}">
       {% if card.badge %}<div class="card-badge">{{ card.badge }}</div>{% endif %}
       <div class="card-title">{{ card.title }}</div>
-      <div class="card-body">{{ card.body }}</div>
+      <div class="card-body">{{ card.body | e }}</div>
     </div>
     {% endfor %}
   </div>

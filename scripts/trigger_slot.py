@@ -1,7 +1,7 @@
 """Garantili slot tetikleyici (GitHub Actions cron gecikmelerine karşı).
 
 Her 15 dakikada bir çalışır:
-- Bugünün saati gelmiş (09:00, 12:00, 15:00, 18:00, 21:00 İstanbul <= şu an) slotlarından
+- Bugünün saati gelmiş (09:00, 12:00, 15:00, 18:00, 20:00, 21:00 İstanbul <= şu an) slotlarından
   herhangi biri GitHub'daki data/history.json içinde henüz 6/6 yayınlanmamışsa
 - Ve şu anda çalışan (in_progress) bir publish workflow'u yoksa
 GitHub Contents API üzerinden `data/slot_trigger.txt` dosyasını güncelleyerek
@@ -18,7 +18,7 @@ from zoneinfo import ZoneInfo
 import requests
 
 REPO = "yusuf-levent/postapp"
-SLOTS = ["09:00", "12:00", "15:00", "18:00", "21:00"]
+SLOTS = ["09:00", "12:00", "15:00", "18:00", "20:00", "21:00"]
 GIT_EXE = shutil.which("git") or r"C:\Program Files\Git\cmd\git.exe"
 
 

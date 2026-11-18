@@ -16,6 +16,9 @@ from pathlib import Path
 from app.collect.article import enrich_candidate
 from app.collect.dates import nearest_slot, slot_type, today_label, within_lookback
 from app.collect.rss import collect_all
+from app.collect.weetis import build_captions as build_weetis_captions
+from app.collect.weetis import build_cards as build_weetis_cards
+from app.collect.weetis import fetch_discussion
 from app.common import now_istanbul, slugify, turkish_upper, source_identity
 from app.config import OUTPUT_DIR, platforms_config, schedule_config, settings
 from app.llm.gemini import GeminiClient
@@ -24,6 +27,7 @@ from app.media.logos import save_logo
 from app.media.video_collector import collect_video
 from app.models import (
     Candidate,
+    Captions,
     CaptionsDoc,
     HistoryEntry,
     PlatformStatus,
@@ -106,6 +110,8 @@ def run(
         log.info("Bu slot için zaten post üretilmiş (%s %s), tekrar üretilmiyor.",
                  date_label, slot)
         return 0
+    if ptype == "weetis":
+        return _run_weetis(date_label, slot, dry_run=dry_run, started=started)
 
     # 3b) Eğer bu slot için daha önce dry_run ile üretilmiş hazır bir post klasörü varsa,
     # yeniden üretmek yerine doğrudan onu yayınla!
@@ -353,25 +359,78 @@ def run(
         entities=entities,
         event_type=selected.event_type if selected else "",
         embedding=selected.embedding if selected else [],
-        status_per_platform=[PlatformStatus(platform=name) for name in platforms_config().platforms],
         created_at=now_istanbul().isoformat(timespec="seconds"),
         verified_claims_count=len(verified_claims),
         topic=selected.topic if selected else "",
         primary_entity=selected.primary_entity if selected else "",
         event_key=selected.event_key if selected else "",
     )
+    return _publish_prepared(
+        entry, post_dir, captions, rendered, reel_path,
+        dry_run=dry_run, started=started, tried=tried,
+    )
+
+
+def _run_weetis(date_label: str, slot: str, *, dry_run: bool, started: float) -> int:
+    discussion = fetch_discussion(date_label)
+    if discussion is None:
+        log.warning("Weetis'te bugüne ait yayına hazır tartışma yok (%s %s).", date_label, slot)
+        return 0
+
+    if any(entry.type == "weetis" and entry.event_key == discussion.id
+           for entry in history_store.load_history()):
+        _skip_slot(date_label, slot, "Weetis tartışması zaten işlendi", dry_run=dry_run)
+        return 0
+
+    source = Candidate(title=discussion.title, url=discussion.url)
+    post_dir = _make_post_dir(date_label, slot, source, "weetis")
+    deck = build_weetis_cards(discussion)
+    captions = build_weetis_captions(discussion)
+    title = deck["cover"]["title"]
+    (post_dir / "content.json").write_text(json.dumps(deck, ensure_ascii=False, indent=2), encoding="utf-8")
+    _write_captions(post_dir, captions, ["Weetis"], source, title_tr=title)
+
+    backgrounds = [
+        make_abstract_background(post_dir / "images" / f"abstract-bg-{index}.png", variant=index)
+        for index in range(3)
+    ]
+    inputs = [
+        {**deck, "bg_image": str(backgrounds[index % len(backgrounds)])}
+        for index in range(6)
+    ]
+    rendered = _render_with_backgrounds(inputs, post_dir, ensure_fonts())
+    entry = HistoryEntry(
+        id=f"{date_label}-{slot.replace(':', '')}",
+        date=date_label,
+        slot=slot,
+        type="weetis",
+        title_tr=title,
+        original_title=discussion.title,
+        source_urls=[discussion.url],
+        canonical_url=discussion.url,
+        created_at=now_istanbul().isoformat(timespec="seconds"),
+        event_key=discussion.id,
+    )
+    return _publish_prepared(entry, post_dir, captions, rendered, None, dry_run=dry_run, started=started)
+
+
+def _publish_prepared(
+    entry: HistoryEntry, post_dir: Path, captions: Captions, rendered: dict, reel_path: Path | None,
+    *, dry_run: bool, started: float, tried: int = 0,
+) -> int:
+    date_label, slot = entry.date, entry.slot
     if not dry_run:
+        entry.status_per_platform = [PlatformStatus(platform=name) for name in platforms_config().platforms]
         (post_dir / "status.json").write_text(json.dumps({
             "dry_run": False,
-            "platforms": {name: PlatformStatus(platform=name).model_dump()
-                          for name in platforms_config().platforms},
+            "platforms": {status.platform: status.model_dump() for status in entry.status_per_platform},
         }, ensure_ascii=False, indent=2), encoding="utf-8")
         # Recovery must find a prepared post even if the process stops before
         # final history update or its original catch-up window has expired.
         history_store.append_entry(entry)
     commit_msg = (
         f"🤖 post: {date_label} {slot} – "
-        f"{(selected.title if selected else ptype)[:60]}"
+        f"{(entry.original_title or entry.type)[:60]}"
     )
     if not dry_run:
         if not commit_and_push(commit_msg, [post_dir.relative_to(_repo_root()), "data/history.json"]):
@@ -388,7 +447,7 @@ def run(
         k: _format_caption_text(k, getattr(captions, k).text, getattr(captions, k).hashtags)
         for k in ("instagram", "tiktok", "x", "threads", "linkedin", "facebook")
     }
-    thread_replies = _thread_replies(status_caption_map["x"], image_urls)
+    thread_replies = [] if entry.type == "weetis" else _thread_replies(status_caption_map["x"], image_urls)
 
     statuses = publish_all(
         post_dir,
@@ -450,12 +509,12 @@ def run(
                 notify_post_published(
                     date_label=date_label,
                     slot=slot,
-                    ptype=ptype,
-                    title_tr=title_tr,
+                    ptype=entry.type,
+                    title_tr=entry.title_tr,
                     statuses=statuses,
                     image_urls=image_urls,
                     caption_preview=status_caption_map.get("instagram", ""),
-                    source_urls=[selected.url] if selected else [],
+                    source_urls=entry.source_urls,
                 )
             except Exception as exc:
                 log.warning("Bildirim gönderilemedi: %s", exc)
@@ -760,7 +819,7 @@ def _recovery_pass(*, dry_run: bool) -> None:
                 video_url=video_url,
                 channel_map=channel_map,
                 history_statuses=entry.status_per_platform,
-                thread_replies=_thread_replies(captions.get("x", ""), image_urls),
+                thread_replies=[] if entry.type == "weetis" else _thread_replies(captions.get("x", ""), image_urls),
                 recent=within_recovery_window(entry.created_at, now),
                 checkpoint=lambda: _checkpoint_post(post_dir, entry),
             )
@@ -800,7 +859,7 @@ def _make_post_dir(
     date_label: str, slot: str, selected: Candidate | None, ptype: str
 ) -> Path:
     """output/YYYY-MM-DD/NN-HHMM-slug/ klasörü oluşturur."""
-    order = ["09:00", "12:00", "15:00", "18:00", "21:00"]
+    order = [item["time"] for item in schedule_config()["slots"]]
     idx = order.index(slot) + 1 if slot in order else 1
     slug = slugify(selected.title if selected else ptype)
     name = f"{idx:02d}-{slot.replace(':', '')}-{slug}"

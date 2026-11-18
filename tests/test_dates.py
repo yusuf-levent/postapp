@@ -64,8 +64,9 @@ def test_nearest_slot_late_night():
     assert nearest_slot(d) == "21:00"
 
 
-def test_slot_type_1800_is_edu():
-    assert slot_type("18:00") == "edu"
+def test_evening_slot_types():
+    assert slot_type("18:00") == "weetis"
+    assert slot_type("20:00") == "edu"
 
 
 def test_slot_type_0900_is_news():
