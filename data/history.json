@@ -5550,92 +5550,6 @@
     "event_key": ""
   },
   {
-    "id": "2026-11-16-1200",
-    "date": "2026-11-16",
-    "slot": "12:00",
-    "type": "news",
-    "title_tr": "ULA Vulcan roketi ilk görevinde başarısız oldu",
-    "original_title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
-    "source_urls": [
-      "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites"
-    ],
-    "canonical_url": "https://theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
-    "entities": [
-      "United Launch Alliance",
-      "Amazon",
-      "ULA",
-      "Leo",
-      "SpaceX",
-      "Starlink",
-      "Vulcan",
-      "Space Launch Complex 41",
-      "LV-01"
-    ],
-    "event_type": "launch_failure",
-    "embedding": [],
-    "status_per_platform": [
-      {
-        "platform": "instagram",
-        "state": "failed",
-        "external_id": "",
-        "permalink": "",
-        "attempts": 5,
-        "last_error": "Buffer rate limit (429), bekleme: 123381s",
-        "remote_status": ""
-      },
-      {
-        "platform": "tiktok",
-        "state": "failed",
-        "external_id": "",
-        "permalink": "",
-        "attempts": 5,
-        "last_error": "Buffer rate limit (429), bekleme: 123227s",
-        "remote_status": ""
-      },
-      {
-        "platform": "x",
-        "state": "submitted",
-        "external_id": "",
-        "permalink": "",
-        "attempts": 1,
-        "last_error": "Buffer yayını henüz doğrulanmadı (unknown).",
-        "remote_status": "unknown"
-      },
-      {
-        "platform": "threads",
-        "state": "published",
-        "external_id": "17958406647031411",
-        "permalink": "https://www.threads.com/@tekno_pusula/post/DfzAGAGFXUw",
-        "attempts": 1,
-        "last_error": "",
-        "remote_status": ""
-      },
-      {
-        "platform": "linkedin",
-        "state": "submitted",
-        "external_id": "",
-        "permalink": "",
-        "attempts": 5,
-        "last_error": "Buffer rate limit (429), bekleme: 124123s",
-        "remote_status": ""
-      },
-      {
-        "platform": "facebook",
-        "state": "failed",
-        "external_id": "",
-        "permalink": "",
-        "attempts": 5,
-        "last_error": "Buffer rate limit (429), bekleme: 122578s",
-        "remote_status": ""
-      }
-    ],
-    "created_at": "2026-11-16T12:04:24+03:00",
-    "verified_claims_count": 6,
-    "topic": "space",
-    "primary_entity": "United Launch Alliance",
-    "event_key": "ula_vulcan_launch_failure"
-  },
-  {
     "id": "2026-11-16-1500",
     "date": "2026-11-16",
     "slot": "15:00",
@@ -5799,5 +5713,91 @@
     "topic": "ai",
     "primary_entity": "OpenAI",
     "event_key": "openai_rogue_agent_lawsuit"
+  },
+  {
+    "id": "2026-11-16-1200",
+    "date": "2026-11-16",
+    "slot": "12:00",
+    "type": "news",
+    "title_tr": "ULA Vulcan roketi ilk görevinde başarısız oldu",
+    "original_title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+    "source_urls": [
+      "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites"
+    ],
+    "canonical_url": "https://theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+    "entities": [
+      "United Launch Alliance",
+      "Amazon",
+      "ULA",
+      "Leo",
+      "SpaceX",
+      "Starlink",
+      "Vulcan",
+      "Space Launch Complex 41",
+      "LV-01"
+    ],
+    "event_type": "launch_failure",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "failed",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 5,
+        "last_error": "Buffer rate limit (429), bekleme: 123381s",
+        "remote_status": ""
+      },
+      {
+        "platform": "tiktok",
+        "state": "failed",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 5,
+        "last_error": "Buffer rate limit (429), bekleme: 123227s",
+        "remote_status": ""
+      },
+      {
+        "platform": "x",
+        "state": "submitted",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 1,
+        "last_error": "Buffer yayını henüz doğrulanmadı (unknown).",
+        "remote_status": "unknown"
+      },
+      {
+        "platform": "threads",
+        "state": "published",
+        "external_id": "17958406647031411",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DfzAGAGFXUw",
+        "attempts": 1,
+        "last_error": "",
+        "remote_status": ""
+      },
+      {
+        "platform": "linkedin",
+        "state": "submitted",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 5,
+        "last_error": "Buffer rate limit (429), bekleme: 124123s",
+        "remote_status": ""
+      },
+      {
+        "platform": "facebook",
+        "state": "failed",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 5,
+        "last_error": "Buffer rate limit (429), bekleme: 122578s",
+        "remote_status": ""
+      }
+    ],
+    "created_at": "2026-11-16T12:04:24+03:00",
+    "verified_claims_count": 6,
+    "topic": "space",
+    "primary_entity": "United Launch Alliance",
+    "event_key": "ula_vulcan_launch_failure"
   }
 ]
