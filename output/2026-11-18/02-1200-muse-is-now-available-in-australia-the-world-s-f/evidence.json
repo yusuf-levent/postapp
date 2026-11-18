@@ -1,0 +1,289 @@
+{
+  "title": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
+  "canonical_url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+  "source_names": [
+    "Meta Newsroom (resmi alternatif)",
+    "The Verge",
+    "TechCrunch",
+    "Ars Technica"
+  ],
+  "checked_at": "2026-11-18T12:26:06+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Meta, Muse adlı kişisel yapay zeka ajanının bugünden itibaren Avustralya'da kullanıma sunulduğunu açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+          "quote": "Following our global announcement of Muse, we are excited to share that Muse is now available in Australia."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+          "quote": "early adopters of consumer AI agents like Meta’s Muse have found that online shopping is a key use case."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+          "quote": "given that early adopters of consumer AI agents like Meta’s Muse have found that online shopping is a key use case."
+        }
+      ]
+    },
+    {
+      "claim": "Muse, kullanıcıların Gmail, Google Calendar, Instagram ve OpenTable gibi uygulamalarla bağlantı kurmasını sağlıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+          "quote": "People in Australia can connect their Muse to apps and services they already use, such as Gmail, Google Calendar, Instagram and OpenTable"
+        }
+      ]
+    },
+    {
+      "claim": "Avustralya'daki erken yerel bağlantı ortakları arasında Canva, Domain, Kogan, MECCA, Officeworks, realestate.com.au, SWEAT, ShopBack ve Ticketek yer alıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+          "quote": "Early local connector partners in Australia include Canva, Domain, Kogan, MECCA, Officeworks, realestate.com.au, SWEAT, ShopBack, and Ticketek."
+        }
+      ]
+    },
+    {
+      "claim": "Canva, dünya genelindeki Muse kullanıcıları için bir bağlayıcı olarak erişilebilir durumda.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+          "quote": "Canva, the global all-in-one visual communication platform that empowers anyone to design, is also available as a connector for Muse users around the world."
+        }
+      ]
+    },
+    {
+      "claim": "Muse, bulutta verileri ve kimlik bilgilerini güvenli bir şekilde depolayan Muse Secure VM üzerinde çalışıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+          "quote": "Muse runs on Muse Secure VM, a dedicated computer in the cloud that securely stores the data and credentials for the services you connect"
+        }
+      ]
+    },
+    {
+      "claim": "Will Easton, Meta Avustralya ve Yeni Zelanda Genel Müdürü olarak görev yapıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+          "quote": "Will Easton, Managing Director, Meta Australia and New Zealand"
+        }
+      ]
+    },
+    {
+      "claim": "Muse; iOS, Android, web ve bir Mac uygulaması olan muse.ai üzerinden Avustralya'da erişilebilir durumda olup yakında yapay zeka gözlüklerine de gelecektir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+          "quote": "Muse is available in Australia on iOS, Android, and muse.ai, a Mac app, and coming soon to AI glasses."
+        }
+      ]
+    },
+    {
+      "claim": "Muse çoğu temel ihtiyaç için ücretsizdir ve daha fazlasını yapmak isteyenler için abonelik planları sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+          "quote": "It’s free for most of what people need, with subscription plans for people who want to do more."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Meta, Muse adlı kişisel yapay zeka ajanının bugünden itibaren Avustralya'da kullanıma sunulduğunu açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+          "quote": "Following our global announcement of Muse, we are excited to share that Muse is now available in Australia."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+          "quote": "early adopters of consumer AI agents like Meta’s Muse have found that online shopping is a key use case."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+          "quote": "given that early adopters of consumer AI agents like Meta’s Muse have found that online shopping is a key use case."
+        }
+      ]
+    },
+    {
+      "claim": "Muse, kullanıcıların Gmail, Google Calendar, Instagram ve OpenTable gibi uygulamalarla bağlantı kurmasını sağlıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+          "quote": "People in Australia can connect their Muse to apps and services they already use, such as Gmail, Google Calendar, Instagram and OpenTable"
+        }
+      ]
+    },
+    {
+      "claim": "Avustralya'daki erken yerel bağlantı ortakları arasında Canva, Domain, Kogan, MECCA, Officeworks, realestate.com.au, SWEAT, ShopBack ve Ticketek yer alıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+          "quote": "Early local connector partners in Australia include Canva, Domain, Kogan, MECCA, Officeworks, realestate.com.au, SWEAT, ShopBack, and Ticketek."
+        }
+      ]
+    },
+    {
+      "claim": "Canva, dünya genelindeki Muse kullanıcıları için bir bağlayıcı olarak erişilebilir durumda.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+          "quote": "Canva, the global all-in-one visual communication platform that empowers anyone to design, is also available as a connector for Muse users around the world."
+        }
+      ]
+    },
+    {
+      "claim": "Muse, bulutta verileri ve kimlik bilgilerini güvenli bir şekilde depolayan Muse Secure VM üzerinde çalışıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+          "quote": "Muse runs on Muse Secure VM, a dedicated computer in the cloud that securely stores the data and credentials for the services you connect"
+        }
+      ]
+    },
+    {
+      "claim": "Will Easton, Meta Avustralya ve Yeni Zelanda Genel Müdürü olarak görev yapıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+          "quote": "Will Easton, Managing Director, Meta Australia and New Zealand"
+        }
+      ]
+    },
+    {
+      "claim": "Muse; iOS, Android, web ve bir Mac uygulaması olan muse.ai üzerinden Avustralya'da erişilebilir durumda olup yakında yapay zeka gözlüklerine de gelecektir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+          "quote": "Muse is available in Australia on iOS, Android, and muse.ai, a Mac app, and coming soon to AI glasses."
+        }
+      ]
+    },
+    {
+      "claim": "Muse çoğu temel ihtiyaç için ücretsizdir ve daha fazlasını yapmak isteyenler için abonelik planları sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+          "quote": "It’s free for most of what people need, with subscription plans for people who want to do more."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Meta, Muse adlı kişisel yapay zeka ajanının bugünden itibaren Avustralya'da kullanıma sunulduğunu açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+          "quote": "Following our global announcement of Muse, we are excited to share that Muse is now available in Australia."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+          "quote": "early adopters of consumer AI agents like Meta’s Muse have found that online shopping is a key use case."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+          "quote": "given that early adopters of consumer AI agents like Meta’s Muse have found that online shopping is a key use case."
+        }
+      ]
+    },
+    {
+      "claim": "Muse, kullanıcıların Gmail, Google Calendar, Instagram ve OpenTable gibi uygulamalarla bağlantı kurmasını sağlıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+          "quote": "People in Australia can connect their Muse to apps and services they already use, such as Gmail, Google Calendar, Instagram and OpenTable"
+        }
+      ]
+    },
+    {
+      "claim": "Avustralya'daki erken yerel bağlantı ortakları arasında Canva, Domain, Kogan, MECCA, Officeworks, realestate.com.au, SWEAT, ShopBack ve Ticketek yer alıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+          "quote": "Early local connector partners in Australia include Canva, Domain, Kogan, MECCA, Officeworks, realestate.com.au, SWEAT, ShopBack, and Ticketek."
+        }
+      ]
+    },
+    {
+      "claim": "Canva, dünya genelindeki Muse kullanıcıları için bir bağlayıcı olarak erişilebilir durumda.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+          "quote": "Canva, the global all-in-one visual communication platform that empowers anyone to design, is also available as a connector for Muse users around the world."
+        }
+      ]
+    },
+    {
+      "claim": "Muse, bulutta verileri ve kimlik bilgilerini güvenli bir şekilde depolayan Muse Secure VM üzerinde çalışıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+          "quote": "Muse runs on Muse Secure VM, a dedicated computer in the cloud that securely stores the data and credentials for the services you connect"
+        }
+      ]
+    },
+    {
+      "claim": "Will Easton, Meta Avustralya ve Yeni Zelanda Genel Müdürü olarak görev yapıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+          "quote": "Will Easton, Managing Director, Meta Australia and New Zealand"
+        }
+      ]
+    },
+    {
+      "claim": "Muse; iOS, Android, web ve bir Mac uygulaması olan muse.ai üzerinden Avustralya'da erişilebilir durumda olup yakında yapay zeka gözlüklerine de gelecektir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+          "quote": "Muse is available in Australia on iOS, Android, and muse.ai, a Mac app, and coming soon to AI glasses."
+        }
+      ]
+    },
+    {
+      "claim": "Muse çoğu temel ihtiyaç için ücretsizdir ve daha fazlasını yapmak isteyenler için abonelik planları sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+          "quote": "It’s free for most of what people need, with subscription plans for people who want to do more."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/": 3818,
+    "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake": 2731,
+    "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/": 3214,
+    "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/": 2367
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "pipeline_version": 2,
+  "slot": "12:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 119.0,
+  "candidates_tried": 2,
+  "gemini_calls": 16,
+  "model_usage": {
+    "gemini-3.5-flash-lite": 14,
+    "gemini-3.1-flash-lite": 1
+  },
+  "canonical_url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+  "entities": [
+    "Meta",
+    "Muse",
+    "Canva",
+    "Domain",
+    "Kogan",
+    "MECCA",
+    "Officeworks",
+    "realestate.com.au",
+    "SWEAT",
+    "ShopBack",
+    "Ticketek",
+    "Gmail",
+    "Google Calendar",
+    "Instagram",
+    "OpenTable"
+  ],
+  "event_type": "product_launch",
+  "topic": "ai",
+  "primary_entity": "Meta",
+  "event_key": "meta_muse_ai_agent_australia",
+  "editorial": {
+    "index": 5,
+    "publishable": true,
+    "importance": 8,
+    "education_value": 7,
+    "topic": "ai",
+    "primary_entity": "Meta",
+    "event_key": "meta_muse_ai_agent_australia",
+    "reason": "Meta'nın kişisel yapay zeka ajanı Muse'un kullanıcılara sunulması somut bir yapay zeka gelişmesidir."
+  },
+  "generated_at": "2026-11-18T12:27:15+03:00"
+}

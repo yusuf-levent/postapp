@@ -1,0 +1,59 @@
+{
+  "dry_run": false,
+  "platforms": {
+    "instagram": {
+      "platform": "instagram",
+      "state": "pending",
+      "external_id": "",
+      "permalink": "",
+      "attempts": 0,
+      "last_error": "",
+      "remote_status": ""
+    },
+    "tiktok": {
+      "platform": "tiktok",
+      "state": "pending",
+      "external_id": "",
+      "permalink": "",
+      "attempts": 0,
+      "last_error": "",
+      "remote_status": ""
+    },
+    "x": {
+      "platform": "x",
+      "state": "pending",
+      "external_id": "",
+      "permalink": "",
+      "attempts": 0,
+      "last_error": "",
+      "remote_status": ""
+    },
+    "threads": {
+      "platform": "threads",
+      "state": "pending",
+      "external_id": "",
+      "permalink": "",
+      "attempts": 0,
+      "last_error": "",
+      "remote_status": ""
+    },
+    "linkedin": {
+      "platform": "linkedin",
+      "state": "pending",
+      "external_id": "",
+      "permalink": "",
+      "attempts": 0,
+      "last_error": "",
+      "remote_status": ""
+    },
+    "facebook": {
+      "platform": "facebook",
+      "state": "pending",
+      "external_id": "",
+      "permalink": "",
+      "attempts": 0,
+      "last_error": "",
+      "remote_status": ""
+    }
+  }
+}

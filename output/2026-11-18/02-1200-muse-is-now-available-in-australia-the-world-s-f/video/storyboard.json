@@ -1,0 +1,40 @@
+{
+  "duration": 26.0,
+  "scenes": [
+    {
+      "label": "NE OLDU?",
+      "heading": "Meta, Muse Ajanını Avustralya'da Kullanıma Sundu",
+      "body": "Kişisel yapay zeka ajanı Muse, Avustralya'da kullanıcılarla buluştu."
+    },
+    {
+      "label": "BİLMEN GEREKEN",
+      "heading": "Desteklenen Uygulamalar",
+      "body": "Muse, kullanıcıların Gmail, Google Calendar, Instagram ve OpenTable gibi uygulamalarla bağlantı kurmasını sağlıyor."
+    },
+    {
+      "label": "DETAY",
+      "heading": "Platform Desteği",
+      "body": "Muse; iOS, Android, web ve Mac uygulaması muse.ai üzerinden erişilebilir olup yakında yapay zeka gözlüklerine de gelecek."
+    },
+    {
+      "label": "NEDEN ÖNEMLİ?",
+      "heading": "Alışveriş ve Yaşam",
+      "body": "Erken benimseyen kullanıcılar için çevrimiçi alışveriş, yapay zeka ajanının temel kullanım alanlarından biri öne çıkıyor."
+    }
+  ],
+  "bounds": [
+    0.0,
+    3.5,
+    11.0,
+    18.5,
+    26.0
+  ],
+  "probe": {
+    "duration": 26.0,
+    "width": 1080,
+    "height": 1920,
+    "has_audio": true,
+    "codec": "h264",
+    "pixel_format": "yuv420p"
+  }
+}
