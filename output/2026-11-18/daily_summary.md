@@ -1,3 +1,3 @@
 # Günlük Özet — 2026-11-18
 
-- ⏭️ `09:00` slotu atlandı — editöryal ve doğrulama kurallarını geçen aday yok
+- ⚠️ `12:00` [news] Meta, Muse Ajanını Avustralya'da Kullanıma Sundu — 3/6 platform

@@ -5833,57 +5833,57 @@
     "status_per_platform": [
       {
         "platform": "instagram",
-        "state": "pending",
-        "external_id": "",
+        "state": "submitted",
+        "external_id": "6afd6f78cf3d6249439a74f3",
         "permalink": "",
-        "attempts": 0,
-        "last_error": "",
-        "remote_status": ""
+        "attempts": 1,
+        "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
+        "remote_status": "sending"
       },
       {
         "platform": "tiktok",
-        "state": "pending",
-        "external_id": "",
+        "state": "submitted",
+        "external_id": "6afd6f91b5a163e6f538addb",
         "permalink": "",
-        "attempts": 0,
-        "last_error": "",
-        "remote_status": ""
+        "attempts": 1,
+        "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
+        "remote_status": "sending"
       },
       {
         "platform": "x",
-        "state": "pending",
-        "external_id": "",
-        "permalink": "",
-        "attempts": 0,
+        "state": "published",
+        "external_id": "6afd6fac8696e844eedbdc11",
+        "permalink": "https://twitter.com/tekno_pusulatr/status/2122985217019257297",
+        "attempts": 1,
         "last_error": "",
-        "remote_status": ""
+        "remote_status": "sent"
       },
       {
         "platform": "threads",
-        "state": "pending",
-        "external_id": "",
-        "permalink": "",
-        "attempts": 0,
+        "state": "published",
+        "external_id": "17978524062171133",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/Df4Lz8ZFmeQ",
+        "attempts": 1,
         "last_error": "",
         "remote_status": ""
       },
       {
         "platform": "linkedin",
-        "state": "pending",
-        "external_id": "",
+        "state": "submitted",
+        "external_id": "6afd6fd26e511f3d83ff5791",
         "permalink": "",
-        "attempts": 0,
-        "last_error": "",
-        "remote_status": ""
+        "attempts": 1,
+        "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
+        "remote_status": "sending"
       },
       {
         "platform": "facebook",
-        "state": "pending",
-        "external_id": "",
-        "permalink": "",
-        "attempts": 0,
+        "state": "published",
+        "external_id": "6afd6febcf3d6249439a9568",
+        "permalink": "https://facebook.com/1351036918092059_122124235611484840",
+        "attempts": 1,
         "last_error": "",
-        "remote_status": ""
+        "remote_status": "sent"
       }
     ],
     "created_at": "2026-11-18T12:27:15+03:00",
