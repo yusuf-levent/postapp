@@ -19,7 +19,7 @@ from typing import Any
 import requests
 
 from app.config import platforms_config, settings
-from app.publish.retry import AmbiguousError, PermanentError, TransientError, raise_for_status
+from app.publish.retry import AmbiguousError, PermanentError, RateLimitError, TransientError, raise_for_status
 
 log = logging.getLogger("tekno-pusula.buffer")
 
@@ -129,8 +129,7 @@ class BufferClient:
         if resp.status_code == 401:
             raise PermanentError("Buffer API anahtarı geçersiz (401).")
         if resp.status_code == 429:
-            retry_after = resp.headers.get("Retry-After", "60")
-            raise TransientError(f"Buffer rate limit (429), bekleme: {retry_after}s")
+            raise RateLimitError(resp.headers.get("Retry-After", "60"))
         if query.lstrip().startswith("mutation") and (resp.status_code >= 500 or resp.status_code == 408):
             raise AmbiguousError(f"Buffer yazma isteği HTTP {resp.status_code}; kabul edilmiş olabilir.")
         raise_for_status(resp.status_code, resp.text)
@@ -140,7 +139,7 @@ class BufferClient:
             msg = "; ".join(e.get("message", "") for e in data["errors"])
             code = data["errors"][0].get("extensions", {}).get("code", "")
             if code == "RATE_LIMIT_EXCEEDED":
-                raise TransientError(f"Buffer rate limit: {msg}")
+                raise RateLimitError(resp.headers.get("Retry-After", "60"))
             if "unauthorized" in msg.lower() or code == "UNAUTHORIZED":
                 raise PermanentError(f"Buffer yetkilendirme hatası: {msg}")
             raise PermanentError(f"Buffer GraphQL hatası: {msg}")
@@ -269,6 +268,7 @@ class BufferClient:
                     "Buffer post kaydedildi ama gönderim hatası (%s). "
                     "Tekrar GÖNDERİLMEZ (çift paylaşım engeli).", post_id,
                 )
+            polled = {}
             if post_id and share_now and status not in ("sent", "error"):
                 polled = self._poll_post_status(post_id)
                 if polled:
@@ -283,6 +283,8 @@ class BufferClient:
                 "status": status,
                 "externalLink": ext_link,
                 "error": post_error,
+                "retry_at": polled.get("retry_at", 0),
+                "retry_error": polled.get("retry_error", ""),
             }
 
         message = payload.get("message", f"bilinmeyen Buffer hatası: {typename}")
@@ -342,6 +344,7 @@ class BufferClient:
                     ext_link = post.get("externalLink", "")
                     post_error = post.get("error") or {}
                     log.info("Buffer video post oluşturuldu (%s): %s (%s)", platform, post_id, status)
+                    polled = {}
                     if post_id and share_now and status not in ("sent", "error"):
                         polled = self._poll_post_status(post_id)
                         if polled:
@@ -356,6 +359,8 @@ class BufferClient:
                         "status": status,
                         "externalLink": ext_link,
                         "error": post_error,
+                        "retry_at": polled.get("retry_at", 0),
+                        "retry_error": polled.get("retry_error", ""),
                     }
                 # Yalnızca post HİÇ kaydedilmediyse sonraki meta denenir.
                 if typename == "InvalidInputError":
@@ -393,6 +398,8 @@ class BufferClient:
         for _ in range(max_polls):
             try:
                 last = self.get_post_status(post_id)
+            except RateLimitError as exc:
+                return {**last, "retry_at": exc.retry_at, "retry_error": str(exc)}
             except Exception as exc:
                 log.debug("Buffer status poll uyarısı (%s): %s", post_id, exc)
                 return last
@@ -463,6 +470,8 @@ class BufferClient:
                 )
             log.error("Buffer X thread sonucu belirsiz (%s) — fallback yapılmıyor, tekrar denenmiyor.", payload.get("__typename") or message)
             return {"id": "", "status": "unknown", "externalLink": ""}
+        except RateLimitError:
+            raise
         except PermanentError as exc:
             # Kalıcı hata: thread kesin kaydedilmedi → fallback güvenli.
             log.warning("Buffer X thread kalıcı hata (%s), 4 görselli tek post olarak paylaşılıyor.", exc)

@@ -1,21 +1,26 @@
 """Yayınlama orkestrasyonu: Buffer + Threads, durum doğrulama, kurtarma.
 
 Durum makinesi: pending → submitted → published | failed.
-Her platform için ayrı durum tutulur. `published` olan platforma asla tekrar
-gönderilmez (idempotent). Son 24 saatteki failed/pending platformlar yeniden denenir.
+Her platform için ayrı durum tutulur. Buffer istek limiti sonraki çalışma için
+yeniden deneme zamanı kaydeder. Buffer kimliği bulunan gönderi yalnızca sorgulanır.
 """
 from __future__ import annotations
 
 import json
 import logging
+import time
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Callable
 
-from app.config import platforms_config, settings
+from app.config import platforms_config
 from app.models import PlatformStatus
-from app.publish.buffer_client import BufferClient, client_for_account
-from app.publish.retry import AmbiguousError, PermanentError, TransientError, with_retry
+from app.publish.buffer_client import client_for_account
+from app.publish.retry import (
+    RECOVERY_MAX_ATTEMPTS, PermanentError, RateLimitError, TransientError, with_retry,
+)
 from app.publish.threads_client import ThreadsClient, maybe_refresh_token
+from app.scheduling import platform_recovery_due
 
 log = logging.getLogger("tekno-pusula.publisher")
 
@@ -30,8 +35,6 @@ def wait_for_public_urls(urls: list[str], *, timeout: int = 120) -> bool:
     Commit + push sonrası raw.githubusercontent.com propagasyonu için.
     200 + image/png veya video/mp4 dönene kadar bekle.
     """
-    import time
-
     from app.common import http_get
 
     deadline = time.time() + timeout
@@ -76,12 +79,16 @@ def publish_platform(
     if st.state == "published":
         log.info("%s zaten yayınlanmış, atlanıyor (idempotent)", platform)
         return st
+    if st.retry_at > time.time():
+        return st
 
     # An accepted Buffer ID must only be queried, never submitted a second time.
     if st.external_id and platform != "threads":
         try:
             value = client_for_account(account).get_post_status(st.external_id)
             _apply_result(st, value)
+        except RateLimitError as exc:
+            _defer_buffer_retry(st, exc.retry_at, str(exc))
         except Exception as exc:
             log.warning("%s durum sorgusu başarısız: %s", platform, type(exc).__name__)
         return st
@@ -137,6 +144,10 @@ def publish_platform(
     if result.ok:
         value = result.value or {}
         _apply_result(st, value)
+    elif result.retry_at:
+        st.attempts -= 1
+        st.state = "pending"
+        _defer_buffer_retry(st, result.retry_at, result.error)
     elif result.ambiguous:
         # İstek gönderildi ama sonuç doğrulanamadı (timeout vb.).
         # Post PAYLAŞILMIŞ OLABİLİR → `submitted` olarak bırakılır.
@@ -154,6 +165,12 @@ def publish_platform(
     return st
 
 
+def _defer_buffer_retry(st: PlatformStatus, retry_at: int, error: str) -> None:
+    st.retry_at, st.last_error = retry_at, error
+    log.warning("%s Buffer yeniden deneme zamanı: %s", st.platform,
+                datetime.fromtimestamp(retry_at, timezone.utc).isoformat())
+
+
 def _apply_result(st: PlatformStatus, value: dict) -> None:
     st.external_id = str(value.get("id") or st.external_id or "")
     st.permalink = str(value.get("permalink") or value.get("externalLink") or st.permalink or "")
@@ -163,11 +180,16 @@ def _apply_result(st: PlatformStatus, value: dict) -> None:
     message = error.get("message", "") if isinstance(error, dict) else str(error)
     if st.external_id and (remote == "sent" or st.platform == "threads"):
         st.state, st.last_error = "published", ""
+        st.retry_at = 0
     elif remote == "error":
         st.state, st.last_error = "failed", message or "Buffer gönderimi hata ile tamamlandı."
+        st.retry_at = 0
     else:
         st.state = "submitted"
         st.last_error = message or f"Buffer yayını henüz doğrulanmadı ({remote or 'bilinmiyor'})."
+        # Keep an existing retry timestamp until we have a terminal result.
+        if retry_at := value.get("retry_at"):
+            _defer_buffer_retry(st, retry_at, value.get("retry_error") or st.last_error)
 
 
 def publish_all(
@@ -272,28 +294,28 @@ def recover_failed(
     channel_map: dict[str, tuple[str, str]],
     history_statuses: list[PlatformStatus],
     thread_replies: list[dict] | None = None,
-    max_total_attempts: int = 5,
+    max_total_attempts: int = RECOVERY_MAX_ATTEMPTS,
+    recent: bool = True,
     dry_run: bool = False,
     checkpoint: Callable[[], None] | None = None,
 ) -> dict[str, PlatformStatus]:
-    """Son 24 saatteki failed/pending platformları yeniden dener.
-
-    Idempotent: `published` olan platform ASLA tekrar gönderilmez.
-    Toplam deneme sınırı: 5.
-    """
-    recovered: dict[str, PlatformStatus] = {}
+    """Zamanı gelen gönderimleri yeniden dener, kabul edilenleri sorgular."""
     if dry_run:
-        for st in history_statuses:
-            recovered[st.platform] = st
-        return recovered
+        return {st.platform: st for st in history_statuses}
     platforms = platforms_config().platforms
     latest = {s.platform: s for s in history_statuses}
     status_file = post_dir / "status.json"
     if status_file.exists():
         saved = json.loads(status_file.read_text(encoding="utf-8")).get("platforms", {})
         latest.update({k: PlatformStatus.model_validate(v) for k, v in saved.items()})
-    history_statuses = list(latest.values())
-    if any(st.state in ("pending", "failed") and not st.external_id for st in history_statuses):
+    now = datetime.now(timezone.utc)
+    due = [
+        st for st in latest.values()
+        if st.platform in captions and platform_recovery_due(
+            st.model_dump(), now, recent=recent, max_attempts=max_total_attempts,
+        )
+    ]
+    if any(not st.external_id for st in due):
         urls = list(dict.fromkeys([*image_urls, *(image_urls_9x16 or []), *([video_url] if video_url else [])]))
         if urls and not wait_for_public_urls(urls):
             raise PublisherError("Kurtarma için medya URL'leri erişilebilir değil; yeni gönderim başlatılmadı.")
@@ -303,19 +325,7 @@ def recover_failed(
         if checkpoint:
             checkpoint()
 
-    for st in history_statuses:
-        if st.state == "published":
-            recovered[st.platform] = st
-            continue
-        if st.attempts >= max_total_attempts and not st.external_id:
-            log.warning(
-                "%s için deneme sınırı doldu (%d), atlanıyor",
-                st.platform, st.attempts,
-            )
-            recovered[st.platform] = st
-            continue
-        if st.platform not in captions:
-            continue
+    for st in due:
         account, channel_id = channel_map.get(st.platform, ("A", ""))
         rules = platforms.get(st.platform)
         plat_urls = (
@@ -334,12 +344,10 @@ def recover_failed(
             thread_replies=thread_replies,
             before_submit=save_status,
         )
-        recovered[st.platform] = new_status
         latest[st.platform] = new_status
         save_status()
 
-    _write_status(post_dir, recovered, dry_run=False)
-    return recovered
+    return latest
 
 
 def _write_status(

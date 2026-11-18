@@ -7,8 +7,10 @@ Kalıcı hatalar (401, 400 validation) loglanıp `failed` işaretlenir.
 from __future__ import annotations
 
 import logging
+import math
 import time
 from dataclasses import dataclass
+from email.utils import parsedate_to_datetime
 from typing import Any, Callable, TypeVar
 
 log = logging.getLogger("tekno-pusula.retry")
@@ -32,6 +34,23 @@ class TransientError(RuntimeError):
     """Tekrar denenebilir hata."""
 
 
+class RateLimitError(TransientError):
+    """Buffer isteği reddedildi; yeni deneme zamanı sonraki çalışmaya aktarılır."""
+
+    def __init__(self, retry_after: str = "60"):
+        now = math.ceil(time.time())
+        try:
+            delay = int(retry_after)
+        except ValueError:
+            try:
+                delay = math.ceil(parsedate_to_datetime(retry_after).timestamp()) - now
+            except (ValueError, OverflowError):
+                delay = 60
+        delay = max(0, delay)
+        self.retry_at = now + delay
+        super().__init__(f"Buffer rate limit (429), bekleme: {delay}s")
+
+
 class AmbiguousError(RuntimeError):
     """İstek GÖNDERİLDİ ama sonuç BELLİ DEĞİL (timeout/connection reset).
 
@@ -48,6 +67,7 @@ class RetryResult:
     attempts: int = 0
     permanent: bool = False
     ambiguous: bool = False  # istek gönderildi, sonuç belli değil (tekrar denenmez)
+    retry_at: int = 0
 
 
 def classify_status(status: int) -> str:
@@ -90,6 +110,8 @@ def with_retry(
             log.error("%s ağ hatası (deneme %d): %s — istek gönderilmiş olabilir, tekrar denenmiyor",
                       label, attempt, exc)
             return RetryResult(ok=False, error=str(exc), attempts=attempt, ambiguous=True)
+        except RateLimitError as exc:
+            return RetryResult(ok=False, error=str(exc), attempts=attempt, retry_at=exc.retry_at)
         except TransientError as exc:
             last_error = str(exc)
             if attempt < max_attempts:
