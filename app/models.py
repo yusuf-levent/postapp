@@ -204,7 +204,7 @@ class HistoryEntry(BaseModel):
     id: str
     date: str  # YYYY-MM-DD (İstanbul)
     slot: str  # HH:MM
-    type: Literal["news", "edu"]
+    type: Literal["news", "edu", "weetis"]
     title_tr: str = ""
     original_title: str = ""
     source_urls: list[str] = Field(default_factory=list)

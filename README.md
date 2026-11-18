@@ -11,14 +11,16 @@ Kaynakları kontrol edilen Türkçe teknoloji / yapay zekâ içeriği üretir; a
 - Şirket/konu bilgisi tekrar kontrolünden **önce** hazırlanır. Olay kimliği ve geçmiş başlıklar, farklı kaynakların aynı haberi yeniden paylaşmasını azaltır.
 - Haber metni iki tur kontrol edilir. Alıntı, belirtilen kaynak URL'sinin gerçek metninde bulunmalıdır. Ana iddia için en az iki ayrı kaynak alan adından kanıt gerekir.
 - Doğrulanmış haber bulunmazsa slot atlanır; boşluğu doldurmak için rastgele eğitim içeriği üretilmez. Atlanan slot, aynı gün tekrar tekrar denenmez.
-- 18:00 eğitim slotunda haberin uygulanabilir bir kavramı öğretmeye uygunluğu da değerlendirilir.
+- 20:00 eğitim slotunda haberin uygulanabilir bir kavramı öğretmeye uygunluğu da değerlendirilir.
 - Son slayt metni sınır ve rakam kontrollerini, görseller de DOM/vision kalite kontrolünü geçmeden paylaşım başlamaz.
 
 Bu kontroller otomatik doğrulamadır; hatasız editörlük garantisi değildir.
 
 ## Zamanlama
 
-Türkiye saatiyle 09:00, 12:00, 15:00, 18:00 (eğitim) ve 21:00 hedeflenir. Bunlar üst sınırdır; içerik kalitesi için beşinin de dolması zorlanmaz.
+Türkiye saatiyle 09:00, 12:00, 15:00, 18:00 (Weetis), 20:00 (eğitim) ve 21:00 hedeflenir.
+
+Weetis slotu, Türkçe günün tartışmasını Weetis API'sinden alır. Tartışmanın editör hesabına ve İstanbul saatine göre bugüne ait olduğunu doğrular. Tekno Pusula'nın altı yazılı kartını üretir, açıklamalara tartışma bağlantısını ekler ve platformların yayın durumunu kaydeder. Günün tartışması henüz hazır değilse mevcut slot penceresinde tekrar kontrol edilir.
 
 GitHub cron her 15 dakikada kontrol eder. İstenirse mevcut harici tetikleyici aynı workflow'u daha sık çağırabilir. `cancel-in-progress: false` sayesinde yeni tetik, devam eden üretimi iptal etmez. Önizlemeler ayrı concurrency grubundadır.
 

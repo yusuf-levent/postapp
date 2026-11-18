@@ -1,7 +1,7 @@
 # Zamanlama ve içerik dağılımı ayarları (Europe/Istanbul, UTC+3)
 timezone: Europe/Istanbul
 
-# Her gün 5 slot. type: news | edu | auto
+# Her gün 6 slot. type: news | edu | weetis | auto
 slots:
   - time: "09:00"
     type: news
@@ -10,6 +10,8 @@ slots:
   - time: "15:00"
     type: news
   - time: "18:00"
+    type: weetis
+  - time: "20:00"
     type: edu
   - time: "21:00"
     type: news

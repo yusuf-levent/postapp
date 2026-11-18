@@ -12,11 +12,13 @@
       <div class="cta-note">{{ reminder_line }}</div>
     </div>
 
+    {% if show_follow_cta | default(true) %}
     <div class="cta-card yellow">
       <div class="cta-kicker">Yazılım ve Yapay Zeka İçerikleri İçin</div>
       <div class="cta-big">Düşüncelerinizi Yorumlarda Paylaşın! 👇<br>Takipte Kalın ⚡</div>
       <div class="cta-actions">📌 Kaydet • 📩 Paylaş • 💬 Yorum Yap</div>
     </div>
+    {% endif %}
   </div>
 
   <div class="inner-footer">
