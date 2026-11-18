@@ -3,6 +3,8 @@ from __future__ import annotations
 
 from datetime import datetime, timedelta
 
+from app.publish.retry import RECOVERY_MAX_ATTEMPTS
+
 
 def due_slots(schedule: dict, history: list[dict], now: datetime) -> list[str]:
     """One fresh slot per run; never publish a burst of stale catch-up posts."""
@@ -18,17 +20,35 @@ def due_slots(schedule: dict, history: list[dict], now: datetime) -> list[str]:
     return sorted(eligible, reverse=True)[:1]
 
 
+def within_recovery_window(created_at: str, now: datetime) -> bool:
+    try:
+        return datetime.fromisoformat(created_at) >= now - timedelta(days=2)
+    except (ValueError, TypeError):
+        return False
+
+
+def platform_recovery_due(
+    status: dict,
+    now: datetime,
+    *,
+    recent: bool,
+    max_attempts: int = RECOVERY_MAX_ATTEMPTS,
+) -> bool:
+    retry_at = status.get("retry_at", 0)
+    if retry_at:
+        if retry_at > now.timestamp():
+            return False
+    elif not recent:
+        return False
+    if status.get("external_id"):
+        return status.get("state") == "submitted"
+    return status.get("state") in ("pending", "failed") and status.get("attempts", 0) < max_attempts
+
+
 def needs_recovery(history: list[dict], now: datetime) -> bool:
     for entry in history:
-        try:
-            if datetime.fromisoformat(entry.get("created_at", "")) < now - timedelta(days=2):
-                continue
-        except (ValueError, TypeError):
-            continue
-        for status in entry.get("status_per_platform", []):
-            if status.get("state") == "submitted" and status.get("external_id"):
-                return True
-            if (status.get("state") in ("pending", "failed") and not status.get("external_id")
-                    and status.get("attempts", 0) < 5):
-                return True
+        recent = within_recovery_window(entry.get("created_at", ""), now)
+        if any(platform_recovery_due(status, now, recent=recent)
+               for status in entry.get("status_per_platform", [])):
+            return True
     return False

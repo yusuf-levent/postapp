@@ -5,7 +5,7 @@ import pytest
 import responses
 
 from app.publish.buffer_client import BufferClient, API_URL
-from app.publish.retry import PermanentError, TransientError
+from app.publish.retry import PermanentError, RateLimitError, TransientError
 from app.publish.retry import AmbiguousError
 from app.publish.threads_client import GRAPH_BASE, ThreadsClient, threads_char_length
 
@@ -24,8 +24,17 @@ def test_buffer_write_5xx_is_ambiguous_and_never_retried():
 def test_video_rate_limit_keeps_its_retryable_classification():
     responses.post(API_URL, status=429, json={}, headers={"Retry-After":"60"})
     client = BufferClient(access_token="test-token")
-    with pytest.raises(TransientError):
+    with pytest.raises(RateLimitError):
         client.create_video_post(channel_id="ch-1", text="text", video_url="https://example.com/video.mp4", platform="instagram")
+    assert len(responses.calls) == 1
+
+
+@responses.activate
+def test_buffer_thread_rate_limit_is_a_confirmed_rejection():
+    responses.post(API_URL, status=429, json={})
+    client = BufferClient(access_token="test-token")
+    with pytest.raises(RateLimitError):
+        client.create_thread(channel_id="ch-1", root_text="text", replies=[])
     assert len(responses.calls) == 1
 
 

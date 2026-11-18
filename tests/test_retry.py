@@ -1,10 +1,13 @@
 """Retry ve idempotency mantığı testleri."""
 from __future__ import annotations
 
+from types import SimpleNamespace
+
 import pytest
 
 from app.publish.retry import (
     PermanentError,
+    RateLimitError,
     TransientError,
     classify_status,
     raise_for_status,
@@ -78,6 +81,27 @@ def test_with_retry_exhausts_attempts():
     result = with_retry(always_transient, max_attempts=3, sleep_fn=lambda s: None)
     assert not result.ok
     assert result.attempts == 3
+
+
+@pytest.mark.parametrize(
+    "retry_after,deadline",
+    [("127379", 127380), ("Thu, 01 Jan 1970 00:02:00 GMT", 120), ("invalid", 61)],
+)
+def test_buffer_backoff_is_returned_without_blocking(monkeypatch, retry_after, deadline):
+    from app.publish import retry
+
+    monkeypatch.setattr(retry, "time", SimpleNamespace(time=lambda: 0.5))
+
+    def rejected():
+        raise RateLimitError(retry_after)
+
+    def unexpected_sleep(_):
+        pytest.fail("Buffer cooldown must be handled by the next workflow")
+
+    result = with_retry(rejected, sleep_fn=unexpected_sleep)
+    assert result.retry_at == deadline
+    assert result.attempts == 1
+    assert not result.ambiguous
 
 
 # ------------------------------------------------------------ idempotency

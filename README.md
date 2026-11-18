@@ -75,12 +75,14 @@ Güncel sağlayıcı belgeleri:
 Instagram, TikTok, X, Facebook, LinkedIn: Buffer GraphQL API. Threads: Threads Graph API.
 
 `status.json` durumları:
-- `pending`: Henüz gönderilmedi.
+- `pending`: Henüz gönderilmedi veya Buffer'ın bildirdiği yeniden deneme saati bekleniyor.
 - `submitted`: İstek gönderildi veya Buffer kabul etti; yayına çıktığı henüz doğrulanmadı.
 - `published`: Buffer `sent` döndürdü veya Threads yayın kimliği alındı.
 - `failed`: Gönderim reddedildi ya da Buffer hata bildirdi.
 
 Buffer ID'si bulunan gönderi tekrar oluşturulmaz; var olan ID sorgulanır. Sonucu belirsiz, ID'siz isteğin yeniden gönderimi de otomatik yapılmaz. Her platform isteğinden önce ve sonra durum günlüğü kaydedilir. Yarım kalan hazırlanmış içerik sonraki çalışmada sürdürülebilir. Medya GitHub'a yüklenememişse veya herkese açık URL'leri erişilemiyorsa paylaşım başlamaz.
+
+Buffer `429` döndürürse `Retry-After` süresi kaydedilir ve süre dolduktan sonraki çalıştırmada gönderim veya durum sorgusu yeniden denenir. Bu bekleme otomatik deneme hakkını tüketmez.
 
 Buffer'da `sent` görünmesine rağmen platformda yayın yoksa hesabın otomatik yayın / bildirimle yayın ayarlarını da kontrol et. [Buffer açıklaması](https://support.buffer.com/articles/scheduling-instagram-posts-reels-stories-and-notifications-3XA98S9Q5p).
 

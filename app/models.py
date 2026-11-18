@@ -192,6 +192,7 @@ class PlatformStatus(BaseModel):
     attempts: int = 0
     last_error: str = ""
     remote_status: str = ""
+    retry_at: int = 0  # Unix time. Zero means no Buffer deferral was recorded.
 
     @field_validator("external_id", "permalink", "last_error", mode="before")
     @classmethod

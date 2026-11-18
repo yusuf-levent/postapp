@@ -39,6 +39,7 @@ from app.select.dedup import is_duplicate, normalize_url
 from app.select.scoring import build_source_index, score_candidates
 from app.select.editorial import annotate, rejection_reason, shortlist
 from app.scheduling import due_slots as find_due_slots
+from app.scheduling import needs_recovery, within_recovery_window
 from app.store import history as history_store
 from app.store.git_ops import commit_and_push
 from app.store.issues import close_resolved_issues, notify_post_published, open_issue
@@ -398,7 +399,7 @@ def run(
         channel_map=channel_map,
         thread_replies=thread_replies,
         dry_run=dry_run,
-        checkpoint=(lambda: _checkpoint_post(post_dir)) if not dry_run else None,
+        checkpoint=(lambda: _checkpoint_post(post_dir, entry)) if not dry_run else None,
     )
 
     # 17) Final platform states replace the durable pending reservation.
@@ -549,18 +550,6 @@ def _publish_existing_dry_run(
     video_url = _public_video_url(target_dir, reel_path if reel_path.exists() else None)
     thread_replies = _thread_replies(status_caption_map.get("x", ""), image_urls)
 
-    statuses = publish_all(
-        target_dir,
-        captions=status_caption_map,
-        image_urls=image_urls,
-        image_urls_9x16=image_urls_9x16,
-        video_url=video_url,
-        channel_map=_channel_map(),
-        thread_replies=thread_replies,
-        dry_run=False,
-        checkpoint=lambda: _checkpoint_post(target_dir),
-    )
-
     canonical_url = cap_doc.get("canonical_url") or meta_doc.get("canonical_url") or ""
     title_tr = cap_doc.get("title_tr") or target_dir.name
     ptype = meta_doc.get("type") or ("news" if force_type == "news" else "edu")
@@ -576,13 +565,24 @@ def _publish_existing_dry_run(
         entities=meta_doc.get("entities", []),
         event_type=meta_doc.get("event_type", ""),
         embedding=[],
-        status_per_platform=list(statuses.values()),
         created_at=now_istanbul().isoformat(timespec="seconds"),
         verified_claims_count=1,
         topic=meta_doc.get("topic", ""),
         primary_entity=meta_doc.get("primary_entity", ""),
         event_key=meta_doc.get("event_key", ""),
     )
+    statuses = publish_all(
+        target_dir,
+        captions=status_caption_map,
+        image_urls=image_urls,
+        image_urls_9x16=image_urls_9x16,
+        video_url=video_url,
+        channel_map=_channel_map(),
+        thread_replies=thread_replies,
+        dry_run=False,
+        checkpoint=lambda: _checkpoint_post(target_dir, entry),
+    )
+    entry.status_per_platform = list(statuses.values())
     history_store.append_entry(entry)
 
     # Save history before optional notification/issue requests, also on resume.
@@ -714,17 +714,13 @@ def sched_min_sources() -> int:
 
 
 def _recovery_pass(*, dry_run: bool) -> None:
-    """Son 48 saatte failed/pending platformları yeniden dener."""
+    """Zamanı gelen yeniden denemeleri ve durum sorgularını çalıştırır."""
     if dry_run:
         return
-    recent = history_store.recent_entries(days=2)
-    if not recent:
-        return
-    for entry in recent:
-        needs = [
-            s for s in entry.status_per_platform if s.state in ("failed", "pending", "submitted")
-        ]
-        if not needs:
+    now = now_istanbul()
+    channel_map = None
+    for entry in history_store.load_history():
+        if not needs_recovery([entry.model_dump()], now):
             continue
         post_dir = _find_post_dir(entry)
         if not post_dir or not (post_dir / "captions.json").exists():
@@ -754,17 +750,19 @@ def _recovery_pass(*, dry_run: bool) -> None:
             )
             reel_path = post_dir / "video" / "reel.mp4"
             video_url = _public_video_url(post_dir, reel_path if reel_path.exists() else None)
+            if channel_map is None:
+                channel_map = _channel_map()
             recovered = recover_failed(
                 post_dir,
                 captions=captions,
                 image_urls=image_urls,
                 image_urls_9x16=image_urls_9x16,
                 video_url=video_url,
-                channel_map=_channel_map(),
+                channel_map=channel_map,
                 history_statuses=entry.status_per_platform,
                 thread_replies=_thread_replies(captions.get("x", ""), image_urls),
-                dry_run=dry_run,
-                checkpoint=lambda: _checkpoint_post(post_dir),
+                recent=within_recovery_window(entry.created_at, now),
+                checkpoint=lambda: _checkpoint_post(post_dir, entry),
             )
             if recovered:
                 entry.status_per_platform = list(recovered.values())
@@ -1019,8 +1017,13 @@ def _channel_map() -> dict[str, tuple[str, str]]:
     return out
 
 
-def _checkpoint_post(post_dir: Path) -> None:
-    if not commit_and_push("🤖 publish: platform durum günlüğü", [post_dir.relative_to(_repo_root()) / "status.json"]):
+def _checkpoint_post(post_dir: Path, entry: HistoryEntry) -> None:
+    status_file = post_dir / "status.json"
+    journal = json.loads(status_file.read_text(encoding="utf-8"))["platforms"]
+    entry.status_per_platform = [PlatformStatus.model_validate(st) for st in journal.values()]
+    history_store.append_entry(entry)
+    if not commit_and_push("🤖 publish: platform durum günlüğü",
+                           [status_file.relative_to(_repo_root()), "data/history.json"]):
         raise RuntimeError("Platform durum günlüğü kaydedilemedi; yayın durduruldu.")
 
 
