@@ -1,0 +1,199 @@
+{
+  "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+  "canonical_url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+  "source_names": [
+    "TechCrunch",
+    "Ars Technica",
+    "Wired",
+    "MIT Technology Review"
+  ],
+  "checked_at": "2026-11-18T21:13:48+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Nvidia, Çin'e H200 çip satışını durduracağını Salı günü geçici CEO Colette Kress tarafından açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "quote": "Nvidia will no longer sell its H200 chips in China, acting CEO Colette Kress said Tuesday, ending the company’s participation in a controversial loophole in the U.S. ban on the sale of advanced chips to the country."
+        },
+        {
+          "url": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
+          "quote": "Interim Nvidia CEO Colette Kress made her first address to the staff on Wednesday"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "quote": "Nvidia will no longer sell its H200 chips in China, acting CEO Colette Kress said Tuesday"
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia, ulusal güvenlik politikaları, ihracat kontrolü uyumluluğu ve küresel ticaret risklerini denetlemek üzere yönetim kurulu düzeyinde bir komite oluşturduğunu duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "quote": "The disclosure comes the same day Nvidia announced it was creating a board-level committee to oversee national security policies, export control compliance, and global trade risks."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia'nın Çin'e H200 çip satışı anlaşması Huang ve Başkan Donald Trump tarafından yapılmıştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "quote": "Nvidia’s deal to sell H200 chips in China was brokered by Huang and President Donald Trump."
+        }
+      ]
+    },
+    {
+      "claim": "Yatırım bankası Jefferies, yeni kuralların gelecek yıl Nvidia'nın veri merkezi gelirinden 44 milyar ile 62 milyar dolar arasında bir kesinti yapabileceğini öngördü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "quote": "Investment bank Jefferies forecast that those rules might trim between $44 billion and $62 billion from Nvidia’s data center revenue next year."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia'nın Singapur'daki bağlı ortaklığının yıllık geliri, Nvidia bu rakamları açıklamayı durdurmadan önce 2025 yılında 104 milyar dolara ulaştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "quote": "annual revenue at its Singapore subsidiary hit $104 billion in 2025 before Nvidia stopped disclosing those figures"
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Nvidia, Çin'e H200 çip satışını durduracağını Salı günü geçici CEO Colette Kress tarafından açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "quote": "Nvidia will no longer sell its H200 chips in China, acting CEO Colette Kress said Tuesday, ending the company’s participation in a controversial loophole in the U.S. ban on the sale of advanced chips to the country."
+        },
+        {
+          "url": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
+          "quote": "Interim Nvidia CEO Colette Kress made her first address to the staff on Wednesday"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "quote": "Nvidia will no longer sell its H200 chips in China, acting CEO Colette Kress said Tuesday"
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia, ulusal güvenlik politikaları, ihracat kontrolü uyumluluğu ve küresel ticaret risklerini denetlemek üzere yönetim kurulu düzeyinde bir komite oluşturduğunu duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "quote": "The disclosure comes the same day Nvidia announced it was creating a board-level committee to oversee national security policies, export control compliance, and global trade risks."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia'nın Çin'e H200 çip satışı anlaşması Huang ve Başkan Donald Trump tarafından yapılmıştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "quote": "Nvidia’s deal to sell H200 chips in China was brokered by Huang and President Donald Trump."
+        }
+      ]
+    },
+    {
+      "claim": "Yatırım bankası Jefferies, yeni kuralların gelecek yıl Nvidia'nın veri merkezi gelirinden 44 milyar ile 62 milyar dolar arasında bir kesinti yapabileceğini öngördü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "quote": "Investment bank Jefferies forecast that those rules might trim between $44 billion and $62 billion from Nvidia’s data center revenue next year."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia'nın Singapur'daki bağlı ortaklığının yıllık geliri, Nvidia bu rakamları açıklamayı durdurmadan önce 2025 yılında 104 milyar dolara ulaştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "quote": "annual revenue at its Singapore subsidiary hit $104 billion in 2025 before Nvidia stopped disclosing those figures"
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Nvidia, Çin'e H200 çip satışını durduracağını Salı günü geçici CEO Colette Kress tarafından açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "quote": "Nvidia will no longer sell its H200 chips in China, acting CEO Colette Kress said Tuesday, ending the company’s participation in a controversial loophole in the U.S. ban on the sale of advanced chips to the country."
+        },
+        {
+          "url": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
+          "quote": "Interim Nvidia CEO Colette Kress made her first address to the staff on Wednesday"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "quote": "Nvidia will no longer sell its H200 chips in China, acting CEO Colette Kress said Tuesday"
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia, ulusal güvenlik politikaları, ihracat kontrolü uyumluluğu ve küresel ticaret risklerini denetlemek üzere yönetim kurulu düzeyinde bir komite oluşturduğunu duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "quote": "The disclosure comes the same day Nvidia announced it was creating a board-level committee to oversee national security policies, export control compliance, and global trade risks."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia'nın Çin'e H200 çip satışı anlaşması Huang ve Başkan Donald Trump tarafından yapılmıştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "quote": "Nvidia’s deal to sell H200 chips in China was brokered by Huang and President Donald Trump."
+        }
+      ]
+    },
+    {
+      "claim": "Yatırım bankası Jefferies, yeni kuralların gelecek yıl Nvidia'nın veri merkezi gelirinden 44 milyar ile 62 milyar dolar arasında bir kesinti yapabileceğini öngördü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "quote": "Investment bank Jefferies forecast that those rules might trim between $44 billion and $62 billion from Nvidia’s data center revenue next year."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia'nın Singapur'daki bağlı ortaklığının yıllık geliri, Nvidia bu rakamları açıklamayı durdurmadan önce 2025 yılında 104 milyar dolara ulaştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "quote": "annual revenue at its Singapore subsidiary hit $104 billion in 2025 before Nvidia stopped disclosing those figures"
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/": 3191,
+    "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/": 12387,
+    "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/": 3669,
+    "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/": 6240
+  }
+}
