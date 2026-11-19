@@ -1,0 +1,44 @@
+{
+  "duration": 28.0,
+  "scenes": [
+    {
+      "label": "NE OLDU?",
+      "heading": "Google Genie 4 Geliştiricilere Açıldı",
+      "body": "Metin ve görsellerden 720p çözünürlükte, sesli dünyalar oluşturma dönemi başlıyor."
+    },
+    {
+      "label": "BİLMEN GEREKEN",
+      "heading": "Erişime Açıldı",
+      "body": "Genie 4, artık Gemini API ve Google AI Studio üzerinden geliştiricilerin kullanımına sunuldu."
+    },
+    {
+      "label": "DETAY",
+      "heading": "Gerçek Zamanlı Kontrol",
+      "body": "Klavye kontrolleri ve canlı metin komutlarıyla ortamdaki hava durumunu, ışığı veya nesneleri anlık değiştirebilirsiniz."
+    },
+    {
+      "label": "NEDEN ÖNEMLİ?",
+      "heading": "Geliştirici Deneyimi",
+      "body": "Etkileşimli dünyalar oluşturmak isteyen geliştiriciler, artık karmaşık kodlar yerine doğal dil komutlarını kullanabiliyor."
+    }
+  ],
+  "bounds": [
+    0.0,
+    7.193,
+    13.431,
+    20.968,
+    28.0
+  ],
+  "probe": {
+    "duration": 28.0,
+    "width": 1080,
+    "height": 1920,
+    "has_audio": true,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "fps": 30.0,
+    "bit_rate": 14042782
+  },
+  "voiceover": true,
+  "music": true
+}

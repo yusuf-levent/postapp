@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA",
+    "title": "Google Genie 4 Geliştiricilere Açıldı",
+    "highlight_words": [
+      "Genie 4",
+      "Geliştiricilere"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Metin ve görsellerden 720p çözünürlükte, sesli dünyalar oluşturma dönemi başlıyor.",
+    "source_tags": [
+      "GOOGLE BLOG"
+    ]
+  },
+  "context": {
+    "heading": "Genie 4 Nedir?",
+    "cards": [
+      {
+        "card_title": "Erişime Açıldı",
+        "card_body": "Genie 4, artık Gemini API ve Google AI Studio üzerinden geliştiricilerin kullanımına sunuldu."
+      },
+      {
+        "card_title": "Çok Yönlü Girdi",
+        "card_body": "Sistem, sadece metin komutlarıyla değil, referans görsellerle veya her ikisinin kombinasyonuyla çalışabiliyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "24 FPS",
+    "stat_caption": "Oluşturulan dünyaların akıcılık hızı",
+    "stat_quote": "Geliştiriciler, 720p çözünürlükte ve senkronize sesli dünyaları 24fps hızında üretebiliyor."
+  },
+  "details": {
+    "heading": "Teknik Yetenekler",
+    "cards": [
+      {
+        "card_title": "Gerçek Zamanlı Kontrol",
+        "card_body": "Klavye kontrolleri ve canlı metin komutlarıyla ortamdaki hava durumunu, ışığı veya nesneleri anlık değiştirebilirsiniz."
+      },
+      {
+        "card_title": "Tutarlı Dünya Modeli",
+        "card_body": "Gemini'nin akıl yürütme yeteneği, oluşturulan dünyanın durumunu başından sonuna kadar tutarlı ve uyumlu tutuyor."
+      },
+      {
+        "card_title": "Güvenlik ve İşaretleme",
+        "card_body": "Oluşturulan her çıktı, SynthID teknolojisi ile gözle görülmeyen bir şekilde filigranlanıyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanım Alanları",
+    "cards": [
+      {
+        "card_title": "Geliştirici Deneyimi",
+        "card_body": "Etkileşimli dünyalar oluşturmak isteyen geliştiriciler, artık karmaşık kodlar yerine doğal dil komutlarını kullanabiliyor."
+      },
+      {
+        "card_title": "Dinamik Ortamlar",
+        "card_body": "Kullanıcılar, oluşturulan dünyalarda klavye ile gezinebilir ve ortamı anlık olarak manipüle edebilir."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce yapay zeka tarafından oluşturulan bu dünyalar, oyun geliştirme süreçlerini nasıl değiştirecek?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri kaçırmamak için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": "<svg role=\"img\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"#FFFFFF\"><title>Google</title><path d=\"M12.48 10.92v3.28h7.84c-.24 1.84-.853 3.187-1.787 4.133-1.147 1.147-2.933 2.4-6.053 2.4-4.827 0-8.6-3.893-8.6-8.72s3.773-8.72 8.6-8.72c2.6 0 4.507 1.027 5.907 2.347l2.307-2.307C18.747 1.44 16.133 0 12.48 0 5.867 0 .307 5.387.307 12s5.56 12 12.173 12c3.573 0 6.267-1.173 8.373-3.36 2.16-2.16 2.84-5.213 2.84-7.667 0-.76-.053-1.467-.173-2.053H12.48z\"/></svg>"
+}

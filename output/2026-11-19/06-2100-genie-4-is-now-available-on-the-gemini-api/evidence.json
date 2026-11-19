@@ -1,0 +1,169 @@
+{
+  "title": "Genie 4 is now available on the Gemini API.",
+  "canonical_url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+  "source_names": [
+    "Google Blog"
+  ],
+  "checked_at": "2026-11-19T21:09:37+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Genie 4 is now available for developers through the Gemini API and Google AI Studio.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+          "quote": "Genie 4 is now available for developers through the Gemini API (via the Interactions API) and Google AI Studio."
+        }
+      ]
+    },
+    {
+      "claim": "Developers can generate continuous 720p worlds at 24fps with synchronized native audio starting from a text prompt, a reference image, or both.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+          "quote": "Starting from a text prompt, a reference image, or both, developers can experiment with generating continuous 720p worlds at 24fps with synchronized native audio"
+        }
+      ]
+    },
+    {
+      "claim": "Users can use real-time keyboard controls alongside live text prompts to navigate environments and change weather, lighting, objects, or events on the fly.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+          "quote": "Using real-time keyboard controls alongside live text prompts, you can navigate environments and change weather, lighting, objects, or events on the fly."
+        }
+      ]
+    },
+    {
+      "claim": "Gemini reasoning keeps the world state consistent and coherent throughout.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+          "quote": "Gemini reasoning keeps the world state consistent and coherent throughout."
+        }
+      ]
+    },
+    {
+      "claim": "Every output includes imperceptible SynthID watermarking.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+          "quote": "As a reminder every output includes imperceptible SynthID watermarking."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Genie 4 is now available for developers through the Gemini API and Google AI Studio.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+          "quote": "Genie 4 is now available for developers through the Gemini API (via the Interactions API) and Google AI Studio."
+        }
+      ]
+    },
+    {
+      "claim": "Developers can generate continuous 720p worlds at 24fps with synchronized native audio starting from a text prompt, a reference image, or both.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+          "quote": "Starting from a text prompt, a reference image, or both, developers can experiment with generating continuous 720p worlds at 24fps with synchronized native audio"
+        }
+      ]
+    },
+    {
+      "claim": "Users can use real-time keyboard controls alongside live text prompts to navigate environments and change weather, lighting, objects, or events on the fly.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+          "quote": "Using real-time keyboard controls alongside live text prompts, you can navigate environments and change weather, lighting, objects, or events on the fly."
+        }
+      ]
+    },
+    {
+      "claim": "Gemini reasoning keeps the world state consistent and coherent throughout.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+          "quote": "Gemini reasoning keeps the world state consistent and coherent throughout."
+        }
+      ]
+    },
+    {
+      "claim": "Every output includes imperceptible SynthID watermarking.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+          "quote": "As a reminder every output includes imperceptible SynthID watermarking."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Genie 4 is now available for developers through the Gemini API and Google AI Studio.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+          "quote": "Genie 4 is now available for developers through the Gemini API (via the Interactions API) and Google AI Studio."
+        }
+      ]
+    },
+    {
+      "claim": "Developers can generate continuous 720p worlds at 24fps with synchronized native audio starting from a text prompt, a reference image, or both.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+          "quote": "Starting from a text prompt, a reference image, or both, developers can experiment with generating continuous 720p worlds at 24fps with synchronized native audio"
+        }
+      ]
+    },
+    {
+      "claim": "Users can use real-time keyboard controls alongside live text prompts to navigate environments and change weather, lighting, objects, or events on the fly.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+          "quote": "Using real-time keyboard controls alongside live text prompts, you can navigate environments and change weather, lighting, objects, or events on the fly."
+        }
+      ]
+    },
+    {
+      "claim": "Gemini reasoning keeps the world state consistent and coherent throughout.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+          "quote": "Gemini reasoning keeps the world state consistent and coherent throughout."
+        }
+      ]
+    },
+    {
+      "claim": "Every output includes imperceptible SynthID watermarking.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+          "quote": "As a reminder every output includes imperceptible SynthID watermarking."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/": 1086
+  }
+}
