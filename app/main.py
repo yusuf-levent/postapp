@@ -352,21 +352,26 @@ def run(
             except Exception:
                 pass
             src_probe = probe_video(source_video)
-            keep_orig_audio = bool(src_probe.get("has_audio")) and not bool(deck.get("video_illustrative"))
-            if not keep_orig_audio:
-                from app.media.music import find_music as _find_music
-                from app.media.voiceover import synthesize_storyboard_voiceover
-                from app.render.video_renderer import build_storyboard
+            has_orig_audio = bool(src_probe.get("has_audio")) and not bool(deck.get("video_illustrative"))
+            from app.media.voiceover import synthesize_storyboard_voiceover
+            from app.render.video_renderer import build_storyboard
 
-                voiceover_info = synthesize_storyboard_voiceover(
-                    build_storyboard(deck), post_dir / "video",
-                )
+            voiceover_info = synthesize_storyboard_voiceover(
+                build_storyboard(deck),
+                post_dir / "video",
+                llm=llm,
+                verified_claims=reference_claims,
+            )
+            # Archive.org fon müziği yalnızca hem orijinal ses hem seslendirme yoksa son çare olarak kullanılır
+            if not has_orig_audio and voiceover_info is None:
+                from app.media.music import find_music as _find_music
+
                 dest_music = post_dir / "video" / "music.mp3"
                 music_info = _find_music(
                     llm,
                     selected.title if selected else "",
                     entities,
-                    duration=(voiceover_info or {}).get("duration", 15.0),
+                    duration=15.0,
                     dest=dest_music,
                 )
                 if music_info:

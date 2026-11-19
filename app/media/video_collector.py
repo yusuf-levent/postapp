@@ -42,7 +42,7 @@ MIN_VIDEO_FPS = 23.0                # Akıcı kare hızı eşiği
 MIN_VIDEO_DURATION = 7.5            # Saniye
 MAX_DOWNLOAD_ATTEMPTS = 6           # Toplam indirme bütçesi
 
-# Alakasız / yanlış anlamaya yol açan kelimeler
+# Alakasız / yanlış anlamaya yol açan veya soyut klişe stok kelimeleri
 BANNED_SLUG_WORDS = {
     "rainforest", "forest", "jungle", "tree", "trees", "nature", "river", "waterfall",
     "animal", "bird", "monkey", "dog", "cat", "horse", "farm", "fruit", "orchard",
@@ -51,7 +51,19 @@ BANNED_SLUG_WORDS = {
     "beach", "ocean", "mountain", "sunset", "flower", "garden", "wedding", "dance",
     "party", "fashion", "fitness", "yoga", "couple", "family", "baby", "child",
     "handshake", "meeting", "smiling", "interview", "cartoon", "gaming",
+    # Soyut / klişe CGI / neon animasyon yasağı
+    "abstract", "visualization", "particles", "particle", "neon", "motion",
+    "animation", "animated", "plexus", "matrix", "binary", "background",
+    "wallpaper", "futuristic", "cyber", "cyberpunk", "glow", "glowing",
+    "lines", "waves", "loop", "hologram", "fractal", "geometric", "tunnel",
+    "vortex", "sphere", "grid", "hud", "graphic", "graphics", "illustration",
+    "render", "cgi", "sci", "scifi", "spacecraft-cgi", "pattern", "texture",
 }
+
+BANNED_ARTICLE_VIDEO_PATTERNS = (
+    "doubleclick", "googlesyndication", "adservice", "analytics", "tracker",
+    "pixel", "sponsor", "promo-ad", "/ads/", "avatar", "favicon", "emoji",
+)
 
 SPACE_KEYWORDS = (
     "nasa", "space", "rocket", "satellite", "orbit", "lunar", "moon", "mars",
@@ -117,12 +129,14 @@ def collect_video(
         log.info("Video onaylandı (%s/%s): %s", source, mode, url[:90])
         return True
 
-    # 1) Makale ve çapraz doğrulama kaynaklarındaki gömülü gerçek videolar
+    # 1) Makale ve çapraz doğrulama kaynaklarındaki gömülü gerçek videolar (tüm MP4/WebM adayları)
     article_urls = list(dict.fromkeys(u for u in [candidate.url, *(extra_urls or [])] if u))
     for page_url in article_urls[:3]:
-        article_video = _find_article_video(page_url)
-        if article_video and accept({"video_url": article_video, "slug": candidate.title}, "article", mode="strict"):
-            return dest
+        for article_video in _find_article_videos(page_url)[:3]:
+            if accept({"video_url": article_video, "slug": candidate.title}, "article", mode="strict"):
+                return dest
+            if len(attempted_downloads) >= MAX_DOWNLOAD_ATTEMPTS:
+                return None
 
     # 2) Aşama 1: Spesifik ürün / araştırma araması (HD kaynaklar önce, Wikimedia en sonda)
     strict_queries = _strict_video_queries(llm, candidate, all_entities)
@@ -289,28 +303,48 @@ def _search_wikimedia_video_candidates(query: str, *, limit: int = 4) -> list[di
     return out
 
 
-def _find_article_video(article_url: str) -> str | None:
-    """Haber sayfasındaki og:video, <video>/<source> veya JSON-LD VideoObject bağlantısını bulur."""
+def _find_article_videos(article_url: str) -> list[str]:
+    """Haber sayfasındaki gömülü gerçek .mp4/.webm videolarını bulur.
+
+    og:video, <video>/<source>, JSON-LD VideoObject, custom HTML öznitelikleri
+    (ör. or-mp4-video-url, data-video-url) ve gömülü JSON içindeki doğrudan
+    video bağlantılarını öncelik sırasıyla döndürür.
+    """
     resp = http_get(article_url, retries=1, timeout=15)
     if resp is None or resp.status_code != 200:
-        return None
-    html = resp.text[:400_000]
+        return []
+    html = resp.text[:600_000]
 
-    meta_patterns = [
+    priority_patterns = [
         r'<meta[^>]+property=["\'](?:og:video|og:video:secure_url|og:video:url)["\'][^>]+content=["\']([^"\']+\.(?:mp4|webm)[^"\']*)["\']',
         r'<meta[^>]+content=["\']([^"\']+\.(?:mp4|webm)[^"\']*)["\'][^>]+property=["\'](?:og:video|og:video:secure_url|og:video:url)["\']',
+        r'(?:or-mp4-video-url|data-video-url|data-mp4-url|data-video-src|data-src)\s*=\s*["\']([^"\']+\.(?:mp4|webm)[^"\']*)["\']',
         r'<source[^>]+src=["\']([^"\']+\.(?:mp4|webm)[^"\']*)["\']',
         r'<video[^>]+src=["\']([^"\']+\.(?:mp4|webm)[^"\']*)["\']',
-        r'"contentUrl"\s*:\s*"(https?:\\/\\/[^"]+\.(?:mp4|webm)[^"]*|https?://[^"]+\.(?:mp4|webm)[^"]*)"',
+        r'"(?:contentUrl|videoUrl|mp4Url|src)"\s*:\s*"(https?:\\/\\/[^"]+\.(?:mp4|webm)[^"]*|https?://[^"]+\.(?:mp4|webm)[^"]*)"',
+        r'(https?://[^\s"\'<>\\]+\.(?:mp4|webm)(?:\?[^\s"\'<>\\]*)?)',
     ]
-    for pat in meta_patterns:
-        m = re.search(pat, html, flags=re.IGNORECASE)
-        if m:
+
+    found: list[str] = []
+    seen: set[str] = set()
+    for pat in priority_patterns:
+        for m in re.finditer(pat, html, flags=re.IGNORECASE):
             raw_url = m.group(1).strip().replace("\\/", "/")
             if not raw_url.startswith("http"):
                 raw_url = urljoin(article_url, raw_url)
-            return raw_url
-    return None
+            low = raw_url.lower()
+            if any(bad in low for bad in BANNED_ARTICLE_VIDEO_PATTERNS):
+                continue
+            if raw_url not in seen:
+                seen.add(raw_url)
+                found.append(raw_url)
+    return found
+
+
+def _find_article_video(article_url: str) -> str | None:
+    """Geriye dönük uyumluluk: ilk makale videosunu döndürür."""
+    videos = _find_article_videos(article_url)
+    return videos[0] if videos else None
 
 
 def _search_pexels_candidates(query: str, *, per_page: int = 8) -> list[dict[str, str]]:
@@ -541,15 +575,17 @@ def _verify_downloaded_video(
             prompt = (
                 f"Headline: {headline}\nEntities: {', '.join(entities)}\n"
                 "These are three frames from ONE candidate illustrative B-roll video for a Turkish tech news Reel. "
-                "Inspect ALL three frames carefully.\n"
-                "APPROVE (YES) ONLY IF all three frames are sharp, high-quality, cinematic technology/science/hardware/"
-                "software/space/industrial footage that DIRECTLY matches the core technological theme of the headline "
-                "(for example: semiconductor wafers/chips for chip news, server racks/data center for AI/cloud news, "
-                "scientific sensor/lab equipment for biotech/AI sensor news, rocket/satellite for space news, "
-                "code/security terminal for software/security news).\n"
-                "REJECT (NO) IF ANY frame shows: unrelated nature/scenery/animals/food, generic smiling people or office "
-                "meetings, random handshakes, video games/cartoons, wrong brand logo or wrong product, intrusive text or "
-                "watermarks, blurry/dark/low-quality visuals, or anything unrelated to the headline's topic.\n"
+                "Inspect ALL three frames strictly.\n"
+                "APPROVE (YES) ONLY IF all three frames are REAL-WORLD CAMERA FOOTAGE (physically filmed, NOT CGI) "
+                "of sharp, clear physical technology/science/hardware/space environments that DIRECTLY match the "
+                "concrete subject of the headline (e.g. real semiconductor chip/wafer for chip news, real server room "
+                "hardware for data center/cloud news, real robotic arm or lab equipment for robotics/biotech news, "
+                "real rocket/satellite for space news).\n"
+                "STRICT REJECT (NO) IF ANY frame shows:\n"
+                "- Abstract animations, glowing dots/lines/particles, data visualizations, 3D CGI/neon graphics, "
+                "matrix/binary/cyberpunk/hologram loops, futuristic HUD overlays\n"
+                "- Unrelated nature/scenery/animals/food, generic smiling people, office meetings, handshakes\n"
+                "- Video games/cartoons, wrong brand logo or wrong product, text/watermarks, blurry/dark footage.\n"
                 "Respond with ONE word only: YES or NO."
             )
         else:
@@ -593,23 +629,24 @@ def _strict_video_queries(llm: GeminiClient, candidate: Candidate, entities: lis
 
 
 def _broll_video_queries(llm: GeminiClient, candidate: Candidate, entities: list[str]) -> list[str]:
-    """Konuya doğrudan uyan temsili teknoloji B-roll sorguları üretir (soyut haberlerde boş)."""
+    """Yalnızca gerçek dünyada filme alınabilecek fiziksel B-roll sorguları üretir (soyut haberlerde boş)."""
     prompt = (
         f"News headline: {candidate.title}\n"
         f"Summary: {(candidate.summary or '')[:400]}\n"
         f"Entities: {', '.join(entities or candidate.entities or [])}\n\n"
-        "Task: Produce at most 2 concrete, visual English stock B-roll search queries (2-4 words each) for Pexels/Pixabay "
-        "that DIRECTLY represent the core technological subject of this news.\n"
+        "Task: Produce at most 2 concrete, PHYSICAL real-world camera footage search queries (2-4 words each) "
+        "for Pexels/Pixabay ONLY IF this story has a clear real-world physical hardware, lab, or industrial scene.\n"
         "Good examples:\n"
-        "- AI chips / GPU export -> 'microchip processor macro', 'silicon wafer semiconductor'\n"
-        "- AI model / cloud / data center -> 'data center server room', 'supercomputer server lights'\n"
-        "- Robotics / autonomous vehicle -> 'robotic arm laboratory', 'autonomous car sensor'\n"
-        "- Space / rocket / satellite -> 'rocket launch night', 'earth orbit satellite'\n"
-        "- Biotech / AI sensor / science -> 'science laboratory microscope', 'electronic sensor circuit'\n"
-        "- Cybersecurity / coding / developer tools -> 'computer code screen dark', 'cybersecurity terminal'\n"
-        "STRICT REJECT: If the story is purely about lawsuits, politics, IPO stock prices, executive gossip, "
-        "or corporate finance with NO concrete visual technology scene, return an EMPTY list {queries: []}.\n"
-        "NEVER include brand names (no Apple, Amazon, Google, Nvidia, OpenAI, Meta, etc.) and NEVER output generic 'office' or 'people'."
+        "- Chips / GPU manufacturing / export -> 'microchip processor close up', 'silicon wafer cleanroom'\n"
+        "- Data center / cloud infrastructure -> 'data center server rack'\n"
+        "- Robotics / autonomous car -> 'robotic arm laboratory', 'self driving car lidar'\n"
+        "- Space / rocket / satellite -> 'rocket launch pad', 'satellite earth orbit'\n"
+        "- Biotech / medical / physical sensor -> 'chemistry laboratory equipment', 'microscope lab scientist'\n"
+        "STRICT REJECT — return EMPTY list {queries: []} IF:\n"
+        "- The news is about a software/API/AI model launch with no specific physical hardware (do NOT use cliché stock!),\n"
+        "- The news is about lawsuits, politics, IPO stock prices, executive drama, or corporate finance.\n"
+        "NEVER use brand names and NEVER output words like 'abstract', 'visualization', 'futuristic', 'neon', "
+        "'digital', 'network', 'animation', 'cyber', 'office', or 'people'."
     )
     try:
         from app.models import SearchQueries
@@ -617,7 +654,12 @@ def _broll_video_queries(llm: GeminiClient, candidate: Candidate, entities: list
             prompt + "\nReturn {queries: [...]}.",
             SearchQueries, label="video-broll-query",
         )
-        return [q.strip() for q in result.queries if 3 < len(q.strip()) < 45 and q.upper() != "NONE"][:2]
+        cleaned = []
+        for q in result.queries:
+            qs = q.strip()
+            if 3 < len(qs) < 45 and qs.upper() != "NONE" and not _slug_is_banned(qs):
+                cleaned.append(qs)
+        return cleaned[:2]
     except Exception:
         return []
 
@@ -653,10 +695,11 @@ def _verify_video_relevance(
             f"News headline: {headline}\n"
             f"Entities: {', '.join(entities)}\n"
             f"Video metadata: {slug}\n\n"
-            "TASK: Look at this video thumbnail. Is it a sharp, high-quality technology/science/hardware/space B-roll "
-            "scene that DIRECTLY matches the technical topic of the headline above?\n"
-            "Answer NO if it shows: nature/forest/animals/food/beach, smiling people/office meetings/handshakes, "
-            "cartoons/games, watermarks, blurry footage, wrong brand logos, or anything off-topic.\n"
+            "TASK: Look at this video thumbnail. Is it REAL-WORLD CAMERA FOOTAGE (NOT CGI, NOT abstract animation) "
+            "of physical technology/hardware/science/space equipment that DIRECTLY matches the headline above?\n"
+            "Answer NO if it shows: abstract glowing lines/dots/particles/data visualizations/neon CGI/matrix graphics, "
+            "nature/forest/animals/food/beach, smiling people/office meetings/handshakes, cartoons/games, watermarks, "
+            "blurry footage, wrong brand logos, or anything off-topic.\n"
             "Answer ONE word ONLY: YES or NO."
         )
     else:

@@ -151,17 +151,54 @@ def test_find_article_video_supports_jsonld_and_webm(monkeypatch):
     assert video_collector._find_article_video("https://example.com/post") == "https://cdn.example.com/demo.webm"
 
 
-def test_voiceover_script_cleans_urls_hashtags_and_emojis():
-    from app.media.voiceover import clean_speech_text, scene_script
+def test_find_article_videos_captures_custom_attr_and_filters_ads(monkeypatch):
+    from unittest.mock import Mock
+    from app.media import video_collector
+
+    html = (
+        '<div or-mp4-video-url="https://storage.googleapis.com/blog/genie-4-demo.mp4"></div>'
+        '<a href="https://doubleclick.net/pixel.mp4"></a>'
+    )
+    monkeypatch.setattr(video_collector, "http_get", lambda *a, **kw: Mock(status_code=200, text=html))
+    urls = video_collector._find_article_videos("https://blog.google/genie-4/")
+    assert urls == ["https://storage.googleapis.com/blog/genie-4-demo.mp4"]
+
+
+def test_voiceover_script_skips_card_headings_on_middle_scenes_and_guards_numbers():
+    from unittest.mock import Mock
+    from app.media.voiceover import ReelNarration, build_narration_lines, clean_speech_text, scene_script
 
     assert clean_speech_text("Yeni çip 🚀 %40 hızlı https://ex.com #AI") == "Yeni çip %40 hızlı"
-    script = scene_script(ReelScene("NE OLDU?", "Nvidia H200 kararı", "Satışlar durduruldu"), index=0)
-    assert script == "Nvidia H200 kararı. Satışlar durduruldu."
+    assert scene_script(ReelScene("NE OLDU?", "Nvidia H200 kararı", "Satışlar durduruldu"), index=0) == "Nvidia H200 kararı. Satışlar durduruldu."
+    # 2. sahnede "Erişime Açıldı." kart başlığını robot gibi okumamalı
+    assert scene_script(ReelScene("BİLMEN GEREKEN", "Erişime Açıldı", "Genie 4 artık API üzerinden açık"), index=1) == "Genie 4 artık API üzerinden açık."
+
+    scenes = [
+        ReelScene("NE OLDU?", "Google Genie 4 Açıldı", "720p etkileşimli dünyalar geliyor."),
+        ReelScene("BİLMEN GEREKEN", "Erişime Açıldı", "Gemini API üzerinden kullanılabiliyor."),
+    ]
+    llm = Mock()
+    llm.generate_structured.return_value = ReelNarration(lines=[
+        "Google, Genie 4 ile 720p dünyaları geliştiricilere açtı.",
+        "Model şu an doğrudan Gemini API üzerinden denenebiliyor.",
+    ])
+    lines = build_narration_lines(scenes, llm=llm, verified_claims=["720p çözünürlük", "Gemini API"])
+    assert lines[0].startswith("Google, Genie 4")
+
+    # Uydurma sayı (999) eklerse reddedilip güvenli fallback'e düşmeli
+    llm.generate_structured.return_value = ReelNarration(lines=[
+        "Google, Genie 4 ile 999 kat hızlı dünyalar açtı.",
+        "Model şu an Gemini API üzerinden denenebiliyor.",
+    ])
+    safe_lines = build_narration_lines(scenes, llm=llm, verified_claims=["720p çözünürlük", "Gemini API"])
+    assert "999" not in " ".join(safe_lines)
+    assert safe_lines[1] == "Gemini API üzerinden kullanılabiliyor."
 
 
-def test_banned_slug_words_block_irrelevant_stock():
+def test_banned_slug_words_block_irrelevant_and_abstract_stock():
     from app.media.video_collector import _slug_is_banned
 
     assert _slug_is_banned("https://pexels.com/video/business-meeting-handshake-123")
     assert _slug_is_banned("https://pexels.com/video/amazon-rainforest-river-456")
+    assert _slug_is_banned("https://www.pexels.com/video/abstract-data-visualization-in-motion-36252897/")
     assert not _slug_is_banned("https://pexels.com/video/microchip-silicon-wafer-789")

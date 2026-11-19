@@ -1,9 +1,14 @@
-"""Doğrulanmış video sahneleri için Türkçe Neural seslendirme (edge-tts).
+"""Doğrulanmış haber içeriği için doğal Türkçe Reels/TikTok seslendirmesi (edge-tts).
 
 Kurallar:
-- Yalnızca doğrulanmış ve QA'dan geçmiş storyboard metinlerini okur; yeni metin uydurmaz.
-- Her sahne için ayrı klip üretir, sürelerini ölçer ve tam senkron sahne sınırları döndürür.
-- Ağ/servis hatasında None döner; video üretimi müzikli veya sessiz devam eder.
+- Slayt kart başlıklarını ("Erişime Açıldı.", "Gerçek Zamanlı Kontrol." vb.) mekanik
+  şekilde okumaz; doğrulanmış iddialardan kulakla dinlenmeye uygun akıcı, kısa (18-26s)
+  bir Türkçe haber spikeri senaryosu üretir.
+- Üretilen senaryodaki tüm sayısal değerlerin doğrulanmış metinde geçtiği kodla kontrol
+  edilir (halüsinasyon engeli).
+- Her sahne ayrı klip olarak sentezlenir ve sahne geçiş sınırları konuşmaya birebir
+  senkronize edilir.
+- Ağ/servis hatasında None döner; pipeline'ı asla çökertmez.
 """
 from __future__ import annotations
 
@@ -15,36 +20,112 @@ import subprocess
 from pathlib import Path
 from typing import Any
 
+from pydantic import BaseModel, Field
+
 from app.media.video_probe import probe_video
 
 log = logging.getLogger("tekno-pusula.voiceover")
 
 DEFAULT_VOICE = "tr-TR-AhmetNeural"
-DEFAULT_RATE = "+10%"
-SCENE_PAUSE_SECONDS = 0.25
-MAX_VOICEOVER_DURATION = 42.0
+DEFAULT_RATE = "+6%"
+SCENE_PAUSE_SECONDS = 0.14
+MAX_VOICEOVER_DURATION = 38.0
+
+
+class ReelNarration(BaseModel):
+    lines: list[str] = Field(default_factory=list)
 
 
 def clean_speech_text(text: str) -> str:
-    """Ekrandaki doğrulanmış metni doğal Türkçe okuma için temizler."""
+    """Metni doğal Türkçe seslendirme için temizler (URL, hashtag, emoji ayıklanır)."""
     text = re.sub(r"https?://\S+", "", text or "")
     text = re.sub(r"#\w+", "", text)
-    # Emoji ve özel sembolleri temizle, Türkçe harf/rakam/noktalamayı koru
     text = re.sub(r"[^\w\s.,!?;:%'\"’\-–—/()+çÇğĞıİöÖşŞüÜ]", " ", text)
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
 
 def scene_script(scene: Any, *, index: int) -> str:
-    """Bir ReelScene için okunacak kısa, doğal cümleyi oluşturur."""
+    """Fallback konuşma metni: 2-4. sahnelerde kart başlığını atlayıp yalnızca gövdeyi okur."""
     heading = clean_speech_text(getattr(scene, "heading", "") or "")
     body = clean_speech_text(getattr(scene, "body", "") or "")
-    parts = []
-    if heading:
-        parts.append(heading if heading.endswith((".", "!", "?")) else f"{heading}.")
-    if body and body.casefold() != heading.casefold():
-        parts.append(body if body.endswith((".", "!", "?")) else f"{body}.")
-    return " ".join(parts).strip()
+    if index == 0:
+        # Açılışta başlık + kısa alt metin doğal akışta
+        if heading and body and body.casefold() != heading.casefold():
+            h = heading if heading.endswith((".", "!", "?")) else f"{heading}."
+            b = body if body.endswith((".", "!", "?")) else f"{body}."
+            return f"{h} {b}".strip()
+        return heading or body
+    # 2, 3, 4. sahnelerde "Erişime Açıldı." gibi slayt kart başlıklarını okuma!
+    chosen = body or heading
+    if chosen and not chosen.endswith((".", "!", "?")):
+        chosen += "."
+    return chosen
+
+
+def _numbers_grounded(lines: list[str], allowed_corpus: str) -> bool:
+    """Konuşma metnindeki her sayının doğrulanmış kaynaklarda geçmesini zorunlu kılar."""
+    corpus_low = allowed_corpus.lower()
+    corpus_tokens = set(re.findall(r"%?\d[\d.,]*", corpus_low))
+    for line in lines:
+        for num in re.findall(r"%?\d[\d.,]*", line.lower()):
+            tok = num.rstrip(".,")
+            if tok and tok not in corpus_tokens and tok not in corpus_low:
+                log.warning("Seslendirme senaryosunda doğrulanmamış sayı tespit edildi: %r", num)
+                return False
+    return True
+
+
+def build_narration_lines(
+    scenes: list[Any],
+    *,
+    llm: Any = None,
+    verified_claims: list[str] | None = None,
+) -> list[str]:
+    """4 sahnelik doğal Türkçe Reels/TikTok spiker metni üretir (halüsinasyon kontrollü)."""
+    fallback = [scene_script(s, index=i) for i, s in enumerate(scenes)]
+    if llm is None or not scenes:
+        return fallback
+
+    scenes_text = "\n".join(
+        f"Sahne {i + 1} ({getattr(s, 'label', '')}): Başlık='{getattr(s, 'heading', '')}' | İçerik='{getattr(s, 'body', '')}'"
+        for i, s in enumerate(scenes)
+    )
+    claims_block = "\n".join(verified_claims or [])[:4000]
+    prompt = (
+        f"Aşağıdaki doğrulanmış teknoloji haberi için {len(scenes)} sahnelik, kulakla dinlenmeye uygun "
+        "DOĞAL ve AKICI bir Türkçe Reels/TikTok spiker konuşma metni yaz.\n\n"
+        f"--- SAHNELER ---\n{scenes_text}\n\n"
+        + (f"--- DOĞRULANMIŞ KAYNAK İDDİALARI ---\n{claims_block}\n\n" if claims_block else "")
+        + "KESİN KURALLAR:\n"
+        f"- Tam olarak {len(scenes)} cümle üret (lines dizisinde {len(scenes)} eleman; her sahneye 1 kısa cümle).\n"
+        "- ASLA slayt kart başlığı okur gibi konuşma! ('Erişime Açıldı. Genie 4...', 'Gerçek Zamanlı Kontrol. Klavye...' KESİNLİKLE YASAK).\n"
+        "- Bir teknoloji içerik üreticisinin kameraya akıcı, samimi ve enerjik anlatımı gibi tek parça aksın.\n"
+        "- 1. cümle: Güçlü, merak uyandıran açılış (10-14 kelime).\n"
+        "- 2. ve 3. cümleler: Birbirine doğal bağlaçlarla bağlanan somut detaylar (her biri 10-15 kelime).\n"
+        "- Son cümle: Kısa etki + izleyiciye doğal bir soru (10-15 kelime).\n"
+        "- Toplamda 45-62 kelimeyi geçme (toplam süre 18-25 saniye olmalı).\n"
+        "- YALNIZCA yukarıdaki doğrulanmış bilgilerdeki rakam, isim ve olguları kullan; yeni hiçbir sayı veya bilgi EKLEME.\n"
+        "- Emoji, hashtag, URL veya madde işareti koyma."
+    )
+    try:
+        res = llm.generate_structured(
+            prompt,
+            ReelNarration,
+            system="Sen akıcı, abartısız ve güvenilir bir Türkçe teknoloji video spikerisin. Sadece verilen doğrulanmış olguları konuşma diline çevirirsin.",
+            label="reel-narration",
+        )
+        lines = [clean_speech_text(x) for x in (res.lines or []) if clean_speech_text(x)]
+        if len(lines) != len(scenes):
+            log.warning("Seslendirme satır sayısı uyuşmadı (%d != %d), yedek metin kullanılacak.", len(lines), len(scenes))
+            return fallback
+        corpus = scenes_text + "\n" + claims_block
+        if not _numbers_grounded(lines, corpus):
+            return fallback
+        return lines
+    except Exception as exc:
+        log.warning("Doğal seslendirme senaryosu üretilemedi, yedek metne geçiliyor: %s", exc)
+        return fallback
 
 
 async def _synthesize_clips(
@@ -68,7 +149,7 @@ async def _synthesize_clips(
 
 
 def _concat_clips_with_pause(clips: list[Path], dest: Path, *, pause: float = SCENE_PAUSE_SECONDS) -> bool:
-    """Sahne ses kliplerini aralarına kısa nefes boşluğu ekleyerek tek WAV/MP3'te birleştirir."""
+    """Sahne ses kliplerini kısa doğal nefes boşluğuyla tek MP3'te birleştirir."""
     if not clips or not shutil.which("ffmpeg"):
         return False
     cmd = ["ffmpeg", "-y", "-hide_banner", "-loglevel", "error"]
@@ -95,16 +176,18 @@ def synthesize_storyboard_voiceover(
     scenes: list[Any],
     video_dir: Path,
     *,
+    llm: Any = None,
+    verified_claims: list[str] | None = None,
     voice: str = DEFAULT_VOICE,
     rate: str = DEFAULT_RATE,
 ) -> dict[str, Any] | None:
-    """Storyboard sahneleri için senkron Türkçe seslendirme üretir.
+    """Storyboard sahneleri için doğal, senkron Türkçe seslendirme üretir.
 
-    Dönüş: {"path": Path, "duration": float, "bounds": list[float], "voice": str} veya None.
+    Dönüş: {"path": Path, "duration": float, "bounds": list[float], "voice": str, "lines": list[str]} veya None.
     """
     if not scenes or not shutil.which("ffmpeg"):
         return None
-    scripts = [scene_script(s, index=i) for i, s in enumerate(scenes)]
+    scripts = build_narration_lines(scenes, llm=llm, verified_claims=verified_claims)
     if any(not s for s in scripts):
         return None
 
@@ -120,11 +203,10 @@ def synthesize_storyboard_voiceover(
             durations.append(dur)
 
         total_est = sum(durations) + SCENE_PAUSE_SECONDS * max(0, len(durations) - 1)
-        # 28 saniyeyi çok aşıyorsa biraz daha seri okut
         if total_est > MAX_VOICEOVER_DURATION and rate == DEFAULT_RATE:
             for c in clips:
                 c.unlink(missing_ok=True)
-            clips = asyncio.run(_synthesize_clips(scripts, video_dir, voice=voice, rate="+20%"))
+            clips = asyncio.run(_synthesize_clips(scripts, video_dir, voice=voice, rate="+16%"))
             durations = [float(probe_video(c).get("duration") or 0.0) for c in clips]
             if any(d <= 0.3 for d in durations):
                 raise RuntimeError("Hızlı TTS klip süresi ölçülemedi")
@@ -151,9 +233,10 @@ def synthesize_storyboard_voiceover(
             "duration": bounds[-1],
             "bounds": bounds,
             "voice": voice,
+            "lines": scripts,
         }
     except Exception as exc:
-        log.warning("Türkçe seslendirme üretilemedi, sessiz/müzikli devam edilecek: %s", exc)
+        log.warning("Türkçe seslendirme üretilemedi, yedek sese geçilecek: %s", exc)
         return None
     finally:
         for clip in clips:

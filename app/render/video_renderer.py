@@ -137,9 +137,10 @@ def render_reel_video(
     has_orig_audio = bool(info.get("has_audio")) and not illustrative
 
     vo_path = Path(voiceover_info["path"]) if voiceover_info and voiceover_info.get("path") else None
-    use_voiceover = bool(vo_path and vo_path.exists() and not has_orig_audio)
+    use_voiceover = bool(vo_path and vo_path.exists())
     music = Path(music_info["path"]) if music_info and music_info.get("path") else None
-    if not (music and music.exists()) or has_orig_audio:
+    # Seslendirme veya orijinal ses varsa rastgele harici fon müziği ekleme
+    if not (music and music.exists()) or has_orig_audio or use_voiceover:
         music = None
 
     if use_voiceover and voiceover_info and len(voiceover_info.get("bounds") or []) == len(scenes) + 1:
@@ -204,20 +205,18 @@ def render_reel_video(
 
     fade_start = max(0.0, duration - 1.0)
     has_final_audio = False
-    if has_orig_audio:
-        filters.append(f"[0:a]loudnorm=I=-16:TP=-1.5:LRA=11,afade=t=out:st={fade_start:.2f}:d=1[aout]")
-        has_final_audio = True
-    elif vo_idx is not None and music_idx is not None:
-        # Türkçe Neural seslendirme önde + sessiz girişi kesilmiş çok kısık fon müziği arkada
+    if vo_idx is not None and has_orig_audio:
+        # Resmi videonun kendi sesini kısarak (ducking) üstüne net Türkçe anlatım koy
         filters.append(f"[{vo_idx}:a]loudnorm=I=-15:TP=-1.5:LRA=9[vo]")
-        filters.append(
-            f"[{music_idx}:a]silenceremove=start_periods=1:start_threshold=-40dB:start_silence=0.1,"
-            f"volume=0.12,afade=t=in:st=0:d=0.6,afade=t=out:st={fade_start:.2f}:d=1[bgm]"
-        )
-        filters.append("[vo][bgm]amix=inputs=2:duration=first:dropout_transition=1:normalize=0[aout]")
+        filters.append(f"[0:a]volume=0.14,afade=t=out:st={fade_start:.2f}:d=1[origbg]")
+        filters.append("[vo][origbg]amix=inputs=2:duration=first:dropout_transition=1:normalize=0[aout]")
         has_final_audio = True
     elif vo_idx is not None:
+        # Temiz, net Türkçe spiker seslendirmesi (1981 piyano yok)
         filters.append(f"[{vo_idx}:a]loudnorm=I=-15:TP=-1.5:LRA=9[aout]")
+        has_final_audio = True
+    elif has_orig_audio:
+        filters.append(f"[0:a]loudnorm=I=-16:TP=-1.5:LRA=11,afade=t=out:st={fade_start:.2f}:d=1[aout]")
         has_final_audio = True
     elif music_idx is not None:
         filters.append(
@@ -243,8 +242,10 @@ def render_reel_video(
         return None
     (video_dir / "storyboard.json").write_text(json.dumps({
         "duration": duration, "scenes": [asdict(s) for s in scenes],
+        "narration": (voiceover_info or {}).get("lines", []),
         "bounds": bounds, "probe": rendered,
         "voiceover": bool(vo_idx is not None), "music": bool(music_idx is not None),
+        "orig_audio": bool(has_orig_audio),
     }, ensure_ascii=False, indent=2), encoding="utf-8")
     source_video.unlink(missing_ok=True)
     if vo_path is not None:
