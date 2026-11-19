@@ -153,9 +153,11 @@ def run(
     source_names: list[str] = []
     cross_urls: list[str] = []
     tried = 0
+    max_candidates = sched.get("max_candidates_per_run", MAX_CANDIDATES)
+    single_source_pool: list[Candidate] = []
 
     for cand in scored:
-        if tried >= sched.get("max_candidates_per_run", MAX_CANDIDATES):
+        if tried >= max_candidates:
             break
         dup, reason = is_duplicate(cand, history, today_posts=today_posts)
         if dup:
@@ -178,15 +180,20 @@ def run(
             continue
 
         tried += 1
-        log.info("Aday deneniyor (%d/%d): %s", tried, MAX_CANDIDATES, cand.title[:70])
+        log.info("Aday deneniyor (%d/%d): %s", tried, max_candidates, cand.title[:70])
 
         try:
-            result = _verify_candidate(llm, enriched, all_candidates)
+            if ptype == "edu":
+                result = _verify_candidate(llm, enriched, all_candidates, allow_single_source=True)
+            else:
+                result = _verify_candidate(llm, enriched, all_candidates)
         except Exception as exc:
             log.warning("Doğrulama hatası, sonraki adaya geçiliyor: %s", exc)
             continue
 
         if result is None:
+            if ptype == "news" and len(enriched.raw.get("full_text", "")) >= 500:
+                single_source_pool.append(enriched)
             log.info("Aday doğrulanamadı, sıradaki adaya geçiliyor.")
             continue
 
@@ -202,6 +209,36 @@ def run(
         source_names = result["source_names"]
         cross_urls = result["cross_urls"]
         break
+
+    # 5b) İki bağımsız kaynaklı / resmi aday geçemediyse, tam metinli whitelist
+    #     adaylarda sıkı tek-kaynak (2 tur + birebir alıntı + ≥3 iddia) yedeğini dene.
+    if selected is None and ptype == "news" and single_source_pool:
+        log.info(
+            "2 kaynaklı aday bulunamadı; en yüksek puanlı %d tam metinli whitelist aday "
+            "sıkı 2-turlu alıntı doğrulamasıyla deneniyor.",
+            min(len(single_source_pool), 3),
+        )
+        for enriched in single_source_pool[:3]:
+            try:
+                result = _verify_candidate(
+                    llm, enriched, all_candidates, allow_single_source=True,
+                )
+            except Exception as exc:
+                log.warning("Tek kaynak doğrulama hatası: %s", exc)
+                continue
+            if result is None:
+                continue
+            dup, reason = is_duplicate(enriched, history, today_posts=today_posts)
+            if dup:
+                log.info("Doğrulama sonrası tekrar/çeşitlilik kontrolü: %s", reason)
+                continue
+            selected = enriched
+            verifications = result["verifications"]
+            verified_claims = result["usable"]
+            source_texts = result["source_texts"]
+            source_names = result["source_names"]
+            cross_urls = result["cross_urls"]
+            break
 
     # 6) Haber yoksa eğitim postuna düş
     if selected is None:
@@ -690,9 +727,30 @@ def _verify_candidate(
     llm: GeminiClient,
     candidate: Candidate,
     all_candidates: list[Candidate],
+    *,
+    allow_single_source: bool = False,
 ) -> dict | None:
-    """Aday için tüm doğrulama hattını çalıştırır. Geçemezse None."""
-    article_text = candidate.raw.get("full_text", "") or candidate.summary
+    """Aday için tüm doğrulama hattını çalıştırır. Geçemezse None.
+
+    Güvenlik ilkeleri:
+    - Kaynak yalnızca whitelist (güvenilir haber veya resmi şirket kaynağı) olabilir.
+    - Öncelik her zaman ≥2 bağımsız kaynakta doğrulanmış haberlerdedir.
+    - Resmi şirket duyurusu (official whitelist) tam metniyle kendi başına birincil kaynaktır.
+    - Tek haber kaynağı yedeği (allow_single_source) yalnızca tam metin (≥500 krk),
+      2 turlu mutabakat, kodla birebir alıntı doğrulaması ve ≥3 doğrulanmış iddia ile geçer.
+    """
+    from app.config import sources_config
+
+    cfg = sources_config()
+    if not cfg.is_allowed_url(candidate.url):
+        log.info("Whitelist dışı kaynak reddedildi: %s", candidate.url)
+        return None
+
+    full_text = candidate.raw.get("full_text", "")
+    article_text = full_text or candidate.summary
+    if len(article_text.strip()) < 200:
+        log.info("Makale metni doğrulama için çok kısa (%d karakter), reddedildi.", len(article_text.strip()))
+        return None
 
     # Aşama 1: çapraz kaynak araması (önce RSS eşleşmesi, yoksa grounding)
     info = crosscheck_query(llm, candidate)
@@ -708,7 +766,7 @@ def _verify_candidate(
 
     # Kaynak metinlerini topla (kendi makalesi + en fazla 3 çapraz kaynak)
     source_texts: dict[str, str] = {candidate.url: article_text}
-    source_names = [candidate.source_name]
+    url_to_name: dict[str, str] = {candidate.url: candidate.source_name}
     cross_urls = []
     for c in all_cross[:MAX_SOURCES_FOR_VERIFICATION]:
         from app.collect.article import extract_text
@@ -716,35 +774,28 @@ def _verify_candidate(
         text, _ = extract_text(c["url"])
         if text:
             source_texts[c["url"]] = text
-            source_names.append(c.get("source") or c.get("title", "")[:40])
+            url_to_name[c["url"]] = c.get("source") or c.get("title", "")[:40]
             cross_urls.append(c["url"])
 
-    # En az 2 bağımsız kaynak şartı
-    # (kaynaklardan biri resmi şirket kaynağı ise 1 haber kaynağı yeterlidir)
-    from app.config import sources_config
-
-    cfg = sources_config()
     official_domains = [s.domain for s in cfg.official]
-    has_official = any(
-        any(d in candidate.url.lower() for d in official_domains) for _ in [0]
-    ) or any(any(d in u.lower() for d in official_domains) for u in cross_urls)
+    is_official_primary = any(d in candidate.url.lower() for d in official_domains)
     independent_sources = len({source_identity(u) for u in source_texts})
 
-    if has_official:
-        if independent_sources < 2:
-            log.info("Resmi kaynak var ama 1 haber kaynağı yok, reddedildi.")
-            return None
-    else:
-        if independent_sources < 2:
+    if independent_sources < 2:
+        if is_official_primary and len(full_text) >= 300:
+            log.info("Resmi şirket kaynağı (birincil): %s — 2 turlu alıntı doğrulamasına geçiliyor.", candidate.source_name)
+        elif allow_single_source and len(full_text) >= 500:
+            log.info("Tek kaynaklı whitelist doğrulama yedeği: %s", candidate.source_name)
+        else:
             log.info("2 bağımsız kaynak yok (%d), reddedildi.", independent_sources)
             return None
 
-    # Aşama 2: iddia çıkarımı (yalnızca ≥2 kaynak şartını geçen aday için)
+    # Aşama 2: iddia çıkarımı
     claims = extract_claims(llm, article_text)
     if not claims:
         return None
 
-    # Aşama 3-4: iki tur doğrulama + alıntı kontrolü
+    # Aşama 3-4: iki tur doğrulama + kodla alıntı kontrolü
     round1 = verify_claims_round(llm, claims, source_texts, round_number=1)
     round2 = verify_claims_round(llm, claims, source_texts, round_number=2)
     final = validate_evidence(round1, round2, source_texts)
@@ -755,16 +806,36 @@ def _verify_candidate(
         return None
 
     main_domains = {source_identity(ev.url) for ev in final[0].evidence}
-    if len(main_domains) < sched_min_sources():
-        log.info("Ana iddia iki ayrı kaynakta kanıtlanamadı; aday reddedildi.")
-        return None
+    verified_domains = {source_identity(ev.url) for v in usable for ev in v.evidence}
+    required_sources = sched_min_sources()
+
+    if len(verified_domains) < required_sources:
+        if is_official_primary and len(full_text) >= 300 and len(usable) >= 2:
+            log.info("Resmi kaynak %d doğrulanmış iddia ile onaylandı.", len(usable))
+        elif allow_single_source and len(full_text) >= 500 and len(usable) >= 3:
+            log.info("Tek whitelist kaynak %d doğrulanmış iddia ile onaylandı.", len(usable))
+        else:
+            log.info(
+                "Ana iddia/olay iki ayrı kaynakta kanıtlanamadı (main=%d, total=%d); aday reddedildi.",
+                len(main_domains), len(verified_domains),
+            )
+            return None
+
+    # Yalnızca doğrulamaya gerçekten kanıt sağlayan kaynakların adlarını kullan
+    used_urls = {ev.url for v in usable for ev in v.evidence}
+    used_urls.add(candidate.url)
+    source_names = list(dict.fromkeys(
+        url_to_name[u] for u in source_texts if u in used_urls and url_to_name.get(u)
+    ))
+    verified_source_texts = {u: txt for u, txt in source_texts.items() if u in used_urls}
+    verified_cross_urls = [u for u in cross_urls if u in used_urls]
 
     return {
         "verifications": final,
         "usable": usable,
-        "source_texts": source_texts,
+        "source_texts": verified_source_texts,
         "source_names": source_names,
-        "cross_urls": cross_urls,
+        "cross_urls": verified_cross_urls,
     }
 
 

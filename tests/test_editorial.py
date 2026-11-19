@@ -82,3 +82,19 @@ def test_only_current_slot_is_due(hour, minute, expected):
 def test_completed_slot_is_not_reopened():
     assert due_slots({"slots": [{"time":"09:00"}]}, [{"date":"2026-11-15","slot":"09:00"}],
                      datetime(2026,11,15,9,5,tzinfo=timezone.utc)) == []
+
+
+def test_editor_fills_missing_event_key_and_other_topic_for_publishable_item():
+    llm = Mock()
+    llm.generate_structured.return_value = EditorialBatch(items=[
+        EditorialDecision(index=0, publishable=True, importance=8, topic="other", event_key="", reason="Somut bilimsel yenilik"),
+        EditorialDecision(index=1, publishable=False, importance=8, topic="ai", event_key="skip-me", reason="Dedikodu"),
+    ])
+    pool = [
+        Candidate(title="AI nose startup achieves human-level scent detection", url="https://a.com/1"),
+        Candidate(title="Internal rumor about executive", url="https://a.com/2"),
+    ]
+    selected = shortlist(llm, pool, [], mode="news")
+    assert len(selected) == 1
+    assert selected[0].event_key
+    assert selected[0].topic != "other"

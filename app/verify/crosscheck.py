@@ -2,9 +2,12 @@
 from __future__ import annotations
 
 import logging
+import re
+
+from rapidfuzz import fuzz
 
 from app.config import sources_config
-from app.common import source_identity
+from app.common import normalize_text, source_identity
 from app.llm import prompts
 from app.llm.gemini import GeminiClient
 from app.models import Candidate, Claim, ClaimList, CrosscheckInfo
@@ -12,6 +15,43 @@ from app.models import Candidate, Claim, ClaimList, CrosscheckInfo
 log = logging.getLogger("tekno-pusula.claims")
 
 MAX_CLAIMS = 8
+
+_STOPWORDS = {
+    "the", "and", "for", "that", "this", "with", "from", "into", "over",
+    "after", "before", "about", "more", "most", "just", "will", "would",
+    "could", "should", "have", "has", "had", "been", "being", "were", "was",
+    "are", "not", "but", "its", "their", "your", "our", "his", "her", "they",
+    "them", "who", "what", "when", "where", "why", "how", "now", "new", "all",
+    "any", "can", "may", "out", "off", "own", "says", "said", "gets", "get",
+    "make", "makes", "made", "available", "announces", "announced", "launches",
+    "launched", "releases", "released", "lets", "let", "here", "first",
+    "world", "year", "years", "best", "good", "next", "one", "two", "day",
+    "days", "tech", "technology", "company", "companies", "report", "reports",
+    "reported", "feature", "features", "update", "updates", "mode", "using",
+    "used", "use", "way", "ways", "still", "even", "than", "also", "back",
+    "into", "onto", "only", "much", "many", "very", "like", "time", "today",
+}
+
+_GENERIC_ENTITIES = {
+    "ai", "artificial intelligence", "tech", "technology", "app", "software",
+    "data", "cloud", "internet", "company", "companies", "startup", "users",
+    "model", "models", "system", "platform", "service",
+}
+
+
+def _meaningful_tokens(text: str) -> set[str]:
+    norm = normalize_text(text)
+    return {
+        tok for tok in norm.split()
+        if (len(tok) >= 3 or tok.isdigit()) and tok not in _STOPWORDS
+    }
+
+
+def _entity_in_text(entity: str, norm_text: str) -> bool:
+    norm_ent = normalize_text(entity)
+    if not norm_ent or norm_ent in _GENERIC_ENTITIES or len(norm_ent) < 3:
+        return False
+    return bool(re.search(r"\b" + re.escape(norm_ent) + r"\b", norm_text))
 
 
 def extract_claims(llm: GeminiClient, article_text: str) -> list[Claim]:
@@ -94,36 +134,73 @@ def corroborating_from_rss(
 ) -> list[dict[str, str]]:
     """Toplanmış RSS adayları içinden aynı olayı doğrulayan diğer kaynakları bulur.
 
-    Bağımsız kaynak sayımı için: biri diğerini kaynak gösterip aynen aktarmıyorsa
-    (farklı domain + benzer başlık veya ortak varlık) bağımsız sayılır.
+    Stopword'ler ayıklanarak yalnızca anlamlı başlık/varlık örtüşmesi olan
+    farklı domain adayları puanlanır ve en güçlü eşleşmeler önce döndürülür.
     """
-    from app.select.dedup import title_similarity
-
-    out: list[dict[str, str]] = []
-    seen_domains: set[str] = set()
     sel_domain = source_identity(selected.url)
-    if sel_domain:
-        seen_domains.add(sel_domain)
+    sel_tokens = _meaningful_tokens(selected.title)
+    sel_summary_tokens = _meaningful_tokens(f"{selected.title} {selected.summary[:400]}")
 
-    target_entities = [e.strip().lower() for e in info.entities if len(e.strip()) >= 3]
+    raw_entities = list(dict.fromkeys([*info.entities, *selected.entities]))
+    target_entities = [
+        e.strip() for e in raw_entities
+        if normalize_text(e) not in _GENERIC_ENTITIES and len(normalize_text(e)) >= 3
+    ]
+
+    scored_matches: list[tuple[float, str, dict[str, str]]] = []
 
     for cand in all_candidates:
         if cand.url == selected.url:
             continue
         domain = source_identity(cand.url)
+        if not domain or domain == sel_domain:
+            continue
+
+        cand_tokens = _meaningful_tokens(cand.title)
+        shared_title = sel_tokens & cand_tokens
+        clean_sim = (
+            fuzz.token_set_ratio(" ".join(sorted(sel_tokens)), " ".join(sorted(cand_tokens)))
+            if sel_tokens and cand_tokens
+            else 0.0
+        )
+
+        cand_title_norm = normalize_text(cand.title)
+        cand_haystack_norm = normalize_text(f"{cand.title} {cand.summary[:600]}")
+        ent_hits_title = sum(1 for ent in target_entities if _entity_in_text(ent, cand_title_norm))
+        ent_hits_all = sum(1 for ent in target_entities if _entity_in_text(ent, cand_haystack_norm))
+
+        cand_summary_tokens = _meaningful_tokens(f"{cand.title} {cand.summary[:400]}")
+        shared_summary = sel_summary_tokens & cand_summary_tokens
+
+        strong_title = len(shared_title) >= 2 and clean_sim >= 45
+        very_high_title = len(shared_title) >= 1 and clean_sim >= 65
+        strong_entity = ent_hits_all >= 2 and (
+            len(shared_title) >= 1 or ent_hits_title >= 1 or len(shared_summary) >= 4
+        )
+        if not (strong_title or very_high_title or strong_entity):
+            continue
+
+        match_score = (
+            len(shared_title) * 30.0
+            + clean_sim * 0.5
+            + ent_hits_title * 20.0
+            + ent_hits_all * 10.0
+            + min(len(shared_summary), 8) * 3.0
+        )
+        scored_matches.append((
+            match_score,
+            domain,
+            {"url": cand.url, "title": cand.title, "source": cand.source_name},
+        ))
+
+    scored_matches.sort(key=lambda item: item[0], reverse=True)
+    out: list[dict[str, str]] = []
+    seen_domains: set[str] = {sel_domain} if sel_domain else set()
+    for _, domain, item in scored_matches:
         if domain in seen_domains:
             continue
-        sim = title_similarity(cand.title, selected.title)
-        entity_hit = False
-        if target_entities:
-            haystack = f"{cand.title} {cand.summary}".lower()
-            hits = sum(1 for ent in target_entities if ent in haystack)
-            entity_hit = hits >= 2 and sim >= 35
-        if sim >= 50 or entity_hit:
-            seen_domains.add(domain)
-            out.append(
-                {"url": cand.url, "title": cand.title, "source": cand.source_name}
-            )
-            if len(out) >= max_sources:
-                break
+        seen_domains.add(domain)
+        out.append(item)
+        if len(out) >= max_sources:
+            break
     return out

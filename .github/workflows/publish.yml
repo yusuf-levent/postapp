@@ -38,6 +38,7 @@ jobs:
       - name: Depoyu indir
         uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 1
           token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
 

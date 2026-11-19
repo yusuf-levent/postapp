@@ -5,7 +5,7 @@ import json
 import logging
 import re
 
-from app.common import normalize_text
+from app.common import normalize_text, slugify
 from app.config import schedule_config
 from app.models import Candidate, EditorialBatch, HistoryEntry
 
@@ -38,6 +38,7 @@ TOPICS = (
     ("robotics", r"\b(robot|robots|robotic|humanoid|autonomous|otonom)\b"),
     ("chips", r"\b(chip|chips|gpu|cpu|semiconductor|çip|işlemci)\b"),
     ("space", r"\b(nasa|rocket|satellite|spacecraft|uzay|uydu)\b"),
+    ("science", r"\b(science|quantum|biotech|battery|energy|sensor|medical|research|bilim|kuantum|enerji)\b"),
     ("software", r"\b(software|developer|programming|github|linux|rust|yazılım|api)\b"),
     ("consumer", r"\b(camera|lens|phone|iphone|laptop|headphone|kamera|telefon)\b"),
 )
@@ -89,9 +90,12 @@ def shortlist(llm, candidates: list[Candidate], history: list[HistoryEntry], *, 
         "inceleme özeti, dedikodu, siyaset/magazin, kripto fiyatı ve genel piyasa haberlerini reddet. "
         "Yeni tüketici cihazını ancak belirgin bir teknoloji sıçraması varsa kabul et. "
         "Geçmişteki aynı olayı başka başlık veya kaynakla tekrar seçme. "
-        "importance 0-10: 7 ve üzeri, geniş kitle için somut ve önemli yenilik. "
+        "importance 0-10: 6 ve üzeri, teknoloji okuru için somut ve paylaşmaya değer yenilik "
+        "(8-10: büyük kırılma/lansman, 6-7: kayda değer teknik/ürün/sektör gelişmesi). "
         "education_value 0-10: uygulanabilir, kaynakla desteklenen bir kavramı öğretmeye uygunluk; "
         "satın alma/şirket haberini eğitim sayma. "
+        "topic alanını mutlaka uygun kategoriden seç (ai, software, security, chips, robotics, space, science, consumer; "
+        "yalnızca hiçbiri uymuyorsa other). "
         "primary_entity yalnızca haberin merkezindeki şirket; anılan tüm markalar değil. "
         "event_key aynı olayı farklı kaynaklarda da tanıyacak kısa, tutarlı İngilizce kimlik "
         "(şirket + ürün/olay + sürüm; haberin yayın tarihini ekleme). reason kısa Türkçe.\n"
@@ -100,6 +104,8 @@ def shortlist(llm, candidates: list[Candidate], history: list[HistoryEntry], *, 
                        "source": c.source_name} for i, c in enumerate(pool)], ensure_ascii=False)
     )
     batch = llm.generate_structured(prompt, EditorialBatch, label="editorial-shortlist")
+    min_importance = cfg.get("min_importance", 6)
+    min_edu_value = cfg.get("min_education_value", 6)
     accepted: list[tuple[int, Candidate]] = []
     seen: set[int] = set()
     for decision in batch.items:
@@ -108,15 +114,26 @@ def shortlist(llm, candidates: list[Candidate], history: list[HistoryEntry], *, 
             continue
         seen.add(i)
         c = pool[i]
-        if (not decision.publishable or decision.importance < cfg.get("min_importance", 7)
-                or not decision.event_key.strip()
-                or decision.topic == "other"
-                or (mode == "edu" and decision.education_value < 7)):
-            log.info("Editör eledi: %s — %s", c.title[:80], decision.reason)
+        event_key = decision.event_key.strip() or (
+            slugify(c.title, max_len=40) if decision.publishable and decision.importance >= min_importance else ""
+        )
+        topic = decision.topic
+        if topic == "other" and decision.publishable and decision.importance >= min_importance:
+            inferred_topic = annotate(Candidate(title=c.title, summary=c.summary, url=c.url)).topic
+            topic = inferred_topic if inferred_topic != "other" else "science"
+        if (not decision.publishable or decision.importance < min_importance
+                or not event_key
+                or topic == "other"
+                or (mode == "edu" and decision.education_value < min_edu_value)):
+            log.info(
+                "Editör eledi: %s [pub=%s imp=%d edu=%d topic=%s key=%r] — %s",
+                c.title[:80], decision.publishable, decision.importance,
+                decision.education_value, decision.topic, decision.event_key, decision.reason,
+            )
             continue
-        c.topic = decision.topic
+        c.topic = topic
         c.primary_entity = decision.primary_entity or c.primary_entity
-        c.event_key = decision.event_key.strip().casefold()
+        c.event_key = event_key.casefold()
         if c.primary_entity:
             c.entities = list(dict.fromkeys([c.primary_entity, *c.entities]))
         c.raw["editorial"] = decision.model_dump()

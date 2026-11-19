@@ -34,7 +34,7 @@ def parse_feed_date(entry: dict) -> datetime | None:
 
 def fetch_source(source: Source, *, max_items: int = 30) -> list[Candidate]:
     """Tek bir kaynaktan haber adaylarını toplar."""
-    resp = http_get(source.url)
+    resp = http_get(source.url, retries=1, timeout=12)
     if resp is None or resp.status_code != 200:
         log.warning("RSS alınamadı: %s (status=%s)", source.name,
                     resp.status_code if resp else "none")

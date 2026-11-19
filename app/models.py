@@ -47,7 +47,7 @@ class EditorialDecision(BaseModel):
     publishable: bool
     importance: int = Field(ge=0, le=10)
     education_value: int = Field(default=0, ge=0, le=10)
-    topic: Literal["ai", "software", "security", "chips", "robotics", "space", "consumer", "other"]
+    topic: Literal["ai", "software", "security", "chips", "robotics", "space", "science", "consumer", "other"]
     primary_entity: str = ""
     event_key: str = ""
     reason: str = ""

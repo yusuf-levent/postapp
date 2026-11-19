@@ -3,16 +3,20 @@ from __future__ import annotations
 
 import logging
 import random
+import re
 
 from rapidfuzz import fuzz
 
-from app.common import normalize_text
+from app.common import normalize_text, source_identity
 from app.config import schedule_config
 from app.llm import prompts
 from app.llm.gemini import GeminiClient
 from app.models import Claim, ClaimVerification, ClaimVerificationList, Evidence
+from app.select.dedup import normalize_url
 
 log = logging.getLogger("tekno-pusula.verifier")
+
+_INVALID_QUOTES = {"not_found", "not found", "none", "null", "n/a", "yok", ""}
 
 
 def verify_claims_round(
@@ -41,7 +45,20 @@ def verify_claims_round(
         )
 
     prompt = template.format(sources_block=sources_block, claims_block=claims_block)
-    prompt += "\nANA İDDİA için iki farklı kaynak alan adından doğrudan destekleyen ayrı alıntılar ver. İkinci destek yoksa not_found."
+    unique_domains = {source_identity(u) for u in source_texts if u}
+    if len(unique_domains) >= 2:
+        prompt += (
+            "\nBirden fazla kaynak verildi. Her iddia için destekleyen TÜM kaynaklardan "
+            "(özellikle [ANA İDDİA] için farklı kaynak alan adlarından) ayrı birebir alıntılar ekle. "
+            "Bir kaynakta destek yoksa o kaynak için kanıt ekleme; asla 'not_found' gibi sahte alıntı yazma. "
+            "claim alanına [ANA İDDİA] önekini koyma, yalnızca iddianın metnini yaz."
+        )
+    else:
+        prompt += (
+            "\nHer desteklenen iddia için kaynak metinden birebir alıntı ver; "
+            "destek yoksa verdict='not_found' ve evidence=[] döndür. "
+            "claim alanına [ANA İDDİA] önekini koyma, yalnızca iddianın metnini yaz."
+        )
     result = llm.generate_structured(
         prompt,
         ClaimVerificationList,
@@ -79,6 +96,17 @@ def quote_in_source(quote: str, source_texts: dict[str, str]) -> bool:
     return False
 
 
+def _resolve_source(ev_url: str, source_texts: dict[str, str], norm_map: dict[str, tuple[str, str]]) -> tuple[str, str] | None:
+    """Evidence URL'sini orijinal kaynak anahtarına ve metnine çözümler."""
+    if ev_url in source_texts:
+        return ev_url, source_texts[ev_url]
+    if ev_url:
+        hit = norm_map.get(normalize_url(ev_url))
+        if hit is not None:
+            return hit
+    return None
+
+
 def validate_evidence(
     round1: list[ClaimVerification],
     round2: list[ClaimVerification],
@@ -92,11 +120,20 @@ def validate_evidence(
       uydurma alıntı varsa o kanıt geçersizdir.
     """
     by_claim_round2 = {_norm_claim(v.claim): v for v in round2}
+    norm_sources = {normalize_url(u): (u, txt) for u, txt in source_texts.items()}
     final: list[ClaimVerification] = []
 
     for v1 in round1:
         key = _norm_claim(v1.claim)
         v2 = by_claim_round2.get(key)
+        if v2 is None and key:
+            # Küçük noktalama/önek farklarında yüksek eşikle round2 karşılığını bul
+            best_score = 0.0
+            for k2, cand_v2 in by_claim_round2.items():
+                score = fuzz.ratio(key, k2)
+                if score >= 92 and score > best_score:
+                    best_score = score
+                    v2 = cand_v2
         if v2 is None or v1.verdict != v2.verdict:
             # Tur farkı → not_found (en muhafazakar sonuç)
             final.append(
@@ -110,13 +147,19 @@ def validate_evidence(
             # Her iki turun kanıtlarını birleştir, alıntıları doğrula
             seen: set[tuple[str, str]] = set()
             for ev in list(v1.evidence) + list(v2.evidence):
-                if (ev.url, ev.quote) in seen:
+                q_clean = (ev.quote or "").strip()
+                if q_clean.lower() in _INVALID_QUOTES:
                     continue
-                seen.add((ev.url, ev.quote))
-                if ev.url in source_texts and quote_in_source(ev.quote, {ev.url: source_texts[ev.url]}):
-                    evidence.append(ev)
-                else:
-                    log.warning("Uydurma alıntı tespit edildi, kanıt iptal: %r", ev.quote[:80])
+                resolved = _resolve_source(ev.url, source_texts, norm_sources)
+                if resolved is not None:
+                    canon_url, src_text = resolved
+                    if (canon_url, q_clean) in seen:
+                        continue
+                    seen.add((canon_url, q_clean))
+                    if quote_in_source(q_clean, {canon_url: src_text}):
+                        evidence.append(Evidence(url=canon_url, quote=q_clean))
+                        continue
+                log.warning("Uydurma alıntı tespit edildi, kanıt iptal: %r", q_clean[:80])
             if not evidence:
                 verdict = "not_found"
         final.append(ClaimVerification(claim=v1.claim, verdict=verdict, evidence=evidence))
@@ -150,4 +193,5 @@ def decide(
 
 
 def _norm_claim(text: str) -> str:
-    return normalize_text(text)[:120]
+    cleaned = re.sub(r"^\s*(?:\d+\.\s*)?(?:\[?ANA\s+[İI]DD[İI]A\]?\s*:?\s*)", "", text, flags=re.IGNORECASE)
+    return normalize_text(cleaned)[:120]

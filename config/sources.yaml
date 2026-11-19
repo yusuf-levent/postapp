@@ -45,9 +45,6 @@ official:
   - name: "Microsoft Blog"
     url: "https://blogs.microsoft.com/feed/"
     domain: "blogs.microsoft.com"
-  - name: "Meta AI Blog"
-    url: "https://ai.meta.com/blog/rss/"
-    domain: "ai.meta.com"
   - name: "Meta Newsroom (resmi alternatif)"
     url: "https://about.fb.com/news/feed/"
     domain: "about.fb.com"
@@ -71,6 +68,7 @@ official:
 verification_only_domains:
   - "reuters.com"
   - "anthropic.com"
+  - "ai.meta.com"
 
 # Bu domainlerden gelen grounding sonuçları KABUL EDİLMEZ (whitelist dışı)
 # (kod yalnızca yukarıdaki domainleri kabul eder)

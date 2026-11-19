@@ -53,7 +53,11 @@ def push_with_rebase(*, max_retries: int = 3) -> bool:
         if push.returncode == 0:
             return True
         log.warning("push başarısız (deneme %d/%d): %s", attempt, max_retries, push.stderr[:200])
-        _run(["git", "pull", "--rebase"], check=False)
+        pull = _run(["git", "pull", "--rebase", "--autostash", "origin", "main"], check=False)
+        if pull.returncode != 0:
+            log.warning("pull --rebase çakıştı, rebase iptal ediliyor: %s", pull.stderr[:200])
+            _run(["git", "rebase", "--abort"], check=False)
+            return False
     log.error("push %s denemede başarısız.", max_retries)
     return False
 
