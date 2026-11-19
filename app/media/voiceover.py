@@ -22,7 +22,7 @@ log = logging.getLogger("tekno-pusula.voiceover")
 DEFAULT_VOICE = "tr-TR-AhmetNeural"
 DEFAULT_RATE = "+10%"
 SCENE_PAUSE_SECONDS = 0.25
-MAX_VOICEOVER_DURATION = 28.0
+MAX_VOICEOVER_DURATION = 42.0
 
 
 def clean_speech_text(text: str) -> str:

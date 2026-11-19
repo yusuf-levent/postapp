@@ -17,7 +17,7 @@ from app.media.video_probe import probe_video
 
 log = logging.getLogger("tekno-pusula.video_renderer")
 MIN_REEL_DURATION = 8.0
-MAX_REEL_DURATION = 28.0
+MAX_REEL_DURATION = 45.0
 
 
 @dataclass

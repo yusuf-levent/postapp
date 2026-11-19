@@ -144,6 +144,17 @@ class GeminiClient:
             except (TimeoutError, ConnectionError) as exc:
                 last_exc = exc
                 transient_seen = True
+                log.warning("%s: Gemini anahtar #%d, model %s, zaman aşımı/bağlantı hatası; yedek deneniyor",
+                            label, key_index + 1, model_name)
+            except Exception as exc:
+                name = type(exc).__name__.lower()
+                if "timeout" in name or "connect" in name or "timed out" in str(exc).lower():
+                    last_exc = exc
+                    transient_seen = True
+                    log.warning("%s: Gemini anahtar #%d, model %s, %s; yedek deneniyor",
+                                label, key_index + 1, model_name, type(exc).__name__)
+                    continue
+                raise
         waits = [deadline - time.monotonic() for (key, model), deadline in self._cooldowns.items()
                  if key not in self._disabled_keys and (key, model) not in self._exhausted_models
                  and deadline > time.monotonic()]
