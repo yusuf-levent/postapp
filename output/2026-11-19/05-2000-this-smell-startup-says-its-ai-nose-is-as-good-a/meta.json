@@ -1,0 +1,33 @@
+{
+  "pipeline_version": 2,
+  "slot": "20:00",
+  "type": "edu",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 216.4,
+  "candidates_tried": 1,
+  "gemini_calls": 16,
+  "model_usage": {
+    "gemini-3.1-flash-lite": 13
+  },
+  "canonical_url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+  "entities": [
+    "Osmo",
+    "Alex Wiltschko",
+    "Newark Airport"
+  ],
+  "event_type": "research_result",
+  "topic": "ai",
+  "primary_entity": "Osmo",
+  "event_key": "osmo_ai_olfactory_foundation_model",
+  "editorial": {
+    "index": 5,
+    "publishable": true,
+    "importance": 8,
+    "education_value": 9,
+    "topic": "ai",
+    "primary_entity": "Osmo",
+    "event_key": "osmo_ai_olfactory_foundation_model",
+    "reason": "Koku duyusunu dijitalleştiren ve AI ile analiz eden temel model (foundation model) çalışması, AI'ın duyusal verileri işleme kapasitesinde somut bir yenilik."
+  },
+  "generated_at": "2026-11-19T20:07:47+03:00"
+}

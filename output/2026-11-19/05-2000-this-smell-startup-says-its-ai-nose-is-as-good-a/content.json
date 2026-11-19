@@ -1,0 +1,130 @@
+{
+  "cover": {
+    "category_label": "Yapay Zeka",
+    "title": "Osmo, kokuları dijitalleştiren yapay zeka modelini geliştirdi",
+    "highlight_words": [
+      "Osmo",
+      "koku",
+      "yapay zeka"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Google Brain kökenli girişim, koku tespiti ve ayrımı konusunda insan seviyesine ulaştı.",
+    "source_tags": [
+      "Osmo",
+      "Yapay Zeka",
+      "Teknoloji"
+    ]
+  },
+  "problem": {
+    "heading": "Koku dijitalleşebilir mi?",
+    "cards": [
+      {
+        "card_title": "Görsel ve işitsel verinin ötesi",
+        "card_body": "Yapay zeka dünyası uzun süredir görüntü ve ses işleme üzerine odaklandı. Ancak koku, dijitalleşmesi en zor duyusal verilerden biri olarak kaldı."
+      },
+      {
+        "card_title": "Osmo'nun yaklaşımı",
+        "card_body": "Alex Wiltschko, 2023 yılında Google Brain'den ayrılarak kurduğu Osmo ile kokuları sayısal verilere dönüştüren bir temel model geliştirdi."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Veri seti nasıl oluşturuldu?",
+      "cards": [
+        {
+          "card_title": "Devasa veri havuzu",
+          "card_body": "Osmo, kendi veri setinde 10 milyondan fazla insan etiketi ve 800 milyon koku belirteci (scent token) bulunduruyor."
+        },
+        {
+          "card_title": "İnsan gücüyle eğitim",
+          "card_body": "Koku verilerini toplamak ve anlamlandırmak için ABD ve yurt dışında yaklaşık 70 kişilik eğitimli bir veri etiketleyici ekibi görev yapıyor."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Modelin yetenekleri neler?",
+      "cards": [
+        {
+          "card_title": "İnsan seviyesinde performans",
+          "card_body": "Alex Wiltschko, Osmo'nun yapay zeka modelinin koku tespiti ve ayrımı konusunda ortalama bir insan seviyesine ulaştığını belirtiyor."
+        },
+        {
+          "card_title": "Pratik kullanım alanları",
+          "card_body": "Teknoloji, sahte spor ayakkabılarını tespit etmek için StockX ile yapılan koku analizi çalışmalarında test edildi."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Hastalıklarla mücadele",
+      "cards": [
+        {
+          "card_title": "Gates Vakfı desteği",
+          "card_body": "Gates Vakfı, Osmo'nun kuruluş aşamasında 5 milyon dolarlık yatırım yaptı."
+        },
+        {
+          "card_title": "Böcek kovucu moleküller",
+          "card_body": "Osmo, hastalık taşıyan böcekleri uzaklaştıran molekülleri değerlendirmek için Gates Vakfı'ndan 3,5 milyon dolarlık hibe aldı."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Sizce kokuların dijitalleşmesi günlük hayatımızda neleri değiştirecek?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri takip etmek için Tekno Pusula'yı izlemeye devam edin."
+  },
+  "context": {
+    "heading": "Koku dijitalleşebilir mi?",
+    "cards": [
+      {
+        "card_title": "Görsel ve işitsel verinin ötesi",
+        "card_body": "Yapay zeka dünyası uzun süredir görüntü ve ses işleme üzerine odaklandı. Ancak koku, dijitalleşmesi en zor duyusal verilerden biri olarak kaldı."
+      },
+      {
+        "card_title": "Osmo'nun yaklaşımı",
+        "card_body": "Alex Wiltschko, 2023 yılında Google Brain'den ayrılarak kurduğu Osmo ile kokuları sayısal verilere dönüştüren bir temel model geliştirdi."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Veri seti nasıl oluşturuldu?",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Modelin yetenekleri neler?",
+    "cards": [
+      {
+        "card_title": "İnsan seviyesinde performans",
+        "card_body": "Alex Wiltschko, Osmo'nun yapay zeka modelinin koku tespiti ve ayrımı konusunda ortalama bir insan seviyesine ulaştığını belirtiyor."
+      },
+      {
+        "card_title": "Pratik kullanım alanları",
+        "card_body": "Teknoloji, sahte spor ayakkabılarını tespit etmek için StockX ile yapılan koku analizi çalışmalarında test edildi."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Hastalıklarla mücadele",
+    "cards": [
+      {
+        "card_title": "Gates Vakfı desteği",
+        "card_body": "Gates Vakfı, Osmo'nun kuruluş aşamasında 5 milyon dolarlık yatırım yaptı."
+      },
+      {
+        "card_title": "Böcek kovucu moleküller",
+        "card_body": "Osmo, hastalık taşıyan böcekleri uzaklaştıran molekülleri değerlendirmek için Gates Vakfı'ndan 3,5 milyon dolarlık hibe aldı."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": ""
+}

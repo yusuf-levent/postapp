@@ -6490,5 +6490,91 @@
     "topic": "",
     "primary_entity": "",
     "event_key": "4db5592d-7046-441d-860b-f4e200244a6e"
+  },
+  {
+    "id": "2026-11-19-2000",
+    "date": "2026-11-19",
+    "slot": "20:00",
+    "type": "edu",
+    "title_tr": "Osmo, kokuları dijitalleştiren yapay zeka modelini geliştirdi",
+    "original_title": "This smell startup says its AI nose is as good as a human’s",
+    "source_urls": [
+      "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
+    ],
+    "canonical_url": "https://technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans",
+    "entities": [
+      "Osmo",
+      "Alex Wiltschko",
+      "Newark Airport"
+    ],
+    "event_type": "research_result",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "tiktok",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "x",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "threads",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "linkedin",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "facebook",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      }
+    ],
+    "created_at": "2026-11-19T20:07:47+03:00",
+    "verified_claims_count": 8,
+    "topic": "ai",
+    "primary_entity": "Osmo",
+    "event_key": "osmo_ai_olfactory_foundation_model"
   }
 ]

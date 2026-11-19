@@ -1,0 +1,259 @@
+{
+  "title": "This smell startup says its AI nose is as good as a human’s",
+  "canonical_url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+  "source_names": [
+    "MIT Technology Review"
+  ],
+  "checked_at": "2026-11-19T20:04:55+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Osmo, koku için dünyanın ilk temel modelini geliştirdiğini iddia eden bir yapay zeka girişimidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "quote": "Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation model for smell."
+        }
+      ]
+    },
+    {
+      "claim": "Alex Wiltschko, Osmo şirketini 2023 yılında Google Brain'deki çalışmalarından ayrılarak kurmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "quote": "Wiltschko spun the startup out of his work at Google Brain, the search giant’s former AI research lab, in 2023"
+        }
+      ]
+    },
+    {
+      "claim": "Osmo, kendi veri setinde 10 milyondan fazla insan etiketi ve 800 milyon koku belirteci (scent token) bulunduğunu belirtmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "quote": "A lot of the company’s work has been in creating its own dataset of more than 10 million human labels and 800 million “scent tokens,” which describe the exact molecules and concentrations that go into creating specific odors."
+        }
+      ]
+    },
+    {
+      "claim": "Osmo, Gates Vakfı'ndan hastalık taşıyan böcekleri uzaklaştıran molekülleri değerlendirmek için 3,5 milyon dolarlık bir hibe almıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "quote": "The Gates Foundation, which invested $5 million when Osmo launched, later gave the company a $3.5 million grant to assess molecules that repel disease-carrying insects"
+        }
+      ]
+    },
+    {
+      "claim": "Gates Vakfı, Osmo'nun kuruluş aşamasında şirkete 5 milyon dolarlık yatırım yapmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "quote": "The Gates Foundation, which invested $5 million when Osmo launched"
+        }
+      ]
+    },
+    {
+      "claim": "Osmo, sahte spor ayakkabıları tespit etmek amacıyla koku analizi yapmak için StockX ile çalışmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "quote": "Osmo has also worked with StockX, the online clothing marketplace, on using smell to spot counterfeit sneakers by detecting differences in the chemical composition of the materials used in the shoes."
+        }
+      ]
+    },
+    {
+      "claim": "Osmo, koku verilerini toplamak için ABD ve yurt dışında yaklaşık 70 kişilik bir eğitimli veri etiketleyici ekibiyle çalışmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "quote": "A team of around 70 trained data labelers in the US and overseas spend their days sniffing things and writing down what they smell like, using a standardized fragrance vocabulary."
+        }
+      ]
+    },
+    {
+      "claim": "Alex Wiltschko, Osmo'nun yapay zeka modelinin koku tespiti ve ayrımı konusunda ortalama bir insan seviyesine ulaştığını iddia etmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "quote": "In the last few months, Wiltschko claims, Osmo’s model has achieved “human-level olfactory intelligence.” The company’s definition of this is that the model is about as good as the average person at detecting and discriminating between smells"
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Osmo, koku için dünyanın ilk temel modelini geliştirdiğini iddia eden bir yapay zeka girişimidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "quote": "Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation model for smell."
+        }
+      ]
+    },
+    {
+      "claim": "Alex Wiltschko, Osmo şirketini 2023 yılında Google Brain'deki çalışmalarından ayrılarak kurmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "quote": "Wiltschko spun the startup out of his work at Google Brain, the search giant’s former AI research lab, in 2023"
+        }
+      ]
+    },
+    {
+      "claim": "Osmo, kendi veri setinde 10 milyondan fazla insan etiketi ve 800 milyon koku belirteci (scent token) bulunduğunu belirtmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "quote": "A lot of the company’s work has been in creating its own dataset of more than 10 million human labels and 800 million “scent tokens,” which describe the exact molecules and concentrations that go into creating specific odors."
+        }
+      ]
+    },
+    {
+      "claim": "Osmo, Gates Vakfı'ndan hastalık taşıyan böcekleri uzaklaştıran molekülleri değerlendirmek için 3,5 milyon dolarlık bir hibe almıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "quote": "The Gates Foundation, which invested $5 million when Osmo launched, later gave the company a $3.5 million grant to assess molecules that repel disease-carrying insects"
+        }
+      ]
+    },
+    {
+      "claim": "Gates Vakfı, Osmo'nun kuruluş aşamasında şirkete 5 milyon dolarlık yatırım yapmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "quote": "The Gates Foundation, which invested $5 million when Osmo launched"
+        }
+      ]
+    },
+    {
+      "claim": "Osmo, sahte spor ayakkabıları tespit etmek amacıyla koku analizi yapmak için StockX ile çalışmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "quote": "Osmo has also worked with StockX, the online clothing marketplace, on using smell to spot counterfeit sneakers by detecting differences in the chemical composition of the materials used in the shoes."
+        }
+      ]
+    },
+    {
+      "claim": "Osmo, koku verilerini toplamak için ABD ve yurt dışında yaklaşık 70 kişilik bir eğitimli veri etiketleyici ekibiyle çalışmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "quote": "A team of around 70 trained data labelers in the US and overseas spend their days sniffing things and writing down what they smell like, using a standardized fragrance vocabulary."
+        }
+      ]
+    },
+    {
+      "claim": "Alex Wiltschko, Osmo'nun yapay zeka modelinin koku tespiti ve ayrımı konusunda ortalama bir insan seviyesine ulaştığını iddia etmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "quote": "In the last few months, Wiltschko claims, Osmo’s model has achieved “human-level olfactory intelligence.” The company’s definition of this is that the model is about as good as the average person at detecting and discriminating between smells"
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Osmo, koku için dünyanın ilk temel modelini geliştirdiğini iddia eden bir yapay zeka girişimidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "quote": "Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation model for smell."
+        }
+      ]
+    },
+    {
+      "claim": "Alex Wiltschko, Osmo şirketini 2023 yılında Google Brain'deki çalışmalarından ayrılarak kurmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "quote": "Wiltschko spun the startup out of his work at Google Brain, the search giant’s former AI research lab, in 2023"
+        }
+      ]
+    },
+    {
+      "claim": "Osmo, kendi veri setinde 10 milyondan fazla insan etiketi ve 800 milyon koku belirteci (scent token) bulunduğunu belirtmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "quote": "A lot of the company’s work has been in creating its own dataset of more than 10 million human labels and 800 million “scent tokens,” which describe the exact molecules and concentrations that go into creating specific odors."
+        }
+      ]
+    },
+    {
+      "claim": "Osmo, Gates Vakfı'ndan hastalık taşıyan böcekleri uzaklaştıran molekülleri değerlendirmek için 3,5 milyon dolarlık bir hibe almıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "quote": "The Gates Foundation, which invested $5 million when Osmo launched, later gave the company a $3.5 million grant to assess molecules that repel disease-carrying insects"
+        }
+      ]
+    },
+    {
+      "claim": "Gates Vakfı, Osmo'nun kuruluş aşamasında şirkete 5 milyon dolarlık yatırım yapmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "quote": "The Gates Foundation, which invested $5 million when Osmo launched"
+        }
+      ]
+    },
+    {
+      "claim": "Osmo, sahte spor ayakkabıları tespit etmek amacıyla koku analizi yapmak için StockX ile çalışmıştır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "quote": "Osmo has also worked with StockX, the online clothing marketplace, on using smell to spot counterfeit sneakers by detecting differences in the chemical composition of the materials used in the shoes."
+        }
+      ]
+    },
+    {
+      "claim": "Osmo, koku verilerini toplamak için ABD ve yurt dışında yaklaşık 70 kişilik bir eğitimli veri etiketleyici ekibiyle çalışmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "quote": "A team of around 70 trained data labelers in the US and overseas spend their days sniffing things and writing down what they smell like, using a standardized fragrance vocabulary."
+        }
+      ]
+    },
+    {
+      "claim": "Alex Wiltschko, Osmo'nun yapay zeka modelinin koku tespiti ve ayrımı konusunda ortalama bir insan seviyesine ulaştığını iddia etmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "quote": "In the last few months, Wiltschko claims, Osmo’s model has achieved “human-level olfactory intelligence.” The company’s definition of this is that the model is about as good as the average person at detecting and discriminating between smells"
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/": 8307
+  }
+}
