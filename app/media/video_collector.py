@@ -1,15 +1,19 @@
-"""Gerçek ve birebir konuyla ilgili video toplama (AI video üretimi YOK).
+"""Yüksek kaliteli ve konuyla uyumlu gerçek video toplama (AI video üretimi YOK).
 
-Kurallar:
-1. Daha önce kullanılmış hiçbir video URL'si tekrar kullanılamaz (dedup).
-2. Öncelik haber makalesinin kendi içindeki gömülü gerçek videodur (og:video / <video src>).
-3. Stok/arşiv videoları (Wikimedia / Pexels) yalnızca:
-   - Açıklama/başlık metni haber konusuyla çelişmiyorsa (örn. Amazon -> rainforest/orman YASAK,
-     Disney -> theme park/statue YASAK) VE
-   - Gemini Vision (görsel doğrulama) video önizleme karesinin haber başlığıyla BİREBİR
-     ve doğrudan ilgili gerçek bir teknoloji/ürün görüntüsü olduğunu onaylarsa kabul edilir.
-4. Uygun ve doğrulanmış gerçek video bulunamazsa None döner; böylece Instagram ve TikTok'a
-   saçma/alakasız video yerine otomatik olarak 6'lı bilgi slaytı paylaşılır.
+İki aşamalı yaklaşım:
+1. Aşama 1 (Birebir gerçek görüntü): Haber makalesi + çapraz doğrulama kaynaklarındaki
+   gömülü resmi videolar (.mp4/.webm/JSON-LD VideoObject) ve spesifik ürün araması.
+2. Aşama 2 (Temsili teknoloji B-roll): Aşama 1 bulunamazsa ve haberin somut bir teknoloji/
+   bilim/donanım/uzay görsel karşılığı varsa Pexels/Pixabay/NASA üzerinden HD (≥720p)
+   temsili B-roll aranır; videoda şeffafça "Temsili görüntü" rozeti basılır.
+   Soyut hukuk/siyaset/şirket skandalı gibi görsel karşılığı olmayan haberlerde zorla
+   stok video aranmaz → None döner ve temiz 6'lı slayt paylaşılır.
+
+Kalite ve alaka garantileri:
+- Aynı video URL/ID'si tekrar kullanılmaz (dedup).
+- Stok adayları indirilmeden önce yasaklı slug + thumbnail Vision ön elemesinden geçer.
+- İndirilen video en az 720p HD, ≥23 fps, ≥7.5s ve 3 farklı zaman noktasından (%15, %50, %80)
+  Gemini Vision onayı almak zorundadır.
 """
 from __future__ import annotations
 
@@ -31,15 +35,39 @@ PIXABAY_VIDEOS_URL = "https://pixabay.com/api/videos/"
 NASA_SEARCH_URL = "https://images-api.nasa.gov/search"
 NASA_MEDIA_URL = "https://images-assets.nasa.gov/video/{nasa_id}/collection.json"
 WIKIMEDIA_API = "https://commons.wikimedia.org/w/api.php"
-MAX_VIDEO_BYTES = 45 * 1024 * 1024  # 45 MB üst sınır
 
-# Yanlış anlamaya yol açan kelimeler (Amazon -> orman, Apple -> meyve, Disney -> lunapark vb.)
+MAX_VIDEO_BYTES = 50 * 1024 * 1024  # 50 MB üst sınır (1080p klipler için)
+MIN_VIDEO_SHORT_SIDE = 720          # Minimum 720p HD (360p/480p bulanık videolar elenir)
+MIN_VIDEO_FPS = 23.0                # Akıcı kare hızı eşiği
+MIN_VIDEO_DURATION = 7.5            # Saniye
+MAX_DOWNLOAD_ATTEMPTS = 6           # Toplam indirme bütçesi
+
+# Alakasız / yanlış anlamaya yol açan kelimeler
 BANNED_SLUG_WORDS = {
     "rainforest", "forest", "jungle", "tree", "trees", "nature", "river", "waterfall",
-    "animal", "bird", "monkey", "fruit", "orchard", "cooking", "kitchen", "food",
+    "animal", "bird", "monkey", "dog", "cat", "horse", "farm", "fruit", "orchard",
+    "cooking", "kitchen", "food", "coffee", "cafe", "restaurant",
     "amusement", "park", "statue", "mickey", "castle", "fireworks", "parade",
     "beach", "ocean", "mountain", "sunset", "flower", "garden", "wedding", "dance",
+    "party", "fashion", "fitness", "yoga", "couple", "family", "baby", "child",
+    "handshake", "meeting", "smiling", "interview", "cartoon", "gaming",
 }
+
+SPACE_KEYWORDS = (
+    "nasa", "space", "rocket", "satellite", "orbit", "lunar", "moon", "mars",
+    "voyager", "starship", "blue origin", "spacex", "telescope", "asteroid",
+    "astronaut", "launch", "probe", "uzay", "roket", "uydu",
+)
+
+
+def _is_space_topic(headline: str, entities: list[str]) -> bool:
+    haystack = f"{headline} {' '.join(entities)}".lower()
+    return any(kw in haystack for kw in SPACE_KEYWORDS)
+
+
+def _slug_is_banned(slug: str) -> bool:
+    tokens = set(re.findall(r"[a-z]+", (slug or "").lower()))
+    return bool(tokens & BANNED_SLUG_WORDS)
 
 
 def collect_video(
@@ -47,54 +75,93 @@ def collect_video(
     candidate: Candidate | None,
     entities: list[str],
     post_dir: Path,
+    *,
+    extra_urls: list[str] | None = None,
 ) -> Path | None:
-    """Bounded search; validate frames of the downloaded video, not its filename."""
+    """Bounded, HD-only, Vision-verified video collection (article -> strict -> B-roll)."""
     if not candidate:
         return None
     used = _load_used_video_urls()
     video_dir = post_dir / "video"
     video_dir.mkdir(parents=True, exist_ok=True)
     dest = video_dir / "source_video.mp4"
-    attempted: set[str] = set()
+    attempted_downloads: set[str] = set()
+    seen_thumbs: set[str] = set()
+    all_entities = list(dict.fromkeys([*(entities or []), *(candidate.entities or [])]))
+    space_topic = _is_space_topic(candidate.title, all_entities)
 
-    def accept(item: dict[str, str], source: str) -> bool:
+    def accept(item: dict[str, str], source: str, *, mode: str) -> bool:
         url = item.get("video_url", "")
-        if not url or url in used or url in attempted or len(attempted) >= 4:
+        if not url or url in used or url in attempted_downloads or len(attempted_downloads) >= MAX_DOWNLOAD_ATTEMPTS:
             return False
-        attempted.add(url)
-        if any(word in item.get("slug", "").lower() for word in BANNED_SLUG_WORDS):
+        if source != "article" and _slug_is_banned(item.get("slug", "")):
             return False
+        # Stok kaynaklarında indirmeden önce ucuz thumbnail ön elemesi
+        thumb_url = item.get("thumb_url", "")
+        if source != "article" and thumb_url and thumb_url not in seen_thumbs:
+            seen_thumbs.add(thumb_url)
+            if not _verify_video_relevance(llm, candidate.title, all_entities, item.get("slug", ""), thumb_url, mode=mode):
+                log.info("Video thumbnail elendi (%s/%s): %s", source, mode, item.get("slug", "")[:70])
+                return False
+        attempted_downloads.add(url)
         if not _download_video(url, dest):
             return False
-        if not _verify_downloaded_video(llm, candidate.title, entities, dest):
+        if not _verify_downloaded_video(llm, candidate.title, all_entities, dest, mode=mode):
             dest.unlink(missing_ok=True)
             return False
         meta = _save_video_meta(video_dir, url, source)
         meta.update({key: item.get(key, "") for key in ("license", "author", "page_url")})
         meta["illustrative"] = source != "article"
+        meta["mode"] = mode
         (video_dir / "video_meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
+        log.info("Video onaylandı (%s/%s): %s", source, mode, url[:90])
         return True
 
-    article_url = _find_article_video(candidate.url) if candidate.url else None
-    if article_url and accept({"video_url": article_url, "slug": candidate.title}, "article"):
-        return dest
+    # 1) Makale ve çapraz doğrulama kaynaklarındaki gömülü gerçek videolar
+    article_urls = list(dict.fromkeys(u for u in [candidate.url, *(extra_urls or [])] if u))
+    for page_url in article_urls[:3]:
+        article_video = _find_article_video(page_url)
+        if article_video and accept({"video_url": article_video, "slug": candidate.title}, "article", mode="strict"):
+            return dest
 
-    queries = _strict_video_queries(llm, candidate, entities)
-    for query in queries[:2]:
-        for item in _search_wikimedia_video_candidates(query, limit=2):
-            if accept(item, "wikimedia"):
-                return dest
-            if len(attempted) >= 4:
-                return None
-        for provider, search in (("pexels", _search_pexels_candidates),
-                                 ("pixabay", _search_pixabay_candidates),
-                                 ("nasa", _search_nasa_candidates)):
+    # 2) Aşama 1: Spesifik ürün / araştırma araması (HD kaynaklar önce, Wikimedia en sonda)
+    strict_queries = _strict_video_queries(llm, candidate, all_entities)
+    strict_providers = [
+        ("pexels", _search_pexels_candidates),
+        ("pixabay", _search_pixabay_candidates),
+    ]
+    if space_topic:
+        strict_providers.insert(0, ("nasa", _search_nasa_candidates))
+    strict_providers.append(("wikimedia", lambda q: _search_wikimedia_video_candidates(q, limit=2)))
+
+    for query in strict_queries[:2]:
+        for provider, search in strict_providers:
             for item in search(query)[:2]:
-                if accept(item, provider):
+                if accept(item, provider, mode="strict"):
                     return dest
-                if len(attempted) >= 4:
+                if len(attempted_downloads) >= MAX_DOWNLOAD_ATTEMPTS:
                     return None
+
+    # 3) Aşama 2: Konuya doğrudan uyan yüksek kaliteli temsili teknoloji B-roll
+    broll_queries = _broll_video_queries(llm, candidate, all_entities)
+    broll_providers = [
+        ("pexels", _search_pexels_candidates),
+        ("pixabay", _search_pixabay_candidates),
+    ]
+    if space_topic:
+        broll_providers.insert(0, ("nasa", _search_nasa_candidates))
+
+    for query in broll_queries[:2]:
+        for provider, search in broll_providers:
+            for item in search(query)[:3]:
+                if accept(item, provider, mode="broll"):
+                    return dest
+                if len(attempted_downloads) >= MAX_DOWNLOAD_ATTEMPTS:
+                    return None
+
     return None
+
+
 def _load_used_video_urls() -> set[str]:
     """Daha önceki postlarda kullanılmış tüm video URL'lerini döndürür (aynı video tekrarlanmaz)."""
     used: set[str] = set()
@@ -106,21 +173,17 @@ def _load_used_video_urls() -> set[str]:
             u = data.get("video_url", "").strip()
             if u:
                 used.add(u)
-                # Pexels dosya ID bazlı tekilleştirme
                 m = re.search(r"/video-files/(\d+)/", u)
                 if m:
                     used.add(f"pexels_id:{m.group(1)}")
-                # Pixabay ID bazlı tekilleştirme
                 m = re.search(r"pixabay\.com/.*?_(\d+)", u)
                 if m:
                     used.add(f"pixabay_id:{m.group(1)}")
-                # NASA ID bazlı tekilleştirme
                 m = re.search(r"images-assets\.nasa\.gov/video/([^/]+)/", u)
                 if m:
                     used.add(f"nasa_id:{m.group(1)}")
         except Exception:
             pass
-    # Eski postlardan manuel backfill: data/used_videos.txt (her satır bir URL)
     backfill = OUTPUT_DIR.parent / "data" / "used_videos.txt"
     if backfill.exists():
         try:
@@ -141,13 +204,8 @@ def _save_video_meta(video_dir: Path, video_url: str, source: str) -> dict:
     return meta
 
 
-def _search_wikimedia_video_candidates(query: str, *, limit: int = 8) -> list[dict[str, str]]:
-    """Wikimedia Commons'tan gerçek ürün/haber videoları (B-roll) arar.
-
-    Commons API'si key gerektirmez. Videolar WebM/VP9 transcode olarak sunulur;
-    mevcut en yüksek çözünürlüklü transcode seçilir. Lisans ve atıf bilgisi döndürülür.
-    """
-    used = _load_used_video_urls()
+def _search_wikimedia_video_candidates(query: str, *, limit: int = 4) -> list[dict[str, str]]:
+    """Wikimedia Commons'tan HD (1080p/720p) videolar arar."""
     params = {
         "action": "query",
         "list": "search",
@@ -159,8 +217,8 @@ def _search_wikimedia_video_candidates(query: str, *, limit: int = 8) -> list[di
     resp = http_get(
         f"{WIKIMEDIA_API}?{urlencode(params)}",
         headers={"User-Agent": "TeknoPusula/1.0 (github-actions)"},
-        retries=2,
-        timeout=20,
+        retries=1,
+        timeout=15,
     )
     if resp is None or resp.status_code != 200:
         return []
@@ -174,7 +232,6 @@ def _search_wikimedia_video_candidates(query: str, *, limit: int = 8) -> list[di
         title = hit.get("title") or ""
         if not title.startswith("File:"):
             continue
-        # Dosya bilgisi + lisans + transcode listesi
         iparams = {
             "action": "query",
             "titles": title,
@@ -197,9 +254,9 @@ def _search_wikimedia_video_candidates(query: str, *, limit: int = 8) -> list[di
         except (ValueError, StopIteration):
             continue
 
-        # En iyi transcode (1080p > 480p > 360p) veya orijinal
+        # Yalnızca 1080p/720p HD transcode veya orijinal dosya (360p/480p alınmaz)
         best_url = ""
-        for key in ("1080p.vp9.webm", "1080p.mpeg4.mov", "480p.vp9.webm", "480p.mpeg4.mov", "360p.mpeg4.mov"):
+        for key in ("1080p.vp9.webm", "1080p.mpeg4.mov", "720p.vp9.webm", "720p.mpeg4.mov"):
             for d in (vi.get("derivatives") or []):
                 if d.get("transcodekey") == key:
                     best_url = d.get("src") or ""
@@ -223,7 +280,7 @@ def _search_wikimedia_video_candidates(query: str, *, limit: int = 8) -> list[di
         if best_url and "video" in (vi.get("mime") or ""):
             out.append({
                 "video_url": best_url,
-                "thumb_url": thumb_url or vi.get("url", ""),
+                "thumb_url": thumb_url,
                 "slug": title,
                 "license": license_name,
                 "author": artist,
@@ -233,38 +290,37 @@ def _search_wikimedia_video_candidates(query: str, *, limit: int = 8) -> list[di
 
 
 def _find_article_video(article_url: str) -> str | None:
-    """Haber sayfasındaki og:video veya <video>/<source> MP4 bağlantısını bulur."""
+    """Haber sayfasındaki og:video, <video>/<source> veya JSON-LD VideoObject bağlantısını bulur."""
     resp = http_get(article_url, retries=1, timeout=15)
     if resp is None or resp.status_code != 200:
         return None
-    html = resp.text[:250_000]
+    html = resp.text[:400_000]
 
     meta_patterns = [
-        r'<meta[^>]+property=["\'](?:og:video|og:video:secure_url|og:video:url)["\'][^>]+content=["\']([^"\']+\.mp4[^"\']*)["\']',
-        r'<meta[^>]+content=["\']([^"\']+\.mp4[^"\']*)["\'][^>]+property=["\'](?:og:video|og:video:secure_url|og:video:url)["\']',
-        r'<source[^>]+src=["\']([^"\']+\.mp4[^"\']*)["\']',
-        r'<video[^>]+src=["\']([^"\']+\.mp4[^"\']*)["\']',
+        r'<meta[^>]+property=["\'](?:og:video|og:video:secure_url|og:video:url)["\'][^>]+content=["\']([^"\']+\.(?:mp4|webm)[^"\']*)["\']',
+        r'<meta[^>]+content=["\']([^"\']+\.(?:mp4|webm)[^"\']*)["\'][^>]+property=["\'](?:og:video|og:video:secure_url|og:video:url)["\']',
+        r'<source[^>]+src=["\']([^"\']+\.(?:mp4|webm)[^"\']*)["\']',
+        r'<video[^>]+src=["\']([^"\']+\.(?:mp4|webm)[^"\']*)["\']',
+        r'"contentUrl"\s*:\s*"(https?:\\/\\/[^"]+\.(?:mp4|webm)[^"]*|https?://[^"]+\.(?:mp4|webm)[^"]*)"',
     ]
     for pat in meta_patterns:
         m = re.search(pat, html, flags=re.IGNORECASE)
         if m:
-            raw_url = m.group(1).strip()
+            raw_url = m.group(1).strip().replace("\\/", "/")
             if not raw_url.startswith("http"):
                 raw_url = urljoin(article_url, raw_url)
             return raw_url
     return None
 
 
-def _search_pexels_candidates(query: str, *, per_page: int = 5) -> list[dict[str, str]]:
-    """Pexels Videos API'den aday videoları (video_url, thumb_url, slug) döndürür."""
+def _search_pexels_candidates(query: str, *, per_page: int = 8) -> list[dict[str, str]]:
+    """Pexels Videos API'den HD (≥720p, dikey+yatay) aday videoları döndürür."""
     api_key = settings().pexels_api_key
     if not api_key:
         return []
     used = _load_used_video_urls()
     params = {
         "query": query,
-        "orientation": "portrait",
-        "size": "medium",
         "per_page": per_page,
     }
     resp = http_get(
@@ -280,35 +336,46 @@ def _search_pexels_candidates(query: str, *, per_page: int = 5) -> list[dict[str
     except ValueError:
         return []
 
-    out: list[dict[str, str]] = []
+    ranked: list[tuple[int, dict[str, str]]] = []
     for vid in videos:
         vid_id = str(vid.get("id") or "")
         if f"pexels_id:{vid_id}" in used:
             continue
         dur = int(vid.get("duration") or 0)
-        if dur < 5 or dur > 60:
+        if dur < 8 or dur > 60:
             continue
         page_url = str(vid.get("url") or "")
         thumb_url = str(vid.get("image") or "")
         files = vid.get("video_files", []) or []
-        mp4_files = [
+        hd_files = [
             f for f in files
             if "mp4" in (f.get("file_type") or "").lower()
             and f.get("link")
-            and 540 <= int(f.get("width") or 0) <= 2160
+            and min(int(f.get("width") or 0), int(f.get("height") or 0)) >= MIN_VIDEO_SHORT_SIDE
+            and max(int(f.get("width") or 0), int(f.get("height") or 0)) <= 2560
         ]
-        mp4_files.sort(key=lambda f: abs(int(f.get("height") or 0) - 1280))
-        if mp4_files and thumb_url:
-            out.append({
-                "video_url": mp4_files[0]["link"],
-                "thumb_url": thumb_url,
-                "slug": page_url,
-            })
-    return out
+        if not hd_files or not thumb_url:
+            continue
+        # 1080p HD en öncelikli, çok ağır 4K yerine ideal 1080p seç
+        hd_files.sort(key=lambda f: abs(min(int(f.get("width") or 0), int(f.get("height") or 0)) - 1080))
+        chosen = hd_files[0]
+        w, h = int(chosen.get("width") or 0), int(chosen.get("height") or 0)
+        # Dikey (9:16) 1080p videolara hafif sıralama önceliği ver
+        priority = (2 if h > w else 1) * 1000 + min(w, h)
+        ranked.append((priority, {
+            "video_url": chosen["link"],
+            "thumb_url": thumb_url,
+            "slug": page_url,
+            "license": "Pexels License",
+            "author": str((vid.get("user") or {}).get("name") or ""),
+            "page_url": page_url,
+        }))
+    ranked.sort(key=lambda pair: pair[0], reverse=True)
+    return [item for _, item in ranked]
 
 
-def _search_pixabay_candidates(query: str, *, per_page: int = 10) -> list[dict[str, str]]:
-    """Pixabay Videos API'den aday videoları döndürür (ücretsiz API key gerekir)."""
+def _search_pixabay_candidates(query: str, *, per_page: int = 8) -> list[dict[str, str]]:
+    """Pixabay Videos API'den HD (≥720p) aday videoları döndürür."""
     api_key = settings().pixabay_api_key
     if not api_key:
         return []
@@ -317,7 +384,6 @@ def _search_pixabay_candidates(query: str, *, per_page: int = 10) -> list[dict[s
         "key": api_key,
         "q": query,
         "video_type": "all",
-        "orientation": "all",  # yatay videolar renderer'da 9:16'ya kırpılır
         "per_page": per_page,
     }
     resp = http_get(
@@ -338,47 +404,48 @@ def _search_pixabay_candidates(query: str, *, per_page: int = 10) -> list[dict[s
         if f"pixabay_id:{vid_id}" in used:
             continue
         dur = int(vid.get("duration") or 0)
-        if dur < 5 or dur > 60:
+        if dur < 8 or dur > 60:
             continue
         page_url = str(vid.get("pageURL") or "")
-        thumb_url = str(vid.get("picture_id") or "")
-        # picture_id bir thumbnail URL'si değil; hits.videos.large.thumbnail kullan
+        tags = str(vid.get("tags") or "")
         vids = vid.get("videos") or {}
         thumb = ""
-        for size in ("large", "medium", "small", "tiny"):
+        for size in ("large", "medium", "small"):
             t = (vids.get(size) or {}).get("thumbnail") or ""
             if t:
                 thumb = t
                 break
         mp4_url = ""
-        # Dikey/karesel tercih: large → medium → tiny
-        for size in ("large", "medium", "small", "tiny"):
-            v = (vids.get(size) or {})
+        # Yalnızca HD (≥720p) sürümleri al: large → medium
+        for size in ("large", "medium"):
+            v = vids.get(size) or {}
             link = v.get("url") or ""
-            w = int(v.get("width") or 0)
-            if link and (w == 0 or 540 <= w <= 2160):
+            w, h = int(v.get("width") or 0), int(v.get("height") or 0)
+            if link and min(w, h) >= MIN_VIDEO_SHORT_SIDE and max(w, h) <= 2560:
                 mp4_url = link
                 break
         if mp4_url and thumb:
-            out.append({"video_url": mp4_url, "thumb_url": thumb, "slug": page_url})
+            out.append({
+                "video_url": mp4_url,
+                "thumb_url": thumb,
+                "slug": f"{page_url} {tags}".strip(),
+                "license": "Pixabay License",
+                "author": str(vid.get("user") or ""),
+                "page_url": page_url,
+            })
     return out
 
 
-def _search_nasa_candidates(query: str, *, per_page: int = 10) -> list[dict[str, str]]:
-    """NASA Image/Video Library'den aday videoları döndürür (API key opsiyonel)."""
+def _search_nasa_candidates(query: str, *, per_page: int = 8) -> list[dict[str, str]]:
+    """NASA Image/Video Library'den HD aday videoları döndürür."""
     used = _load_used_video_urls()
     params = {
         "q": query,
         "media_type": "video",
         "page_size": per_page,
     }
-    headers = {}
-    api_key = settings().nasa_api_key
-    if api_key:
-        headers["Authorization"] = f"Bearer {api_key}"
     resp = http_get(
         f"{NASA_SEARCH_URL}?{urlencode(params)}",
-        headers=headers,
         retries=2,
         timeout=25,
     )
@@ -391,64 +458,112 @@ def _search_nasa_candidates(query: str, *, per_page: int = 10) -> list[dict[str,
 
     out: list[dict[str, str]] = []
     for item in items:
-        nasa_id = ""
+        data_list = item.get("data") or []
+        if not data_list:
+            continue
+        d = data_list[0]
+        nasa_id = str(d.get("nasa_id") or "")
+        title = str(d.get("title") or "")
+        if not nasa_id or f"nasa_id:{nasa_id}" in used:
+            continue
         thumb_url = ""
-        title = ""
-        for d in (item.get("data") or []):
-            nasa_id = str(d.get("nasa_id") or "")
-            title = str(d.get("title") or "")
-            for l in (d.get("links") or []):
-                if l.get("render") == "image":
-                    thumb_url = str(l.get("href") or "")
-        if not nasa_id:
-            continue
-        if f"nasa_id:{nasa_id}" in used:
-            continue
-        # Dosya listesini çek (collection.json) ve uygun MP4 seç
+        for lnk in (item.get("links") or []):
+            if lnk.get("render") == "image" and lnk.get("href"):
+                thumb_url = str(lnk["href"])
+                break
         media_resp = http_get(NASA_MEDIA_URL.format(nasa_id=nasa_id), retries=1, timeout=15)
         if media_resp is None or media_resp.status_code != 200:
             continue
         try:
-            items2 = media_resp.json() or []
+            assets = media_resp.json() or []
         except ValueError:
             continue
+        # NASA collection.json string listesi (veya dict listesi) dönebilir
+        mp4_urls: list[str] = []
+        for entry in assets:
+            href = entry if isinstance(entry, str) else str((entry or {}).get("href") or "")
+            if href.lower().endswith(".mp4") and href.startswith("http"):
+                mp4_urls.append(href)
         mp4_url = ""
-        for f in items2:
-            href = str(f.get("href") or "")
-            if href.endswith(".mp4") and ("~orig" in href or "~small" in href):
-                mp4_url = href
+        for suffix in ("~orig.mp4", "~large.mp4", "~medium.mp4"):
+            match = next((u for u in mp4_urls if u.lower().endswith(suffix)), "")
+            if match:
+                mp4_url = match
                 break
         if mp4_url and thumb_url:
-            out.append({"video_url": mp4_url, "thumb_url": thumb_url, "slug": title})
+            out.append({
+                "video_url": mp4_url,
+                "thumb_url": thumb_url,
+                "slug": title,
+                "license": "NASA Public Domain",
+                "author": "NASA",
+                "page_url": f"https://images.nasa.gov/details/{nasa_id}",
+            })
     return out
 
 
-def _verify_downloaded_video(llm: GeminiClient, headline: str, entities: list[str], path: Path) -> bool:
+def _verify_downloaded_video(
+    llm: GeminiClient,
+    headline: str,
+    entities: list[str],
+    path: Path,
+    *,
+    mode: str = "strict",
+) -> bool:
     import subprocess
     from app.media.video_probe import probe_video
 
     info = probe_video(path)
-    if (info.get("duration", 0) < 8 or min(info.get("width", 0), info.get("height", 0)) < 480):
+    duration = float(info.get("duration") or 0)
+    short_side = min(int(info.get("width") or 0), int(info.get("height") or 0))
+    fps = float(info.get("fps") or 0)
+    if duration < MIN_VIDEO_DURATION or short_side < MIN_VIDEO_SHORT_SIDE:
+        log.info("Video kalite filtresini geçemedi (süre=%.1fs, min_kenar=%dpx)", duration, short_side)
         return False
+    if fps and fps < MIN_VIDEO_FPS:
+        log.info("Video FPS filtresini geçemedi (fps=%.1f)", fps)
+        return False
+
     frames = []
     try:
         for index, fraction in enumerate((0.15, 0.5, 0.8)):
             frame = path.parent / f"check-{index}.jpg"
-            proc = subprocess.run(["ffmpeg", "-y", "-ss", str(info["duration"] * fraction), "-i", str(path),
-                                   "-frames:v", "1", "-vf", "scale=640:-2", str(frame)],
-                                  capture_output=True, timeout=30)
+            proc = subprocess.run(
+                ["ffmpeg", "-y", "-ss", str(duration * fraction), "-i", str(path),
+                 "-frames:v", "1", "-vf", "scale=640:-2", str(frame)],
+                capture_output=True, timeout=30,
+            )
             if proc.returncode != 0 or not frame.exists():
                 return False
             frames.append(frame)
-        prompt = (f"Headline: {headline}\nEntities: {', '.join(entities)}\n"
-                  "These are three frames from ONE candidate news video. Inspect ALL frames. "
-                  "Is this real, clear footage directly relevant to the specific subject? "
-                  "Reject unrelated scenery, generic offices, games, abstract animations, wrong products/brands, "
-                  "static screenshots, watermarks across the subject, or illegible footage. "
-                  "A real screen recording demonstrating the named software is acceptable. Do not infer unseen details. "
-                  "Respond with one word: YES or NO.")
-        answer = llm.analyze_images(prompt, [str(p) for p in frames], label="video-frames-check")
-        return answer.strip().upper() in ("YES", "EVET")
+
+        if mode == "broll":
+            prompt = (
+                f"Headline: {headline}\nEntities: {', '.join(entities)}\n"
+                "These are three frames from ONE candidate illustrative B-roll video for a Turkish tech news Reel. "
+                "Inspect ALL three frames carefully.\n"
+                "APPROVE (YES) ONLY IF all three frames are sharp, high-quality, cinematic technology/science/hardware/"
+                "software/space/industrial footage that DIRECTLY matches the core technological theme of the headline "
+                "(for example: semiconductor wafers/chips for chip news, server racks/data center for AI/cloud news, "
+                "scientific sensor/lab equipment for biotech/AI sensor news, rocket/satellite for space news, "
+                "code/security terminal for software/security news).\n"
+                "REJECT (NO) IF ANY frame shows: unrelated nature/scenery/animals/food, generic smiling people or office "
+                "meetings, random handshakes, video games/cartoons, wrong brand logo or wrong product, intrusive text or "
+                "watermarks, blurry/dark/low-quality visuals, or anything unrelated to the headline's topic.\n"
+                "Respond with ONE word only: YES or NO."
+            )
+        else:
+            prompt = (
+                f"Headline: {headline}\nEntities: {', '.join(entities)}\n"
+                "These are three frames from ONE candidate news video. Inspect ALL frames. "
+                "Is this real, sharp, clear footage directly relevant to the specific subject? "
+                "Reject unrelated scenery, generic offices, games, abstract animations, wrong products/brands, "
+                "static screenshots, watermarks across the subject, or blurry/illegible footage. "
+                "A real screen recording demonstrating the named software is acceptable. Do not infer unseen details. "
+                "Respond with one word: YES or NO."
+            )
+        answer = llm.analyze_images(prompt, [str(p) for p in frames], label=f"video-frames-{mode}")
+        return answer.strip().upper().startswith(("YES", "EVET"))
     except Exception as exc:
         log.warning("Gerçek video kareleri doğrulanamadı: %s", type(exc).__name__)
         return False
@@ -458,22 +573,51 @@ def _verify_downloaded_video(llm: GeminiClient, headline: str, entities: list[st
 
 
 def _strict_video_queries(llm: GeminiClient, candidate: Candidate, entities: list[str]) -> list[str]:
-    """Haberdeki somut donanım/cihaz için 4 spesifik İngilizce arama terimi üretir."""
+    """Haberdeki somut ürün/araştırma için en fazla 2 spesifik İngilizce arama terimi üretir."""
     prompt = (
         f"News headline: {candidate.title}\n"
         f"Entities: {', '.join(entities or candidate.entities or [])}\n\n"
-        "Task: Output at most 2 ultra-specific English video search queries for the exact product or research. "
-        "For hardware use the actual product/device. For AI/software use the named product's real demo or screen recording, "
-        "not generic keyboards, office workers, or unrelated computer chips. "
+        "Task: Output at most 2 specific English video search queries for the exact product, hardware, or research. "
         "NEVER use ambiguous brand names alone like 'Amazon' (returns jungle), 'Disney' (returns theme park), "
-        "or 'Apple' (returns fruit). If the news is purely about corporate lawsuits, bankruptcy, or abstract policy "
-        "with no physical device to show, output ONLY the word: NONE"
+        "or 'Apple' (returns fruit). If no exact product footage exists in public archives, return an empty list."
     )
     try:
         from app.models import SearchQueries
-        result = llm.generate_structured(prompt + "\nReturn {queries: []} for NONE, otherwise at most 2 short queries.",
-                                         SearchQueries, label="video-strict-query")
+        result = llm.generate_structured(
+            prompt + "\nReturn {queries: []} if none, otherwise at most 2 short queries.",
+            SearchQueries, label="video-strict-query",
+        )
         return [q.strip() for q in result.queries if 3 < len(q.strip()) < 55 and q.upper() != "NONE"][:2]
+    except Exception:
+        return []
+
+
+def _broll_video_queries(llm: GeminiClient, candidate: Candidate, entities: list[str]) -> list[str]:
+    """Konuya doğrudan uyan temsili teknoloji B-roll sorguları üretir (soyut haberlerde boş)."""
+    prompt = (
+        f"News headline: {candidate.title}\n"
+        f"Summary: {(candidate.summary or '')[:400]}\n"
+        f"Entities: {', '.join(entities or candidate.entities or [])}\n\n"
+        "Task: Produce at most 2 concrete, visual English stock B-roll search queries (2-4 words each) for Pexels/Pixabay "
+        "that DIRECTLY represent the core technological subject of this news.\n"
+        "Good examples:\n"
+        "- AI chips / GPU export -> 'microchip processor macro', 'silicon wafer semiconductor'\n"
+        "- AI model / cloud / data center -> 'data center server room', 'supercomputer server lights'\n"
+        "- Robotics / autonomous vehicle -> 'robotic arm laboratory', 'autonomous car sensor'\n"
+        "- Space / rocket / satellite -> 'rocket launch night', 'earth orbit satellite'\n"
+        "- Biotech / AI sensor / science -> 'science laboratory microscope', 'electronic sensor circuit'\n"
+        "- Cybersecurity / coding / developer tools -> 'computer code screen dark', 'cybersecurity terminal'\n"
+        "STRICT REJECT: If the story is purely about lawsuits, politics, IPO stock prices, executive gossip, "
+        "or corporate finance with NO concrete visual technology scene, return an EMPTY list {queries: []}.\n"
+        "NEVER include brand names (no Apple, Amazon, Google, Nvidia, OpenAI, Meta, etc.) and NEVER output generic 'office' or 'people'."
+    )
+    try:
+        from app.models import SearchQueries
+        result = llm.generate_structured(
+            prompt + "\nReturn {queries: [...]}.",
+            SearchQueries, label="video-broll-query",
+        )
+        return [q.strip() for q in result.queries if 3 < len(q.strip()) < 45 and q.upper() != "NONE"][:2]
     except Exception:
         return []
 
@@ -484,43 +628,55 @@ def _verify_video_relevance(
     entities: list[str],
     slug: str,
     thumb_url: str,
+    *,
+    mode: str = "strict",
 ) -> bool:
-    """Gemini Vision ile video önizleme karesini (thumbnail) gerçekten görüntüler ve haberle uyumunu doğrular."""
+    """İndirmeden önce ucuz thumbnail + slug ön elemesi (Gemini Vision)."""
     import os
     import tempfile
 
     from app.common import http_get as _http_get
 
-    # Thumbnail'i indir ve Gemini'ye görsel olarak gönder
     tmp_path = None
     if thumb_url:
         try:
             resp = _http_get(thumb_url, retries=1, timeout=15)
-            if resp is not None and resp.status_code == 200 and len(resp.content) > 5000:
+            if resp is not None and resp.status_code == 200 and len(resp.content) > 4000:
                 with tempfile.NamedTemporaryFile(suffix=".jpg", delete=False) as tmp:
                     tmp.write(resp.content)
                     tmp_path = tmp.name
         except Exception:
             tmp_path = None
 
-    prompt = (
-        f"News headline: {headline}\n"
-        f"Entities: {', '.join(entities)}\n"
-        f"Video description (URL slug): {slug}\n\n"
-        "TASK: Look at the provided video thumbnail image. Does it show a real technology/physical "
-        "device/product that DIRECTLY relates to the news headline above?\n"
-        "REJECT rules (answer NO):\n"
-        "- Nature, forest, trees, rivers, animals, amusement park, statue, food, dance, beach etc. -> NO\n"
-        "- Broken phone or irrelevant device when news is about smartwatch -> NO\n"
-        "- Random/unrelated stock footage that doesn't match the headline -> NO\n"
-        "- Abstract graphics, generic office scenes, or people talking -> NO\n"
-        "Answer with ONE word ONLY: YES or NO."
-    )
+    if mode == "broll":
+        prompt = (
+            f"News headline: {headline}\n"
+            f"Entities: {', '.join(entities)}\n"
+            f"Video metadata: {slug}\n\n"
+            "TASK: Look at this video thumbnail. Is it a sharp, high-quality technology/science/hardware/space B-roll "
+            "scene that DIRECTLY matches the technical topic of the headline above?\n"
+            "Answer NO if it shows: nature/forest/animals/food/beach, smiling people/office meetings/handshakes, "
+            "cartoons/games, watermarks, blurry footage, wrong brand logos, or anything off-topic.\n"
+            "Answer ONE word ONLY: YES or NO."
+        )
+    else:
+        prompt = (
+            f"News headline: {headline}\n"
+            f"Entities: {', '.join(entities)}\n"
+            f"Video description (URL slug): {slug}\n\n"
+            "TASK: Look at the provided video thumbnail image. Does it show a real technology/physical "
+            "device/product that DIRECTLY relates to the news headline above?\n"
+            "REJECT rules (answer NO):\n"
+            "- Nature, forest, trees, rivers, animals, amusement park, statue, food, dance, beach etc. -> NO\n"
+            "- Random/unrelated stock footage that doesn't match the headline -> NO\n"
+            "- Abstract graphics, generic office scenes, or people talking -> NO\n"
+            "Answer with ONE word ONLY: YES or NO."
+        )
     try:
         if tmp_path:
-            ans = llm.analyze_images(prompt, [tmp_path], label="video-vision-check").strip().upper()
+            ans = llm.analyze_images(prompt, [tmp_path], label=f"video-thumb-{mode}").strip().upper()
         else:
-            ans = llm.generate_text(prompt, label="video-text-check").strip().upper()
+            ans = llm.generate_text(prompt, label=f"video-text-{mode}").strip().upper()
         return ans.startswith("YES") or ans.startswith("EVET")
     except Exception:
         return False
@@ -531,11 +687,11 @@ def _verify_video_relevance(
 
 def _download_video(url: str, dest: Path) -> bool:
     """Video dosyasını indirir ve boyutunu doğrular."""
-    resp = http_get(url, retries=2, timeout=35)
+    resp = http_get(url, retries=2, timeout=40)
     if resp is None or resp.status_code != 200:
         return False
     content = resp.content
-    if not content or len(content) < 50_000 or len(content) > MAX_VIDEO_BYTES:
+    if not content or len(content) < 80_000 or len(content) > MAX_VIDEO_BYTES:
         return False
     dest.parent.mkdir(parents=True, exist_ok=True)
     dest.write_bytes(content)

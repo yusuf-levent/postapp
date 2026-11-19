@@ -17,7 +17,7 @@ from app.media.video_probe import probe_video
 
 log = logging.getLogger("tekno-pusula.video_renderer")
 MIN_REEL_DURATION = 8.0
-MAX_REEL_DURATION = 26.0
+MAX_REEL_DURATION = 28.0
 
 
 @dataclass
@@ -112,55 +112,124 @@ async def _render_overlays(scenes: list[ReelScene], video_dir: Path, sources: li
     return outputs
 
 
-def render_reel_video(deck: dict[str, Any], source_video: Path, post_dir: Path, *,
-                      fonts_dir: Path | None = None, music_info: dict[str, Any] | None = None) -> Path | None:
+def render_reel_video(
+    deck: dict[str, Any],
+    source_video: Path,
+    post_dir: Path,
+    *,
+    fonts_dir: Path | None = None,
+    music_info: dict[str, Any] | None = None,
+    voiceover_info: dict[str, Any] | None = None,
+) -> Path | None:
     if not source_video or not source_video.exists() or not shutil.which("ffmpeg"):
         return None
     info = probe_video(source_video)
-    duration = min(MAX_REEL_DURATION, info.get("duration", 0))
-    if duration < MIN_REEL_DURATION:
+    src_duration = float(info.get("duration") or 0)
+    if src_duration < MIN_REEL_DURATION:
         log.info("Video çok kısa veya çözümlenemedi; karusel kullanılacak.")
         return None
     scenes = build_storyboard(deck)
     if len(scenes) < 3 or not scenes[0].heading:
         log.info("Video için yeterli doğrulanmış bilgi yok; karusel kullanılacak.")
         return None
+
+    illustrative = bool(deck.get("video_illustrative"))
+    has_orig_audio = bool(info.get("has_audio")) and not illustrative
+
+    vo_path = Path(voiceover_info["path"]) if voiceover_info and voiceover_info.get("path") else None
+    use_voiceover = bool(vo_path and vo_path.exists() and not has_orig_audio)
+    music = Path(music_info["path"]) if music_info and music_info.get("path") else None
+    if not (music and music.exists()) or has_orig_audio:
+        music = None
+
+    if use_voiceover and voiceover_info and len(voiceover_info.get("bounds") or []) == len(scenes) + 1:
+        bounds = [float(b) for b in voiceover_info["bounds"]]
+        duration = min(MAX_REEL_DURATION, max(MIN_REEL_DURATION, bounds[-1]))
+        if bounds[-1] > duration:
+            scale_factor = duration / bounds[-1]
+            bounds = [round(b * scale_factor, 3) for b in bounds]
+        bounds[-1] = duration
+    else:
+        duration = min(MAX_REEL_DURATION, src_duration)
+        hook = min(3.5, duration / len(scenes))
+        scene_duration = (duration - hook) / (len(scenes) - 1)
+        bounds = [0.0, hook] + [hook + scene_duration * n for n in range(1, len(scenes))]
+
     video_dir = post_dir / "video"
     video_dir.mkdir(parents=True, exist_ok=True)
-    overlays = asyncio.run(_render_overlays(scenes, video_dir, deck.get("source_names") or [], fonts_dir,
-                                           illustrative=bool(deck.get("video_illustrative"))))
-    hook = min(3.5, duration / len(scenes))
-    scene_duration = (duration - hook) / (len(scenes) - 1)
-    bounds = [0.0, hook] + [hook + scene_duration * n for n in range(1, len(scenes))]
-    cmd = ["ffmpeg", "-y", "-filter_complex_threads", "2", "-i", str(source_video.resolve())]
+    overlays = asyncio.run(_render_overlays(
+        scenes, video_dir, deck.get("source_names") or [], fonts_dir, illustrative=illustrative,
+    ))
+
+    cmd = ["ffmpeg", "-y", "-filter_complex_threads", "2"]
+    # Seslendirme kaynak videodan uzunsa videoyu pürüzsüz döngüle
+    if duration > src_duration + 0.1:
+        cmd += ["-stream_loop", "-1"]
+    cmd += ["-i", str(source_video.resolve())]
     for overlay in overlays:
         cmd += ["-loop", "1", "-i", str(overlay.resolve())]
-    has_audio = bool(info.get("has_audio"))
-    music = Path(music_info["path"]) if music_info and music_info.get("path") else None
-    if music and music.exists() and not has_audio:
+
+    next_input_idx = len(overlays) + 1
+    vo_idx: int | None = None
+    music_idx: int | None = None
+    if use_voiceover and vo_path is not None:
+        cmd += ["-i", str(vo_path.resolve())]
+        vo_idx = next_input_idx
+        next_input_idx += 1
+    if music is not None:
         cmd += ["-stream_loop", "-1", "-i", str(music.resolve())]
+        music_idx = next_input_idx
+        next_input_idx += 1
+
+    src_w, src_h = int(info.get("width") or 0), int(info.get("height") or 0)
+    if src_h > src_w > 0:
+        # Dikey (portrait) HD kaynak: tam ekran 1080x1920 keskin görüntü
+        filters = [
+            "[0:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920[base]",
+        ]
     else:
-        music = None
-    filters = [
-        "[0:v]split=2[bgsrc][fgsrc]",
-        "[bgsrc]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=20:2,eq=brightness=-0.4[bg]",
-        # A bounded centre crop makes landscape footage 22% larger without
-        # stretching it. Portrait footage gains height in the taller frame.
-        "[fgsrc]scale=1320:1180:force_original_aspect_ratio=decrease,crop=w='min(iw,1080)':h=ih[fg]",
-        "[bg][fg]overlay=x=(W-w)/2:y=150+(1180-h)/2[base]",
-    ]
+        # Yatay (landscape) HD kaynak: bulanık arka plan + büyük keskin orta çerçeve
+        filters = [
+            "[0:v]split=2[bgsrc][fgsrc]",
+            "[bgsrc]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=20:2,eq=brightness=-0.4[bg]",
+            "[fgsrc]scale=1320:1180:force_original_aspect_ratio=decrease,crop=w='min(iw,1080)':h=ih[fg]",
+            "[bg][fg]overlay=x=(W-w)/2:y=150+(1180-h)/2[base]",
+        ]
+
     current = "base"
     for i in range(len(overlays)):
         output = f"scene{i}"
         filters.append(f"[{current}][{i+1}:v]overlay=0:0:enable='gte(t,{bounds[i]:.3f})*lt(t,{bounds[i+1]:.3f})'[{output}]")
         current = output
-    audio_index = 0 if has_audio else len(overlays) + 1
-    if has_audio or music:
-        filters.append(f"[{audio_index}:a]loudnorm=I=-16:TP=-1.5:LRA=11,afade=t=out:st={max(0,duration-1):.2f}:d=1[aout]")
+
+    fade_start = max(0.0, duration - 1.0)
+    has_final_audio = False
+    if has_orig_audio:
+        filters.append(f"[0:a]loudnorm=I=-16:TP=-1.5:LRA=11,afade=t=out:st={fade_start:.2f}:d=1[aout]")
+        has_final_audio = True
+    elif vo_idx is not None and music_idx is not None:
+        # Türkçe Neural seslendirme önde + sessiz girişi kesilmiş çok kısık fon müziği arkada
+        filters.append(f"[{vo_idx}:a]loudnorm=I=-15:TP=-1.5:LRA=9[vo]")
+        filters.append(
+            f"[{music_idx}:a]silenceremove=start_periods=1:start_threshold=-40dB:start_silence=0.1,"
+            f"volume=0.12,afade=t=in:st=0:d=0.6,afade=t=out:st={fade_start:.2f}:d=1[bgm]"
+        )
+        filters.append("[vo][bgm]amix=inputs=2:duration=first:dropout_transition=1:normalize=0[aout]")
+        has_final_audio = True
+    elif vo_idx is not None:
+        filters.append(f"[{vo_idx}:a]loudnorm=I=-15:TP=-1.5:LRA=9[aout]")
+        has_final_audio = True
+    elif music_idx is not None:
+        filters.append(
+            f"[{music_idx}:a]silenceremove=start_periods=1:start_threshold=-40dB:start_silence=0.1,"
+            f"loudnorm=I=-16:TP=-1.5:LRA=11,afade=t=in:st=0:d=0.6,afade=t=out:st={fade_start:.2f}:d=1[aout]"
+        )
+        has_final_audio = True
+
     out = video_dir / "reel.mp4"
     cmd += ["-filter_complex", ";".join(filters), "-map", f"[{current}]", "-t", f"{duration:.3f}",
             "-r", "30", "-c:v", "libx264", "-threads", "2", "-preset", "fast", "-crf", "21", "-pix_fmt", "yuv420p"]
-    if has_audio or music:
+    if has_final_audio:
         cmd += ["-map", "[aout]", "-c:a", "aac", "-ar", "48000", "-b:a", "160k"]
     cmd += ["-movflags", "+faststart", str(out.resolve())]
     proc = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
@@ -175,6 +244,11 @@ def render_reel_video(deck: dict[str, Any], source_video: Path, post_dir: Path, 
     (video_dir / "storyboard.json").write_text(json.dumps({
         "duration": duration, "scenes": [asdict(s) for s in scenes],
         "bounds": bounds, "probe": rendered,
+        "voiceover": bool(vo_idx is not None), "music": bool(music_idx is not None),
     }, ensure_ascii=False, indent=2), encoding="utf-8")
     source_video.unlink(missing_ok=True)
+    if vo_path is not None:
+        vo_path.unlink(missing_ok=True)
+    if music is not None:
+        music.unlink(missing_ok=True)
     return out

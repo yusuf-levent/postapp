@@ -44,7 +44,15 @@ ALLOWED_LICENSE_TOKENS = (
 BANNED_LICENSE_TOKENS = ("noncommercial", "non-commercial", "/nc/", "-nc", "-nd", "by-nc", "noderiv")
 
 MAX_MUSIC_BYTES = 30 * 1024 * 1024  # 30 MB üst sınır
+MIN_MUSIC_SECONDS = 25   # Çok kısa jingle/ses efektlerini ele
 MAX_MUSIC_SECONDS = 300  # 5 dakika üst sınır (güvenlik)
+
+# Alakasız oyun/podcast/konuşma kayıtlarını elemek için kara liste
+BANNED_AUDIO_TERMS = (
+    "pokemon", "pkmn", "podcast", "speech", "talk", "radio", "sermon",
+    "interview", "lecture", "audiobook", "soundtrack", "ost", "karaoke",
+    "remix", "vocal", "singing", "live", "concert", "episode",
+)
 
 
 def music_query_tags(llm, title: str, entities: list[str]) -> list[str]:
@@ -83,10 +91,11 @@ def _license_ok(license_url: str) -> bool:
 
 def _search_archive(query: str, *, rows: int = 12) -> list[dict]:
     """Internet Archive'da enstrümantal MP3 müzik arar."""
-    # format:(MP3) + mediatype:(audio) + enstrümantal ipuçları
+    # format:(MP3) + mediatype:(audio) + enstrümantal ipuçları (podcast/oyun/vokal hariç)
     q = (
         f'mediatype:(audio) AND format:(MP3) AND '
-        f'({query}) NOT subject:(vocals)'
+        f'({query}) NOT subject:(vocals) NOT subject:(podcast) '
+        f'NOT subject:(speech) NOT subject:(audiobook) NOT subject:(soundtrack)'
     )
     url = (
         f"{ARCHIVE_SEARCH}?q={quote(q)}"
@@ -178,6 +187,9 @@ def find_music(
             if not ident or ident in seen:
                 continue
             seen.add(ident)
+            meta_haystack = f"{ident} {doc.get('title') or ''} {doc.get('creator') or ''}".lower()
+            if any(term in meta_haystack for term in BANNED_AUDIO_TERMS):
+                continue
             lic_url = str(doc.get("licenseurl") or "")
             if not _license_ok(lic_url):
                 continue
@@ -185,7 +197,7 @@ def find_music(
             if not mp3:
                 continue
             filename, seconds = mp3
-            if seconds and seconds > MAX_MUSIC_SECONDS:
+            if seconds and (seconds < MIN_MUSIC_SECONDS or seconds > MAX_MUSIC_SECONDS):
                 continue
             url = ARCHIVE_DOWNLOAD.format(identifier=ident, filename=filename)
             if _download(url, dest):
