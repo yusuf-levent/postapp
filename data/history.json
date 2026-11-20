@@ -7099,5 +7099,94 @@
     "topic": "science",
     "primary_entity": "University of Sydney",
     "event_key": "biomedical_liver_ex_vivo_record"
+  },
+  {
+    "id": "2026-11-20-2100",
+    "date": "2026-11-20",
+    "slot": "21:00",
+    "type": "news",
+    "title_tr": "GitHub'da Açık Kaynak Katkıları Rekor Kırdı",
+    "original_title": "The best things in open source are built together",
+    "source_urls": [
+      "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/"
+    ],
+    "canonical_url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together",
+    "entities": [
+      "GitHub",
+      "Replica",
+      "Open Source Accessibility Framework",
+      "John Maeda",
+      "Qianqian Ye",
+      "Processing Foundation"
+    ],
+    "event_type": "product_launch",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "tiktok",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "x",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "threads",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "linkedin",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "facebook",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      }
+    ],
+    "created_at": "2026-11-20T22:00:00+03:00",
+    "verified_claims_count": 8,
+    "topic": "software",
+    "primary_entity": "GitHub",
+    "event_key": "github_replica_accessibility_framework"
   }
 ]

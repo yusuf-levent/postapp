@@ -1,0 +1,259 @@
+{
+  "title": "The best things in open source are built together",
+  "canonical_url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+  "source_names": [
+    "GitHub Blog"
+  ],
+  "checked_at": "2026-11-20T21:57:44+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "2026 yilinda GitHub'daki kamu katkilari 2,5 milyara ulasarak gecen yilki 1,12 milyarlik toplamin iki katindan fazla artis gostermistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "quote": "In 2026, public contributions on GitHub soared to 2.5 billion, more than double last year’s total of 1.12 billion."
+        }
+      ]
+    },
+    {
+      "claim": "GitHub tasarim ekibi, yapay zeka caginda tasarimcilarin rolunu ele alan ve pekistirmeli ogrenmeye odaklanan Replica adli acik kaynakli tasarim aracini tanitmistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "quote": "A few weeks ago, GitHub’s design team introduced Replica, which considers the role of designers in the era of AI and focuses on reinforcement learning."
+        }
+      ]
+    },
+    {
+      "claim": "2025 yilinda en hizli buyuyen acik kaynakli projelerin yuzde 60'i yapay zeka odakli olmustur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "quote": "In 2025, 60% of the top growing open source projects were AI focused."
+        }
+      ]
+    },
+    {
+      "claim": "Gecen yil gelistiriciler GitHub'a 17,9 milyar kez kod degisikligi gonderirken, tum repo turlerindeki commit sayisi 34,3 milyara cikmistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "quote": "Developers pushed code changes to GitHub 17.9 billion times in the last year, more than 2024 and 2025 combined. Commits across all repo types (public and private) climbed even faster to 34.3 billion, more than three times where they stood two years ago."
+        }
+      ]
+    },
+    {
+      "claim": "Ayni donemde birlestirilen cekme istekleri uc katindan fazla artarak gunde ortalama 3,5 milyon olmak uzere 1,3 milyara ulasmistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "quote": "Merged pull requests more than tripled to 1.3 billion over the same period, an average of 3.5 million a day."
+        }
+      ]
+    },
+    {
+      "claim": "Engellilik ve erisilebilirlik topluluklarindan dis katilimcilarla ortaklasa olusturulan Acik Kaynak Erisilebilirlik Cercevesi gecen ay baslatilmistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "quote": "The Open Source Accessibility Framework, created in collaboration with external contributors from the disability and accessibility communities, launched last month."
+        }
+      ]
+    },
+    {
+      "claim": "GitHub repo overview sayfalarinda gorunur olan yeni ACCESSIBILITY.md dosyasi, bir projenin erisilebilirlik hedeflerini ve bilinen sinirlamalarini aciklamasi icin kalici bir yer sunmaktadir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "quote": "A core component of this is the new ACCESSIBILITY.md file, a file now visible on repository overview pages, giving a project one durable place to explain its accessibility goals, contributor expectations, supported environments, known limitations, and process for reporting barriers."
+        }
+      ]
+    },
+    {
+      "claim": "GitHub'in firstcontributions/first-contributions reposu, 2026 yilinda katkida bulunanlara gore en hizli buyuyen topluluk projeleri arasinda dorduncu sirada yer almistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "quote": "The GitHub repo firstcontributions/first-contributions ranked fourth among the fastest-growing community projects in 2026 by contributors, helping developers take their first steps into open source."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "2026 yilinda GitHub'daki kamu katkilari 2,5 milyara ulasarak gecen yilki 1,12 milyarlik toplamin iki katindan fazla artis gostermistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "quote": "In 2026, public contributions on GitHub soared to 2.5 billion, more than double last year’s total of 1.12 billion."
+        }
+      ]
+    },
+    {
+      "claim": "GitHub tasarim ekibi, yapay zeka caginda tasarimcilarin rolunu ele alan ve pekistirmeli ogrenmeye odaklanan Replica adli acik kaynakli tasarim aracini tanitmistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "quote": "A few weeks ago, GitHub’s design team introduced Replica, which considers the role of designers in the era of AI and focuses on reinforcement learning."
+        }
+      ]
+    },
+    {
+      "claim": "2025 yilinda en hizli buyuyen acik kaynakli projelerin yuzde 60'i yapay zeka odakli olmustur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "quote": "In 2025, 60% of the top growing open source projects were AI focused."
+        }
+      ]
+    },
+    {
+      "claim": "Gecen yil gelistiriciler GitHub'a 17,9 milyar kez kod degisikligi gonderirken, tum repo turlerindeki commit sayisi 34,3 milyara cikmistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "quote": "Developers pushed code changes to GitHub 17.9 billion times in the last year, more than 2024 and 2025 combined. Commits across all repo types (public and private) climbed even faster to 34.3 billion, more than three times where they stood two years ago."
+        }
+      ]
+    },
+    {
+      "claim": "Ayni donemde birlestirilen cekme istekleri uc katindan fazla artarak gunde ortalama 3,5 milyon olmak uzere 1,3 milyara ulasmistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "quote": "Merged pull requests more than tripled to 1.3 billion over the same period, an average of 3.5 million a day."
+        }
+      ]
+    },
+    {
+      "claim": "Engellilik ve erisilebilirlik topluluklarindan dis katilimcilarla ortaklasa olusturulan Acik Kaynak Erisilebilirlik Cercevesi gecen ay baslatilmistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "quote": "The Open Source Accessibility Framework, created in collaboration with external contributors from the disability and accessibility communities, launched last month."
+        }
+      ]
+    },
+    {
+      "claim": "GitHub repo overview sayfalarinda gorunur olan yeni ACCESSIBILITY.md dosyasi, bir projenin erisilebilirlik hedeflerini ve bilinen sinirlamalarini aciklamasi icin kalici bir yer sunmaktadir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "quote": "A core component of this is the new ACCESSIBILITY.md file, a file now visible on repository overview pages, giving a project one durable place to explain its accessibility goals, contributor expectations, supported environments, known limitations, and process for reporting barriers."
+        }
+      ]
+    },
+    {
+      "claim": "GitHub'in firstcontributions/first-contributions reposu, 2026 yilinda katkida bulunanlara gore en hizli buyuyen topluluk projeleri arasinda dorduncu sirada yer almistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "quote": "The GitHub repo firstcontributions/first-contributions ranked fourth among the fastest-growing community projects in 2026 by contributors, helping developers take their first steps into open source."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "2026 yilinda GitHub'daki kamu katkilari 2,5 milyara ulasarak gecen yilki 1,12 milyarlik toplamin iki katindan fazla artis gostermistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "quote": "In 2026, public contributions on GitHub soared to 2.5 billion, more than double last year’s total of 1.12 billion."
+        }
+      ]
+    },
+    {
+      "claim": "GitHub tasarim ekibi, yapay zeka caginda tasarimcilarin rolunu ele alan ve pekistirmeli ogrenmeye odaklanan Replica adli acik kaynakli tasarim aracini tanitmistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "quote": "A few weeks ago, GitHub’s design team introduced Replica, which considers the role of designers in the era of AI and focuses on reinforcement learning."
+        }
+      ]
+    },
+    {
+      "claim": "2025 yilinda en hizli buyuyen acik kaynakli projelerin yuzde 60'i yapay zeka odakli olmustur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "quote": "In 2025, 60% of the top growing open source projects were AI focused."
+        }
+      ]
+    },
+    {
+      "claim": "Gecen yil gelistiriciler GitHub'a 17,9 milyar kez kod degisikligi gonderirken, tum repo turlerindeki commit sayisi 34,3 milyara cikmistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "quote": "Developers pushed code changes to GitHub 17.9 billion times in the last year, more than 2024 and 2025 combined. Commits across all repo types (public and private) climbed even faster to 34.3 billion, more than three times where they stood two years ago."
+        }
+      ]
+    },
+    {
+      "claim": "Ayni donemde birlestirilen cekme istekleri uc katindan fazla artarak gunde ortalama 3,5 milyon olmak uzere 1,3 milyara ulasmistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "quote": "Merged pull requests more than tripled to 1.3 billion over the same period, an average of 3.5 million a day."
+        }
+      ]
+    },
+    {
+      "claim": "Engellilik ve erisilebilirlik topluluklarindan dis katilimcilarla ortaklasa olusturulan Acik Kaynak Erisilebilirlik Cercevesi gecen ay baslatilmistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "quote": "The Open Source Accessibility Framework, created in collaboration with external contributors from the disability and accessibility communities, launched last month."
+        }
+      ]
+    },
+    {
+      "claim": "GitHub repo overview sayfalarinda gorunur olan yeni ACCESSIBILITY.md dosyasi, bir projenin erisilebilirlik hedeflerini ve bilinen sinirlamalarini aciklamasi icin kalici bir yer sunmaktadir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "quote": "A core component of this is the new ACCESSIBILITY.md file, a file now visible on repository overview pages, giving a project one durable place to explain its accessibility goals, contributor expectations, supported environments, known limitations, and process for reporting barriers."
+        }
+      ]
+    },
+    {
+      "claim": "GitHub'in firstcontributions/first-contributions reposu, 2026 yilinda katkida bulunanlara gore en hizli buyuyen topluluk projeleri arasinda dorduncu sirada yer almistir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "quote": "The GitHub repo firstcontributions/first-contributions ranked fourth among the fastest-growing community projects in 2026 by contributors, helping developers take their first steps into open source."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/": 6193
+  }
+}

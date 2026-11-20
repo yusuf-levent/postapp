@@ -1,0 +1,37 @@
+{
+  "pipeline_version": 2,
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 165.3,
+  "candidates_tried": 2,
+  "gemini_calls": 21,
+  "model_usage": {
+    "gemini-3.5-flash-lite": 9,
+    "gemini-3.1-flash-lite": 11
+  },
+  "canonical_url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+  "entities": [
+    "GitHub",
+    "Replica",
+    "Open Source Accessibility Framework",
+    "John Maeda",
+    "Qianqian Ye",
+    "Processing Foundation"
+  ],
+  "event_type": "product_launch",
+  "topic": "software",
+  "primary_entity": "GitHub",
+  "event_key": "github_replica_accessibility_framework",
+  "editorial": {
+    "index": 1,
+    "publishable": true,
+    "importance": 6,
+    "education_value": 7,
+    "topic": "software",
+    "primary_entity": "GitHub",
+    "event_key": "github_replica_accessibility_framework",
+    "reason": "Açık kaynaklı işbirliği ve erişilebilirlik çerçevesi geliştiriciler için faydalı."
+  },
+  "generated_at": "2026-11-20T22:00:00+03:00"
+}
