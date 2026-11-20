@@ -6907,11 +6907,11 @@
       {
         "platform": "linkedin",
         "state": "submitted",
-        "external_id": "",
+        "external_id": "6b003b78fc5b97f0f8040021",
         "permalink": "",
         "attempts": 1,
-        "last_error": "",
-        "remote_status": "",
+        "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
+        "remote_status": "sending",
         "retry_at": 0
       },
       {
