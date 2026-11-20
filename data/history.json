@@ -6844,5 +6844,91 @@
     "topic": "ai",
     "primary_entity": "Meta",
     "event_key": "meta_muse_ai_privacy_glitches"
+  },
+  {
+    "id": "2026-11-20-1500",
+    "date": "2026-11-20",
+    "slot": "15:00",
+    "type": "news",
+    "title_tr": "NVIDIA üçüncü çeyrekte 115,8 milyar dolar gelir açıkladı",
+    "original_title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+    "source_urls": [
+      "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+    ],
+    "canonical_url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+    "entities": [
+      "NVIDIA",
+      "Colette Kress",
+      "Vera Rubin NVL72"
+    ],
+    "event_type": "financial_results",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "tiktok",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "x",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "threads",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "linkedin",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "facebook",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      }
+    ],
+    "created_at": "2026-11-20T15:20:32+03:00",
+    "verified_claims_count": 7,
+    "topic": "chips",
+    "primary_entity": "NVIDIA",
+    "event_key": "nvidia_q3_financial_results_vera_rubin"
   }
 ]

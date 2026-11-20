@@ -1,0 +1,44 @@
+{
+  "duration": 22.0,
+  "scenes": [
+    {
+      "label": "NE OLDU?",
+      "heading": "NVIDIA üçüncü çeyrekte 115,8 milyar dolar gelir açıkladı",
+      "body": "25 Ekim 2026'da sona eren üçüncü çeyrek sonuçları açıklandı."
+    },
+    {
+      "label": "BİLMEN GEREKEN",
+      "heading": "Toplam Gelir Artışı",
+      "body": "NVIDIA, 25 Ekim 2026'da sona eren üçüncü çeyrekte 115,8 milyar dolar gelir elde ettiğini duyurdu."
+    },
+    {
+      "label": "DETAY",
+      "heading": "Kâr Marjı ve Kazanç",
+      "body": "GAAP brüt kâr marjı %74,8, hisse başına kazanç ise 2,70 dolar oldu."
+    },
+    {
+      "label": "NEDEN ÖNEMLİ?",
+      "heading": "Hisse Geri Alımı ve Temettü",
+      "body": "Yönetim kurulu hisse geri alım yetkisini süresiz olarak 150 milyar dolar artırdı; hisse başına 0,25 dolar temettü ödenecek."
+    }
+  ],
+  "bounds": [
+    0.0,
+    3.5,
+    9.666666666666668,
+    15.833333333333334,
+    22.0
+  ],
+  "probe": {
+    "duration": 22.0,
+    "width": 1080,
+    "height": 1920,
+    "has_audio": true,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "fps": 30.0,
+    "bit_rate": 1716643
+  },
+  "music": true,
+  "orig_audio": false
+}

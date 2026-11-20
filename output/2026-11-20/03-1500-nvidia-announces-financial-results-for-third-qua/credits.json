@@ -1,0 +1,34 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://iprsoftwaremedia.com/219/files/20224/628c2a47b3aed32797213f6c_voyager-exterior-sign-2/voyager-exterior-sign-2_1829ac3c-85ac-4929-8c67-5994c15c70c9-prv.jpg?v=1829ac3c-85ac-4929-8c67-5994c15c70c9",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-20/03-1500-nvidia-announces-financial-results-for-third-qua/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+      "width": 1920,
+      "height": 1280,
+      "alt_text": ""
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir.",
+  "video": [
+    {
+      "source": "pexels",
+      "url": "https://videos.pexels.com/video-files/5028622/5028622-hd_1920_1080_25fps.mp4",
+      "license": "Pexels License",
+      "author": "ALL IZ Well",
+      "credit_url": "https://www.pexels.com/video/database-storage-of-a-server-5028622/"
+    }
+  ],
+  "music": [
+    {
+      "title": "Latin Industries",
+      "artist": "Kevin MacLeod (incompetech.com)",
+      "license": "CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Latin%20Industries.mp3"
+    }
+  ]
+}

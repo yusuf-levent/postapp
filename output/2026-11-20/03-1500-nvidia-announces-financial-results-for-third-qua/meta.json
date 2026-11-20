@@ -1,0 +1,33 @@
+{
+  "pipeline_version": 2,
+  "slot": "15:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 168.7,
+  "candidates_tried": 1,
+  "gemini_calls": 20,
+  "model_usage": {
+    "gemini-3.5-flash-lite": 20
+  },
+  "canonical_url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+  "entities": [
+    "NVIDIA",
+    "Colette Kress",
+    "Vera Rubin NVL72"
+  ],
+  "event_type": "financial_results",
+  "topic": "chips",
+  "primary_entity": "NVIDIA",
+  "event_key": "nvidia_q3_financial_results_vera_rubin",
+  "editorial": {
+    "index": 10,
+    "publishable": true,
+    "importance": 8,
+    "education_value": 0,
+    "topic": "chips",
+    "primary_entity": "NVIDIA",
+    "event_key": "nvidia_q3_financial_results_vera_rubin",
+    "reason": "Nvidia finansal sonuçları ve yeni Vera Rubin NVL72 bilişim platformu sektörel açıdan büyük önem taşıyor."
+  },
+  "generated_at": "2026-11-20T15:20:32+03:00"
+}
