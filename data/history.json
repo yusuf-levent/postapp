@@ -6754,5 +6754,95 @@
     "topic": "ai",
     "primary_entity": "Google",
     "event_key": "google_gemini_mac_agent"
+  },
+  {
+    "id": "2026-11-20-1200",
+    "date": "2026-11-20",
+    "slot": "12:00",
+    "type": "news",
+    "title_tr": "Meta'nın Yapay Zeka Ajanı Muse Verileri Karıştırıyor",
+    "original_title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
+    ],
+    "canonical_url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
+    "entities": [
+      "Meta",
+      "Muse",
+      "Reuters",
+      "Capital One",
+      "Charles Schwab",
+      "Signal",
+      "TechCrunch"
+    ],
+    "event_type": "privacy_leak",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "tiktok",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "x",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "threads",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "linkedin",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "facebook",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      }
+    ],
+    "created_at": "2026-11-20T12:04:59+03:00",
+    "verified_claims_count": 6,
+    "topic": "ai",
+    "primary_entity": "Meta",
+    "event_key": "meta_muse_ai_privacy_glitches"
   }
 ]
