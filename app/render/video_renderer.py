@@ -17,7 +17,7 @@ from app.media.video_probe import probe_video
 
 log = logging.getLogger("tekno-pusula.video_renderer")
 MIN_REEL_DURATION = 8.0
-MAX_REEL_DURATION = 45.0
+MAX_REEL_DURATION = 22.0
 
 
 @dataclass
@@ -119,7 +119,6 @@ def render_reel_video(
     *,
     fonts_dir: Path | None = None,
     music_info: dict[str, Any] | None = None,
-    voiceover_info: dict[str, Any] | None = None,
 ) -> Path | None:
     if not source_video or not source_video.exists() or not shutil.which("ffmpeg"):
         return None
@@ -136,25 +135,15 @@ def render_reel_video(
     illustrative = bool(deck.get("video_illustrative"))
     has_orig_audio = bool(info.get("has_audio")) and not illustrative
 
-    vo_path = Path(voiceover_info["path"]) if voiceover_info and voiceover_info.get("path") else None
-    use_voiceover = bool(vo_path and vo_path.exists())
     music = Path(music_info["path"]) if music_info and music_info.get("path") else None
-    # Seslendirme veya orijinal ses varsa rastgele harici fon müziği ekleme
-    if not (music and music.exists()) or has_orig_audio or use_voiceover:
+    if not (music and music.exists()) or has_orig_audio:
         music = None
 
-    if use_voiceover and voiceover_info and len(voiceover_info.get("bounds") or []) == len(scenes) + 1:
-        bounds = [float(b) for b in voiceover_info["bounds"]]
-        duration = min(MAX_REEL_DURATION, max(MIN_REEL_DURATION, bounds[-1]))
-        if bounds[-1] > duration:
-            scale_factor = duration / bounds[-1]
-            bounds = [round(b * scale_factor, 3) for b in bounds]
-        bounds[-1] = duration
-    else:
-        duration = min(MAX_REEL_DURATION, src_duration)
-        hook = min(3.5, duration / len(scenes))
-        scene_duration = (duration - hook) / (len(scenes) - 1)
-        bounds = [0.0, hook] + [hook + scene_duration * n for n in range(1, len(scenes))]
+    # Reels/TikTok için ideal 14-22 saniyelik dinamik tempo
+    duration = min(MAX_REEL_DURATION, src_duration)
+    hook = min(3.5, duration / len(scenes))
+    scene_duration = (duration - hook) / (len(scenes) - 1)
+    bounds = [0.0, hook] + [hook + scene_duration * n for n in range(1, len(scenes))]
 
     video_dir = post_dir / "video"
     video_dir.mkdir(parents=True, exist_ok=True)
@@ -162,25 +151,22 @@ def render_reel_video(
         scenes, video_dir, deck.get("source_names") or [], fonts_dir, illustrative=illustrative,
     ))
 
-    cmd = ["ffmpeg", "-y", "-filter_complex_threads", "2"]
-    # Seslendirme kaynak videodan uzunsa videoyu pürüzsüz döngüle
-    if duration > src_duration + 0.1:
-        cmd += ["-stream_loop", "-1"]
-    cmd += ["-i", str(source_video.resolve())]
+    cmd = ["ffmpeg", "-y", "-filter_complex_threads", "2", "-i", str(source_video.resolve())]
     for overlay in overlays:
         cmd += ["-loop", "1", "-i", str(overlay.resolve())]
 
-    next_input_idx = len(overlays) + 1
-    vo_idx: int | None = None
     music_idx: int | None = None
-    if use_voiceover and vo_path is not None:
-        cmd += ["-i", str(vo_path.resolve())]
-        vo_idx = next_input_idx
-        next_input_idx += 1
     if music is not None:
-        cmd += ["-stream_loop", "-1", "-i", str(music.resolve())]
-        music_idx = next_input_idx
-        next_input_idx += 1
+        # Şarkı uzunsa yavaş intro yerine ritmin oturduğu 10. saniyeden başla
+        music_dur = float((music_info or {}).get("duration") or 0)
+        if not music_dur:
+            music_dur = float(probe_video(music).get("duration") or 0)
+        start_offset = 10.0 if music_dur > duration + 15.0 else 0.0
+        cmd += ["-stream_loop", "-1"]
+        if start_offset > 0:
+            cmd += ["-ss", f"{start_offset:.1f}"]
+        cmd += ["-i", str(music.resolve())]
+        music_idx = len(overlays) + 1
 
     src_w, src_h = int(info.get("width") or 0), int(info.get("height") or 0)
     if src_h > src_w > 0:
@@ -203,25 +189,15 @@ def render_reel_video(
         filters.append(f"[{current}][{i+1}:v]overlay=0:0:enable='gte(t,{bounds[i]:.3f})*lt(t,{bounds[i+1]:.3f})'[{output}]")
         current = output
 
-    fade_start = max(0.0, duration - 1.0)
+    fade_start = max(0.0, duration - 1.2)
     has_final_audio = False
-    if vo_idx is not None and has_orig_audio:
-        # Resmi videonun kendi sesini kısarak (ducking) üstüne net Türkçe anlatım koy
-        filters.append(f"[{vo_idx}:a]loudnorm=I=-15:TP=-1.5:LRA=9[vo]")
-        filters.append(f"[0:a]volume=0.14,afade=t=out:st={fade_start:.2f}:d=1[origbg]")
-        filters.append("[vo][origbg]amix=inputs=2:duration=first:dropout_transition=1:normalize=0[aout]")
-        has_final_audio = True
-    elif vo_idx is not None:
-        # Temiz, net Türkçe spiker seslendirmesi (1981 piyano yok)
-        filters.append(f"[{vo_idx}:a]loudnorm=I=-15:TP=-1.5:LRA=9[aout]")
-        has_final_audio = True
-    elif has_orig_audio:
-        filters.append(f"[0:a]loudnorm=I=-16:TP=-1.5:LRA=11,afade=t=out:st={fade_start:.2f}:d=1[aout]")
+    if has_orig_audio:
+        filters.append(f"[0:a]loudnorm=I=-15:TP=-1.5:LRA=11,afade=t=out:st={fade_start:.2f}:d=1.2[aout]")
         has_final_audio = True
     elif music_idx is not None:
         filters.append(
             f"[{music_idx}:a]silenceremove=start_periods=1:start_threshold=-40dB:start_silence=0.1,"
-            f"loudnorm=I=-16:TP=-1.5:LRA=11,afade=t=in:st=0:d=0.6,afade=t=out:st={fade_start:.2f}:d=1[aout]"
+            f"loudnorm=I=-15:TP=-1.5:LRA=10,afade=t=in:st=0:d=0.5,afade=t=out:st={fade_start:.2f}:d=1.2[aout]"
         )
         has_final_audio = True
 
@@ -242,14 +218,11 @@ def render_reel_video(
         return None
     (video_dir / "storyboard.json").write_text(json.dumps({
         "duration": duration, "scenes": [asdict(s) for s in scenes],
-        "narration": (voiceover_info or {}).get("lines", []),
         "bounds": bounds, "probe": rendered,
-        "voiceover": bool(vo_idx is not None), "music": bool(music_idx is not None),
+        "music": bool(music_idx is not None),
         "orig_audio": bool(has_orig_audio),
     }, ensure_ascii=False, indent=2), encoding="utf-8")
     source_video.unlink(missing_ok=True)
-    if vo_path is not None:
-        vo_path.unlink(missing_ok=True)
     if music is not None:
         music.unlink(missing_ok=True)
     return out

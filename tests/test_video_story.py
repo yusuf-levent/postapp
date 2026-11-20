@@ -164,35 +164,64 @@ def test_find_article_videos_captures_custom_attr_and_filters_ads(monkeypatch):
     assert urls == ["https://storage.googleapis.com/blog/genie-4-demo.mp4"]
 
 
-def test_voiceover_script_skips_card_headings_on_middle_scenes_and_guards_numbers():
+def test_incompetech_music_filters_modern_tracks_and_skips_used(tmp_path, monkeypatch):
     from unittest.mock import Mock
-    from app.media.voiceover import ReelNarration, build_narration_lines, clean_speech_text, scene_script
+    from app.media import music
 
-    assert clean_speech_text("Yeni çip 🚀 %40 hızlı https://ex.com #AI") == "Yeni çip %40 hızlı"
-    assert scene_script(ReelScene("NE OLDU?", "Nvidia H200 kararı", "Satışlar durduruldu"), index=0) == "Nvidia H200 kararı. Satışlar durduruldu."
-    # 2. sahnede "Erişime Açıldı." kart başlığını robot gibi okumamalı
-    assert scene_script(ReelScene("BİLMEN GEREKEN", "Erişime Açıldı", "Genie 4 artık API üzerinden açık"), index=1) == "Genie 4 artık API üzerinden açık."
-
-    scenes = [
-        ReelScene("NE OLDU?", "Google Genie 4 Açıldı", "720p etkileşimli dünyalar geliyor."),
-        ReelScene("BİLMEN GEREKEN", "Erişime Açıldı", "Gemini API üzerinden kullanılabiliyor."),
+    catalog = [
+        {
+            "title": "Medieval Polka", "filename": "Medieval Polka.mp3",
+            "genre": "22", "feel": "Humorous, Medieval", "instruments": "Accordion, Tuba",
+            "bpm": "120", "length": "00:02:00",
+        },
+        {
+            "title": "Already Used Synth", "filename": "Already Used Synth.mp3",
+            "genre": "7", "feel": "Grooving, Driving", "instruments": "Synths, Drums, Bass",
+            "bpm": "120", "length": "00:03:00",
+        },
+        {
+            "title": "Brain Dance", "filename": "Brain Dance.mp3",
+            "genre": "7", "feel": "Grooving, Driving", "instruments": "Synths, Percussion, Bass",
+            "bpm": "124", "length": "00:03:35",
+        },
     ]
-    llm = Mock()
-    llm.generate_structured.return_value = ReelNarration(lines=[
-        "Google, Genie 4 ile 720p dünyaları geliştiricilere açtı.",
-        "Model şu an doğrudan Gemini API üzerinden denenebiliyor.",
-    ])
-    lines = build_narration_lines(scenes, llm=llm, verified_claims=["720p çözünürlük", "Gemini API"])
-    assert lines[0].startswith("Google, Genie 4")
+    cat_resp = Mock(status_code=200)
+    cat_resp.json.return_value = catalog
+    mp3_resp = Mock(status_code=200, content=b"ID3" + b"x" * 50_000)
 
-    # Uydurma sayı (999) eklerse reddedilip güvenli fallback'e düşmeli
-    llm.generate_structured.return_value = ReelNarration(lines=[
-        "Google, Genie 4 ile 999 kat hızlı dünyalar açtı.",
-        "Model şu an Gemini API üzerinden denenebiliyor.",
-    ])
-    safe_lines = build_narration_lines(scenes, llm=llm, verified_claims=["720p çözünürlük", "Gemini API"])
-    assert "999" not in " ".join(safe_lines)
-    assert safe_lines[1] == "Gemini API üzerinden kullanılabiliyor."
+    monkeypatch.setattr(music, "http_get", Mock(side_effect=[cat_resp, mp3_resp]))
+    dest = tmp_path / "music.mp3"
+    result = music._find_incompetech_music("driving", {"already used synth"}, dest)
+    assert result is not None
+    assert result["title"] == "Brain Dance"
+    assert result["source"] == "incompetech"
+    assert dest.exists()
+
+
+def test_openverse_music_skips_sfx_and_noncommercial(tmp_path, monkeypatch):
+    from unittest.mock import Mock
+    from app.media import music
+
+    resp = Mock(status_code=200)
+    resp.json.return_value = {
+        "results": [
+            {"title": "pounding heart beat.wav", "creator": "X", "license": "cc0",
+             "duration": 40000, "url": "https://cdn.example/hb.mp3"},
+            {"title": "NC Synth Track", "creator": "Y", "license": "by-nc",
+             "duration": 40000, "url": "https://cdn.example/nc.mp3"},
+            {"title": "Electro Pop Beat", "creator": "Frankum", "license": "cc0",
+             "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+             "duration": 35000, "url": "https://cdn.example/electro.mp3"},
+        ]
+    }
+    mp3_resp = Mock(status_code=200, content=b"ID3" + b"y" * 50_000)
+    monkeypatch.setattr(music, "http_get", Mock(side_effect=[resp, mp3_resp]))
+    dest = tmp_path / "ov.mp3"
+    result = music._find_openverse_music("energetic", set(), dest)
+    assert result is not None
+    assert result["title"] == "Electro Pop Beat"
+    assert result["source"] == "openverse"
+    assert dest.exists()
 
 
 def test_banned_slug_words_block_irrelevant_and_abstract_stock():

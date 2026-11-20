@@ -332,10 +332,9 @@ def run(
             deck = _slide_deck_to_dict(generate_slides(llm, verified_claims, source_names, feedback=feedback), source_names)
         deck["logo_svg"] = logo_svg
 
-    # 11b) Reels & TikTok için gerçek video topla + Hibrit ses (orijinal ses veya Türkçe seslendirme + fon müziği) + 9:16 video üret
+    # 11b) Reels & TikTok için gerçek video topla + modern telifsiz fon müziği + 9:16 video üret
     reel_path: Path | None = None
     music_info: dict[str, Any] | None = None
-    voiceover_info: dict[str, Any] | None = None
     try:
         if cross_urls:
             source_video = collect_video(llm, selected, entities, post_dir, extra_urls=cross_urls)
@@ -353,17 +352,8 @@ def run(
                 pass
             src_probe = probe_video(source_video)
             has_orig_audio = bool(src_probe.get("has_audio")) and not bool(deck.get("video_illustrative"))
-            from app.media.voiceover import synthesize_storyboard_voiceover
-            from app.render.video_renderer import build_storyboard
-
-            voiceover_info = synthesize_storyboard_voiceover(
-                build_storyboard(deck),
-                post_dir / "video",
-                llm=llm,
-                verified_claims=reference_claims,
-            )
-            # Archive.org fon müziği yalnızca hem orijinal ses hem seslendirme yoksa son çare olarak kullanılır
-            if not has_orig_audio and voiceover_info is None:
+            # Orijinal resmi videonun kendi sesi varsa korunur; yoksa modern fon müziği eklenir
+            if not has_orig_audio:
                 from app.media.music import find_music as _find_music
 
                 dest_music = post_dir / "video" / "music.mp3"
@@ -371,14 +361,14 @@ def run(
                     llm,
                     selected.title if selected else "",
                     entities,
-                    duration=15.0,
+                    duration=20.0,
                     dest=dest_music,
                 )
                 if music_info:
                     _write_music_credit(post_dir, music_info)
             reel_path = render_reel_video(
                 deck, source_video, post_dir,
-                fonts_dir=fonts_dir, music_info=music_info, voiceover_info=voiceover_info,
+                fonts_dir=fonts_dir, music_info=music_info,
             )
     except Exception as exc:
         log.warning("Reels/TikTok video üretim adımı atlandı: %s", exc)
