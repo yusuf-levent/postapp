@@ -7164,12 +7164,12 @@
       },
       {
         "platform": "linkedin",
-        "state": "submitted",
+        "state": "failed",
         "external_id": "6b00992073831df0147d2ce3",
         "permalink": "",
         "attempts": 1,
-        "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
-        "remote_status": "sending",
+        "last_error": "This post is hitting some limits with LinkedIn at the moment. Check back later and try it again.",
+        "remote_status": "error",
         "retry_at": 0
       },
       {
