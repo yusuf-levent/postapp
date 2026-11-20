@@ -1,0 +1,128 @@
+{
+  "cover": {
+    "category_label": "Biyoteknoloji",
+    "title": "Araştırmacılar İnsan Karaciğerini Vücut Dışında 7 Hafta Canlı Tuttu",
+    "highlight_words": [
+      "7 hafta",
+      "canlı tutma"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Nakil teknolojilerinde yeni bir aşama: Normotermik perfüzyon yöntemiyle organ ömrü uzuyor.",
+    "source_tags": [
+      "MIT Technology Review",
+      "Tıp Teknolojisi"
+    ]
+  },
+  "problem": {
+    "heading": "Organ Naklinde Zamanla Yarış",
+    "cards": [
+      {
+        "card_title": "Sınırlı Süre",
+        "card_body": "Organ nakillerinde en büyük engel, organın vücut dışında canlı kalabildiği sürenin kısalığıdır. Bu durum, nakil operasyonlarını lojistik açıdan zorlaştırır."
+      },
+      {
+        "card_title": "Önceki Sınırlar",
+        "card_body": "İsviçre'de yapılan önceki çalışmalarda vücut dışında tutulan bir karaciğer yaklaşık iki hafta canlı kalabilmişti. Bu süre, nakil için kritik bir eşik olarak kabul ediliyordu."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Normotermik Perfüzyon Nedir?",
+      "cards": [
+        {
+          "card_title": "Vücut Isısı Dengesi",
+          "card_body": "Normotermik koşullar, organın vücut ısısı olan yaklaşık 37 santigrat derecede tutulmasını ifade eder. Bu yöntem, organın metabolik fonksiyonlarını sürdürmesine yardımcı olur."
+        },
+        {
+          "card_title": "Yaygın Kullanım",
+          "card_body": "Oklahoma Üniversitesi'nden Dr. Paulo Martins, halihazırda nakledilen böbreklerin yaklaşık yarısının perfüzyon işleminden geçtiğini belirtiyor."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Sidney'deki Gelişme",
+      "cards": [
+        {
+          "card_title": "7 Haftalık Başarı",
+          "card_body": "Avustralyalı araştırmacılar, insan karaciğerini vücut dışında yedi hafta boyunca canlı tutmayı başardıklarını açıkladılar."
+        },
+        {
+          "card_title": "Geniş Kapsamlı Deney",
+          "card_body": "Sidney'deki ekip, İsviçre'deki bir toplantıda toplam 55 insan karaciğerine perfüzyon işlemi uyguladıklarını duyurdu."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Gelecek Planları",
+      "cards": [
+        {
+          "card_title": "Klinik Denemeler",
+          "card_body": "Royal Prince Alfred Hastanesi'nden Prof. Carlo Pulitano, Aeternum Life Technologies girişimiyle dört gün boyunca perfüzyonda tutulan düşük kaliteli karaciğerlerin nakledileceği bir klinik denemeye hazırlanıyor."
+        },
+        {
+          "card_title": "Geçmiş Deneyimler",
+          "card_body": "Apersys CEO'su Waldemar Hoffmann, 2022'de İsviçreli bir ekibin üç gün boyunca perfüzyonda tutulan hasarlı bir karaciğeri başarıyla naklettiğini hatırlatıyor."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Sizce organ nakli teknolojilerindeki bu ilerleme, bekleme listesindeki hastalar için nasıl bir değişim yaratır?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri takip etmek için Tekno Pusula'yı izlemeye devam edin."
+  },
+  "context": {
+    "heading": "Organ Naklinde Zamanla Yarış",
+    "cards": [
+      {
+        "card_title": "Sınırlı Süre",
+        "card_body": "Organ nakillerinde en büyük engel, organın vücut dışında canlı kalabildiği sürenin kısalığıdır. Bu durum, nakil operasyonlarını lojistik açıdan zorlaştırır."
+      },
+      {
+        "card_title": "Önceki Sınırlar",
+        "card_body": "İsviçre'de yapılan önceki çalışmalarda vücut dışında tutulan bir karaciğer yaklaşık iki hafta canlı kalabilmişti. Bu süre, nakil için kritik bir eşik olarak kabul ediliyordu."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Normotermik Perfüzyon Nedir?",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Sidney'deki Gelişme",
+    "cards": [
+      {
+        "card_title": "7 Haftalık Başarı",
+        "card_body": "Avustralyalı araştırmacılar, insan karaciğerini vücut dışında yedi hafta boyunca canlı tutmayı başardıklarını açıkladılar."
+      },
+      {
+        "card_title": "Geniş Kapsamlı Deney",
+        "card_body": "Sidney'deki ekip, İsviçre'deki bir toplantıda toplam 55 insan karaciğerine perfüzyon işlemi uyguladıklarını duyurdu."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Gelecek Planları",
+    "cards": [
+      {
+        "card_title": "Klinik Denemeler",
+        "card_body": "Royal Prince Alfred Hastanesi'nden Prof. Carlo Pulitano, Aeternum Life Technologies girişimiyle dört gün boyunca perfüzyonda tutulan düşük kaliteli karaciğerlerin nakledileceği bir klinik denemeye hazırlanıyor."
+      },
+      {
+        "card_title": "Geçmiş Deneyimler",
+        "card_body": "Apersys CEO'su Waldemar Hoffmann, 2022'de İsviçreli bir ekibin üç gün boyunca perfüzyonda tutulan hasarlı bir karaciğeri başarıyla naklettiğini hatırlatıyor."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": ""
+}

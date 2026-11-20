@@ -1,0 +1,35 @@
+{
+  "pipeline_version": 2,
+  "slot": "20:00",
+  "type": "edu",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 226.7,
+  "candidates_tried": 1,
+  "gemini_calls": 31,
+  "model_usage": {
+    "gemini-3.1-flash-lite": 25,
+    "gemini-3.5-flash-lite": 4
+  },
+  "canonical_url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+  "entities": [
+    "University of Sydney",
+    "Carlo Pulitano",
+    "Royal Prince Alfred Hospital",
+    "Extended Organ Perfusion System"
+  ],
+  "event_type": "research_result",
+  "topic": "science",
+  "primary_entity": "University of Sydney",
+  "event_key": "biomedical_liver_ex_vivo_record",
+  "editorial": {
+    "index": 20,
+    "publishable": true,
+    "importance": 8,
+    "education_value": 9,
+    "topic": "science",
+    "primary_entity": "University of Sydney",
+    "event_key": "biomedical_liver_ex_vivo_record",
+    "reason": "İnsan karaciğerinin vücut dışında 7 hafta canlı tutulması, biyomedikal mühendisliği ve organ nakli teknolojileri için devrim niteliğinde bir bilimsel başarı."
+  },
+  "generated_at": "2026-11-20T20:49:20+03:00"
+}
