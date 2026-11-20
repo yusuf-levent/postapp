@@ -6930,5 +6930,87 @@
     "topic": "chips",
     "primary_entity": "NVIDIA",
     "event_key": "nvidia_q3_financial_results_vera_rubin"
+  },
+  {
+    "id": "2026-11-20-1800",
+    "date": "2026-11-20",
+    "slot": "18:00",
+    "type": "weetis",
+    "title_tr": "Bir yemek tarif uygulamasında premium tarifler kilitli ise…",
+    "original_title": "Bir yemek tarif uygulamasında premium tarifler kilitli ise ücretsiz sürümde kalır mısınız?",
+    "source_urls": [
+      "https://weetis.com/tr/d/460ab405-070a-4255-a4f1-72c9ec47dbcb"
+    ],
+    "canonical_url": "https://weetis.com/tr/d/460ab405-070a-4255-a4f1-72c9ec47dbcb",
+    "entities": [],
+    "event_type": "",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "tiktok",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "x",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "threads",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "linkedin",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "facebook",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      }
+    ],
+    "created_at": "2026-11-20T18:03:14+03:00",
+    "verified_claims_count": 0,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": "460ab405-070a-4255-a4f1-72c9ec47dbcb"
   }
 ]
