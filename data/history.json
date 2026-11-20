@@ -6700,12 +6700,12 @@
       },
       {
         "platform": "tiktok",
-        "state": "submitted",
+        "state": "published",
         "external_id": "6affe2fd4c1afd05def8243a",
-        "permalink": "",
+        "permalink": "https://tiktok.com/@tekno_pusula/video/7710130682315427092",
         "attempts": 1,
-        "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
-        "remote_status": "sending",
+        "last_error": "",
+        "remote_status": "sent",
         "retry_at": 0
       },
       {
