@@ -4,11 +4,11 @@
     "instagram": {
       "platform": "instagram",
       "state": "submitted",
-      "external_id": "",
+      "external_id": "6affe2e3738ce4635f8f03db",
       "permalink": "",
       "attempts": 1,
-      "last_error": "",
-      "remote_status": "",
+      "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
+      "remote_status": "sending",
       "retry_at": 0
     },
     "tiktok": {
