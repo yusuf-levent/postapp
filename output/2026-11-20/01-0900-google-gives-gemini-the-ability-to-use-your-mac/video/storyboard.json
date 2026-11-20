@@ -1,0 +1,51 @@
+{
+  "duration": 26.604,
+  "scenes": [
+    {
+      "label": "NE OLDU?",
+      "heading": "Google, macOS için Gemini'ye bilgisayar kullanımı getirdi",
+      "body": "Google, macOS üzerindeki Gemini masaüstü uygulamasına yeni bir özellik ekledi."
+    },
+    {
+      "label": "BİLMEN GEREKEN",
+      "heading": "Bilgisayar Kullanımı",
+      "body": "Google, Perşembe günü macOS üzerindeki Gemini masaüstü uygulamasına bilgisayar kullanımı özelliği getirdiğini duyurdu."
+    },
+    {
+      "label": "DETAY",
+      "heading": "Abonelik Şartı",
+      "body": "Bu özellik Mac için Gemini uygulamasını ve bir Google AI Plus, Pro veya Ultra aboneliğini gerektirir."
+    },
+    {
+      "label": "NEDEN ÖNEMLİ?",
+      "heading": "Uygulama Navigasyonu",
+      "body": "Yapay zeka, kullanıcılar adına görevleri tamamlayarak yerel Mac uygulamalarında gezinebiliyor."
+    }
+  ],
+  "narration": [
+    "Google, macOS için Gemini masaüstü uygulamasına yeni bir bilgisayar kullanımı özelliği ekledi.",
+    "Perşembe günü duyurulan bu yenilik, yapay zekanın kullanıcılar adına görevleri tamamlamasını sağlıyor.",
+    "Özelliği kullanmak için Mac için Gemini uygulaması ve uygun bir Google AI aboneliği gerekiyor.",
+    "Yapay zekanın Mac uygulamalarında sizin yerinize gezinmesi işlerinizi nasıl hızlandırır sizce?"
+  ],
+  "bounds": [
+    0.0,
+    6.596,
+    13.576,
+    20.172,
+    26.604
+  ],
+  "probe": {
+    "duration": 26.633333,
+    "width": 1080,
+    "height": 1920,
+    "has_audio": true,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "fps": 30.0,
+    "bit_rate": 1673730
+  },
+  "voiceover": true,
+  "music": false,
+  "orig_audio": true
+}
