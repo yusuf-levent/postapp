@@ -7478,11 +7478,11 @@
       {
         "platform": "instagram",
         "state": "submitted",
-        "external_id": "",
+        "external_id": "6b01b2e5142c957519216ffa",
         "permalink": "",
         "attempts": 1,
-        "last_error": "",
-        "remote_status": "",
+        "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
+        "remote_status": "sending",
         "retry_at": 0
       },
       {
