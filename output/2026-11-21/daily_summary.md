@@ -2,4 +2,4 @@
 
 - ⚠️ `09:00` [news] Levent Alpöge Claude ile Riemann Hipotezini Kanıtladı — 5/6 platform
 - ✅ `12:00` [news] Google, Nest Uygulamasını Kapatıyor ve Asistanı Değiştiriyor — 6/6 platform
-- ⚠️ `15:00` [news] California Başsavcılığı Nvidia'ya İnceleme Başlattı — 3/6 platform
+- ⚠️ `15:00` [news] California Başsavcılığı Nvidia'ya İnceleme Başlattı — 5/6 platform
