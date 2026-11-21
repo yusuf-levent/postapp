@@ -1,0 +1,279 @@
+{
+  "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+  "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+  "source_names": [
+    "The Verge",
+    "BBC News – Technology"
+  ],
+  "checked_at": "2026-11-21T09:02:45+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Anthropic matematikçisi Levent Alpöge, Claude'un yardımıyla Riemann hipotezini kanıtladığını iddia etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "quote": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics’s most notoriously difficult problems, with the help of Claude"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+          "quote": "An Anthropic employee and mathematician claims to have used the company's artificial intelligence (AI) chatbot to prove the famed Riemann hypothesis."
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "quote": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics’s most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world’s best mathematicians for decades."
+        }
+      ]
+    },
+    {
+      "claim": "Riemann hipotezi 1859 yılında ilk kez ortaya atıldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "quote": "First proposed in 1859, the Riemann hypothesis concerns the distribution of prime numbers and how zeroes of a function are involved."
+        }
+      ]
+    },
+    {
+      "claim": "Clay Mathematics Institute, çözülen her Millennium Prize problemi için 1 milyon dolar ödül sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "quote": "Alpöge’s solution, presented in Lean, has only been published on his website and has not yet been publicly accepted by the Clay Mathematics Institute, which administers the Millennium Prize and offers a $1 million bounty for each problem solved."
+        }
+      ]
+    },
+    {
+      "claim": "Poincaré sanısı, kuruluşundan bu yana geçen çeyrek asırda resmi olarak çözülen tek problemdir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "quote": "In the quarter-century since the prize was established, only one problem has been officially solved: The Poincaré conjecture, a topological problem concerning three-dimensional spheres."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, Eylül ayında Navier-Stokes problemini çözdüğünü iddia etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "quote": "In September, OpenAI claimed to have cracked another, the Navier-Stokes problem, which concerns the flow of fluids."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+          "quote": "OpenAI in September claimed that employees using a non-public version of its AI tools were able to solve part of a notoriously difficult problem in just 88 hours. The problem was part of the Navier-Stokes equations, which concern how fluids move."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, Navier-Stokes girişimi için milyonlarca dolar harcadı ve 10.000 ajan görevlendirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "quote": "OpenAI spent millions of dollars and deployed 10,000 agents in the attempt."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+          "quote": "More than 10,000 AI agents, or computer programmed bots that operate somewhat autonomously, were put to the task as an AI training exercise."
+        }
+      ]
+    },
+    {
+      "claim": "Levent Alpöge, Temmuz ayında Claude kullanarak Jacobean varsayımını çözdüğünü söyledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "quote": "Though most of the spotlight has been on OpenAI’s movement in math, Alpöge said in July that he solved the Jacobean conjecture using Claude."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Anthropic matematikçisi Levent Alpöge, Claude'un yardımıyla Riemann hipotezini kanıtladığını iddia etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "quote": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics’s most notoriously difficult problems, with the help of Claude"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+          "quote": "An Anthropic employee and mathematician claims to have used the company's artificial intelligence (AI) chatbot to prove the famed Riemann hypothesis."
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "quote": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics’s most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world’s best mathematicians for decades."
+        }
+      ]
+    },
+    {
+      "claim": "Riemann hipotezi 1859 yılında ilk kez ortaya atıldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "quote": "First proposed in 1859, the Riemann hypothesis concerns the distribution of prime numbers and how zeroes of a function are involved."
+        }
+      ]
+    },
+    {
+      "claim": "Clay Mathematics Institute, çözülen her Millennium Prize problemi için 1 milyon dolar ödül sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "quote": "Alpöge’s solution, presented in Lean, has only been published on his website and has not yet been publicly accepted by the Clay Mathematics Institute, which administers the Millennium Prize and offers a $1 million bounty for each problem solved."
+        }
+      ]
+    },
+    {
+      "claim": "Poincaré sanısı, kuruluşundan bu yana geçen çeyrek asırda resmi olarak çözülen tek problemdir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "quote": "In the quarter-century since the prize was established, only one problem has been officially solved: The Poincaré conjecture, a topological problem concerning three-dimensional spheres."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, Eylül ayında Navier-Stokes problemini çözdüğünü iddia etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "quote": "In September, OpenAI claimed to have cracked another, the Navier-Stokes problem, which concerns the flow of fluids."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+          "quote": "OpenAI in September claimed that employees using a non-public version of its AI tools were able to solve part of a notoriously difficult problem in just 88 hours. The problem was part of the Navier-Stokes equations, which concern how fluids move."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, Navier-Stokes girişimi için milyonlarca dolar harcadı ve 10.000 ajan görevlendirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "quote": "OpenAI spent millions of dollars and deployed 10,000 agents in the attempt."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+          "quote": "More than 10,000 AI agents, or computer programmed bots that operate somewhat autonomously, were put to the task as an AI training exercise."
+        }
+      ]
+    },
+    {
+      "claim": "Levent Alpöge, Temmuz ayında Claude kullanarak Jacobean varsayımını çözdüğünü söyledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "quote": "Though most of the spotlight has been on OpenAI’s movement in math, Alpöge said in July that he solved the Jacobean conjecture using Claude."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Anthropic matematikçisi Levent Alpöge, Claude'un yardımıyla Riemann hipotezini kanıtladığını iddia etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "quote": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics’s most notoriously difficult problems, with the help of Claude"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+          "quote": "An Anthropic employee and mathematician claims to have used the company's artificial intelligence (AI) chatbot to prove the famed Riemann hypothesis."
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "quote": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics’s most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world’s best mathematicians for decades."
+        }
+      ]
+    },
+    {
+      "claim": "Riemann hipotezi 1859 yılında ilk kez ortaya atıldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "quote": "First proposed in 1859, the Riemann hypothesis concerns the distribution of prime numbers and how zeroes of a function are involved."
+        }
+      ]
+    },
+    {
+      "claim": "Clay Mathematics Institute, çözülen her Millennium Prize problemi için 1 milyon dolar ödül sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "quote": "Alpöge’s solution, presented in Lean, has only been published on his website and has not yet been publicly accepted by the Clay Mathematics Institute, which administers the Millennium Prize and offers a $1 million bounty for each problem solved."
+        }
+      ]
+    },
+    {
+      "claim": "Poincaré sanısı, kuruluşundan bu yana geçen çeyrek asırda resmi olarak çözülen tek problemdir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "quote": "In the quarter-century since the prize was established, only one problem has been officially solved: The Poincaré conjecture, a topological problem concerning three-dimensional spheres."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, Eylül ayında Navier-Stokes problemini çözdüğünü iddia etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "quote": "In September, OpenAI claimed to have cracked another, the Navier-Stokes problem, which concerns the flow of fluids."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+          "quote": "OpenAI in September claimed that employees using a non-public version of its AI tools were able to solve part of a notoriously difficult problem in just 88 hours. The problem was part of the Navier-Stokes equations, which concern how fluids move."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, Navier-Stokes girişimi için milyonlarca dolar harcadı ve 10.000 ajan görevlendirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "quote": "OpenAI spent millions of dollars and deployed 10,000 agents in the attempt."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+          "quote": "More than 10,000 AI agents, or computer programmed bots that operate somewhat autonomously, were put to the task as an AI training exercise."
+        }
+      ]
+    },
+    {
+      "claim": "Levent Alpöge, Temmuz ayında Claude kullanarak Jacobean varsayımını çözdüğünü söyledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "quote": "Though most of the spotlight has been on OpenAI’s movement in math, Alpöge said in July that he solved the Jacobean conjecture using Claude."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem": 4169,
+    "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss": 3651
+  }
+}

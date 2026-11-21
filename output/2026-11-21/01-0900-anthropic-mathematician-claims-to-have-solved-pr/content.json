@@ -1,0 +1,74 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE MATEMATİK",
+    "title": "Levent Alpöge Claude ile Riemann Hipotezini Kanıtladı",
+    "highlight_words": [
+      "Levent Alpöge",
+      "Riemann Hipotezi"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Matematik dünyasının en zorlu problemlerinden biri yapay zeka desteğiyle ele alındı.",
+    "source_tags": [
+      "THE VERGE",
+      "BBC NEWS"
+    ]
+  },
+  "context": {
+    "heading": "Riemann Hipotezi ve 1859'dan Kalan Soru",
+    "cards": [
+      {
+        "card_title": "Tarihi Problem",
+        "card_body": "Riemann hipotezi ilk kez 1859 yılında ortaya atıldı ve asal sayıların dağılımı ile fonksiyonların sıfırlarını inceliyor."
+      },
+      {
+        "card_title": "Milyon Dolarlık Ödül",
+        "card_body": "Clay Mathematics Institute, Millennium Prize problemleri için çözülen her sorun adına 1 milyon dolar ödül sunuyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "1 MİLYON $",
+    "stat_caption": "Clay Mathematics Institute tarafından Millennium Prize problemleri için sunulan ödül miktarı.",
+    "stat_quote": "Alpöge's solution, presented in Lean, has only been published on his website and has not yet been publicly accepted."
+  },
+  "details": {
+    "heading": "Çözümün Detayları ve Lean Dili",
+    "cards": [
+      {
+        "card_title": "Lean ile Sunum",
+        "card_body": "Levent Alpöge'nin sunduğu çözüm Lean dilinde hazırlandı ve sadece kendi web sitesinde yayınlandı."
+      },
+      {
+        "card_title": "Henüz Onaylanmadı",
+        "card_body": "Çözüm, Millennium Prize'ı yöneten Clay Mathematics Institute tarafından henüz resmi olarak kabul edilmedi."
+      },
+      {
+        "card_title": "Önceki Çalışmalar",
+        "card_body": "Alpöge, Temmuz ayında da Claude kullanarak Jacobean varsayımını çözdüğünü açıklamıştı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Yapay Zekanın Matematikteki Yeri",
+    "cards": [
+      {
+        "card_title": "Açık ve Resmi Durum",
+        "card_body": "Kuruluşundan bu yana geçen çeyrek asırda resmi olarak çözülen tek Millennium problemi Poincaré sanısı oldu."
+      },
+      {
+        "card_title": "OpenAI Girişimleri",
+        "card_body": "OpenAI Eylül ayında Navier-Stokes problemi için milyonlarca dolar harcayıp 10.000 ajan görevlendirerek çözüm denemişti."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Yapay zeka modellerinin matematik alanındaki bu iddiaları gelecekte bilimsel araştırmaları nasıl değiştirecek?",
+    "reminder_line": "Gelişmeleri kaçırmamak için bizi takip etmeye devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": "<svg role=\"img\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"#FFFFFF\"><title>Anthropic</title><path d=\"M17.3041 3.541h-3.6718l6.696 16.918H24Zm-10.6082 0L0 20.459h3.7442l1.3693-3.5527h7.0052l1.3693 3.5528h3.7442L10.5363 3.5409Zm-.3712 10.2232 2.2914-5.9456 2.2914 5.9456Z\"/></svg>"
+}

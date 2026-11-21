@@ -1,0 +1,36 @@
+{
+  "pipeline_version": 2,
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 164.3,
+  "candidates_tried": 1,
+  "gemini_calls": 16,
+  "model_usage": {
+    "gemini-3.5-flash-lite": 12,
+    "gemini-3.1-flash-lite": 3
+  },
+  "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+  "entities": [
+    "Anthropic",
+    "Levent Alpöge",
+    "Claude",
+    "Dario Amodei",
+    "Riemann hypothesis"
+  ],
+  "event_type": "research_result",
+  "topic": "ai",
+  "primary_entity": "Anthropic",
+  "event_key": "anthropic_claude_riemann_hypothesis_proof",
+  "editorial": {
+    "index": 10,
+    "publishable": true,
+    "importance": 9,
+    "education_value": 8,
+    "topic": "ai",
+    "primary_entity": "Anthropic",
+    "event_key": "anthropic_claude_riemann_hypothesis_proof",
+    "reason": "Yapay zekanın tarihin en zor matematik problemlerinden biri olan Riemann hipotezini çözmeye yardımcı olması devrim niteliğinde bir gelişme."
+  },
+  "generated_at": "2026-11-21T09:05:05+03:00"
+}

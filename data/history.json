@@ -7188,5 +7188,93 @@
     "topic": "software",
     "primary_entity": "GitHub",
     "event_key": "github_replica_accessibility_framework"
+  },
+  {
+    "id": "2026-11-21-0900",
+    "date": "2026-11-21",
+    "slot": "09:00",
+    "type": "news",
+    "title_tr": "Levent Alpöge Claude ile Riemann Hipotezini Kanıtladı",
+    "original_title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+    "source_urls": [
+      "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+    ],
+    "canonical_url": "https://theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+    "entities": [
+      "Anthropic",
+      "Levent Alpöge",
+      "Claude",
+      "Dario Amodei",
+      "Riemann hypothesis"
+    ],
+    "event_type": "research_result",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "tiktok",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "x",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "threads",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "linkedin",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "facebook",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      }
+    ],
+    "created_at": "2026-11-21T09:05:05+03:00",
+    "verified_claims_count": 7,
+    "topic": "ai",
+    "primary_entity": "Anthropic",
+    "event_key": "anthropic_claude_riemann_hypothesis_proof"
   }
 ]
