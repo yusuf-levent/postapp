@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "AKILLI EV TEKNOLOJİLERİ",
+    "title": "Google, Nest Uygulamasını Kapatıyor ve Asistanı Değiştiriyor",
+    "highlight_words": [
+      "Nest",
+      "Google"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Google, Nest uygulamasını kapatma ve Gemini for Home'a geçiş takvimini duyurdu.",
+    "source_tags": [
+      "THE VERGE"
+    ]
+  },
+  "context": {
+    "heading": "Geçiş Takvimi ve Kapatma Planı",
+    "cards": [
+      {
+        "card_title": "Nest Uygulamasının Sonu",
+        "card_body": "Google, 25 Ocak 2027 tarihinde Nest uygulamasını kapatarak tüm yönetimi Google Home uygulamasına taşıyacak."
+      },
+      {
+        "card_title": "Verilerin Silinmesi",
+        "card_body": "Google, Nest hesap verilerini silmeye 25 Mart 2027 tarihinde başlayacağını açıkladı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "2027",
+    "stat_caption": "Nest uygulamasının kapatılacağı ve verilerin taşınacağı yıl.",
+    "stat_quote": "The Nest app shutdown takes place on January 25th, 2027"
+  },
+  "details": {
+    "heading": "Abonelikler ve Yeni Asistan",
+    "cards": [
+      {
+        "card_title": "Abonelik Aktarımı",
+        "card_body": "Google, 1. Nesil Nest Aware aboneliklerinin Google Home Premium'a otomatik olarak aktarılacağını belirtti."
+      },
+      {
+        "card_title": "Gemini for Home Dönemi",
+        "card_body": "2 Ağustos 2027 tarihinde akıllı hoparlör ve ekranlardaki Google Assistant'ın yerini Gemini for Home alacak."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcı Deneyimi ve Doğal Konuşma",
+    "cards": [
+      {
+        "card_title": "Doğal Dil Desteği",
+        "card_body": "Gemini for Home, kullanıcıların özel komutlar kullanmadan daha karmaşık sorular sormasını ve doğal konuşmasını sağlıyor."
+      },
+      {
+        "card_title": "Gelecek Güncellemeler",
+        "card_body": "Google, Ağustos 2027 geçişinden önce bu değişiklikler hakkında daha fazla güncelleme paylaşmayı planlıyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Akıllı ev cihazlarınızın yönetimini tek bir uygulamaya toplamak kullanımınızı nasıl etkiler?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": "<svg role=\"img\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"#FFFFFF\"><title>Google</title><path d=\"M12.48 10.92v3.28h7.84c-.24 1.84-.853 3.187-1.787 4.133-1.147 1.147-2.933 2.4-6.053 2.4-4.827 0-8.6-3.893-8.6-8.72s3.773-8.72 8.6-8.72c2.6 0 4.507 1.027 5.907 2.347l2.307-2.307C18.747 1.44 16.133 0 12.48 0 5.867 0 .307 5.387.307 12s5.56 12 12.173 12c3.573 0 6.267-1.173 8.373-3.36 2.16-2.16 2.84-5.213 2.84-7.667 0-.76-.053-1.467-.173-2.053H12.48z\"/></svg>"
+}

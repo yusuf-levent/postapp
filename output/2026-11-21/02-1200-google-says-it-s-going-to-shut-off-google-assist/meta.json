@@ -1,0 +1,41 @@
+{
+  "pipeline_version": 2,
+  "slot": "12:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 248.0,
+  "candidates_tried": 1,
+  "gemini_calls": 23,
+  "model_usage": {
+    "gemini-3.5-flash-lite": 20,
+    "gemini-3.1-flash-lite": 1
+  },
+  "canonical_url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
+  "entities": [
+    "Google",
+    "Google Assistant",
+    "Nest app",
+    "Google Home",
+    "Gemini for Home",
+    "Nest Aware",
+    "Google Home app",
+    "Nest thermostats",
+    "Nest Protect",
+    "Google Home Premium"
+  ],
+  "event_type": "product_discontinuation",
+  "topic": "consumer",
+  "primary_entity": "Google",
+  "event_key": "google_assistant_smart_speakers_shutdown",
+  "editorial": {
+    "index": 21,
+    "publishable": true,
+    "importance": 6,
+    "education_value": 0,
+    "topic": "consumer",
+    "primary_entity": "Google",
+    "event_key": "google_assistant_smart_speakers_shutdown",
+    "reason": "Google'ın akıllı hoparlörlerde Google Assistant'ı emekliye ayırıp Nest uygulamasını kapatması ekosistem için büyük bir değişikliktir."
+  },
+  "generated_at": "2026-11-21T12:07:05+03:00"
+}
