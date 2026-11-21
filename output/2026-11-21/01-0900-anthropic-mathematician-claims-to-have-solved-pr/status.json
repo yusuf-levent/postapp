@@ -23,11 +23,11 @@
     },
     "x": {
       "platform": "x",
-      "state": "submitted",
+      "state": "failed",
       "external_id": "",
       "permalink": "",
       "attempts": 1,
-      "last_error": "",
+      "last_error": "Buffer InvalidInputError: Invalid post: Twitter / X posts cannot exceed 280 characters.",
       "remote_status": "",
       "retry_at": 0
     },
