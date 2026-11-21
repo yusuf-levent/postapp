@@ -1,0 +1,213 @@
+{
+  "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+  "canonical_url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+  "source_names": [
+    "TechCrunch",
+    "Wired"
+  ],
+  "checked_at": "2026-11-21T15:02:47+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "California Attorney General Rob Bonta announced that the state has served an investigative subpoena to Nvidia.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+          "quote": "California’s Attorney General Rob Bonta on Thursday evening said the state has served an investigative subpoena to Nvidia following news of former CEO Jensen Huang’s affair with a woman who the U.S. government believes is a Chinese spy."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia founder Jensen Huang resigned last week following revelations of extramarital affairs.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+          "quote": "The Nvidia founder resigned last week after further revelations of extramarital affairs with the company’s employees."
+        },
+        {
+          "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+          "quote": "Jensen Huang was ousted from Nvidia amid allegations of extramarital affairs, including a relationship with an alleged Chinese intelligence asset."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia's new chair Harvey Jones stated earlier this week that the company had no intention of reinstating Jensen Huang to his position.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+          "quote": "the company’s new chair, Harvey Jones, said earlier this week that Nvidia had no intention of reinstating Huang to his position."
+        }
+      ]
+    },
+    {
+      "claim": "Jensen Huang has agreed to testify before Congress after several senior lawmakers threatened to subpoena him.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+          "quote": "Huang has agreed to testify before Congress after several senior lawmakers threatened to subpoena him."
+        }
+      ]
+    },
+    {
+      "claim": "The U.S. government is investigating whether Alice Huang has ties with the Chinese government.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+          "quote": "the U.S. government is trying to find out the extent of Alice Huang’s ties with the Chinese government."
+        }
+      ]
+    },
+    {
+      "claim": "Democratic representatives opened an inquiry into the Trump administration's management of Nvidia's chip sales to China.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+          "quote": "Democratic representatives have also opened an inquiry into the Trump administration’s management of Nvidia’s chip sales to China."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "California Attorney General Rob Bonta announced that the state has served an investigative subpoena to Nvidia.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+          "quote": "California’s Attorney General Rob Bonta on Thursday evening said the state has served an investigative subpoena to Nvidia following news of former CEO Jensen Huang’s affair with a woman who the U.S. government believes is a Chinese spy."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia founder Jensen Huang resigned last week following revelations of extramarital affairs.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+          "quote": "The Nvidia founder resigned last week after further revelations of extramarital affairs with the company’s employees."
+        },
+        {
+          "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+          "quote": "Jensen Huang was ousted from Nvidia amid allegations of extramarital affairs, including a relationship with an alleged Chinese intelligence asset."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia's new chair Harvey Jones stated earlier this week that the company had no intention of reinstating Jensen Huang to his position.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+          "quote": "the company’s new chair, Harvey Jones, said earlier this week that Nvidia had no intention of reinstating Huang to his position."
+        }
+      ]
+    },
+    {
+      "claim": "Jensen Huang has agreed to testify before Congress after several senior lawmakers threatened to subpoena him.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+          "quote": "Huang has agreed to testify before Congress after several senior lawmakers threatened to subpoena him."
+        }
+      ]
+    },
+    {
+      "claim": "The U.S. government is investigating whether Alice Huang has ties with the Chinese government.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+          "quote": "the U.S. government is trying to find out the extent of Alice Huang’s ties with the Chinese government."
+        }
+      ]
+    },
+    {
+      "claim": "Democratic representatives opened an inquiry into the Trump administration's management of Nvidia's chip sales to China.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+          "quote": "Democratic representatives have also opened an inquiry into the Trump administration’s management of Nvidia’s chip sales to China."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "California Attorney General Rob Bonta announced that the state has served an investigative subpoena to Nvidia.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+          "quote": "California’s Attorney General Rob Bonta on Thursday evening said the state has served an investigative subpoena to Nvidia following news of former CEO Jensen Huang’s affair with a woman who the U.S. government believes is a Chinese spy."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia founder Jensen Huang resigned last week following revelations of extramarital affairs.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+          "quote": "The Nvidia founder resigned last week after further revelations of extramarital affairs with the company’s employees."
+        },
+        {
+          "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+          "quote": "Jensen Huang was ousted from Nvidia amid allegations of extramarital affairs, including a relationship with an alleged Chinese intelligence asset."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia's new chair Harvey Jones stated earlier this week that the company had no intention of reinstating Jensen Huang to his position.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+          "quote": "the company’s new chair, Harvey Jones, said earlier this week that Nvidia had no intention of reinstating Huang to his position."
+        }
+      ]
+    },
+    {
+      "claim": "Jensen Huang has agreed to testify before Congress after several senior lawmakers threatened to subpoena him.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+          "quote": "Huang has agreed to testify before Congress after several senior lawmakers threatened to subpoena him."
+        }
+      ]
+    },
+    {
+      "claim": "The U.S. government is investigating whether Alice Huang has ties with the Chinese government.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+          "quote": "the U.S. government is trying to find out the extent of Alice Huang’s ties with the Chinese government."
+        }
+      ]
+    },
+    {
+      "claim": "Democratic representatives opened an inquiry into the Trump administration's management of Nvidia's chip sales to China.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+          "quote": "Democratic representatives have also opened an inquiry into the Trump administration’s management of Nvidia’s chip sales to China."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/": 2603,
+    "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/": 5922
+  }
+}

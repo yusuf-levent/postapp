@@ -7369,5 +7369,95 @@
     "topic": "consumer",
     "primary_entity": "Google",
     "event_key": "google_assistant_smart_speakers_shutdown"
+  },
+  {
+    "id": "2026-11-21-1500",
+    "date": "2026-11-21",
+    "slot": "15:00",
+    "type": "news",
+    "title_tr": "California Başsavcılığı Nvidia'ya İnceleme Başlattı",
+    "original_title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/"
+    ],
+    "canonical_url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china",
+    "entities": [
+      "Nvidia",
+      "NVIDIA",
+      "California Attorney General",
+      "Rob Bonta",
+      "Jensen Huang",
+      "Alice Huang",
+      "Harvey Jones"
+    ],
+    "event_type": "legal_investigation",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "tiktok",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "x",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "threads",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "linkedin",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "facebook",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      }
+    ],
+    "created_at": "2026-11-21T15:03:42+03:00",
+    "verified_claims_count": 6,
+    "topic": "chips",
+    "primary_entity": "Nvidia",
+    "event_key": "california-ag-subpoenas-nvidia-over-worr"
   }
 ]
