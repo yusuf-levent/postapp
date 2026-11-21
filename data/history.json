@@ -7305,12 +7305,12 @@
     "status_per_platform": [
       {
         "platform": "instagram",
-        "state": "submitted",
+        "state": "published",
         "external_id": "6b015f42d9cbb430a132fcdc",
-        "permalink": "",
+        "permalink": "https://www.instagram.com/p/Df_3zcDHOAF/",
         "attempts": 1,
-        "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
-        "remote_status": "sending",
+        "last_error": "",
+        "remote_status": "sent",
         "retry_at": 0
       },
       {
