@@ -14,11 +14,11 @@
     "tiktok": {
       "platform": "tiktok",
       "state": "submitted",
-      "external_id": "",
+      "external_id": "6b015f5c20a2d09a0ae8fc79",
       "permalink": "",
       "attempts": 1,
-      "last_error": "",
-      "remote_status": "",
+      "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
+      "remote_status": "sending",
       "retry_at": 0
     },
     "x": {
