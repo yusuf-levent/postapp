@@ -7541,5 +7541,97 @@
     "topic": "",
     "primary_entity": "",
     "event_key": "a64ec99a-2784-42f8-b770-e2a6a7b10325"
+  },
+  {
+    "id": "2026-11-21-2100",
+    "date": "2026-11-21",
+    "slot": "21:00",
+    "type": "news",
+    "title_tr": "Inkling 2 Mini Modeli Duyuruldu",
+    "original_title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "source_urls": [
+      "https://huggingface.co/blog/inkling2mini"
+    ],
+    "canonical_url": "https://huggingface.co/blog/inkling2mini",
+    "entities": [
+      "Hugging Face",
+      "Inkling 2 Mini",
+      "Inkling 2 Small",
+      "Thinking Machines Lab",
+      "Qwen 3.8 27B",
+      "DSpark",
+      "Llama App",
+      "MLX",
+      "SGLang"
+    ],
+    "event_type": "product_launch",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "tiktok",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "x",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "threads",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "linkedin",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "facebook",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      }
+    ],
+    "created_at": "2026-11-21T21:04:55+03:00",
+    "verified_claims_count": 7,
+    "topic": "ai",
+    "primary_entity": "Hugging Face",
+    "event_key": "welcome-inkling-2-mini-cutting-edge-perf"
   }
 ]

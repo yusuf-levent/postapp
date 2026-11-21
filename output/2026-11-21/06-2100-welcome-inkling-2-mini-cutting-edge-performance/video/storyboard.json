@@ -1,0 +1,44 @@
+{
+  "duration": 22.0,
+  "scenes": [
+    {
+      "label": "NE OLDU?",
+      "heading": "Inkling 2 Mini Modeli Duyuruldu",
+      "body": "Thinking Machines Lab tarafından geliştirilen yeni çok modlu model tanıtıldı."
+    },
+    {
+      "label": "BİLMEN GEREKEN",
+      "heading": "Çok Modlu Karışım-Uzman",
+      "body": "Inkling 2 Mini, ~26B fiziksel toplam ve token başına 3B aktif parametreye sahip bir modeldir."
+    },
+    {
+      "label": "DETAY",
+      "heading": "Katman Mimarisi",
+      "body": "Inkling 2 Mini 24 kod çözücü katmana sahiptir ancak ortadaki 12 katman döngü içinde üç kez çalışır."
+    },
+    {
+      "label": "NEDEN ÖNEMLİ?",
+      "heading": "Benchmark Başarısı",
+      "body": "Model, Artificial Analysis Intelligence Index v5 (AAv5) içerisinde kendi sınıfında son teknoloji ürünüdür."
+    }
+  ],
+  "bounds": [
+    0.0,
+    3.5,
+    9.666666666666668,
+    15.833333333333334,
+    22.0
+  ],
+  "probe": {
+    "duration": 22.0,
+    "width": 1080,
+    "height": 1920,
+    "has_audio": true,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "fps": 30.0,
+    "bit_rate": 883310
+  },
+  "music": true,
+  "orig_audio": false
+}

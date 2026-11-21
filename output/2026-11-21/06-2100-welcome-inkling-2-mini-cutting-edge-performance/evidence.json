@@ -1,0 +1,256 @@
+{
+  "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+  "canonical_url": "https://huggingface.co/blog/inkling2mini",
+  "source_names": [
+    "Hugging Face Blog"
+  ],
+  "checked_at": "2026-11-21T21:03:11+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Inkling 2 Mini, ~26B fiziksel toplam ve token başına 3B aktif parametreye sahip çok modlu bir Karışım-Uzman (Mixture-of-Experts) modelidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "quote": "It’s a multimodal Mixture-of-Experts with ~26B physical total and 3B active parameters per token."
+        }
+      ]
+    },
+    {
+      "claim": "Inkling 2 Mini, 1M token bağlam boyutunu destekler ve hem görsel hem de metin girdilerini kabul eder.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "quote": "It supports a 1M-token context size, accepts images and text inputs."
+        }
+      ]
+    },
+    {
+      "claim": "Inkling 2 Mini, 24 kod çözücü katmanına sahiptir ancak ortadaki 12 katman döngü içinde üç kez çalışır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "quote": "Inkling 2 Mini is a mixture-of-experts model with 24 decoder layers, but the 12 middle layers run three times in a loop."
+        }
+      ]
+    },
+    {
+      "claim": "Inkling 2 Mini, Artificial Analysis Intelligence Index v5 (AAv5) içerisinde kendi sınıfında son teknoloji ürünüdür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "quote": "Inkling 2 Mini is state-of-the-art in its class in the Artificial Analysis Intelligence Index v5 (AAv5)"
+        },
+        {
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "quote": "Inkling 2 Mini is state-of-the-art in its class in the Artificial Analysis Intelligence Index v5 (AAv5), as well as across many benchmarks in various categories."
+        }
+      ]
+    },
+    {
+      "claim": "Inkling 2 Mini, Gemma 4 31B, Muse Glimmer, Qwen3.8-27B ve Nemotron 3.5 Super VL ile karşılaştırıldığında 48 benchmark testinin 32'sinde liderdir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "quote": "Compared with Gemma 4 31B, Muse Glimmer, Qwen3.8-27B, and Nemotron 3.5 Super VL, Inkling 2 Mini leads in 32 benchmarks out of 48."
+        }
+      ]
+    },
+    {
+      "claim": "Thinking Machines Lab, modeli NVFP4 ve MXFP8 uzman ağırlıklarıyla karışık hassasiyet formatında sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "quote": "Thinking Machines Lab ships the model in a mixed-precision format, with NVFP4 and MXFP8 expert weights."
+        }
+      ]
+    },
+    {
+      "claim": "Inkling 2 Mini modeli için GGUF 4-bit (IQ4_NL) ve 8-bit (Q8_0) kuantizasyonları sağlanmaktadır.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "SGLang, veri merkezi donanımında üretim dağıtımları için Inkling 2 Mini modeline sıfırıncı gün (day-zero) çıkarım desteği sağlar.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "quote": "SGLang also provides day-zero inference support for production deployments on datacenter hardware."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Inkling 2 Mini, ~26B fiziksel toplam ve token başına 3B aktif parametreye sahip çok modlu bir Karışım-Uzman (Mixture-of-Experts) modelidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "quote": "It’s a multimodal Mixture-of-Experts with ~26B physical total and 3B active parameters per token."
+        }
+      ]
+    },
+    {
+      "claim": "Inkling 2 Mini, 1M token bağlam boyutunu destekler ve hem görsel hem de metin girdilerini kabul eder.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "quote": "It supports a 1M-token context size, accepts images and text inputs."
+        }
+      ]
+    },
+    {
+      "claim": "Inkling 2 Mini, 24 kod çözücü katmanına sahiptir ancak ortadaki 12 katman döngü içinde üç kez çalışır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "quote": "Inkling 2 Mini is a mixture-of-experts model with 24 decoder layers, but the 12 middle layers run three times in a loop."
+        }
+      ]
+    },
+    {
+      "claim": "Inkling 2 Mini, Artificial Analysis Intelligence Index v5 (AAv5) içerisinde kendi sınıfında son teknoloji ürünüdür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "quote": "Inkling 2 Mini is state-of-the-art in its class in the Artificial Analysis Intelligence Index v5 (AAv5)"
+        },
+        {
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "quote": "Inkling 2 Mini is state-of-the-art in its class in the Artificial Analysis Intelligence Index v5 (AAv5), as well as across many benchmarks in various categories."
+        }
+      ]
+    },
+    {
+      "claim": "Inkling 2 Mini, Gemma 4 31B, Muse Glimmer, Qwen3.8-27B ve Nemotron 3.5 Super VL ile karşılaştırıldığında 48 benchmark testinin 32'sinde liderdir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "quote": "Compared with Gemma 4 31B, Muse Glimmer, Qwen3.8-27B, and Nemotron 3.5 Super VL, Inkling 2 Mini leads in 32 benchmarks out of 48."
+        }
+      ]
+    },
+    {
+      "claim": "Thinking Machines Lab, modeli NVFP4 ve MXFP8 uzman ağırlıklarıyla karışık hassasiyet formatında sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "quote": "Thinking Machines Lab ships the model in a mixed-precision format, with NVFP4 and MXFP8 expert weights."
+        }
+      ]
+    },
+    {
+      "claim": "Inkling 2 Mini modeli için GGUF 4-bit (IQ4_NL) ve 8-bit (Q8_0) kuantizasyonları sağlanmaktadır.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "SGLang, veri merkezi donanımında üretim dağıtımları için Inkling 2 Mini modeline sıfırıncı gün (day-zero) çıkarım desteği sağlar.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "quote": "SGLang also provides day-zero inference support for production deployments on datacenter hardware."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Inkling 2 Mini, ~26B fiziksel toplam ve token başına 3B aktif parametreye sahip çok modlu bir Karışım-Uzman (Mixture-of-Experts) modelidir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "quote": "It’s a multimodal Mixture-of-Experts with ~26B physical total and 3B active parameters per token."
+        }
+      ]
+    },
+    {
+      "claim": "Inkling 2 Mini, 1M token bağlam boyutunu destekler ve hem görsel hem de metin girdilerini kabul eder.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "quote": "It supports a 1M-token context size, accepts images and text inputs."
+        }
+      ]
+    },
+    {
+      "claim": "Inkling 2 Mini, 24 kod çözücü katmanına sahiptir ancak ortadaki 12 katman döngü içinde üç kez çalışır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "quote": "Inkling 2 Mini is a mixture-of-experts model with 24 decoder layers, but the 12 middle layers run three times in a loop."
+        }
+      ]
+    },
+    {
+      "claim": "Inkling 2 Mini, Artificial Analysis Intelligence Index v5 (AAv5) içerisinde kendi sınıfında son teknoloji ürünüdür.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "quote": "Inkling 2 Mini is state-of-the-art in its class in the Artificial Analysis Intelligence Index v5 (AAv5)"
+        },
+        {
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "quote": "Inkling 2 Mini is state-of-the-art in its class in the Artificial Analysis Intelligence Index v5 (AAv5), as well as across many benchmarks in various categories."
+        }
+      ]
+    },
+    {
+      "claim": "Inkling 2 Mini, Gemma 4 31B, Muse Glimmer, Qwen3.8-27B ve Nemotron 3.5 Super VL ile karşılaştırıldığında 48 benchmark testinin 32'sinde liderdir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "quote": "Compared with Gemma 4 31B, Muse Glimmer, Qwen3.8-27B, and Nemotron 3.5 Super VL, Inkling 2 Mini leads in 32 benchmarks out of 48."
+        }
+      ]
+    },
+    {
+      "claim": "Thinking Machines Lab, modeli NVFP4 ve MXFP8 uzman ağırlıklarıyla karışık hassasiyet formatında sunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "quote": "Thinking Machines Lab ships the model in a mixed-precision format, with NVFP4 and MXFP8 expert weights."
+        }
+      ]
+    },
+    {
+      "claim": "Inkling 2 Mini modeli için GGUF 4-bit (IQ4_NL) ve 8-bit (Q8_0) kuantizasyonları sağlanmaktadır.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "SGLang, veri merkezi donanımında üretim dağıtımları için Inkling 2 Mini modeline sıfırıncı gün (day-zero) çıkarım desteği sağlar.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "quote": "SGLang also provides day-zero inference support for production deployments on datacenter hardware."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://huggingface.co/blog/inkling2mini": 20380
+  }
+}

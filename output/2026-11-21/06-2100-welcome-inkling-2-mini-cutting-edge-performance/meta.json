@@ -1,0 +1,40 @@
+{
+  "pipeline_version": 2,
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 131.6,
+  "candidates_tried": 5,
+  "gemini_calls": 17,
+  "model_usage": {
+    "gemini-3.5-flash-lite": 15,
+    "gemini-3.1-flash-lite": 1
+  },
+  "canonical_url": "https://huggingface.co/blog/inkling2mini",
+  "entities": [
+    "Hugging Face",
+    "Inkling 2 Mini",
+    "Inkling 2 Small",
+    "Thinking Machines Lab",
+    "Qwen 3.8 27B",
+    "DSpark",
+    "Llama App",
+    "MLX",
+    "SGLang"
+  ],
+  "event_type": "product_launch",
+  "topic": "ai",
+  "primary_entity": "Hugging Face",
+  "event_key": "welcome-inkling-2-mini-cutting-edge-perf",
+  "editorial": {
+    "index": 15,
+    "publishable": true,
+    "importance": 6,
+    "education_value": 7,
+    "topic": "ai",
+    "primary_entity": "Hugging Face",
+    "event_key": "",
+    "reason": "Yerel kurulumlar için yeni mini açık kaynak model duyurusu."
+  },
+  "generated_at": "2026-11-21T21:04:55+03:00"
+}

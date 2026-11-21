@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://huggingface.co/blog/assets/inkling2mini/thumbnail.png",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-21/06-2100-welcome-inkling-2-mini-cutting-edge-performance/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://huggingface.co/blog/inkling2mini",
+      "width": 1200,
+      "height": 648,
+      "alt_text": ""
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir.",
+  "music": [
+    {
+      "title": "Who Likes to Party",
+      "artist": "Kevin MacLeod (incompetech.com)",
+      "license": "CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Who%20Likes%20to%20Party.mp3"
+    }
+  ]
+}
