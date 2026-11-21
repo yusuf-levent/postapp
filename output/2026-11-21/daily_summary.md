@@ -4,4 +4,4 @@
 - ✅ `12:00` [news] Google, Nest Uygulamasını Kapatıyor ve Asistanı Değiştiriyor — 6/6 platform
 - ✅ `15:00` [news] California Başsavcılığı Nvidia'ya İnceleme Başlattı — 6/6 platform
 - ✅ `18:00` [weetis] Online alışverişte kargo ücreti yerine ürün fiyatı… — 6/6 platform
-- ⏭️ `20:00` slotu atlandı — editöryal ve doğrulama kurallarını geçen aday yok
+- ⚠️ `21:00` [news] Inkling 2 Mini Modeli Duyuruldu — 3/6 platform
