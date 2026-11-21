@@ -7262,12 +7262,12 @@
       },
       {
         "platform": "facebook",
-        "state": "submitted",
-        "external_id": "",
-        "permalink": "",
+        "state": "published",
+        "external_id": "6b0135125e993799d856d8d3",
+        "permalink": "https://facebook.com/1351036918092059_122124872925484840",
         "attempts": 1,
         "last_error": "",
-        "remote_status": "",
+        "remote_status": "sent",
         "retry_at": 0
       }
     ],
