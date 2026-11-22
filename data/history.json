@@ -7782,11 +7782,11 @@
       },
       {
         "platform": "threads",
-        "state": "submitted",
-        "external_id": "",
-        "permalink": "",
+        "state": "published",
+        "external_id": "18005161338034686",
+        "permalink": "https://www.threads.com/@tekno_pusula/post/DgCc3wJlTqo",
         "attempts": 2,
-        "last_error": "HTTP 400: {\"error\":{\"message\":\"An unknown error occurred\",\"code\":1,\"type\":\"OAuthException\",\"error_subcode\":2207003,\"is_transient\":false,\"error_user_msg\":\"It takes too long to download the media.\",\"error_user_title\":\"Timeout\",\"fbtrace_id\":\"AXx4k0AuHfKf0vGqZhyEBKZ\"}}",
+        "last_error": "",
         "remote_status": "",
         "retry_at": 0
       },
