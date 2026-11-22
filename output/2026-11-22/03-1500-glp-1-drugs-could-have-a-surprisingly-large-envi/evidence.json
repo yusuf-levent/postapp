@@ -1,0 +1,259 @@
+{
+  "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+  "canonical_url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+  "source_names": [
+    "Ars Technica"
+  ],
+  "checked_at": "2026-11-22T15:17:38+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Ozempic ve Wegovy gibi GLP-1 grubu kilo verme ilaçları iştah bastırıcı özelliklere sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "GLP-1 weight-loss medicines such as Ozempic and Wegovy could affect much more than the waistlines of the people who take them. If widely used, our new research suggests these appetite-suppressing medicines could transform the global food system and free up vast areas of agricultural land."
+        },
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "GLP-1 weight-loss medicines such as Ozempic and Wegovy could affect much more than the waistlines of the people who take them. If widely used, our new research suggests these appetite-suppressing medicines could transform the global food system"
+        }
+      ]
+    },
+    {
+      "claim": "Araştırmacılar, obezite ile yaşayan yetişkinler arasında GLP-1 ilaçlarının yaygın kullanımı durumunda 2050 yılına kadar her yıl 6,6 milyon ölüme kadar önlenebileceğini tahmin etmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "With widespread use of these medicines among adults living with obesity, we estimate that reduced calorie intake could prevent up to 6.6 million deaths each year by 2050"
+        }
+      ]
+    },
+    {
+      "claim": "Araştırmacılar, GLP-1 ilaçlarının yaygın kullanımıyla 32 milyon hektara kadar tarım arazisinin başka kullanımlar için boşa çıkabileceğini öngörmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "With widespread use of these medicines among adults living with obesity, we estimate that reduced calorie intake could prevent up to 6.6 million deaths each year by 2050, while freeing up as much as 32 million hectares of agricultural land"
+        },
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "With widespread use of these medicines among adults living with obesity, we estimate that reduced calorie intake could prevent up to 6.6 million deaths each year by 2050, while freeing up as much as 32 million hectares of agricultural land—an area slightly larger than Italy—for other uses."
+        }
+      ]
+    },
+    {
+      "claim": "Araştırmacılar, GLP-1 ilaçlarının kullanımı ile daha sağlıklı beslenmeye geçişin birleştirilmesi durumunda 2050 yılına kadar her yıl 7 milyon ölüme kadar önlenebileceğini belirtmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "The biggest effects, however, occurred when reduced calorie intake was combined with a shift toward healthier diets. In this scenario, up to 7 million deaths could be avoided each year by 2050"
+        },
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "In this scenario, up to 7 million deaths could be avoided each year by 2050"
+        }
+      ]
+    },
+    {
+      "claim": "Araştırmacılar, GLP-1 ilaçlarının kullanımı ile daha sağlıklı beslenmeye geçişin birleştirilmesi durumunda yaklaşık 46 milyon hektar tarım arazisinin başka kullanımlar için uygun hale gelebileceğini ifade etmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "The biggest effects, however, occurred when reduced calorie intake was combined with a shift toward healthier diets. In this scenario, up to 7 million deaths could be avoided each year by 2050, while around 46 million hectares of agricultural land would have become available for other uses."
+        },
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "In this scenario, up to 7 million deaths could be avoided each year by 2050, while around 46 million hectares of agricultural land would have become available for other uses."
+        }
+      ]
+    },
+    {
+      "claim": "Makalede 32 milyon hektarlık alanın İtalya'nın yüzölçümünden biraz daha büyük olduğu belirtilmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "freeing up as much as 32 million hectares of agricultural land—an area slightly larger than Italy—for other uses."
+        },
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "With widespread use of these medicines among adults living with obesity, we estimate that reduced calorie intake could prevent up to 6.6 million deaths each year by 2050, while freeing up as much as 32 million hectares of agricultural land—an area slightly larger than Italy—for other uses."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Ozempic ve Wegovy gibi GLP-1 grubu kilo verme ilaçları iştah bastırıcı özelliklere sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "GLP-1 weight-loss medicines such as Ozempic and Wegovy could affect much more than the waistlines of the people who take them. If widely used, our new research suggests these appetite-suppressing medicines could transform the global food system and free up vast areas of agricultural land."
+        },
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "GLP-1 weight-loss medicines such as Ozempic and Wegovy could affect much more than the waistlines of the people who take them. If widely used, our new research suggests these appetite-suppressing medicines could transform the global food system"
+        }
+      ]
+    },
+    {
+      "claim": "Araştırmacılar, obezite ile yaşayan yetişkinler arasında GLP-1 ilaçlarının yaygın kullanımı durumunda 2050 yılına kadar her yıl 6,6 milyon ölüme kadar önlenebileceğini tahmin etmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "With widespread use of these medicines among adults living with obesity, we estimate that reduced calorie intake could prevent up to 6.6 million deaths each year by 2050"
+        }
+      ]
+    },
+    {
+      "claim": "Araştırmacılar, GLP-1 ilaçlarının yaygın kullanımıyla 32 milyon hektara kadar tarım arazisinin başka kullanımlar için boşa çıkabileceğini öngörmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "With widespread use of these medicines among adults living with obesity, we estimate that reduced calorie intake could prevent up to 6.6 million deaths each year by 2050, while freeing up as much as 32 million hectares of agricultural land"
+        },
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "With widespread use of these medicines among adults living with obesity, we estimate that reduced calorie intake could prevent up to 6.6 million deaths each year by 2050, while freeing up as much as 32 million hectares of agricultural land—an area slightly larger than Italy—for other uses."
+        }
+      ]
+    },
+    {
+      "claim": "Araştırmacılar, GLP-1 ilaçlarının kullanımı ile daha sağlıklı beslenmeye geçişin birleştirilmesi durumunda 2050 yılına kadar her yıl 7 milyon ölüme kadar önlenebileceğini belirtmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "The biggest effects, however, occurred when reduced calorie intake was combined with a shift toward healthier diets. In this scenario, up to 7 million deaths could be avoided each year by 2050"
+        },
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "In this scenario, up to 7 million deaths could be avoided each year by 2050"
+        }
+      ]
+    },
+    {
+      "claim": "Araştırmacılar, GLP-1 ilaçlarının kullanımı ile daha sağlıklı beslenmeye geçişin birleştirilmesi durumunda yaklaşık 46 milyon hektar tarım arazisinin başka kullanımlar için uygun hale gelebileceğini ifade etmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "The biggest effects, however, occurred when reduced calorie intake was combined with a shift toward healthier diets. In this scenario, up to 7 million deaths could be avoided each year by 2050, while around 46 million hectares of agricultural land would have become available for other uses."
+        },
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "In this scenario, up to 7 million deaths could be avoided each year by 2050, while around 46 million hectares of agricultural land would have become available for other uses."
+        }
+      ]
+    },
+    {
+      "claim": "Makalede 32 milyon hektarlık alanın İtalya'nın yüzölçümünden biraz daha büyük olduğu belirtilmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "freeing up as much as 32 million hectares of agricultural land—an area slightly larger than Italy—for other uses."
+        },
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "With widespread use of these medicines among adults living with obesity, we estimate that reduced calorie intake could prevent up to 6.6 million deaths each year by 2050, while freeing up as much as 32 million hectares of agricultural land—an area slightly larger than Italy—for other uses."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Ozempic ve Wegovy gibi GLP-1 grubu kilo verme ilaçları iştah bastırıcı özelliklere sahiptir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "GLP-1 weight-loss medicines such as Ozempic and Wegovy could affect much more than the waistlines of the people who take them. If widely used, our new research suggests these appetite-suppressing medicines could transform the global food system and free up vast areas of agricultural land."
+        },
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "GLP-1 weight-loss medicines such as Ozempic and Wegovy could affect much more than the waistlines of the people who take them. If widely used, our new research suggests these appetite-suppressing medicines could transform the global food system"
+        }
+      ]
+    },
+    {
+      "claim": "Araştırmacılar, obezite ile yaşayan yetişkinler arasında GLP-1 ilaçlarının yaygın kullanımı durumunda 2050 yılına kadar her yıl 6,6 milyon ölüme kadar önlenebileceğini tahmin etmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "With widespread use of these medicines among adults living with obesity, we estimate that reduced calorie intake could prevent up to 6.6 million deaths each year by 2050"
+        }
+      ]
+    },
+    {
+      "claim": "Araştırmacılar, GLP-1 ilaçlarının yaygın kullanımıyla 32 milyon hektara kadar tarım arazisinin başka kullanımlar için boşa çıkabileceğini öngörmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "With widespread use of these medicines among adults living with obesity, we estimate that reduced calorie intake could prevent up to 6.6 million deaths each year by 2050, while freeing up as much as 32 million hectares of agricultural land"
+        },
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "With widespread use of these medicines among adults living with obesity, we estimate that reduced calorie intake could prevent up to 6.6 million deaths each year by 2050, while freeing up as much as 32 million hectares of agricultural land—an area slightly larger than Italy—for other uses."
+        }
+      ]
+    },
+    {
+      "claim": "Araştırmacılar, GLP-1 ilaçlarının kullanımı ile daha sağlıklı beslenmeye geçişin birleştirilmesi durumunda 2050 yılına kadar her yıl 7 milyon ölüme kadar önlenebileceğini belirtmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "The biggest effects, however, occurred when reduced calorie intake was combined with a shift toward healthier diets. In this scenario, up to 7 million deaths could be avoided each year by 2050"
+        },
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "In this scenario, up to 7 million deaths could be avoided each year by 2050"
+        }
+      ]
+    },
+    {
+      "claim": "Araştırmacılar, GLP-1 ilaçlarının kullanımı ile daha sağlıklı beslenmeye geçişin birleştirilmesi durumunda yaklaşık 46 milyon hektar tarım arazisinin başka kullanımlar için uygun hale gelebileceğini ifade etmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "The biggest effects, however, occurred when reduced calorie intake was combined with a shift toward healthier diets. In this scenario, up to 7 million deaths could be avoided each year by 2050, while around 46 million hectares of agricultural land would have become available for other uses."
+        },
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "In this scenario, up to 7 million deaths could be avoided each year by 2050, while around 46 million hectares of agricultural land would have become available for other uses."
+        }
+      ]
+    },
+    {
+      "claim": "Makalede 32 milyon hektarlık alanın İtalya'nın yüzölçümünden biraz daha büyük olduğu belirtilmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "freeing up as much as 32 million hectares of agricultural land—an area slightly larger than Italy—for other uses."
+        },
+        {
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "quote": "With widespread use of these medicines among adults living with obesity, we estimate that reduced calorie intake could prevent up to 6.6 million deaths each year by 2050, while freeing up as much as 32 million hectares of agricultural land—an area slightly larger than Italy—for other uses."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/": 2113
+  }
+}

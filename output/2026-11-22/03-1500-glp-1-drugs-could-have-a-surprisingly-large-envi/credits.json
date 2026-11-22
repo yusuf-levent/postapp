@@ -1,0 +1,22 @@
+{
+  "images": [],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir.",
+  "video": [
+    {
+      "source": "pexels",
+      "url": "https://videos.pexels.com/video-files/8852380/8852380-hd_1080_1920_30fps.mp4",
+      "license": "Pexels License",
+      "author": "Mikhail Nilov",
+      "credit_url": "https://www.pexels.com/video/a-person-wearing-medical-gloves-8852380/"
+    }
+  ],
+  "music": [
+    {
+      "title": "Rising Tide (faster)",
+      "artist": "Kevin MacLeod (incompetech.com)",
+      "license": "CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Rising%20Tide%20%28faster%29.mp3"
+    }
+  ]
+}

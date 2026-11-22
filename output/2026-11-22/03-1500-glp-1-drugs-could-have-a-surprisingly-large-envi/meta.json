@@ -1,0 +1,33 @@
+{
+  "pipeline_version": 2,
+  "slot": "15:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 217.0,
+  "candidates_tried": 1,
+  "gemini_calls": 26,
+  "model_usage": {
+    "gemini-3.1-flash-lite": 25
+  },
+  "canonical_url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+  "entities": [
+    "GLP-1",
+    "Ozempic",
+    "Wegovy"
+  ],
+  "event_type": "research_result",
+  "topic": "science",
+  "primary_entity": "GLP-1",
+  "event_key": "glp1_drugs_environmental_impact",
+  "editorial": {
+    "index": 17,
+    "publishable": true,
+    "importance": 6,
+    "education_value": 7,
+    "topic": "science",
+    "primary_entity": "GLP-1",
+    "event_key": "glp1_drugs_environmental_impact",
+    "reason": "İlaç teknolojisinin tarım ve çevre üzerindeki dolaylı ancak büyük ölçekli etkisini inceleyen önemli bir bilimsel perspektif."
+  },
+  "generated_at": "2026-11-22T15:20:49+03:00"
+}

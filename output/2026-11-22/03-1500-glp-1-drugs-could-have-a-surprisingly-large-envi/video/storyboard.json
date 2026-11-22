@@ -1,0 +1,44 @@
+{
+  "duration": 8.133333,
+  "scenes": [
+    {
+      "label": "NE OLDU?",
+      "heading": "GLP-1 ilaçları tarım arazilerini dönüştürüyor",
+      "body": "Ozempic ve Wegovy gibi ilaçların yaygın kullanımı gıda sistemini değiştirebilir."
+    },
+    {
+      "label": "BİLMEN GEREKEN",
+      "heading": "İştah Kontrolü",
+      "body": "Ozempic ve Wegovy gibi GLP-1 grubu ilaçlar, iştah bastırıcı özellikleri sayesinde kalori alımını doğrudan azaltıyor."
+    },
+    {
+      "label": "DETAY",
+      "heading": "32 Milyon Hektar",
+      "body": "Sadece GLP-1 ilaçlarının yaygın kullanımıyla, İtalya'dan daha büyük bir tarım arazisi alanı boşa çıkabilir."
+    },
+    {
+      "label": "NEDEN ÖNEMLİ?",
+      "heading": "Sağlık Kazanımı",
+      "body": "Obezite ile yaşayan yetişkinlerde yaygın kullanım, sadece kalori kısıtlamasıyla bile yıllık 6,6 milyon ölümü önleyebilir."
+    }
+  ],
+  "bounds": [
+    0.0,
+    2.03333325,
+    4.0666665,
+    6.09999975,
+    8.133333
+  ],
+  "probe": {
+    "duration": 8.133333,
+    "width": 1080,
+    "height": 1920,
+    "has_audio": true,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "fps": 30.0,
+    "bit_rate": 2583051
+  },
+  "music": true,
+  "orig_audio": false
+}
