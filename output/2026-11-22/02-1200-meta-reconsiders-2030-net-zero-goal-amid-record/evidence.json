@@ -1,0 +1,283 @@
+{
+  "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+  "canonical_url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+  "source_names": [
+    "Ars Technica"
+  ],
+  "checked_at": "2026-11-22T12:03:44+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Meta, 2030 yılına kadar net sıfır emisyona ulaşma hedefini yeniden değerlendirdiğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "Meta’s executives are rethinking the company’s original goal of achieving net-zero emissions by 2030."
+        }
+      ]
+    },
+    {
+      "claim": "Meta'nın 19 Kasım 2026 tarihli sürdürülebilirlik raporu yayımlandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "In the November 19, 2026, report, they attributed the changing conditions and the need for a rethink to how “demand for AI infrastructure has grown faster than almost anyone projected.”"
+        }
+      ]
+    },
+    {
+      "claim": "Meta'nın veri merkezlerinden sorumlu başkan yardımcısı Rachel Peterson ve net sıfır ve sürdürülebilirlik küresel başkanı Blair Swedeen, yapay zeka altyapısı talebinin beklenenden hızlı büyüdüğünü belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "The company’s 2026 sustainability report claims that “our long-term ambitions haven’t changed, but our operating environment has,” according to an introduction from Rachel Peterson, vice president of data centers at Meta, and Blair Swedeen, global head of net zero and sustainability at Meta. In the November 19, 2026, report, they attributed the changing conditions and the need for a rethink to how “demand for AI infrastructure has grown faster than almost anyone projected.”"
+        },
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "In the November 19, 2026, report, they attributed the changing conditions and the need for a rethink to how “demand for AI infrastructure has grown faster than almost anyone projected.”"
+        }
+      ]
+    },
+    {
+      "claim": "Meta'nın toplam emisyonları 2024 yılında 15,6 milyon metrik ton karbondioksit eşdeğeri iken 2025 yılında 21,7 milyon metrik tonun üzerine çıktı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "Meta’s report described the company’s total emissions as surging from 15.6 million metric tonnes of carbon dioxide equivalent in 2024 to more than 21.7 million metric tonnes in 2025."
+        }
+      ]
+    },
+    {
+      "claim": "Meta, emisyon artışının büyük bir kısmını veri merkezi sunucuları gibi sermaye mallarına bağladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "The company attributed much of this emissions increase to “capital goods,” like as data center servers."
+        }
+      ]
+    },
+    {
+      "claim": "Meta'nın 2025 yılındaki yıllık karbon ayak izi, Idaho eyaletinin toplam emisyonlarıyla yaklaşık olarak benzer seviyededir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "That would make Meta’s annual carbon footprint roughly comparable to total emissions for the state of Idaho"
+        }
+      ]
+    },
+    {
+      "claim": "Meta'nın 2025 yılındaki toplam emisyonları Hawaii, Maine, Güney Dakota ve New Hampshire eyaletlerinin toplam emisyonlarını geride bıraktı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "while surpassing the total emissions of states such as Hawaii, Maine, South Dakota, and New Hampshire."
+        },
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "That would make Meta’s annual carbon footprint roughly comparable to total emissions for the state of Idaho, while surpassing the total emissions of states such as Hawaii, Maine, South Dakota, and New Hampshire."
+        }
+      ]
+    },
+    {
+      "claim": "Amazon, Google ve Microsoft'un şu ana kadar orijinal sürdürülebilirlik hedeflerine bağlı kaldıkları belirtildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "Meta’s statement about re-evaluating its 2030 emissions goal is a significant public acknowledgment, given that Amazon, Google, and Microsoft have all stuck by their original sustainability goals so far."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Meta, 2030 yılına kadar net sıfır emisyona ulaşma hedefini yeniden değerlendirdiğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "Meta’s executives are rethinking the company’s original goal of achieving net-zero emissions by 2030."
+        }
+      ]
+    },
+    {
+      "claim": "Meta'nın 19 Kasım 2026 tarihli sürdürülebilirlik raporu yayımlandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "In the November 19, 2026, report, they attributed the changing conditions and the need for a rethink to how “demand for AI infrastructure has grown faster than almost anyone projected.”"
+        }
+      ]
+    },
+    {
+      "claim": "Meta'nın veri merkezlerinden sorumlu başkan yardımcısı Rachel Peterson ve net sıfır ve sürdürülebilirlik küresel başkanı Blair Swedeen, yapay zeka altyapısı talebinin beklenenden hızlı büyüdüğünü belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "The company’s 2026 sustainability report claims that “our long-term ambitions haven’t changed, but our operating environment has,” according to an introduction from Rachel Peterson, vice president of data centers at Meta, and Blair Swedeen, global head of net zero and sustainability at Meta. In the November 19, 2026, report, they attributed the changing conditions and the need for a rethink to how “demand for AI infrastructure has grown faster than almost anyone projected.”"
+        },
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "In the November 19, 2026, report, they attributed the changing conditions and the need for a rethink to how “demand for AI infrastructure has grown faster than almost anyone projected.”"
+        }
+      ]
+    },
+    {
+      "claim": "Meta'nın toplam emisyonları 2024 yılında 15,6 milyon metrik ton karbondioksit eşdeğeri iken 2025 yılında 21,7 milyon metrik tonun üzerine çıktı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "Meta’s report described the company’s total emissions as surging from 15.6 million metric tonnes of carbon dioxide equivalent in 2024 to more than 21.7 million metric tonnes in 2025."
+        }
+      ]
+    },
+    {
+      "claim": "Meta, emisyon artışının büyük bir kısmını veri merkezi sunucuları gibi sermaye mallarına bağladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "The company attributed much of this emissions increase to “capital goods,” like as data center servers."
+        }
+      ]
+    },
+    {
+      "claim": "Meta'nın 2025 yılındaki yıllık karbon ayak izi, Idaho eyaletinin toplam emisyonlarıyla yaklaşık olarak benzer seviyededir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "That would make Meta’s annual carbon footprint roughly comparable to total emissions for the state of Idaho"
+        }
+      ]
+    },
+    {
+      "claim": "Meta'nın 2025 yılındaki toplam emisyonları Hawaii, Maine, Güney Dakota ve New Hampshire eyaletlerinin toplam emisyonlarını geride bıraktı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "while surpassing the total emissions of states such as Hawaii, Maine, South Dakota, and New Hampshire."
+        },
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "That would make Meta’s annual carbon footprint roughly comparable to total emissions for the state of Idaho, while surpassing the total emissions of states such as Hawaii, Maine, South Dakota, and New Hampshire."
+        }
+      ]
+    },
+    {
+      "claim": "Amazon, Google ve Microsoft'un şu ana kadar orijinal sürdürülebilirlik hedeflerine bağlı kaldıkları belirtildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "Meta’s statement about re-evaluating its 2030 emissions goal is a significant public acknowledgment, given that Amazon, Google, and Microsoft have all stuck by their original sustainability goals so far."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Meta, 2030 yılına kadar net sıfır emisyona ulaşma hedefini yeniden değerlendirdiğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "Meta’s executives are rethinking the company’s original goal of achieving net-zero emissions by 2030."
+        }
+      ]
+    },
+    {
+      "claim": "Meta'nın 19 Kasım 2026 tarihli sürdürülebilirlik raporu yayımlandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "In the November 19, 2026, report, they attributed the changing conditions and the need for a rethink to how “demand for AI infrastructure has grown faster than almost anyone projected.”"
+        }
+      ]
+    },
+    {
+      "claim": "Meta'nın veri merkezlerinden sorumlu başkan yardımcısı Rachel Peterson ve net sıfır ve sürdürülebilirlik küresel başkanı Blair Swedeen, yapay zeka altyapısı talebinin beklenenden hızlı büyüdüğünü belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "The company’s 2026 sustainability report claims that “our long-term ambitions haven’t changed, but our operating environment has,” according to an introduction from Rachel Peterson, vice president of data centers at Meta, and Blair Swedeen, global head of net zero and sustainability at Meta. In the November 19, 2026, report, they attributed the changing conditions and the need for a rethink to how “demand for AI infrastructure has grown faster than almost anyone projected.”"
+        },
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "In the November 19, 2026, report, they attributed the changing conditions and the need for a rethink to how “demand for AI infrastructure has grown faster than almost anyone projected.”"
+        }
+      ]
+    },
+    {
+      "claim": "Meta'nın toplam emisyonları 2024 yılında 15,6 milyon metrik ton karbondioksit eşdeğeri iken 2025 yılında 21,7 milyon metrik tonun üzerine çıktı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "Meta’s report described the company’s total emissions as surging from 15.6 million metric tonnes of carbon dioxide equivalent in 2024 to more than 21.7 million metric tonnes in 2025."
+        }
+      ]
+    },
+    {
+      "claim": "Meta, emisyon artışının büyük bir kısmını veri merkezi sunucuları gibi sermaye mallarına bağladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "The company attributed much of this emissions increase to “capital goods,” like as data center servers."
+        }
+      ]
+    },
+    {
+      "claim": "Meta'nın 2025 yılındaki yıllık karbon ayak izi, Idaho eyaletinin toplam emisyonlarıyla yaklaşık olarak benzer seviyededir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "That would make Meta’s annual carbon footprint roughly comparable to total emissions for the state of Idaho"
+        }
+      ]
+    },
+    {
+      "claim": "Meta'nın 2025 yılındaki toplam emisyonları Hawaii, Maine, Güney Dakota ve New Hampshire eyaletlerinin toplam emisyonlarını geride bıraktı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "while surpassing the total emissions of states such as Hawaii, Maine, South Dakota, and New Hampshire."
+        },
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "That would make Meta’s annual carbon footprint roughly comparable to total emissions for the state of Idaho, while surpassing the total emissions of states such as Hawaii, Maine, South Dakota, and New Hampshire."
+        }
+      ]
+    },
+    {
+      "claim": "Amazon, Google ve Microsoft'un şu ana kadar orijinal sürdürülebilirlik hedeflerine bağlı kaldıkları belirtildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "quote": "Meta’s statement about re-evaluating its 2030 emissions goal is a significant public acknowledgment, given that Amazon, Google, and Microsoft have all stuck by their original sustainability goals so far."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/": 2187
+  }
+}

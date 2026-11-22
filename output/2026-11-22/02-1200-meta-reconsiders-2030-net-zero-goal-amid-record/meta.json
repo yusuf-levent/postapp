@@ -1,0 +1,36 @@
+{
+  "pipeline_version": 2,
+  "slot": "12:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 185.9,
+  "candidates_tried": 2,
+  "gemini_calls": 22,
+  "model_usage": {
+    "gemini-3.1-flash-lite": 21
+  },
+  "canonical_url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+  "entities": [
+    "Meta",
+    "Rachel Peterson",
+    "Blair Swedeen",
+    "Amazon",
+    "Google",
+    "Microsoft"
+  ],
+  "event_type": "corporate_sustainability_policy_revision",
+  "topic": "ai",
+  "primary_entity": "Meta",
+  "event_key": "meta_ai_data_center_emissions_net_zero",
+  "editorial": {
+    "index": 6,
+    "publishable": true,
+    "importance": 7,
+    "education_value": 6,
+    "topic": "ai",
+    "primary_entity": "Meta",
+    "event_key": "meta_ai_data_center_emissions_net_zero",
+    "reason": "Yapay zeka altyapısının çevresel maliyeti ve sürdürülebilirlik hedefleri arasındaki çatışmayı gösteren önemli bir sektör gelişmesi."
+  },
+  "generated_at": "2026-11-22T12:05:48+03:00"
+}

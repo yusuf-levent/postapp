@@ -1,0 +1,44 @@
+{
+  "duration": 9.386667,
+  "scenes": [
+    {
+      "label": "NE OLDU?",
+      "heading": "Meta 2030 net sıfır hedefini yeniden değerlendiriyor",
+      "body": "Yapay zeka altyapısına olan talep, şirketin emisyon hedeflerini zorluyor."
+    },
+    {
+      "label": "BİLMEN GEREKEN",
+      "heading": "Artan Altyapı Talebi",
+      "body": "Meta yöneticileri, yapay zeka altyapısına olan ihtiyacın öngörülenden çok daha hızlı büyüdüğünü belirtti."
+    },
+    {
+      "label": "DETAY",
+      "heading": "Sermaye Malları Etkisi",
+      "body": "Emisyonlardaki artışın büyük bir kısmı, veri merkezi sunucuları gibi sermaye mallarından kaynaklanıyor."
+    },
+    {
+      "label": "NEDEN ÖNEMLİ?",
+      "heading": "Teknoloji Devleri",
+      "body": "Amazon, Google ve Microsoft şu ana kadar orijinal sürdürülebilirlik hedeflerine bağlı kalmaya devam ediyor."
+    }
+  ],
+  "bounds": [
+    0.0,
+    2.34666675,
+    4.6933335,
+    7.040000249999999,
+    9.386667
+  ],
+  "probe": {
+    "duration": 9.387,
+    "width": 1080,
+    "height": 1920,
+    "has_audio": true,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "fps": 30.0,
+    "bit_rate": 1749166
+  },
+  "music": true,
+  "orig_audio": false
+}
