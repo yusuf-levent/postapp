@@ -1,0 +1,323 @@
+{
+  "title": "The FBI and USDA were reportedly hacked",
+  "canonical_url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+  "source_names": [
+    "The Verge",
+    "Engadget",
+    "TechCrunch"
+  ],
+  "checked_at": "2026-11-22T09:02:39+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "ABD Tarım Bakanlığı (USDA) ve FBI'ın hacklendiği bildirildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked."
+        },
+        {
+          "url": "https://www.engadget.com/2324179/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks/",
+          "quote": "FBI and USDA were reportedly targeted in back-to-back cyberattacks"
+        }
+      ]
+    },
+    {
+      "claim": "CNN, FBI'ın son birkaç ay içinde ikinci kez saldırıya uğradığını bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months"
+        }
+      ]
+    },
+    {
+      "claim": "FBI saldırısının, kolluk kuvvetlerinin bilgi paylaşımı için kullandığı Ulusal Suç Bilgi Merkezi'ni (NCIC) hedef aldığı belirtildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "this time targeting the National Crime Information Center (NCIC), which federal, state, and local law enforcement use to share information, including warrants and missing persons."
+        },
+        {
+          "url": "https://www.engadget.com/2324179/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks/",
+          "quote": "The cybersecurity incident specifically targeted the FBI's National Crime Information Center, which acts as a database that hosts criminal info, like warrants and background checks, and is used by law enforcement agencies across the country."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+          "quote": "The FBI is investigating an apparent hack of the National Crime Information Center (NCIC), according to reports in CNN and the Associated Press."
+        }
+      ]
+    },
+    {
+      "claim": "Başkan Donald Trump, Fox News ile yaptığı bir röportajda FBI'ın hacklendiğini doğruladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "President Donald Trump later confirmed the hack in an interview with Fox News."
+        }
+      ]
+    },
+    {
+      "claim": "NBC, USDA hack olayını Cuma günü ilk kez rapor etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "NBC first reported the USDA hack on Friday."
+        }
+      ]
+    },
+    {
+      "claim": "FAA ve NSA'da yaşanan büyük kesintilerin siber saldırı sonucu olmadığı hükümet tarafından açıklandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "The breaches come following a week of major outages across several sectors, including at the FAA and NSA, which the government has sought to reassure the public were not the result of a cyberattack."
+        }
+      ]
+    },
+    {
+      "claim": "Eylül ayı sonlarında bildirilen FBI ihlalinde tüm FBI çalışanlarının ve başvuranların kişisel kayıtlarının ele geçirildiği iddia edildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "The FBI suffered a breach, reported in late September, that allegedly compromised personal records of “all FBI employees and applicants.”"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "The FBI suffered a breach, reported in September, that allegedly compromised personal records of “all FBI employees and applicants.”"
+        },
+        {
+          "url": "https://www.engadget.com/2324179/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks/",
+          "quote": "Earlier this year, the FBI was reportedly the target of another cyberattack that divulged sensitive data of its employees and job applicants."
+        }
+      ]
+    },
+    {
+      "claim": "Ekim ayında bildirilen DHS hack olayında 40.000 çalışan kaydının ele geçirildiği açıklandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "This was followed by a hack of DHS, reported in October, comprising 40,000 employee records."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "ABD Tarım Bakanlığı (USDA) ve FBI'ın hacklendiği bildirildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked."
+        },
+        {
+          "url": "https://www.engadget.com/2324179/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks/",
+          "quote": "FBI and USDA were reportedly targeted in back-to-back cyberattacks"
+        }
+      ]
+    },
+    {
+      "claim": "CNN, FBI'ın son birkaç ay içinde ikinci kez saldırıya uğradığını bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months"
+        }
+      ]
+    },
+    {
+      "claim": "FBI saldırısının, kolluk kuvvetlerinin bilgi paylaşımı için kullandığı Ulusal Suç Bilgi Merkezi'ni (NCIC) hedef aldığı belirtildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "this time targeting the National Crime Information Center (NCIC), which federal, state, and local law enforcement use to share information, including warrants and missing persons."
+        },
+        {
+          "url": "https://www.engadget.com/2324179/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks/",
+          "quote": "The cybersecurity incident specifically targeted the FBI's National Crime Information Center, which acts as a database that hosts criminal info, like warrants and background checks, and is used by law enforcement agencies across the country."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+          "quote": "The FBI is investigating an apparent hack of the National Crime Information Center (NCIC), according to reports in CNN and the Associated Press."
+        }
+      ]
+    },
+    {
+      "claim": "Başkan Donald Trump, Fox News ile yaptığı bir röportajda FBI'ın hacklendiğini doğruladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "President Donald Trump later confirmed the hack in an interview with Fox News."
+        }
+      ]
+    },
+    {
+      "claim": "NBC, USDA hack olayını Cuma günü ilk kez rapor etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "NBC first reported the USDA hack on Friday."
+        }
+      ]
+    },
+    {
+      "claim": "FAA ve NSA'da yaşanan büyük kesintilerin siber saldırı sonucu olmadığı hükümet tarafından açıklandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "The breaches come following a week of major outages across several sectors, including at the FAA and NSA, which the government has sought to reassure the public were not the result of a cyberattack."
+        }
+      ]
+    },
+    {
+      "claim": "Eylül ayı sonlarında bildirilen FBI ihlalinde tüm FBI çalışanlarının ve başvuranların kişisel kayıtlarının ele geçirildiği iddia edildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "The FBI suffered a breach, reported in late September, that allegedly compromised personal records of “all FBI employees and applicants.”"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "The FBI suffered a breach, reported in September, that allegedly compromised personal records of “all FBI employees and applicants.”"
+        },
+        {
+          "url": "https://www.engadget.com/2324179/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks/",
+          "quote": "Earlier this year, the FBI was reportedly the target of another cyberattack that divulged sensitive data of its employees and job applicants."
+        }
+      ]
+    },
+    {
+      "claim": "Ekim ayında bildirilen DHS hack olayında 40.000 çalışan kaydının ele geçirildiği açıklandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "This was followed by a hack of DHS, reported in October, comprising 40,000 employee records."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "ABD Tarım Bakanlığı (USDA) ve FBI'ın hacklendiği bildirildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked."
+        },
+        {
+          "url": "https://www.engadget.com/2324179/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks/",
+          "quote": "FBI and USDA were reportedly targeted in back-to-back cyberattacks"
+        }
+      ]
+    },
+    {
+      "claim": "CNN, FBI'ın son birkaç ay içinde ikinci kez saldırıya uğradığını bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months"
+        }
+      ]
+    },
+    {
+      "claim": "FBI saldırısının, kolluk kuvvetlerinin bilgi paylaşımı için kullandığı Ulusal Suç Bilgi Merkezi'ni (NCIC) hedef aldığı belirtildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "this time targeting the National Crime Information Center (NCIC), which federal, state, and local law enforcement use to share information, including warrants and missing persons."
+        },
+        {
+          "url": "https://www.engadget.com/2324179/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks/",
+          "quote": "The cybersecurity incident specifically targeted the FBI's National Crime Information Center, which acts as a database that hosts criminal info, like warrants and background checks, and is used by law enforcement agencies across the country."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+          "quote": "The FBI is investigating an apparent hack of the National Crime Information Center (NCIC), according to reports in CNN and the Associated Press."
+        }
+      ]
+    },
+    {
+      "claim": "Başkan Donald Trump, Fox News ile yaptığı bir röportajda FBI'ın hacklendiğini doğruladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "President Donald Trump later confirmed the hack in an interview with Fox News."
+        }
+      ]
+    },
+    {
+      "claim": "NBC, USDA hack olayını Cuma günü ilk kez rapor etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "NBC first reported the USDA hack on Friday."
+        }
+      ]
+    },
+    {
+      "claim": "FAA ve NSA'da yaşanan büyük kesintilerin siber saldırı sonucu olmadığı hükümet tarafından açıklandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "The breaches come following a week of major outages across several sectors, including at the FAA and NSA, which the government has sought to reassure the public were not the result of a cyberattack."
+        }
+      ]
+    },
+    {
+      "claim": "Eylül ayı sonlarında bildirilen FBI ihlalinde tüm FBI çalışanlarının ve başvuranların kişisel kayıtlarının ele geçirildiği iddia edildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "The FBI suffered a breach, reported in late September, that allegedly compromised personal records of “all FBI employees and applicants.”"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "The FBI suffered a breach, reported in September, that allegedly compromised personal records of “all FBI employees and applicants.”"
+        },
+        {
+          "url": "https://www.engadget.com/2324179/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks/",
+          "quote": "Earlier this year, the FBI was reportedly the target of another cyberattack that divulged sensitive data of its employees and job applicants."
+        }
+      ]
+    },
+    {
+      "claim": "Ekim ayında bildirilen DHS hack olayında 40.000 çalışan kaydının ele geçirildiği açıklandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "quote": "This was followed by a hack of DHS, reported in October, comprising 40,000 employee records."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/tech/1039543/fbi-usda-hacked": 1853,
+    "https://www.engadget.com/2324179/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks/": 1884,
+    "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/": 1066
+  }
+}

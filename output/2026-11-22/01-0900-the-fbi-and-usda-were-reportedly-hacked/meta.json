@@ -1,0 +1,41 @@
+{
+  "pipeline_version": 2,
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 46.8,
+  "candidates_tried": 1,
+  "gemini_calls": 13,
+  "model_usage": {
+    "gemini-3.5-flash-lite": 13
+  },
+  "canonical_url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+  "entities": [
+    "FBI",
+    "USDA",
+    "CNN",
+    "Fox News",
+    "National Crime Information Center",
+    "NCIC",
+    "Donald Trump",
+    "NBC",
+    "Reuters",
+    "FAA",
+    "NSA"
+  ],
+  "event_type": "cyberattack",
+  "topic": "security",
+  "primary_entity": "FBI",
+  "event_key": "fbi_usda_cybersecurity_breach_ncic",
+  "editorial": {
+    "index": 16,
+    "publishable": true,
+    "importance": 7,
+    "education_value": 5,
+    "topic": "security",
+    "primary_entity": "FBI",
+    "event_key": "fbi_usda_cybersecurity_breach_ncic",
+    "reason": "FBI ve USDA'nın siber saldırıya uğraması ve ulusal suç veritabanının hedef alınması ciddi bir güvenlik gelişmesi."
+  },
+  "generated_at": "2026-11-22T09:03:07+03:00"
+}

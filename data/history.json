@@ -7633,5 +7633,99 @@
     "topic": "ai",
     "primary_entity": "Hugging Face",
     "event_key": "welcome-inkling-2-mini-cutting-edge-perf"
+  },
+  {
+    "id": "2026-11-22-0900",
+    "date": "2026-11-22",
+    "slot": "09:00",
+    "type": "news",
+    "title_tr": "FBI ve USDA siber saldırıya uğradı",
+    "original_title": "The FBI and USDA were reportedly hacked",
+    "source_urls": [
+      "https://www.theverge.com/tech/1039543/fbi-usda-hacked"
+    ],
+    "canonical_url": "https://theverge.com/tech/1039543/fbi-usda-hacked",
+    "entities": [
+      "FBI",
+      "USDA",
+      "CNN",
+      "Fox News",
+      "National Crime Information Center",
+      "NCIC",
+      "Donald Trump",
+      "NBC",
+      "Reuters",
+      "FAA",
+      "NSA"
+    ],
+    "event_type": "cyberattack",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "tiktok",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "x",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "threads",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "linkedin",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "facebook",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      }
+    ],
+    "created_at": "2026-11-22T09:03:07+03:00",
+    "verified_claims_count": 8,
+    "topic": "security",
+    "primary_entity": "FBI",
+    "event_key": "fbi_usda_cybersecurity_breach_ncic"
   }
 ]

@@ -1,0 +1,70 @@
+{
+  "cover": {
+    "category_label": "SİBER GÜVENLİK",
+    "title": "FBI ve USDA siber saldırıya uğradı",
+    "highlight_words": [
+      "FBI",
+      "USDA"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "ABD'nin kritik kurumları arka arkaya düzenlenen siber saldırıların hedefi oldu.",
+    "source_tags": [
+      "THE VERGE",
+      "ENGADGET"
+    ]
+  },
+  "context": {
+    "heading": "Arka Arkaya Saldırı",
+    "cards": [
+      {
+        "card_title": "USDA Hack Olayı",
+        "card_body": "NBC, ABD Tarım Bakanlığı'nın (USDA) siber saldırıya uğradığını Cuma günü ilk kez rapor etti."
+      },
+      {
+        "card_title": "Başkanın Doğrulaması",
+        "card_body": "Başkan Donald Trump, Fox News ile yaptığı röportajda FBI'ın hacklendiğini doğruladı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "İKİNCİ",
+    "stat_caption": "CNN, FBI'ın son birkaç ay içinde ikinci kez saldırıya uğradığını bildirdi.",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Hedefteki Sistemler",
+    "cards": [
+      {
+        "card_title": "NCIC Veritabanı",
+        "card_body": "Saldırı, kolluk kuvvetlerinin bilgi paylaşımı için kullandığı Ulusal Suç Bilgi Merkezi'ni (NCIC) hedef aldı."
+      },
+      {
+        "card_title": "Önceki İhlaller",
+        "card_body": "Eylül ayında FBI çalışanlarının kayıtları, Ekim ayında ise DHS'nin 40.000 çalışan kaydı ele geçirilmişti."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kurumsal Etkiler",
+    "cards": [
+      {
+        "card_title": "Kolluk Kuvvetleri Verileri",
+        "card_body": "NCIC veritabanında arama kararları ve kayıp şahıslar gibi kritik bilgiler yer alıyor."
+      },
+      {
+        "card_title": "Diğer Kesintiler",
+        "card_body": "FAA ve NSA'da yaşanan kesintilerin siber saldırı sonucu olmadığı hükümet tarafından açıklandı."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Kritik devlet kurumlarına yönelik bu artan siber saldırılar hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki doğrulanmış gelişmeler için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": ""
+}
