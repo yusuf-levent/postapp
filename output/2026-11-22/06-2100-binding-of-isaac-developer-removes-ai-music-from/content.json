@@ -1,0 +1,72 @@
+{
+  "cover": {
+    "category_label": "OYUN DÜNYASI",
+    "title": "Binding of Isaac'te Yapay Zeka Krizi",
+    "highlight_words": [
+      "Yapay Zeka"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Popüler oyunda izinsiz yapay zeka müziği kullanımı tartışma yarattı.",
+    "source_tags": [
+      "THE VERGE"
+    ]
+  },
+  "context": {
+    "heading": "Olay Nasıl Ortaya Çıktı?",
+    "cards": [
+      {
+        "card_title": "Reddit Kullanıcısı Keşfi",
+        "card_body": "Reddit kullanıcısı ShweetsStuff, oyunun GTA temalı bölümündeki müzik dosyalarında Suno meta verilerini buldu."
+      },
+      {
+        "card_title": "Geliştirici Habersiz",
+        "card_body": "Oyunun yaratıcısı Edmund McMillen, son sürümde yapay zeka müziği kullanıldığından haberi olmadığını belirtti."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "SON DERECE OLUMSUZ",
+    "stat_caption": "Steam kullanıcı incelemeleri, yapay zeka müziği skandalı sonrası hızla düştü.",
+    "stat_quote": "Yapay zeka kullanımı ilhamdan yoksun ve yavan. - Edmund McMillen (2024)"
+  },
+  "details": {
+    "heading": "Süreç Nasıl İşledi?",
+    "cards": [
+      {
+        "card_title": "Valve Kuralları",
+        "card_body": "Valve, geliştiricilerin yapay zeka kullanımını şeffaf bir şekilde açıklamasını zorunlu tutuyor."
+      },
+      {
+        "card_title": "Bildirim Eksikliği",
+        "card_body": "Nicalis stüdyosu, oyun içinde yapay zeka müziği kullanıldığına dair herhangi bir bildirimde bulunmadı."
+      },
+      {
+        "card_title": "Hızlı Müdahale",
+        "card_body": "Keşfin ardından Nicalis, saatler içinde güncellemeyle yapay zeka müziklerini oyundan kaldırdı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektör ve Kullanıcı Etkisi",
+    "cards": [
+      {
+        "card_title": "İnceleme Bombardımanı",
+        "card_body": "Oyun, yapay zeka müziği tartışmaları nedeniyle Steam'de 'son derece olumsuz' olarak derecelendirildi."
+      },
+      {
+        "card_title": "Güven Sorgulaması",
+        "card_body": "Kullanıcılar, geliştirici stüdyonun şeffaflık eksikliğine tepki gösterirken, yaratıcı McMillen'a şüpheyle yaklaşıyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Oyunlarda yapay zeka kullanımı konusunda geliştiricilerin şeffaflığı sizce yeterli mi?",
+    "reminder_line": "Tekno Pusula ile teknolojinin nabzını tutmaya devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": ""
+}

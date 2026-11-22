@@ -1,0 +1,295 @@
+{
+  "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+  "canonical_url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+  "source_names": [
+    "The Verge"
+  ],
+  "checked_at": "2026-11-22T21:12:50+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "The Binding of Isaac: Repentance Plus oyunu, yapay zeka tarafından üretilmiş müziklerin kullanıldığının ortaya çıkmasının ardından Steam'de inceleme bombardımanına tutuldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music."
+        }
+      ]
+    },
+    {
+      "claim": "Reddit kullanıcısı ShweetsStuff, oyunun Grand Theft Auto temalı bölümünde kullanılan müzik dosyalarında Suno meta verileri buldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to the tracks on Suno’s site."
+        }
+      ]
+    },
+    {
+      "claim": "Oyunun yaratıcısı Edmund McMillen, oyunun son sürümünde yapay zeka müziği kullanıldığından haberi olmadığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "Creator Edmund McMillen claims he ‘had no idea’ AI music was used in the latest version of Binding of Isaac."
+        },
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "Creator Edmund McMillen took to X to apologize and claimed he “had no idea” the in-game GTA parody used generative AI music."
+        }
+      ]
+    },
+    {
+      "claim": "Valve, geliştiricilerin yapay zekayı geliştirme sürecinde nasıl ve ne zaman kullandıklarını açıklamalarını zorunlu tutmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "Valve requires developers to disclose how and when they use generative AI in the development process"
+        }
+      ]
+    },
+    {
+      "claim": "Repentance Plus oyununun geliştirici stüdyosu Nicalis, Inc., oyun içinde yapay zeka müziği kullanıldığına dair herhangi bir bildirimde bulunmadı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "Nicalis, Inc., the studio behind Repentance Plus, doesn’t appear to have mentioned the AI music anywhere."
+        },
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "Valve requires developers to disclose how and when they use generative AI in the development process, and Nicalis, Inc., the studio behind Repentance Plus, doesn’t appear to have mentioned the AI music anywhere."
+        }
+      ]
+    },
+    {
+      "claim": "Nicalis, keşfin ardından saatler içinde Repentance Plus'ın güncellendiğini ve yapay zeka ile üretilen müzik dosyalarının kaldırıldığını duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "Within hours of the discovery, Nicalis shared on X that Repentance Plus had been updated and the generated music files had been removed."
+        }
+      ]
+    },
+    {
+      "claim": "Oyun, yapay zeka müziği tartışmaları sonrası Steam'de 'son derece olumsuz' olarak derecelendirildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "While reviews on Steam have yet to rebound, and the game is still rated as “overwhelmingly negative,”"
+        },
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "While reviews on Steam have yet to rebound, and the game is still rated as “overwhelmingly negative,” users on X seem to be giving McMillen the benefit of the doubt"
+        }
+      ]
+    },
+    {
+      "claim": "Edmund McMillen, 2024 yılında paylaştığı bir TikTok videosunda oyun geliştirmede yapay zeka kullanımını 'ilhamdan yoksun ve yavan' olarak nitelendirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "he’s been quite outspoken on AI in game development, calling it “uninspired and bland” in a TikTok from 2024."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "The Binding of Isaac: Repentance Plus oyunu, yapay zeka tarafından üretilmiş müziklerin kullanıldığının ortaya çıkmasının ardından Steam'de inceleme bombardımanına tutuldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music."
+        }
+      ]
+    },
+    {
+      "claim": "Reddit kullanıcısı ShweetsStuff, oyunun Grand Theft Auto temalı bölümünde kullanılan müzik dosyalarında Suno meta verileri buldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to the tracks on Suno’s site."
+        }
+      ]
+    },
+    {
+      "claim": "Oyunun yaratıcısı Edmund McMillen, oyunun son sürümünde yapay zeka müziği kullanıldığından haberi olmadığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "Creator Edmund McMillen claims he ‘had no idea’ AI music was used in the latest version of Binding of Isaac."
+        },
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "Creator Edmund McMillen took to X to apologize and claimed he “had no idea” the in-game GTA parody used generative AI music."
+        }
+      ]
+    },
+    {
+      "claim": "Valve, geliştiricilerin yapay zekayı geliştirme sürecinde nasıl ve ne zaman kullandıklarını açıklamalarını zorunlu tutmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "Valve requires developers to disclose how and when they use generative AI in the development process"
+        }
+      ]
+    },
+    {
+      "claim": "Repentance Plus oyununun geliştirici stüdyosu Nicalis, Inc., oyun içinde yapay zeka müziği kullanıldığına dair herhangi bir bildirimde bulunmadı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "Nicalis, Inc., the studio behind Repentance Plus, doesn’t appear to have mentioned the AI music anywhere."
+        },
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "Valve requires developers to disclose how and when they use generative AI in the development process, and Nicalis, Inc., the studio behind Repentance Plus, doesn’t appear to have mentioned the AI music anywhere."
+        }
+      ]
+    },
+    {
+      "claim": "Nicalis, keşfin ardından saatler içinde Repentance Plus'ın güncellendiğini ve yapay zeka ile üretilen müzik dosyalarının kaldırıldığını duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "Within hours of the discovery, Nicalis shared on X that Repentance Plus had been updated and the generated music files had been removed."
+        }
+      ]
+    },
+    {
+      "claim": "Oyun, yapay zeka müziği tartışmaları sonrası Steam'de 'son derece olumsuz' olarak derecelendirildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "While reviews on Steam have yet to rebound, and the game is still rated as “overwhelmingly negative,”"
+        },
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "While reviews on Steam have yet to rebound, and the game is still rated as “overwhelmingly negative,” users on X seem to be giving McMillen the benefit of the doubt"
+        }
+      ]
+    },
+    {
+      "claim": "Edmund McMillen, 2024 yılında paylaştığı bir TikTok videosunda oyun geliştirmede yapay zeka kullanımını 'ilhamdan yoksun ve yavan' olarak nitelendirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "he’s been quite outspoken on AI in game development, calling it “uninspired and bland” in a TikTok from 2024."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "The Binding of Isaac: Repentance Plus oyunu, yapay zeka tarafından üretilmiş müziklerin kullanıldığının ortaya çıkmasının ardından Steam'de inceleme bombardımanına tutuldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music."
+        }
+      ]
+    },
+    {
+      "claim": "Reddit kullanıcısı ShweetsStuff, oyunun Grand Theft Auto temalı bölümünde kullanılan müzik dosyalarında Suno meta verileri buldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to the tracks on Suno’s site."
+        }
+      ]
+    },
+    {
+      "claim": "Oyunun yaratıcısı Edmund McMillen, oyunun son sürümünde yapay zeka müziği kullanıldığından haberi olmadığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "Creator Edmund McMillen claims he ‘had no idea’ AI music was used in the latest version of Binding of Isaac."
+        },
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "Creator Edmund McMillen took to X to apologize and claimed he “had no idea” the in-game GTA parody used generative AI music."
+        }
+      ]
+    },
+    {
+      "claim": "Valve, geliştiricilerin yapay zekayı geliştirme sürecinde nasıl ve ne zaman kullandıklarını açıklamalarını zorunlu tutmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "Valve requires developers to disclose how and when they use generative AI in the development process"
+        }
+      ]
+    },
+    {
+      "claim": "Repentance Plus oyununun geliştirici stüdyosu Nicalis, Inc., oyun içinde yapay zeka müziği kullanıldığına dair herhangi bir bildirimde bulunmadı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "Nicalis, Inc., the studio behind Repentance Plus, doesn’t appear to have mentioned the AI music anywhere."
+        },
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "Valve requires developers to disclose how and when they use generative AI in the development process, and Nicalis, Inc., the studio behind Repentance Plus, doesn’t appear to have mentioned the AI music anywhere."
+        }
+      ]
+    },
+    {
+      "claim": "Nicalis, keşfin ardından saatler içinde Repentance Plus'ın güncellendiğini ve yapay zeka ile üretilen müzik dosyalarının kaldırıldığını duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "Within hours of the discovery, Nicalis shared on X that Repentance Plus had been updated and the generated music files had been removed."
+        }
+      ]
+    },
+    {
+      "claim": "Oyun, yapay zeka müziği tartışmaları sonrası Steam'de 'son derece olumsuz' olarak derecelendirildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "While reviews on Steam have yet to rebound, and the game is still rated as “overwhelmingly negative,”"
+        },
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "While reviews on Steam have yet to rebound, and the game is still rated as “overwhelmingly negative,” users on X seem to be giving McMillen the benefit of the doubt"
+        }
+      ]
+    },
+    {
+      "claim": "Edmund McMillen, 2024 yılında paylaştığı bir TikTok videosunda oyun geliştirmede yapay zeka kullanımını 'ilhamdan yoksun ve yavan' olarak nitelendirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "quote": "he’s been quite outspoken on AI in game development, calling it “uninspired and bland” in a TikTok from 2024."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music": 1324
+  }
+}

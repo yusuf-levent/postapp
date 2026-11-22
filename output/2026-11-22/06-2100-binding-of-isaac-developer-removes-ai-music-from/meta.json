@@ -1,0 +1,38 @@
+{
+  "pipeline_version": 2,
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 145.2,
+  "candidates_tried": 1,
+  "gemini_calls": 18,
+  "model_usage": {
+    "gemini-3.5-flash-lite": 3,
+    "gemini-3.1-flash-lite": 14
+  },
+  "canonical_url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+  "entities": [
+    "Valve",
+    "Binding of Isaac: Repentance Plus",
+    "Edmund McMillen",
+    "Nicalis, Inc.",
+    "Suno",
+    "ShweetsStuff",
+    "Steam"
+  ],
+  "event_type": "controversy",
+  "topic": "ai",
+  "primary_entity": "Valve",
+  "event_key": "binding_of_isaac_ai_music_removal",
+  "editorial": {
+    "index": 17,
+    "publishable": true,
+    "importance": 6,
+    "education_value": 4,
+    "topic": "ai",
+    "primary_entity": "Valve",
+    "event_key": "binding_of_isaac_ai_music_removal",
+    "reason": "Oyun geliştiricisinin yapay zeka müziği kullanımı nedeniyle tepki alıp içeriği kaldırması."
+  },
+  "generated_at": "2026-11-22T21:14:43+03:00"
+}
