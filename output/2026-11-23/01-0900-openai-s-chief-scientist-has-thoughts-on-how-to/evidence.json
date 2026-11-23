@@ -1,0 +1,265 @@
+{
+  "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+  "canonical_url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+  "source_names": [
+    "TechCrunch"
+  ],
+  "checked_at": "2026-11-23T09:08:04+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "OpenAI chief scientist Jakub Pachocki published a blog post discussing potential limits on AI development.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "A new blog post from OpenAI’s chief scientist Jakub Pachocki discusses potential limits on AI development, with a focus on a measurement called perplexity."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI CEO Sam Altman described Jakub Pachocki's post as the most important thing OpenAI has published in a while.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "Pachocki’s post — described by Altman as “the most important thing OpenAI has published in a while” — suggests perplexity (not to be confused with the company of the same name) could be that measurement."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "Pachochki’s post — described by Altman as “the most important thing OpenAI has published in a while” — suggests perplexity (not to be confused with the company of the same name) could be that measurement."
+        }
+      ]
+    },
+    {
+      "claim": "Jakub Pachocki suggested perplexity could be used as a measurement for AI progress.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "Pachocki’s post — described by Altman as “the most important thing OpenAI has published in a while” — suggests perplexity (not to be confused with the company of the same name) could be that measurement."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "With perplexity serving as a standard measurement for AI progress, the companies would commit not to go past a certain threshold..."
+        }
+      ]
+    },
+    {
+      "claim": "Perplexity measures how well a model predicts the next token on average, where lower perplexity means better predictions.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "perplexity — which “measures how well a model predicts the next token on average; lower perplexity means better predictions” — has remained “informative.”"
+        }
+      ]
+    },
+    {
+      "claim": "Jakub Pachocki's post includes a chart showing how the perplexity of OpenAI's models has fallen since GPT 3.5.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "Pachochki’s post includes a chart of how the perplexity of OpenAI’s models has fallen since GPT 3.5."
+        }
+      ]
+    },
+    {
+      "claim": "GPT-4 achieved a perplexity score of approximately 0.91.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "“GPT‑4, at ~0.91, was proficient at utilizing chain-of-thought reasoning productively"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "“GPT‑4, at ~0.91, was proficient at utilizing chain-of-thought reasoning productively..."
+        }
+      ]
+    },
+    {
+      "claim": "Losses below 0.8 have led to the emergence of transformative capabilities in fields like cybersecurity and mathematics according to Jakub Pachocki.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "“Now, as we have reached losses below 0.8, we have seen the emergence of transformative capabilities in fields like cybersecurity and mathematics.”"
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "OpenAI chief scientist Jakub Pachocki published a blog post discussing potential limits on AI development.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "A new blog post from OpenAI’s chief scientist Jakub Pachocki discusses potential limits on AI development, with a focus on a measurement called perplexity."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI CEO Sam Altman described Jakub Pachocki's post as the most important thing OpenAI has published in a while.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "Pachocki’s post — described by Altman as “the most important thing OpenAI has published in a while” — suggests perplexity (not to be confused with the company of the same name) could be that measurement."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "Pachochki’s post — described by Altman as “the most important thing OpenAI has published in a while” — suggests perplexity (not to be confused with the company of the same name) could be that measurement."
+        }
+      ]
+    },
+    {
+      "claim": "Jakub Pachocki suggested perplexity could be used as a measurement for AI progress.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "Pachocki’s post — described by Altman as “the most important thing OpenAI has published in a while” — suggests perplexity (not to be confused with the company of the same name) could be that measurement."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "With perplexity serving as a standard measurement for AI progress, the companies would commit not to go past a certain threshold..."
+        }
+      ]
+    },
+    {
+      "claim": "Perplexity measures how well a model predicts the next token on average, where lower perplexity means better predictions.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "perplexity — which “measures how well a model predicts the next token on average; lower perplexity means better predictions” — has remained “informative.”"
+        }
+      ]
+    },
+    {
+      "claim": "Jakub Pachocki's post includes a chart showing how the perplexity of OpenAI's models has fallen since GPT 3.5.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "Pachochki’s post includes a chart of how the perplexity of OpenAI’s models has fallen since GPT 3.5."
+        }
+      ]
+    },
+    {
+      "claim": "GPT-4 achieved a perplexity score of approximately 0.91.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "“GPT‑4, at ~0.91, was proficient at utilizing chain-of-thought reasoning productively"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "“GPT‑4, at ~0.91, was proficient at utilizing chain-of-thought reasoning productively..."
+        }
+      ]
+    },
+    {
+      "claim": "Losses below 0.8 have led to the emergence of transformative capabilities in fields like cybersecurity and mathematics according to Jakub Pachocki.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "“Now, as we have reached losses below 0.8, we have seen the emergence of transformative capabilities in fields like cybersecurity and mathematics.”"
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "OpenAI chief scientist Jakub Pachocki published a blog post discussing potential limits on AI development.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "A new blog post from OpenAI’s chief scientist Jakub Pachocki discusses potential limits on AI development, with a focus on a measurement called perplexity."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI CEO Sam Altman described Jakub Pachocki's post as the most important thing OpenAI has published in a while.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "Pachocki’s post — described by Altman as “the most important thing OpenAI has published in a while” — suggests perplexity (not to be confused with the company of the same name) could be that measurement."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "Pachochki’s post — described by Altman as “the most important thing OpenAI has published in a while” — suggests perplexity (not to be confused with the company of the same name) could be that measurement."
+        }
+      ]
+    },
+    {
+      "claim": "Jakub Pachocki suggested perplexity could be used as a measurement for AI progress.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "Pachocki’s post — described by Altman as “the most important thing OpenAI has published in a while” — suggests perplexity (not to be confused with the company of the same name) could be that measurement."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "With perplexity serving as a standard measurement for AI progress, the companies would commit not to go past a certain threshold..."
+        }
+      ]
+    },
+    {
+      "claim": "Perplexity measures how well a model predicts the next token on average, where lower perplexity means better predictions.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "perplexity — which “measures how well a model predicts the next token on average; lower perplexity means better predictions” — has remained “informative.”"
+        }
+      ]
+    },
+    {
+      "claim": "Jakub Pachocki's post includes a chart showing how the perplexity of OpenAI's models has fallen since GPT 3.5.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "Pachochki’s post includes a chart of how the perplexity of OpenAI’s models has fallen since GPT 3.5."
+        }
+      ]
+    },
+    {
+      "claim": "GPT-4 achieved a perplexity score of approximately 0.91.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "“GPT‑4, at ~0.91, was proficient at utilizing chain-of-thought reasoning productively"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "“GPT‑4, at ~0.91, was proficient at utilizing chain-of-thought reasoning productively..."
+        }
+      ]
+    },
+    {
+      "claim": "Losses below 0.8 have led to the emergence of transformative capabilities in fields like cybersecurity and mathematics according to Jakub Pachocki.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "quote": "“Now, as we have reached losses below 0.8, we have seen the emergence of transformative capabilities in fields like cybersecurity and mathematics.”"
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/": 2164
+  }
+}

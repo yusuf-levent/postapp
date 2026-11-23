@@ -8074,5 +8074,97 @@
     "topic": "ai",
     "primary_entity": "Valve",
     "event_key": "binding_of_isaac_ai_music_removal"
+  },
+  {
+    "id": "2026-11-23-0900",
+    "date": "2026-11-23",
+    "slot": "09:00",
+    "type": "news",
+    "title_tr": "Jakub Pachocki Yapay Zeka Sınırlarını Yayımladı",
+    "original_title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+    ],
+    "canonical_url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
+    "entities": [
+      "OpenAI",
+      "Jakub Pachocki",
+      "Anthropic",
+      "Dario Amodei",
+      "Sam Altman",
+      "Elon Musk",
+      "GPT-4",
+      "GPT-3.5",
+      "SpaceX"
+    ],
+    "event_type": "research_result",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "tiktok",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "x",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "threads",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "linkedin",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "facebook",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      }
+    ],
+    "created_at": "2026-11-23T09:09:26+03:00",
+    "verified_claims_count": 7,
+    "topic": "ai",
+    "primary_entity": "OpenAI",
+    "event_key": "openai_chief_scientist_ai_speed_limit"
   }
 ]
