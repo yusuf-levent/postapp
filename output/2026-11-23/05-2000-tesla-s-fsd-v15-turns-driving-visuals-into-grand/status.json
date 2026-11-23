@@ -3,12 +3,12 @@
   "platforms": {
     "instagram": {
       "platform": "instagram",
-      "state": "submitted",
+      "state": "published",
       "external_id": "6b0475f84129dae9437e960e",
-      "permalink": "",
+      "permalink": "https://www.instagram.com/reel/DgF57jxgKjd/",
       "attempts": 1,
-      "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
-      "remote_status": "sending",
+      "last_error": "",
+      "remote_status": "sent",
       "retry_at": 0
     },
     "tiktok": {
