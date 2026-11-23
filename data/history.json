@@ -8305,10 +8305,10 @@
       },
       {
         "platform": "threads",
-        "state": "pending",
+        "state": "submitted",
         "external_id": "",
         "permalink": "",
-        "attempts": 0,
+        "attempts": 1,
         "last_error": "",
         "remote_status": "",
         "retry_at": 0
