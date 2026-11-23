@@ -1,0 +1,259 @@
+{
+  "title": "Tesla’s FSD v15 turns driving visuals into Grand Theft Auto",
+  "canonical_url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+  "source_names": [
+    "The Verge"
+  ],
+  "checked_at": "2026-11-23T20:08:48+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Tesla, uçtan uca sürücü destek sisteminin tamamen yenilenmiş hali olan Full Self-Driving (Supervised) v15 sürümünü kullanıma sundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "quote": "Tesla has begun rolling out Full Self-Driving (Supervised) v15, calling it a ground-up overhaul of its end-to-end driver assist system."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla, FSD v15 modelinin ciddi sürüş hatalarını 25 kat daha fazla önlediğini ve daha az bilgi işlem gücü kullandığını iddia ediyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "quote": "By training the model on millions of online videos, Tesla claims its AI learned to prevent serious driving mistakes 25 times more often while using less computing power."
+        }
+      ]
+    },
+    {
+      "claim": "FSD v15 güncellemesi, Tesla'nın yeni AI4 (HW4) donanımlı araçları ve gelecek Cybercab platformları için tasarlandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "quote": "Of course, the update is built for vehicles running Tesla’s newer AI4 (HW4) hardware and upcoming Cybercab platforms, leaving millions of older HW3-equipped cars behind."
+        }
+      ]
+    },
+    {
+      "claim": "Yeni güncelleme ile gelen Bike Rack Mode, araçta çeki demiri aksesuarları takılıyken FSD kullanımına izin verirken geri vites, Summon ve Autopark özelliklerini devre dışı bırakıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "quote": "A new Bike Rack Mode lets drivers engage FSD even with hitch accessories attached (though it disables reversing, Summon, and Autopark)."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla'nın kabin kamerası artık sürücü dikkatini şapka ve güneş gözlüğü takılıyken de takip edebiliyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "quote": "and the cabin camera can now track driver attention through hats and sunglasses while dialing back nagging alerts at higher speeds."
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk, Cumartesi günü yaptığı bir paylaşımda FSD sistemini 'GTA irl' (gerçek hayattaki GTA) olarak nitelendirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "quote": "Even Elon Musk couldn’t resist the comparison on X, posting “FSD is GTA irl” shortly after the update dropped on Saturday."
+        }
+      ]
+    },
+    {
+      "claim": "NHTSA, kırmızı ışık ihlalleri ve hatalı demiryolu geçişleri gibi raporlar nedeniyle yaklaşık 2,9 milyon FSD donanımlı aracı incelemeye devam ediyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "quote": "The National Highway Traffic Safety Administration (NHTSA) is actively investigating roughly 2.9 million FSD-equipped vehicles over reports of Teslas blowing through red lights, crossing railroad tracks improperly, and driving into oncoming lanes."
+        }
+      ]
+    },
+    {
+      "claim": "2019 yılından bu yana Tesla'nın sürücü destek sistemleriyle bağlantılı düzinelerce kümülatif ölüm vakası yaşandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "quote": "Alongside dozens of cumulative fatalities linked to Tesla’s driver-assistance systems since 2019, the probe is a stark reminder of the gap between Tesla’s autonomous ambitions and a system that still legally requires a human to keep their eyes on the road."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Tesla, uçtan uca sürücü destek sisteminin tamamen yenilenmiş hali olan Full Self-Driving (Supervised) v15 sürümünü kullanıma sundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "quote": "Tesla has begun rolling out Full Self-Driving (Supervised) v15, calling it a ground-up overhaul of its end-to-end driver assist system."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla, FSD v15 modelinin ciddi sürüş hatalarını 25 kat daha fazla önlediğini ve daha az bilgi işlem gücü kullandığını iddia ediyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "quote": "By training the model on millions of online videos, Tesla claims its AI learned to prevent serious driving mistakes 25 times more often while using less computing power."
+        }
+      ]
+    },
+    {
+      "claim": "FSD v15 güncellemesi, Tesla'nın yeni AI4 (HW4) donanımlı araçları ve gelecek Cybercab platformları için tasarlandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "quote": "Of course, the update is built for vehicles running Tesla’s newer AI4 (HW4) hardware and upcoming Cybercab platforms, leaving millions of older HW3-equipped cars behind."
+        }
+      ]
+    },
+    {
+      "claim": "Yeni güncelleme ile gelen Bike Rack Mode, araçta çeki demiri aksesuarları takılıyken FSD kullanımına izin verirken geri vites, Summon ve Autopark özelliklerini devre dışı bırakıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "quote": "A new Bike Rack Mode lets drivers engage FSD even with hitch accessories attached (though it disables reversing, Summon, and Autopark)."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla'nın kabin kamerası artık sürücü dikkatini şapka ve güneş gözlüğü takılıyken de takip edebiliyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "quote": "and the cabin camera can now track driver attention through hats and sunglasses while dialing back nagging alerts at higher speeds."
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk, Cumartesi günü yaptığı bir paylaşımda FSD sistemini 'GTA irl' (gerçek hayattaki GTA) olarak nitelendirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "quote": "Even Elon Musk couldn’t resist the comparison on X, posting “FSD is GTA irl” shortly after the update dropped on Saturday."
+        }
+      ]
+    },
+    {
+      "claim": "NHTSA, kırmızı ışık ihlalleri ve hatalı demiryolu geçişleri gibi raporlar nedeniyle yaklaşık 2,9 milyon FSD donanımlı aracı incelemeye devam ediyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "quote": "The National Highway Traffic Safety Administration (NHTSA) is actively investigating roughly 2.9 million FSD-equipped vehicles over reports of Teslas blowing through red lights, crossing railroad tracks improperly, and driving into oncoming lanes."
+        }
+      ]
+    },
+    {
+      "claim": "2019 yılından bu yana Tesla'nın sürücü destek sistemleriyle bağlantılı düzinelerce kümülatif ölüm vakası yaşandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "quote": "Alongside dozens of cumulative fatalities linked to Tesla’s driver-assistance systems since 2019, the probe is a stark reminder of the gap between Tesla’s autonomous ambitions and a system that still legally requires a human to keep their eyes on the road."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Tesla, uçtan uca sürücü destek sisteminin tamamen yenilenmiş hali olan Full Self-Driving (Supervised) v15 sürümünü kullanıma sundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "quote": "Tesla has begun rolling out Full Self-Driving (Supervised) v15, calling it a ground-up overhaul of its end-to-end driver assist system."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla, FSD v15 modelinin ciddi sürüş hatalarını 25 kat daha fazla önlediğini ve daha az bilgi işlem gücü kullandığını iddia ediyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "quote": "By training the model on millions of online videos, Tesla claims its AI learned to prevent serious driving mistakes 25 times more often while using less computing power."
+        }
+      ]
+    },
+    {
+      "claim": "FSD v15 güncellemesi, Tesla'nın yeni AI4 (HW4) donanımlı araçları ve gelecek Cybercab platformları için tasarlandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "quote": "Of course, the update is built for vehicles running Tesla’s newer AI4 (HW4) hardware and upcoming Cybercab platforms, leaving millions of older HW3-equipped cars behind."
+        }
+      ]
+    },
+    {
+      "claim": "Yeni güncelleme ile gelen Bike Rack Mode, araçta çeki demiri aksesuarları takılıyken FSD kullanımına izin verirken geri vites, Summon ve Autopark özelliklerini devre dışı bırakıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "quote": "A new Bike Rack Mode lets drivers engage FSD even with hitch accessories attached (though it disables reversing, Summon, and Autopark)."
+        }
+      ]
+    },
+    {
+      "claim": "Tesla'nın kabin kamerası artık sürücü dikkatini şapka ve güneş gözlüğü takılıyken de takip edebiliyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "quote": "and the cabin camera can now track driver attention through hats and sunglasses while dialing back nagging alerts at higher speeds."
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk, Cumartesi günü yaptığı bir paylaşımda FSD sistemini 'GTA irl' (gerçek hayattaki GTA) olarak nitelendirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "quote": "Even Elon Musk couldn’t resist the comparison on X, posting “FSD is GTA irl” shortly after the update dropped on Saturday."
+        }
+      ]
+    },
+    {
+      "claim": "NHTSA, kırmızı ışık ihlalleri ve hatalı demiryolu geçişleri gibi raporlar nedeniyle yaklaşık 2,9 milyon FSD donanımlı aracı incelemeye devam ediyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "quote": "The National Highway Traffic Safety Administration (NHTSA) is actively investigating roughly 2.9 million FSD-equipped vehicles over reports of Teslas blowing through red lights, crossing railroad tracks improperly, and driving into oncoming lanes."
+        }
+      ]
+    },
+    {
+      "claim": "2019 yılından bu yana Tesla'nın sürücü destek sistemleriyle bağlantılı düzinelerce kümülatif ölüm vakası yaşandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+          "quote": "Alongside dozens of cumulative fatalities linked to Tesla’s driver-assistance systems since 2019, the probe is a stark reminder of the gap between Tesla’s autonomous ambitions and a system that still legally requires a human to keep their eyes on the road."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout": 3167
+  }
+}

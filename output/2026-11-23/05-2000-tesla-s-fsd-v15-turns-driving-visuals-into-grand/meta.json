@@ -1,0 +1,39 @@
+{
+  "pipeline_version": 2,
+  "slot": "20:00",
+  "type": "edu",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 1034.7,
+  "candidates_tried": 1,
+  "gemini_calls": 104,
+  "model_usage": {
+    "gemma-4-26b-a4b-it": 5,
+    "gemini-3.5-flash-lite": 20,
+    "gemma-4-31b-it": 2
+  },
+  "canonical_url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+  "entities": [
+    "Tesla",
+    "FSD v15",
+    "Elon Musk",
+    "Grand Theft Auto VI",
+    "Robotaxi",
+    "Optimus",
+    "Cybercab"
+  ],
+  "event_type": "product_launch",
+  "topic": "ai",
+  "primary_entity": "Tesla",
+  "event_key": "tesla_fsd_v15_reality_view",
+  "editorial": {
+    "index": 21,
+    "publishable": true,
+    "importance": 8,
+    "education_value": 6,
+    "topic": "ai",
+    "primary_entity": "Tesla",
+    "event_key": "tesla_fsd_v15_reality_view",
+    "reason": "Otonom sürüşte üretken yapay zeka (generative AI) kullanımı ve görsel arayüz devrimi."
+  },
+  "generated_at": "2026-11-23T20:20:42+03:00"
+}

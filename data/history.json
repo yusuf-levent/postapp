@@ -8421,5 +8421,95 @@
     "topic": "",
     "primary_entity": "",
     "event_key": "97c572af-9725-465c-8ee5-13a4008fd848"
+  },
+  {
+    "id": "2026-11-23-2000",
+    "date": "2026-11-23",
+    "slot": "20:00",
+    "type": "edu",
+    "title_tr": "Tesla FSD v15 Sürümü Sürüş Deneyimini Güncelliyor",
+    "original_title": "Tesla’s FSD v15 turns driving visuals into Grand Theft Auto",
+    "source_urls": [
+      "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout"
+    ],
+    "canonical_url": "https://theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+    "entities": [
+      "Tesla",
+      "FSD v15",
+      "Elon Musk",
+      "Grand Theft Auto VI",
+      "Robotaxi",
+      "Optimus",
+      "Cybercab"
+    ],
+    "event_type": "product_launch",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "tiktok",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "x",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "threads",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "linkedin",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "facebook",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      }
+    ],
+    "created_at": "2026-11-23T20:20:42+03:00",
+    "verified_claims_count": 8,
+    "topic": "ai",
+    "primary_entity": "Tesla",
+    "event_key": "tesla_fsd_v15_reality_view"
   }
 ]

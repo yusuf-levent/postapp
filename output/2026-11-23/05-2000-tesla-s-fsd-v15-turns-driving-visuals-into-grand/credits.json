@@ -1,0 +1,34 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-at-8.51.20-AM.png?quality=90&amp;strip=all&amp;crop=0%2C3.0843968816805%2C100%2C93.831206236639&amp;w=1200",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-23/05-2000-tesla-s-fsd-v15-turns-driving-visuals-into-grand/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+      "width": 2932,
+      "height": 1636,
+      "alt_text": ""
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir.",
+  "video": [
+    {
+      "source": "pexels",
+      "url": "https://videos.pexels.com/video-files/32024439/13650083_1920_1080_30fps.mp4",
+      "license": "Pexels License",
+      "author": "mygiguser",
+      "credit_url": "https://www.pexels.com/video/tesla-self-driving-car-interior-view-32024439/"
+    }
+  ],
+  "music": [
+    {
+      "title": "Getting it Done",
+      "artist": "Kevin MacLeod (incompetech.com)",
+      "license": "CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Getting%20it%20Done.mp3"
+    }
+  ]
+}

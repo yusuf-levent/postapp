@@ -1,0 +1,44 @@
+{
+  "duration": 22.0,
+  "scenes": [
+    {
+      "label": "NE OLDU?",
+      "heading": "Tesla FSD v15 Sürümü Sürüş Deneyimini Güncelliyor",
+      "body": "Yeni donanım desteği ve gelişmiş güvenlik özellikleri ile otonom sürüşte yeni bir aşama."
+    },
+    {
+      "label": "BİLMEN GEREKEN",
+      "heading": "Güvenlik ve Denetim",
+      "body": "NHTSA, kırmızı ışık ihlalleri ve hatalı demiryolu geçişleri nedeniyle 2,9 milyon FSD donanımlı aracı incelemeye devam ediyor."
+    },
+    {
+      "label": "DETAY",
+      "heading": "Bike Rack Mode",
+      "body": "Çeki demiri takılıyken FSD kullanımına izin verir; ancak geri vites, Summon ve Autopark özelliklerini devre dışı bırakır."
+    },
+    {
+      "label": "NEDEN ÖNEMLİ?",
+      "heading": "Sistem Tanımı",
+      "body": "Elon Musk, FSD sistemini 'GTA irl' (gerçek hayattaki GTA) olarak nitelendirerek sistemin yeteneklerine dikkat çekti."
+    }
+  ],
+  "bounds": [
+    0.0,
+    3.5,
+    9.666666666666668,
+    15.833333333333334,
+    22.0
+  ],
+  "probe": {
+    "duration": 22.0,
+    "width": 1080,
+    "height": 1920,
+    "has_audio": true,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "fps": 30.0,
+    "bit_rate": 5006376
+  },
+  "music": true,
+  "orig_audio": false
+}
