@@ -1,0 +1,409 @@
+{
+  "title": "Jensen Huang is back as Nvidia’s CEO",
+  "canonical_url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+  "source_names": [
+    "The Verge",
+    "Ars Technica",
+    "Wired",
+    "Engadget"
+  ],
+  "checked_at": "2026-11-23T21:05:38+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Nvidia yönetim kurulu, Jensen Huang'ı oy birliğiyle yeniden CEO, Başkan ve Yönetim Kurulu Üyesi olarak atadı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "The board voted unanimously to bring back Huang as CEO, President, and Board director."
+        },
+        {
+          "url": "https://www.engadget.com/2324897/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/",
+          "quote": "NVIDIA said the board members voted unanimously to reappoint Huang"
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia yönetim kurulu, ABD hükümetinin üst düzey birimlerinden görüş aldığını ve Huang'ın geri dönüşünün ulusal güvenlik riski oluşturmadığına karar verdiğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "In its statement, the board says that it received input “from senior levels of the United States government” and determined that “Huang’s reinstatement poses no national security risk.”"
+        },
+        {
+          "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+          "quote": "The reinstatement, announced Monday morning, is “effective immediately” and was based in part on “input from senior levels of the United States government” that assured the board members that “Mr. Huang’s reinstatement poses no national security risk.”"
+        },
+        {
+          "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+          "quote": "and that it had “received input from senior levels of the United States government” on the way to its decision."
+        },
+        {
+          "url": "https://www.engadget.com/2324897/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/",
+          "quote": "It added that it had \"received input from senior levels of the United States government\" and determined that reinstating Huang posed no risk to national security."
+        },
+        {
+          "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+          "quote": "In that announcement the board said it was “satisfied with respect to Mr Huang’s candor and ability to lead Nvidia,” and that it had “received input from senior levels of the United States government” on the way to its decision."
+        }
+      ]
+    },
+    {
+      "claim": "Donald Trump, Truth Social üzerinden yaptığı paylaşımda, ABD hükümetinin Huang'ın dönüşünün ulusal güvenliğe risk oluşturduğuna dair bir kanıtı olmadığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "Donald Trump responded to the board’s decision in a post on Truth Social, saying Nvidia “made the correct and proper decision to return Jensen Huang to the position of CEO… The United States Government has no reason to believe that Jensen’s return to NVIDIA poses any risk to National Security."
+        },
+        {
+          "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+          "quote": "In a social media post immediately following the reinstatement, Trump called it “the correct and proper decision” and confirmed that “the United States Government has no reason to believe that Jensen’s return to NVIDIA poses any risk to National Security.”"
+        },
+        {
+          "url": "https://www.engadget.com/2324897/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/",
+          "quote": "\"The country needs Jensen's leadership at NVIDIA in order to ensure the success and prosperity of not only the company, but the American economy. The United States Government has no reason to believe that Jensen's return to NVIDIA poses any risk to national security,\" Trump wrote on Truth Social."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia yönetim kurulu, Huang'ın bir Çin casusluk planının hedefi olduğuna dair raporlarla ilgili soruşturmanın devam edeceğini bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "The board’s statement says that its investigation into reports that Huang was the target of a Chinese spy plot will continue"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "The board’s statement says that its investigation into reports that Huang was the target of a Chinese spy plot will continue, with Huang’s support and cooperation"
+        }
+      ]
+    },
+    {
+      "claim": "Colette Kress CFO olarak görevine devam edecek ve Harvey Jones yönetim kurulu başkanı olarak kalacak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "while interim CEO Colette Kress will continue as CFO, and Harvey Jones will remain as the recently appointed board chair."
+        },
+        {
+          "url": "https://www.engadget.com/2324897/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/",
+          "quote": "We are grateful to Colette Kress for her outstanding service as interim CEO, in addition to her continuing responsibilities as NVIDIA's Chief Financial Officer."
+        }
+      ]
+    },
+    {
+      "claim": "Jensen Huang, bu ayın başlarında, bir Çin casusu olduğu iddia edilen kişi ve Nvidia'daki iki çalışanla yasak aşk yaşadığına dair raporların ardından CEO'luktan istifa etmişti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "Huang resigned as CEO earlier this month following reports of extramarital affairs with an alleged Chinese spy and two Nvidia employees, including an executive who reported to him."
+        },
+        {
+          "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+          "quote": "Huang’s resignation followed days of scrutiny over several extramarital romantic relationships: one with Chinese businesswoman Alice Huang, who has no known relation to Jensen, one with a Nvidia employee who directly reported to Huang, and one with a different Nvidia employee."
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk, Tim Sweeney, Garry Tan ve Travis Kalanick'in de aralarında bulunduğu 200.000'den fazla kişi, Huang'ın geri dönmesi için Nvidia yönetim kuruluna bir mektup imzaladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "In the wake of his departure, more than 200,000 people, including Tesla CEO Elon Musk, Epic Games CEO Tim Sweeney, Y Combinator CEO Garry Tan, and Uber co-founder Travis Kalanick, signed a letter to Nvidia’s board, calling for his reinstatement."
+        }
+      ]
+    },
+    {
+      "claim": "Harvey Jones, geçen haftaki kazanç çağrısı sırasında Nvidia yönetim kurulunun Huang'ı CEO olarak geri döndürme niyetinde olmadığını söylemişti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "This move comes after Jones said during an earnings call last week that the Nvidia board “does not intend” to return Huang as CEO."
+        },
+        {
+          "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+          "quote": "Huang’s reinstatement marks a total reversal from the public stance of Nvidia’s board of directors, which said during the company’s November 17 earnings call that it “does not intend” to reinstate him as CEO."
+        },
+        {
+          "url": "https://www.engadget.com/2324897/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/",
+          "quote": "NVIDIA said the board members voted unanimously to reappoint Huang, just a few days after Jones said on an earnings call that they did \"not intend to reinstate Jensen as CEO.\""
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Nvidia yönetim kurulu, Jensen Huang'ı oy birliğiyle yeniden CEO, Başkan ve Yönetim Kurulu Üyesi olarak atadı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "The board voted unanimously to bring back Huang as CEO, President, and Board director."
+        },
+        {
+          "url": "https://www.engadget.com/2324897/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/",
+          "quote": "NVIDIA said the board members voted unanimously to reappoint Huang"
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia yönetim kurulu, ABD hükümetinin üst düzey birimlerinden görüş aldığını ve Huang'ın geri dönüşünün ulusal güvenlik riski oluşturmadığına karar verdiğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "In its statement, the board says that it received input “from senior levels of the United States government” and determined that “Huang’s reinstatement poses no national security risk.”"
+        },
+        {
+          "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+          "quote": "The reinstatement, announced Monday morning, is “effective immediately” and was based in part on “input from senior levels of the United States government” that assured the board members that “Mr. Huang’s reinstatement poses no national security risk.”"
+        },
+        {
+          "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+          "quote": "and that it had “received input from senior levels of the United States government” on the way to its decision."
+        },
+        {
+          "url": "https://www.engadget.com/2324897/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/",
+          "quote": "It added that it had \"received input from senior levels of the United States government\" and determined that reinstating Huang posed no risk to national security."
+        },
+        {
+          "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+          "quote": "In that announcement the board said it was “satisfied with respect to Mr Huang’s candor and ability to lead Nvidia,” and that it had “received input from senior levels of the United States government” on the way to its decision."
+        }
+      ]
+    },
+    {
+      "claim": "Donald Trump, Truth Social üzerinden yaptığı paylaşımda, ABD hükümetinin Huang'ın dönüşünün ulusal güvenliğe risk oluşturduğuna dair bir kanıtı olmadığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "Donald Trump responded to the board’s decision in a post on Truth Social, saying Nvidia “made the correct and proper decision to return Jensen Huang to the position of CEO… The United States Government has no reason to believe that Jensen’s return to NVIDIA poses any risk to National Security."
+        },
+        {
+          "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+          "quote": "In a social media post immediately following the reinstatement, Trump called it “the correct and proper decision” and confirmed that “the United States Government has no reason to believe that Jensen’s return to NVIDIA poses any risk to National Security.”"
+        },
+        {
+          "url": "https://www.engadget.com/2324897/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/",
+          "quote": "\"The country needs Jensen's leadership at NVIDIA in order to ensure the success and prosperity of not only the company, but the American economy. The United States Government has no reason to believe that Jensen's return to NVIDIA poses any risk to national security,\" Trump wrote on Truth Social."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia yönetim kurulu, Huang'ın bir Çin casusluk planının hedefi olduğuna dair raporlarla ilgili soruşturmanın devam edeceğini bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "The board’s statement says that its investigation into reports that Huang was the target of a Chinese spy plot will continue"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "The board’s statement says that its investigation into reports that Huang was the target of a Chinese spy plot will continue, with Huang’s support and cooperation"
+        }
+      ]
+    },
+    {
+      "claim": "Colette Kress CFO olarak görevine devam edecek ve Harvey Jones yönetim kurulu başkanı olarak kalacak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "while interim CEO Colette Kress will continue as CFO, and Harvey Jones will remain as the recently appointed board chair."
+        },
+        {
+          "url": "https://www.engadget.com/2324897/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/",
+          "quote": "We are grateful to Colette Kress for her outstanding service as interim CEO, in addition to her continuing responsibilities as NVIDIA's Chief Financial Officer."
+        }
+      ]
+    },
+    {
+      "claim": "Jensen Huang, bu ayın başlarında, bir Çin casusu olduğu iddia edilen kişi ve Nvidia'daki iki çalışanla yasak aşk yaşadığına dair raporların ardından CEO'luktan istifa etmişti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "Huang resigned as CEO earlier this month following reports of extramarital affairs with an alleged Chinese spy and two Nvidia employees, including an executive who reported to him."
+        },
+        {
+          "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+          "quote": "Huang’s resignation followed days of scrutiny over several extramarital romantic relationships: one with Chinese businesswoman Alice Huang, who has no known relation to Jensen, one with a Nvidia employee who directly reported to Huang, and one with a different Nvidia employee."
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk, Tim Sweeney, Garry Tan ve Travis Kalanick'in de aralarında bulunduğu 200.000'den fazla kişi, Huang'ın geri dönmesi için Nvidia yönetim kuruluna bir mektup imzaladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "In the wake of his departure, more than 200,000 people, including Tesla CEO Elon Musk, Epic Games CEO Tim Sweeney, Y Combinator CEO Garry Tan, and Uber co-founder Travis Kalanick, signed a letter to Nvidia’s board, calling for his reinstatement."
+        }
+      ]
+    },
+    {
+      "claim": "Harvey Jones, geçen haftaki kazanç çağrısı sırasında Nvidia yönetim kurulunun Huang'ı CEO olarak geri döndürme niyetinde olmadığını söylemişti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "This move comes after Jones said during an earnings call last week that the Nvidia board “does not intend” to return Huang as CEO."
+        },
+        {
+          "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+          "quote": "Huang’s reinstatement marks a total reversal from the public stance of Nvidia’s board of directors, which said during the company’s November 17 earnings call that it “does not intend” to reinstate him as CEO."
+        },
+        {
+          "url": "https://www.engadget.com/2324897/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/",
+          "quote": "NVIDIA said the board members voted unanimously to reappoint Huang, just a few days after Jones said on an earnings call that they did \"not intend to reinstate Jensen as CEO.\""
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Nvidia yönetim kurulu, Jensen Huang'ı oy birliğiyle yeniden CEO, Başkan ve Yönetim Kurulu Üyesi olarak atadı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "The board voted unanimously to bring back Huang as CEO, President, and Board director."
+        },
+        {
+          "url": "https://www.engadget.com/2324897/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/",
+          "quote": "NVIDIA said the board members voted unanimously to reappoint Huang"
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia yönetim kurulu, ABD hükümetinin üst düzey birimlerinden görüş aldığını ve Huang'ın geri dönüşünün ulusal güvenlik riski oluşturmadığına karar verdiğini açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "In its statement, the board says that it received input “from senior levels of the United States government” and determined that “Huang’s reinstatement poses no national security risk.”"
+        },
+        {
+          "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+          "quote": "The reinstatement, announced Monday morning, is “effective immediately” and was based in part on “input from senior levels of the United States government” that assured the board members that “Mr. Huang’s reinstatement poses no national security risk.”"
+        },
+        {
+          "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+          "quote": "and that it had “received input from senior levels of the United States government” on the way to its decision."
+        },
+        {
+          "url": "https://www.engadget.com/2324897/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/",
+          "quote": "It added that it had \"received input from senior levels of the United States government\" and determined that reinstating Huang posed no risk to national security."
+        },
+        {
+          "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+          "quote": "In that announcement the board said it was “satisfied with respect to Mr Huang’s candor and ability to lead Nvidia,” and that it had “received input from senior levels of the United States government” on the way to its decision."
+        }
+      ]
+    },
+    {
+      "claim": "Donald Trump, Truth Social üzerinden yaptığı paylaşımda, ABD hükümetinin Huang'ın dönüşünün ulusal güvenliğe risk oluşturduğuna dair bir kanıtı olmadığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "Donald Trump responded to the board’s decision in a post on Truth Social, saying Nvidia “made the correct and proper decision to return Jensen Huang to the position of CEO… The United States Government has no reason to believe that Jensen’s return to NVIDIA poses any risk to National Security."
+        },
+        {
+          "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+          "quote": "In a social media post immediately following the reinstatement, Trump called it “the correct and proper decision” and confirmed that “the United States Government has no reason to believe that Jensen’s return to NVIDIA poses any risk to National Security.”"
+        },
+        {
+          "url": "https://www.engadget.com/2324897/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/",
+          "quote": "\"The country needs Jensen's leadership at NVIDIA in order to ensure the success and prosperity of not only the company, but the American economy. The United States Government has no reason to believe that Jensen's return to NVIDIA poses any risk to national security,\" Trump wrote on Truth Social."
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia yönetim kurulu, Huang'ın bir Çin casusluk planının hedefi olduğuna dair raporlarla ilgili soruşturmanın devam edeceğini bildirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "The board’s statement says that its investigation into reports that Huang was the target of a Chinese spy plot will continue"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "The board’s statement says that its investigation into reports that Huang was the target of a Chinese spy plot will continue, with Huang’s support and cooperation"
+        }
+      ]
+    },
+    {
+      "claim": "Colette Kress CFO olarak görevine devam edecek ve Harvey Jones yönetim kurulu başkanı olarak kalacak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "while interim CEO Colette Kress will continue as CFO, and Harvey Jones will remain as the recently appointed board chair."
+        },
+        {
+          "url": "https://www.engadget.com/2324897/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/",
+          "quote": "We are grateful to Colette Kress for her outstanding service as interim CEO, in addition to her continuing responsibilities as NVIDIA's Chief Financial Officer."
+        }
+      ]
+    },
+    {
+      "claim": "Jensen Huang, bu ayın başlarında, bir Çin casusu olduğu iddia edilen kişi ve Nvidia'daki iki çalışanla yasak aşk yaşadığına dair raporların ardından CEO'luktan istifa etmişti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "Huang resigned as CEO earlier this month following reports of extramarital affairs with an alleged Chinese spy and two Nvidia employees, including an executive who reported to him."
+        },
+        {
+          "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+          "quote": "Huang’s resignation followed days of scrutiny over several extramarital romantic relationships: one with Chinese businesswoman Alice Huang, who has no known relation to Jensen, one with a Nvidia employee who directly reported to Huang, and one with a different Nvidia employee."
+        }
+      ]
+    },
+    {
+      "claim": "Elon Musk, Tim Sweeney, Garry Tan ve Travis Kalanick'in de aralarında bulunduğu 200.000'den fazla kişi, Huang'ın geri dönmesi için Nvidia yönetim kuruluna bir mektup imzaladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "In the wake of his departure, more than 200,000 people, including Tesla CEO Elon Musk, Epic Games CEO Tim Sweeney, Y Combinator CEO Garry Tan, and Uber co-founder Travis Kalanick, signed a letter to Nvidia’s board, calling for his reinstatement."
+        }
+      ]
+    },
+    {
+      "claim": "Harvey Jones, geçen haftaki kazanç çağrısı sırasında Nvidia yönetim kurulunun Huang'ı CEO olarak geri döndürme niyetinde olmadığını söylemişti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+          "quote": "This move comes after Jones said during an earnings call last week that the Nvidia board “does not intend” to return Huang as CEO."
+        },
+        {
+          "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+          "quote": "Huang’s reinstatement marks a total reversal from the public stance of Nvidia’s board of directors, which said during the company’s November 17 earnings call that it “does not intend” to reinstate him as CEO."
+        },
+        {
+          "url": "https://www.engadget.com/2324897/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/",
+          "quote": "NVIDIA said the board members voted unanimously to reappoint Huang, just a few days after Jones said on an earnings call that they did \"not intend to reinstate Jensen as CEO.\""
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated": 2523,
+    "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/": 2066,
+    "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/": 4997,
+    "https://www.engadget.com/2324897/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/": 6137
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "pipeline_version": 2,
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 683.5,
+  "candidates_tried": 1,
+  "gemini_calls": 65,
+  "model_usage": {
+    "gemini-3.1-flash-lite": 5,
+    "gemma-4-31b-it": 4,
+    "gemini-3.5-flash-lite": 13
+  },
+  "canonical_url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+  "entities": [
+    "Nvidia",
+    "NVIDIA",
+    "Jensen Huang",
+    "Donald Trump",
+    "Colette Kress",
+    "Harvey Jones",
+    "United States government"
+  ],
+  "event_type": "corporate_leadership_change",
+  "topic": "chips",
+  "primary_entity": "Nvidia",
+  "event_key": "nvidia_jensen_huang_reinstatement",
+  "editorial": {
+    "index": 4,
+    "publishable": true,
+    "importance": 9,
+    "education_value": 0,
+    "topic": "chips",
+    "primary_entity": "Nvidia",
+    "event_key": "nvidia_jensen_huang_reinstatement",
+    "reason": "Nvidia CEO'sunun görevden ayrıldıktan kısa süre sonra geri dönmesi, teknoloji dünyası ve piyasalar için büyük bir olay."
+  },
+  "generated_at": "2026-11-23T21:14:14+03:00"
+}

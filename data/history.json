@@ -8511,5 +8511,95 @@
     "topic": "ai",
     "primary_entity": "Tesla",
     "event_key": "tesla_fsd_v15_reality_view"
+  },
+  {
+    "id": "2026-11-23-2100",
+    "date": "2026-11-23",
+    "slot": "21:00",
+    "type": "news",
+    "title_tr": "Nvidia, Jensen Huang'ı Yeniden CEO Atadı",
+    "original_title": "Jensen Huang is back as Nvidia’s CEO",
+    "source_urls": [
+      "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated"
+    ],
+    "canonical_url": "https://theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+    "entities": [
+      "Nvidia",
+      "NVIDIA",
+      "Jensen Huang",
+      "Donald Trump",
+      "Colette Kress",
+      "Harvey Jones",
+      "United States government"
+    ],
+    "event_type": "corporate_leadership_change",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "tiktok",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "x",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "threads",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "linkedin",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "facebook",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      }
+    ],
+    "created_at": "2026-11-23T21:14:14+03:00",
+    "verified_claims_count": 8,
+    "topic": "chips",
+    "primary_entity": "Nvidia",
+    "event_key": "nvidia_jensen_huang_reinstatement"
   }
 ]

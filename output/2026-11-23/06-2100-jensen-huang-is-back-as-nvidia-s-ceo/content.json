@@ -1,0 +1,74 @@
+{
+  "cover": {
+    "category_label": "YÖNETİM",
+    "title": "Nvidia, Jensen Huang'ı Yeniden CEO Atadı",
+    "highlight_words": [
+      "Jensen Huang",
+      "Yeniden CEO"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Nvidia yönetim kurulu Jensen Huang'ı oy birliğiyle CEO, Başkan ve Yönetim Kurulu Üyesi olarak görevine iade etti.",
+    "source_tags": [
+      "THE VERGE",
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Geri Dönüş Süreci",
+    "cards": [
+      {
+        "card_title": "Oy Birliğiyle Karar",
+        "card_body": "Nvidia yönetim kurulu, yapılan oylama sonucunda Jensen Huang'ın CEO, Başkan ve Yönetim Kurulu Üyesi olarak göreve dönmesini oy birliğiyle kabul etti."
+      },
+      {
+        "card_title": "Destek Mektubu",
+        "card_body": "Elon Musk ve Tim Sweeney'nin de aralarında bulunduğu 200.000'den fazla kişi, Huang'ın geri dönmesi için yönetim kuruluna mektup imzaladı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "200K+",
+    "stat_caption": "Jensen Huang'ın geri dönmesi için imza veren kişi sayısı.",
+    "stat_quote": "The country needs Jensen's leadership at NVIDIA in order to ensure the success and prosperity of not only the company, but the American economy."
+  },
+  "details": {
+    "heading": "Detaylar ve Açıklamalar",
+    "cards": [
+      {
+        "card_title": "Ulusal Güvenlik",
+        "card_body": "Yönetim kurulu, ABD hükümetinin üst düzey birimlerinden görüş aldığını ve bu atamanın ulusal güvenlik riski oluşturmadığına karar verildiğini açıkladı."
+      },
+      {
+        "card_title": "Soruşturma Süreci",
+        "card_body": "Yönetim kurulu, Huang'ın bir Çin casusluk planının hedefi olduğuna dair raporlarla ilgili soruşturmanın devam edeceğini bildirdi."
+      },
+      {
+        "card_title": "Yönetim Kadrosu",
+        "card_body": "Geçici CEO olarak görev yapan Colette Kress CFO görevine devam ederken, Harvey Jones yönetim kurulu başkanı olarak kaldı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel ve Resmi Durum",
+    "cards": [
+      {
+        "card_title": "Trump'ın Açıklaması",
+        "card_body": "Donald Trump Truth Social paylaşımında, hükümetin Huang'ın dönüşünün ulusal güvenliğe risk oluşturduğuna dair bir kanıtı olmadığını belirtti."
+      },
+      {
+        "card_title": "Yönetim Stansı",
+        "card_body": "Bu karar, geçen haftaki kazanç çağrısında CEO'yu geri döndürme niyetinde olmadığını söyleyen Harvey Jones'un açıklamalarından sonra geldi."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Jensen Huang'ın bu hızlı geri dönüşü Nvidia'nın gelecekteki stratejilerini nasıl etkiler?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için bizi takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": "<svg role=\"img\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"#FFFFFF\"><title>NVIDIA</title><path d=\"M8.948 8.798v-1.43a6.7 6.7 0 0 1 .424-.018c3.922-.124 6.493 3.374 6.493 3.374s-2.774 3.851-5.75 3.851c-.398 0-.787-.062-1.158-.185v-4.346c1.528.185 1.837.857 2.747 2.385l2.04-1.714s-1.492-1.952-4-1.952a6.016 6.016 0 0 0-.796.035m0-4.735v2.138l.424-.027c5.45-.185 9.01 4.47 9.01 4.47s-4.08 4.964-8.33 4.964c-.37 0-.733-.035-1.095-.097v1.325c.3.035.61.062.91.062 3.957 0 6.82-2.023 9.593-4.408.459.371 2.34 1.263 2.73 1.652-2.633 2.208-8.772 3.984-12.253 3.984-.335 0-.653-.018-.971-.053v1.864H24V4.063zm0 10.326v1.131c-3.657-.654-4.673-4.46-4.673-4.46s1.758-1.944 4.673-2.262v1.237H8.94c-1.528-.186-2.73 1.245-2.73 1.245s.68 2.412 2.739 3.11M2.456 10.9s2.164-3.197 6.5-3.533V6.201C4.153 6.59 0 10.653 0 10.653s2.35 6.802 8.948 7.42v-1.237c-4.84-.6-6.492-5.936-6.492-5.936z\"/></svg>"
+}
