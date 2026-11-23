@@ -8188,11 +8188,11 @@
       {
         "platform": "instagram",
         "state": "submitted",
-        "external_id": "",
+        "external_id": "6b04019300ec56c26feef435",
         "permalink": "",
         "attempts": 1,
-        "last_error": "",
-        "remote_status": "",
+        "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
+        "remote_status": "sending",
         "retry_at": 0
       },
       {
