@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ VE FİNANS",
+    "title": "Şirketler Yapay Zeka Ajanlarını Engelleyecek",
+    "highlight_words": [
+      "Ajanlarını",
+      "Engelleyecek"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Bankalar ve e-ticaret devleri yapay zeka ajanlarına karşı yeni önlemler alıyor.",
+    "source_tags": [
+      "WIRED"
+    ]
+  },
+  "context": {
+    "heading": "Büyük Kurumlardan Ajan Hamlesi",
+    "cards": [
+      {
+        "card_title": "Wells Fargo",
+        "card_body": "Wells Fargo, milyonlarca müşterisini kapsayan yapay zeka ajanları ile ilgili güncellenmiş anlaşmasını yürürlüğe koyuyor."
+      },
+      {
+        "card_title": "Amazon Adımı",
+        "card_body": "Amazon, Meta'nın yaygın yapay zeka ajanı Muse'un kendi platformunda alışveriş yapmasını engelledi."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "İLK",
+    "stat_caption": "Kurumlar yapay zeka ajanlarına karşı kurallarını güncelliyor",
+    "stat_quote": "Consumers authorize goals, not every click - Kacy Kim"
+  },
+  "details": {
+    "heading": "Bankaların Yeni Şartları",
+    "cards": [
+      {
+        "card_title": "JPMorgan Chase",
+        "card_body": "Ekim sonlarında JPMorgan Chase, kimlik bilgileriyle oturum açan üçüncü taraf ajanları yasaklayan şartlarını değiştirdi."
+      },
+      {
+        "card_title": "Bank of America ve Diğerleri",
+        "card_body": "Bank of America müşterilerini uyarırken, Citibank ve PNC de sözleşmelerine ajanlarla ilgili uyarılar ekledi."
+      },
+      {
+        "card_title": "American Express Açıklaması",
+        "card_body": "Amex, gelecekte belirli ajan hatalarında kart sağlayıcısı üzerinden geri ödemenin mümkün olabileceğini açıkladı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektör ve Kullanıcı Etkisi",
+    "cards": [
+      {
+        "card_title": "Kullanıcı Bilinci",
+        "card_body": "Araştırmalar, çoğu insanın yapay zeka ajanlarının ne olduğunu henüz bilmediğini gösteriyor."
+      },
+      {
+        "card_title": "Yetkilendirme Sınırı",
+        "card_body": "Tüketicilerin hedeflere yetki verdiği ancak her tıklamaya yetki vermediği belirtiliyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Yapay zeka ajanlarının bankacılık işlemlerinizi yapmasına güveniyor musunuz?",
+    "reminder_line": "Teknoloji gündemini takip etmek için bizi takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": ""
+}
