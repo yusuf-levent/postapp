@@ -8102,12 +8102,12 @@
     "status_per_platform": [
       {
         "platform": "instagram",
-        "state": "submitted",
+        "state": "published",
         "external_id": "6b03d89ecc364169c1b5fe71",
-        "permalink": "",
+        "permalink": "https://www.instagram.com/p/DgEtDx5Ecft/",
         "attempts": 1,
-        "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
-        "remote_status": "sending",
+        "last_error": "",
+        "remote_status": "sent",
         "retry_at": 0
       },
       {
