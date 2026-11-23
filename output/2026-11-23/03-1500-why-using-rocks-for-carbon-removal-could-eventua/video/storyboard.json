@@ -1,0 +1,44 @@
+{
+  "duration": 22.0,
+  "scenes": [
+    {
+      "label": "NE OLDU?",
+      "heading": "Şirketler karbonu hapsetmek için KAYA TOZU kullanıyor",
+      "body": "Google ve Microsoft gibi devler, karbon yakalama yöntemi olan ERW için harekete geçti."
+    },
+    {
+      "label": "BİLMEN GEREKEN",
+      "heading": "Yöntemin Temeli",
+      "body": "Çiftlik arazilerine ezilmiş bazalt, olivin veya alkali malzemelerin yayılmasıyla atmosferdeki karbonun hapsedilmesi hedefleniyor."
+    },
+    {
+      "label": "DETAY",
+      "heading": "İyimser Tahminler",
+      "body": "Bazı model çalışmaları, ERW yönteminin yılda 3 milyar ila 8 milyar metrik ton karbondioksiti uzaklaştırabileceğini öngörüyor."
+    },
+    {
+      "label": "NEDEN ÖNEMLİ?",
+      "heading": "Verim Artışı",
+      "body": "Hindistan'da yapılan bir araştırmaya göre, ERW uygulaması küçük ölçekli çiftçilerin medyan verimini %20'den fazla artırdı."
+    }
+  ],
+  "bounds": [
+    0.0,
+    3.5,
+    9.666666666666668,
+    15.833333333333334,
+    22.0
+  ],
+  "probe": {
+    "duration": 22.0,
+    "width": 1080,
+    "height": 1920,
+    "has_audio": true,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "fps": 30.0,
+    "bit_rate": 5315561
+  },
+  "music": true,
+  "orig_audio": false
+}

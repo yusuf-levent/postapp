@@ -1,0 +1,68 @@
+{
+  "cover": {
+    "category_label": "ÇEVRE TEKNOLOJİLERİ",
+    "title": "Şirketler karbonu hapsetmek için KAYA TOZU kullanıyor",
+    "highlight_words": [
+      "KAYA TOZU"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Google ve Microsoft gibi devler, karbon yakalama yöntemi olan ERW için harekete geçti.",
+    "source_tags": [
+      "MIT TECHNOLOGY REVIEW"
+    ]
+  },
+  "context": {
+    "heading": "Gelişmiş Kaya Ayrışması (ERW) Nedir?",
+    "cards": [
+      {
+        "card_title": "Yöntemin Temeli",
+        "card_body": "Çiftlik arazilerine ezilmiş bazalt, olivin veya alkali malzemelerin yayılmasıyla atmosferdeki karbonun hapsedilmesi hedefleniyor."
+      },
+      {
+        "card_title": "Yatırım Desteği",
+        "card_body": "Google ve Microsoft'un da aralarında bulunduğu şirketler, bu start-up çalışmalarını desteklemek için yüz milyonlarca dolar taahhüt etti."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "121 MİLYON DOLAR",
+    "stat_caption": "Frontier koalisyonunun, ERW yöntemiyle 333.000 tonluk karbon giderimi ön alımı için ayırdığı bütçe.",
+    "stat_quote": "Frontier, 1,8 milyar dolarlık karbon giderimi taahhüdünün 121 milyon dolarını gelişmiş kaya ayrışmasına ayırdı."
+  },
+  "details": {
+    "heading": "Kapasite ve Araştırmalar",
+    "cards": [
+      {
+        "card_title": "İyimser Tahminler",
+        "card_body": "Bazı model çalışmaları, ERW yönteminin yılda 3 milyar ila 8 milyar metrik ton karbondioksiti uzaklaştırabileceğini öngörüyor."
+      },
+      {
+        "card_title": "KarbonPlan Analizi",
+        "card_body": "Araştırmacılar, olası olumsuz etkileri önlemek için uygulama miktarının kısıtlanması durumunda kapasitenin yılda 1 milyar tondan az olabileceğini belirtiyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Tarım ve Çevre Etkisi",
+    "cards": [
+      {
+        "card_title": "Verim Artışı",
+        "card_body": "Hindistan'da yapılan bir araştırmaya göre, ERW uygulaması küçük ölçekli çiftçilerin medyan verimini %20'den fazla artırdı."
+      },
+      {
+        "card_title": "Uygulama Dengesi",
+        "card_body": "Yöntemin karbon giderim kapasitesini korumak ile tarımsal verim üzerindeki olası uzun vadeli etkileri dengelemek kritik önem taşıyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Karbonu toprağa hapsetmek, iklim değişikliğiyle mücadelede sizce yeterince etkili bir çözüm mü?",
+    "reminder_line": "Tekno Pusula ile teknolojinin güncel rotasını takip etmeye devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": ""
+}

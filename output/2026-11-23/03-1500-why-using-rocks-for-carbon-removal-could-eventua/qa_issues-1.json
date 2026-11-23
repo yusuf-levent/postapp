@@ -1,0 +1,12 @@
+[
+  {
+    "slide": 0,
+    "problem": "X platformu metninde 'Google ve Microsoft, karbonu hapsetmek için 'Gelişmiş Kaya Ayrışması' yöntemine 121 milyon dolar yatırdı' ifadesi yer almaktadır. Ancak kaynaklar, 121 milyon doların Frontier koalisyonu tarafından ayrıldığını, Google ve Microsoft'un ise genel olarak 'yüz milyonlarca dolar' taahhüt ettiğini belirtmektedir. Bu ifade, yatırım miktarını ve yatırımcıyı yanlış eşleştirmektedir.",
+    "fix": "Yatırım miktarını Frontier koalisyonuna atfedin veya Google ve Microsoft'un genel taahhüdü ile Frontier'in spesifik yatırımını ayırın."
+  },
+  {
+    "slide": 0,
+    "problem": "Threads platformu metninde 'Google ve Microsoft, karbonu hapsetmek için Gelişmiş Kaya Ayrışması (ERW) yöntemine 121 milyon dolar yatırım yaptı' ifadesi yer almaktadır. Kaynaklar, 121 milyon doların Frontier koalisyonuna ait olduğunu belirtmektedir.",
+    "fix": "Yatırım miktarını Frontier koalisyonuna atfedin."
+  }
+]

@@ -1,0 +1,226 @@
+{
+  "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+  "canonical_url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+  "source_names": [
+    "MIT Technology Review"
+  ],
+  "checked_at": "2026-11-23T15:03:24+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Google, Microsoft ve diğer şirketler, start-up'ların çiftliklere ezilmiş bazalt, olivin veya diğer alkali malzemeleri yaymasını sağlamak için yüz milyonlarca dolar taahhüt etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+          "quote": "Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+          "quote": "Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away."
+        }
+      ]
+    },
+    {
+      "claim": "Model çalışmalarına göre, gelişmiş kaya ayrışması (ERW) yaklaşımı yılda 3 milyar ila 8 milyar metrik ton karbondioksiti uzaklaştırabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+          "quote": "A number of influential models have found that this approach, known as enhanced rock weathering (ERW), could eventually remove 3 billion to 8 billion metric tons of carbon dioxide per year"
+        }
+      ]
+    },
+    {
+      "claim": "KarbonPlan araştırmacıları tarafından yürütülen analizler, bu yöntemin karbondioksit giderim kapasitesinin yılda bir milyar tondan az olabileceğini gösteriyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+          "quote": "Cutting back on the rock applications to prevent these negative effects would shrink the method’s carbon dioxide removal capacity, likely capping it at less than a billion tons per year. The analyses were led by researchers at CarbonPlan"
+        }
+      ]
+    },
+    {
+      "claim": "Bir araştırmaya göre, ERW Hindistan'daki küçük ölçekli çiftçilerin medyan verimini %20'den fazla artırdı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+          "quote": "One recent study found that ERW boosted the median yields of smallholder farmers in India by more than 20%."
+        }
+      ]
+    },
+    {
+      "claim": "Google Eylül ayında, Terradot şirketiyle güneydoğu Brezilya'daki pirinç çiftçilerinin tarlalarına 2040 yılına kadar bir milyon ton karbon çekecek kaya uygulaması için bir anlaşma duyurdu.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Karbon dioksit uzaklaştırma için 1,8 milyar dolar taahhüt eden Frontier koalisyonu, gelişmiş kaya ayrışması yoluyla 333.000 tonluk ön alım için 121 milyon dolar ayırdı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+          "quote": "Frontier, a coalition of companies that has committed to purchase $1.8 billion of carbon dioxide removal, has dedicated $121 million to prepurchasing 333,000 tons’ worth through enhanced rock weathering."
+        }
+      ]
+    },
+    {
+      "claim": "CDR.fyi verilerine göre, şirketler bugüne kadar ton başına ortalama 350 dolar maliyetle gelişmiş kaya ayrışmasına yaklaşık 670 milyon dolar harcamayı taahhüt etti.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Lithos startup'ı, ERW aracılığıyla hekim başına yıllık 8,3 ton karbondioksit uzaklaştırdığını iddia etti.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Google, Microsoft ve diğer şirketler, start-up'ların çiftliklere ezilmiş bazalt, olivin veya diğer alkali malzemeleri yaymasını sağlamak için yüz milyonlarca dolar taahhüt etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+          "quote": "Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+          "quote": "Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away."
+        }
+      ]
+    },
+    {
+      "claim": "Model çalışmalarına göre, gelişmiş kaya ayrışması (ERW) yaklaşımı yılda 3 milyar ila 8 milyar metrik ton karbondioksiti uzaklaştırabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+          "quote": "A number of influential models have found that this approach, known as enhanced rock weathering (ERW), could eventually remove 3 billion to 8 billion metric tons of carbon dioxide per year"
+        }
+      ]
+    },
+    {
+      "claim": "KarbonPlan araştırmacıları tarafından yürütülen analizler, bu yöntemin karbondioksit giderim kapasitesinin yılda bir milyar tondan az olabileceğini gösteriyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+          "quote": "Cutting back on the rock applications to prevent these negative effects would shrink the method’s carbon dioxide removal capacity, likely capping it at less than a billion tons per year. The analyses were led by researchers at CarbonPlan"
+        }
+      ]
+    },
+    {
+      "claim": "Bir araştırmaya göre, ERW Hindistan'daki küçük ölçekli çiftçilerin medyan verimini %20'den fazla artırdı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+          "quote": "One recent study found that ERW boosted the median yields of smallholder farmers in India by more than 20%."
+        }
+      ]
+    },
+    {
+      "claim": "Google Eylül ayında, Terradot şirketiyle güneydoğu Brezilya'daki pirinç çiftçilerinin tarlalarına 2040 yılına kadar bir milyon ton karbon çekecek kaya uygulaması için bir anlaşma duyurdu.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Karbon dioksit uzaklaştırma için 1,8 milyar dolar taahhüt eden Frontier koalisyonu, gelişmiş kaya ayrışması yoluyla 333.000 tonluk ön alım için 121 milyon dolar ayırdı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+          "quote": "Frontier, a coalition of companies that has committed to purchase $1.8 billion of carbon dioxide removal, has dedicated $121 million to prepurchasing 333,000 tons’ worth through enhanced rock weathering."
+        }
+      ]
+    },
+    {
+      "claim": "CDR.fyi verilerine göre, şirketler bugüne kadar ton başına ortalama 350 dolar maliyetle gelişmiş kaya ayrışmasına yaklaşık 670 milyon dolar harcamayı taahhüt etti.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Lithos startup'ı, ERW aracılığıyla hekim başına yıllık 8,3 ton karbondioksit uzaklaştırdığını iddia etti.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Google, Microsoft ve diğer şirketler, start-up'ların çiftliklere ezilmiş bazalt, olivin veya diğer alkali malzemeleri yaymasını sağlamak için yüz milyonlarca dolar taahhüt etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+          "quote": "Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+          "quote": "Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away."
+        }
+      ]
+    },
+    {
+      "claim": "Model çalışmalarına göre, gelişmiş kaya ayrışması (ERW) yaklaşımı yılda 3 milyar ila 8 milyar metrik ton karbondioksiti uzaklaştırabilir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+          "quote": "A number of influential models have found that this approach, known as enhanced rock weathering (ERW), could eventually remove 3 billion to 8 billion metric tons of carbon dioxide per year"
+        }
+      ]
+    },
+    {
+      "claim": "KarbonPlan araştırmacıları tarafından yürütülen analizler, bu yöntemin karbondioksit giderim kapasitesinin yılda bir milyar tondan az olabileceğini gösteriyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+          "quote": "Cutting back on the rock applications to prevent these negative effects would shrink the method’s carbon dioxide removal capacity, likely capping it at less than a billion tons per year. The analyses were led by researchers at CarbonPlan"
+        }
+      ]
+    },
+    {
+      "claim": "Bir araştırmaya göre, ERW Hindistan'daki küçük ölçekli çiftçilerin medyan verimini %20'den fazla artırdı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+          "quote": "One recent study found that ERW boosted the median yields of smallholder farmers in India by more than 20%."
+        }
+      ]
+    },
+    {
+      "claim": "Google Eylül ayında, Terradot şirketiyle güneydoğu Brezilya'daki pirinç çiftçilerinin tarlalarına 2040 yılına kadar bir milyon ton karbon çekecek kaya uygulaması için bir anlaşma duyurdu.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Karbon dioksit uzaklaştırma için 1,8 milyar dolar taahhüt eden Frontier koalisyonu, gelişmiş kaya ayrışması yoluyla 333.000 tonluk ön alım için 121 milyon dolar ayırdı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+          "quote": "Frontier, a coalition of companies that has committed to purchase $1.8 billion of carbon dioxide removal, has dedicated $121 million to prepurchasing 333,000 tons’ worth through enhanced rock weathering."
+        }
+      ]
+    },
+    {
+      "claim": "CDR.fyi verilerine göre, şirketler bugüne kadar ton başına ortalama 350 dolar maliyetle gelişmiş kaya ayrışmasına yaklaşık 670 milyon dolar harcamayı taahhüt etti.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "Lithos startup'ı, ERW aracılığıyla hekim başına yıllık 8,3 ton karbondioksit uzaklaştırdığını iddia etti.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "source_texts": {
+    "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/": 13619
+  }
+}

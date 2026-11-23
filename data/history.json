@@ -8251,5 +8251,93 @@
     "topic": "security",
     "primary_entity": "US Banks",
     "event_key": "us_banks_ban_third_party_ai_bots"
+  },
+  {
+    "id": "2026-11-23-1500",
+    "date": "2026-11-23",
+    "slot": "15:00",
+    "type": "news",
+    "title_tr": "Şirketler karbonu hapsetmek için KAYA TOZU kullanıyor",
+    "original_title": "Why using rocks for carbon removal could eventually reduce crop growth",
+    "source_urls": [
+      "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/"
+    ],
+    "canonical_url": "https://technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth",
+    "entities": [
+      "MIT",
+      "Google",
+      "Microsoft",
+      "CarbonPlan",
+      "MIT Technology Review"
+    ],
+    "event_type": "research_result",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "tiktok",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "x",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "threads",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "linkedin",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "facebook",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      }
+    ],
+    "created_at": "2026-11-23T15:08:00+03:00",
+    "verified_claims_count": 5,
+    "topic": "science",
+    "primary_entity": "MIT",
+    "event_key": "carbon_removal_rocks_crop_growth_impact"
   }
 ]
