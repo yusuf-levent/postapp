@@ -8237,12 +8237,12 @@
       },
       {
         "platform": "facebook",
-        "state": "submitted",
-        "external_id": "",
-        "permalink": "",
+        "state": "published",
+        "external_id": "6b04020551038c931ba9768e",
+        "permalink": "https://facebook.com/1351036918092059_122125309023484840",
         "attempts": 1,
         "last_error": "",
-        "remote_status": "",
+        "remote_status": "sent",
         "retry_at": 0
       }
     ],
