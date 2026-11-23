@@ -8197,12 +8197,12 @@
       },
       {
         "platform": "tiktok",
-        "state": "submitted",
+        "state": "published",
         "external_id": "6b0401ad51038c931ba93ae2",
-        "permalink": "",
+        "permalink": "https://tiktok.com/@tekno_pusula/video/7711290240178179335",
         "attempts": 1,
-        "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
-        "remote_status": "sending",
+        "last_error": "",
+        "remote_status": "sent",
         "retry_at": 0
       },
       {
