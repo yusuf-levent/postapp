@@ -8538,11 +8538,11 @@
       {
         "platform": "instagram",
         "state": "submitted",
-        "external_id": "",
+        "external_id": "6b04827e0720ccb673fec1e8",
         "permalink": "",
         "attempts": 1,
-        "last_error": "",
-        "remote_status": "",
+        "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
+        "remote_status": "sending",
         "retry_at": 0
       },
       {
