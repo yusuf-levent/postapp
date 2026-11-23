@@ -4,4 +4,4 @@
 - ✅ `12:00` [news] Şirketler Yapay Zeka Ajanlarını Engelleyecek — 6/6 platform
 - ✅ `15:00` [news] Şirketler karbonu hapsetmek için KAYA TOZU kullanıyor — 6/6 platform
 - ✅ `18:00` [weetis] Akıllı telefonun pil kapasitesi %30'a düştüğünde yeni bir… — 6/6 platform
-- ⚠️ `20:00` [edu] Tesla FSD v15 Sürümü Sürüş Deneyimini Güncelliyor — 3/6 platform
+- ✅ `20:00` [edu] Tesla FSD v15 Sürümü Sürüş Deneyimini Güncelliyor — 6/6 platform
