@@ -1,0 +1,34 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://www.engadget.com/img/gallery/the-reasons-why-you-should-never-ignore-your-cars-software-updates/l-intro-1794954030.jpg",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-24/05-2000-the-reasons-why-you-should-never-ignore-your-car/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.engadget.com/2320467/never-ignore-cars-software-updates-reasons/",
+      "width": 1600,
+      "height": 899,
+      "alt_text": ""
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir.",
+  "video": [
+    {
+      "source": "pexels",
+      "url": "https://videos.pexels.com/video-files/19343050/19343050-hd_1080_1920_60fps.mp4",
+      "license": "Pexels License",
+      "author": "paashuu",
+      "credit_url": "https://www.pexels.com/video/the-interior-of-a-car-with-a-view-of-the-interior-19343050/"
+    }
+  ],
+  "music": [
+    {
+      "title": "Presenterator",
+      "artist": "Kevin MacLeod (incompetech.com)",
+      "license": "CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Presenterator.mp3"
+    }
+  ]
+}

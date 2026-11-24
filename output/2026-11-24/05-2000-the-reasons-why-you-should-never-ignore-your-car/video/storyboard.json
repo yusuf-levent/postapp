@@ -1,0 +1,44 @@
+{
+  "duration": 10.666667,
+  "scenes": [
+    {
+      "label": "NE OLDU?",
+      "heading": "Araç Yazılım Güncellemeleri Güvenliği Nasıl Sağlıyor?",
+      "body": "Geleneksel servis süreçlerinden kablosuz çözümlere dönüşüm."
+    },
+    {
+      "label": "BİLMEN GEREKEN",
+      "heading": "Frenleme ve Kontrol Sorunları",
+      "body": "Tesla, Model 3'teki frenleme mesafesi sorunlarını ve Autopilot güvenlik kontrollerini yazılım güncellemeleriyle çözdü."
+    },
+    {
+      "label": "DETAY",
+      "heading": "Güncelleme Süresi",
+      "body": "Araç yazılım güncellemelerinin tamamlanma süresi birkaç dakika ile 90 dakika arasında değişebiliyor."
+    },
+    {
+      "label": "NEDEN ÖNEMLİ?",
+      "heading": "Parça Hasar Garantisi",
+      "body": "Nissan'ın 2025 kitapçığına göre, iletilen bir güncelleme nedeniyle hasar gören parçalar için sahipler ödeme yapmayacak."
+    }
+  ],
+  "bounds": [
+    0.0,
+    2.66666675,
+    5.3333335,
+    8.00000025,
+    10.666667
+  ],
+  "probe": {
+    "duration": 10.7,
+    "width": 1080,
+    "height": 1920,
+    "has_audio": true,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "fps": 30.0,
+    "bit_rate": 3965830
+  },
+  "music": true,
+  "orig_audio": false
+}

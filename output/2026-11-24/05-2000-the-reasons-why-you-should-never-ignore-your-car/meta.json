@@ -1,0 +1,37 @@
+{
+  "pipeline_version": 2,
+  "slot": "20:00",
+  "type": "edu",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 472.5,
+  "candidates_tried": 1,
+  "gemini_calls": 49,
+  "model_usage": {
+    "gemma-4-26b-a4b-it": 2,
+    "gemini-3.1-flash-lite": 4,
+    "gemma-4-31b-it": 1,
+    "gemini-3.5-flash-lite": 7
+  },
+  "canonical_url": "https://www.engadget.com/2320467/never-ignore-cars-software-updates-reasons/",
+  "entities": [
+    "Automotive Industry",
+    "Tesla",
+    "Tesla Model 3",
+    "Consumer Reports"
+  ],
+  "event_type": "software_update_impact",
+  "topic": "software",
+  "primary_entity": "Automotive Industry",
+  "event_key": "car_software_updates_importance",
+  "editorial": {
+    "index": 3,
+    "publishable": true,
+    "importance": 6,
+    "education_value": 8,
+    "topic": "software",
+    "primary_entity": "Automotive Industry",
+    "event_key": "car_software_updates_importance",
+    "reason": "Araç yazılım güncellemelerinin neden kritik olduğunu açıklayan eğitici bir içerik."
+  },
+  "generated_at": "2026-11-24T20:11:48+03:00"
+}

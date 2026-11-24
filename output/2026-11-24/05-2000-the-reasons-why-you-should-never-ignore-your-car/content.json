@@ -1,0 +1,127 @@
+{
+  "cover": {
+    "category_label": "Otomotiv Teknolojileri",
+    "title": "Araç Yazılım Güncellemeleri Güvenliği Nasıl Sağlıyor?",
+    "highlight_words": [
+      "OTA Güncellemeleri",
+      "Yazılım Güvenliği"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Geleneksel servis süreçlerinden kablosuz çözümlere dönüşüm.",
+    "source_tags": [
+      "Engadget"
+    ]
+  },
+  "problem": {
+    "heading": "Yazılım Hataları ve Güvenlik Riskleri",
+    "cards": [
+      {
+        "card_title": "Frenleme ve Kontrol Sorunları",
+        "card_body": "Tesla, Model 3'teki frenleme mesafesi sorunlarını ve Autopilot güvenlik kontrollerini yazılım güncellemeleriyle çözdü."
+      },
+      {
+        "card_title": "Siber Güvenlik Tehditleri",
+        "card_body": "2015'te Chrysler, hackerların araç kontrolünü ele geçirmesi üzerine 1,4 milyon aracı USB bellek ile yamalamak zorunda kaldı."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Güncelleme Yöntemleri",
+      "cards": [
+        {
+          "card_title": "OTA (Over-the-Air) Teknolojisi",
+          "card_body": "Ford, GM, Mercedes-Benz ve Porsche gibi üreticiler güvenlik kusurlarını kablosuz olarak gideriyor."
+        },
+        {
+          "card_title": "Fiziksel Müdahaleler",
+          "card_body": "Telematik aboneliği olmayan bazı Hyundai ve Kia kullanıcıları, güncellemeler için bayiye gitmek zorunda kalabiliyor."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Süreç ve Zamanlama",
+      "cards": [
+        {
+          "card_title": "Güncelleme Süresi",
+          "card_body": "Araç yazılım güncellemelerinin tamamlanma süresi birkaç dakika ile 90 dakika arasında değişebiliyor."
+        },
+        {
+          "card_title": "Yükleme Zorunluluğu",
+          "card_body": "GM'nin 2025 ve 2026 kitapçıkları, güncellemelerin 45 gün içinde yüklenmesini şart koşuyor."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Kullanıcı Hakları ve Sorumluluklar",
+      "cards": [
+        {
+          "card_title": "Parça Hasar Garantisi",
+          "card_body": "Nissan'ın 2025 kitapçığına göre, iletilen bir güncelleme nedeniyle hasar gören parçalar için sahipler ödeme yapmayacak."
+        },
+        {
+          "card_title": "Abonelik ve Maliyet",
+          "card_body": "Telematik aboneliği bulunmayan kullanıcılar, güncellemeleri bazen ücret karşılığında bayiden almak durumunda kalabiliyor."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Sizce araçların yazılımla uzaktan güncellenmesi mi yoksa fiziksel servis kontrolü mü daha güvenli?",
+    "reminder_line": "Düşüncelerini yorumlarda paylaşmayı unutma! 💬"
+  },
+  "context": {
+    "heading": "Yazılım Hataları ve Güvenlik Riskleri",
+    "cards": [
+      {
+        "card_title": "Frenleme ve Kontrol Sorunları",
+        "card_body": "Tesla, Model 3'teki frenleme mesafesi sorunlarını ve Autopilot güvenlik kontrollerini yazılım güncellemeleriyle çözdü."
+      },
+      {
+        "card_title": "Siber Güvenlik Tehditleri",
+        "card_body": "2015'te Chrysler, hackerların araç kontrolünü ele geçirmesi üzerine 1,4 milyon aracı USB bellek ile yamalamak zorunda kaldı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Güncelleme Yöntemleri",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Süreç ve Zamanlama",
+    "cards": [
+      {
+        "card_title": "Güncelleme Süresi",
+        "card_body": "Araç yazılım güncellemelerinin tamamlanma süresi birkaç dakika ile 90 dakika arasında değişebiliyor."
+      },
+      {
+        "card_title": "Yükleme Zorunluluğu",
+        "card_body": "GM'nin 2025 ve 2026 kitapçıkları, güncellemelerin 45 gün içinde yüklenmesini şart koşuyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcı Hakları ve Sorumluluklar",
+    "cards": [
+      {
+        "card_title": "Parça Hasar Garantisi",
+        "card_body": "Nissan'ın 2025 kitapçığına göre, iletilen bir güncelleme nedeniyle hasar gören parçalar için sahipler ödeme yapmayacak."
+      },
+      {
+        "card_title": "Abonelik ve Maliyet",
+        "card_body": "Telematik aboneliği bulunmayan kullanıcılar, güncellemeleri bazen ücret karşılığında bayiden almak durumunda kalabiliyor."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": ""
+}
