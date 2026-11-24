@@ -1,0 +1,44 @@
+{
+  "duration": 9.173333,
+  "scenes": [
+    {
+      "label": "NE OLDU?",
+      "heading": "Amazon, Decart'ın Önemli Bölümünü Satın Alıyor",
+      "body": "Yapay zeka optimizasyon teknolojisi ve gerçek zamanlı dünya modelleri için büyük anlaşma."
+    },
+    {
+      "label": "BİLMEN GEREKEN",
+      "heading": "7,5 Milyar Dolarlık Yatırım",
+      "body": "Bloomberg'e göre bulut devi Amazon, İsrailli girişim Decart'ın önemli bir bölümünü satın almak için 7,5 milyar dolar ödeyecek."
+    },
+    {
+      "label": "DETAY",
+      "heading": "DOS Yazılımı",
+      "body": "Decart Optimization Stack (DOS), yapay zeka modellerinin Nvidia, Amazon ve Google donanımlarında verimli çalışmasını sağlıyor."
+    },
+    {
+      "label": "NEDEN ÖNEMLİ?",
+      "heading": "Trainium Çipleri Satışa Çıkıyor",
+      "body": "Amazon, veri merkezlerinde kullandığı Trainium çiplerini Nvidia'ya rakip olarak müşterilere satmaya hazırlanıyor."
+    }
+  ],
+  "bounds": [
+    0.0,
+    2.29333325,
+    4.5866665,
+    6.87999975,
+    9.173333
+  ],
+  "probe": {
+    "duration": 9.173,
+    "width": 1080,
+    "height": 1920,
+    "has_audio": true,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "fps": 30.0,
+    "bit_rate": 1155880
+  },
+  "music": true,
+  "orig_audio": false
+}

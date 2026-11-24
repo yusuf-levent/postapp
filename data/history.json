@@ -8690,5 +8690,96 @@
     "topic": "ai",
     "primary_entity": "Google",
     "event_key": "google_search_ai_mode_drive_wallet_integration"
+  },
+  {
+    "id": "2026-11-24-1200",
+    "date": "2026-11-24",
+    "slot": "12:00",
+    "type": "news",
+    "title_tr": "Amazon, Decart'ın Önemli Bölümünü Satın Alıyor",
+    "original_title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+    "source_urls": [
+      "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+    ],
+    "canonical_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips",
+    "entities": [
+      "Amazon",
+      "Decart",
+      "Oasis 3",
+      "Decart Optimization Stack",
+      "Nvidia",
+      "Google",
+      "Peter DeSantis",
+      "Trainium"
+    ],
+    "event_type": "acquisition",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "tiktok",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "x",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "threads",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "linkedin",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "facebook",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      }
+    ],
+    "created_at": "2026-11-24T12:08:47+03:00",
+    "verified_claims_count": 7,
+    "topic": "ai",
+    "primary_entity": "Amazon",
+    "event_key": "amazon-snaps-up-decart-s-ai-optimization"
   }
 ]

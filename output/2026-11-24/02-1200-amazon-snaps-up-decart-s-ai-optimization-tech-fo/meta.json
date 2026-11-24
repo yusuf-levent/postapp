@@ -1,0 +1,38 @@
+{
+  "pipeline_version": 2,
+  "slot": "12:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 95.3,
+  "candidates_tried": 2,
+  "gemini_calls": 22,
+  "model_usage": {
+    "gemini-3.5-flash-lite": 20
+  },
+  "canonical_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+  "entities": [
+    "Amazon",
+    "Decart",
+    "Oasis 3",
+    "Decart Optimization Stack",
+    "Nvidia",
+    "Google",
+    "Peter DeSantis",
+    "Trainium"
+  ],
+  "event_type": "acquisition",
+  "topic": "ai",
+  "primary_entity": "Amazon",
+  "event_key": "amazon-snaps-up-decart-s-ai-optimization",
+  "editorial": {
+    "index": 23,
+    "publishable": true,
+    "importance": 8,
+    "education_value": 0,
+    "topic": "ai",
+    "primary_entity": "Amazon",
+    "event_key": "",
+    "reason": "Amazon'un Decart'ın yapay zeka optimizasyon teknolojisini 7.5 milyar dolara satın alması ve Trainium çiplerine hazırlanması büyük bir sektörel kırılma."
+  },
+  "generated_at": "2026-11-24T12:08:47+03:00"
+}
