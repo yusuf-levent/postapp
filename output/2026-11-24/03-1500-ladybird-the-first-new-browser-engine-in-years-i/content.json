@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "YAZILIM",
+    "title": "Ladybird Tarayıcısı Alfa Testine Çıktı",
+    "highlight_words": [
+      "Ladybird",
+      "Alfa"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Tamamen yeni bir motorla geliştirilen Ladybird, macOS ve Linux için test aşamasında.",
+    "source_tags": [
+      "THE VERGE"
+    ]
+  },
+  "context": {
+    "heading": "Dört Yıllık Geliştirme Süreci",
+    "cards": [
+      {
+        "card_title": "Alfa Sürümü Yayınlandı",
+        "card_body": "Ladybird tarayıcısı, Pazartesi günü macOS ve Linux platformlarında alfa aşamasında test için kullanıma sunuldu."
+      },
+      {
+        "card_title": "Uzun Soluklu Proje",
+        "card_body": "Ladybird projesinin geliştirilmesi dört yıldan uzun süredir devam ediyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "İLK",
+    "stat_caption": "Tamamen yeni bir motora sahip ilk yeni tarayıcı olarak öne çıkıyor.",
+    "stat_quote": "The release makes Ladybird the first browser in years to arrive with an entirely new engine."
+  },
+  "details": {
+    "heading": "Mevcut Motor Durumu",
+    "cards": [
+      {
+        "card_title": "Üç Ana Motor",
+        "card_body": "Günümüzdeki en popüler tarayıcılar Gecko, Blink ve WebKit olmak üzere üç motoru kullanıyor."
+      },
+      {
+        "card_title": "Gecko ve WebKit",
+        "card_body": "Gecko motoru ilk olarak 2000 yılında Netscape 6'da ortaya çıktı, Apple'ın WebKit motoru ise 2003 yılında Safari'de kullanılmaya başlandı."
+      },
+      {
+        "card_title": "Blink Motoru",
+        "card_body": "Google destekli Chromium projesi, Blink motorunu oluşturmak için WebKit'i çatalladı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Platform Destekleri",
+    "cards": [
+      {
+        "card_title": "Mevcut Platformlar",
+        "card_body": "Tarayıcı şimdilik macOS ve Linux kullanıcıları için test edilebilir durumda."
+      },
+      {
+        "card_title": "Windows Sürümü",
+        "card_body": "Geliştirici Andreas Kling, Windows versiyonunun projenin ilerleyen aşamalarında geleceğini belirtti."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Yeni bir tarayıcı motoru pazar dengelerini sizce nasıl etkiler?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": ""
+}

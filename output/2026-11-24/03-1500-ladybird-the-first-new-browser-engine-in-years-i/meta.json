@@ -1,0 +1,44 @@
+{
+  "pipeline_version": 2,
+  "slot": "15:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 686.3,
+  "candidates_tried": 2,
+  "gemini_calls": 72,
+  "model_usage": {
+    "gemini-3.5-flash-lite": 17,
+    "gemma-4-31b-it": 1,
+    "gemma-4-26b-a4b-it": 4
+  },
+  "canonical_url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+  "entities": [
+    "Ladybird",
+    "Andreas Kling",
+    "macOS",
+    "Linux",
+    "Gecko",
+    "Blink",
+    "WebKit",
+    "Google Chrome",
+    "Mozilla Firefox",
+    "Safari",
+    "Microsoft Edge",
+    "Opera"
+  ],
+  "event_type": "product_launch",
+  "topic": "software",
+  "primary_entity": "Ladybird",
+  "event_key": "ladybird_browser_engine_alpha_release",
+  "editorial": {
+    "index": 22,
+    "publishable": true,
+    "importance": 8,
+    "education_value": 8,
+    "topic": "software",
+    "primary_entity": "Ladybird",
+    "event_key": "ladybird_browser_engine_alpha_release",
+    "reason": "Yıllar sonra sıfırdan yazılan bağımsız bir tarayıcı motorunun alpha sürümüne ulaşması web teknolojileri açısından büyük bir kırılma ve teknik yeniliktir."
+  },
+  "generated_at": "2026-11-24T16:04:10+03:00"
+}
