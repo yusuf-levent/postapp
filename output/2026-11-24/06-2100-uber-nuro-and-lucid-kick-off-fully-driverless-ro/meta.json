@@ -1,0 +1,36 @@
+{
+  "pipeline_version": 2,
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 739.0,
+  "candidates_tried": 1,
+  "gemini_calls": 78,
+  "model_usage": {
+    "gemma-4-31b-it": 3,
+    "gemini-3.5-flash-lite": 23,
+    "gemma-4-26b-a4b-it": 3
+  },
+  "canonical_url": "https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area",
+  "entities": [
+    "Uber",
+    "Nuro",
+    "Lucid",
+    "Lucid Gravity"
+  ],
+  "event_type": "product_launch",
+  "topic": "robotics",
+  "primary_entity": "Uber",
+  "event_key": "uber_nuro_lucid_driverless_testing",
+  "editorial": {
+    "index": 0,
+    "publishable": true,
+    "importance": 7,
+    "education_value": 0,
+    "topic": "robotics",
+    "primary_entity": "Uber",
+    "event_key": "uber_nuro_lucid_driverless_testing",
+    "reason": "Sürücüsüz robotaksi testlerinin kamuya açık yollarda başlaması somut bir gelişmedir."
+  },
+  "generated_at": "2026-11-24T21:14:58+03:00"
+}

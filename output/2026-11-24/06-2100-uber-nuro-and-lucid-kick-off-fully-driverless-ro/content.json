@@ -1,0 +1,74 @@
+{
+  "cover": {
+    "category_label": "OTOMOTİV VE YAPAY ZEKA",
+    "title": "Uber, Nuro ve Lucid Sürücüsüz Araç Testlerine Başladı",
+    "highlight_words": [
+      "Robotaksi",
+      "Testlerine"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "San Francisco'da tamamen sürücüsüz kamu yolu testleri başladı.",
+    "source_tags": [
+      "THE VERGE",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Üçlü Ortaklık ve Test Süreci",
+    "cards": [
+      {
+        "card_title": "Stratejik İş Birliği",
+        "card_body": "Uber, Nuro ve Lucid ortaklığıyla sürücüsüz sürüş testleri fiilen başladı."
+      },
+      {
+        "card_title": "Test Lokasyonları",
+        "card_body": "Testler Palo Alto, Mountain View, Los Altos ve Sunnyvale şehirlerinde yürütülüyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "35.000",
+    "stat_caption": "Uber'in taahhüt ettiği Lucid araç sayısı",
+    "stat_quote": "Uber, otonom filoyu büyütmek için en az 35.000 Lucid araç almayı taahhüt etti."
+  },
+  "details": {
+    "heading": "Operasyonel Detaylar",
+    "cards": [
+      {
+        "card_title": "Araç Filosu",
+        "card_body": "Lucid, bu süreç için 100'den fazla yükseltilmiş Gravity SUV teslim etti."
+      },
+      {
+        "card_title": "Üretim ve Onay",
+        "card_body": "Güvenlik onayları için Ekim ayında ön üretim modelleri üretilmeye başlandı."
+      },
+      {
+        "card_title": "Ticari Hedef",
+        "card_body": "Hizmetin 2027 ilk çeyreğinde Bay Area'da sunulması planlanıyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Gelecek Planlaması",
+    "cards": [
+      {
+        "card_title": "Genişleme Stratejisi",
+        "card_body": "2027'de Bay Area sonrasında Houston şehri de hizmete dahil edilecek."
+      },
+      {
+        "card_title": "Otonom Filo Ölçeği",
+        "card_body": "Uber, geniş bir Lucid filosuyla küresel rekabete hazırlanıyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce sürücüsüz robotaksiler şehir içi ulaşımı nasıl değiştirecek?",
+    "reminder_line": "Düşüncelerini yorumlarda paylaşmayı unutma! 💬"
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": ""
+}
