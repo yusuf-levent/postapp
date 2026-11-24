@@ -4,4 +4,4 @@
 - ✅ `12:00` [news] Amazon, Decart'ın Önemli Bölümünü Satın Alıyor — 6/6 platform
 - ✅ `15:00` [news] Ladybird Tarayıcısı Alfa Testine Çıktı — 6/6 platform
 - ✅ `18:00` [weetis] E-ticaret sitesinde ücretsiz kargo yerine düşük bir… — 6/6 platform
-- ⚠️ `20:00` [edu] Araç Yazılım Güncellemeleri Güvenliği Nasıl Sağlıyor? — 3/6 platform
+- ✅ `20:00` [edu] Araç Yazılım Güncellemeleri Güvenliği Nasıl Sağlıyor? — 6/6 platform
