@@ -1,0 +1,37 @@
+{
+  "pipeline_version": 2,
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 158.2,
+  "candidates_tried": 1,
+  "gemini_calls": 14,
+  "model_usage": {
+    "gemini-3.5-flash-lite": 5,
+    "gemini-3.1-flash-lite": 7
+  },
+  "canonical_url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+  "entities": [
+    "Google",
+    "Google Search",
+    "Google Drive",
+    "Google Wallet",
+    "Gemini",
+    "Personal Intelligence"
+  ],
+  "event_type": "product_launch",
+  "topic": "ai",
+  "primary_entity": "Google",
+  "event_key": "google_search_ai_mode_drive_wallet_integration",
+  "editorial": {
+    "index": 17,
+    "publishable": true,
+    "importance": 7,
+    "education_value": 0,
+    "topic": "ai",
+    "primary_entity": "Google",
+    "event_key": "google_search_ai_mode_drive_wallet_integration",
+    "reason": "Google arama yapay zeka modunun Drive ve Wallet verilerine erişerek kişiselleştirilmesi."
+  },
+  "generated_at": "2026-11-24T09:05:14+03:00"
+}

@@ -1,0 +1,75 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE ARAMA",
+    "title": "Google, AI Moduna Google Drive ve Wallet'ı Entegre Ediyor",
+    "highlight_words": [
+      "Google",
+      "Drive",
+      "Wallet"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Arama deneyimini kişiselleştiren AI Modu, yeni entegrasyonlarla kapsamını genişletiyor.",
+    "source_tags": [
+      "TECHCRUNCH",
+      "GOOGLE BLOG"
+    ]
+  },
+  "context": {
+    "heading": "Kişisel Zeka Genişliyor",
+    "cards": [
+      {
+        "card_title": "Mevcut Yetenekler",
+        "card_body": "Personal Intelligence özelliği halihazırda Gmail, Google Takvim ve Google Fotoğraflar ile bağlantılı çalışabiliyor."
+      },
+      {
+        "card_title": "Yeni Entegrasyonlar",
+        "card_body": "Google, bu sisteme artık Google Drive, Google Wallet ve Gemini uygulaması desteğini de dahil etti."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "GÜVENLİK",
+    "stat_caption": "AI Modu, cüzdan verilerini okuyabilir ancak para transferi veya yönetimi yapamaz.",
+    "stat_quote": "If you choose to connect your Wallet, AI Mode can only read information from your accounts; it can’t move, manage, or invest your money."
+  },
+  "details": {
+    "heading": "Finansal Takip ve Bağlam",
+    "cards": [
+      {
+        "card_title": "Finansal Yönetim",
+        "card_body": "Google Wallet bağlantısı, finansal hedefleri izlemeye, harcamaları azaltmaya ve kredi kartı ödüllerini optimize etmeye yarıyor."
+      },
+      {
+        "card_title": "Bağlam Paylaşımı",
+        "card_body": "Kullanıcılar, Gemini uygulaması ile Search içindeki AI Modu arasında bağlam paylaşımı yapabilecek."
+      },
+      {
+        "card_title": "Şeffaflık",
+        "card_body": "Yanıtların altında yer alacak yeni 'Personalization' simgesi, AI'nın hangi bağlamı kullandığını görmenizi sağlayacak."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcı Deneyimi",
+    "cards": [
+      {
+        "card_title": "Kişiselleştirilmiş Yanıtlar",
+        "card_body": "AI Overviews ve AI Modu, artık kullanıcıların son arama bağlamlarına göre çok daha kişisel yanıtlar sunacak."
+      },
+      {
+        "card_title": "Sınırlandırılmış Yetki",
+        "card_body": "Sistem, kullanıcıların finansal verilerini okuyarak öneriler sunsa da, hesap üzerinde işlem yapma yetkisine sahip değil."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Kişisel verilerinizin arama sonuçlarınıza bu denli dahil edilmesi, arama deneyiminizi nasıl değiştirir?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri takip etmek için bizi izlemeye devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": "<svg role=\"img\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"#FFFFFF\"><title>Google</title><path d=\"M12.48 10.92v3.28h7.84c-.24 1.84-.853 3.187-1.787 4.133-1.147 1.147-2.933 2.4-6.053 2.4-4.827 0-8.6-3.893-8.6-8.72s3.773-8.72 8.6-8.72c2.6 0 4.507 1.027 5.907 2.347l2.307-2.307C18.747 1.44 16.133 0 12.48 0 5.867 0 .307 5.387.307 12s5.56 12 12.173 12c3.573 0 6.267-1.173 8.373-3.36 2.16-2.16 2.84-5.213 2.84-7.667 0-.76-.053-1.467-.173-2.053H12.48z\"/></svg>"
+}

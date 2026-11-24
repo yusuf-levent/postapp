@@ -1,0 +1,44 @@
+{
+  "duration": 22.0,
+  "scenes": [
+    {
+      "label": "NE OLDU?",
+      "heading": "Google, AI Moduna Google Drive ve Wallet'ı Entegre Ediyor",
+      "body": "Arama deneyimini kişiselleştiren AI Modu, yeni entegrasyonlarla kapsamını genişletiyor."
+    },
+    {
+      "label": "BİLMEN GEREKEN",
+      "heading": "Mevcut Yetenekler",
+      "body": "Personal Intelligence özelliği halihazırda Gmail, Google Takvim ve Google Fotoğraflar ile bağlantılı çalışabiliyor."
+    },
+    {
+      "label": "DETAY",
+      "heading": "Finansal Yönetim",
+      "body": "Google Wallet bağlantısı, finansal hedefleri izlemeye, harcamaları azaltmaya ve kredi kartı ödüllerini optimize etmeye yarıyor."
+    },
+    {
+      "label": "NEDEN ÖNEMLİ?",
+      "heading": "Kişiselleştirilmiş Yanıtlar",
+      "body": "AI Overviews ve AI Modu, artık kullanıcıların son arama bağlamlarına göre çok daha kişisel yanıtlar sunacak."
+    }
+  ],
+  "bounds": [
+    0.0,
+    3.5,
+    9.666666666666668,
+    15.833333333333334,
+    22.0
+  ],
+  "probe": {
+    "duration": 22.0,
+    "width": 1080,
+    "height": 1920,
+    "has_audio": true,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "fps": 30.0,
+    "bit_rate": 893844
+  },
+  "music": false,
+  "orig_audio": true
+}

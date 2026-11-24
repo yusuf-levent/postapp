@@ -1,0 +1,27 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-24/01-0900-google-search-s-ai-mode-can-now-tap-into-drive-a/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "width": 1200,
+      "height": 800,
+      "alt_text": ""
+    },
+    {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Google_Search_screenshot_in_2026_%28EN%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-24/01-0900-google-search-s-ai-mode-can-now-tap-into-drive-a/images/img-2.png",
+      "license": "",
+      "author": "",
+      "credit_url": "https://en.wikipedia.org/wiki/Google%20Search",
+      "width": 1901,
+      "height": 910,
+      "alt_text": "Google Search"
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir."
+}
