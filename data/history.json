@@ -8944,12 +8944,12 @@
       },
       {
         "platform": "facebook",
-        "state": "submitted",
-        "external_id": "",
-        "permalink": "",
+        "state": "published",
+        "external_id": "6b05a7cf0b598b72518a1c45",
+        "permalink": "https://facebook.com/1351036918092059_122125597335484840",
         "attempts": 1,
         "last_error": "",
-        "remote_status": "",
+        "remote_status": "sent",
         "retry_at": 0
       }
     ],
