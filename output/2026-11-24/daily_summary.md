@@ -5,4 +5,4 @@
 - ✅ `15:00` [news] Ladybird Tarayıcısı Alfa Testine Çıktı — 6/6 platform
 - ✅ `18:00` [weetis] E-ticaret sitesinde ücretsiz kargo yerine düşük bir… — 6/6 platform
 - ✅ `20:00` [edu] Araç Yazılım Güncellemeleri Güvenliği Nasıl Sağlıyor? — 6/6 platform
-- ⚠️ `21:00` [news] Uber, Nuro ve Lucid Sürücüsüz Araç Testlerine Başladı — 3/6 platform
+- ⚠️ `21:00` [news] Uber, Nuro ve Lucid Sürücüsüz Araç Testlerine Başladı — 4/6 platform
