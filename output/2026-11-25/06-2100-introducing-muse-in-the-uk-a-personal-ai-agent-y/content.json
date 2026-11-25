@@ -1,0 +1,75 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA",
+    "title": "Meta Kişisel Yapay Zeka Ajanı Muse'u Kullanıma Sundu",
+    "highlight_words": [
+      "Muse",
+      "Kullanıma",
+      "Sundu"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Meta'nın kişisel yapay zeka ajanı Muse, Birleşik Krallık'ta kullanıcılarla buluştu.",
+    "source_tags": [
+      "META NEWSROOM",
+      "BBC NEWS"
+    ]
+  },
+  "context": {
+    "heading": "Muse Hangi Platformlarda Yer Alıyor?",
+    "cards": [
+      {
+        "card_title": "Erişim Noktaları",
+        "card_body": "Muse, Birleşik Krallık'ta iOS, Android, muse.ai ve WhatsApp üzerinden 18 yaş ve üzeri herkesin kullanımına sunuldu."
+      },
+      {
+        "card_title": "Gelecek Planları",
+        "card_body": "Uygulamanın önümüzdeki aylarda Meta'nın yapay zeka gözlüklerine de gelmesi planlanıyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "İLK KEZ",
+    "stat_caption": "Meta Superintelligence Labs'ın ilk modeli Muse Spark ile destekleniyor.",
+    "stat_quote": "Powered by Muse Spark – the first model from Meta Superintelligence Labs, built for real-world agentic work."
+  },
+  "details": {
+    "heading": "Ödeme ve Model Detayları",
+    "cards": [
+      {
+        "card_title": "Ödeme Yöntemleri",
+        "card_body": "Muse ile ödemeler Stripe tarafından geliştirilen Onelink ile veya Shopify'ın Shop Pay özelliği ile yapılabiliyor."
+      },
+      {
+        "card_title": "Fiyatlandırma",
+        "card_body": "Uygulama çoğu kullanım için ücretsiz sunulurken, daha fazlasını yapmak isteyenler için abonelik planları yer alıyor."
+      },
+      {
+        "card_title": "Gelecek Entegrasyonlar",
+        "card_body": "PayPal entegrasyonunun da yakında Muse deneyimine ekleneceği belirtiliyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcılar İçin Yeni Dönem",
+    "cards": [
+      {
+        "card_title": "Kontrol Sende",
+        "card_body": "Milyonlarca İngiliz, kendi kontrol ettikleri ve hedefleri doğrultusunda onlara yardımcı olan kişisel bir ajana erişebiliyor."
+      },
+      {
+        "card_title": "Gerçek Dünya Görevleri",
+        "card_body": "Muse Spark modeli, kullanıcı isteklerini planlara dönüştürerek bağlı uygulamalar ve web siteleri üzerinden görevleri yerine getirebiliyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Kişisel yapay zeka ajanlarının günlük işlerinizde size nasıl yardımcı olmasını bekliyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": "<svg role=\"img\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"#FFFFFF\"><title>Meta</title><path d=\"M6.915 4.03c-1.968 0-3.683 1.28-4.871 3.113C.704 9.208 0 11.883 0 14.449c0 .706.07 1.369.21 1.973a6.624 6.624 0 0 0 .265.86 5.297 5.297 0 0 0 .371.761c.696 1.159 1.818 1.927 3.593 1.927 1.497 0 2.633-.671 3.965-2.444.76-1.012 1.144-1.626 2.663-4.32l.756-1.339.186-.325c.061.1.121.196.183.3l2.152 3.595c.724 1.21 1.665 2.556 2.47 3.314 1.046.987 1.992 1.22 3.06 1.22 1.075 0 1.876-.355 2.455-.843a3.743 3.743 0 0 0 .81-.973c.542-.939.861-2.127.861-3.745 0-2.72-.681-5.357-2.084-7.45-1.282-1.912-2.957-2.93-4.716-2.93-1.047 0-2.088.467-3.053 1.308-.652.57-1.257 1.29-1.82 2.05-.69-.875-1.335-1.547-1.958-2.056-1.182-.966-2.315-1.303-3.454-1.303zm10.16 2.053c1.147 0 2.188.758 2.992 1.999 1.132 1.748 1.647 4.195 1.647 6.4 0 1.548-.368 2.9-1.839 2.9-.58 0-1.027-.23-1.664-1.004-.496-.601-1.343-1.878-2.832-4.358l-.617-1.028a44.908 44.908 0 0 0-1.255-1.98c.07-.109.141-.224.211-.327 1.12-1.667 2.118-2.602 3.358-2.602zm-10.201.553c1.265 0 2.058.791 2.675 1.446.307.327.737.871 1.234 1.579l-1.02 1.566c-.757 1.163-1.882 3.017-2.837 4.338-1.191 1.649-1.81 1.817-2.486 1.817-.524 0-1.038-.237-1.383-.794-.263-.426-.464-1.13-.464-2.046 0-2.221.63-4.535 1.66-6.088.454-.687.964-1.226 1.533-1.533a2.264 2.264 0 0 1 1.088-.285z\"/></svg>"
+}

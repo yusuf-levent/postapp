@@ -1,0 +1,37 @@
+{
+  "pipeline_version": 2,
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 1694.7,
+  "candidates_tried": 2,
+  "gemini_calls": 60,
+  "model_usage": {
+    "gemma-4-26b-a4b-it": 3,
+    "gemini-3.5-flash-lite": 11,
+    "gemma-4-31b-it": 2
+  },
+  "canonical_url": "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control/",
+  "entities": [
+    "Meta",
+    "Muse",
+    "Muse Spark",
+    "Meta Superintelligence Labs",
+    "WhatsApp"
+  ],
+  "event_type": "product_launch",
+  "topic": "ai",
+  "primary_entity": "Meta",
+  "event_key": "meta_muse_ai_agent_uk_launch",
+  "editorial": {
+    "index": 12,
+    "publishable": true,
+    "importance": 8,
+    "education_value": 0,
+    "topic": "ai",
+    "primary_entity": "Meta",
+    "event_key": "meta_muse_ai_agent_uk_launch",
+    "reason": "Kişisel AI ajanlarının yeni bir pazara girişi ve kullanım alanı."
+  },
+  "generated_at": "2026-11-25T21:30:38+03:00"
+}
