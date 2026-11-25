@@ -9255,11 +9255,11 @@
       {
         "platform": "instagram",
         "state": "submitted",
-        "external_id": "",
+        "external_id": "6b06a8ea0babbb7dab4dc6b5",
         "permalink": "",
         "attempts": 1,
-        "last_error": "",
-        "remote_status": "",
+        "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
+        "remote_status": "sending",
         "retry_at": 0
       },
       {
