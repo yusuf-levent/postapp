@@ -9254,12 +9254,12 @@
     "status_per_platform": [
       {
         "platform": "instagram",
-        "state": "submitted",
+        "state": "published",
         "external_id": "6b06a8ea0babbb7dab4dc6b5",
-        "permalink": "",
+        "permalink": "https://www.instagram.com/reel/DgKM1uDPPrJ/",
         "attempts": 1,
-        "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
-        "remote_status": "sending",
+        "last_error": "",
+        "remote_status": "sent",
         "retry_at": 0
       },
       {
