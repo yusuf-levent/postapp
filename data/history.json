@@ -9294,12 +9294,12 @@
       },
       {
         "platform": "linkedin",
-        "state": "submitted",
+        "state": "published",
         "external_id": "6b06a93f85ddf25108ea5b73",
-        "permalink": "",
+        "permalink": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7531286713902481409",
         "attempts": 1,
-        "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
-        "remote_status": "sending",
+        "last_error": "",
+        "remote_status": "sent",
         "retry_at": 0
       },
       {
