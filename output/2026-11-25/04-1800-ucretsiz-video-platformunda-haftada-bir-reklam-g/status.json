@@ -44,11 +44,11 @@
     "linkedin": {
       "platform": "linkedin",
       "state": "submitted",
-      "external_id": "",
+      "external_id": "6b06f8f23c684b68235618e3",
       "permalink": "",
       "attempts": 1,
-      "last_error": "",
-      "remote_status": "",
+      "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
+      "remote_status": "sending",
       "retry_at": 0
     },
     "facebook": {
