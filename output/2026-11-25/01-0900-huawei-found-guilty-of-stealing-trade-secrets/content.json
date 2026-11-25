@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "HUKUK VE TEKNOLOJİ",
+    "title": "Huawei ABD'de ticari sırları çalmaktan suçlu bulundu",
+    "highlight_words": [
+      "suçlu"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "ABD'deki jüri, teknoloji devini 12 suçlamanın 10'undan mahkûm etti.",
+    "source_tags": [
+      "THE VERGE",
+      "BBC NEWS"
+    ]
+  },
+  "context": {
+    "heading": "Dava Süreci Nasıl Gelişti?",
+    "cards": [
+      {
+        "card_title": "2018 İddianamesi",
+        "card_body": "ABD Adalet Bakanlığı, CFO Wanzhou Meng'in tutuklanmasının ardından Huawei'ye karşı ceza davası iddianamesi hazırladı."
+      },
+      {
+        "card_title": "Kara Liste Kararı",
+        "card_body": "ABD hükümeti, ulusal güvenlik endişelerini gerekçe göstererek 2019 yılında Huawei'yi kara listeye aldı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "10 / 12",
+    "stat_caption": "Jüri, Huawei'yi toplam 12 suçlamanın 10'unda suçlu buldu.",
+    "stat_quote": "Huawei, banka dolandırıcılığı ve ticari sırları çalmak için komplo kurmaktan suçlu bulundu. (Kaynak: Engadget)"
+  },
+  "details": {
+    "heading": "Davanın Detayları",
+    "cards": [
+      {
+        "card_title": "Hedefteki Şirketler",
+        "card_body": "Huawei; T-Mobile, Cisco ve Motorola gibi şirketlerden kaynak kodu ve özel teknoloji çalmakla suçlandı."
+      },
+      {
+        "card_title": "İtiraz Süreci",
+        "card_body": "Huawei sözcüsü, suçlamaların yasal dayanağı olmadığını belirterek karara itiraz edeceklerini açıkladı."
+      },
+      {
+        "card_title": "Ceza Duruşması",
+        "card_body": "Mahkemenin verdiği kararın ardından ceza duruşmasının 14 Eylül 2027 tarihinde yapılması planlanıyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel ve Hukuki Etkiler",
+    "cards": [
+      {
+        "card_title": "Sektörel Yansıma",
+        "card_body": "Teknoloji devleri arasındaki fikri mülkiyet davaları, küresel ticaret ve teknoloji transferi üzerinde etkisini sürdürüyor."
+      },
+      {
+        "card_title": "Hukuki Süreç",
+        "card_body": "Karar, yıllardır süren yasal mücadelenin önemli bir aşamasını temsil ediyor ve temyiz süreciyle devam edecek."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce bu karar, teknoloji şirketleri arasındaki patent ve ticari sır davalarını nasıl etkiler?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri kaçırmamak için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": ""
+}

@@ -1,0 +1,40 @@
+{
+  "pipeline_version": 2,
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 228.4,
+  "candidates_tried": 4,
+  "gemini_calls": 23,
+  "model_usage": {
+    "gemini-3.1-flash-lite": 18,
+    "gemini-3.5-flash-lite": 3
+  },
+  "canonical_url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+  "entities": [
+    "Huawei",
+    "NBC News",
+    "Bloomberg",
+    "T-Mobile",
+    "Cisco",
+    "Motorola",
+    "Department of Justice",
+    "Wanzhou Meng",
+    "Tysen A. Duva"
+  ],
+  "event_type": "legal_verdict",
+  "topic": "security",
+  "primary_entity": "Huawei",
+  "event_key": "huawei_trade_secrets_theft_verdict",
+  "editorial": {
+    "index": 3,
+    "publishable": true,
+    "importance": 7,
+    "education_value": 4,
+    "topic": "security",
+    "primary_entity": "Huawei",
+    "event_key": "huawei_trade_secrets_theft_verdict",
+    "reason": "Huawei'nin ticari sır hırsızlığı suçundan hüküm giymesi, teknoloji sektöründeki fikri mülkiyet ve uluslararası rekabet hukuku açısından önemli bir hukuki gelişme."
+  },
+  "generated_at": "2026-11-25T09:07:02+03:00"
+}

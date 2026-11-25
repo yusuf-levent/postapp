@@ -1,0 +1,371 @@
+{
+  "title": "Huawei found guilty of stealing trade secrets",
+  "canonical_url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+  "source_names": [
+    "The Verge",
+    "BBC News – Technology",
+    "Engadget"
+  ],
+  "checked_at": "2026-11-25T09:05:34+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Bir jüri, Huawei'yi ABD ticari sırlarını çalmaktan suçlu buldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "A jury has found Huawei guilty of stealing US trade secrets"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+          "quote": "Huawei has been found guilty of conspiracy to steal trade secrets"
+        },
+        {
+          "url": "https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/",
+          "quote": "Huawei Technologies has been found guilty of bank fraud and conspiracy to steal trade secrets by a US jury"
+        },
+        {
+          "url": "https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/",
+          "quote": "Huawei is guilty of conspiracy to steal trade secrets, US jury rules"
+        }
+      ]
+    },
+    {
+      "claim": "Huawei, T-Mobile, Cisco ve Motorola gibi şirketlerden kaynak kodu ve özel teknoloji çalmakla suçlandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "accused the Chinese telecom giant of stealing source code and proprietary technology from several companies, including T-Mobile, Cisco, and Motorola."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from several companies, including T-Mobile, Cisco, and Motorola."
+        }
+      ]
+    },
+    {
+      "claim": "Huawei, banka dolandırıcılığı suçundan suçlu bulundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "The Chinese telecom giant was also found guilty of bank fraud."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+          "quote": "Huawei has been found guilty of conspiracy to steal trade secrets and bank fraud"
+        },
+        {
+          "url": "https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/",
+          "quote": "Huawei Technologies has been found guilty of bank fraud and conspiracy to steal trade secrets by a US jury"
+        }
+      ]
+    },
+    {
+      "claim": "ABD Adalet Bakanlığı, 2018 yılında Huawei'ye karşı bir ceza davası iddianamesi hazırladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "The Department of Justice’s 2018 criminal indictment against Huawei came to light"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "The Department of Justice’s 2018 criminal indictment against Huawei came to light following the arrest of the company’s CFO, Wanzhou Meng"
+        }
+      ]
+    },
+    {
+      "claim": "ABD hükümeti, ulusal güvenlik endişeleri nedeniyle 2019 yılında Huawei'yi kara listeye aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "The US government blacklisted Huawei in 2019 over national security concerns."
+        }
+      ]
+    },
+    {
+      "claim": "Jüri, Huawei'yi toplam 12 suçlamanın 10'undan suçlu buldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "In total, the jury found Huawei guilty of 10 of 12 criminal counts"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+          "quote": "Jurors in a Brooklyn court found Huawei guilty of 10 out of 12 counts"
+        }
+      ]
+    },
+    {
+      "claim": "Huawei'nin ceza duruşmasının 14 Eylül 2027 tarihinde yapılması planlanıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "Huawei’s sentencing is set for September 14th, 2027"
+        }
+      ]
+    },
+    {
+      "claim": "Huawei sözcüsü, suçlamaların yasal veya olgusal bir dayanağı olmadığını belirterek karara itiraz etmeyi planladıklarını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "In a statement to NBC News, a Huawei spokesperson said the charges are “without legal or factual merit” and that it plans to appeal the decision."
+        },
+        {
+          "url": "https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/",
+          "quote": "Huawei attorney Brian Heberlig told AP the company planned to appeal its convictions."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Bir jüri, Huawei'yi ABD ticari sırlarını çalmaktan suçlu buldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "A jury has found Huawei guilty of stealing US trade secrets"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+          "quote": "Huawei has been found guilty of conspiracy to steal trade secrets"
+        },
+        {
+          "url": "https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/",
+          "quote": "Huawei Technologies has been found guilty of bank fraud and conspiracy to steal trade secrets by a US jury"
+        },
+        {
+          "url": "https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/",
+          "quote": "Huawei is guilty of conspiracy to steal trade secrets, US jury rules"
+        }
+      ]
+    },
+    {
+      "claim": "Huawei, T-Mobile, Cisco ve Motorola gibi şirketlerden kaynak kodu ve özel teknoloji çalmakla suçlandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "accused the Chinese telecom giant of stealing source code and proprietary technology from several companies, including T-Mobile, Cisco, and Motorola."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from several companies, including T-Mobile, Cisco, and Motorola."
+        }
+      ]
+    },
+    {
+      "claim": "Huawei, banka dolandırıcılığı suçundan suçlu bulundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "The Chinese telecom giant was also found guilty of bank fraud."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+          "quote": "Huawei has been found guilty of conspiracy to steal trade secrets and bank fraud"
+        },
+        {
+          "url": "https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/",
+          "quote": "Huawei Technologies has been found guilty of bank fraud and conspiracy to steal trade secrets by a US jury"
+        }
+      ]
+    },
+    {
+      "claim": "ABD Adalet Bakanlığı, 2018 yılında Huawei'ye karşı bir ceza davası iddianamesi hazırladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "The Department of Justice’s 2018 criminal indictment against Huawei came to light"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "The Department of Justice’s 2018 criminal indictment against Huawei came to light following the arrest of the company’s CFO, Wanzhou Meng"
+        }
+      ]
+    },
+    {
+      "claim": "ABD hükümeti, ulusal güvenlik endişeleri nedeniyle 2019 yılında Huawei'yi kara listeye aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "The US government blacklisted Huawei in 2019 over national security concerns."
+        }
+      ]
+    },
+    {
+      "claim": "Jüri, Huawei'yi toplam 12 suçlamanın 10'undan suçlu buldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "In total, the jury found Huawei guilty of 10 of 12 criminal counts"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+          "quote": "Jurors in a Brooklyn court found Huawei guilty of 10 out of 12 counts"
+        }
+      ]
+    },
+    {
+      "claim": "Huawei'nin ceza duruşmasının 14 Eylül 2027 tarihinde yapılması planlanıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "Huawei’s sentencing is set for September 14th, 2027"
+        }
+      ]
+    },
+    {
+      "claim": "Huawei sözcüsü, suçlamaların yasal veya olgusal bir dayanağı olmadığını belirterek karara itiraz etmeyi planladıklarını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "In a statement to NBC News, a Huawei spokesperson said the charges are “without legal or factual merit” and that it plans to appeal the decision."
+        },
+        {
+          "url": "https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/",
+          "quote": "Huawei attorney Brian Heberlig told AP the company planned to appeal its convictions."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Bir jüri, Huawei'yi ABD ticari sırlarını çalmaktan suçlu buldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "A jury has found Huawei guilty of stealing US trade secrets"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+          "quote": "Huawei has been found guilty of conspiracy to steal trade secrets"
+        },
+        {
+          "url": "https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/",
+          "quote": "Huawei Technologies has been found guilty of bank fraud and conspiracy to steal trade secrets by a US jury"
+        },
+        {
+          "url": "https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/",
+          "quote": "Huawei is guilty of conspiracy to steal trade secrets, US jury rules"
+        }
+      ]
+    },
+    {
+      "claim": "Huawei, T-Mobile, Cisco ve Motorola gibi şirketlerden kaynak kodu ve özel teknoloji çalmakla suçlandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "accused the Chinese telecom giant of stealing source code and proprietary technology from several companies, including T-Mobile, Cisco, and Motorola."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from several companies, including T-Mobile, Cisco, and Motorola."
+        }
+      ]
+    },
+    {
+      "claim": "Huawei, banka dolandırıcılığı suçundan suçlu bulundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "The Chinese telecom giant was also found guilty of bank fraud."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+          "quote": "Huawei has been found guilty of conspiracy to steal trade secrets and bank fraud"
+        },
+        {
+          "url": "https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/",
+          "quote": "Huawei Technologies has been found guilty of bank fraud and conspiracy to steal trade secrets by a US jury"
+        }
+      ]
+    },
+    {
+      "claim": "ABD Adalet Bakanlığı, 2018 yılında Huawei'ye karşı bir ceza davası iddianamesi hazırladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "The Department of Justice’s 2018 criminal indictment against Huawei came to light"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "The Department of Justice’s 2018 criminal indictment against Huawei came to light following the arrest of the company’s CFO, Wanzhou Meng"
+        }
+      ]
+    },
+    {
+      "claim": "ABD hükümeti, ulusal güvenlik endişeleri nedeniyle 2019 yılında Huawei'yi kara listeye aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "The US government blacklisted Huawei in 2019 over national security concerns."
+        }
+      ]
+    },
+    {
+      "claim": "Jüri, Huawei'yi toplam 12 suçlamanın 10'undan suçlu buldu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "In total, the jury found Huawei guilty of 10 of 12 criminal counts"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+          "quote": "Jurors in a Brooklyn court found Huawei guilty of 10 out of 12 counts"
+        }
+      ]
+    },
+    {
+      "claim": "Huawei'nin ceza duruşmasının 14 Eylül 2027 tarihinde yapılması planlanıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "Huawei’s sentencing is set for September 14th, 2027"
+        }
+      ]
+    },
+    {
+      "claim": "Huawei sözcüsü, suçlamaların yasal veya olgusal bir dayanağı olmadığını belirterek karara itiraz etmeyi planladıklarını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "quote": "In a statement to NBC News, a Huawei spokesperson said the charges are “without legal or factual merit” and that it plans to appeal the decision."
+        },
+        {
+          "url": "https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/",
+          "quote": "Huawei attorney Brian Heberlig told AP the company planned to appeal its convictions."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial": 2006,
+    "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss": 3106,
+    "https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/": 2335
+  }
+}

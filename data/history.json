@@ -9132,5 +9132,97 @@
     "topic": "robotics",
     "primary_entity": "Uber",
     "event_key": "uber_nuro_lucid_driverless_testing"
+  },
+  {
+    "id": "2026-11-25-0900",
+    "date": "2026-11-25",
+    "slot": "09:00",
+    "type": "news",
+    "title_tr": "Huawei ABD'de ticari sırları çalmaktan suçlu bulundu",
+    "original_title": "Huawei found guilty of stealing trade secrets",
+    "source_urls": [
+      "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial"
+    ],
+    "canonical_url": "https://theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+    "entities": [
+      "Huawei",
+      "NBC News",
+      "Bloomberg",
+      "T-Mobile",
+      "Cisco",
+      "Motorola",
+      "Department of Justice",
+      "Wanzhou Meng",
+      "Tysen A. Duva"
+    ],
+    "event_type": "legal_verdict",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "tiktok",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "x",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "threads",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "linkedin",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "facebook",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      }
+    ],
+    "created_at": "2026-11-25T09:07:02+03:00",
+    "verified_claims_count": 8,
+    "topic": "security",
+    "primary_entity": "Huawei",
+    "event_key": "huawei_trade_secrets_theft_verdict"
   }
 ]
