@@ -9224,5 +9224,99 @@
     "topic": "security",
     "primary_entity": "Huawei",
     "event_key": "huawei_trade_secrets_theft_verdict"
+  },
+  {
+    "id": "2026-11-25-1200",
+    "date": "2026-11-25",
+    "slot": "12:00",
+    "type": "news",
+    "title_tr": "AWS Lambda zaman aşımını 30 dakikaya çıkardı",
+    "original_title": "AWS Weekly Roundup: Local Zone in Bogotá, 30-minute Lambda timeout, and more (November 24, 2026)",
+    "source_urls": [
+      "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/"
+    ],
+    "canonical_url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026",
+    "entities": [
+      "AWS",
+      "Amazon",
+      "Bogotá",
+      "AWS Lambda",
+      "Amazon EC2",
+      "Amazon S3",
+      "Amazon ECS",
+      "Amazon EKS",
+      "AWS STS",
+      "Amazon Cognito",
+      "Amazon CloudFront"
+    ],
+    "event_type": "product_launch",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "tiktok",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "x",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "threads",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "linkedin",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "facebook",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      }
+    ],
+    "created_at": "2026-11-25T12:22:40+03:00",
+    "verified_claims_count": 8,
+    "topic": "software",
+    "primary_entity": "AWS",
+    "event_key": "aws_lambda_gpu_support_timeout_increase"
   }
 ]

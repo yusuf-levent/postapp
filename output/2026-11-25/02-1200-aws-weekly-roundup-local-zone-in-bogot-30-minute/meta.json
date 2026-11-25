@@ -1,0 +1,42 @@
+{
+  "pipeline_version": 2,
+  "slot": "12:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 445.7,
+  "candidates_tried": 4,
+  "gemini_calls": 43,
+  "model_usage": {
+    "gemini-3.1-flash-lite": 14,
+    "gemini-3.5-flash-lite": 17
+  },
+  "canonical_url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+  "entities": [
+    "AWS",
+    "Amazon",
+    "Bogotá",
+    "AWS Lambda",
+    "Amazon EC2",
+    "Amazon S3",
+    "Amazon ECS",
+    "Amazon EKS",
+    "AWS STS",
+    "Amazon Cognito",
+    "Amazon CloudFront"
+  ],
+  "event_type": "product_launch",
+  "topic": "software",
+  "primary_entity": "AWS",
+  "event_key": "aws_lambda_gpu_support_timeout_increase",
+  "editorial": {
+    "index": 2,
+    "publishable": true,
+    "importance": 6,
+    "education_value": 8,
+    "topic": "software",
+    "primary_entity": "AWS",
+    "event_key": "aws_lambda_gpu_support_timeout_increase",
+    "reason": "AWS Lambda'nın GPU desteği kazanması ve zaman aşımı limitlerini artırması, sunucusuz mimarilerde AI iş yüklerinin çalıştırılması için önemli bir teknik gelişme."
+  },
+  "generated_at": "2026-11-25T12:22:40+03:00"
+}

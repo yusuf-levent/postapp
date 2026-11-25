@@ -1,0 +1,44 @@
+{
+  "duration": 22.0,
+  "scenes": [
+    {
+      "label": "NE OLDU?",
+      "heading": "AWS Lambda zaman aşımını 30 dakikaya çıkardı",
+      "body": "GPU desteği, ses klonlama ve yeni altyapı güncellemeleri duyuruldu."
+    },
+    {
+      "label": "BİLMEN GEREKEN",
+      "heading": "Zaman Aşımı Tarihçesi",
+      "body": "2014'te 60 saniye ile başlayan Lambda, 2015'te 5 dakikaya ve 2018'de 15 dakikaya yükseltilmişti."
+    },
+    {
+      "label": "DETAY",
+      "heading": "GPU Desteği",
+      "body": "Lambda Managed Instances üzerindeki Event Function'lar artık GPU hızlandırmalı işlem yapabiliyor."
+    },
+    {
+      "label": "NEDEN ÖNEMLİ?",
+      "heading": "Yerel Erişim",
+      "body": "Bogotá'da açılan yeni AWS Local Zone, Kolombiya'daki kullanıcılara düşük gecikmeli erişim sağlıyor."
+    }
+  ],
+  "bounds": [
+    0.0,
+    3.5,
+    9.666666666666668,
+    15.833333333333334,
+    22.0
+  ],
+  "probe": {
+    "duration": 22.0,
+    "width": 1080,
+    "height": 1920,
+    "has_audio": true,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "fps": 30.0,
+    "bit_rate": 1650403
+  },
+  "music": true,
+  "orig_audio": false
+}

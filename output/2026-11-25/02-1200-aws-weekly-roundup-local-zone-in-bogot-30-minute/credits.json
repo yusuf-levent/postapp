@@ -1,0 +1,22 @@
+{
+  "images": [],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir.",
+  "video": [
+    {
+      "source": "pexels",
+      "url": "https://videos.pexels.com/video-files/1085656/1085656-hd_1920_1080_25fps.mp4",
+      "license": "Pexels License",
+      "author": "Dima Krivoy",
+      "credit_url": "https://www.pexels.com/video/blue-colored-cables-1085656/"
+    }
+  ],
+  "music": [
+    {
+      "title": "Bummin on Tremelo",
+      "artist": "Kevin MacLeod (incompetech.com)",
+      "license": "CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Bummin%20on%20Tremelo.mp3"
+    }
+  ]
+}

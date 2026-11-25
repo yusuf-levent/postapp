@@ -1,0 +1,283 @@
+{
+  "title": "AWS Weekly Roundup: Local Zone in Bogotá, 30-minute Lambda timeout, and more (November 24, 2026)",
+  "canonical_url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+  "source_names": [
+    "AWS News Blog"
+  ],
+  "checked_at": "2026-11-25T12:20:05+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "AWS Lambda 2014 yilinda 60 saniye zaman asimi suresiyle baslatildi, 2015'te 5 dakikaya ve 2018'de 15 dakikaya cikarildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "AWS Lambda launched in 2014 with a 60-second timeout, moved to 5 minutes in 2015 and to 15 minutes in 2018, and then stayed there for eight years."
+        }
+      ]
+    },
+    {
+      "claim": "AWS, Kolombiya'daki kullanicilara daha yakin olmak icin Bogota'da yeni bir Local Zone actigini duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "A new AWS Local Zone in Bogotá brought AWS infrastructure closer to users in Colombia."
+        },
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "AWS Local Zone in Bogotá, Colombia – AWS opened a new Local Zone in Bogotá, so you can now run applications that need single-digit millisecond latency closer to users in Colombia."
+        }
+      ]
+    },
+    {
+      "claim": "AWS Lambda, istege bagli Event Function'lar icin zaman asimi sirasini 30 dakikaya (1800 saniye) cikardi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "AWS Lambda now supports a 30-minute timeout for on-demand Event Functions – You can now configure any Event Function with a timeout of up to 30 minutes (1,800 seconds), double the previous limit"
+        }
+      ]
+    },
+    {
+      "claim": "AWS Lambda, Lambda Managed Instances uzerindeki Event Function'lar icin GPU ornek destegi getirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances – You can now run GPU-accelerated inference, media processing, rendering, and scientific computing as Lambda functions"
+        }
+      ]
+    },
+    {
+      "claim": "Amazon Polly, gonullu bir konusmacinin ses kayitlarindan ozel bir ses olusturmak icin ses klonlama destegi sundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "Amazon Polly now supports voice cloning – You can now create a custom voice in Amazon Polly from a few minutes of recordings of a consenting speaker, running on the Polly generative engine."
+        }
+      ]
+    },
+    {
+      "claim": "AWS STS, calisma zamaninda yetkileri daraltmak icin GetScopedCredentials ozelligini duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "AWS STS announces GetScopedCredentials to scope down permissions at runtime – You can now take the temporary credentials a workload already holds and derive narrower ones, cutting permissions, session duration, or both."
+        }
+      ]
+    },
+    {
+      "claim": "Amazon Cognito, MCP istemcilerinin ve yapay zeka ajanlarinin calisma zamaninda kendilerini kaydetmesine olanak taniyan dinamik istemci kaydi destegi getirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "Amazon Cognito now supports dynamic client registration – You can now let MCP clients and AI agents register themselves at runtime (RFC 7591) instead of creating an app client in advance for each one."
+        }
+      ]
+    },
+    {
+      "claim": "BMW Group, Ar-Ge biriminde 12.500'den fazla gelistiriciye sahip oldugunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "With more than 12,500 developers in R&D, BMW treats governance as deterministic code outside the agent’s reasoning loop"
+        },
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "How the BMW Group governs hundreds of agents across thousands of developers – With more than 12,500 developers in R&D, BMW treats governance as deterministic code outside the agent’s reasoning loop"
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "AWS Lambda 2014 yilinda 60 saniye zaman asimi suresiyle baslatildi, 2015'te 5 dakikaya ve 2018'de 15 dakikaya cikarildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "AWS Lambda launched in 2014 with a 60-second timeout, moved to 5 minutes in 2015 and to 15 minutes in 2018, and then stayed there for eight years."
+        }
+      ]
+    },
+    {
+      "claim": "AWS, Kolombiya'daki kullanicilara daha yakin olmak icin Bogota'da yeni bir Local Zone actigini duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "A new AWS Local Zone in Bogotá brought AWS infrastructure closer to users in Colombia."
+        },
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "AWS Local Zone in Bogotá, Colombia – AWS opened a new Local Zone in Bogotá, so you can now run applications that need single-digit millisecond latency closer to users in Colombia."
+        }
+      ]
+    },
+    {
+      "claim": "AWS Lambda, istege bagli Event Function'lar icin zaman asimi sirasini 30 dakikaya (1800 saniye) cikardi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "AWS Lambda now supports a 30-minute timeout for on-demand Event Functions – You can now configure any Event Function with a timeout of up to 30 minutes (1,800 seconds), double the previous limit"
+        }
+      ]
+    },
+    {
+      "claim": "AWS Lambda, Lambda Managed Instances uzerindeki Event Function'lar icin GPU ornek destegi getirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances – You can now run GPU-accelerated inference, media processing, rendering, and scientific computing as Lambda functions"
+        }
+      ]
+    },
+    {
+      "claim": "Amazon Polly, gonullu bir konusmacinin ses kayitlarindan ozel bir ses olusturmak icin ses klonlama destegi sundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "Amazon Polly now supports voice cloning – You can now create a custom voice in Amazon Polly from a few minutes of recordings of a consenting speaker, running on the Polly generative engine."
+        }
+      ]
+    },
+    {
+      "claim": "AWS STS, calisma zamaninda yetkileri daraltmak icin GetScopedCredentials ozelligini duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "AWS STS announces GetScopedCredentials to scope down permissions at runtime – You can now take the temporary credentials a workload already holds and derive narrower ones, cutting permissions, session duration, or both."
+        }
+      ]
+    },
+    {
+      "claim": "Amazon Cognito, MCP istemcilerinin ve yapay zeka ajanlarinin calisma zamaninda kendilerini kaydetmesine olanak taniyan dinamik istemci kaydi destegi getirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "Amazon Cognito now supports dynamic client registration – You can now let MCP clients and AI agents register themselves at runtime (RFC 7591) instead of creating an app client in advance for each one."
+        }
+      ]
+    },
+    {
+      "claim": "BMW Group, Ar-Ge biriminde 12.500'den fazla gelistiriciye sahip oldugunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "With more than 12,500 developers in R&D, BMW treats governance as deterministic code outside the agent’s reasoning loop"
+        },
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "How the BMW Group governs hundreds of agents across thousands of developers – With more than 12,500 developers in R&D, BMW treats governance as deterministic code outside the agent’s reasoning loop"
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "AWS Lambda 2014 yilinda 60 saniye zaman asimi suresiyle baslatildi, 2015'te 5 dakikaya ve 2018'de 15 dakikaya cikarildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "AWS Lambda launched in 2014 with a 60-second timeout, moved to 5 minutes in 2015 and to 15 minutes in 2018, and then stayed there for eight years."
+        }
+      ]
+    },
+    {
+      "claim": "AWS, Kolombiya'daki kullanicilara daha yakin olmak icin Bogota'da yeni bir Local Zone actigini duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "A new AWS Local Zone in Bogotá brought AWS infrastructure closer to users in Colombia."
+        },
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "AWS Local Zone in Bogotá, Colombia – AWS opened a new Local Zone in Bogotá, so you can now run applications that need single-digit millisecond latency closer to users in Colombia."
+        }
+      ]
+    },
+    {
+      "claim": "AWS Lambda, istege bagli Event Function'lar icin zaman asimi sirasini 30 dakikaya (1800 saniye) cikardi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "AWS Lambda now supports a 30-minute timeout for on-demand Event Functions – You can now configure any Event Function with a timeout of up to 30 minutes (1,800 seconds), double the previous limit"
+        }
+      ]
+    },
+    {
+      "claim": "AWS Lambda, Lambda Managed Instances uzerindeki Event Function'lar icin GPU ornek destegi getirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances – You can now run GPU-accelerated inference, media processing, rendering, and scientific computing as Lambda functions"
+        }
+      ]
+    },
+    {
+      "claim": "Amazon Polly, gonullu bir konusmacinin ses kayitlarindan ozel bir ses olusturmak icin ses klonlama destegi sundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "Amazon Polly now supports voice cloning – You can now create a custom voice in Amazon Polly from a few minutes of recordings of a consenting speaker, running on the Polly generative engine."
+        }
+      ]
+    },
+    {
+      "claim": "AWS STS, calisma zamaninda yetkileri daraltmak icin GetScopedCredentials ozelligini duyurdu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "AWS STS announces GetScopedCredentials to scope down permissions at runtime – You can now take the temporary credentials a workload already holds and derive narrower ones, cutting permissions, session duration, or both."
+        }
+      ]
+    },
+    {
+      "claim": "Amazon Cognito, MCP istemcilerinin ve yapay zeka ajanlarinin calisma zamaninda kendilerini kaydetmesine olanak taniyan dinamik istemci kaydi destegi getirdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "Amazon Cognito now supports dynamic client registration – You can now let MCP clients and AI agents register themselves at runtime (RFC 7591) instead of creating an app client in advance for each one."
+        }
+      ]
+    },
+    {
+      "claim": "BMW Group, Ar-Ge biriminde 12.500'den fazla gelistiriciye sahip oldugunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "With more than 12,500 developers in R&D, BMW treats governance as deterministic code outside the agent’s reasoning loop"
+        },
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+          "quote": "How the BMW Group governs hundreds of agents across thousands of developers – With more than 12,500 developers in R&D, BMW treats governance as deterministic code outside the agent’s reasoning loop"
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/": 8713
+  }
+}
