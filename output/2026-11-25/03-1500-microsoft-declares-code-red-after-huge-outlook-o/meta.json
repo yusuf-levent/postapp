@@ -1,0 +1,37 @@
+{
+  "pipeline_version": 2,
+  "slot": "15:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 511.0,
+  "candidates_tried": 2,
+  "gemini_calls": 45,
+  "model_usage": {
+    "gemini-3.1-flash-lite": 6,
+    "gemini-3.5-flash-lite": 19
+  },
+  "canonical_url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+  "entities": [
+    "Microsoft",
+    "Outlook",
+    "Exchange Online",
+    "Microsoft 365",
+    "Jason Henderson",
+    "Amanda Silver"
+  ],
+  "event_type": "service_outage",
+  "topic": "software",
+  "primary_entity": "Microsoft",
+  "event_key": "microsoft_outlook_code_red_outage",
+  "editorial": {
+    "index": 8,
+    "publishable": true,
+    "importance": 7,
+    "education_value": 6,
+    "topic": "software",
+    "primary_entity": "Microsoft",
+    "event_key": "microsoft_outlook_code_red_outage",
+    "reason": "Microsoft'un büyük çaplı bir kesinti sonrası 'Code Red' ilan etmesi ve bulut altyapısındaki mühendislik zafiyetlerini kabul etmesi, kurumsal yazılım güvenilirliği açısından önemli bir vaka analizi."
+  },
+  "generated_at": "2026-11-25T15:10:59+03:00"
+}

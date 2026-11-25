@@ -1,0 +1,309 @@
+{
+  "title": "Microsoft declares ‘Code Red’ after huge Outlook outage",
+  "canonical_url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+  "source_names": [
+    "The Verge",
+    "Ars Technica"
+  ],
+  "checked_at": "2026-11-25T15:07:32+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Bu ay yaşanan Exchange Online ve Microsoft Outlook kesintisi, Reuters'ın haberine göre yazılım devinin şirket içinde olağandışı bir \"Kod Kırmızı\" ilan etmesine yol açtı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "This month’s Exchange Online and Microsoft Outlook outage has prompted the software giant to declare an unusual “Code Red” internally, Reuters reports."
+        },
+        {
+          "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+          "quote": "According to internal memos reviewed by Reuters, Microsoft has declared a “Code Red” overhaul of its engineering response practices after the November 12 outage"
+        }
+      ]
+    },
+    {
+      "claim": "Yaklaşık 24 saat süren kesinti milyonlarca müşterinin e-posta erişimini engelledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "The nearly 24-hour outage took down email for millions of customers"
+        }
+      ]
+    },
+    {
+      "claim": "Kesinti, Temmuz ayından bu yana Microsoft 365 ağ geçidi sunucularında bulunan bir hatadan kaynaklandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "triggered by a bug that had been sitting on Microsoft 365 networking gateway servers since July without any impact to servers."
+        },
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "The nearly 24-hour outage took down email for millions of customers, and was triggered by a bug that had been sitting on Microsoft 365 networking gateway servers since July without any impact to servers."
+        },
+        {
+          "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+          "quote": "The company’s post-incident report, dated November 20, attributed the downtime to an undetected Windows scalability defect introduced in July, which caused lock contention in the gateway processes."
+        }
+      ]
+    },
+    {
+      "claim": "Microsoft 365 Core başkanı Jason Henderson, kesintinin Microsoft müşterileri tarihindeki en önemli kesinti olduğunu açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "In a memo to the teams responsible for Exchange Online, Microsoft 365 Core president Jason Henderson revealed the outage was the most significant in history for Microsoft’s customers."
+        },
+        {
+          "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+          "quote": "Per the memos, Microsoft 365 Core President Jason Henderson described the outage as having the most customer impact in the history of Exchange Online."
+        }
+      ]
+    },
+    {
+      "claim": "Microsoft gelecekteki kesintileri bir saat içinde çözme hedefine sahip olup mühendislerin sorunları teşhis etmesine yardımcı olmak için yapay zeka ajanları görevlendirecek.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "Microsoft now has a target of resolving future outages within an hour, and will reportedly deploy AI agents to help engineers diagnose issues."
+        }
+      ]
+    },
+    {
+      "claim": "Microsoft, Microsoft 365 hizmetlerinden sorumlu mühendislik grubuyla günlük toplantılar ve haftalık incelemeler gerçekleştiriyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "Microsoft is now holding daily meetings with the engineering group responsible for Microsoft 365 services, alongside weekly reviews."
+        }
+      ]
+    },
+    {
+      "claim": "Microsoft mühendisleri kesinti sırasında en fazla 1.000 katılımcıya ulaşan bir köprü çağrısı yürüttü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "I reported last week that Microsoft engineers had a running bridge call during the entire outage, and at one point it hit the maximum of 1,000 participants."
+        }
+      ]
+    },
+    {
+      "claim": "Mühendisler, parçalanmış iç takip sistemleri nedeniyle kesinti sırasında 11 Teams sohbeti üzerinden mesaj alışverişi yapmak zorunda kaldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "Microsoft engineers had to exchange messages across 11 Teams chats and reportedly “struggled to maintain a cohesive picture” during the outage because of the fragmented internal tracking systems."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Bu ay yaşanan Exchange Online ve Microsoft Outlook kesintisi, Reuters'ın haberine göre yazılım devinin şirket içinde olağandışı bir \"Kod Kırmızı\" ilan etmesine yol açtı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "This month’s Exchange Online and Microsoft Outlook outage has prompted the software giant to declare an unusual “Code Red” internally, Reuters reports."
+        },
+        {
+          "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+          "quote": "According to internal memos reviewed by Reuters, Microsoft has declared a “Code Red” overhaul of its engineering response practices after the November 12 outage"
+        }
+      ]
+    },
+    {
+      "claim": "Yaklaşık 24 saat süren kesinti milyonlarca müşterinin e-posta erişimini engelledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "The nearly 24-hour outage took down email for millions of customers"
+        }
+      ]
+    },
+    {
+      "claim": "Kesinti, Temmuz ayından bu yana Microsoft 365 ağ geçidi sunucularında bulunan bir hatadan kaynaklandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "triggered by a bug that had been sitting on Microsoft 365 networking gateway servers since July without any impact to servers."
+        },
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "The nearly 24-hour outage took down email for millions of customers, and was triggered by a bug that had been sitting on Microsoft 365 networking gateway servers since July without any impact to servers."
+        },
+        {
+          "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+          "quote": "The company’s post-incident report, dated November 20, attributed the downtime to an undetected Windows scalability defect introduced in July, which caused lock contention in the gateway processes."
+        }
+      ]
+    },
+    {
+      "claim": "Microsoft 365 Core başkanı Jason Henderson, kesintinin Microsoft müşterileri tarihindeki en önemli kesinti olduğunu açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "In a memo to the teams responsible for Exchange Online, Microsoft 365 Core president Jason Henderson revealed the outage was the most significant in history for Microsoft’s customers."
+        },
+        {
+          "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+          "quote": "Per the memos, Microsoft 365 Core President Jason Henderson described the outage as having the most customer impact in the history of Exchange Online."
+        }
+      ]
+    },
+    {
+      "claim": "Microsoft gelecekteki kesintileri bir saat içinde çözme hedefine sahip olup mühendislerin sorunları teşhis etmesine yardımcı olmak için yapay zeka ajanları görevlendirecek.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "Microsoft now has a target of resolving future outages within an hour, and will reportedly deploy AI agents to help engineers diagnose issues."
+        }
+      ]
+    },
+    {
+      "claim": "Microsoft, Microsoft 365 hizmetlerinden sorumlu mühendislik grubuyla günlük toplantılar ve haftalık incelemeler gerçekleştiriyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "Microsoft is now holding daily meetings with the engineering group responsible for Microsoft 365 services, alongside weekly reviews."
+        }
+      ]
+    },
+    {
+      "claim": "Microsoft mühendisleri kesinti sırasında en fazla 1.000 katılımcıya ulaşan bir köprü çağrısı yürüttü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "I reported last week that Microsoft engineers had a running bridge call during the entire outage, and at one point it hit the maximum of 1,000 participants."
+        }
+      ]
+    },
+    {
+      "claim": "Mühendisler, parçalanmış iç takip sistemleri nedeniyle kesinti sırasında 11 Teams sohbeti üzerinden mesaj alışverişi yapmak zorunda kaldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "Microsoft engineers had to exchange messages across 11 Teams chats and reportedly “struggled to maintain a cohesive picture” during the outage because of the fragmented internal tracking systems."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Bu ay yaşanan Exchange Online ve Microsoft Outlook kesintisi, Reuters'ın haberine göre yazılım devinin şirket içinde olağandışı bir \"Kod Kırmızı\" ilan etmesine yol açtı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "This month’s Exchange Online and Microsoft Outlook outage has prompted the software giant to declare an unusual “Code Red” internally, Reuters reports."
+        },
+        {
+          "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+          "quote": "According to internal memos reviewed by Reuters, Microsoft has declared a “Code Red” overhaul of its engineering response practices after the November 12 outage"
+        }
+      ]
+    },
+    {
+      "claim": "Yaklaşık 24 saat süren kesinti milyonlarca müşterinin e-posta erişimini engelledi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "The nearly 24-hour outage took down email for millions of customers"
+        }
+      ]
+    },
+    {
+      "claim": "Kesinti, Temmuz ayından bu yana Microsoft 365 ağ geçidi sunucularında bulunan bir hatadan kaynaklandı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "triggered by a bug that had been sitting on Microsoft 365 networking gateway servers since July without any impact to servers."
+        },
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "The nearly 24-hour outage took down email for millions of customers, and was triggered by a bug that had been sitting on Microsoft 365 networking gateway servers since July without any impact to servers."
+        },
+        {
+          "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+          "quote": "The company’s post-incident report, dated November 20, attributed the downtime to an undetected Windows scalability defect introduced in July, which caused lock contention in the gateway processes."
+        }
+      ]
+    },
+    {
+      "claim": "Microsoft 365 Core başkanı Jason Henderson, kesintinin Microsoft müşterileri tarihindeki en önemli kesinti olduğunu açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "In a memo to the teams responsible for Exchange Online, Microsoft 365 Core president Jason Henderson revealed the outage was the most significant in history for Microsoft’s customers."
+        },
+        {
+          "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+          "quote": "Per the memos, Microsoft 365 Core President Jason Henderson described the outage as having the most customer impact in the history of Exchange Online."
+        }
+      ]
+    },
+    {
+      "claim": "Microsoft gelecekteki kesintileri bir saat içinde çözme hedefine sahip olup mühendislerin sorunları teşhis etmesine yardımcı olmak için yapay zeka ajanları görevlendirecek.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "Microsoft now has a target of resolving future outages within an hour, and will reportedly deploy AI agents to help engineers diagnose issues."
+        }
+      ]
+    },
+    {
+      "claim": "Microsoft, Microsoft 365 hizmetlerinden sorumlu mühendislik grubuyla günlük toplantılar ve haftalık incelemeler gerçekleştiriyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "Microsoft is now holding daily meetings with the engineering group responsible for Microsoft 365 services, alongside weekly reviews."
+        }
+      ]
+    },
+    {
+      "claim": "Microsoft mühendisleri kesinti sırasında en fazla 1.000 katılımcıya ulaşan bir köprü çağrısı yürüttü.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "I reported last week that Microsoft engineers had a running bridge call during the entire outage, and at one point it hit the maximum of 1,000 participants."
+        }
+      ]
+    },
+    {
+      "claim": "Mühendisler, parçalanmış iç takip sistemleri nedeniyle kesinti sırasında 11 Teams sohbeti üzerinden mesaj alışverişi yapmak zorunda kaldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "quote": "Microsoft engineers had to exchange messages across 11 Teams chats and reportedly “struggled to maintain a cohesive picture” during the outage because of the fragmented internal tracking systems."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage": 2113,
+    "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/": 1224
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "duration": 14.68,
+  "scenes": [
+    {
+      "label": "NE OLDU?",
+      "heading": "Microsoft, Outlook kesintisi sonrası \"Kod Kırmızı\" ilan etti",
+      "body": "Şirket, mühendislik süreçlerini baştan aşağı yenilemek için harekete geçti."
+    },
+    {
+      "label": "BİLMEN GEREKEN",
+      "heading": "Temmuz ayından gelen hata",
+      "body": "Kesinti, Microsoft 365 ağ geçidi sunucularında Temmuz ayından beri fark edilmeyen bir Windows ölçeklenebilirlik hatasından kaynaklandı."
+    },
+    {
+      "label": "DETAY",
+      "heading": "Yapay zeka desteği",
+      "body": "Microsoft, gelecekteki sorunları bir saat içinde çözmek için mühendislere yardımcı olacak yapay zeka ajanlarını devreye alacak."
+    },
+    {
+      "label": "NEDEN ÖNEMLİ?",
+      "heading": "Mühendislik pratikleri değişiyor",
+      "body": "Microsoft, yaşanan bu büyük ölçekli kesintinin ardından mühendislik yanıt süreçlerini tamamen gözden geçirme kararı aldı."
+    }
+  ],
+  "bounds": [
+    0.0,
+    3.5,
+    7.226666666666667,
+    10.953333333333333,
+    14.68
+  ],
+  "probe": {
+    "duration": 14.68,
+    "width": 1080,
+    "height": 1920,
+    "has_audio": true,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "fps": 30.0,
+    "bit_rate": 738445
+  },
+  "music": true,
+  "orig_audio": false
+}

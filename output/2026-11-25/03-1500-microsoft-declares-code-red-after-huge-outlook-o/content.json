@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ HABERLERİ",
+    "title": "Microsoft, Outlook kesintisi sonrası \"Kod Kırmızı\" ilan etti",
+    "highlight_words": [
+      "Kod Kırmızı"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Şirket, mühendislik süreçlerini baştan aşağı yenilemek için harekete geçti.",
+    "source_tags": [
+      "THE VERGE",
+      "ARS TECHNICA"
+    ]
+  },
+  "context": {
+    "heading": "Kesintinin Perde Arkası",
+    "cards": [
+      {
+        "card_title": "Temmuz ayından gelen hata",
+        "card_body": "Kesinti, Microsoft 365 ağ geçidi sunucularında Temmuz ayından beri fark edilmeyen bir Windows ölçeklenebilirlik hatasından kaynaklandı."
+      },
+      {
+        "card_title": "24 saatlik erişim engeli",
+        "card_body": "Milyonlarca kullanıcıyı etkileyen bu teknik sorun, e-posta erişiminin yaklaşık 24 saat boyunca kesilmesine yol açtı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "1.000",
+    "stat_caption": "Kesinti sırasında mühendislerin bilgi paylaşımı için kullandığı köprü çağrısındaki maksimum katılımcı sayısı.",
+    "stat_quote": "Microsoft 365 Core başkanı Jason Henderson, bu olayın Exchange Online tarihindeki en önemli kesinti olduğunu belirtti."
+  },
+  "details": {
+    "heading": "Mühendislikte Yeni Dönem",
+    "cards": [
+      {
+        "card_title": "Yapay zeka desteği",
+        "card_body": "Microsoft, gelecekteki sorunları bir saat içinde çözmek için mühendislere yardımcı olacak yapay zeka ajanlarını devreye alacak."
+      },
+      {
+        "card_title": "İletişim zorlukları",
+        "card_body": "Parçalanmış iç takip sistemleri nedeniyle mühendisler, kesinti anında 11 farklı Teams sohbeti üzerinden koordinasyon sağlamaya çalıştı."
+      },
+      {
+        "card_title": "Sıkı denetim",
+        "card_body": "Şirket, Microsoft 365 hizmetlerinden sorumlu gruplarla artık günlük toplantılar ve haftalık incelemeler gerçekleştiriyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Yansımalar",
+    "cards": [
+      {
+        "card_title": "Mühendislik pratikleri değişiyor",
+        "card_body": "Microsoft, yaşanan bu büyük ölçekli kesintinin ardından mühendislik yanıt süreçlerini tamamen gözden geçirme kararı aldı."
+      },
+      {
+        "card_title": "Kullanıcı güveni ve erişim",
+        "card_body": "Milyonlarca müşterinin iş akışını durduran bu olay, bulut tabanlı servislerin sürekliliği konusunda kritik bir uyarı niteliği taşıyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce yapay zeka ajanları, bu tür karmaşık sistem hatalarını teşhis etmede insan mühendislerden daha hızlı olabilir mi?",
+    "reminder_line": "Teknoloji dünyasındaki güncel gelişmeleri takip etmek için bizi izlemeye devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": "<svg role=\"img\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"#FFFFFF\"><title>Microsoft</title><path d=\"M0 0v11.408h11.408V0zm12.594 0v11.408H24V0zM0 12.594V24h11.408V12.594zm12.594 0V24H24V12.594z\"/></svg>"
+}

@@ -9318,5 +9318,94 @@
     "topic": "software",
     "primary_entity": "AWS",
     "event_key": "aws_lambda_gpu_support_timeout_increase"
+  },
+  {
+    "id": "2026-11-25-1500",
+    "date": "2026-11-25",
+    "slot": "15:00",
+    "type": "news",
+    "title_tr": "Microsoft, Outlook kesintisi sonrası \"Kod Kırmızı\" ilan etti",
+    "original_title": "Microsoft declares ‘Code Red’ after huge Outlook outage",
+    "source_urls": [
+      "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage"
+    ],
+    "canonical_url": "https://theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+    "entities": [
+      "Microsoft",
+      "Outlook",
+      "Exchange Online",
+      "Microsoft 365",
+      "Jason Henderson",
+      "Amanda Silver"
+    ],
+    "event_type": "service_outage",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "tiktok",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "x",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "threads",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "linkedin",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "facebook",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      }
+    ],
+    "created_at": "2026-11-25T15:10:59+03:00",
+    "verified_claims_count": 8,
+    "topic": "software",
+    "primary_entity": "Microsoft",
+    "event_key": "microsoft_outlook_code_red_outage"
   }
 ]
