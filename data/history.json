@@ -9693,11 +9693,11 @@
       {
         "platform": "instagram",
         "state": "submitted",
-        "external_id": "",
+        "external_id": "6b07f66263939e1d0089bc8f",
         "permalink": "",
         "attempts": 1,
-        "last_error": "",
-        "remote_status": "",
+        "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
+        "remote_status": "sending",
         "retry_at": 0
       },
       {
