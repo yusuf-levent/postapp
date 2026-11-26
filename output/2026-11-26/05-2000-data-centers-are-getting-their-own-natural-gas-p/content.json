@@ -1,0 +1,126 @@
+{
+  "cover": {
+    "category_label": "Yapay Zeka ve Enerji",
+    "title": "Veri Merkezleri Şebeke Dışı Gaz Türbinleri Kullanıyor",
+    "highlight_words": [
+      "Gaz Türbinleri"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Yapay zeka tesislerinin enerji ihtiyacı ve şebeke dışı çözümler.",
+    "source_tags": [
+      "MIT Technology Review"
+    ]
+  },
+  "problem": {
+    "heading": "Memphis Kampüsü ve Doğal Gaz Kullanımı",
+    "cards": [
+      {
+        "card_title": "xAI Memphis",
+        "card_body": "xAI’ın Memphis kampüsü, 2024 yılından itibaren bir kısmı izinsiz olan düzinelerce doğal gaz türbini kullanmıştır."
+      },
+      {
+        "card_title": "Temel Motivasyon",
+        "card_body": "Musfika Mishi, veri merkezleri için yerinde güç üretimindeki en büyük motivasyonun hız olduğunu belirtmiştir."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Mevcut Durum ve Projeler",
+      "cards": [
+        {
+          "card_title": "Çalışan Projeler",
+          "card_body": "Cleanview verilerine göre, veri merkezlerine bağlı 4,9 gigawatt büyüklüğünde şebeke dışı gaz projesi halihazırda çalışmaktadır."
+        },
+        {
+          "card_title": "Yapım Aşamasındakiler",
+          "card_body": "Cleanview verilerine göre, veri merkezleri için 15,8 gigawatt büyüklüğünde şebeke dışı gaz projesi yapım aşamasındadır."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Gelecek Planları ve Kapasite",
+      "cards": [
+        {
+          "card_title": "100'den Fazla Plan",
+          "card_body": "Cleanview verilerine göre, Ekim 2026 itibarıyla veri merkezi geliştiricileri ABD’deki tesisler için 100’den fazla şebeke dışı gaz santrali planı açıklamıştır."
+        },
+        {
+          "card_title": "115 Gigawatt",
+          "card_body": "Cleanview verilerine göre, planlanan bu tesislerin toplam kapasitesi 115 gigawattın üzerindedir."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Çevresel Etki ve ABD Şebekesi",
+      "cards": [
+        {
+          "card_title": "Karbon Salınımı",
+          "card_body": "BloombergNEF raporuna göre, ABD’deki planlanan tüm şebeke dışı gaz santralleri hayata geçerse, 2035 yılına kadar her yıl 345 milyon metrik ton karbondioksit eşdeğeri salabilirler."
+        },
+        {
+          "card_title": "Mevcut Şebeke",
+          "card_body": "ABD şebekesi halihazırda fosil yakıtlara bağımlı olup, nükleer ve yenilenebilir enerji elektrik üretiminin yaklaşık %40'ını oluşturmaktadır."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Veri merkezlerinin enerji ihtiyacı için şebeke dışı çözümler hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri takip etmek için Tekno Pusula'yı takipte kalın."
+  },
+  "context": {
+    "heading": "Memphis Kampüsü ve Doğal Gaz Kullanımı",
+    "cards": [
+      {
+        "card_title": "xAI Memphis",
+        "card_body": "xAI’ın Memphis kampüsü, 2024 yılından itibaren bir kısmı izinsiz olan düzinelerce doğal gaz türbini kullanmıştır."
+      },
+      {
+        "card_title": "Temel Motivasyon",
+        "card_body": "Musfika Mishi, veri merkezleri için yerinde güç üretimindeki en büyük motivasyonun hız olduğunu belirtmiştir."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Mevcut Durum ve Projeler",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "Gelecek Planları ve Kapasite",
+    "cards": [
+      {
+        "card_title": "100'den Fazla Plan",
+        "card_body": "Cleanview verilerine göre, Ekim 2026 itibarıyla veri merkezi geliştiricileri ABD’deki tesisler için 100’den fazla şebeke dışı gaz santrali planı açıklamıştır."
+      },
+      {
+        "card_title": "115 Gigawatt",
+        "card_body": "Cleanview verilerine göre, planlanan bu tesislerin toplam kapasitesi 115 gigawattın üzerindedir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Çevresel Etki ve ABD Şebekesi",
+    "cards": [
+      {
+        "card_title": "Karbon Salınımı",
+        "card_body": "BloombergNEF raporuna göre, ABD’deki planlanan tüm şebeke dışı gaz santralleri hayata geçerse, 2035 yılına kadar her yıl 345 milyon metrik ton karbondioksit eşdeğeri salabilirler."
+      },
+      {
+        "card_title": "Mevcut Şebeke",
+        "card_body": "ABD şebekesi halihazırda fosil yakıtlara bağımlı olup, nükleer ve yenilenebilir enerji elektrik üretiminin yaklaşık %40'ını oluşturmaktadır."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": ""
+}

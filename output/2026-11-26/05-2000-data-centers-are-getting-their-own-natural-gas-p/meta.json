@@ -1,0 +1,32 @@
+{
+  "pipeline_version": 2,
+  "slot": "20:00",
+  "type": "edu",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 109.3,
+  "candidates_tried": 1,
+  "gemini_calls": 17,
+  "model_usage": {
+    "gemini-3.5-flash-lite": 17
+  },
+  "canonical_url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+  "entities": [
+    "xAI",
+    "Cleanview"
+  ],
+  "event_type": "infrastructure_trend",
+  "topic": "ai",
+  "primary_entity": "xAI",
+  "event_key": "data_centers_off_grid_natural_gas_power_plants",
+  "editorial": {
+    "index": 3,
+    "publishable": true,
+    "importance": 8,
+    "education_value": 7,
+    "topic": "ai",
+    "primary_entity": "xAI",
+    "event_key": "data_centers_off_grid_natural_gas_power_plants",
+    "reason": "Yapay zeka veri merkezlerinin enerji ihtiyacı için şebeke dışı doğalgaz santralleri kurması teknik bir altyapı trendini gösteriyor."
+  },
+  "generated_at": "2026-11-26T20:04:10+03:00"
+}

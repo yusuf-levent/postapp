@@ -1,0 +1,44 @@
+{
+  "duration": 10.593333,
+  "scenes": [
+    {
+      "label": "NE OLDU?",
+      "heading": "Veri Merkezleri Şebeke Dışı Gaz Türbinleri Kullanıyor",
+      "body": "Yapay zeka tesislerinin enerji ihtiyacı ve şebeke dışı çözümler."
+    },
+    {
+      "label": "BİLMEN GEREKEN",
+      "heading": "xAI Memphis",
+      "body": "xAI’ın Memphis kampüsü, 2024 yılından itibaren bir kısmı izinsiz olan düzinelerce doğal gaz türbini kullanmıştır."
+    },
+    {
+      "label": "DETAY",
+      "heading": "100'den Fazla Plan",
+      "body": "Cleanview verilerine göre, Ekim 2026 itibarıyla veri merkezi geliştiricileri ABD’deki tesisler için 100’den fazla şebeke dışı gaz santrali planı açıklamıştır."
+    },
+    {
+      "label": "NEDEN ÖNEMLİ?",
+      "heading": "Karbon Salınımı",
+      "body": "BloombergNEF raporuna göre, ABD’deki planlanan tüm şebeke dışı gaz santralleri hayata geçerse, 2035 yılına kadar her yıl 345 milyon metrik ton karbondioksit eşdeğeri salabilirler."
+    }
+  ],
+  "bounds": [
+    0.0,
+    2.64833325,
+    5.2966665,
+    7.944999749999999,
+    10.593333
+  ],
+  "probe": {
+    "duration": 10.6,
+    "width": 1080,
+    "height": 1920,
+    "has_audio": true,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "fps": 30.0,
+    "bit_rate": 1421612
+  },
+  "music": true,
+  "orig_audio": false
+}
