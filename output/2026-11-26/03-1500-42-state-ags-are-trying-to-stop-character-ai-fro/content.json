@@ -1,0 +1,74 @@
+{
+  "cover": {
+    "category_label": "TEKNOLOJİ VE HUKUK",
+    "title": "Character.AI Veri Satışına Karşı 42 Eyaletten Engel",
+    "highlight_words": [
+      "42 Eyalet",
+      "Engel"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "İflas sürecindeki şirketin kullanıcı sohbetlerini satma planı yargıya taşındı.",
+    "source_tags": [
+      "THE VERGE",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "İflas ve Satış Süreci",
+    "cards": [
+      {
+        "card_title": "İflas Başvurusu",
+        "card_body": "Character.AI, yıllar süren yasal mücadeleler ve skandalların ardından Ekim ayında iflas başvurusunda bulundu."
+      },
+      {
+        "card_title": "Disney'in Rolü",
+        "card_body": "Disney, şirketin bazı varlıklarını satın alarak CEO Karandeep Anand ve teknik ekibin bir kısmını bünyesine kattı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "21 MİLYON",
+    "stat_caption": "Satışa konu olan ABD merkezli kullanıcı hesabı sayısı.",
+    "stat_quote": "Başsavcılar, 2,1 milyonu çocuklara ait 21 milyondan fazla hesabın özel sohbet geçmişinin satılmasını engellemeye çalışıyor."
+  },
+  "details": {
+    "heading": "Neden Müdahale Ediliyor?",
+    "cards": [
+      {
+        "card_title": "Gizlilik Endişesi",
+        "card_body": "Başsavcılar, kullanıcıların özel sohbet geçmişlerinin hiçbir güvenlik önlemi olmadan açık artırmayla satılmasından endişeli."
+      },
+      {
+        "card_title": "Şüpheli Teklif",
+        "card_body": "Verilere talip olan ilk şirketin 13 Kasım 2026'da kurulduğu ve arkasında listelenmiş bir yatırımcı bulunmadığı belirtiliyor."
+      },
+      {
+        "card_title": "Yasal Düzenlemeler",
+        "card_body": "California, Colorado, New York ve Connecticut gibi eyaletlerde 1 Ocak 2027'de yürürlüğe girecek chatbot yasaları süreci etkiliyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel ve Kullanıcı Etkisi",
+    "cards": [
+      {
+        "card_title": "Kullanıcı Hakları",
+        "card_body": "Milyonlarca kullanıcının, özellikle de çocukların özel verilerinin korunması için eyalet düzeyinde yasal bir koruma kalkanı oluşturuluyor."
+      },
+      {
+        "card_title": "Sektörel Standartlar",
+        "card_body": "1 Ocak 2027'de yürürlüğe girecek yeni yasalar, yapay zeka şirketlerinin veri yönetimi konusunda daha sıkı denetleneceğini gösteriyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "İflas eden yapay zeka şirketlerinin kullanıcı verileri sizce nasıl korunmalı?",
+    "reminder_line": "Tekno Pusula ile güncel teknoloji gelişmelerini takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": ""
+}

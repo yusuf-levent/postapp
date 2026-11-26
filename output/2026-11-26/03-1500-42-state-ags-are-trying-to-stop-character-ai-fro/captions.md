@@ -1,0 +1,65 @@
+# Platform Açıklamaları
+
+## INSTAGRAM
+
+Character.AI'ın kullanıcı verilerini satma planı 42 eyaletin başsavcısı tarafından yargıya taşındı.
+
+İflas sürecindeki şirketin 21 milyondan fazla kullanıcının özel sohbet geçmişini satışa çıkarması büyük bir gizlilik endişesi yaratıyor. Bunların 2,1 milyonunun çocuklara ait olması durumu daha da kritik hale getiriyor.
+
+Verilere talip olan ilk şirketin şüpheli geçmişi ve yeterli güvenlik önlemlerinin bulunmaması yetkilileri harekete geçirdi.
+
+İflas eden yapay zeka şirketlerinin kullanıcı verileri sizce nasıl korunmalı?
+
+Kaynak: The Verge, TechCrunch
+
+#Teknoloji #YapayZeka #CharacterAI #VeriGizliliği #Hukuk #SiberGüvenlik #TechNews #AI
+
+## TIKTOK
+
+Character.AI iflas etti ve milyonlarca kullanıcının özel sohbetleri satışa çıkıyor! 42 eyalet buna neden engel olmak istiyor? Kaynak: The Verge, TechCrunch
+
+#Teknoloji #CharacterAI #VeriGüvenliği #YapayZeka
+
+## X
+
+Character.AI'ın iflas sürecinde 21 milyon kullanıcı verisini satma planına 42 eyaletten engel geldi! Çocuklara ait 2,1 milyon özel sohbetin de aralarında bulunduğu satış büyük gizlilik endişesi yaratıyor. Kaynak: The Verge, TechCrunch
+
+#Teknoloji #YapayZeka
+
+## THREADS
+
+Character.AI Veri Satışına 42 Eyaletten Engel
+
+İflas sürecindeki şirketin 21 milyondan fazla kullanıcının özel sohbet geçmişini satışa çıkarma planı yargıya taşındı. 2,1 milyon çocuk hesabının da bulunduğu veriler için güvenlik endişeleri artıyor.
+
+İflas eden yapay zeka şirketlerinin kullanıcı verileri sizce nasıl korunmalı?
+
+💭 Kaynak: The Verge, TechCrunch
+
+#Teknoloji
+
+## LINKEDIN
+
+Teknoloji ve hukuk dünyasını yakından ilgilendiren önemli bir gelişme yaşandı. Character.AI'ın iflas süreci kapsamında 21 milyon kullanıcı hesabını satışa çıkarma planı, ABD'de 42 eyaletin başsavcısı tarafından yargıya taşındı.
+
+Özellikle 2,1 milyon çocuk hesabının özel sohbet geçmişinin herhangi bir güvenlik önlemi olmaksızın açık artırmaya çıkarılmak istenmesi, veri gizliliği ve sektörel standartlar açısından büyük soru işaretleri doğuruyor. Teklif veren ilk şirketin yeni kurulmuş ve belirsiz bir yapıda olması da denetim mekanizmalarının önemini bir kez daha gösteriyor.
+
+İflas eden yapay zeka girişimlerinin veri yönetimi ve kullanıcı hakları konusunda daha sıkı yasal düzenlemelere ihtiyacı olduğu açık.
+
+Kaynak: The Verge, TechCrunch
+
+#YapayZeka #VeriGizliliği #TeknolojiHukuku #SiberGüvenlik #İşDünyası
+
+## FACEBOOK
+
+Character.AI'ın kullanıcı verilerini satma planı 42 eyaletin başsavcısı tarafından engellenmeye çalışılıyor.
+
+İflas sürecindeki şirketin 21 milyondan fazla kullanıcının özel sohbet geçmişini satışa çıkarması büyük bir gizlilik endişesi yaratırken, bu verilerin 2,1 milyonunun çocuklara ait olması durumu daha da kritik hale getiriyor.
+
+Verilere talip olan şirketlerin şüpheli yapısı ve yeterli güvenlik önlemlerinin olmaması yetkilileri harekete geçirdi.
+
+İflas eden yapay zeka şirketlerinin kullanıcı verileri sizce nasıl korunmalı?
+
+Kaynak: The Verge, TechCrunch
+
+#Teknoloji #YapayZeka #CharacterAI #VeriGizliliği #Hukuk

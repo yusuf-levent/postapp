@@ -1,0 +1,299 @@
+{
+  "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+  "canonical_url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+  "source_names": [
+    "The Verge",
+    "Engadget",
+    "TechCrunch"
+  ],
+  "checked_at": "2026-11-26T15:04:26+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "42 eyalet başsavcısından oluşan bir koalisyon, Chapter 11 iflas süreci yaşayan Character.AI'ın kullanıcı verilerini satmasını engellemeye çalışıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+          "quote": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings."
+        },
+        {
+          "url": "https://www.engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories/",
+          "quote": "A group of 42 attorneys general are trying to block the chatbot company from auctioning off users' chat histories and other sensitive information."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "quote": "Now, a coalition of 42 state attorneys general is intervening in Character.ai’s bankruptcy proceedings in an effort to stop the chatbot maker from selling off sensitive user data, which includes the private conversations of millions of users."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "quote": "Now, a coalition of 42 state attorneys general is intervening in Character.ai’s bankruptcy proceedings in an effort to stop the chatbot maker from selling off sensitive user data"
+        }
+      ]
+    },
+    {
+      "claim": "Başsavcılar, Character.AI'ın aralarında 2,1 milyondan fazla uşağın da bulunduğu 21 milyondan fazla ABD hesabının özel sohbet geçmişini açık artırmayla satmayı planladığını söylüyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+          "quote": "the various AGs accuse the company of planning to auction off “the private chat histories of more than 21 million U.S. accounts — more than 2.1 million of them registered to minors — with no safeguards for the people whose conversations are being sold.”"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "quote": "claiming that Character.ai’s dataset includes chat histories from more than 21 million U.S. accounts, more than 2.1 million of which belong to minors."
+        },
+        {
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+          "quote": "the various AGs accuse the company of planning to auction off “the private chat histories of more than 21 million U.S. accounts — more than 2.1 million of them registered to minors"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "quote": "The attorneys general involved in the matter have put out individual press releases, claiming that Character.ai’s dataset includes chat histories from more than 21 million U.S. accounts, more than 2.1 million of which belong to minors."
+        }
+      ]
+    },
+    {
+      "claim": "Character.AI, yıll süren skandallar ve aralarında Disney'in de bulunduğu yasal mücadelelerin ardından ekim ayında iflas başvurusunda bulundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+          "quote": "In October, Character.AI filed for bankruptcy following years of scandals and legal challenges, including from Disney."
+        }
+      ]
+    },
+    {
+      "claim": "Disney, şirketin bazı varlıklarını satın aldı ve CEO Karandeep Anand ile teknik ekibin bir kısmını işe aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+          "quote": "Disney ended up buying some of the company’s assets and hiring its CEO, Karandeep Anand, in a sort of “acquihire” arrangement that will also see “a number of Character.AI’s technical team” join the entertainment giant."
+        }
+      ]
+    },
+    {
+      "claim": "İlk teklif veren şirketin 13 Kasım 2026'da kurulduğu ve ana şirketinin veya yatırımcısının listelenmediği belirtiliyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+          "quote": "It doesn’t help that the first bidder has a limited paper trail, having only been established on November 13th, 2026, with no parent company or investors listed."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "quote": "Only one anonymous bidder for the chat data has been disclosed so far: Smirks and Pangs Acquisition LLC (Smirks), which was set up as a Delaware company on November 13, 2026."
+        }
+      ]
+    },
+    {
+      "claim": "New York, Connecticut, California ve Colorado dahil bazı eyaletler, 1 Ocak 2027'de yürürlüğe girecek chatbotları düzenleyen yasalar çıkardı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+          "quote": "Some states, including New York, Connecticut, California, and Colorado, have also passed laws regulating chatbots that Character.AI may be in violation of when they go into effect on January 1st, 2027."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "quote": "In addition, some states, including California, Colorado, New York, and Connecticut, have enacted chatbot safety legislation that will go into effect on January 1, 2027"
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "42 eyalet başsavcısından oluşan bir koalisyon, Chapter 11 iflas süreci yaşayan Character.AI'ın kullanıcı verilerini satmasını engellemeye çalışıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+          "quote": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings."
+        },
+        {
+          "url": "https://www.engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories/",
+          "quote": "A group of 42 attorneys general are trying to block the chatbot company from auctioning off users' chat histories and other sensitive information."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "quote": "Now, a coalition of 42 state attorneys general is intervening in Character.ai’s bankruptcy proceedings in an effort to stop the chatbot maker from selling off sensitive user data, which includes the private conversations of millions of users."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "quote": "Now, a coalition of 42 state attorneys general is intervening in Character.ai’s bankruptcy proceedings in an effort to stop the chatbot maker from selling off sensitive user data"
+        }
+      ]
+    },
+    {
+      "claim": "Başsavcılar, Character.AI'ın aralarında 2,1 milyondan fazla uşağın da bulunduğu 21 milyondan fazla ABD hesabının özel sohbet geçmişini açık artırmayla satmayı planladığını söylüyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+          "quote": "the various AGs accuse the company of planning to auction off “the private chat histories of more than 21 million U.S. accounts — more than 2.1 million of them registered to minors — with no safeguards for the people whose conversations are being sold.”"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "quote": "claiming that Character.ai’s dataset includes chat histories from more than 21 million U.S. accounts, more than 2.1 million of which belong to minors."
+        },
+        {
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+          "quote": "the various AGs accuse the company of planning to auction off “the private chat histories of more than 21 million U.S. accounts — more than 2.1 million of them registered to minors"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "quote": "The attorneys general involved in the matter have put out individual press releases, claiming that Character.ai’s dataset includes chat histories from more than 21 million U.S. accounts, more than 2.1 million of which belong to minors."
+        }
+      ]
+    },
+    {
+      "claim": "Character.AI, yıll süren skandallar ve aralarında Disney'in de bulunduğu yasal mücadelelerin ardından ekim ayında iflas başvurusunda bulundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+          "quote": "In October, Character.AI filed for bankruptcy following years of scandals and legal challenges, including from Disney."
+        }
+      ]
+    },
+    {
+      "claim": "Disney, şirketin bazı varlıklarını satın aldı ve CEO Karandeep Anand ile teknik ekibin bir kısmını işe aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+          "quote": "Disney ended up buying some of the company’s assets and hiring its CEO, Karandeep Anand, in a sort of “acquihire” arrangement that will also see “a number of Character.AI’s technical team” join the entertainment giant."
+        }
+      ]
+    },
+    {
+      "claim": "İlk teklif veren şirketin 13 Kasım 2026'da kurulduğu ve ana şirketinin veya yatırımcısının listelenmediği belirtiliyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+          "quote": "It doesn’t help that the first bidder has a limited paper trail, having only been established on November 13th, 2026, with no parent company or investors listed."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "quote": "Only one anonymous bidder for the chat data has been disclosed so far: Smirks and Pangs Acquisition LLC (Smirks), which was set up as a Delaware company on November 13, 2026."
+        }
+      ]
+    },
+    {
+      "claim": "New York, Connecticut, California ve Colorado dahil bazı eyaletler, 1 Ocak 2027'de yürürlüğe girecek chatbotları düzenleyen yasalar çıkardı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+          "quote": "Some states, including New York, Connecticut, California, and Colorado, have also passed laws regulating chatbots that Character.AI may be in violation of when they go into effect on January 1st, 2027."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "quote": "In addition, some states, including California, Colorado, New York, and Connecticut, have enacted chatbot safety legislation that will go into effect on January 1, 2027"
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "42 eyalet başsavcısından oluşan bir koalisyon, Chapter 11 iflas süreci yaşayan Character.AI'ın kullanıcı verilerini satmasını engellemeye çalışıyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+          "quote": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings."
+        },
+        {
+          "url": "https://www.engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories/",
+          "quote": "A group of 42 attorneys general are trying to block the chatbot company from auctioning off users' chat histories and other sensitive information."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "quote": "Now, a coalition of 42 state attorneys general is intervening in Character.ai’s bankruptcy proceedings in an effort to stop the chatbot maker from selling off sensitive user data, which includes the private conversations of millions of users."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "quote": "Now, a coalition of 42 state attorneys general is intervening in Character.ai’s bankruptcy proceedings in an effort to stop the chatbot maker from selling off sensitive user data"
+        }
+      ]
+    },
+    {
+      "claim": "Başsavcılar, Character.AI'ın aralarında 2,1 milyondan fazla uşağın da bulunduğu 21 milyondan fazla ABD hesabının özel sohbet geçmişini açık artırmayla satmayı planladığını söylüyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+          "quote": "the various AGs accuse the company of planning to auction off “the private chat histories of more than 21 million U.S. accounts — more than 2.1 million of them registered to minors — with no safeguards for the people whose conversations are being sold.”"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "quote": "claiming that Character.ai’s dataset includes chat histories from more than 21 million U.S. accounts, more than 2.1 million of which belong to minors."
+        },
+        {
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+          "quote": "the various AGs accuse the company of planning to auction off “the private chat histories of more than 21 million U.S. accounts — more than 2.1 million of them registered to minors"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "quote": "The attorneys general involved in the matter have put out individual press releases, claiming that Character.ai’s dataset includes chat histories from more than 21 million U.S. accounts, more than 2.1 million of which belong to minors."
+        }
+      ]
+    },
+    {
+      "claim": "Character.AI, yıll süren skandallar ve aralarında Disney'in de bulunduğu yasal mücadelelerin ardından ekim ayında iflas başvurusunda bulundu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+          "quote": "In October, Character.AI filed for bankruptcy following years of scandals and legal challenges, including from Disney."
+        }
+      ]
+    },
+    {
+      "claim": "Disney, şirketin bazı varlıklarını satın aldı ve CEO Karandeep Anand ile teknik ekibin bir kısmını işe aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+          "quote": "Disney ended up buying some of the company’s assets and hiring its CEO, Karandeep Anand, in a sort of “acquihire” arrangement that will also see “a number of Character.AI’s technical team” join the entertainment giant."
+        }
+      ]
+    },
+    {
+      "claim": "İlk teklif veren şirketin 13 Kasım 2026'da kurulduğu ve ana şirketinin veya yatırımcısının listelenmediği belirtiliyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+          "quote": "It doesn’t help that the first bidder has a limited paper trail, having only been established on November 13th, 2026, with no parent company or investors listed."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "quote": "Only one anonymous bidder for the chat data has been disclosed so far: Smirks and Pangs Acquisition LLC (Smirks), which was set up as a Delaware company on November 13, 2026."
+        }
+      ]
+    },
+    {
+      "claim": "New York, Connecticut, California ve Colorado dahil bazı eyaletler, 1 Ocak 2027'de yürürlüğe girecek chatbotları düzenleyen yasalar çıkardı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+          "quote": "Some states, including New York, Connecticut, California, and Colorado, have also passed laws regulating chatbots that Character.AI may be in violation of when they go into effect on January 1st, 2027."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "quote": "In addition, some states, including California, Colorado, New York, and Connecticut, have enacted chatbot safety legislation that will go into effect on January 1, 2027"
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats": 1784,
+    "https://www.engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories/": 2792,
+    "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/": 4292
+  }
+}
