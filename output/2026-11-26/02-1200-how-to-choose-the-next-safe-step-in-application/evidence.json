@@ -1,0 +1,226 @@
+{
+  "title": "How to choose the next safe step in application modernization",
+  "canonical_url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+  "source_names": [
+    "GitHub Blog"
+  ],
+  "checked_at": "2026-11-26T12:04:16+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Yazar, kanıta dayalı yöntemi küçük bir Node.js oyunundan büyük bir Java kurumsal kaynak planlama (ERP) uygulamasına kadar dört farklı halka açık uygulama üzerinde kullandığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+          "quote": "I used an evidence-first method on four public applications, from a small Node.js game to a large Java enterprise resource planning (ERP) application."
+        }
+      ]
+    },
+    {
+      "claim": "Yazar, uygulama modernizasyon sürecini GitHub Copilot agent yeteneği olarak kodladığını ifade etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+          "quote": "It also shows how to encode the procedure in a GitHub Copilot agent skill while keeping architectural judgment with the people responsible for the system."
+        }
+      ]
+    },
+    {
+      "claim": "PiggyMetrics uygulaması Java 8, Spring Boot 2.0.3, Spring Cloud Finchley, Zuul, Hystrix ve spring-security-oauth2 kütüphanesini kullanıyordu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+          "quote": "The project used Java 8, Spring Boot 2.0.3, Spring Cloud Finchley, Zuul, Hystrix, and the old spring-security-oauth2 library."
+        }
+      ]
+    },
+    {
+      "claim": "PiggyMetrics üzerindeki testlerde 14 testten 5'inin geçtiği, 9'unun ise hata verdiği kaydedildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+          "quote": "mvn -pl account-service -am test | 14 tests ran: five passed and nine errored"
+        }
+      ]
+    },
+    {
+      "claim": "PiggyMetrics modernizasyon planında Java 8'den Java 21'e ve Spring Boot 3.3'e geçiş yapıldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+          "quote": "- Move from Java 8 to Java 21 and Spring Boot 3.3."
+        },
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+          "quote": "Move from Java 8 to Java 21 and Spring Boot 3.3."
+        }
+      ]
+    },
+    {
+      "claim": "BrowserQuest uygulamasında Node 0.4.7'den Node 22'ye geçiş yapıldığı ve iki eski WebSocket yığınının ws ile değiştirildiği belirtildi.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "DOOM uygulamasında X11 video ve OSS ses sistemlerinin SDL2 ile değiştirildiği ve platform kodunun 64-bit sistemlere uyarlandığı ifade edildi.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "ADempiere projesindeki modernizasyon çalışmasının 30 birleştirilmiş çekme isteği (pull request) ve 102.587,72 yeniden yapılandırılmış Copilot kredisi içerdiği raporlandı.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Yazar, kanıta dayalı yöntemi küçük bir Node.js oyunundan büyük bir Java kurumsal kaynak planlama (ERP) uygulamasına kadar dört farklı halka açık uygulama üzerinde kullandığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+          "quote": "I used an evidence-first method on four public applications, from a small Node.js game to a large Java enterprise resource planning (ERP) application."
+        }
+      ]
+    },
+    {
+      "claim": "Yazar, uygulama modernizasyon sürecini GitHub Copilot agent yeteneği olarak kodladığını ifade etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+          "quote": "It also shows how to encode the procedure in a GitHub Copilot agent skill while keeping architectural judgment with the people responsible for the system."
+        }
+      ]
+    },
+    {
+      "claim": "PiggyMetrics uygulaması Java 8, Spring Boot 2.0.3, Spring Cloud Finchley, Zuul, Hystrix ve spring-security-oauth2 kütüphanesini kullanıyordu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+          "quote": "The project used Java 8, Spring Boot 2.0.3, Spring Cloud Finchley, Zuul, Hystrix, and the old spring-security-oauth2 library."
+        }
+      ]
+    },
+    {
+      "claim": "PiggyMetrics üzerindeki testlerde 14 testten 5'inin geçtiği, 9'unun ise hata verdiği kaydedildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+          "quote": "mvn -pl account-service -am test | 14 tests ran: five passed and nine errored"
+        }
+      ]
+    },
+    {
+      "claim": "PiggyMetrics modernizasyon planında Java 8'den Java 21'e ve Spring Boot 3.3'e geçiş yapıldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+          "quote": "- Move from Java 8 to Java 21 and Spring Boot 3.3."
+        },
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+          "quote": "Move from Java 8 to Java 21 and Spring Boot 3.3."
+        }
+      ]
+    },
+    {
+      "claim": "BrowserQuest uygulamasında Node 0.4.7'den Node 22'ye geçiş yapıldığı ve iki eski WebSocket yığınının ws ile değiştirildiği belirtildi.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "DOOM uygulamasında X11 video ve OSS ses sistemlerinin SDL2 ile değiştirildiği ve platform kodunun 64-bit sistemlere uyarlandığı ifade edildi.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "ADempiere projesindeki modernizasyon çalışmasının 30 birleştirilmiş çekme isteği (pull request) ve 102.587,72 yeniden yapılandırılmış Copilot kredisi içerdiği raporlandı.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Yazar, kanıta dayalı yöntemi küçük bir Node.js oyunundan büyük bir Java kurumsal kaynak planlama (ERP) uygulamasına kadar dört farklı halka açık uygulama üzerinde kullandığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+          "quote": "I used an evidence-first method on four public applications, from a small Node.js game to a large Java enterprise resource planning (ERP) application."
+        }
+      ]
+    },
+    {
+      "claim": "Yazar, uygulama modernizasyon sürecini GitHub Copilot agent yeteneği olarak kodladığını ifade etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+          "quote": "It also shows how to encode the procedure in a GitHub Copilot agent skill while keeping architectural judgment with the people responsible for the system."
+        }
+      ]
+    },
+    {
+      "claim": "PiggyMetrics uygulaması Java 8, Spring Boot 2.0.3, Spring Cloud Finchley, Zuul, Hystrix ve spring-security-oauth2 kütüphanesini kullanıyordu.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+          "quote": "The project used Java 8, Spring Boot 2.0.3, Spring Cloud Finchley, Zuul, Hystrix, and the old spring-security-oauth2 library."
+        }
+      ]
+    },
+    {
+      "claim": "PiggyMetrics üzerindeki testlerde 14 testten 5'inin geçtiği, 9'unun ise hata verdiği kaydedildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+          "quote": "mvn -pl account-service -am test | 14 tests ran: five passed and nine errored"
+        }
+      ]
+    },
+    {
+      "claim": "PiggyMetrics modernizasyon planında Java 8'den Java 21'e ve Spring Boot 3.3'e geçiş yapıldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+          "quote": "- Move from Java 8 to Java 21 and Spring Boot 3.3."
+        },
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+          "quote": "Move from Java 8 to Java 21 and Spring Boot 3.3."
+        }
+      ]
+    },
+    {
+      "claim": "BrowserQuest uygulamasında Node 0.4.7'den Node 22'ye geçiş yapıldığı ve iki eski WebSocket yığınının ws ile değiştirildiği belirtildi.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "DOOM uygulamasında X11 video ve OSS ses sistemlerinin SDL2 ile değiştirildiği ve platform kodunun 64-bit sistemlere uyarlandığı ifade edildi.",
+      "verdict": "not_found",
+      "evidence": []
+    },
+    {
+      "claim": "ADempiere projesindeki modernizasyon çalışmasının 30 birleştirilmiş çekme isteği (pull request) ve 102.587,72 yeniden yapılandırılmış Copilot kredisi içerdiği raporlandı.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "source_texts": {
+    "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/": 14106
+  }
+}

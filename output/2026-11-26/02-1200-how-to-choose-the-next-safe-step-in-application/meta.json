@@ -1,0 +1,35 @@
+{
+  "pipeline_version": 2,
+  "slot": "12:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 192.7,
+  "candidates_tried": 2,
+  "gemini_calls": 21,
+  "model_usage": {
+    "gemini-3.5-flash-lite": 4,
+    "gemini-3.1-flash-lite": 16
+  },
+  "canonical_url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+  "entities": [
+    "GitHub",
+    "GitHub Copilot",
+    "Node.js",
+    "Java"
+  ],
+  "event_type": "methodology_publication",
+  "topic": "software",
+  "primary_entity": "GitHub",
+  "event_key": "how-to-choose-the-next-safe-step-in-appl",
+  "editorial": {
+    "index": 7,
+    "publishable": true,
+    "importance": 6,
+    "education_value": 8,
+    "topic": "software",
+    "primary_entity": "GitHub",
+    "event_key": "",
+    "reason": "Yazılım modernizasyon sürecinde GitHub Copilot ajan yeteneklerinin nasıl kullanılacağına dair pratik bir rehber."
+  },
+  "generated_at": "2026-11-26T12:05:32+03:00"
+}
