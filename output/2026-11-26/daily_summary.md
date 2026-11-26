@@ -5,3 +5,4 @@
 - ✅ `15:00` [news] Character.AI Veri Satışına Karşı 42 Eyaletten Engel — 6/6 platform
 - ✅ `18:00` [weetis] Kahve dükkanında ücretsiz Wi‑Fi yerine aylık 10 TL üyelik… — 6/6 platform
 - ✅ `20:00` [edu] Veri Merkezleri Şebeke Dışı Gaz Türbinleri Kullanıyor — 6/6 platform
+- ⚠️ `21:00` [news] Google Geliştirici Adreslerini Açıklıyor — 3/6 platform
