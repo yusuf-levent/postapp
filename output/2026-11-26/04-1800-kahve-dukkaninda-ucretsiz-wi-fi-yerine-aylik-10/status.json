@@ -43,12 +43,12 @@
     },
     "linkedin": {
       "platform": "linkedin",
-      "state": "submitted",
+      "state": "published",
       "external_id": "6b084a97068f13d910836714",
-      "permalink": "",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7531734834784956416",
       "attempts": 1,
-      "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
-      "remote_status": "sending",
+      "last_error": "",
+      "remote_status": "sent",
       "retry_at": 0
     },
     "facebook": {
