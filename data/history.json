@@ -9703,11 +9703,11 @@
       {
         "platform": "tiktok",
         "state": "submitted",
-        "external_id": "",
+        "external_id": "6b07f67caca861248095666f",
         "permalink": "",
         "attempts": 1,
-        "last_error": "",
-        "remote_status": "",
+        "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
+        "remote_status": "sending",
         "retry_at": 0
       },
       {
