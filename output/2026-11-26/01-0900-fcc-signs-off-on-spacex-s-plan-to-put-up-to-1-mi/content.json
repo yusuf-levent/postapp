@@ -1,0 +1,70 @@
+{
+  "cover": {
+    "category_label": "UZAY TEKNOLOJİLERİ",
+    "title": "SpaceX Starmind Projesine FCC Onayı Aldı",
+    "highlight_words": [
+      "Starmind",
+      "Onayı"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "FCC, yapay zeka çipli uydular için SpaceX'e onay verdi.",
+    "source_tags": [
+      "THE VERGE",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Yapay Zeka Uyduları Yolda",
+    "cards": [
+      {
+        "card_title": "Starmind Girişimi",
+        "card_body": "FCC, Çarşamba günü yaptığı açıklamayla SpaceX'in 1 milyon yapay zeka çipi donanımlı uydu konuşlandırmasına onay verdi."
+      },
+      {
+        "card_title": "Hedefler ve Takvim",
+        "card_body": "Onay kapsamında SpaceX'in 2033 yılına kadar en az bir uydu fırlatması ve 2040'a kadar 1 milyon hedefine ulaşması gerekiyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "1 MİLYON",
+    "stat_caption": "Starmind projesi kapsamında hedeflenen maksimum uydu sayısı.",
+    "stat_quote": "The FCC has authorized SpaceX to deploy up to 1 million AI chip-equipped satellites."
+  },
+  "details": {
+    "heading": "Üretim ve Enerji Planı",
+    "cards": [
+      {
+        "card_title": "Güneş Enerjisi",
+        "card_body": "SpaceX, Starmind projesini Dünya üzerindeki yapay zeka yeteneklerini beslemek için uzayda güneş enerjisi yakalamanın bir yolu olarak tanımladı."
+      },
+      {
+        "card_title": "Terafab Tesisi",
+        "card_body": "Şirket, uydular için gerekli çipleri yakında açılacak olan bir Terafab tesisinde üretmeyi planlıyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Sektörel Gelişmeler",
+    "cards": [
+      {
+        "card_title": "Google'ın Adımı",
+        "card_body": "Google, geçen ay Project Suncatcher yapay zeka sunucu uydusunun fırlatılmasıyla uzaya bilişim taşıma yönünde ilk adımı attı."
+      },
+      {
+        "card_title": "Blue Origin Desteği",
+        "card_body": "Jeff Bezos'un sahibi olduğu Blue Origin, Project Suncatcher için ilk özel ağır kaldırma roketini 2029 yılında fırlatacak."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Yapay zeka veri merkezlerinin uzaya taşınması gelecekte neleri değiştirecek?",
+    "reminder_line": "Teknoloji ve yapay zeka dünyasındaki doğrulanmış gelişmeleri takip edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": ""
+}

@@ -1,0 +1,34 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.756615395926%2C100%2C78.486769208148&amp;w=1200",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-26/01-0900-fcc-signs-off-on-spacex-s-plan-to-put-up-to-1-mi/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "width": 7473,
+      "height": 4985,
+      "alt_text": ""
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir.",
+  "video": [
+    {
+      "source": "pexels",
+      "url": "https://videos.pexels.com/video-files/15164036/15164036-hd_2048_1080_30fps.mp4",
+      "license": "Pexels License",
+      "author": "TREEDEO.ST",
+      "credit_url": "https://www.pexels.com/video/satellite-in-space-15164036/"
+    }
+  ],
+  "music": [
+    {
+      "title": "Who Likes to Party",
+      "artist": "Kevin MacLeod (incompetech.com)",
+      "license": "CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Who%20Likes%20to%20Party.mp3"
+    }
+  ]
+}

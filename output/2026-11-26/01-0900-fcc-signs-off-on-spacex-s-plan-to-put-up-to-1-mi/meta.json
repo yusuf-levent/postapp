@@ -1,0 +1,40 @@
+{
+  "pipeline_version": 2,
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 115.5,
+  "candidates_tried": 1,
+  "gemini_calls": 15,
+  "model_usage": {
+    "gemini-3.5-flash-lite": 7,
+    "gemini-3.1-flash-lite": 7
+  },
+  "canonical_url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+  "entities": [
+    "SpaceX",
+    "FCC",
+    "Elon Musk",
+    "Starmind",
+    "Google",
+    "Blue Origin",
+    "Starlink",
+    "Project Suncatcher",
+    "Jeff Bezos"
+  ],
+  "event_type": "regulatory_approval",
+  "topic": "space",
+  "primary_entity": "SpaceX",
+  "event_key": "spacex_fcc_starmind_satellite_data_centers",
+  "editorial": {
+    "index": 0,
+    "publishable": true,
+    "importance": 8,
+    "education_value": 7,
+    "topic": "space",
+    "primary_entity": "SpaceX",
+    "event_key": "spacex_fcc_starmind_satellite_data_centers",
+    "reason": "SpaceX'in uzayda yapay zeka veri merkezleri kurma planına FCC'den onay alması önemli bir teknolojik gelişmedir."
+  },
+  "generated_at": "2026-11-26T09:04:14+03:00"
+}

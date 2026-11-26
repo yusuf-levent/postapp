@@ -1,0 +1,44 @@
+{
+  "duration": 10.5,
+  "scenes": [
+    {
+      "label": "NE OLDU?",
+      "heading": "SpaceX Starmind Projesine FCC Onayı Aldı",
+      "body": "FCC, yapay zeka çipli uydular için SpaceX'e onay verdi."
+    },
+    {
+      "label": "BİLMEN GEREKEN",
+      "heading": "Starmind Girişimi",
+      "body": "FCC, Çarşamba günü yaptığı açıklamayla SpaceX'in 1 milyon yapay zeka çipi donanımlı uydu konuşlandırmasına onay verdi."
+    },
+    {
+      "label": "DETAY",
+      "heading": "Güneş Enerjisi",
+      "body": "SpaceX, Starmind projesini Dünya üzerindeki yapay zeka yeteneklerini beslemek için uzayda güneş enerjisi yakalamanın bir yolu olarak tanımladı."
+    },
+    {
+      "label": "NEDEN ÖNEMLİ?",
+      "heading": "Google'ın Adımı",
+      "body": "Google, geçen ay Project Suncatcher yapay zeka sunucu uydusunun fırlatılmasıyla uzaya bilişim taşıma yönünde ilk adımı attı."
+    }
+  ],
+  "bounds": [
+    0.0,
+    2.625,
+    5.25,
+    7.875,
+    10.5
+  ],
+  "probe": {
+    "duration": 10.5,
+    "width": 1080,
+    "height": 1920,
+    "has_audio": true,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "fps": 30.0,
+    "bit_rate": 1201762
+  },
+  "music": true,
+  "orig_audio": false
+}
