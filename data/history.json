@@ -10044,11 +10044,11 @@
       {
         "platform": "tiktok",
         "state": "submitted",
-        "external_id": "",
+        "external_id": "6b087954c81617797dd17f96",
         "permalink": "",
         "attempts": 1,
-        "last_error": "",
-        "remote_status": "",
+        "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
+        "remote_status": "sending",
         "retry_at": 0
       },
       {
