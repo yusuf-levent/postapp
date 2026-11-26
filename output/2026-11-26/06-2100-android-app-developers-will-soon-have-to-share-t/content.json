@@ -1,0 +1,69 @@
+{
+  "cover": {
+    "category_label": "MOBIL YAZILIM",
+    "title": "Google Geliştirici Adreslerini Açıklıyor",
+    "highlight_words": [
+      "Adreslerini",
+      "Açıklıyor"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Bağımsız Android uygulama geliştiricileri için yeni iletişim bilgisi zorunluluğu getiriliyor.",
+    "source_tags": [
+      "THE VERGE"
+    ]
+  },
+  "context": {
+    "heading": "Yeni Düzenlemenin Kapsamı",
+    "cards": [
+      {
+        "card_title": "Zorunlu İletişim Bilgileri",
+        "card_body": "Google, gelecek yıldan itibaren birçok bağımsız Android uygulama geliştiricisinin telefon numarası ve adresini kamuyla paylaşmasını zorunlu kılacak."
+      },
+      {
+        "card_title": "Tüccar Beyanı",
+        "card_body": "Geliştiricilerin, UK ve Avrupa yasalarına göre tüccar olup olmadıklarını beyan etmek için 1 Şubat 2027 tarihine kadar süreleri bulunuyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "1 MART",
+    "stat_caption": "Tüccar Olarak Beyan Edenlerin Bilgilerinin Yayınlanma Tarihi",
+    "stat_quote": "If they self-declare as a trader, developers’ contact details will be shared publicly starting March 1st, including a phone number and address."
+  },
+  "details": {
+    "heading": "Detaylar ve Kurallar",
+    "cards": [
+      {
+        "card_title": "Yayınlanma Tarihi",
+        "card_body": "Kendini tüccar olarak beyan eden geliştiricilerin iletişim bilgileri, telefon numarası ve adres dahil olmak üzere 1 Mart itibarıyla herkese açık olarak paylaşılacak."
+      },
+      {
+        "card_title": "Posta Kutusu Yasağı",
+        "card_body": "Google, geliştirici ödeme profili adresleri için posta kutularını kabul etmemektedir."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Platformlar Arası Farklar",
+    "cards": [
+      {
+        "card_title": "Apple'ın Uygulaması",
+        "card_body": "Apple, geliştirici adreslerini dünya çapında yayınlamak yerine yalnızca ilgili Avrupa ülkelerinde gösterecektir."
+      },
+      {
+        "card_title": "Posta Kutusu Esnekliği",
+        "card_body": "Apple, posta kutusu adreslerinin bir faturayla ilişkilendirilmesi şartıyla kullanılmasına izin vermektedir."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Bağımsız geliştiricilerin iletişim bilgilerinin herkese açık olması gizlilik haklarını nasıl etkiler?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için bizi takip edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": "<svg role=\"img\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"#FFFFFF\"><title>Google</title><path d=\"M12.48 10.92v3.28h7.84c-.24 1.84-.853 3.187-1.787 4.133-1.147 1.147-2.933 2.4-6.053 2.4-4.827 0-8.6-3.893-8.6-8.72s3.773-8.72 8.6-8.72c2.6 0 4.507 1.027 5.907 2.347l2.307-2.307C18.747 1.44 16.133 0 12.48 0 5.867 0 .307 5.387.307 12s5.56 12 12.173 12c3.573 0 6.267-1.173 8.373-3.36 2.16-2.16 2.84-5.213 2.84-7.667 0-.76-.053-1.467-.173-2.053H12.48z\"/></svg>"
+}

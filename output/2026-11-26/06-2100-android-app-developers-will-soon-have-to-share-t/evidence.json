@@ -1,0 +1,211 @@
+{
+  "title": "Android app developers will soon have to share their address publicly",
+  "canonical_url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+  "source_names": [
+    "The Verge"
+  ],
+  "checked_at": "2026-11-26T21:22:48+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Google, gelecek yıldan itibaren birçok bağımsız Android uygulama geliştiricisinin telefon numarasını ve adresini kamuyla paylaşmasını zorunlu kılacağını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "quote": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly."
+        }
+      ]
+    },
+    {
+      "claim": "Geliştiricilerin, UK ve Avrupa yasalarına göre \"tüccar\" olup olmadıklarını beyan etmek için 1 Şubat 2027 tarihine kadar süreleri bulunuyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "quote": "Developers have until February 1st 2027 to declare whether or not they’re a “trader” under UK and European law."
+        }
+      ]
+    },
+    {
+      "claim": "Kendini tüccar olarak beyan eden geliştiricilerin iletişim bilgileri, telefon numarası ve adres dahil olmak üzere 1 Mart itibarıyla herkese açık olarak paylaşılacak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "quote": "If they self-declare as a trader, developers’ contact details will be shared publicly starting March 1st, including a phone number and address."
+        }
+      ]
+    },
+    {
+      "claim": "Google, geliştirici ödeme profili adresleri için posta kutularını (PO box) kabul etmemektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "quote": "Google doesn’t accept PO boxes for developer payment profile addresses"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "quote": "We’ve asked Google to confirm why developers aren’t permitted to publish a PO box address"
+        }
+      ]
+    },
+    {
+      "claim": "Apple, geliştirici adreslerini dünya çapında yayınlamak yerine yalnızca ilgili Avrupa ülkelerinde gösterecektir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "quote": "It will only display developer addresses within the relevant European countries, rather than publishing them worldwide."
+        }
+      ]
+    },
+    {
+      "claim": "Apple, posta kutusu adreslerinin bir faturayla ilişkilendirilmesi şartıyla kullanılmasına izin vermektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "quote": "It’s also allowing developers to supply PO box addresses, so long as they provide Apple with a receipt or bill that links the PO box to their regular address."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Google, gelecek yıldan itibaren birçok bağımsız Android uygulama geliştiricisinin telefon numarasını ve adresini kamuyla paylaşmasını zorunlu kılacağını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "quote": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly."
+        }
+      ]
+    },
+    {
+      "claim": "Geliştiricilerin, UK ve Avrupa yasalarına göre \"tüccar\" olup olmadıklarını beyan etmek için 1 Şubat 2027 tarihine kadar süreleri bulunuyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "quote": "Developers have until February 1st 2027 to declare whether or not they’re a “trader” under UK and European law."
+        }
+      ]
+    },
+    {
+      "claim": "Kendini tüccar olarak beyan eden geliştiricilerin iletişim bilgileri, telefon numarası ve adres dahil olmak üzere 1 Mart itibarıyla herkese açık olarak paylaşılacak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "quote": "If they self-declare as a trader, developers’ contact details will be shared publicly starting March 1st, including a phone number and address."
+        }
+      ]
+    },
+    {
+      "claim": "Google, geliştirici ödeme profili adresleri için posta kutularını (PO box) kabul etmemektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "quote": "Google doesn’t accept PO boxes for developer payment profile addresses"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "quote": "We’ve asked Google to confirm why developers aren’t permitted to publish a PO box address"
+        }
+      ]
+    },
+    {
+      "claim": "Apple, geliştirici adreslerini dünya çapında yayınlamak yerine yalnızca ilgili Avrupa ülkelerinde gösterecektir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "quote": "It will only display developer addresses within the relevant European countries, rather than publishing them worldwide."
+        }
+      ]
+    },
+    {
+      "claim": "Apple, posta kutusu adreslerinin bir faturayla ilişkilendirilmesi şartıyla kullanılmasına izin vermektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "quote": "It’s also allowing developers to supply PO box addresses, so long as they provide Apple with a receipt or bill that links the PO box to their regular address."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Google, gelecek yıldan itibaren birçok bağımsız Android uygulama geliştiricisinin telefon numarasını ve adresini kamuyla paylaşmasını zorunlu kılacağını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "quote": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly."
+        }
+      ]
+    },
+    {
+      "claim": "Geliştiricilerin, UK ve Avrupa yasalarına göre \"tüccar\" olup olmadıklarını beyan etmek için 1 Şubat 2027 tarihine kadar süreleri bulunuyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "quote": "Developers have until February 1st 2027 to declare whether or not they’re a “trader” under UK and European law."
+        }
+      ]
+    },
+    {
+      "claim": "Kendini tüccar olarak beyan eden geliştiricilerin iletişim bilgileri, telefon numarası ve adres dahil olmak üzere 1 Mart itibarıyla herkese açık olarak paylaşılacak.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "quote": "If they self-declare as a trader, developers’ contact details will be shared publicly starting March 1st, including a phone number and address."
+        }
+      ]
+    },
+    {
+      "claim": "Google, geliştirici ödeme profili adresleri için posta kutularını (PO box) kabul etmemektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "quote": "Google doesn’t accept PO boxes for developer payment profile addresses"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "quote": "We’ve asked Google to confirm why developers aren’t permitted to publish a PO box address"
+        }
+      ]
+    },
+    {
+      "claim": "Apple, geliştirici adreslerini dünya çapında yayınlamak yerine yalnızca ilgili Avrupa ülkelerinde gösterecektir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "quote": "It will only display developer addresses within the relevant European countries, rather than publishing them worldwide."
+        }
+      ]
+    },
+    {
+      "claim": "Apple, posta kutusu adreslerinin bir faturayla ilişkilendirilmesi şartıyla kullanılmasına izin vermektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "quote": "It’s also allowing developers to supply PO box addresses, so long as they provide Apple with a receipt or bill that links the PO box to their regular address."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu": 2077
+  }
+}
