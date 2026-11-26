@@ -9945,12 +9945,12 @@
     "status_per_platform": [
       {
         "platform": "instagram",
-        "state": "submitted",
+        "state": "published",
         "external_id": "6b0866913accdac92ce3cf6b",
-        "permalink": "",
+        "permalink": "https://www.instagram.com/reel/DgNmdnautA1/",
         "attempts": 1,
-        "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
-        "remote_status": "sending",
+        "last_error": "",
+        "remote_status": "sent",
         "retry_at": 0
       },
       {
