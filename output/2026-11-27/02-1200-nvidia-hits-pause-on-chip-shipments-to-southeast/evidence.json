@@ -1,0 +1,191 @@
+{
+  "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+  "canonical_url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+  "source_names": [
+    "TechCrunch",
+    "Engadget",
+    "BBC News – Technology"
+  ],
+  "checked_at": "2026-11-27T12:42:24+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Nvidia, Dell ve Super Micro gibi üretim ortaklarına Malezya, Singapur, Tayland ve Endonezya'ya sunucu sevkiyatlarını durdurmaları talimatını verdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "quote": "Nvidia has told manufacturing partners, including Dell and Super Micro, to hit pause on server shipments to Malaysia, Singapore, Thailand, and Indonesia for an unspecified period"
+        },
+        {
+          "url": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/",
+          "quote": "According to The Financial Times, a handful of the company's manufacturing partners, including Dell and Supermicro, told clients in Malaysia, Singapore, Thailand and Indonesia that the chipmaker is not allowing their server orders to be sent to them."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+          "quote": "Nvidia has already paused shipments to the region, according to the Financial Times"
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia, sevkiyatları durdurma kararını bölgesel ortaklarının ABD ihracat gerekliliklerine uyup uymadığını değerlendirmek için aldığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "quote": "as it assesses whether its regional partners are meeting U.S. export requirements."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "quote": "Nvidia has told manufacturing partners, including Dell and Super Micro, to hit pause on server shipments to Malaysia, Singapore, Thailand, and Indonesia for an unspecified period as it assesses whether its regional partners are meeting U.S. export requirements."
+        }
+      ]
+    },
+    {
+      "claim": "ABD Ticaret Bakanlığı, Çinli şirketlerin bu ülkelerdeki veri merkezleri üzerinden Nvidia çiplerine uzaktan erişim sağlamasına olanak tanıyan bir boşluğu bu ay kapattı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "quote": "Chinese companies have been tapping Nvidia chips remotely from data centers there, a loophole the US Commerce Department closed — reportedly grudgingly — earlier this month."
+        },
+        {
+          "url": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/",
+          "quote": "In recent weeks, the US Commerce Department moved to close that loophole."
+        }
+      ]
+    },
+    {
+      "claim": "Institute for Progress adlı düşünce kuruluşu, uzaktan erişim sağlanan veri merkezlerinin Çin'in yapay zeka bilgi işlem gücünün yaklaşık %24'ünü karşıladığını tahmin ediyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "quote": "The Journal notes that the think tank Institute for Progress estimates remote data centers like these supply about 24% of China’s AI computing power."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Nvidia, Dell ve Super Micro gibi üretim ortaklarına Malezya, Singapur, Tayland ve Endonezya'ya sunucu sevkiyatlarını durdurmaları talimatını verdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "quote": "Nvidia has told manufacturing partners, including Dell and Super Micro, to hit pause on server shipments to Malaysia, Singapore, Thailand, and Indonesia for an unspecified period"
+        },
+        {
+          "url": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/",
+          "quote": "According to The Financial Times, a handful of the company's manufacturing partners, including Dell and Supermicro, told clients in Malaysia, Singapore, Thailand and Indonesia that the chipmaker is not allowing their server orders to be sent to them."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+          "quote": "Nvidia has already paused shipments to the region, according to the Financial Times"
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia, sevkiyatları durdurma kararını bölgesel ortaklarının ABD ihracat gerekliliklerine uyup uymadığını değerlendirmek için aldığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "quote": "as it assesses whether its regional partners are meeting U.S. export requirements."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "quote": "Nvidia has told manufacturing partners, including Dell and Super Micro, to hit pause on server shipments to Malaysia, Singapore, Thailand, and Indonesia for an unspecified period as it assesses whether its regional partners are meeting U.S. export requirements."
+        }
+      ]
+    },
+    {
+      "claim": "ABD Ticaret Bakanlığı, Çinli şirketlerin bu ülkelerdeki veri merkezleri üzerinden Nvidia çiplerine uzaktan erişim sağlamasına olanak tanıyan bir boşluğu bu ay kapattı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "quote": "Chinese companies have been tapping Nvidia chips remotely from data centers there, a loophole the US Commerce Department closed — reportedly grudgingly — earlier this month."
+        },
+        {
+          "url": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/",
+          "quote": "In recent weeks, the US Commerce Department moved to close that loophole."
+        }
+      ]
+    },
+    {
+      "claim": "Institute for Progress adlı düşünce kuruluşu, uzaktan erişim sağlanan veri merkezlerinin Çin'in yapay zeka bilgi işlem gücünün yaklaşık %24'ünü karşıladığını tahmin ediyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "quote": "The Journal notes that the think tank Institute for Progress estimates remote data centers like these supply about 24% of China’s AI computing power."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Nvidia, Dell ve Super Micro gibi üretim ortaklarına Malezya, Singapur, Tayland ve Endonezya'ya sunucu sevkiyatlarını durdurmaları talimatını verdi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "quote": "Nvidia has told manufacturing partners, including Dell and Super Micro, to hit pause on server shipments to Malaysia, Singapore, Thailand, and Indonesia for an unspecified period"
+        },
+        {
+          "url": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/",
+          "quote": "According to The Financial Times, a handful of the company's manufacturing partners, including Dell and Supermicro, told clients in Malaysia, Singapore, Thailand and Indonesia that the chipmaker is not allowing their server orders to be sent to them."
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+          "quote": "Nvidia has already paused shipments to the region, according to the Financial Times"
+        }
+      ]
+    },
+    {
+      "claim": "Nvidia, sevkiyatları durdurma kararını bölgesel ortaklarının ABD ihracat gerekliliklerine uyup uymadığını değerlendirmek için aldığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "quote": "as it assesses whether its regional partners are meeting U.S. export requirements."
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "quote": "Nvidia has told manufacturing partners, including Dell and Super Micro, to hit pause on server shipments to Malaysia, Singapore, Thailand, and Indonesia for an unspecified period as it assesses whether its regional partners are meeting U.S. export requirements."
+        }
+      ]
+    },
+    {
+      "claim": "ABD Ticaret Bakanlığı, Çinli şirketlerin bu ülkelerdeki veri merkezleri üzerinden Nvidia çiplerine uzaktan erişim sağlamasına olanak tanıyan bir boşluğu bu ay kapattı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "quote": "Chinese companies have been tapping Nvidia chips remotely from data centers there, a loophole the US Commerce Department closed — reportedly grudgingly — earlier this month."
+        },
+        {
+          "url": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/",
+          "quote": "In recent weeks, the US Commerce Department moved to close that loophole."
+        }
+      ]
+    },
+    {
+      "claim": "Institute for Progress adlı düşünce kuruluşu, uzaktan erişim sağlanan veri merkezlerinin Çin'in yapay zeka bilgi işlem gücünün yaklaşık %24'ünü karşıladığını tahmin ediyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "quote": "The Journal notes that the think tank Institute for Progress estimates remote data centers like these supply about 24% of China’s AI computing power."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/": 739,
+    "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/": 2449,
+    "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss": 7199
+  }
+}

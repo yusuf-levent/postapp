@@ -1,0 +1,44 @@
+{
+  "duration": 9.16,
+  "scenes": [
+    {
+      "label": "NE OLDU?",
+      "heading": "Nvidia Güneydoğu Asya Sevkiyatlarını Durdurdu",
+      "body": "ABD ihracat gereklilikleri ve veri merkezi denetimleri başladı."
+    },
+    {
+      "label": "BİLMEN GEREKEN",
+      "heading": "Üretim Ortaklarına Talimat",
+      "body": "Nvidia; Dell ve Super Micro gibi üretim ortaklarına sunucu sevkiyatlarını durdurma talimatı verdi."
+    },
+    {
+      "label": "DETAY",
+      "heading": "İhracat Uyumluluğu",
+      "body": "Nvidia, sevkiyatları bölgesel ortakların ABD ihracat gerekliliklerine uyup uymadığını değerlendirmek için durdurdu."
+    },
+    {
+      "label": "NEDEN ÖNEMLİ?",
+      "heading": "Sektörel Durum",
+      "body": "Üretim ortakları ve bölgedeki müşteriler için sunucu siparişlerinin teslimatı belirsiz bir süre için durdu."
+    }
+  ],
+  "bounds": [
+    0.0,
+    2.29,
+    4.58,
+    6.87,
+    9.16
+  ],
+  "probe": {
+    "duration": 9.166016,
+    "width": 1080,
+    "height": 1920,
+    "has_audio": true,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "fps": 30.0,
+    "bit_rate": 1842685
+  },
+  "music": true,
+  "orig_audio": false
+}
