@@ -1,0 +1,11 @@
+URL: https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/
+Erişim zamanı: 2026-11-27T09:03:37+03:00
+
+Password manager maker 1Password has confirmed that some customer information was taken in a recent intrusion into its internal systems, but that customer password vaults and other secrets were not accessed.
+The Toronto-based tech company said in a blog post published Wednesday that it detected an intrusion on November 19, in which an attacker gained access to an employee’s corporate account with GitHub, which the company uses to share and store its source code.
+The attacker used that employee’s access to push malicious code to the company’s internal servers, which allowed the hacker to download some data about 1Password customers, including their names and the email address that they use for logging into their account. The company said that the attacker also took details about when a 1Password account was created and when a user last logged in.
+1Password said that customer vaults, which store their passwords, were “at no point” available to the attacker. The company also said that it doesn’t have access to customer account passwords or their secret keys, which are used to scramble their passwords so that 1Password cannot see them.
+In addition, the company said that its apps and extensions are unaffected by the incident.
+It’s unclear how the attacker gained access to the employee’s corporate account, and a spokesperson for 1Password did not immediately respond to TechCrunch’s questions about the incident.
+1Password did not say whether it had notified customers whose information was taken in the breach, or how many customers had information taken. We’ve also asked if the company has received any communication or demands from the hackers. We’ll update if we hear back from 1Password.
+The company touts millions of customers and more than 200,000 businesses who use its password manager products to store their passwords, credentials, payment card information, and more. Security experts have long recommended password managers as a better way of generating stronger credentials and keeping track of online accounts.

@@ -1,0 +1,74 @@
+{
+  "cover": {
+    "category_label": "SİBER GÜVENLİK",
+    "title": "1Password Sistemine Sızıldı",
+    "highlight_words": [
+      "1Password",
+      "Sızıldı"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Popüler şifre yöneticisi 1Password, iç sistemlerine sızıldığını ve bazı müşteri verilerinin çalındığını açıkladı.",
+    "source_tags": [
+      "ENGADGET",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "İhlal Nasıl Tespit Edildi?",
+    "cards": [
+      {
+        "card_title": "GitHub Hesabı Ele Geçirildi",
+        "card_body": "1Password, 19 Kasım tarihinde bir çalışanın kurumsal GitHub hesabının ele geçirildiğine dair belirtileri araştırmaya başladı."
+      },
+      {
+        "card_title": "Kaynak Koduna Erişim",
+        "card_body": "Saldırgan, ele geçirdiği bu hesabı kaynak koduna erişmek ve arka üce kötü amaçlı kod enjekte etmek için kullandı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "19 KASIM",
+    "stat_caption": "Şirketin çalışanın GitHub hesabındaki yetkisiz erişimi araştırmaya başladığı tarih.",
+    "stat_quote": "On November 19, the company started investigating signs that an employee's corporate GitHub account had been compromised."
+  },
+  "details": {
+    "heading": "Hangi Veriler Çalındı?",
+    "cards": [
+      {
+        "card_title": "Müşteri Bilgileri",
+        "card_body": "Saldırgan; müşterilerin isimleri, e-posta adresleri, hesap oluşturma tarihleri ve son oturum açma zamanlarını indirdi."
+      },
+      {
+        "card_title": "Genel Anahtarlar",
+        "card_body": "Saldırgan kullanıcıların genel anahtarlarını da çaldı ancak 1Password bunun güvenliklerini etkilemediğini belirtti."
+      },
+      {
+        "card_title": "Alınan Önlemler",
+        "card_body": "Şirket, çalınan token'ı iptal ettiğini, etkilenen GitHub hesabını devre dışı bıraktığını ve yeni tespit araçları eklediğini açıkladı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcılar İçin Durum Nedir?",
+    "cards": [
+      {
+        "card_title": "Kasalar Güvende",
+        "card_body": "1Password, kullanıcıların şifre kasalarının ve giriş bilgilerinin güvende olduğunu ve bunlara erişilmediğini vurguladı."
+      },
+      {
+        "card_title": "Oltalama Uyarısı",
+        "card_body": "Sızdırılan e-postalar nedeniyle, sahte hesap kurtarma ve davet e-postalarına karşı dikkatli olunması tavsiye ediliyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Şifre yöneticilerinin iç sistemlerine yönelik bu tarz sızma girişimleri hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji dünyasındaki güvenilir gelişmeleri kaçırmamak için bizi takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": ""
+}

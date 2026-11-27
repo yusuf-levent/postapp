@@ -1,0 +1,64 @@
+{
+  "captions": {
+    "instagram": {
+      "text": "Popüler şifre yöneticisi 1Password sızdırıldı mı? Şirket iç sistemlerine yönelik ihlali açıkladı.\n\n19 Kasım'da bir çalışanın kurumsal GitHub hesabının ele geçirilmesiyle başlayan süreçte, saldırgan kaynak koduna erişti ve bazı müşteri bilgilerini indirdi.\n\nNeyse ki şirket, kullanıcıların şifre kasalarının ve ana şifrelerinin güvende olduğunu vurguluyor. Ancak oltalama saldırılarına karşı dikkatli olmakta fayda var.\n\nŞifre yöneticilerinin güvenliği hakkında ne düşünüyorsunuz?\n\nKaynak: Engadget, TechCrunch",
+      "hashtags": [
+        "1Password",
+        "SiberGüvenlik",
+        "Teknoloji",
+        "Hack",
+        "Veriİhlali",
+        "Security",
+        "TechNews",
+        "CyberSecurity"
+      ]
+    },
+    "tiktok": {
+      "text": "1Password sistemine sızıldı! Kullanıcı verileri çalındı mı? Şifre kasaları güvende mi? Tüm detaylar videoda! Kaynak: Engadget, TechCrunch",
+      "hashtags": [
+        "1Password",
+        "sibergüvenlik",
+        "teknoloji",
+        "hack"
+      ]
+    },
+    "x": {
+      "text": "Popüler şifre yöneticisi 1Password'ün iç sistemlerine sızıldı ve bazı müşteri verileri ele geçirildi. Şirket, kullanıcı şifre kasalarının güvende olduğunu açıkladı. Kaynak: Engadget, TechCrunch",
+      "hashtags": [
+        "1Password",
+        "SiberGüvenlik"
+      ]
+    },
+    "threads": {
+      "text": "1Password Sistemine Sızıldı\n\nPopüler şifre yöneticisi 1Password, iç sistemlerine yönelik bir ihlal gerçekleştiğini ve bazı müşteri verilerinin çalındığını açıkladı. Neyse ki kullanıcıların şifre kasaları güvende.\n\nSaldırganların sızdırdığı e-postalar nedeniyle oltalama saldırılarına karşı dikkatli olunmalı.\n\nSizce şifre yöneticileri ne kadar güvenli? 💭\n\nKaynak: Engadget, TechCrunch",
+      "hashtags": [
+        "SiberGüvenlik"
+      ]
+    },
+    "linkedin": {
+      "text": "Siber güvenlik dünyasında yankı uyandıran bir gelişme yaşandı: Popüler şifre yöneticisi 1Password, iç sistemlerine sızıldığını ve bazı müşteri verilerinin indirildiğini duyurdu.\n\n19 Kasım'da bir çalışanın GitHub hesabının ele geçirilmesiyle başlayan olayda, kaynak koduna erişildiği ve müşteri isimleri ile e-postalarının çalındığı belirtildi. 1Password, şifre kasalarının ve ana anahtarların güvende olduğunu vurgularken, çalınan token'ları iptal ederek güvenlik önlemlerini artırdı.\n\nKurumsal ve bireysel güvenliğin kritik olduğu bu dönemde, tedbirleri üst düzeye çıkarmak şart. Kaynak: Engadget, TechCrunch",
+      "hashtags": [
+        "SiberGüvenlik",
+        "BilgiGüvenliği",
+        "Teknoloji",
+        "1Password",
+        "CyberSecurity"
+      ]
+    },
+    "facebook": {
+      "text": "Popüler şifre yöneticisi 1Password'ün iç sistemlerine sızıldı! 19 Kasım'da bir çalışanın GitHub hesabının ele geçirilmesiyle başlayan süreçte bazı müşteri bilgileri indirildi.\n\nŞirket, kullanıcıların şifre kasalarının güvende olduğunu ve ana bilgilere erişilemediğini açıkladı. Yine de oltalama e-postalarına karşı dikkatli olunması gerekiyor.\n\nBu olay hakkında ne düşünüyorsunuz?\n\nKaynak: Engadget, TechCrunch",
+      "hashtags": [
+        "1Password",
+        "SiberGüvenlik",
+        "Teknoloji",
+        "Haber"
+      ]
+    }
+  },
+  "source_names": [
+    "Engadget",
+    "TechCrunch"
+  ],
+  "title_tr": "1Password Sistemine Sızıldı",
+  "canonical_url": "https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe/"
+}

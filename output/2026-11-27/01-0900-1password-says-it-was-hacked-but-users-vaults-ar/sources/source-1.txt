@@ -1,0 +1,9 @@
+URL: https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe/
+Erişim zamanı: 2026-11-27T09:03:37+03:00
+
+1Password says it was hacked but users' vaults are safe
+The attacker wasn't able to access people's vaults.
+1Password has admitted that an attacker was able to infiltrate its system and steal some customer data, but it has assured users in its announcement that their vaults and logins are safe. On November 19, the company started investigating signs that an employee's corporate GitHub account had been compromised. The company found that the attacker used that account to access its source code and inject malicious code to its backend.
+The attacker was then able to download customers' data, including people's names and email addresses, the dates their accounts were created and their last sign-in times. They were also able to steal users' public keys, but 1Password said it has no impact to their security. While the bad actor was also able to steal source code from the company itself, it doesn't contain customer data.
+"Your vault data, the items in them, and the keys that protect them are safe and were not affected," 1Password wrote. The service doesn't have access to users' actual passwords, recovery keys and other credentials, as well as the secret keys that protect their vaults, so the attacker wasn't able to steal them. Since discovering the breach, 1Password has revoked the stolen token, disabled the affected GitHub account and added new detection tools for similar attacks.
+While 1Password said that users' vaults remain safe, the company still advises being vigilant when it comes to phishing attempts. It warned that since users' emails were compromised in the breach, they could be used in attempts to grab people's passwords through fake account recovery and invitation emails.

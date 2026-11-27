@@ -1,0 +1,33 @@
+{
+  "pipeline_version": 2,
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 110.0,
+  "candidates_tried": 3,
+  "gemini_calls": 25,
+  "model_usage": {
+    "gemini-3.5-flash-lite": 15,
+    "gemini-3.1-flash-lite": 9
+  },
+  "canonical_url": "https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe/",
+  "entities": [
+    "1Password",
+    "GitHub"
+  ],
+  "event_type": "security_breach",
+  "topic": "security",
+  "primary_entity": "1Password",
+  "event_key": "1password_security_breach_vaults_safe",
+  "editorial": {
+    "index": 20,
+    "publishable": true,
+    "importance": 7,
+    "education_value": 5,
+    "topic": "security",
+    "primary_entity": "1Password",
+    "event_key": "1password_security_breach_vaults_safe",
+    "reason": "Popüler şifre yöneticisinin hacklendiğini ancak kullanıcı kasalarının güvende olduğunu açıklaması siber güvenlik açısından önemli."
+  },
+  "generated_at": "2026-11-27T09:04:58+03:00"
+}
