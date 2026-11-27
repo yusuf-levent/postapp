@@ -10602,12 +10602,12 @@
       },
       {
         "platform": "facebook",
-        "state": "submitted",
+        "state": "published",
         "external_id": "6b09c6c9d5bf252ef54132f1",
-        "permalink": "",
+        "permalink": "https://www.facebook.com/122097523605484840/posts/122126238681484840",
         "attempts": 1,
-        "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
-        "remote_status": "sending",
+        "last_error": "",
+        "remote_status": "sent",
         "retry_at": 0
       }
     ],
