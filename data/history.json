@@ -10303,11 +10303,11 @@
       {
         "platform": "tiktok",
         "state": "submitted",
-        "external_id": "",
+        "external_id": "6b097b60049983dcfbbce7f9",
         "permalink": "",
         "attempts": 1,
-        "last_error": "",
-        "remote_status": "",
+        "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
+        "remote_status": "sending",
         "retry_at": 0
       },
       {
