@@ -10292,12 +10292,12 @@
     "status_per_platform": [
       {
         "platform": "instagram",
-        "state": "submitted",
+        "state": "published",
         "external_id": "6b097b45776ce212761955c0",
-        "permalink": "",
+        "permalink": "https://www.instagram.com/p/DgPtf-nESMK/",
         "attempts": 1,
-        "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
-        "remote_status": "sending",
+        "last_error": "",
+        "remote_status": "sent",
         "retry_at": 0
       },
       {
