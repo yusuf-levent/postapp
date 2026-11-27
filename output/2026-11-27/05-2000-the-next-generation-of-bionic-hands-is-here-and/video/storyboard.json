@@ -1,0 +1,44 @@
+{
+  "duration": 16.84,
+  "scenes": [
+    {
+      "label": "NE OLDU?",
+      "heading": "Avi Davidson Sinirlerine Bağlanan Biyonik Eli Evinde Kullanıyor",
+      "body": "Sinir sistemine entegre edilen LUKE kolunun ev ortamındaki ilk bağımsız kullanımı."
+    },
+    {
+      "label": "BİLMEN GEREKEN",
+      "heading": "Kaza ve Yaralanmalar",
+      "body": "Avi Davidson, 2009 yılında geçirdiği kazada vücudunun yüzde 37'sinin ikinci ve üçüncü derece yanıklarla kaplandığını belirtmiştir."
+    },
+    {
+      "label": "DETAY",
+      "heading": "Geliştirilme ve İlk Denemeler",
+      "body": "LUKE kolu 2000'lerde geliştirilmiş, 2014 yılında ilk kez denenmiştir."
+    },
+    {
+      "label": "NEDEN ÖNEMLİ?",
+      "heading": "Ev Ortamında Test",
+      "body": "Avi Davidson, biyonik eli 10 Temmuz'dan bu yana evinde kullandığını ifade etmiştir."
+    }
+  ],
+  "bounds": [
+    0.0,
+    3.5,
+    7.946666666666666,
+    12.393333333333333,
+    16.84
+  ],
+  "probe": {
+    "duration": 16.84,
+    "width": 1080,
+    "height": 1920,
+    "has_audio": true,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "fps": 30.0,
+    "bit_rate": 2003974
+  },
+  "music": true,
+  "orig_audio": false
+}

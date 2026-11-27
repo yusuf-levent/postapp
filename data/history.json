@@ -10438,5 +10438,92 @@
     "topic": "",
     "primary_entity": "",
     "event_key": "652b954b-a528-4970-8dc7-0e651d3d8b38"
+  },
+  {
+    "id": "2026-11-27-2000",
+    "date": "2026-11-27",
+    "slot": "20:00",
+    "type": "edu",
+    "title_tr": "Avi Davidson Sinirlerine Bağlanan Biyonik Eli Evinde Kullanıyor",
+    "original_title": "The next generation of bionic hands is here—and they can feel",
+    "source_urls": [
+      "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/"
+    ],
+    "canonical_url": "https://technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel",
+    "entities": [
+      "MIT",
+      "Avi Davidson",
+      "University of Utah",
+      "LUKE arm"
+    ],
+    "event_type": "research_result",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "tiktok",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "x",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "threads",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "linkedin",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "facebook",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      }
+    ],
+    "created_at": "2026-11-27T20:03:54+03:00",
+    "verified_claims_count": 7,
+    "topic": "robotics",
+    "primary_entity": "MIT",
+    "event_key": "bionic_hands_nerve_feedback_ breakthrough"
   }
 ]

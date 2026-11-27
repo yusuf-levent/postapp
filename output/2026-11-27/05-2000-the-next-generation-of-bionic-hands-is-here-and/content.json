@@ -1,0 +1,128 @@
+{
+  "cover": {
+    "category_label": "BİYONİK TEKNOLOJİLER",
+    "title": "Avi Davidson Sinirlerine Bağlanan Biyonik Eli Evinde Kullanıyor",
+    "highlight_words": [
+      "Biyonik Eli",
+      "Evinde Kullanıyor"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Sinir sistemine entegre edilen LUKE kolunun ev ortamındaki ilk bağımsız kullanımı.",
+    "source_tags": [
+      "MIT Technology Review",
+      "Tekno Pusula"
+    ]
+  },
+  "problem": {
+    "heading": "Proje ve Geçmişin Arka Planı",
+    "cards": [
+      {
+        "card_title": "Kaza ve Yaralanmalar",
+        "card_body": "Avi Davidson, 2009 yılında geçirdiği kazada vücudunun yüzde 37'sinin ikinci ve üçüncü derece yanıklarla kaplandığını belirtmiştir."
+      },
+      {
+        "card_title": "Uzun Soluklu Araştırma",
+        "card_body": "Utah Üniversitesi'ndeki araştırma ekibi 2013 yılından beri ampute bireylerin biyonik kol kontrolünü sağlayan bir sistem üzerinde çalışmaktadır."
+      }
+    ],
+    "code_block": ""
+  },
+  "steps": [
+    {
+      "heading": "Cerrahi Süreç ve Sehat",
+      "cards": [
+        {
+          "card_title": "Florida'dan Utah'a Yolculuk",
+          "card_body": "Avi Davidson, bu yılın ocak ayı sonlarında ilk cerrahi operasyon için Florida'dan Utah'a uçmuştur."
+        },
+        {
+          "card_title": "Sinir Bağlantısı",
+          "card_body": "Davidson, sinirlerine bağlanan deneysel bir biyonik eli evinde bağımsız olarak kullanan ilk kişidir."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "LUKE Kolunun Tarihçesi",
+      "cards": [
+        {
+          "card_title": "Geliştirilme ve İlk Denemeler",
+          "card_body": "LUKE kolu 2000'lerde geliştirilmiş, 2014 yılında ilk kez denenmiştir."
+        },
+        {
+          "card_title": "FDA Onayı",
+          "card_body": "Geliştirilen bu özel kol sistemi, 2014 yılında FDA onayını almıştır."
+        }
+      ],
+      "code_block": ""
+    },
+    {
+      "heading": "Günlük Yaşamda Kullanım",
+      "cards": [
+        {
+          "card_title": "Ev Ortamında Test",
+          "card_body": "Avi Davidson, biyonik eli 10 Temmuz'dan bu yana evinde kullandığını ifade etmiştir."
+        },
+        {
+          "card_title": "Ağırlık ve Kullanım Sıklığı",
+          "card_body": "Davidson, biyonik elin yaklaşık beş pound ağırlığında olduğunu ve haftada altı gün civarında taktığını söylemiştir."
+        }
+      ],
+      "code_block": ""
+    }
+  ],
+  "cta": {
+    "question": "Biyonik teknolojilerin ev ortamında bağımsız kullanılabilmesi hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Doğrulanmış teknoloji gelişmeleri için Tekno Pusula'yı takipte kalın!"
+  },
+  "context": {
+    "heading": "Proje ve Geçmişin Arka Planı",
+    "cards": [
+      {
+        "card_title": "Kaza ve Yaralanmalar",
+        "card_body": "Avi Davidson, 2009 yılında geçirdiği kazada vücudunun yüzde 37'sinin ikinci ve üçüncü derece yanıklarla kaplandığını belirtmiştir."
+      },
+      {
+        "card_title": "Uzun Soluklu Araştırma",
+        "card_body": "Utah Üniversitesi'ndeki araştırma ekibi 2013 yılından beri ampute bireylerin biyonik kol kontrolünü sağlayan bir sistem üzerinde çalışmaktadır."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "💡",
+    "stat_caption": "Cerrahi Süreç ve Sehat",
+    "stat_quote": ""
+  },
+  "details": {
+    "heading": "LUKE Kolunun Tarihçesi",
+    "cards": [
+      {
+        "card_title": "Geliştirilme ve İlk Denemeler",
+        "card_body": "LUKE kolu 2000'lerde geliştirilmiş, 2014 yılında ilk kez denenmiştir."
+      },
+      {
+        "card_title": "FDA Onayı",
+        "card_body": "Geliştirilen bu özel kol sistemi, 2014 yılında FDA onayını almıştır."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Günlük Yaşamda Kullanım",
+    "cards": [
+      {
+        "card_title": "Ev Ortamında Test",
+        "card_body": "Avi Davidson, biyonik eli 10 Temmuz'dan bu yana evinde kullandığını ifade etmiştir."
+      },
+      {
+        "card_title": "Ağırlık ve Kullanım Sıklığı",
+        "card_body": "Davidson, biyonik elin yaklaşık beş pound ağırlığında olduğunu ve haftada altı gün civarında taktığını söylemiştir."
+      }
+    ]
+  },
+  "tag_label_2": "NEDEN ÖNEMLİ?",
+  "tag_label_3": "İPUCU",
+  "tag_label_4": "ADIM ADIM",
+  "tag_label_5": "PRATİK",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": ""
+}

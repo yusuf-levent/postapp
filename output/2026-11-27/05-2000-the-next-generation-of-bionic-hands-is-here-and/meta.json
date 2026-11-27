@@ -1,0 +1,34 @@
+{
+  "pipeline_version": 2,
+  "slot": "20:00",
+  "type": "edu",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 88.6,
+  "candidates_tried": 1,
+  "gemini_calls": 14,
+  "model_usage": {
+    "gemini-3.5-flash-lite": 14
+  },
+  "canonical_url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+  "entities": [
+    "MIT",
+    "Avi Davidson",
+    "University of Utah",
+    "LUKE arm"
+  ],
+  "event_type": "research_result",
+  "topic": "robotics",
+  "primary_entity": "MIT",
+  "event_key": "bionic_hands_nerve_feedback_ breakthrough",
+  "editorial": {
+    "index": 12,
+    "publishable": true,
+    "importance": 8,
+    "education_value": 8,
+    "topic": "robotics",
+    "primary_entity": "MIT",
+    "event_key": "bionic_hands_nerve_feedback_ breakthrough",
+    "reason": "Sinirlere baglanan ve basinci hissedebilen yeni nesil biyonik eller, robotik ve tip teknolojileri adina buyuk bir adim."
+  },
+  "generated_at": "2026-11-27T20:03:54+03:00"
+}
