@@ -5,4 +5,4 @@
 - ✅ `15:00` [news] X platformunda ebeveyn denetimi başladı — 6/6 platform
 - ✅ `18:00` [weetis] Akıllı ev sisteminiz otomatik enerji tasarrufu güncellemesi… — 6/6 platform
 - ✅ `20:00` [edu] Avi Davidson Sinirlerine Bağlanan Biyonik Eli Evinde Kullanıyor — 6/6 platform
-- ⚠️ `21:00` [news] Bilim İnsanları İklim Değişikliğini GTA İle Modelledi — 2/6 platform
+- ⚠️ `21:00` [news] Bilim İnsanları İklim Değişikliğini GTA İle Modelledi — 4/6 platform
