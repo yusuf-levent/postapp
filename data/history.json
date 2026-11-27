@@ -10525,5 +10525,96 @@
     "topic": "robotics",
     "primary_entity": "MIT",
     "event_key": "bionic_hands_nerve_feedback_ breakthrough"
+  },
+  {
+    "id": "2026-11-27-2100",
+    "date": "2026-11-27",
+    "slot": "21:00",
+    "type": "news",
+    "title_tr": "Bilim İnsanları İklim Değişikliğini GTA İle Modelledi",
+    "original_title": "Scientists Use ‘Grand Theft Auto’ to Model the Effects of Climate Change",
+    "source_urls": [
+      "https://www.wired.com/story/scientists-use-grand-theft-auto-to-model-the-effects-of-climate-change/"
+    ],
+    "canonical_url": "https://wired.com/story/scientists-use-grand-theft-auto-to-model-the-effects-of-climate-change",
+    "entities": [
+      "Wired",
+      "Grand Theft Auto",
+      "Rockstar Games",
+      "Paul Nörenberg",
+      "University of Potsdam",
+      "Hugues Lantuit",
+      "Alfred Wegener Institute",
+      "Geoscience Communication"
+    ],
+    "event_type": "research_result",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "tiktok",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "x",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "threads",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "linkedin",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "facebook",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      }
+    ],
+    "created_at": "2026-11-27T21:05:03+03:00",
+    "verified_claims_count": 8,
+    "topic": "science",
+    "primary_entity": "Wired",
+    "event_key": "gta_maps_climate_change_modeling"
   }
 ]

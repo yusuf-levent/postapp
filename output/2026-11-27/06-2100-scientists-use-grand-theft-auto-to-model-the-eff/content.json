@@ -1,0 +1,74 @@
+{
+  "cover": {
+    "category_label": "BİLİM VE TEKNOLOJİ",
+    "title": "Bilim İnsanları İklim Değişikliğini GTA İle Modelledi",
+    "highlight_words": [
+      "GTA",
+      "Modelledi"
+    ],
+    "highlight_color": "cyan",
+    "subtitle": "Araştırmacılar, video oyununun haritasını kullanarak iklim senaryolarını inceledi.",
+    "source_tags": [
+      "WIRED",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Araştırmanın Arka Planı",
+    "cards": [
+      {
+        "card_title": "Yürütülen Uzmanlar",
+        "card_body": "Çalışma, Potsdam Üniversitesi'nden Paul Nörenberg ve Alfred Wegener Enstitüsü'nden Hugues Lantuit tarafından yürütüldü."
+      },
+      {
+        "card_title": "Yayımlandığı Yer",
+        "card_body": "Araştırmacının hazırladığı bu çalışma Geoscience Communication dergisinde yayımlandı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "465 MİLYON",
+    "stat_caption": "Grand Theft Auto serisinin dünya genelindeki toplam satış adeti",
+    "stat_quote": "As of this year, the franchise has sold an estimated 465 million units worldwide."
+  },
+  "details": {
+    "heading": "İklim Senaryoları",
+    "cards": [
+      {
+        "card_title": "Kullanılan Senaryolar",
+        "card_body": "Araştırmacılar, BM İklim Değişikliği Paneli'nin RCP 2.6 ve RCP 8.5 olmak üzere iki iklim senaryosunu kullandı."
+      },
+      {
+        "card_title": "2300 Yılı Tahmini",
+        "card_body": "Yüksek emisyon senaryosunda ve fırtına dalgasında deniz seviyesi 5,18 metreye ulaşabilir."
+      },
+      {
+        "card_title": "2500 Yılı Projeksiyonu",
+        "card_body": "Birleşik su seviyesinin 8,22 metreye ulaşacağı ve kara alanının yüzde 6,5'inin sular altında kalacağı öngörülüyor."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Gerçek Dünya Karşılığı",
+    "cards": [
+      {
+        "card_title": "Risk Altındaki Bölgeler",
+        "card_body": "Oyunda savunmasız belirlenen alanlar, gerçek şehirdeki Venice Beach, Pacific Palisades ve Los Angeles Limanı ile örtüştü."
+      },
+      {
+        "card_title": "Oyun Sektörü",
+        "card_body": "Serinin son oyunu GTA VI, ilk gün satışlarında 3,79 milyar dolar kazandı."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce video oyunları gelecekte bilimsel araştırmalar için daha sık kullanılacak mı?",
+    "reminder_line": "Teknoloji ve bilim dünyasındaki gelişmeler için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": ""
+}

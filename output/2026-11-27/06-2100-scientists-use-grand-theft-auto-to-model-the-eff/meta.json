@@ -1,0 +1,39 @@
+{
+  "pipeline_version": 2,
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 137.9,
+  "candidates_tried": 5,
+  "gemini_calls": 26,
+  "model_usage": {
+    "gemini-3.5-flash-lite": 17,
+    "gemini-3.1-flash-lite": 7
+  },
+  "canonical_url": "https://www.wired.com/story/scientists-use-grand-theft-auto-to-model-the-effects-of-climate-change/",
+  "entities": [
+    "Wired",
+    "Grand Theft Auto",
+    "Rockstar Games",
+    "Paul Nörenberg",
+    "University of Potsdam",
+    "Hugues Lantuit",
+    "Alfred Wegener Institute",
+    "Geoscience Communication"
+  ],
+  "event_type": "research_result",
+  "topic": "science",
+  "primary_entity": "Wired",
+  "event_key": "gta_maps_climate_change_modeling",
+  "editorial": {
+    "index": 11,
+    "publishable": true,
+    "importance": 6,
+    "education_value": 6,
+    "topic": "science",
+    "primary_entity": "Wired",
+    "event_key": "gta_maps_climate_change_modeling",
+    "reason": "Bilgisayar oyun haritalarının iklim değişikliği simülasyonlarında kullanılmsı yenilikçi bir yaklaşım."
+  },
+  "generated_at": "2026-11-27T21:05:03+03:00"
+}
