@@ -1,0 +1,73 @@
+{
+  "cover": {
+    "category_label": "SOSYAL MEDYA",
+    "title": "X platformunda ebeveyn denetimi başladı",
+    "highlight_words": [
+      "ebeveyn denetimi"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "X, 13 ila 17 yaş arası kullanıcılar için ilk kez denetim araçları sundu.",
+    "source_tags": [
+      "ENGADGET",
+      "TECHCRUNCH"
+    ]
+  },
+  "context": {
+    "heading": "Yeni Dönem Başlıyor",
+    "cards": [
+      {
+        "card_title": "Yaş Sınırı ve Kapsam",
+        "card_body": "X platformu kullanıcıların en az 13 yaşında olmasını veya kanuni yaş sınırına uymasını şart koşuyor."
+      },
+      {
+        "card_title": "Korumalı Mod",
+        "card_body": "Gençlerin hesapları hassas medyanın kısıtlandığı ve hedefli reklamların engellendiği modla başlıyor."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "İLK KEZ",
+    "stat_caption": "Platform tarihinde ilk kez genç kullanıcılar için kontrol mekanizması devreye alındı.",
+    "stat_quote": "Elon Musk's X has finally introduced parental controls for kids aged 13 to 17."
+  },
+  "details": {
+    "heading": "Kontrol Araçları Neler?",
+    "cards": [
+      {
+        "card_title": "Hesap Limiti",
+        "card_body": "Ebeveynler ve vasiler en fazla beş gence ait hesabı kontrol edebilecek."
+      },
+      {
+        "card_title": "Süre Takibi",
+        "card_body": "Yetişkinler çocukların ne kadar zaman geçirdiğini görüp günlük sınır belirleyebilecek."
+      },
+      {
+        "card_title": "Karşılıklı Onay",
+        "card_body": "Hesapların bağlanması için ebeveynin başlatması ve gencin onaylaması şart."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Gizlilik Sınırları",
+    "cards": [
+      {
+        "card_title": "Özel Mesaj Kısıtı",
+        "card_body": "Ebeveynler çocukların özel mesajlarını okuyamayacak ve arama geçmişini göremeyecek."
+      },
+      {
+        "card_title": "Kullanıcı Hakları",
+        "card_body": "Yetişkinler gençlerin hesabından paylaşım yapamayacak ve hesaplara doğrudan erişemeyecek."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sosyal medya platformlarında ebeveyn denetimleri yeterli mi?",
+    "reminder_line": "Teknoloji dünyasındaki gelişmeleri kaçırmamak için takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": ""
+}

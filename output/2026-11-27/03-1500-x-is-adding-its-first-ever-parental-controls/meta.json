@@ -1,0 +1,32 @@
+{
+  "pipeline_version": 2,
+  "slot": "15:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 152.1,
+  "candidates_tried": 4,
+  "gemini_calls": 27,
+  "model_usage": {
+    "gemini-3.5-flash-lite": 27
+  },
+  "canonical_url": "https://www.engadget.com/2329049/x-is-adding-its-first-ever-parental-controls/",
+  "entities": [
+    "X",
+    "Elon Musk"
+  ],
+  "event_type": "product_launch",
+  "topic": "consumer",
+  "primary_entity": "X",
+  "event_key": "x_parental_controls_launch",
+  "editorial": {
+    "index": 6,
+    "publishable": true,
+    "importance": 6,
+    "education_value": 3,
+    "topic": "consumer",
+    "primary_entity": "X",
+    "event_key": "x_parental_controls_launch",
+    "reason": "X platformu tarihîinde ilk kez ebeveyn kontrolü özelliklerini kullanıma sundu."
+  },
+  "generated_at": "2026-11-27T15:44:43+03:00"
+}

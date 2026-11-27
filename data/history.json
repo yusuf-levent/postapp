@@ -10271,5 +10271,90 @@
     "topic": "chips",
     "primary_entity": "Nvidia",
     "event_key": "nvidia_chip_shipment_ban_southeast_asia"
+  },
+  {
+    "id": "2026-11-27-1500",
+    "date": "2026-11-27",
+    "slot": "15:00",
+    "type": "news",
+    "title_tr": "X platformunda ebeveyn denetimi başladı",
+    "original_title": "X is adding its first-ever parental controls",
+    "source_urls": [
+      "https://www.engadget.com/2329049/x-is-adding-its-first-ever-parental-controls/"
+    ],
+    "canonical_url": "https://engadget.com/2329049/x-is-adding-its-first-ever-parental-controls",
+    "entities": [
+      "X",
+      "Elon Musk"
+    ],
+    "event_type": "product_launch",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "tiktok",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "x",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "threads",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "linkedin",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "facebook",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      }
+    ],
+    "created_at": "2026-11-27T15:44:43+03:00",
+    "verified_claims_count": 7,
+    "topic": "consumer",
+    "primary_entity": "X",
+    "event_key": "x_parental_controls_launch"
   }
 ]
