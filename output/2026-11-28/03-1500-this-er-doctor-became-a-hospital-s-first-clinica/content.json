@@ -1,0 +1,70 @@
+{
+  "cover": {
+    "category_label": "YAPAY ZEKA VE SAĞLIK",
+    "title": "Boston Children's Hospital Klinik AI Mühendisi İstihdam Etti",
+    "highlight_words": [
+      "Klinik",
+      "AI",
+      "Mühendisi"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Boston Children's Hospital, prompt mühendisliği pozisyonu için Dinesh Rai'yi işe aldı.",
+    "source_tags": [
+      "IEEE SPECTRUM"
+    ]
+  },
+  "context": {
+    "heading": "Hastanede Yapay Zeka Dönemi",
+    "cards": [
+      {
+        "card_title": "İş İlanı ve Başvuru",
+        "card_body": "Boston Children's Hospital 2023 yılında bir prompt mühendisi pozisyonu için iş ilanı yayınladı ve Dinesh Rai bu ilana başvurdu."
+      },
+      {
+        "card_title": "Göreve Başlama",
+        "card_body": "Boston Children's Hospital, Dinesh Rai'yi Ağustos 2023'te bünyesine kattı ve süreç başladı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "2023",
+    "stat_caption": "Boston Children's Hospital'ın prompt mühendisi aradığı ve Dinesh Rai'yi işe aldığı yıl.",
+    "stat_quote": "Knowing how to prompt AI properly was going to be the job function of the future."
+  },
+  "details": {
+    "heading": "Dinesh Rai'nin Arka Planı",
+    "cards": [
+      {
+        "card_title": "Eğitim Hayatı",
+        "card_body": "Rutgers Business School tedarik zinciri yönetimi mezunu olan Rai, Albert Einstein College of Medicine'den tıp doktoru unvanı aldı."
+      },
+      {
+        "card_title": "Yazılım ve Sağlık AI",
+        "card_body": "Rirai, tıp fakültesine başladığı 2014 yılında kodlama öğrenmeye başladı ve 2022'de Pieces adlı sağlık yapay zeka şirketinde çalıştı."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Klinik Yapay Zeka Rolü",
+    "cards": [
+      {
+        "card_title": "Genişleyen Görev Tanımı",
+        "card_body": "Dinesh Rai şu anda Boston Children's Hospital'da klinik yapay zeka mühendisi olarak daha geniş bir rolde çalışmaya devam ediyor."
+      },
+      {
+        "card_title": "Klinik Pratik Planı",
+        "card_body": "Rai, tıp lisansını yeniden aktif hale getirdiğini ve önümüzdeki yıl içinde bir kapasitede klinik pratiğe dönmeyi umduğunu belirtti."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Sizce yapay zeka prompt mühendisliği gelecekte sağlık sektörünün standart bir mesleği haline gelecek mi?",
+    "reminder_line": "Teknoloji ve yapay zeka alanındaki gelişmeleri takip etmek için Tekno Pusula'yı takipte kalın."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": ""
+}

@@ -1,0 +1,295 @@
+{
+  "title": "This ER Doctor Became a Hospital’s First Clinical AI Engineer",
+  "canonical_url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+  "source_names": [
+    "IEEE Spectrum"
+  ],
+  "checked_at": "2026-11-28T15:02:59+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Boston Children's Hospital posted a job listing for a prompt engineer in 2023, and Dinesh Rai applied for it.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "When Boston Children’s Hospital posted a job listing for a prompt engineer in 2023, Dinesh Rai decided to apply."
+        }
+      ]
+    },
+    {
+      "claim": "Boston Children's Hospital brought Dinesh Rai on board in August 2023.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "Boston Children’s brought him on board in August 2023."
+        }
+      ]
+    },
+    {
+      "claim": "John Brownstein is the chief innovation officer at Boston Children's.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "says John Brownstein, chief innovation officer at Boston Children’s."
+        },
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "“Knowing how to prompt AI properly was going to be the job function of the future,” says John Brownstein, chief innovation officer at Boston Children’s."
+        }
+      ]
+    },
+    {
+      "claim": "Dinesh Rai earned a Bachelor's degree in supply-chain management and marketing sciences from Rutgers Business School and a Doctor of Medicine from Albert Einstein College of Medicine.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "Bachelor’s degree in supply-chain management and marketing sciences, Rutgers Business School; Doctor of Medicine, Albert Einstein College of Medicine"
+        },
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "Education:\nBachelor’s degree in supply-chain management and marketing sciences, Rutgers Business School; Doctor of Medicine, Albert Einstein College of Medicine"
+        }
+      ]
+    },
+    {
+      "claim": "Dinesh Rai began teaching himself to code in 2014, the same year he entered medical school.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "Rai originally studied business as an undergraduate and began teaching himself to code in 2014 (the same year he entered medical school)"
+        }
+      ]
+    },
+    {
+      "claim": "In 2022, Dinesh Rai took a job at Pieces, a health care AI company.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "In 2022, Rai took a job at Pieces, a health care AI company, where he led work to bring LLM-based medical summarization into clinical use."
+        }
+      ]
+    },
+    {
+      "claim": "Dinesh Rai stated that he has reactivated his medical license and hopes to return to clinical practice in some capacity within the next year.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "He has since reactivated his medical license and hopes to return to clinical practice in some capacity within the next year."
+        }
+      ]
+    },
+    {
+      "claim": "Dinesh Rai currently works at Boston Children's Hospital as a clinical AI engineer.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "For Rai, that has meant embracing a job broader than the role that brought him to Boston. “I’m more like a clinical AI engineer now,” he says."
+        },
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "Three years later, Rai still works there."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Boston Children's Hospital posted a job listing for a prompt engineer in 2023, and Dinesh Rai applied for it.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "When Boston Children’s Hospital posted a job listing for a prompt engineer in 2023, Dinesh Rai decided to apply."
+        }
+      ]
+    },
+    {
+      "claim": "Boston Children's Hospital brought Dinesh Rai on board in August 2023.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "Boston Children’s brought him on board in August 2023."
+        }
+      ]
+    },
+    {
+      "claim": "John Brownstein is the chief innovation officer at Boston Children's.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "says John Brownstein, chief innovation officer at Boston Children’s."
+        },
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "“Knowing how to prompt AI properly was going to be the job function of the future,” says John Brownstein, chief innovation officer at Boston Children’s."
+        }
+      ]
+    },
+    {
+      "claim": "Dinesh Rai earned a Bachelor's degree in supply-chain management and marketing sciences from Rutgers Business School and a Doctor of Medicine from Albert Einstein College of Medicine.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "Bachelor’s degree in supply-chain management and marketing sciences, Rutgers Business School; Doctor of Medicine, Albert Einstein College of Medicine"
+        },
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "Education:\nBachelor’s degree in supply-chain management and marketing sciences, Rutgers Business School; Doctor of Medicine, Albert Einstein College of Medicine"
+        }
+      ]
+    },
+    {
+      "claim": "Dinesh Rai began teaching himself to code in 2014, the same year he entered medical school.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "Rai originally studied business as an undergraduate and began teaching himself to code in 2014 (the same year he entered medical school)"
+        }
+      ]
+    },
+    {
+      "claim": "In 2022, Dinesh Rai took a job at Pieces, a health care AI company.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "In 2022, Rai took a job at Pieces, a health care AI company, where he led work to bring LLM-based medical summarization into clinical use."
+        }
+      ]
+    },
+    {
+      "claim": "Dinesh Rai stated that he has reactivated his medical license and hopes to return to clinical practice in some capacity within the next year.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "He has since reactivated his medical license and hopes to return to clinical practice in some capacity within the next year."
+        }
+      ]
+    },
+    {
+      "claim": "Dinesh Rai currently works at Boston Children's Hospital as a clinical AI engineer.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "For Rai, that has meant embracing a job broader than the role that brought him to Boston. “I’m more like a clinical AI engineer now,” he says."
+        },
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "Three years later, Rai still works there."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Boston Children's Hospital posted a job listing for a prompt engineer in 2023, and Dinesh Rai applied for it.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "When Boston Children’s Hospital posted a job listing for a prompt engineer in 2023, Dinesh Rai decided to apply."
+        }
+      ]
+    },
+    {
+      "claim": "Boston Children's Hospital brought Dinesh Rai on board in August 2023.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "Boston Children’s brought him on board in August 2023."
+        }
+      ]
+    },
+    {
+      "claim": "John Brownstein is the chief innovation officer at Boston Children's.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "says John Brownstein, chief innovation officer at Boston Children’s."
+        },
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "“Knowing how to prompt AI properly was going to be the job function of the future,” says John Brownstein, chief innovation officer at Boston Children’s."
+        }
+      ]
+    },
+    {
+      "claim": "Dinesh Rai earned a Bachelor's degree in supply-chain management and marketing sciences from Rutgers Business School and a Doctor of Medicine from Albert Einstein College of Medicine.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "Bachelor’s degree in supply-chain management and marketing sciences, Rutgers Business School; Doctor of Medicine, Albert Einstein College of Medicine"
+        },
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "Education:\nBachelor’s degree in supply-chain management and marketing sciences, Rutgers Business School; Doctor of Medicine, Albert Einstein College of Medicine"
+        }
+      ]
+    },
+    {
+      "claim": "Dinesh Rai began teaching himself to code in 2014, the same year he entered medical school.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "Rai originally studied business as an undergraduate and began teaching himself to code in 2014 (the same year he entered medical school)"
+        }
+      ]
+    },
+    {
+      "claim": "In 2022, Dinesh Rai took a job at Pieces, a health care AI company.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "In 2022, Rai took a job at Pieces, a health care AI company, where he led work to bring LLM-based medical summarization into clinical use."
+        }
+      ]
+    },
+    {
+      "claim": "Dinesh Rai stated that he has reactivated his medical license and hopes to return to clinical practice in some capacity within the next year.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "He has since reactivated his medical license and hopes to return to clinical practice in some capacity within the next year."
+        }
+      ]
+    },
+    {
+      "claim": "Dinesh Rai currently works at Boston Children's Hospital as a clinical AI engineer.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "For Rai, that has meant embracing a job broader than the role that brought him to Boston. “I’m more like a clinical AI engineer now,” he says."
+        },
+        {
+          "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+          "quote": "Three years later, Rai still works there."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai": 8070
+  }
+}

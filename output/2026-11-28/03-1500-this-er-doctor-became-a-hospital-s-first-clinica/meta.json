@@ -1,0 +1,36 @@
+{
+  "pipeline_version": 2,
+  "slot": "15:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 156.1,
+  "candidates_tried": 1,
+  "gemini_calls": 19,
+  "model_usage": {
+    "gemini-3.5-flash-lite": 15,
+    "gemini-3.1-flash-lite": 1
+  },
+  "canonical_url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+  "entities": [
+    "Boston Children's Hospital",
+    "Dinesh Rai",
+    "John Brownstein",
+    "Rutgers Business School",
+    "Albert Einstein College of Medicine"
+  ],
+  "event_type": "hiring",
+  "topic": "ai",
+  "primary_entity": "Boston Children's Hospital",
+  "event_key": "this-er-doctor-became-a-hospital-s-first",
+  "editorial": {
+    "index": 9,
+    "publishable": true,
+    "importance": 6,
+    "education_value": 7,
+    "topic": "ai",
+    "primary_entity": "Boston Children's Hospital",
+    "event_key": "",
+    "reason": "Sağlık sektöründe klinik yapay zeka mühendisliği pozisyonunun evrimini anlatan eğitsel bir kariyer incelemesi."
+  },
+  "generated_at": "2026-11-28T15:05:14+03:00"
+}
