@@ -1,0 +1,60 @@
+{
+  "cover": {
+    "category_label": "Günün tartışması",
+    "title": "Aylık ücretli bir video akış platformu, ara ara reklam…",
+    "highlight_words": [
+      "Aylık"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Weetis’te bugün bu konuyu konuşuyoruz.",
+    "source_tags": [
+      "Weetis"
+    ]
+  },
+  "context": {
+    "heading": "Bugün Ne Tartışıyoruz?",
+    "cards": [
+      {
+        "card_title": "Tartışmanın konusu",
+        "card_body": "Bazı video akış hizmetleri, düşük bir fiyat karşılığında zaman zaman reklam gösterme seçeneği sunuyor. Kullanıcılar bu değişikliği hizmet kalitesine ve bütçelerine göre değerlendirebilir."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "NEDEN?",
+    "stat_caption": "Görüşünün dayanağı ne?",
+    "stat_quote": "Seni o görüşe götüren nedeni tek cümleyle anlat."
+  },
+  "details": {
+    "heading": "Bir Örnek Ver",
+    "cards": [
+      {
+        "card_title": "Deneyimin",
+        "card_body": "Buna benzer bir durum yaşadıysan ne olduğunu anlat."
+      },
+      {
+        "card_title": "Kararın",
+        "card_body": "Aynı durumda ne yapardın? Seçimini ne belirlerdi?"
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Hangi Koşulda Fikrin Değişir?",
+    "cards": [
+      {
+        "card_title": "Karşı görüş",
+        "card_body": "Sana ters gelen görüşün hangi durumda geçerli olabileceğini düşün."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Bu konuda sen ne düşünüyorsun?",
+    "reminder_line": "Weetis’te hesap açmadan yorum bırakabilirsin. Bağlantı açıklamada."
+  },
+  "tag_label_2": "KONU",
+  "tag_label_3": "GEREKÇE",
+  "tag_label_4": "DENEYİM",
+  "tag_label_5": "KARŞI GÖRÜŞ",
+  "tag_label_6": "WEETIS TARTIŞMASI",
+  "show_follow_cta": false
+}

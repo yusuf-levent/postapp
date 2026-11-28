@@ -10883,5 +10883,87 @@
     "topic": "ai",
     "primary_entity": "Boston Children's Hospital",
     "event_key": "this-er-doctor-became-a-hospital-s-first"
+  },
+  {
+    "id": "2026-11-28-1800",
+    "date": "2026-11-28",
+    "slot": "18:00",
+    "type": "weetis",
+    "title_tr": "Aylık ücretli bir video akış platformu, ara ara reklam…",
+    "original_title": "Aylık ücretli bir video akış platformu, ara ara reklam gösterirse üyeliği iptal eder misiniz?",
+    "source_urls": [
+      "https://weetis.com/tr/d/24ab2503-81b3-46ff-b1a5-db5f232596d8"
+    ],
+    "canonical_url": "https://weetis.com/tr/d/24ab2503-81b3-46ff-b1a5-db5f232596d8",
+    "entities": [],
+    "event_type": "",
+    "embedding": [],
+    "status_per_platform": [
+      {
+        "platform": "instagram",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "tiktok",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "x",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "threads",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "linkedin",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      },
+      {
+        "platform": "facebook",
+        "state": "pending",
+        "external_id": "",
+        "permalink": "",
+        "attempts": 0,
+        "last_error": "",
+        "remote_status": "",
+        "retry_at": 0
+      }
+    ],
+    "created_at": "2026-11-28T18:03:42+03:00",
+    "verified_claims_count": 0,
+    "topic": "",
+    "primary_entity": "",
+    "event_key": "24ab2503-81b3-46ff-b1a5-db5f232596d8"
   }
 ]
