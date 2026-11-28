@@ -1,0 +1,295 @@
+{
+  "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+  "canonical_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+  "source_names": [
+    "Hugging Face Blog"
+  ],
+  "checked_at": "2026-11-28T09:03:17+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Llama.cpp × AMD Benchmark paneli Hugging Face platformunda kullanıma sunulmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "The llama.cpp × AMD Benchmark dashboard is available on Hugging Face."
+        }
+      ]
+    },
+    {
+      "claim": "Benchmark panelinde şu an için Radeon 8060S (gfx1151) ve Radeon AI Pro R9700S (gfx1201) donanım seçenekleri bulunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "The current hardware choices are Radeon 8060S (gfx1151) and Radeon AI Pro R9700S (gfx1201)."
+        }
+      ]
+    },
+    {
+      "claim": "PP512 testi 512 girdi token'ının işlenme hızını ölçmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "| PP512 | Process 512 input tokens | How quickly the model processes a prompt |"
+        },
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "PP512 | Process 512 input tokens | How quickly the model processes a prompt"
+        }
+      ]
+    },
+    {
+      "claim": "TG128 testi 128 token üretme hızını ölçmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "| TG128 | Generate 128 tokens | How quickly the model produces output |"
+        },
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "TG128 | Generate 128 tokens | How quickly the model produces output"
+        }
+      ]
+    },
+    {
+      "claim": "Benchmark testleri llama-bench aracı kullanılarak, Flash Attention açık ve kapalı şekilde, her konfigürasyon için 10 tekrarla yapılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "The public gfx1151 and gfx1201 workflows are scheduled weekly and run the standard benchmarks using the llama-bench tool with Flash Attention on and off, with 10 repetitions per configuration."
+        }
+      ]
+    },
+    {
+      "claim": "Benchmark testleri haftalık olarak planlanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "The public gfx1151 and gfx1201 workflows are scheduled weekly"
+        },
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "The public gfx1151 and gfx1201 workflows are scheduled weekly and run the standard benchmarks"
+        }
+      ]
+    },
+    {
+      "claim": "Benchmark panelinde yer alan mevcut modeller arasında Inkling 2 Mini, Qwen, Gemma, gpt-oss ve LFM modelleri bulunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "The model set evolves and currently includes Inkling 2 Mini, Qwen, Gemma, gpt-oss, and LFM models"
+        }
+      ]
+    },
+    {
+      "claim": "Benchmark sonuçları Hugging Face üzerindeki ggml-org/install.sh-benches-data depolama alanından okunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "The explorer reads directly from the public ggml-org/install.sh-benches-data Storage Bucket on Hugging Face."
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Llama.cpp × AMD Benchmark paneli Hugging Face platformunda kullanıma sunulmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "The llama.cpp × AMD Benchmark dashboard is available on Hugging Face."
+        }
+      ]
+    },
+    {
+      "claim": "Benchmark panelinde şu an için Radeon 8060S (gfx1151) ve Radeon AI Pro R9700S (gfx1201) donanım seçenekleri bulunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "The current hardware choices are Radeon 8060S (gfx1151) and Radeon AI Pro R9700S (gfx1201)."
+        }
+      ]
+    },
+    {
+      "claim": "PP512 testi 512 girdi token'ının işlenme hızını ölçmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "| PP512 | Process 512 input tokens | How quickly the model processes a prompt |"
+        },
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "PP512 | Process 512 input tokens | How quickly the model processes a prompt"
+        }
+      ]
+    },
+    {
+      "claim": "TG128 testi 128 token üretme hızını ölçmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "| TG128 | Generate 128 tokens | How quickly the model produces output |"
+        },
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "TG128 | Generate 128 tokens | How quickly the model produces output"
+        }
+      ]
+    },
+    {
+      "claim": "Benchmark testleri llama-bench aracı kullanılarak, Flash Attention açık ve kapalı şekilde, her konfigürasyon için 10 tekrarla yapılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "The public gfx1151 and gfx1201 workflows are scheduled weekly and run the standard benchmarks using the llama-bench tool with Flash Attention on and off, with 10 repetitions per configuration."
+        }
+      ]
+    },
+    {
+      "claim": "Benchmark testleri haftalık olarak planlanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "The public gfx1151 and gfx1201 workflows are scheduled weekly"
+        },
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "The public gfx1151 and gfx1201 workflows are scheduled weekly and run the standard benchmarks"
+        }
+      ]
+    },
+    {
+      "claim": "Benchmark panelinde yer alan mevcut modeller arasında Inkling 2 Mini, Qwen, Gemma, gpt-oss ve LFM modelleri bulunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "The model set evolves and currently includes Inkling 2 Mini, Qwen, Gemma, gpt-oss, and LFM models"
+        }
+      ]
+    },
+    {
+      "claim": "Benchmark sonuçları Hugging Face üzerindeki ggml-org/install.sh-benches-data depolama alanından okunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "The explorer reads directly from the public ggml-org/install.sh-benches-data Storage Bucket on Hugging Face."
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Llama.cpp × AMD Benchmark paneli Hugging Face platformunda kullanıma sunulmuştur.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "The llama.cpp × AMD Benchmark dashboard is available on Hugging Face."
+        }
+      ]
+    },
+    {
+      "claim": "Benchmark panelinde şu an için Radeon 8060S (gfx1151) ve Radeon AI Pro R9700S (gfx1201) donanım seçenekleri bulunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "The current hardware choices are Radeon 8060S (gfx1151) and Radeon AI Pro R9700S (gfx1201)."
+        }
+      ]
+    },
+    {
+      "claim": "PP512 testi 512 girdi token'ının işlenme hızını ölçmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "| PP512 | Process 512 input tokens | How quickly the model processes a prompt |"
+        },
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "PP512 | Process 512 input tokens | How quickly the model processes a prompt"
+        }
+      ]
+    },
+    {
+      "claim": "TG128 testi 128 token üretme hızını ölçmektedir.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "| TG128 | Generate 128 tokens | How quickly the model produces output |"
+        },
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "TG128 | Generate 128 tokens | How quickly the model produces output"
+        }
+      ]
+    },
+    {
+      "claim": "Benchmark testleri llama-bench aracı kullanılarak, Flash Attention açık ve kapalı şekilde, her konfigürasyon için 10 tekrarla yapılmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "The public gfx1151 and gfx1201 workflows are scheduled weekly and run the standard benchmarks using the llama-bench tool with Flash Attention on and off, with 10 repetitions per configuration."
+        }
+      ]
+    },
+    {
+      "claim": "Benchmark testleri haftalık olarak planlanmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "The public gfx1151 and gfx1201 workflows are scheduled weekly"
+        },
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "The public gfx1151 and gfx1201 workflows are scheduled weekly and run the standard benchmarks"
+        }
+      ]
+    },
+    {
+      "claim": "Benchmark panelinde yer alan mevcut modeller arasında Inkling 2 Mini, Qwen, Gemma, gpt-oss ve LFM modelleri bulunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "The model set evolves and currently includes Inkling 2 Mini, Qwen, Gemma, gpt-oss, and LFM models"
+        }
+      ]
+    },
+    {
+      "claim": "Benchmark sonuçları Hugging Face üzerindeki ggml-org/install.sh-benches-data depolama alanından okunmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "quote": "The explorer reads directly from the public ggml-org/install.sh-benches-data Storage Bucket on Hugging Face."
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench": 3370
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "images": [
+    {
+      "source": "ogimage",
+      "url": "https://cdn-uploads.huggingface.co/production/uploads/67289c93ff90038d9a6e5675/tbIvyMSISXCm64WYP3atl.png",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-28/01-0900-introducing-the-llama-cpp-benchmark-dashboard-fo/images/img-1.png",
+      "license": "Kaynak makale görseli",
+      "author": "",
+      "credit_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "width": 2600,
+      "height": 1300,
+      "alt_text": ""
+    },
+    {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Ryzen3pro2100ge-ph-gerald.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "local_path": "/home/runner/work/postapp/postapp/output/2026-11-28/01-0900-introducing-the-llama-cpp-benchmark-dashboard-fo/images/img-2.png",
+      "license": "",
+      "author": "",
+      "credit_url": "https://en.wikipedia.org/wiki/AMD%20Ryzen",
+      "width": 2229,
+      "height": 2017,
+      "alt_text": "AMD Ryzen"
+    }
+  ],
+  "note": "Görsel lisansları ilgili kaynakların kendi şartlarına tabidir.",
+  "video": [
+    {
+      "source": "pexels",
+      "url": "https://videos.pexels.com/video-files/6754830/6754830-hd_1920_1080_25fps.mp4",
+      "license": "Pexels License",
+      "author": "Tima Miroshnichenko",
+      "credit_url": "https://www.pexels.com/video/close-up-shot-of-printed-circuit-board-6754830/"
+    }
+  ],
+  "music": [
+    {
+      "title": "Desert of Lost Souls",
+      "artist": "Kevin MacLeod (incompetech.com)",
+      "license": "CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Desert%20of%20Lost%20Souls.mp3"
+    }
+  ]
+}

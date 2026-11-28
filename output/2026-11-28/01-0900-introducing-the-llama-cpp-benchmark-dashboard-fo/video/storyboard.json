@@ -1,0 +1,44 @@
+{
+  "duration": 16.36,
+  "scenes": [
+    {
+      "label": "NE OLDU?",
+      "heading": "AMD ve Llama.cpp Benchmark Paneli Yayında",
+      "body": "Hugging Face üzerinde AMD donanımları için performans ölçüm paneli kullanıma açıldı."
+    },
+    {
+      "label": "BİLMEN GEREKEN",
+      "heading": "Donanım Seçenekleri",
+      "body": "Panelde şu an Radeon 8060S (gfx1151) ve Radeon AI Pro R9700S (gfx1201) donanımları yer alıyor."
+    },
+    {
+      "label": "DETAY",
+      "heading": "PP512 Testi",
+      "body": "512 girdi token'ının işlenme hızını ölçerek modelin istemi ne kadar hızlı işlediğini gösteriyor."
+    },
+    {
+      "label": "NEDEN ÖNEMLİ?",
+      "heading": "Düzenli Takip",
+      "body": "Haftalık olarak güncellenen iş akışları sayesinde AMD donanımlarının performans gelişimi şeffaf şekilde izlenebiliyor."
+    }
+  ],
+  "bounds": [
+    0.0,
+    3.5,
+    7.786666666666666,
+    12.073333333333332,
+    16.36
+  ],
+  "probe": {
+    "duration": 16.366016,
+    "width": 1080,
+    "height": 1920,
+    "has_audio": true,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "fps": 30.0,
+    "bit_rate": 1396726
+  },
+  "music": true,
+  "orig_audio": false
+}

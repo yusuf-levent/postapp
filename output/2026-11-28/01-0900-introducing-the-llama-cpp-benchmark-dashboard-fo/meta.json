@@ -1,0 +1,37 @@
+{
+  "pipeline_version": 2,
+  "slot": "09:00",
+  "type": "news",
+  "model": "gemini-3.1-flash-lite",
+  "duration_seconds": 126.0,
+  "candidates_tried": 5,
+  "gemini_calls": 31,
+  "model_usage": {
+    "gemini-3.1-flash-lite": 30
+  },
+  "canonical_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+  "entities": [
+    "Hugging Face",
+    "AMD",
+    "llama.cpp",
+    "AMD Ryzen",
+    "Radeon",
+    "Radeon 8060S",
+    "Radeon AI Pro R9700S"
+  ],
+  "event_type": "product_launch",
+  "topic": "software",
+  "primary_entity": "Hugging Face",
+  "event_key": "llama_cpp_amd_benchmark_dashboard",
+  "editorial": {
+    "index": 18,
+    "publishable": true,
+    "importance": 6,
+    "education_value": 7,
+    "topic": "software",
+    "primary_entity": "Hugging Face",
+    "event_key": "llama_cpp_amd_benchmark_dashboard",
+    "reason": "Yerel LLM çalıştırma (inference) performansını AMD donanımlarında ölçümlemek, açık kaynaklı yapay zeka ekosistemi için teknik bir ilerleme."
+  },
+  "generated_at": "2026-11-28T09:04:39+03:00"
+}
