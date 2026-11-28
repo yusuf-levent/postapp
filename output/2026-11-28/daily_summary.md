@@ -2,3 +2,4 @@
 
 - ✅ `09:00` [news] AMD ve Llama.cpp Benchmark Paneli Yayında — 6/6 platform
 - ✅ `12:00` [news] OpenAI ve Apple Arasında Ticari Sır Davası Başladı — 6/6 platform
+- ⚠️ `15:00` [news] Boston Children's Hospital Klinik AI Mühendisi İstihdam Etti — 3/6 platform
