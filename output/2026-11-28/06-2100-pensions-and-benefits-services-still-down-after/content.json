@@ -1,0 +1,74 @@
+{
+  "cover": {
+    "category_label": "SİBER GÜVENLİK",
+    "title": "BİRLEŞİK KRALLIK'TA SİBER OLAY HİZMETLERİ KAPATTI",
+    "highlight_words": [
+      "SİBER",
+      "OLAY"
+    ],
+    "highlight_color": "yellow",
+    "subtitle": "Sosyal yardım ve emeklilik sistemleri siber olay sebebiyle erişime kapatıldı.",
+    "source_tags": [
+      "BBC NEWS",
+      "ENGADGET"
+    ]
+  },
+  "context": {
+    "heading": "Sistemin Kapatılması",
+    "cards": [
+      {
+        "card_title": "Hizmetler Kapalı",
+        "card_body": "Çevrimiçi sosyal yardım ve emeklilik hizmetleri, siber olay nedeniyle cumartesi sabahı hala kapalıydı."
+      },
+      {
+        "card_title": "Bakanlık Açıklaması",
+        "card_body": "Çalışma ve Emeklilik Bakanlığı (DWP), sistemlerin kapatılma sebebini belirtmedi ancak hacklenme ihtimalini dışlamadı."
+      }
+    ]
+  },
+  "stat": {
+    "big_stat": "2,5 MİLYON",
+    "stat_caption": "DWP tarafından her gün yapılan yaklaşık ödeme miktarı.",
+    "stat_quote": "Çalışma ve Emeklilik Bakanı Pat McFadden cuma günü ciddi bir siber olay yaşandığını açıkladı."
+  },
+  "details": {
+    "heading": "Uzman ve Bakanlık Görüşleri",
+    "cards": [
+      {
+        "card_title": "Ciddi Siber Olay",
+        "card_body": "Çalışma ve Emeklilik Bakanı Pat McFadden cuma günü ciddi bir siber olay yaşandığını duyurdu."
+      },
+      {
+        "card_title": "Güçlü Şüphe",
+        "card_body": "Eski baş teknoloji sorumlusu David Knott, departmanın hackerlar tarafından hedef alındığına dair güçlü şüphesi olduğunu belirtti."
+      },
+      {
+        "card_title": "Kişisel Bilgiler",
+        "card_body": "Hükümet cuma günü yaptığı açıklamada hiçbir kişisel bilginin kaybolduğuna veya çalındığına inanmadığını belirtti."
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Kullanıcı Etkileri",
+    "cards": [
+      {
+        "card_title": "Milyonların Geliri",
+        "card_body": "DWP milyonlarca insan için birincil gelir kaynağı konumunda bulunuyor."
+      },
+      {
+        "card_title": "Bireysel Endişe",
+        "card_body": "Stockport'lu Jacob Dwight, hesabına erişemediği için gelirinin dörtte birini kaybedebileceğinden endişe ediyor."
+      }
+    ]
+  },
+  "cta": {
+    "question": "Kritik kamu hizmetlerinin siber olaylar karşısında kapatılması hakkında ne düşünüyorsunuz?",
+    "reminder_line": "Teknoloji ve siber güvenlik gelişmelerini takip etmek için bizi izlemeye devam edin."
+  },
+  "tag_label_2": "BAĞLAM",
+  "tag_label_3": "ÖNE ÇIKAN RAKAM",
+  "tag_label_4": "DETAYLAR",
+  "tag_label_5": "NEDEN ÖNEMLİ?",
+  "tag_label_6": "ETKİLEŞİM",
+  "logo_svg": ""
+}

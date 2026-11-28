@@ -1,0 +1,35 @@
+{
+  "pipeline_version": 2,
+  "slot": "21:00",
+  "type": "news",
+  "model": "gemini-3.5-flash-lite",
+  "duration_seconds": 56.5,
+  "candidates_tried": 1,
+  "gemini_calls": 16,
+  "model_usage": {
+    "gemini-3.5-flash-lite": 16
+  },
+  "canonical_url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+  "entities": [
+    "Department for Work and Pensions",
+    "DWP",
+    "David Knott",
+    "John Curry",
+    "BBC Newsnight"
+  ],
+  "event_type": "cyber security incident",
+  "topic": "security",
+  "primary_entity": "",
+  "event_key": "pensions-and-benefits-services-still-dow",
+  "editorial": {
+    "index": 18,
+    "publishable": true,
+    "importance": 7,
+    "education_value": 0,
+    "topic": "security",
+    "primary_entity": "",
+    "event_key": "",
+    "reason": "İngiltere'de kamu hizmetlerini vuran siber olay."
+  },
+  "generated_at": "2026-11-28T21:09:10+03:00"
+}

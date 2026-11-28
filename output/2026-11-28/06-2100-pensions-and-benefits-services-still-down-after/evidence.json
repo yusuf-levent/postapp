@@ -1,0 +1,258 @@
+{
+  "title": "Pensions and benefits services still down after 'cyber incident'",
+  "canonical_url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+  "source_names": [
+    "BBC News – Technology",
+    "Engadget"
+  ],
+  "checked_at": "2026-11-28T21:08:30+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Çevrimiçi sosyal yardım ve emeklilik hizmetleri, siber olay nedeniyle cumartesi sabahı hala kapalıydı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+          "quote": "Online benefits and pensions services were still down on Saturday morning following a \"cyber incident\" which forced the government to take them offline."
+        },
+        {
+          "url": "https://www.engadget.com/2330021/uk-pulled-down-pensions-services-cyber-incident/",
+          "quote": "It remained inaccessible, as of Saturday morning in the UK."
+        }
+      ]
+    },
+    {
+      "claim": "Çalışma ve Emeklilik Bakanlığı (DWP), sistemlerin kapatılmasına neyin sebep olduğunu belirtmedi ancak hacklenmiş olabileceği ihtimalini dışlamadı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+          "quote": "The Department for Work and Pensions (DWP) has not specified what triggered it to shut down access late on Thursday but has not ruled out that it was hit by hackers."
+        }
+      ]
+    },
+    {
+      "claim": "Birleşik Krallık eski baş teknoloji sorumlusu David Knott, departmanın hackerlar tarafından hedef alındığına dair güçlü şüphesi olduğunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+          "quote": "The UK's former chief technology officer David Knott told BBC Newsnight his \"strong suspicion\" was that the department had been targeted by hackers."
+        }
+      ]
+    },
+    {
+      "claim": "Çalışma ve Emeklilik Bakanı Pat McFadden cuma günü ciddi bir siber olay yaşandığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+          "quote": "On Friday, Work and Pensions Secretary Pat McFadden said there had been a \"serious cyber incident\" without offering further details"
+        }
+      ]
+    },
+    {
+      "claim": "DWP her gün yaklaşık 2,5 milyon ödeme yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+          "quote": "The DWP makes around 2.5 million payments every day and is the primary source of income for millions of people."
+        }
+      ]
+    },
+    {
+      "claim": "21 yaşındaki Stockport'lu Jacob Dwight, Universal Credit hesabına erişemediği için gelirinin dörtte birini kaybedebileceğinden endişe ediyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+          "quote": "Jacob Dwight, 21, from Stockport, is concerned he could lose quarter of his income as he has been unable to access his Universal Credit account to explain why he missed a meeting."
+        }
+      ]
+    },
+    {
+      "claim": "Hükümet cuma günü yaptığı açıklamada hiçbir kişisel bilginin kaybolduğuna veya çalındığına inanmadığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+          "quote": "The government also said on Friday that it did not believe any personal information had been lost or stolen."
+        }
+      ]
+    },
+    {
+      "claim": "Hükümet cuma günü yaptığı açıklamada 210 milyon sterlinlik bir siber eylem planına işaret ederek siber güvenliği güçlendirmeye yatırım yaptıklarında ısrar etti.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Çevrimiçi sosyal yardım ve emeklilik hizmetleri, siber olay nedeniyle cumartesi sabahı hala kapalıydı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+          "quote": "Online benefits and pensions services were still down on Saturday morning following a \"cyber incident\" which forced the government to take them offline."
+        },
+        {
+          "url": "https://www.engadget.com/2330021/uk-pulled-down-pensions-services-cyber-incident/",
+          "quote": "It remained inaccessible, as of Saturday morning in the UK."
+        }
+      ]
+    },
+    {
+      "claim": "Çalışma ve Emeklilik Bakanlığı (DWP), sistemlerin kapatılmasına neyin sebep olduğunu belirtmedi ancak hacklenmiş olabileceği ihtimalini dışlamadı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+          "quote": "The Department for Work and Pensions (DWP) has not specified what triggered it to shut down access late on Thursday but has not ruled out that it was hit by hackers."
+        }
+      ]
+    },
+    {
+      "claim": "Birleşik Krallık eski baş teknoloji sorumlusu David Knott, departmanın hackerlar tarafından hedef alındığına dair güçlü şüphesi olduğunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+          "quote": "The UK's former chief technology officer David Knott told BBC Newsnight his \"strong suspicion\" was that the department had been targeted by hackers."
+        }
+      ]
+    },
+    {
+      "claim": "Çalışma ve Emeklilik Bakanı Pat McFadden cuma günü ciddi bir siber olay yaşandığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+          "quote": "On Friday, Work and Pensions Secretary Pat McFadden said there had been a \"serious cyber incident\" without offering further details"
+        }
+      ]
+    },
+    {
+      "claim": "DWP her gün yaklaşık 2,5 milyon ödeme yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+          "quote": "The DWP makes around 2.5 million payments every day and is the primary source of income for millions of people."
+        }
+      ]
+    },
+    {
+      "claim": "21 yaşındaki Stockport'lu Jacob Dwight, Universal Credit hesabına erişemediği için gelirinin dörtte birini kaybedebileceğinden endişe ediyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+          "quote": "Jacob Dwight, 21, from Stockport, is concerned he could lose quarter of his income as he has been unable to access his Universal Credit account to explain why he missed a meeting."
+        }
+      ]
+    },
+    {
+      "claim": "Hükümet cuma günü yaptığı açıklamada hiçbir kişisel bilginin kaybolduğuna veya çalındığına inanmadığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+          "quote": "The government also said on Friday that it did not believe any personal information had been lost or stolen."
+        }
+      ]
+    },
+    {
+      "claim": "Hükümet cuma günü yaptığı açıklamada 210 milyon sterlinlik bir siber eylem planına işaret ederek siber güvenliği güçlendirmeye yatırım yaptıklarında ısrar etti.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Çevrimiçi sosyal yardım ve emeklilik hizmetleri, siber olay nedeniyle cumartesi sabahı hala kapalıydı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+          "quote": "Online benefits and pensions services were still down on Saturday morning following a \"cyber incident\" which forced the government to take them offline."
+        },
+        {
+          "url": "https://www.engadget.com/2330021/uk-pulled-down-pensions-services-cyber-incident/",
+          "quote": "It remained inaccessible, as of Saturday morning in the UK."
+        }
+      ]
+    },
+    {
+      "claim": "Çalışma ve Emeklilik Bakanlığı (DWP), sistemlerin kapatılmasına neyin sebep olduğunu belirtmedi ancak hacklenmiş olabileceği ihtimalini dışlamadı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+          "quote": "The Department for Work and Pensions (DWP) has not specified what triggered it to shut down access late on Thursday but has not ruled out that it was hit by hackers."
+        }
+      ]
+    },
+    {
+      "claim": "Birleşik Krallık eski baş teknoloji sorumlusu David Knott, departmanın hackerlar tarafından hedef alındığına dair güçlü şüphesi olduğunu belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+          "quote": "The UK's former chief technology officer David Knott told BBC Newsnight his \"strong suspicion\" was that the department had been targeted by hackers."
+        }
+      ]
+    },
+    {
+      "claim": "Çalışma ve Emeklilik Bakanı Pat McFadden cuma günü ciddi bir siber olay yaşandığını açıkladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+          "quote": "On Friday, Work and Pensions Secretary Pat McFadden said there had been a \"serious cyber incident\" without offering further details"
+        }
+      ]
+    },
+    {
+      "claim": "DWP her gün yaklaşık 2,5 milyon ödeme yapmaktadır.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+          "quote": "The DWP makes around 2.5 million payments every day and is the primary source of income for millions of people."
+        }
+      ]
+    },
+    {
+      "claim": "21 yaşındaki Stockport'lu Jacob Dwight, Universal Credit hesabına erişemediği için gelirinin dörtte birini kaybedebileceğinden endişe ediyor.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+          "quote": "Jacob Dwight, 21, from Stockport, is concerned he could lose quarter of his income as he has been unable to access his Universal Credit account to explain why he missed a meeting."
+        }
+      ]
+    },
+    {
+      "claim": "Hükümet cuma günü yaptığı açıklamada hiçbir kişisel bilginin kaybolduğuna veya çalındığına inanmadığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+          "quote": "The government also said on Friday that it did not believe any personal information had been lost or stolen."
+        }
+      ]
+    },
+    {
+      "claim": "Hükümet cuma günü yaptığı açıklamada 210 milyon sterlinlik bir siber eylem planına işaret ederek siber güvenliği güçlendirmeye yatırım yaptıklarında ısrar etti.",
+      "verdict": "not_found",
+      "evidence": []
+    }
+  ],
+  "source_texts": {
+    "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss": 6327,
+    "https://www.engadget.com/2330021/uk-pulled-down-pensions-services-cyber-incident/": 1760
+  }
+}
