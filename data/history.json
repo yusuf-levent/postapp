@@ -10941,12 +10941,12 @@
       },
       {
         "platform": "linkedin",
-        "state": "submitted",
+        "state": "published",
         "external_id": "6b0aedb1be536564e43c5b5f",
-        "permalink": "",
+        "permalink": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7532459718112559104",
         "attempts": 1,
-        "last_error": "Buffer yayını henüz doğrulanmadı (sending).",
-        "remote_status": "sending",
+        "last_error": "",
+        "remote_status": "sent",
         "retry_at": 0
       },
       {
