@@ -1,0 +1,259 @@
+{
+  "title": "OpenAI countersues Apple and accuses it of stealing trade secrets",
+  "canonical_url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+  "source_names": [
+    "Engadget"
+  ],
+  "checked_at": "2026-11-28T12:03:10+03:00",
+  "accepted": true,
+  "reject_reason": "",
+  "claims": [
+    {
+      "claim": "Financial Times raporuna göre OpenAI, Apple aleyhine ticari sırların çalındığı iddiasıyla büyük bir dava açtı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "quote": "OpenAI has filed a major lawsuit against Apple that accuses the iPhone maker of stealing trade secrets, according to a report by Financial Times."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, Apple'ı her iki şirketle de çalışan tedarikçileri tehdit etmekle suçladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "quote": "The folks behind ChatGPT have also accused Apple of \"coercing and threatening\" suppliers who work with both companies."
+        }
+      ]
+    },
+    {
+      "claim": "Apple, daha önce OpenAI'a karşı ticari sır niteliğindeki bilgilerin çalındığı iddiasıyla bir dava açmıştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "quote": "This follows a suit issued by Apple against OpenAI that accused the AI company of stealing secret trade information."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, Apple'ın eski tasarım şefi Jony Ive tarafından yönetilen io adlı bir stüdyoyu satın aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "quote": "This was filed after OpenAI acquired an entity called io, which is a studio led by Apple's former design chief Jony Ive."
+        }
+      ]
+    },
+    {
+      "claim": "Apple, daha önce ChatGPT'nin özünde çürümüş olduğunu ifade etmişti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "quote": "At that point, Apple called ChatGPT \"rotten to its core.\""
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, Apple ile doğrudan rekabet edebilecek kendi donanım ürünleri serisini hazırladığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "quote": "Now OpenAI is prepping its own line of hardware products that could directly compete with Apple."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, eski bir çalışanın Apple'a geri dönerek ürün planları ve tedarikçiler hakkında detaylar paylaştığını iddia etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "quote": "To that end, the company has accused a former employee of returning to Apple and sharing details about product plans and suppliers."
+        }
+      ]
+    },
+    {
+      "claim": "Apple'ın açtığı dava dosyasında, eski çalışanların gizli donanım dosyalarını ve unreleased ürün bilgilerini izinsiz indirdiği belirtildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "quote": "That filing names several former Apple employees and says they \"surreptitiously accessed and downloaded dozens of Apple's confidential hardware-related files, including voluminous, detailed information about unreleased products, engineering presentations, technical specifications and proprietary project data.\""
+        }
+      ]
+    }
+  ],
+  "round1": [
+    {
+      "claim": "Financial Times raporuna göre OpenAI, Apple aleyhine ticari sırların çalındığı iddiasıyla büyük bir dava açtı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "quote": "OpenAI has filed a major lawsuit against Apple that accuses the iPhone maker of stealing trade secrets, according to a report by Financial Times."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, Apple'ı her iki şirketle de çalışan tedarikçileri tehdit etmekle suçladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "quote": "The folks behind ChatGPT have also accused Apple of \"coercing and threatening\" suppliers who work with both companies."
+        }
+      ]
+    },
+    {
+      "claim": "Apple, daha önce OpenAI'a karşı ticari sır niteliğindeki bilgilerin çalındığı iddiasıyla bir dava açmıştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "quote": "This follows a suit issued by Apple against OpenAI that accused the AI company of stealing secret trade information."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, Apple'ın eski tasarım şefi Jony Ive tarafından yönetilen io adlı bir stüdyoyu satın aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "quote": "This was filed after OpenAI acquired an entity called io, which is a studio led by Apple's former design chief Jony Ive."
+        }
+      ]
+    },
+    {
+      "claim": "Apple, daha önce ChatGPT'nin özünde çürümüş olduğunu ifade etmişti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "quote": "At that point, Apple called ChatGPT \"rotten to its core.\""
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, Apple ile doğrudan rekabet edebilecek kendi donanım ürünleri serisini hazırladığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "quote": "Now OpenAI is prepping its own line of hardware products that could directly compete with Apple."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, eski bir çalışanın Apple'a geri dönerek ürün planları ve tedarikçiler hakkında detaylar paylaştığını iddia etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "quote": "To that end, the company has accused a former employee of returning to Apple and sharing details about product plans and suppliers."
+        }
+      ]
+    },
+    {
+      "claim": "Apple'ın açtığı dava dosyasında, eski çalışanların gizli donanım dosyalarını ve unreleased ürün bilgilerini izinsiz indirdiği belirtildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "quote": "That filing names several former Apple employees and says they \"surreptitiously accessed and downloaded dozens of Apple's confidential hardware-related files, including voluminous, detailed information about unreleased products, engineering presentations, technical specifications and proprietary project data.\""
+        }
+      ]
+    }
+  ],
+  "round2": [
+    {
+      "claim": "Financial Times raporuna göre OpenAI, Apple aleyhine ticari sırların çalındığı iddiasıyla büyük bir dava açtı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "quote": "OpenAI has filed a major lawsuit against Apple that accuses the iPhone maker of stealing trade secrets, according to a report by Financial Times."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, Apple'ı her iki şirketle de çalışan tedarikçileri tehdit etmekle suçladı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "quote": "The folks behind ChatGPT have also accused Apple of \"coercing and threatening\" suppliers who work with both companies."
+        }
+      ]
+    },
+    {
+      "claim": "Apple, daha önce OpenAI'a karşı ticari sır niteliğindeki bilgilerin çalındığı iddiasıyla bir dava açmıştı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "quote": "This follows a suit issued by Apple against OpenAI that accused the AI company of stealing secret trade information."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, Apple'ın eski tasarım şefi Jony Ive tarafından yönetilen io adlı bir stüdyoyu satın aldı.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "quote": "This was filed after OpenAI acquired an entity called io, which is a studio led by Apple's former design chief Jony Ive."
+        }
+      ]
+    },
+    {
+      "claim": "Apple, daha önce ChatGPT'nin özünde çürümüş olduğunu ifade etmişti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "quote": "At that point, Apple called ChatGPT \"rotten to its core.\""
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, Apple ile doğrudan rekabet edebilecek kendi donanım ürünleri serisini hazırladığını belirtti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "quote": "Now OpenAI is prepping its own line of hardware products that could directly compete with Apple."
+        }
+      ]
+    },
+    {
+      "claim": "OpenAI, eski bir çalışanın Apple'a geri dönerek ürün planları ve tedarikçiler hakkında detaylar paylaştığını iddia etti.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "quote": "To that end, the company has accused a former employee of returning to Apple and sharing details about product plans and suppliers."
+        }
+      ]
+    },
+    {
+      "claim": "Apple'ın açtığı dava dosyasında, eski çalışanların gizli donanım dosyalarını ve unreleased ürün bilgilerini izinsiz indirdiği belirtildi.",
+      "verdict": "supported",
+      "evidence": [
+        {
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "quote": "That filing names several former Apple employees and says they \"surreptitiously accessed and downloaded dozens of Apple's confidential hardware-related files, including voluminous, detailed information about unreleased products, engineering presentations, technical specifications and proprietary project data.\""
+        }
+      ]
+    }
+  ],
+  "source_texts": {
+    "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/": 2166
+  }
+}
